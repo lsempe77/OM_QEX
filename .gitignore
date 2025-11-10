@@ -13,6 +13,9 @@ venv/
 # Data files (optional - uncomment to exclude large data files)
 # data/grobid_outputs/
 
+# PDFs
+*.pdf
+
 # Outputs
 *.log
 om_qex_extraction/outputs/

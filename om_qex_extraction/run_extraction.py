@@ -49,7 +49,8 @@ def main():
         tei_files = all_tei_files[:args.sample]
         print(f"📊 SAMPLE MODE: Running on {len(tei_files)} papers")
     elif args.keys:
-        tei_files = [f for f in all_tei_files if f.stem in args.keys]
+        # Extract key from filename (remove .tei.xml extension)
+        tei_files = [f for f in all_tei_files if f.name.replace('.tei.xml', '') in args.keys]
         print(f"🎯 SPECIFIC KEYS: Running on {len(tei_files)} papers")
         if len(tei_files) != len(args.keys):
             print(f"⚠️  Warning: Found {len(tei_files)} of {len(args.keys)} requested keys")

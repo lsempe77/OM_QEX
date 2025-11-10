@@ -42,12 +42,39 @@ Manually extracted data from studies - serves as:
 - **Training data** for prompt engineering
 - **Quality benchmark** for automated extraction validation
 
-**Files:**
-- **Extraction forms (CSV):**
-  - `8 week SR QEX Pierre SOF and TEEP(Quant Extraction Form).csv` - Quantitative extraction
-  - `8WR OM SOF - LLM Test(8wr).csv` - LLM test dataset
+### Files
 
-- **Original PDFs (for reference):**
+**Main extraction form:**
+- `8 week SR QEX Pierre SOF and TEEP(Quant Extraction Form).csv` - Quantitative extraction
+  - **3 studies** total (121294984, 121058364, 121498842)
+  - **2 studies** in master file (121294984, 121058364)
+  - Study 121498842 NOT in master (excluded from final dataset)
+  - Multiple rows per study (different outcomes/estimates)
+  - Study 121294984 has **9 outcome rows**
+
+**Test dataset:**
+- `8WR OM SOF - LLM Test(8wr).csv` - LLM test dataset
+
+### Test Papers for Comparison
+
+| Study ID | Key | Author | Year | Program | Country | Rows | In Master |
+|----------|-----|--------|------|---------|---------|------|-----------|
+| 121294984 | PHRKN65M | Burchi & Strupat | 2018 | Tingathe EEP (TEEP) | Malawi | 9 | ✅ Yes |
+| 121058364 | ABM3E3ZP | Maldonado et al. | 2019 | Sembrando Oportunidades (SOF) | Paraguay | ? | ✅ Yes |
+| 121498842 | - | Mahecha et al. | - | SOF | Paraguay | ? | ❌ No |
+
+**For testing:**
+```powershell
+# Extract the 2 papers with GROBID files
+python run_extraction.py --keys PHRKN65M ABM3E3ZP
+
+# Compare against human extraction
+python compare_extractions.py
+```
+
+**Expected:** Only 1-2 papers will match in comparison (study ID matching).
+
+**Original PDFs (for reference):**
   - `121058364.pdf` - Maldonado (2019) - Sembrando Oportunidades (SOF), Paraguay
   - `121294984.pdf` - TEEP program paper
   - `121498842.pdf` - Additional reference paper

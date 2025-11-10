@@ -339,12 +339,16 @@ class ExtractionComparer:
                                 'savings', 'coaching', 'social_empowerment']:
                     grad_components = llm_row.get('graduation_components', {})
                     if isinstance(grad_components, str):
-                        # Parse JSON string if needed
+                        # Parse string (try JSON first, then Python dict literal)
                         try:
                             import json
                             grad_components = json.loads(grad_components)
                         except:
-                            grad_components = {}
+                            try:
+                                import ast
+                                grad_components = ast.literal_eval(grad_components)
+                            except:
+                                grad_components = {}
                     llm_val = grad_components.get(llm_field) if isinstance(grad_components, dict) else None
                 
                 human_val = human_row.get(human_field)
