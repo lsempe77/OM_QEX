@@ -7,7 +7,7 @@ A curated dataset of 95 papers on poverty graduation programs with full-text ext
 ```
 OM_QEX/
 ├── data/
-│   ├── raw/                  # 4 CSV metadata files
+│   ├── raw/                  # 3 CSV metadata files
 │   └── grobid_outputs/       # 95 papers × 2 formats (TEI XML + TXT)
 ├── scripts/                  # 2 core processing scripts
 └── outputs/                  # Analysis results
@@ -19,7 +19,6 @@ OM_QEX/
 
 ### Raw Data (`data/raw/`)
 - **Master file (n=95)** - Primary dataset with study metadata
-- **Grad approaches FTR & grey lit** - Extended literature (1,312 records)
 - **fulltext_metadata** - Links paper IDs to GROBID outputs
 
 ### Full-Text Outputs (`data/grobid_outputs/`)
@@ -48,6 +47,5 @@ cd OM_QEX
 
 ## 📝 Notes
 
-- 81 of 95 studies have matched keys linking to the extended literature
 - Full-text processing performed using GROBID
 - All IDs cross-referenced via fulltext_metadata.csv
