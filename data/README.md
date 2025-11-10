@@ -14,7 +14,18 @@
    - Mapping file linking paper IDs to GROBID output Keys
    - Essential for connecting master file IDs to full-text files
 
-## 📄 GROBID Outputs (`grobid_outputs/`)
+## � Human Extraction (`human_extraction/`)
+
+Manually extracted data from studies - serves as:
+- **Ground truth** for LLM extraction comparison
+- **Training data** for prompt engineering
+- **Quality benchmark** for automated extraction validation
+
+Files:
+- Quantitative extraction forms
+- LLM test datasets
+
+## �📄 GROBID Outputs (`grobid_outputs/`)
 
 Full-text extractions from 95 PDFs:
 

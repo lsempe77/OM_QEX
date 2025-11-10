@@ -8,6 +8,7 @@ A curated dataset of 95 papers on poverty graduation programs with full-text ext
 OM_QEX/
 ├── data/
 │   ├── raw/                  # 3 CSV metadata files
+│   ├── human_extraction/     # Manual extractions (ground truth)
 │   └── grobid_outputs/       # 95 papers × 2 formats (TEI XML + TXT)
 ├── scripts/                  # 2 core processing scripts
 └── outputs/                  # Analysis results
@@ -20,6 +21,11 @@ OM_QEX/
 ### Raw Data (`data/raw/`)
 - **Master file (n=95)** - Primary dataset with study metadata
 - **fulltext_metadata** - Links paper IDs to GROBID outputs
+
+### Human Extraction (`data/human_extraction/`)
+- **Manual data extraction** - Ground truth for comparison with LLM extraction
+- **Prompt engineering input** - Reference data for developing extraction prompts
+- **Quality benchmark** - Validation standard for automated extraction
 
 ### Full-Text Outputs (`data/grobid_outputs/`)
 - **tei/** - 95 TEI XML files (structured with sections, references, metadata)
