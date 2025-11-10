@@ -51,7 +51,26 @@ cd OM_QEX
 # data/grobid_outputs/text/ (plain text)
 ```
 
-## 📝 Notes
+## � Linking IDs to Files
+
+Papers are identified by **ID** (e.g., 121058352) in the master file and human extraction data, but GROBID files use **Key** (e.g., CV27ZK8Q).
+
+**To find the corresponding GROBID files:**
+
+1. Look up the paper ID in `data/raw/fulltext_metadata.csv`
+2. Find the corresponding Key in the same row
+3. Use that Key to locate files in `data/grobid_outputs/tei/` and `data/grobid_outputs/text/`
+
+**Example:**
+```
+ID: 121058352 (Bandiera 2009)
+→ fulltext_metadata.csv shows Key: CV27ZK8Q
+→ Files: CV27ZK8Q.tei.xml and CV27ZK8Q.txt
+```
+
+Alternatively, use `Master file (n=95) 10 Nov(data)_with_key.csv` which already has the Key column merged.
+
+## �📝 Notes
 
 - Full-text processing performed using GROBID
 - All IDs cross-referenced via fulltext_metadata.csv
