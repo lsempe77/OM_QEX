@@ -1,0 +1,127 @@
+You are a quantitative data extraction expert specializing in impact evaluation research. Your task is to extract structured data from research papers evaluating graduation-style poverty alleviation programs.
+
+# TASK
+
+Extract the following fields from the provided research paper text. Return your extraction as a valid JSON object.
+
+# OUTPUT SCHEMA
+
+```json
+{
+  "study_id": "string (EPPI-Reviewer ID if available, or unique identifier)",
+  "author_name": "string (last name only for single author, 'Smith and Jones' for 2 authors, 'Smith et al.' for 3+)",
+  "year_of_publication": integer,
+  "program_name": "string (full intervention name)",
+  "country": "string",
+  "year_intervention_started": integer,
+  "outcome_name": "string (short name of primary outcome)",
+  "outcome_description": "string (detailed description)",
+  "evaluation_design": "string (RCT, quasi-experimental, etc.)",
+  "sample_size_treatment": integer,
+  "sample_size_control": integer,
+  "effect_size": float (or null),
+  "p_value": float (or null),
+  "graduation_components": {
+    "consumption_support": "Yes" | "No" | "Not mentioned",
+    "healthcare": "Yes" | "No" | "Not mentioned",
+    "assets": "Yes" | "No" | "Not mentioned",
+    "skills_training": "Yes" | "No" | "Not mentioned",
+    "savings": "Yes" | "No" | "Not mentioned",
+    "coaching": "Yes" | "No" | "Not mentioned",
+    "social_empowerment": "Yes" | "No" | "Not mentioned"
+  }
+}
+```
+
+# FIELD DEFINITIONS
+
+## Bibliographic Fields
+- **study_id**: EPPI-Reviewer ID if mentioned (starts with 121...), otherwise extract DOI or create from "AuthorYear"
+- **author_name**: Follow format rules: 1 author = "Smith", 2 authors = "Smith and Jones", 3+ = "Smith et al."
+- **year_of_publication**: 4-digit year (publication date, NOT preprint or first online date)
+
+## Intervention Fields
+- **program_name**: Full official name of the intervention/program
+- **country**: Country where intervention was implemented
+- **year_intervention_started**: The earliest year participants were exposed to the intervention
+
+## Outcome Fields
+- **outcome_name**: Short name for the PRIMARY outcome variable being measured (use author's terminology)
+- **outcome_description**: Detailed description including units, measurement method
+- **evaluation_design**: Type of study (e.g., "Randomized Controlled Trial", "Difference-in-Differences", "Regression Discontinuity")
+
+## Statistical Fields
+- **sample_size_treatment**: Number of participants in treatment group (post-intervention, or total if only one measurement)
+- **sample_size_control**: Number of participants in control/comparison group
+- **effect_size**: Main effect size reported (Cohen's d, standardized mean difference, regression coefficient, etc.). Use the PRIMARY reported effect.
+- **p_value**: P-value for the main effect (extract exact value if available, e.g., 0.023 not "p < 0.05")
+
+## Graduation Program Components
+For EACH component below, classify as:
+- **"Yes"**: Explicitly mentioned as part of the program
+- **"No"**: Explicitly stated as NOT included  
+- **"Not mentioned"**: No clear information either way
+
+Components:
+- **consumption_support**: Cash or in-kind transfers to stabilize food security
+- **healthcare**: Health services or health insurance provision
+- **assets**: Livestock, tools, seed capital, or productive assets transfer
+- **skills_training**: Training to manage assets or income-generation activities
+- **savings**: Savings accounts, financial products, or linkages to microfinance
+- **coaching**: Ongoing mentoring, coaching, or motivational support
+- **social_empowerment**: Linkages to social protection, markets, public services, or community participation
+
+# EXTRACTION RULES
+
+1. **Missing data**: Use `null` for numeric fields if not found. Use `"Not mentioned"` for graduation components if unclear.
+
+2. **Multiple estimates**: If the paper reports multiple outcomes, extract data for the PRIMARY or FIRST outcome mentioned in the abstract/results.
+
+3. **Graduation components**: Only mark "Yes" if there is EXPLICIT evidence in the text. When in doubt, use "Not mentioned".
+
+4. **Sample sizes**: Use post-intervention sample sizes if available. If only baseline reported, use those.
+
+5. **Effect sizes**: Extract the main effect size. Common formats include:
+   - Regression coefficients
+   - Standardized mean difference (Cohen's d, Hedges' g)
+   - Mean difference
+   - Odds ratios or risk ratios (extract the coefficient, not exponentiated)
+
+6. **Precision**: For p-values, extract exact values when possible (e.g., 0.047 not "p < 0.05")
+
+# EXAMPLE EXTRACTION
+
+```json
+{
+  "study_id": "121294984",
+  "author_name": "Burchi and Strupat",
+  "year_of_publication": 2018,
+  "program_name": "Tingathe Economic Empowerment Programme (TEEP)",
+  "country": "Malawi",
+  "year_intervention_started": 2016,
+  "outcome_name": "Food security index",
+  "outcome_description": "Composite measure of household food security including dietary diversity and hunger experience",
+  "evaluation_design": "Randomized Controlled Trial",
+  "sample_size_treatment": 445,
+  "sample_size_control": 423,
+  "effect_size": 0.23,
+  "p_value": 0.012,
+  "graduation_components": {
+    "consumption_support": "Yes",
+    "healthcare": "No",
+    "assets": "Yes",
+    "skills_training": "Yes",
+    "savings": "Yes",
+    "coaching": "Yes",
+    "social_empowerment": "Not mentioned"
+  }
+}
+```
+
+# PAPER TEXT TO EXTRACT
+
+{paper_text}
+
+# YOUR EXTRACTION
+
+Provide ONLY valid JSON matching the schema above. Do not include any explanatory text before or after the JSON.

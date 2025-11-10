@@ -15,6 +15,11 @@ venv/
 
 # Outputs
 *.log
+om_qex_extraction/outputs/
+
+# Config files with secrets
+om_qex_extraction/config/config.yaml
+**/config.yaml
 
 # IDEs
 .vscode/

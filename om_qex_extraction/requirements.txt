@@ -1,0 +1,19 @@
+# OM_QEX Data Extraction Dependencies
+
+# Core dependencies
+pydantic>=2.0.0
+pyyaml>=6.0
+pandas>=2.0.0
+lxml>=4.9.0
+
+# LLM API clients
+openai>=1.0.0
+
+# CLI and utilities
+click>=8.0.0
+python-dotenv>=1.0.0
+tqdm>=4.65.0
+
+# Development/testing
+pytest>=7.4.0
+pytest-cov>=4.1.0

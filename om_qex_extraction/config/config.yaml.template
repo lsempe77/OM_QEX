@@ -1,0 +1,135 @@
+# OM_QEX Extraction Configuration Template
+# Copy this file to config.yaml and add your actual API key
+
+# ============================================================================
+# API Configuration
+# ============================================================================
+
+api:
+  # OpenRouter API for accessing multiple LLM providers
+  openrouter:
+    api_key: "YOUR_OPENROUTER_API_KEY_HERE"  # Get from https://openrouter.ai/keys
+    base_url: "https://openrouter.ai/api/v1"
+
+# ============================================================================
+# Model Selection
+# ============================================================================
+
+model:
+  # Provider: 'openrouter' or 'openai'
+  provider: "openrouter"
+  
+  # Model to use for extraction
+  # Using Claude 3.5 Haiku for fast, accurate structured output
+  name: "anthropic/claude-3.5-haiku"
+  
+  # Generation parameters
+  temperature: 0.0  # Low temperature for consistent extraction
+  max_tokens: 4000  # Enough for structured JSON output
+  top_p: 1.0
+
+# ============================================================================
+# Extraction Configuration
+# ============================================================================
+
+extraction:
+  # Batch processing
+  batch_size: 5  # Process N papers at a time
+  
+  # Retry logic
+  max_retries: 3
+  retry_delay: 2  # seconds
+  
+  # Output format
+  save_json: true  # Save individual JSON files
+  save_csv: true   # Save consolidated CSV
+  
+  # Validation
+  validate_schema: true  # Validate against Pydantic models
+  validate_ranges: true  # Check numeric ranges (years, p-values, etc.)
+
+# ============================================================================
+# Data Paths
+# ============================================================================
+
+paths:
+  # Input data
+  master_file: "data/raw/Master file of included studies (n=95) 10 Nov(data)_with_key.csv"
+  metadata_file: "data/raw/fulltext_metadata.csv"
+  grobid_tei_dir: "data/grobid_outputs/tei"
+  grobid_text_dir: "data/grobid_outputs/text"
+  
+  # Human extraction for comparison
+  human_extraction: "data/human_extraction/8 week SR QEX Pierre SOF and TEEP(Quant Extraction Form).csv"
+  
+  # Output paths
+  output_dir: "om_qex_extraction/outputs/extractions"
+  json_dir: "om_qex_extraction/outputs/extractions/json"
+  csv_file: "om_qex_extraction/outputs/extractions/extracted_data.csv"
+  
+  # Logs
+  log_file: "om_qex_extraction/outputs/extraction.log"
+
+# ============================================================================
+# Prompt Configuration
+# ============================================================================
+
+prompts:
+  # Main extraction prompt template
+  extraction_template: "om_qex_extraction/prompts/extraction_prompt.txt"
+  
+  # Include examples from human extraction
+  include_examples: true
+  num_examples: 2  # Number of example extractions to include
+
+# ============================================================================
+# Field Groups (for staged extraction if needed)
+# ============================================================================
+
+field_groups:
+  # Option to extract in stages rather than all at once
+  # Set enabled: true to use staged extraction
+  enabled: false
+  
+  groups:
+    - name: "bibliographic"
+      fields: ["publication_info", "general_info"]
+    
+    - name: "intervention"
+      fields: ["intervention_info", "method_info"]
+    
+    - name: "outcomes"
+      fields: ["outcome_info", "treatment_variable_info", "estimate_info"]
+    
+    - name: "statistics"
+      fields: ["estimate_data"]
+
+# ============================================================================
+# Logging
+# ============================================================================
+
+logging:
+  level: "INFO"  # DEBUG, INFO, WARNING, ERROR
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  console: true  # Print to console
+  file: true     # Write to log file
+
+# ============================================================================
+# Comparison with Human Extraction
+# ============================================================================
+
+comparison:
+  enabled: true
+  
+  # Fields to compare (skip timestamp, coder, etc.)
+  skip_fields:
+    - "extraction_timestamp"
+    - "extraction_version"
+    - "coder_name"
+    - "notes"
+  
+  # Tolerance for numeric comparisons
+  numeric_tolerance: 0.01  # Consider values within 1% as matching
+  
+  # Output
+  comparison_report: "om_qex_extraction/outputs/comparison_report.csv"
