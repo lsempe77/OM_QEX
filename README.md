@@ -1,47 +1,53 @@
-# OM_QEX Project
+# OM_QEX - Outcome Mapping Quality of Evidence Exchange
 
-## Project Structure
+A curated dataset of 95 papers on poverty graduation programs with full-text extractions.
+
+## 📁 Structure
 
 ```
 OM_QEX/
-├── data/                          # Data files
-│   ├── raw/                       # Original CSV files and metadata
-│   ├── processed/                 # Processed and cleaned data
-│   └── grobid_outputs/           # GROBID processed PDFs
-│       ├── tei/                   # TEI XML format
-│       └── text/                  # Plain text format
-├── scripts/                       # Python scripts
-├── docs/                          # Documentation
-└── outputs/                       # Analysis results
+├── data/
+│   ├── raw/                  # 4 CSV metadata files
+│   └── grobid_outputs/       # 95 papers × 2 formats (TEI XML + TXT)
+├── scripts/                  # 2 core processing scripts
+└── outputs/                  # Analysis results
 ```
 
-## Data Files
+## 📊 Dataset
 
-### Raw Data
-- `Master file of included studies (n=95) 10 Nov(data).csv` - Original master file (95 studies)
-- `Master file of included studies (n=95) 10 Nov(data)_with_key.csv` - Master file with added Key column
-- `Grad approaches FTR & grey lit.csv` - Graduate approaches literature (1312 records)
-- `fulltext_metadata.csv` - Metadata linking paper IDs to GROBID output keys
+**95 included studies** on poverty graduation and ultra-poor programs
 
-### GROBID Outputs
-- 95 TEI XML files (structured full text)
-- 95 TXT files (plain text extraction)
+### Raw Data (`data/raw/`)
+- **Master file (n=95)** - Primary dataset with study metadata
+- **Grad approaches FTR & grey lit** - Extended literature (1,312 records)
+- **fulltext_metadata** - Links paper IDs to GROBID outputs
 
-## Scripts
+### Full-Text Outputs (`data/grobid_outputs/`)
+- **tei/** - 95 TEI XML files (structured with sections, references, metadata)
+- **text/** - 95 plain text files (cleaned full-text extraction)
 
-- `add_key_column.py` - Adds Key column to master file by matching EPPI-Reviewer IDs
-- `copy_files_by_key.py` - Copies GROBID outputs based on master file IDs
-- Additional utility scripts for data processing
+## 🛠️ Scripts
 
-## Getting Started
+- `add_key_column.py` - Matches and adds Key column to master file via EPPI-Reviewer IDs
+- `copy_files_by_key.py` - Extracts GROBID outputs for specific paper IDs
 
-1. Review the data files in `data/raw/`
-2. GROBID outputs are available in `data/grobid_outputs/`
-3. Run analysis scripts from the `scripts/` folder
-4. Save results to `outputs/`
+## 🚀 Quick Start
 
-## Notes
+```bash
+# Clone the repository
+git clone https://github.com/lsempe77/OM_QEX.git
+cd OM_QEX
 
-- The Key column links records between the Grad approaches file and GROBID outputs
-- Master file IDs are linked to GROBID files via the fulltext_metadata.csv mapping
-- 81 out of 95 studies have matched keys from the Grad approaches dataset
+# View master dataset
+# data/raw/Master file of included studies (n=95) 10 Nov(data)_with_key.csv
+
+# Access full-text files
+# data/grobid_outputs/tei/  (structured XML)
+# data/grobid_outputs/text/ (plain text)
+```
+
+## 📝 Notes
+
+- 81 of 95 studies have matched keys linking to the extended literature
+- Full-text processing performed using GROBID
+- All IDs cross-referenced via fulltext_metadata.csv
