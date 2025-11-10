@@ -35,9 +35,17 @@ Manually extracted data from studies - serves as:
 - **Training data** for prompt engineering
 - **Quality benchmark** for automated extraction validation
 
-Files:
-- Quantitative extraction forms
-- LLM test datasets
+**Files:**
+- **Extraction forms (CSV):**
+  - `8 week SR QEX Pierre SOF and TEEP(Quant Extraction Form).csv` - Quantitative extraction
+  - `8WR OM SOF - LLM Test(8wr).csv` - LLM test dataset
+
+- **Original PDFs (for reference):**
+  - `121058364.pdf` - Maldonado (2019) - Sembrando Oportunidades (SOF), Paraguay
+  - `121294984.pdf` - TEEP program paper
+  - `121498842.pdf` - Additional reference paper
+
+**Note:** PDFs use ID naming (121...). To find these same papers in GROBID outputs, use fulltext_metadata.csv to map ID → Key.
 
 ## �📄 GROBID Outputs (`grobid_outputs/`)
 
