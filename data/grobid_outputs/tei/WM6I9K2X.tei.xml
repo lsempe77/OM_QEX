@@ -1,0 +1,1265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" xml:id="_urk2XfT">Grow the pie or have it? Using machine learning for impact heterogeneity in the Ultra-poor Graduation Model</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Mauricio</forename><forename type="middle">Andrés</forename><surname>Misas</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Ruiz</forename><surname>Diagramación</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Marcela</forename><surname>Londoño Gómez</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Reajul</forename><surname>Chowdhury</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Federico</forename><surname>Ceballos-Sierra</surname></persName>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Munshi</forename><surname>Sulaiman</surname></persName>
+							<email>munshi.sulaiman@brac.net.</email>
+							<affiliation key="aff5">
+								<orgName type="department">Regional Research Lead BRAC International</orgName>
+								<address>
+									<settlement>Kampala</settlement>
+									<country key="UG">Uganda</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="institution">Fondo Editorial EIA Sede</orgName>
+								<address>
+									<addrLine>Las Palmas: Km. 2 + 200 vía al Aeropuerto José María Córdova.</addrLine>
+									<settlement>Envigado</settlement>
+									<country key="CO">Colombia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="laboratory">reproducción de este documento bajo la debida citación de sus autores. Este documento es responsabilidad de sus autores y no compromete el pensamiento de la Universidad EIA ni de ninguno de sus órganos</orgName>
+								<orgName type="institution" key="instit1">Envigado</orgName>
+								<orgName type="institution" key="instit2">Fondo Editorial EIA</orgName>
+								<address>
+									<addrLine>. Se permite la</addrLine>
+									<postCode>2021</postCode>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Agricultural and Consumer Economics</orgName>
+								<orgName type="institution" key="instit1">de gobierno</orgName>
+								<orgName type="institution" key="instit2">Universi- ty of Illinois at Urbana-Champaign</orgName>
+								<address>
+									<settlement>Urbana</settlement>
+									<region>Illinois</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Agricultural and Consumer Economics</orgName>
+								<orgName type="institution">University of Illinois at Urbana-Champaign Urbana</orgName>
+								<address>
+									<region>Illinois</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Economic and Managerial Sciences</orgName>
+								<orgName type="institution">Universidad EIA. Envigado</orgName>
+								<address>
+									<settlement>Antioquia</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main" xml:id="_wntMapP">Grow the pie or have it? Using machine learning for impact heterogeneity in the Ultra-poor Graduation Model</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">696D4BDF000D40CC88B3270F1C9B4F8E</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2025-11-05T00:57+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a292bac</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=1, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=true, generateTeiCoordinates=[true], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term xml:id="_qDep6jy">Ultra-poor</term>
+					<term xml:id="_M4c2NUD">Impact heterogeneity</term>
+					<term xml:id="_xtEWF4Y">Machine Learning</term>
+					<term xml:id="_zXrPsFW">Bangladesh. JEL Classification: O12</term>
+					<term xml:id="_4wDRaCy">I39</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_E7H2Avk"><p xml:id="_EmtEeeh">Anti-poverty interventions often face a trade-off between immediate reduction in poverty, measured by consumption, and building assets for longer-term gains. An "Ultra-poor Graduation" model, found effective on both dimensions in several rigorous studies, generally leans towards asset building. By using data from a large-scale RCT in Bangladesh, we find significant variation in impact on assets where the top quintile gainers experience asset growth of 344% while asset growth is only 192% for the bottom quintile. Heterogeneity in impact on household expenditures is found to be present but of lower magnitude than that of assets. Importantly, the machine learning techniques we apply reveal contrasts in characteristics of beneficiaries who made the most in assets vs. consumption. The results identify beneficiary characteristics that can be used in targeting households either to maximize impact on the desired dimension and/or to customize interventions for balancing the asset and consumption trade-off.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="510.236" lry="680.315"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="510.236" lry="680.315"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="510.236" lry="680.315"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="510.236" lry="680.315"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="510.236" lry="680.315"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="510.236" lry="680.315"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="510.236" lry="680.315"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="510.236" lry="680.315"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="510.236" lry="680.315"/>
+		<surface n="10" ulx="0.0" uly="0.0" lrx="510.236" lry="680.315"/>
+		<surface n="11" ulx="0.0" uly="0.0" lrx="510.236" lry="680.315"/>
+		<surface n="12" ulx="0.0" uly="0.0" lrx="510.236" lry="680.315"/>
+		<surface n="13" ulx="0.0" uly="0.0" lrx="510.236" lry="680.315"/>
+		<surface n="14" ulx="0.0" uly="0.0" lrx="510.236" lry="680.315"/>
+		<surface n="15" ulx="0.0" uly="0.0" lrx="510.236" lry="680.315"/>
+		<surface n="16" ulx="0.0" uly="0.0" lrx="510.236" lry="680.315"/>
+		<surface n="17" ulx="0.0" uly="0.0" lrx="510.236" lry="680.315"/>
+		<surface n="18" ulx="0.0" uly="0.0" lrx="510.236" lry="680.315"/>
+		<surface n="19" ulx="0.0" uly="0.0" lrx="510.236" lry="680.315"/>
+		<surface n="20" ulx="0.0" uly="0.0" lrx="510.236" lry="680.315"/>
+		<surface n="21" ulx="0.0" uly="0.0" lrx="510.236" lry="680.315"/>
+		<surface n="22" ulx="0.0" uly="0.0" lrx="510.236" lry="680.315"/>
+		<surface n="23" ulx="0.0" uly="0.0" lrx="510.236" lry="680.315"/>
+		<surface n="24" ulx="0.0" uly="0.0" lrx="510.236" lry="680.315"/>
+		<surface n="25" ulx="0.0" uly="0.0" lrx="510.236" lry="680.315"/>
+		<surface n="26" ulx="0.0" uly="0.0" lrx="510.236" lry="680.315"/>
+		<surface n="27" ulx="0.0" uly="0.0" lrx="510.236" lry="680.315"/>
+		<surface n="28" ulx="0.0" uly="0.0" lrx="510.236" lry="680.315"/>
+		<surface n="29" ulx="0.0" uly="0.0" lrx="510.236" lry="680.315"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_XqwVbyt">I. Introduction</head><p xml:id="_hPjDZxn">Achieving the global ambition of ending poverty in all its forms everywhere by 2030, as postulated in the first sustainable development goal (SDG), will require scaling up successful poverty alleviating programs that lift people out of poverty and sustain their impacts over the long-term. However, there is an inherent trade-off in anti-poverty programs between supporting immediate reduction in poverty (generally measured by consumption or expenditure) and encouraging asset accumulation for relatively longer-term change in poverty. This trade-off is indirectly discussed in poverty trap literature where the empirical evidence is mixed, but asset-based poverty dynamic generally found to be more salient than consumption or income-based measures (e.g. <ref type="bibr" target="#b21">Ikegami et al. 2016;</ref><ref type="bibr" target="#b13">Carter and Barrett 2006;</ref><ref type="bibr" target="#b29">Quisumbing and Baulch 2013)</ref>. In a more recent paper, <ref type="bibr">Balboni et al (2021)</ref> find evidence of the poverty traps by looking at the impact of asset transfer, where being above or below a threshold results in asset accumulation or depletion. In terms of impact analysis of different types of interventions, a meta-analysis of cost-effectiveness of alternative livelihood support interventions by <ref type="bibr" target="#b34">Sulaiman (2018)</ref> also reveals this trade-off whereby unconditional cash transfers are more attractive in the short-run whereas more comprehensive interventions fare better in the long run. Therefore, being able to identify characteristics of households who are likely to have lower impacts on assets can improve the efficiency of programs that are focused on livelihoods development by giving more emphasis on their asset building through varying transfer amounts and/or technical supports.</p><p xml:id="_YZxYQ9V">In this paper, we look at this trade-off among the beneficiaries of an ultra-poor graduation model, which is considered as an effective approach for addressing poverty in the short run, and the impacts are also sustained over several years post interventions. Although the average effects of this model are generally positive for both asset accumulation and consumption, there still exists a trade-off between the two domains. Using machine learning tools, we investigate whether there are systematic differences between the participants of a graduation program in Bangladesh who gain more in either household expenditure or asset accumulation and vice versa. Characterizing households by their responses in this way can help the policymakers and the implementing agencies in designing more targeted interventions to fit the needs of different subgroups of the extreme poor.</p><p xml:id="_hktPj9z">Several studies have shown robust evidence of the graduation model being successful in reducing extreme poverty in a wide range of contexts <ref type="bibr" target="#b7">(Bandiera et al. 2017;</ref><ref type="bibr" target="#b10">Banerjee et al. 2015)</ref>. 1 The intervention model is composed of a sequence of supports including a grant of productive assets, hands-on coaching for 12-24 months, life-skills training, short-term consumption support, and access to financial services. The goal of this model is to develop micro-enterprise from the transferred assets while all the other components are related to pro-tecting their enterprise and/or increasing productivity. Developed by BRAC, this model has shown significant impacts on household asset accumulation, consumption, labor supply, income, and food security status in Bangladesh <ref type="bibr" target="#b7">(Bandiera et al. 2017;</ref><ref type="bibr" target="#b10">Banerjee et al. 2015)</ref>. More importantly, these impacts sustain well beyond the 2-year intervention period. A six-country replication of the model has also shown similar positive results. Long-term follow-up studies show the impacts not only persist but also grow over 7 to 10 years in West Bengal <ref type="bibr" target="#b9">(Banerjee et al. 2016;</ref><ref type="bibr" target="#b16">Duflo 2020</ref>) and up to 14 years in Bangladesh <ref type="bibr" target="#b6">(Balboni et al. 2020)</ref>. Evaluations of variations of the graduation model also produce similar positive results <ref type="bibr" target="#b12">(Blattman et al. 2016;</ref><ref type="bibr" target="#b19">Gobin et al 2016;</ref><ref type="bibr" target="#b33">Sedlmayr et al 2020)</ref>. Currently, the model has been adopted by various NGOs and in government social protection schemes in 75 countries by 2020 <ref type="bibr" target="#b1">(Andrews et al. 2021)</ref>.</p><p xml:id="_D4vbCv9">Because of its multifaceted nature, the graduation model generally costs substantially more than alternative poverty alleviation approaches <ref type="bibr" target="#b34">(Sulaiman 2018)</ref>. One of the avenues of improving cost-effectiveness is to better customize interventions to the needs of specific sub-groups within the target population. Existing studies find a large degree of heterogeneity even within the narrow group of the poorest households (e.g. <ref type="bibr" target="#b7">Bandiera et al. 2017;</ref><ref type="bibr" target="#b10">Banerjee et al. 2015)</ref>. All previous studies use the conventional econometric approaches of evaluating heterogeneity and are restricted to considering only a few predetermined covariates. These analytical approaches, therefore, likely to leave potential sources of heterogeneity unexplored. Understanding the source of heterogeneity in the effects of the graduation model has implications for implementing agencies in their targeting approaches as well as efforts to customize intervention packages to fit the needs of different sub-groups of the poor.</p><p xml:id="_dJ6xbmr">The typical approach of analyzing heterogeneous effects involves fitting a linear model which includes interactions between treatment and the covariates, essentially measuring the treatment effects for subgroups. However, this econometric approach is challenged in terms of efficiency and robustness as deciding on a few variables to create the subgroups involves the risk of overfitting the estimates (i.e. selecting only those variables on which we see heterogeneity) and throwing away the rich set of baseline information available <ref type="bibr" target="#b14">(Chernozhukov et al. 2020)</ref>. Executing such a model grows increasingly problematic as the number of covariates increases; including all the potential interaction terms becomes infeasible unless the sample size is sufficiently large relative to the number of covariates and their interaction terms <ref type="bibr" target="#b18">(Foster, Taylor, and Ruberg 2011;</ref><ref type="bibr" target="#b20">Green and Kern 2012;</ref><ref type="bibr" target="#b22">Imai and Ratkovic 2013;</ref><ref type="bibr" target="#b32">Schiltz et al. 2018)</ref>. To overcome these weaknesses, several recent studies proposed using techniques from machine learning (ML) to better understand heterogeneous effects <ref type="bibr" target="#b2">(Athey and Imbens 2017;</ref><ref type="bibr" target="#b14">Chernozhukov et al. 2020)</ref>. This new and growing literature has proposed several parametric, semi-parametric, and non-parametric approaches that utilize a larger array of covariates, are computationally feasible, and avoid the risk of overfitting. Consequently, the use of ML in randomized control trials (RCT) to make inferences on heterogeneous treatment effects is receiving increasing attention <ref type="bibr" target="#b14">(Chernozhukov et al. 2020;</ref><ref type="bibr" target="#b18">Foster et al. 2011;</ref><ref type="bibr" target="#b22">Imai and Ratkovic 2013)</ref>.</p><p xml:id="_BUyrZcW">In this paper, we apply two ML approaches to investigate the heterogeneity in the effects of the graduation model from an RCT in Bangladesh. We use three rounds of panel data from 5,491 ultra-poor households, who were randomized into a treatment and control groups. We begin with estimating the Conditional Average Treatment Effect (CATE) of the graduation program using the Honest Causal Forest (HCF) algorithm proposed by Susan <ref type="bibr">Athey and Wager (2019)</ref>. We favor the HCF method for two reasons: first, by construction, it allows us to flexibly model complex interactions and discontinuous relationships between independent variables, and second, it allows for valid hypothesis testing and the estimation of standard errors and confidence intervals. Next, we use the ML approach proposed by <ref type="bibr" target="#b14">Chernozhukov et al. (2020)</ref>, which involves estimating proxy predictors of CATE and then developing valid inference on key features of the CATE. While the causal forest method focuses only on tree-based random forest tools to produce consistent estimates of CATE and explore heterogeneity, the approach proposed by <ref type="bibr" target="#b14">Chernozhukov et al. (2020)</ref> is more general and can be applied to any ML methods to predict and make inference on heterogeneous effects. Since both approaches resolve the fundamental problem of nonparametric inference of ML methods and propose strategies that produce uniformly valid inference, we use them as complementary to each other. Subsequently, we conduct classification analysis to identify baseline characteristics that are associated with the impacts to understand the trade-off and policy implications on customizing interventions.</p><p xml:id="_N9SAeK8">For measuring heterogeneous impacts, we focus on two outcomes -household wealth and expenditure. Our results detect a large degree of heterogeneity in treatment effects on both assets and expenditures. However, the difference between the highest and lowest gainers in household wealth is much larger than the corresponding difference in expenditure. Looking at heterogeneity by baseline characteristics, the results indicate a trade-off between the gains in wealth vs consumption. We find 15 common variables that are important determinants of impact heterogeneity in both assets and expenditure, and the direction of their relationships with the impact size for almost all the indicators is reversed across the two outcomes. In terms of specific indicators, the age of participants is found to be an important factor whereby top gainers of wealth are more likely to include older participants whereas those who show a high impact on consumption are more likely to be younger beneficiaries. This trend of older beneficiaries accumulating wealth while younger beneficiaries having higher consumption gain is contrary to a common understanding of the graduation model being less effective for older people. In another dimension of heterogeneity, we find that women with greater involvement in household decision-making at baseline are more likely to be in the high impact groups when it comes to expenditure but the opposite is the case for wealth impact. Besides these participant characteristics, other factors showing significant heterogeneity in impacts in opposing directions of assets and consumption are households' baseline level of savings, assets, and expenditure, community-level variables of distance to market, and paved roads. We also find in-equality in livestock ownership within the communities having significant impact heterogeneity whereby households with high expenditure gains are more likely to reside in communities with high asset inequality, but no significant difference in impact on assets.</p><p xml:id="_yMHQUBH">Our results of reversed impact heterogeneity for expenditure and wealth by most baseline characteristics demonstrate the trade-off between achieving impacts on immediate poverty reduction by increasing consumption and more long-term impacts through asset accumulation. The rest of the paper is organized as follows. Section II gives a brief overview of the Graduation Model and the evidence of its impact. Section III describes the data used in this paper. Section IV description of the two ML approaches that we apply in this paper for exploring the heterogeneity in treatment effects. Study results are discussed in Section V and the conclusion in Section VI.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_aAurDeE">II. Graduation model and evidence of its impact</head><p xml:id="_2JcUEYT">Over the last few decades, development organizations learned that bringing people out of ultra-poverty requires simultaneously addressing multiple constraints that they face in moving towards a sustainable livelihood. Building on this insight, BRAC, an NGO originating in Bangladesh, pioneered a program called Targeting the Ultra-poor (TUP) to build secure, sustainable, and resilient livelihoods for the ultra-poor <ref type="bibr" target="#b27">(Matin et al. 2008;</ref><ref type="bibr" target="#b28">Morel and Chowdhury 2015)</ref>. The approach in the TUP program, now better known as the "graduation model", is to combine multifaceted support services addressing both the immediate needs of the ultra-poor by giving them consumption supports, and their long-term need for a sustainable livelihood by providing them a grant of productive assets with technical skills training. This is complemented by a time-bound (typically 18-24 months) intensive coaching, access to finance, and health supports to both improve their productivity and prevent the need for distress sales. BRAC started implementing the program in 2002 in Bangladesh.</p><p xml:id="_nCe3bcT">Several non-experimental studies (e.g. <ref type="bibr" target="#b0">Ahmed, Sulaiman, and Das 2009;</ref><ref type="bibr" target="#b26">Matin and Hulme 2003;</ref><ref type="bibr" target="#b25">Mallick 2013)</ref> found the program very effective in increasing household consumption, asset holdings, and self-employment among the ultra-poor. The holistic treatment of poverty in the graduation approach drew the attention of the donor community and other stakeholders in low-income countries. The model has been replicated and adapted by at least 219 programs in 75 countries by NGOs, governments, and donor organizations <ref type="bibr" target="#b10">(Banerjee et al. 2015;</ref><ref type="bibr" target="#b1">Andrews et al. 2021)</ref>. Taking advantage of the large-scale replication of the model in low-income countries, several high-quality randomized trial studies have been conducted to assess the impact of the model <ref type="bibr" target="#b8">(Bandiera et al. 2013</ref><ref type="bibr" target="#b7">(Bandiera et al. , 2017;;</ref><ref type="bibr" target="#b10">Banerjee et al. 2015)</ref>. In Bangladesh, <ref type="bibr" target="#b8">Bandiera et al. (2013)</ref> found that after four years of the program inception, the beneficiary households expanded their self-employment activities, increased labor supply, accumulated more productive assets, which led to increased household income and per capita consumption. A follow-up survey on the same households seven years after the program be-gan, found that the long-term effect of the program is at least as large as the four-years effect <ref type="bibr" target="#b7">(Bandiera et al. 2017)</ref>. <ref type="bibr" target="#b10">Banerjee et al. (2015)</ref> documented the findings from 6 randomized studies assessing the impact of the graduation model implemented in 6 countries. The study found the effects of the program on income, household asset accumulation, food security, and consumption similar to the Bangladesh study albeit with some variations across the 6 sites.</p><p xml:id="_zbqHcNB">While the effects of the graduation model have been found to be positive and durable in a wide range of geographical and cultural contexts, existing studies report a high degree of heterogeneity in the effects. For instance, <ref type="bibr" target="#b7">Bandiera et al. (2017)</ref> showed that the effects on consumption, savings, and productive assets accumulation at 95 th percentiles were at least 10 times larger than the effect at the 5 th percentile of the distribution. Similar significant variation in treatment effects on household income, consumption, food security, and financial inclusion was also reported in <ref type="bibr" target="#b17">Emran, Robano, and Smith (2014)</ref>; <ref type="bibr" target="#b30">Raza, Das, and Misha (2012)</ref>; and <ref type="bibr" target="#b10">Banerjee et al. (2015)</ref>. The large degree of heterogeneity in treatment effects implies that even with the narrow group of the ultra-poor, there could be subgroups who are not benefitting as much. However, the quantile regression approach in these studies has the limitations of only measuring impact across different percentile on a continuum of an outcome indicator and does not confirm whether these are associated with any baseline characteristics. This paper aims to identify and define these subgroups.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_STpGTah">III. Data</head><p xml:id="_7N77xfj">We use the data from a cluster-randomized trial by <ref type="bibr" target="#b7">Bandiera et al (2017)</ref> that assessed the impact of the graduation model implemented in Bangladesh by BRAC. Starting in 2007, the study randomly assigned 40 BRAC branch offices serving 1,309 villages to the treatment or control group. We use the data from three rounds of surveys -baseline in 2007 followed by midline in 2009 and endline in 2011. 2 The baseline survey was preceded by a participatory wealth ranking exercise in both treatment and control villages, which classified households into four groups: ultra-poor, near-poor, middle-class, and upper-class. Although the impact evaluation paper looked at spillover on these groups, we focus only on the ultra-poor group as they are the targeted beneficiaries in the graduation model and received support. Our final sample size comprises 5,315 households of whom 3,082 from treated branches and 2,233 from control branches. Our analysis explores heterogeneity in treatment effects on two outcomes: the value of per-capita wealth, and per-capita household expenditure. We use the log of both outcomes. Household wealth has been calculated summing the monetary value of land, business assets, non-business assets, and savings. The household expenditure outcome includes household expenses on food (both purchased and produced), fuel, cosmetics, entertainment, transportation, utilities, clothing, footwear, utensils, textiles, dowries, education, 2. <ref type="bibr" target="#b7">Bandiera et al (2017)</ref> also used a fourth round of survey conducted 2014. However, we do not use this since some of the households from control group were also treated after the endline. charity, and legal expenses. While our analysis is intended to capture possible trade-offs between wealth and consumption, both outcomes are among the key performance indicators for the graduation model. We complement our main analysis of these two outcomes with the analysis of two additional outcomes -household savings, and self-employment income.</p><p xml:id="_bHpxNK3">The treatment variable is a dummy indicating if a household resides in villages under a treated BRAC branch office. The covariates for heterogeneity include baseline information on respondents' characteristics, demographic and socio-economic characteristics at the household level, and several cluster-level characteristics. Initially, we started with 103 covariates and after filtering out variables with near-zero variance, multicollinearity, and a high number of missing values, we are left with 50 covariates. The list of these covariates along with some descriptive statistics are presented in Annex (Table <ref type="table" target="#tab_0">A1</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_8SxkK2Y">III. ML Method</head><p xml:id="_ruZ9D5E">Our empirical strategy combines two machine learning approaches; the honest causal forest algorithm proposed by <ref type="bibr" target="#b36">Wager and Susan Athey (2018)</ref>, and an agnostic approach proposed by <ref type="bibr" target="#b14">Chernozhukov et al. (2020)</ref>. The honest casual forest method builds on the causal tree algorithm proposed by Susan <ref type="bibr" target="#b3">Athey and Imbens (2016)</ref>, which partitions the data into a set of subgroups such that treatment effect heterogeneity across subgroups is maximized <ref type="bibr" target="#b3">(Athey and Imbens 2016)</ref>. In estimating the treatment effect, the causal tree algorithm follows an "honest" approach, whereby one sample is used to construct the partition (i.e. building the tree) and another to estimate treatment effects for the subgroups. More specifically, the causal forest algorithm starts by drawing a random subsample of training data and then splitting the training data into two halves I and J. The algorithm then grows a tree by using the J-sample data to partition the data space, while holding out the I-sample data for within-leaf estimation. When choosing a split, the algorithm seeks to maximize the difference in treatment effect [τ(X)] between the two child leaves. The treatment effect is estimated simply by taking the difference between the outcomes of the treated and control observations within a leaf:</p><formula xml:id="formula_0">τ " X = 1 | 𝑖𝑖: W * = 1, X * Є 𝐿𝐿 | / Y * *:1 234,52Є 6 - 1 𝑖𝑖 : W * = 0, X * Є 𝐿𝐿 / Y * *:1 239,52Є 6 (1)</formula><p xml:id="_3vJCKMZ">In equation 1, W is the treatment indicator taking value 1 for treated observations, X is the covariate space, Y is the outcome variable, and L is the leaf within a tree. <ref type="bibr" target="#b36">Wager and Susan Athey (2018)</ref> showed that the honest approach of tree building produces consistent estimates by eliminating bias in the CATE and enables centered confidence intervals that allow for valid statistical inference.</p><p xml:id="_HvsjyCH">While the causal forests approach uses only one specific ML tool (i.e. tree-based algorithm) and relies on an honest approach to produce consistent estimates of CATE and explore heterogeneity, <ref type="bibr" target="#b14">Chernozhukov et al. (2020)</ref> proposed a different approach that allows applying generic ML methods to estimate causal effects and draw a statistical inference. The empirical strategy of this approach starts by building a proxy predictor of CATE using generic ML methods, and then develop valid inference on some key features of the CATE based on this proxy predictor. Instead of obtaining consistent estimation and uniformly valid inference on the CATE itself, this approach focuses on providing valid estimation and inference on certain features of CATE. Referring to it as an agnostic approach, <ref type="bibr" target="#b14">Chernozhukov et al. (2020)</ref> argued that by focusing on key features of CATE rather than CATE itself, this approach avoids making strong assumptions about the properties of ML estimators and still obtain uniformly valid inference on some features of the estimators. Particularly, this approach targets to develop valid inference on three features namely -Best Linear Predictor (BLP), Sorted Group Average Treatment Effects (GATES), and Classification Analysis (CLAN).</p><p xml:id="_UE5mhvG">The algorithm of this agnostic approach involves repeatedly splitting the data into two samples, namely the main sample (Data M ) and the auxiliary sample (Data A ), and for each split training ML methods and predict the outcome variable on the treated and untreated observations separately using the Data A . Applying the trained ML models on Data A , the algorithm then estimates two potential outcomes [Y(0), Y(1)], and obtain treatment effect estimates, S(X), and baseline effect estimates, B(X), for each observation in Data M . The baseline effect and the treatment effect are estimated using the following equations:</p><formula xml:id="formula_1">B(X) = E[Y|W=0, X] (2) S(X) = E[Y|W=1, X] -E[Y|W=0, X] (<label>3</label></formula><formula xml:id="formula_2">)</formula><p xml:id="_8Denxbh">The algorithm then involves testing for heterogeneity in the treatment effects using the following weighted ordinary least squared (OLS) or the Best Linear Predictor (BLP) model:</p><formula xml:id="formula_3">Yi = α Xi + α1 B(Xi) +β1 (Wi -p(Xi)) + β2 [Wi -p(Xi)] [Si (Xi) -ES) + 𝜀𝜀,</formula><p xml:id="_HVsUx35">with weights ω X = &gt; {@(A) [&gt;B @(A)]} (4) where ES = % &amp; ƩS(Xi), and p(X)= % 1 Ʃp(Wi =1 |X) or 1 789:79; 1 for a randomized trial study.</p><p xml:id="_nEskKCk">In our case W = $%&amp;' ($)( = 0.58 .</p><p xml:id="_9v9kttq">β 1 in equation 4 indicates the average treatment effect. β 2 , the main coefficient of our interest, indicates the degree to which the estimated treatment effect, S i (X), serves as a proxy for the true treatment effect or CATE. Rejecting the null hypothesis β 2 = 0 means that there is heterogeneity and S i (X) is a relevant predictor.</p><p xml:id="_4mupKaT">The second feature, Group Average Treatment Effect (GATE), involves dividing the main sample into non-overlapping groups G 1 to G K based on the predicted treatment effect S i (X). If we decide to have k=5, then the resulting group G 1 will be the 20% of the data with the lowest treatment effect estimates and G 5 will be the group with the highest treatment effect estimates. The GATE parameters are estimated as follows:</p><formula xml:id="formula_4">E[ Si(X) | Gk ], k = 1, ..… K (<label>5</label></formula><formula xml:id="formula_5">)</formula><p xml:id="_3Yxs532">Where G k is non-overlapping intervals dividing the S i (X) into K groups.</p><p xml:id="_EdSM46s">Finally, the third feature, Classification Analysis (CLAN), helps to characterize the most and least affected groups by identifying the baseline covariates on which the groups differ from each other. Assuming g(Y, X) is a vector of characteristics of an observational unit, the average characteristics of the most and least affected groups can be denoted by the following parameters:</p><formula xml:id="formula_6">ϒ1 = E [g (Y, X) | G1] and ϒk = E[g (Y, X) | Gk] (<label>6</label></formula><formula xml:id="formula_7">)</formula><p xml:id="_qg2E9ZY">Our main results are the treatment effects estimation from the causal forest method, which we use to construct the group average treatment effect (GATE) and the classification analysis (CLAN). We also complement our analysis of causal forest results with the results from other generic ML methods. We use the causal forest as our preferred method of estimation for two reasons. First, the treatment effect estimates from the causal forest are unbiased and allow for valid statistical inference. The 'honest' approach used in the causal forest model addresses the fundamental problem of causal inference and allows for a direct estimation of causal effect while eliminating bias from the estimates. Second, the causal forest follows a data-driven approach in identifying the most important variables from a large set of predictors used in growing the forest. We use this subset of predictors to perform the classification analysis to characterize the most and least affected groups and avoid the clumsiness of using the large set of baseline predictors for classification analysis.</p><p xml:id="_D2ky2bx">We fit our models to reflect the heterogeneity in treatment effect at the household level rather than at the cluster level (e.g. branch or village level). Since the treatment was randomly assigned at the branch office level, we assume that the branch level effect or village level effect on TUP beneficiaries is normally distributed. Therefore, we train the causal forest model without clustering by branch or villages. However, we include subdistricts fixed effects, which was used for stratifying the treatment-control assignment. We also include some spot-level Gini coefficients as covariates in our model to see if the distribution of wealth, income, productive assets, and household assets in the immediate neighborhood of the beneficiaries influence treatment effect and heterogeneity in treatment effect.</p><p xml:id="_k29pUnT">We grow the causal forest following the generalized random forest (GRF) framework proposed by <ref type="bibr" target="#b4">Susan Athey, Tibshirani, and Wager (2019)</ref>. We first orthogonalize the treatment and the outcome variables by fitting a regression forest to estimate the expected outcome marginalizing over treatment (see Susan Athey, Tibshirani, and Wager 2019 for detail). Using the estimates from this regression forest, the GRF then makes out-of-bag predictions to be used as inputs in our causal forests. Following <ref type="bibr" target="#b11">Basu et al. (2018)</ref> and Susan <ref type="formula">Athey and Wager  (2019)</ref>, we also train a pilot causal forest on all covariates. Then, we train our final causal forest using only those covariates that were found important in growing the pilot forest. In selecting the important covariates, we use the 'variable_importance' function of the GRF package which assigns a score for each covariate by taking a simple weighted sum of how many times the covariate was chosen by the algorithm in building trees. We select those covariates whose 'variable_importance' score is above average. This approach improves the precision of our estimation as it enables the forest to make more splits on the most important features <ref type="bibr">(Athey and Wager 2019)</ref>. These important features identified from the pilot forest have also been used for our classification analysis (CLAN) to characterize the most and least affected households.</p><p xml:id="_RGzAff4">As a complement to causal forest estimations, we used four generic machine learning (ML) methods namely Elastic Net, Boosting Tree, Neural Network, and Random Forest method in estimating CATE. Similar to how we trained the Causal Forest model, we also controlled for subdistrict level fixed effects in training these generic ML methods.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_nGv9c5B">V. Results and Discussion</head><p xml:id="_dU7rWmM">Following the ML approaches described above, our discussion focuses on two sets of results -degree of heterogeneity (HET) in treatment effect and classification analysis (CLAN) for the heterogeneity in treatment effects on per-capita household wealth and per-capita household expenditures. Among the four generic ML methods, we rely more on the results from the random forest and elastic net methods since these two methods outperformed the other two (boosting tree and neural network) in terms of their ability to detect greater heterogeneity in the treatment effect estimates. 3</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_KqbC6RN">a. Average vs. Heterogeneous Treatment Effects</head><p xml:id="_mf4Q9C8">Table <ref type="table" target="#tab_0">1</ref> presents coefficients of the average treatment effect (ATE) and the degree of heterogeneity (HET) for the two outcomes. The ATE estimates for both outcomes are large, positive, and significant across the causal forest model and the two generic ML methods. The causal forest estimates of ATE coefficients for the log value of per-capita wealth and household expenditures are 2.54 and 0.14 respectively indicating that the per-capita wealth and expenditures increased by 254% and 14% among the ultra-poor women in the treated areas relative to the control areas, both significant at 1% level. Reassuringly, the estimated ATE coefficients from all four ML methods closely match the OLS estimates, both in terms of magnitude and statistical significance.</p><p xml:id="_8HuSefQ">3. Following Chernozhukov et a. (2020), we choose the best ML methods that maximize the criterion function Λ = |β2| 2 Var(S(Xi)) Table <ref type="table" target="#tab_0">1</ref> also reports the treatment effect estimates from ordinary least square (OLS) regression models fitted on each outcome with the treatment variable and several covariates at respondent, household, and neighborhood levels. The OLS estimates of the average treatment effects for the two outcomes are 251%and 13%, both significant at 1% level, which consistently matches with the estimates from machine learning methods. These results basically reproduce the conclusions drawn by <ref type="bibr" target="#b7">Bandiera et al (2017)</ref> from this data.</p><p xml:id="_9wrmZPh">Turning to the heterogeneity in treatment effect, the coefficients for HET are 1.30 for per-capita wealth and 0.96 for per-capita expenditure when we use the causal forest method. The non-zero coefficients indicate that the causal forest estimates of the treatment effects are important relevant predictors. 4 Based on the p-value of the HET coefficient for the wealth outcome, we reject the hypothesis of no heterogeneity at the 1% level, suggesting that there is a significant heterogeneous effect of the TUP intervention on this outcome. The heterogeneity coefficients from the generic ML methods also confirm the same high level of heterogeneity in the treatment effect in per-capita wealth. However, the p-value associated with the HET coefficient of the expenditure outcome failed to reject the hypothesis of no heterogeneity at 10% level of significance by causal forest estimate (p value=0.123). Similarly, elastic net and neural network methods also report an insignificant level of heterogeneity and are consistent with the causal forest estimation, while random forest and boosting trees show a weak degree of treatment effect heterogeneity (at 10% level). In other words, graduation interventions produced highly diverse levels of impact in asset accumulation by beneficiary households while the impact variations for consumption are less pronounced.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_WY5JAkd">b. Group Average Treatment Effects (GATES):</head><p xml:id="_c3M7MhN">While the HET coefficients are useful in understanding the existence of heterogeneity, they do not reveal the magnitudes of differences. To check the magnitude, we use group average treatment effects (GAES) that involve dividing the observations into different subgroups according to their effect sizes. Specifically, we divide the sample into 5 groups based on the quintiles of the estimated τ " X from our causal forest model and the generic ML proxy predictor S i (x) and estimate the average effect for each group. Next, we compare the GATES between the top and the bottom quantiles, alternatively called the most and the least affected groups.</p><p xml:id="_KssKFng">As shown in Table <ref type="table">2</ref>, the causal forest estimates show that the differences of average treatment effects between the most and least affected groups are significantly 4. See <ref type="bibr" target="#b14">Chernozhukov et al. 2020</ref> for more technical details on BLP estimates. However, the coefficient value greater than 1 implies that the random forest predictions are over-shrunk, and the CATE estimates from the forest under-estimate the true treatment heterogeneity. For example, suppose the random forest gives us a CATE estimate τ " X ≈ τ 𝑋𝑋 2 . Then calibration would give us a coefficient of roughly 2. (We are grateful to Stefan Wager, Assistant Professor of Statistics in Stanford University, for this explanation).</p><p xml:id="_PNZQVAb">different from zero at 1% level for both wealth and expenditure outcomes. The average treatment effect among the most affected households on log per-capita wealth is 3.44, which is 79% higher than the average treatment effect among the least affected households. Likewise, the average treatment effect of the most affected groups on log per-capita expenditure is 63% higher compared to that in the least-affected households. For generic ML methods, we present the results from the random forest and elastic net only as the estimations from these two methods have been found more efficient in detecting heterogeneity in our data. The GATES estimates from the random forest and elastic net report weak differences between the two groups in the expenditure outcome.</p><p xml:id="_j7mxwnQ">In Figure <ref type="figure" target="#fig_0">1</ref>, we present the box-plot distribution of GATES scores and confidence bands for the five quantile groups using the causal forest estimates. The figure also shows ATE and associated confidence intervals obtained from the casual forest. This is apparent from the box-plot distribution that the treatment effects are positive on both outcomes for all sub-group of households, and the graduation model did not adversely affect any beneficiary households. 5 The figure also reveals that the top and bottom 20 th quantile groups (group 1, and 5) are less symmetric than the ones in the middle, with positive skew on the top quantile group and negative skew in the bottom quantile group. We looked into whether the differences in treatment effects between the mid-quantile groups (e.g. group 3rd vs 1st, and 4th vs 2nd) are statistically significant or not (see Table <ref type="table">A2</ref> in the appendix). The test shows significant differences between the mid-quantile groups on both outcomes. 5. Although this appears contradictory to the findings of asset depletion for those below threshold <ref type="bibr">Balboni et al (2021)</ref>, but the key distinction is in timeline. Their long-term follow-up look at asset dynamics after the endline and asset depletion does not imply non-positive long-term impact.</p><p xml:id="_m85BSs4">Per Capita Wealth (log) Per Capita Expenditure (log) Causal Forest ATE of Most 20% 3.44 0.18 [3.32 3.55] [0.17 0.18] ATE of Least 20% 1.92 0.11 [1.81 2.04] [0.11 0.12] Diff. (Most vs Least) 1.52 0.06 [1.35 1.68] [0.05 0.07] (0.000) (0.000) Random Forest ATE of Most 20% 3.64 0.18 [3.38 3.90] [0.13 0.23] ATE of Least 20% 1.67 0.10 [1.39 1.94] [0.05 0.15] Diff. (Most vs Least) 1.96 0.07 [1.58 2.34] [0.00 0.15] (0.000) (0.092) Elastic Net ATE of Most 20% 3.64 0.17 [3.82 3.90] [0.12 0.22] ATE of Least 20% 1.67 0.12 [1.40 1.94] [0.07 0.17] Diff. (Most vs Least) 1.98 0.05 [1.60 2.35] [-0.02 0.12] (0.000) (0.353)</p><p xml:id="_VSXfkAA">Table 2. Group Average Treatment Affect (Top 20% vs Bottom 20%).</p><p xml:id="_5N2b8kM">Note: 95% confidence intervals in brackets, and p-value in parenthesis. The group average treatment effects have been estimated using equation 5 specified in the Method section.</p><p xml:id="_Zsd6nRG">Overall, our heterogeneity analyses show consistent results for assets and less so for expenditure. Heterogeneity test using the best linear predictor (BLP) model applied on the estimates of the causal forest, and generic ML methods found detectable heterogeneity in per-capita wealth outcome. We did not find strong heterogeneity in treatment effects on per-capita total expenditure from the causal forest and the majority of the generic ML methods. The group average treatment effect analysis (GATES) from the causal forest and some of the generic ML methods produced similar results in both outcomes. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_8cvMJzC">c. Classification analysis:</head><p xml:id="_W8UzdZ7">While the analysis presented so far reveals significant heterogeneity in wealth and relatively less consistent heterogeneity in consumption, the HET coefficients do not tell us who are the most and least affected households. To understand the differences in characteristics of the most and least affected groups, we look at the average characteristics of the two groups by Classification Analysis (CLAN) developed by <ref type="bibr" target="#b15">Chernozhukov, Fernández-Val, and Luo (2018)</ref>. For this, we use the estimations from the causal forest method since it offers a data-driven approach in determining which variables are most important in estimating the treatment effect in the sample. Following the selection criteria for the most important covariates (as explained in the method section), we get a list of a total of 15 variables. Figure <ref type="figure" target="#fig_1">2</ref> below shows the list of these important variables and their corresponding importance score. These variables fall into three groups: individual or primary beneficiary level characteristics, household-level characteristics, and neighborhood or community-level characteristics. The most important baseline characteristic is their wealth level followed by participant woman's voice in household decision making. These two indicators have much larger importance scores compared to all others. The important factor from household demography is the number of members aged above 10 at baseline. Three community-level variables that are in the middle of this important variable list are -distance to paved roads and market and asset inequality. The age of the participant and household head, which are often considered important dimensions of heterogeneity in conventional analysis, are ranked lower in this list.</p><p xml:id="_jbz4sgW">While this list shows us the important factors behind impact heterogeneity, the next step is to understand their direction of relationship with impact estimates. In Figure <ref type="figure" target="#fig_2">3</ref>, we visualize the classification analysis by plotting the differences between the most and least affected groups on these fifteen baseline variables. 6 The figure shows whether the difference between the two groups is positive or negative, where a positive difference means the average of the most affected group is higher than that of the least affected group, and vice versa. The primary beneficiaries (respondents) among the most benefitted households in per-capita wealth outcome were relatively older, were more dependent on wage income (mostly from agricultural labor works), had less involvement in self-employment activities, and had lower participation in household decisions making at baseline. More specifically, they were 19 years older, and 21 percent more likely to work as agriculture labor than the respondents from the least affected households on this outcome. 6. see Table <ref type="table">A3</ref> in Appendix for detail estimates.</p><p xml:id="_NDTKZX3">Log of their income from daily wage activities was 8.09 greater, and from self-employment activities was 2.69 lower compared to the respondents from the least affected households. Their score on a matrix measuring their participation in household decision-making was 5.36 points less; their empowerment score was 1.91 compared to 7.27 of the other group.</p><p xml:id="_7dzDFkK">Looking at the household level characteristic, the top gainers in wealth have household heads who are on average 14 years older than the heads in the least affected group. These households also have fewer members above 10 years old (by 1.34 members), who were less likely (by 1.28 percent) to migrate out of villages for work. This group of top gainers had higher per-capita household expenditures, and lower savings at the baseline. Compared to their counterparts in the least-gainers group, these households' log value of per-capita expenditures was higher by 0.18 (though not statistically significant), and the log value of savings was lower by 3.21. Finally, the log value of livestock of the top gainers was lower by 4.73.</p><p xml:id="_bw9X3HR">Regarding the community-level characteristics, the households that benefited the most in wealth accumulation are more likely to live in communities far away from paved road and markets; their communities are 0.11 km farther away from the nearest markets (not significant at conventional level), and 0.33 km farther away from paved roads, compared to the communities of the least affected households. The Gini coefficient, measuring the distribution of livestock value in neighborhoods, shows that the most affected households for the wealth outcome live in communities with lower inequality (by 0.01 points). When it comes to gains made in per-capita household expenditure, we find that the characteristics of the most affected households are generally in opposite direction (for 14 out of the 15 variables) of what we found in the wealth accumulation outcome. The primary respondents of the most affected households in this outcome are younger by 7 years compared to those in the least affected households. They also differ from the top gainers in the wealth outcome in terms of having less wage income (by 11.34 points), more self-employment income (by 5.71 points), and higher participation in household decision making (by 2.44 points).</p><p xml:id="_DVu6NJE">Turning to the household level variables, most affected households for this outcome are headed by relatively younger (by 4 years) people, had more members older than 10 years, and had members who were more likely (by 56%) to migrate out. These households had lower per-capita expenditures at the baseline: their baseline expenditures were lower by 0.3 points than that among the least affected households. They also had higher savings and livestock assets. Their savings and livestock assets value, respectively, was higher by 0.33 points (not significant at conventional level), and by 1.37 points (p &lt;0.01). At the community level characteristics, unlike the differences between most and least gainers in the wealth outcome, households that increased their expenditure the most were living in communities closer to markets and paved road, by 1 kilometer and 0.49 kilometers respectively. Finally, unlike the top gainers in wealth outcome, the most affected households in expenditures outcome live in communities with greater inequality in the distribution of livestock assets (by 0.09 points).</p><p xml:id="_cneejQU">Finally, top gainers of both asset and consumption had less per-capita wealth at the baseline compared to the least affected group. This variable was scored as the most important (Figure <ref type="figure" target="#fig_1">2</ref>) and the only variable that has the same direction of relationship with impacts on both asset and consumption. This result highlights the possibility of maximizing impact by targeting explicitly asset ownership.</p><p xml:id="_8jyvaQm">One might wonder whether the top gainers on these two outcomes also differ from each other on other welfare dimensions. It may be that households that increased their consumptions by most had been able to generate more income or accumulate more savings than those who gained most in assets, and vice versa. To explore this possibility, we investigated the treatment effect heterogeneity on the log of household savings and self-employment income (i.e., income from livestock and small businesses) and conducted the CLAN for these two outcomes using the same variables we used for the CLAN of assets and consumption. Figure <ref type="figure" target="#fig_0">A1</ref> in Appendix shows the CLAN for household savings and self-employment income. The top gainers in the savings outcome closely resemble the top gainers in assets accumulation in almost all of the baseline characteristics, implying that households that gained most in assets also accumulated savings. On the other hand, the CLAN for the self-employment income failed to show significant differences between the top and bottom quantiles in half of the baseline characteristics (7 out of 15). On the remaining eight characteristics, the top gainers in income do not distinctively match with the top gainers in either assets or consumption outcomes. Our results also showed weak heterogeneity in the treatment effects for the self-employment income: the estimates of the HET coefficient from the causal forest, random forest, and elastic net are non-significant at the conventional levels (see Table <ref type="table">A4</ref> in Appendix). Consequently, we conclude that most of the beneficiary households experienced a uniform increase in their income from self-employment activities while a group of them focused on assets accumulation and the others on smoothing their consumptions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_yr7Ettn">VI. Conclusion</head><p xml:id="_fsVjpne">Our results from the causal forest, as well as generic ML methods, report positive and significant effects of the graduation model on wealth accumulation and household consumption. These findings are consistent with the existing studies that also report a strong positive effect of the graduation model on asset accumulation, and household expenditure outcomes. We find significant heterogeneity in impact on assets while the results for heterogeneity in impact on consumption are less robust. Our classification analysis that seeks to characterize the households which benefited most from the graduation model shows that there is a trade-off between accumulating assets and increasing household expenditures.</p><p xml:id="_MceRF67">Characteristics that are associated with higher gain in asset accumulation show the opposite direction of association with consumption gain. Households that benefited most in asset accumulation were relatively poorer at the baseline compared to the most affected households on the expenditure outcome. The most affected households for the asset outcome had primary beneficiaries who were older, were more dependent on wage income and had less self-employment income at the baseline. In contrast, the most affected households for the expenditure outcomes had younger beneficiaries with higher income from self-employment activities and less income from daily wage activities at the baseline. In terms of community-level characteristics, proximity to roads and markets helps in consumption gain over asset accumulation. The lower level of baseline wealth (combining all productive and non-productive assets and savings) is the only variable that shows a higher impact on both asset and consumption.</p><p xml:id="_cNNPdqA">Besides demonstrating a trade-off in the impact between asset and consumption, these results identify potential ways the graduation program can improve long-term effectiveness in the context of Bangladesh. Firstly, keeping overall asset ownership of the household as a stricter targeting criterion can help in improving the impact on both outcomes. Secondly, the coaching component can be customized to mitigate the asset-consumption trade-off, e.g. by targeting more intensive support for younger beneficiaries with more decision-making power and closer to markets, to improve on asset accumulation.</p><p xml:id="_2S7zMTR">Table A2. GATES by Different Quantiles (Using Causal Forest Estimation). Per Capita Wealth (log) Per Capita Expenditure (log) ATE of 3 rd Quantile Group 2.41 0.15 [2.27 2.54] [0.14 0.15] ATE of 1 st Quantile Group 1.85 0.12 [1.85 1.86] [0.11 0.12] Diff. (3 rd vs 1 st ) 0.482 0.034 [0.30 0.67] [0.02 0.04] (0.000) (0.000) ATE of 4 th Quantile Group 2.77 0.16 [2.641 2.89] [0.15 0.17] ATE of 2 nd Quantile Group 2.15 0.14 [2.02 2.27] [0.13 0.14] Diff. (4 th vs 2 nd ) 0.62 0.02 [0.44 0.79] [0.01 0.03] (0.000) (0.000) Table A4. Average Treatment Effects (ATE) and Heterogeneous Treatment Effect (HET) for Savings and Self-employment Income. Method Savings (log) Self-employment Income (log) Causal Forest ATE 9.57 5.66 [8.18 10.96] [4.17 7.15] (0.000) (0.000) HET 0.99 0.99 [-2.00 4.00] [-3.00 5.00] (0.241) (0.33) Random Forest ATE 9.03 5.23 [8.75 9.32] [4.77 5.69] (0.000) (0.000) HET 0.74 0.22 [0.55 0.93] [-0.03 0.46] (0.000) (0.179) Elastic Net ATE 9.14 5.00 [8.85 9.43] [4.54 5.47] (0.000) (0.000) HET 1.09 0.43 [0.64 1.63] [-0.28 1.02] (0.000) (0.212)</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc xml:id="_WfuyyRE">Figure 1. Box-plot of causal forest estimates of GATES by quantiles.</figDesc><graphic coords="17,86.13,103.46,339.94,204.26" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 .</head><label>2</label><figDesc xml:id="_kQkUgAD">Figure 2. Covariates used most often in building trees.</figDesc><graphic coords="18,90.29,199.36,334.08,303.88" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 3 .</head><label>3</label><figDesc xml:id="_SGG4wcm">Figure 3. Classification analysis of most and least affected groups.</figDesc><graphic coords="20,91.13,105.08,329.73,359.57" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><graphic coords="2,-1.17,474.65,511.41,207.50" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><graphic coords="25,86.46,141.02,340.96,375.78" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc xml:id="_6bc4qkR">Average Treatment Effects (ATE) and Heterogeneous Treatment.95% confidence intervals in brackets, and p-value in parenthesis. In estimating the ATE for the causal forest, we used the built-in function in the GRF package. For the generic ML methods, we applied the BLP test that</figDesc><table><row><cell>Method</cell><cell></cell><cell cols="2">Per Capita Wealth (log)</cell><cell>Per Capita Expenditure (log)</cell></row><row><cell>Causal Forest</cell><cell>ATE</cell><cell cols="2">2.54</cell><cell>0.14</cell></row><row><cell></cell><cell></cell><cell>[2.13</cell><cell>2.95]</cell><cell>[0.07</cell><cell>0.21]</cell></row><row><cell></cell><cell></cell><cell cols="2">(0.000)</cell><cell>(0.000)</cell></row><row><cell></cell><cell>HET</cell><cell cols="2">1.30</cell><cell>0.96</cell></row><row><cell></cell><cell></cell><cell>[1.00</cell><cell>2.00]</cell><cell>[-1.00</cell><cell>3.00]</cell></row><row><cell></cell><cell></cell><cell cols="2">(0.000)</cell><cell>(0.123)</cell></row><row><cell>Random Forest</cell><cell>ATE</cell><cell cols="2">2.45</cell><cell>0.14</cell></row><row><cell></cell><cell></cell><cell>[2.33</cell><cell>2.56]</cell><cell>[0.12</cell><cell>0.17]</cell></row><row><cell></cell><cell></cell><cell cols="2">(0.000)</cell><cell>(0.000)</cell></row><row><cell></cell><cell>HET</cell><cell cols="2">0.91</cell><cell>0.23</cell></row><row><cell></cell><cell></cell><cell cols="2">[0.77, 1.05]</cell><cell>[0.01</cell><cell>0.43]</cell></row><row><cell></cell><cell></cell><cell cols="2">(0.000)</cell><cell>(0.073)</cell></row><row><cell>Elastic Net</cell><cell>ATE</cell><cell cols="2">2.44</cell><cell>0.14</cell></row><row><cell></cell><cell></cell><cell>[2.33</cell><cell>2.57]</cell><cell>[0.12</cell><cell>0.17]</cell></row><row><cell></cell><cell></cell><cell cols="2">(0.000)</cell><cell>(0.000)</cell></row><row><cell></cell><cell>HET</cell><cell cols="2">1.311</cell><cell>0.20</cell></row><row><cell></cell><cell></cell><cell>[1.10</cell><cell>1.51]</cell><cell>[-0.03</cell><cell>0.48]</cell></row><row><cell></cell><cell></cell><cell cols="2">(0.000)</cell><cell>(0.184)</cell></row><row><cell>Neural Network</cell><cell>ATE</cell><cell cols="2">2.44</cell><cell>0.14</cell></row><row><cell></cell><cell></cell><cell>[2.32</cell><cell>2.56]</cell><cell>[0.12</cell><cell>0.16]</cell></row><row><cell></cell><cell></cell><cell cols="2">(0.000)</cell><cell>(0.000)</cell></row><row><cell></cell><cell>HET</cell><cell cols="2">0.30</cell><cell>0.08</cell></row><row><cell></cell><cell></cell><cell>[0.24</cell><cell>0.37]</cell><cell>[-0.004</cell><cell>0.18]</cell></row><row><cell></cell><cell></cell><cell cols="2">(0.000)</cell><cell>(0.127)</cell></row><row><cell>Boosting Tree</cell><cell>ATE</cell><cell cols="2">2.46</cell><cell>0.14</cell></row><row><cell></cell><cell></cell><cell>[2.34</cell><cell>2.58]</cell><cell>[0.12</cell><cell>0.16]</cell></row><row><cell></cell><cell></cell><cell cols="2">(0.000)</cell><cell>(0.000)</cell></row><row><cell></cell><cell>HET</cell><cell cols="2">0.40</cell><cell>0.10</cell></row><row><cell></cell><cell></cell><cell>[0.32</cell><cell>0.47]</cell><cell>[0.004</cell><cell>0.19]</cell></row><row><cell></cell><cell></cell><cell cols="2">(0.000)</cell><cell>(0.083)</cell></row><row><cell>OLS</cell><cell>ATE</cell><cell cols="2">2.51</cell><cell>0.13</cell></row><row><cell></cell><cell></cell><cell>[2.24</cell><cell>2.79]</cell><cell>[0.10</cell><cell>0.16]</cell></row><row><cell></cell><cell></cell><cell cols="2">(0.000)</cell><cell>(0.000)</cell></row><row><cell>Note:</cell><cell></cell><cell></cell><cell></cell></row></table><note xml:id="_kyJTGPe"><p>estimates both ATE and HET using equation 4. The covariates used in the OLS models include respondent's age, respondent's education years, household head's gender, log per-capita expenditure, log per capita food consumption, log per capita wealth, wage income, income from self-employment activities, Gini score for livestock, and distance to the nearest market.</p></note></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_yN4pJEX"><p xml:id="_GXaa4C8">Table A1. Descriptive Statistics of the Baseline Covariates Baseline Characteristics N Mean SD P25 P50 P75 Primary Beneficiary Level Characteristics Beneficiary's Age 5315 39.61 13.36 28.00 38.00 50.00 Beneficiary never married 5315 0.01 0.11 0.00 0.00 0.00 Beneficiary divorced 5315 0.02 0.12 0.00 0.00 0.00 Beneficiary married 5315 0.61 0.49 0.00 1.00 1.00 Beneficiary widow 5315 0.29 0.46 0.00 0.00 1.00 Beneficiary NGO participation none 5315 0.87 0.34 1.00 1.00 1.00 Beneficiary used to participate in NGO 5315 0.02 0.15 0.00 0.00 0.00 Beneficiary's education years 5315 0.56 1.61 0.00 0.00 0.00 Any future plan for self-employment 5315 0.46 0.50 0.00 0.00 1.00 Empowerment Score (decision making) 5315 5.43 3.20 3.75 6.00 7.75 Empowerment Score (mobility) 5315 5.22 3.70 0.00 8.00 8.00 Any past business activity 5315 0.13 0.34 0.00 0.00 0.00 Log wage income 5315 0.74 8.85 -9.21 7.50 8.85 Had a small business 5315 0.00 0.02 0.00 0.00 0.00 Log income from small business 5315 2.37 104.41 0.00 0.00 0.00 Worked as agricultural day labor 5315 0.27 0.44 0.00 0.00 1.00 Log self-employment income 5315 -2.65 8.00 -9.21 -9.21 6.21 Undernourished 5315 0.56 0.5 0 1 1 Household (HH) Level Characteristic HH head is a male 5315 0.61 0.49 0.00 1.00 1.00 Wealth ranked as bottom 5315 0.91 0.29 1.00 1.00 1.00 Wealth ranked medium 5315 0.09 0.29 0.00 0.00 0.00 Number of HH members below 10 years 5315 0.89 1.01 0.00 1.00 2.00 Number of HH members above 10 years 5315 2.48 1.19 2.00 2.00 3.00 HH Head's Age 5315 44.99 13.77 35.00 45.00 55.00 Fraction Muslim 5315 0.83 0.38 1.00 1.00 1.00 Fraction Hindu 5315 0.16 0.37 0.00 0.00 0.00 Any HH member participating in NGO 5315 0.08 0.27 0.00 0.00 0.00 HH members never participated in NGO 5315 0.96 0.21 1.00 1.00 1.00 HH receive any govt. benefits 5315 0.19 0.40 0.00 0.00 0.00 Any HH members migrated out for work 5315 0.24 0.43 0.00 0.00 0.00 HH Head migrated out for work 5315 0.17 0.38 0.00 0.00 0.00 Total HH members migrated out for work 5315 0.27 0.51 0.00 0.00 0.00 HH members likely to migrate for work 5315 2.33 1.08 2.00 2.00 3.00 HH head's education 5315 0.63 1.78 0.00 0.00 0.00 Number of first-degree family members living in same neighborhood 5315 8.69 3.69 6.00 9.00 11.00 Number of first-degree family members living in same village 5315 2.71 2.06 1.00 2.00 4.00 Per-capita annual expenditure (log) 5315 9.29 0.36 9.06 9.27 9.49 Log per-capita food expenditure 5315 9.00 0.38 8.78 8.99 9.22 Log per-capita non-food annual expenditure 5315 7.78 0.50 7.48 7.77 8.07 Log per-capita wealth 5315 5.12 3.73 4.83 5.70 6.61 Had any livestock 5315 0.26 0.44 0.00 0.00 1.00 Cultivable land size (in decimals) 5315 3.11 17.99 0.00 0.00 0.00 Log livestock value 5315 3.04 3.27 0.00 0.00 5.71 Log per-capita education expenditures 5315 -4.81 6.50 -9.21 -9.21 3.76 Log total savings 5315 -6.6 6.44 -11.51 -11.5 1 Community Level Characteristics Gini landside 5315 0.79 0.07 0.74 0.79 0.83</p><p xml:id="_CVWHrxs">Table A3. Classification Analysis. Covariates Stats Per Capita Wealth [log] Per Capita Expe Top 20% Bottom 20% Difference Top 20% Bottom Primary Beneficiary Level Characteristics</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Figure A1 .</head><label>A1</label><figDesc xml:id="_5pXghyZ">Classification analysis for most and least affected groups for savings and self-employment income .</figDesc></figure>
+			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main" xml:id="_NRuFZWz">The Impact of Asset Transfer on Livelihoods of the Ultra Poor in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Akhter</forename><forename type="middle">U</forename><surname>Ahmed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Munshi</forename><surname>Mehnaz Rabbani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Narayan</forename><forename type="middle">C</forename><surname>Sulaiman</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Das</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_RAfHAyJ">BRAC Research Monograph Series</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b1">
+	<monogr>
+		<title level="m" type="main" xml:id="_5Mj6nCg">The State of Economic Inclusion Report 2021</title>
+		<author>
+			<persName><forename type="first">Colin</forename><surname>Andrews</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aude</forename><surname>De Montesquiou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ines</forename><surname>Arevalo Sanchez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Puja</forename><forename type="middle">Vasudeva</forename><surname>Dutta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Boban</forename><forename type="middle">Varghese</forename><surname>Paul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sadna</forename><surname>Samaranayake</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Janet</forename><surname>Heisey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Timothy</forename><surname>Clay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sarang</forename><surname>Chaudhary</surname></persName>
+		</author>
+		<idno type="DOI">10.1596/978-1-4648-1598-0</idno>
+		<imprint>
+			<date type="published" when="2021-01-19">2021</date>
+			<publisher>The World Bank</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main" xml:id="_gfgjpN9">The Econometrics of Randomized Experiments</title>
+		<author>
+			<persName><forename type="first">Susan</forename><surname>Athey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Guido</forename><forename type="middle">W</forename><surname>Imbens</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/bs.hefe.2016.10.003</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_BfguAjn">Handbook of Economic Field Experiments</title>
+		<imprint>
+			<publisher>Elsevier</publisher>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="73" to="140" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main" xml:id="_5vFNaxC">Recursive partitioning for heterogeneous causal effects</title>
+		<author>
+			<persName><forename type="first">Susan</forename><surname>Athey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Guido</forename><surname>Imbens</surname></persName>
+		</author>
+		<idno type="DOI">10.1073/pnas.1510489113</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_y9Gg7AC">Proceedings of the National Academy of Sciences</title>
+		<title level="j" type="abbrev">Proc. Natl. Acad. Sci. U.S.A.</title>
+		<idno type="ISSN">0027-8424</idno>
+		<idno type="ISSNe">1091-6490</idno>
+		<imprint>
+			<biblScope unit="volume">113</biblScope>
+			<biblScope unit="issue">27</biblScope>
+			<biblScope unit="page" from="7353" to="7360" />
+			<date type="published" when="2016-07-05">2016</date>
+			<publisher>Proceedings of the National Academy of Sciences</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main" xml:id="_mPMYawX">Generalized random forests</title>
+		<author>
+			<persName><forename type="first">Susan</forename><surname>Athey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Julie</forename><surname>Tibshirani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stefan</forename><surname>Wager</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/18-aos1709</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_sv5q6kH">The Annals of Statistics</title>
+		<title level="j" type="abbrev">Ann. Statist.</title>
+		<idno type="ISSN">0090-5364</idno>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="1179" to="1203" />
+			<date type="published" when="2019-04-01">2019</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main" xml:id="_WXzVQwD">Estimating Treatment Effects with Causal Forests: An Application</title>
+		<author>
+			<persName><forename type="first">Susan</forename><surname>Athey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stefan</forename><surname>Wager</surname></persName>
+		</author>
+		<idno type="DOI">10.1353/obs.2019.0001</idno>
+		<idno>ArXiv 1-15</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_KrUh5Fr">Observational Studies</title>
+		<title level="j" type="abbrev">Observational Studies</title>
+		<idno type="ISSNe">2767-3324</idno>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="37" to="51" />
+			<date type="published" when="2019">2019</date>
+			<publisher>Project MUSE</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b6">
+	<monogr>
+		<title level="m" type="main" xml:id="_5s4khxv">Why do people stay poor?</title>
+		<author>
+			<persName><forename type="first">Clare</forename><surname>Balboni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Oriana</forename><surname>Bandiera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robin</forename><surname>Burgess</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Maitreesh</forename><surname>Ghatak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anton</forename><surname>Heil</surname></persName>
+		</author>
+		<idno type="DOI">10.3386/w29340</idno>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<publisher>National Bureau of Economic Research</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">Working Paper</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main" xml:id="_6cYGV5N">Labor Markets and Poverty in Village Economies*</title>
+		<author>
+			<persName><forename type="first">Oriana</forename><surname>Bandiera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robin</forename><surname>Burgess</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Narayan</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Selim</forename><surname>Gulesci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Imran</forename><surname>Rasul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Munshi</forename><surname>Sulaiman</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/qje/qjx003</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_FnaXUke">The Quarterly Journal of Economics</title>
+		<idno type="ISSN">0033-5533</idno>
+		<idno type="ISSNe">1531-4650</idno>
+		<imprint>
+			<biblScope unit="volume">132</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="811" to="870" />
+			<date type="published" when="2017-03-20">2017</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main" xml:id="_3tH5pth">Can Basic Entrepreneurship Transform the Economic Lives of the Poor?</title>
+		<author>
+			<persName><forename type="first">Oriana</forename><surname>Bandiera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robin</forename><surname>Burgess</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Narayan</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Selim</forename><surname>Gulesci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Imran</forename><surname>Rasul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Munshi</forename><surname>Sulaiman</surname></persName>
+		</author>
+		<idno type="DOI">10.2139/ssrn.2266813</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_GAuMDQD">SSRN Electronic Journal</title>
+		<title level="j" type="abbrev">SSRN Journal</title>
+		<idno type="ISSNe">1556-5068</idno>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">Working Paper</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main" xml:id="_ZwHw9Pr">The Long Term Impacts of a &apos;Graduation&apos; Program: Evidence from West Bengal</title>
+		<author>
+			<persName><forename type="first">Abhijit</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Esther</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Raghabendra</forename><surname>Chattopadhyay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeremy</forename><surname>Shapiro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_KVW5pv6">Working Paper Massachusetts Institute of Technology</title>
+		<imprint>
+			<biblScope unit="page" from="1" to="25" />
+			<date type="published" when="2016-09">2016. September</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main" xml:id="_MX9XARJ">A multifaceted program causes lasting progress for the very poor: Evidence from six countries</title>
+		<author>
+			<persName><forename type="first">Abhijit</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Esther</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nathanael</forename><surname>Goldberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dean</forename><surname>Karlan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Osei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">William</forename><surname>Parienté</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeremy</forename><surname>Shapiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bram</forename><surname>Thuysbaert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Udry</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.1260799</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_YKShuZJ">Science</title>
+		<title level="j" type="abbrev">Science</title>
+		<idno type="ISSN">0036-8075</idno>
+		<idno type="ISSNe">1095-9203</idno>
+		<imprint>
+			<biblScope unit="volume">348</biblScope>
+			<biblScope unit="issue">6236</biblScope>
+			<date type="published" when="2015-05-15">2015. 6236</date>
+			<publisher>American Association for the Advancement of Science (AAAS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main" xml:id="_XGBu9jd">Iterative Random Forests to Discover Predictive and Stable High-Order Interactions</title>
+		<author>
+			<persName><forename type="first">Sumanta</forename><surname>Basu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Karl</forename><surname>Kumbier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">B</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bin</forename><surname>Yu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_B7N4DZU">Proceedings of the National Academy of Sciences of the United States of America</title>
+		<imprint>
+			<biblScope unit="volume">115</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1943" to="1948" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main" xml:id="_rdkfgB4">The Returns to Microenterprise Support among the Ultrapoor: A Field Experiment in Postwar Uganda</title>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Blattman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eric</forename><forename type="middle">P</forename><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Julian</forename><surname>Jamison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Christian</forename><surname>Lehmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeannie</forename><surname>Annan</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/app.20150023</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_EUQ24E4">American Economic Journal: Applied Economics</title>
+		<title level="j" type="abbrev">American Economic Journal: Applied Economics</title>
+		<idno type="ISSN">1945-7782</idno>
+		<idno type="ISSNe">1945-7790</idno>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="35" to="64" />
+			<date type="published" when="2016-04-01">2016</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main" xml:id="_Zsra9PQ">The economics of poverty traps and persistent poverty: An asset-based approach</title>
+		<author>
+			<persName><forename type="first">Michael</forename><forename type="middle">R</forename><surname>Carter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christopher</forename><forename type="middle">B</forename><surname>Barrett</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00220380500405261</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_AnmHEfE">Journal of Development Studies</title>
+		<title level="j" type="abbrev">Journal of Development Studies</title>
+		<idno type="ISSN">0022-0388</idno>
+		<idno type="ISSNe">1743-9140</idno>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="178" to="199" />
+			<date type="published" when="2006-02">2006</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b14">
+	<monogr>
+		<title level="m" type="main" xml:id="_ZHJtu2A">Generic Machine Learning Inference On Heterogenous Treatment Effects In Randomized Experiments</title>
+		<author>
+			<persName><surname>Chernozhukov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mert</forename><surname>Victor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Esther</forename><surname>Demirer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ivan</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Fernandez-Val</surname></persName>
+		</author>
+		<idno>arXi- v:1712.04802v5</idno>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main" xml:id="_5DW5eDU">The Sorted Effects Method: Discovering Heterogeneous Effects Beyond Their Averages</title>
+		<author>
+			<persName><forename type="first">Victor</forename><surname>Chernozhukov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Iván</forename><surname>Fernández-Val</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ye</forename><surname>Luo</surname></persName>
+		</author>
+		<idno type="DOI">10.3982/ecta14415</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_45VfUE4">Econometrica</title>
+		<title level="j" type="abbrev">Econometrica</title>
+		<idno type="ISSN">0012-9682</idno>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1911" to="1938" />
+			<date type="published" when="2018">2018</date>
+			<publisher>The Econometric Society</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main" xml:id="_gUk7fSW">Long-Term Effects of the Targeting the Ultra Poor Program</title>
+		<author>
+			<persName><forename type="first">Esther</forename><surname>Duflo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_uJbTB2k">NBER Working Paper Series</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main" xml:id="_QFdRUw8">Assessing the Frontiers of Ultrapoverty Reduction: Evidence from Challenging the Frontiers of Poverty Reduction/Targeting the Ultra-Poor, an Innovative Program in Bangladesh</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Emran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Virginia</forename><surname>Shahe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stephen</forename><forename type="middle">C</forename><surname>Robano</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Smith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_jv7cvPF">Economic Development and Cultural Change</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="339" to="380" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b18">
+	<analytic>
+		<title level="a" type="main" xml:id="_jySFjt5">Subgroup Identification from Randomized Clinical Trial Data</title>
+		<author>
+			<persName><forename type="first">Jared</forename><forename type="middle">C</forename><surname>Foster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Jeremy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stephen</forename><forename type="middle">J</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ruberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_EVMJ552">Statistics in Medicine</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">24</biblScope>
+			<biblScope unit="page" from="2867" to="2880" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main" xml:id="_ArnVpXy">No Longer Trapped? Promoting Entrepreneurship Through Cash Transfers to Ultra‐Poor Women in Northern Kenya</title>
+		<author>
+			<persName><forename type="first">Vilas</forename><forename type="middle">J</forename><surname>Gobin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Paulo</forename><surname>Santos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Russell</forename><surname>Toth</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/ajae/aax037</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_WBvAWDj">American Journal of Agricultural Economics</title>
+		<title level="j" type="abbrev">American J Agri Economics</title>
+		<idno type="ISSN">0002-9092</idno>
+		<idno type="ISSNe">1467-8276</idno>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1362" to="1383" />
+			<date type="published" when="2016">2016</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main" xml:id="_muEq7mE">Modeling Heterogeneous Treatment Effects in Survey Experiments with Bayesian Additive Regression Trees</title>
+		<author>
+			<persName><forename type="first">Donald</forename><forename type="middle">P</forename><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">L</forename><surname>Kern</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/poq/nfs036</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_9PCZhMj">Public Opinion Quarterly</title>
+		<title level="j" type="abbrev">Public Opinion Quarterly</title>
+		<idno type="ISSN">0033-362X</idno>
+		<idno type="ISSNe">1537-5331</idno>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="491" to="511" />
+			<date type="published" when="2012-09-01">2012</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main" xml:id="_HueCTvS">Poverty Traps and the Social Protecion Paradox</title>
+		<author>
+			<persName><surname>Ikegami</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><forename type="middle">R</forename><surname>Munenobu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christopher</forename><forename type="middle">B</forename><surname>Carter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sarah</forename><surname>Barrett</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Janzen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_PaGpVYd">The Economics of Poverty Traps</title>
+		<imprint>
+			<biblScope unit="page" from="223" to="256" />
+			<date type="published" when="2016-12">2016. December</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main" xml:id="_PBzBUyN">Estimating Treatment Effect Heterogeneity Randomized Program Evaluation</title>
+		<author>
+			<persName><forename type="first">Kosuke</forename><surname>Imai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marc</forename><surname>Ratkovic</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_ndRsPe5">Annals of Applied Statistics</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="443" to="470" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main" xml:id="_PRftmkC">Non-Parametric Tests for Distributional Treatment Effect for Randomly Censored Responses</title>
+		<author>
+			<persName><forename type="first">Myoung</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Jae</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_GeraRra">Journal of the Royal Statistical Society. Series B: Statistical Methodology</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="243" to="264" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b24">
+	<analytic>
+		<title level="a" type="main" xml:id="_zfGUbqZ">Random Forests and Adaptive Nearest Neighbors</title>
+		<author>
+			<persName><forename type="first">Yi</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yongho</forename><surname>Jeon</surname></persName>
+		</author>
+		<idno type="DOI">10.1198/016214505000001230</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_bhNQSTJ">Journal of the American Statistical Association</title>
+		<title level="j" type="abbrev">Journal of the American Statistical Association</title>
+		<idno type="ISSN">0162-1459</idno>
+		<idno type="ISSNe">1537-274X</idno>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="issue">474</biblScope>
+			<biblScope unit="page" from="578" to="590" />
+			<date type="published" when="2006-06-01">2006</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b25">
+	<analytic>
+		<title level="a" type="main" xml:id="_ubb5Hhp">How Effective is a Big Push to the Small? Evidence from a Quasi-Experiment</title>
+		<author>
+			<persName><forename type="first">Debdulal</forename><surname>Mallick</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.worlddev.2012.05.021</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_bPG4Sne">World Development</title>
+		<title level="j" type="abbrev">World Development</title>
+		<idno type="ISSN">0305-750X</idno>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="168" to="182" />
+			<date type="published" when="2013-01">2013</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b26">
+	<analytic>
+		<title level="a" type="main" xml:id="_kqFHWuR">Programs for the Poorest: Learning from the IGVGD Program in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Imran</forename><surname>Matin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><surname>Hulme</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0305-750x(02)00223-1</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_AETJwJF">World Development</title>
+		<title level="j" type="abbrev">World Development</title>
+		<idno type="ISSN">0305-750X</idno>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="647" to="665" />
+			<date type="published" when="2003-03">2003</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b27">
+	<monogr>
+		<title level="m" type="main" xml:id="_76PMMYD">Working Paper Crafting a Graduation Pathway for the Ultra Poor : Lessons and Evidence from a BRAC Programme</title>
+		<author>
+			<persName><forename type="first">Imran</forename><surname>Matin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Munshi</forename><surname>Sulaiman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Evaluation</forename><surname>Division</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b28">
+	<analytic>
+		<title level="a" type="main" xml:id="_TntH9c2">Reaching the Ultra-Poor: Adapting Targeting Strategy in the Context of South Sudan</title>
+		<author>
+			<persName><forename type="first">Ricardo</forename><surname>Morel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Reajul</forename><surname>Chowdhury</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_uGDwMVu">Journal of International Development</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="987" to="1011" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b29">
+	<analytic>
+		<title level="a" type="main" xml:id="_sEBGUtu">Assets and Poverty Traps in Rural Bangladesh</title>
+		<author>
+			<persName><forename type="first">Agnes</forename><forename type="middle">R</forename><surname>Quisumbing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bob</forename><surname>Baulch</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00220388.2013.785524</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_9znmzE7">Journal of Development Studies</title>
+		<title level="j" type="abbrev">The Journal of Development Studies</title>
+		<idno type="ISSN">0022-0388</idno>
+		<idno type="ISSNe">1743-9140</idno>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="898" to="916" />
+			<date type="published" when="2013-07">2013</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b30">
+	<analytic>
+		<title level="a" type="main" xml:id="_HpVZnBd">Can ultra-poverty be sustainably improved? Evidence from BRAC in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Wameq</forename><forename type="middle">A</forename><surname>Raza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Narayan</forename><forename type="middle">C</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Farzana</forename><forename type="middle">A</forename><surname>Misha</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/19439342.2012.686046</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_HMkbUVf">Journal of Development Effectiveness</title>
+		<title level="j" type="abbrev">Journal of Development Effectiveness</title>
+		<idno type="ISSN">1943-9342</idno>
+		<idno type="ISSNe">1943-9407</idno>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="257" to="276" />
+			<date type="published" when="2012-06">2012</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b31">
+	<analytic>
+		<title level="a" type="main" xml:id="_uP3NSuN">Nonparametric Tests for Treatment Effect Heterogeneity</title>
+		<author>
+			<persName><forename type="first">Richard</forename><forename type="middle">K</forename><surname>Crump</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">Joseph</forename><surname>Hotz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Guido</forename><forename type="middle">W</forename><surname>Imbens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Oscar</forename><forename type="middle">A</forename><surname>Mitnik</surname></persName>
+		</author>
+		<idno type="DOI">10.1162/rest.90.3.389</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_9sxxnuR">Review of Economics and Statistics</title>
+		<title level="j" type="abbrev">Review of Economics and Statistics</title>
+		<idno type="ISSN">0034-6535</idno>
+		<idno type="ISSNe">1530-9142</idno>
+		<imprint>
+			<biblScope unit="volume">90</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="389" to="405" />
+			<date type="published" when="2008-08">2008</date>
+			<publisher>MIT Press - Journals</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b32">
+	<analytic>
+		<title level="a" type="main" xml:id="_JfjHGpD">Using regression tree ensembles to model interaction effects: a graphical approach</title>
+		<author>
+			<persName><forename type="first">Fritz</forename><surname>Schiltz</surname></persName>
+			<idno type="ORCID">0000-0001-9920-5353</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Chiara</forename><surname>Masci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tommaso</forename><surname>Agasisti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Daniel</forename><surname>Horn</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00036846.2018.1489520</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_UWVtNbk">Applied Economics</title>
+		<title level="j" type="abbrev">Applied Economics</title>
+		<idno type="ISSN">0003-6846</idno>
+		<idno type="ISSNe">1466-4283</idno>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="issue">58</biblScope>
+			<biblScope unit="page" from="6341" to="6354" />
+			<date type="published" when="2018-07-05">2018</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b33">
+	<analytic>
+		<title level="a" type="main" xml:id="_e8hDWzc">Cash-plus: Poverty impacts of alternative transfer-based approaches</title>
+		<author>
+			<persName><forename type="first">Richard</forename><surname>Sedlmayr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anuj</forename><surname>Shah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Munshi</forename><surname>Sulaiman</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jdeveco.2019.102418</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_MSPaKbf">Journal of Development Economics</title>
+		<title level="j" type="abbrev">Journal of Development Economics</title>
+		<idno type="ISSN">0304-3878</idno>
+		<imprint>
+			<biblScope unit="volume">144</biblScope>
+			<biblScope unit="page">102418</biblScope>
+			<date type="published" when="2019">2020. November 2019</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b34">
+	<analytic>
+		<title level="a" type="main" xml:id="_DYXVeZN">Graduation Approaches : How Do They Compare in Terms Of</title>
+		<author>
+			<persName><forename type="first">Munshi</forename><surname>Sulaiman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_BWmXtVj">Boosting growth to end hunger by 2025: The role of social protection</title>
+		<editor>
+			<persName><forename type="first">F</forename><forename type="middle">S W</forename><surname>Taffesse</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Seyoum</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Washington, DC</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page" from="102" to="120" />
+		</imprint>
+		<respStmt>
+			<orgName>International Food Policy Research Institute (IFPRI</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b35">
+	<analytic>
+		<title level="a" type="main" xml:id="_pFk645k">Subgroup identification in dose‐finding trials via model‐based recursive partitioning</title>
+		<author>
+			<persName><forename type="first">Marius</forename><surname>Thomas</surname></persName>
+			<idno type="ORCID">0000-0003-2790-829X</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Björn</forename><surname>Bornkamp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Heidi</forename><surname>Seibold</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/sim.7594</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_kN6H3Cg">Statistics in Medicine</title>
+		<title level="j" type="abbrev">Statistics in Medicine</title>
+		<idno type="ISSN">0277-6715</idno>
+		<idno type="ISSNe">1097-0258</idno>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="1608" to="1624" />
+			<date type="published" when="2018-02">2018</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b36">
+	<analytic>
+		<title level="a" type="main" xml:id="_2PMdvHb">Estimation and Inference of Heterogeneous Treatment Effects using Random Forests</title>
+		<author>
+			<persName><forename type="first">Stefan</forename><surname>Wager</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Susan</forename><surname>Athey</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01621459.2017.1319839</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_kD6umTg">Journal of the American Statistical Association</title>
+		<title level="j" type="abbrev">Journal of the American Statistical Association</title>
+		<idno type="ISSN">0162-1459</idno>
+		<idno type="ISSNe">1537-274X</idno>
+		<imprint>
+			<biblScope unit="volume">113</biblScope>
+			<biblScope unit="issue">523</biblScope>
+			<biblScope unit="page" from="1228" to="1242" />
+			<date type="published" when="2018-06-06">2018</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b37">
+	<analytic>
+		<title level="a" type="main" xml:id="_dDbhXrk">From Concepts, Theory, and Evidence of Heterogeneity of Treatment Effects to Methodological Approaches: A Primer</title>
+		<author>
+			<persName><forename type="first">Richard</forename><forename type="middle">J</forename><surname>Willke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zhiyuan</forename><surname>Zheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Prasun</forename><surname>Subedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rikard</forename><surname>Althin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">Daniel</forename><surname>Mullins</surname></persName>
+		</author>
+		<idno>-4.648 -3.699</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_SqHJjRS">BMC Medical Research Methodology</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">21 31</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note>43.71 4 Was agri. day laborer Mean 0. s Wage Income Mean 4.</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b38">
+	<analytic>
+		<title level="a" type="main" xml:id="_9FaTcUr">ex-nomination 24, 27, 31–2; in humanism: Catholic 69; technological French translation 6, 33 70; traditional 73 hyperconformity 2–3 design 81–3, 118–19; Bauhaus 71 dropping out 101–3 Internet 99; cybercops 101; cyberculture and business 9 effraction 90; break and entry 86; see implosion 4, 50, 94–8, 111, 122; and also symbolic exchange consciousness 83; and nationalism Einsteinism 18, 23 103 electricity: light 48–9; and language 49; and implosion 96–7 Japan 1 Eskimos 107–8, 110–11, 116 Jesus 104, 116 Expo ’67 5, 59, 92, 100; Christian j’explique rien 5 Pavilion 104; Québec Pavilion 5, 92 Expo ’92 4 Latin character 44; Gallic 7, 56, 57, 58; extensions of man 68, 85, 90; mediatic Gallicized name 53; opposed to 58 53; outering 12 liberalism 46, 103–4; cool media 105 families 101; human 102; mafia 101; M et M 58 McLuhan’s 56; commune-ist 116 Ma – Ma – Ma – Ma 58–9 figure and ground 21, 26, 35 Mac 53, 54, 58; Macbeth 54; MacBett French McLuhan 1, 2, 20, 76–8, 98; 57; Macheath 54; Big Mac 58 new 77 Le mac 62 Mack 55 galaxies 39, 41–2, 44, 99, 109, 116; McLuhan: Counterblast 118; Du and detribalization 107; Gutenberg cliché à l’archétype 119–20; 4, 14, 18, 26, 42–3, 47, 51, 85, Explorations in Communication 121; galactic shifts 38; galaxie 16; From Cliché to Archetype 119; MacLuhan 56; and tribalism 106 La galaxie Gutenberg 4, 44; The gap in historical experience 8, 91–2, Gutenberg Galaxy 4, 8, 18, 26, 49– 99, 106 50, 99, 107, 109; The Mechanical Gen-X 43, 105 Bride 18, 24–5, 27–9, 31–2, 34, 107; Global Village 4, 94, 100, 107, 111, Letters 15, 21, 55; The Medium is 121; global consciousness 102–3; the Massage 9, 26, 68; Message et and idiocy 12; and nomadology massage 44; Mutations 1990 44; 110–11; and teamness 9 Pour comprendre les médias 44, 87; grammatology 7, 39–41; écriture 37, 39, Through the Vanishing Point 120; 41; and logocentrism 40 Understanding Media 8, 13, 18–19, 23–4, 29, 68, 78, 85, 95; War and happenings 83, 119–20 Peace in the Global Village 16, 26 hemispheres 25 McLuhanacy 3, 84; McLuhanatic 108 McLuhan renaissance 1, 10, 12, 99</title>
+		<idno type="DOI">10.4324/9780203005217-18</idno>
+		<idno>-0.013 0.049] [9.104 9.143</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_3eYQ77X">McLuhan and Baudrillard</title>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2002-01-04" />
+			<biblScope unit="page" from="148" to="148" />
+		</imprint>
+	</monogr>
+	<note>Participation in decision making Mean 1.909 7. 3.521 Household Level Characteristics HH Head&apos;s Age Mean 52 HH members older than 10 years Mean 1.548 2.937 -1.389*** 2.653 2.01 95% CI [1.50 1.60 1.943 Num. of HH members likely to migrate Mean 1.486 2.763 -1.277*** 2.486 1.92 95% CI [1.44 1.53 1.859 Per Capita Wealth (log) Mean 1.262 7.381 -6.119*** 4.739 5.16 95% CI [0.88 1.64 7.3 7.462 -6.51 -5.728 4.964 Total Per Cápita Exp. (log) Mean 9.349 9.331 0.018 9.124 9.42 95% CI [9.32 9.37 9.311 9.35 9.406 Total Household Savings (log) Mean -8.137 -4.929 -3.208*** -6</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b39">
+	<monogr>
+		<title level="m" type="main" xml:id="_ZeaDzrK">Figure 6. ASPM mRNA is enriched at centrosomes in a translation-dependent manner during mitosis.</title>
+		<idno type="DOI">10.7554/elife.34959.024</idno>
+		<idno>0.691</idno>
+		<imprint>
+			<date>null</date>
+			<publisher>eLife Sciences Publications, Ltd</publisher>
+		</imprint>
+	</monogr>
+	<note>2.094 Distance to Nearest Market Mean 2.644 2. 3.001 Gini Livestock Value Mean 0.729 0.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

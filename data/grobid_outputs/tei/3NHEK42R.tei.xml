@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" xml:id="_QvhVYUc">Does wealth increase affect school enrolment in ultra-poor households: evidence from an experiment in Bangladesh</title>
+				<funder>
+					<orgName type="full">UK Department for International Development (DFID)</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">DFID</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Practical Action Publishing</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2015-06-01">June 2015</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Munshi</forename><surname>Sulaiman</surname></persName>
+							<email>munshi.sulaiman@yale.edu</email>
+							<affiliation key="aff0">
+								<orgName type="institution">Yale University</orgName>
+								<address>
+									<settlement>New Haven</settlement>
+									<region>CT</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="institution">Yale University</orgName>
+								<address>
+									<settlement>New Haven</settlement>
+									<region>CT</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main" xml:id="_xbEyazE">Does wealth increase affect school enrolment in ultra-poor households: evidence from an experiment in Bangladesh</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main" xml:id="_PY2F4Qd">Enterprise Development &amp; Microfinance</title>
+						<idno type="ISSN">1755-1978</idno>
+						<idno type="eISSN">1755-1986</idno>
+						<imprint>
+							<publisher>Practical Action Publishing</publisher>
+							<biblScope unit="volume">26</biblScope>
+							<biblScope unit="issue">2</biblScope>
+							<biblScope unit="page" from="139" to="156"/>
+							<date type="published" when="2015-06-01">June 2015</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">4C2BD34762D440C1EAC7B24D31788F11</idno>
+					<idno type="DOI">10.3362/1755-1986.2015.014</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2025-11-04T18:03+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a292bac</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=1, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=true, generateTeiCoordinates=[true], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term xml:id="_a8QaVUQ">asset transfer</term>
+					<term xml:id="_5SWzKQD">school enrolment</term>
+					<term xml:id="_TezHR2A">programme evaluation</term>
+					<term xml:id="_B5hshzs">Bangladesh</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_9MguJMg"><p xml:id="_JNND3mK">Access to education is usually found to be highly correlated with household income and wealth. This correlation often instigates an expectation that increasing income of the poor households will lead to greater human capital accumulation. This paper exploits randomized roll-out of a large-scale livelihood development programme for the ultra-poor in Bangladesh to measure the effect of asset transfer and livelihood supports on children's schooling. We find limited impact on enrolment although this programme has been extremely successful in transforming the economic lives of the ultra-poor and causing substantial increases in their income and productive assets. The beneficiary households are also found to have increased their expenditures on education. This increase in educational investment, however, has not affected educational attainment during the evaluation period. We also find that the programme increased the extent of child labour immediately after asset transfers. The level of this impact on children's work declines two years after the interventions ended. The increases in child labour are concentrated in activities related to livestock rearing, which is the primary type of asset transferred in this programme. However, we do not find evidence indicating a trade-off between children's enrolment and work. The evidence suggests that asset transfer programmes can be more effective by including additional components focusing on improvement in educational outcomes instead of relying primarily on spillover effects through income gain.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="484.676" lry="691.606"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="484.676" lry="691.606"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="484.676" lry="691.606"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="484.676" lry="691.606"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="484.676" lry="691.606"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="484.676" lry="691.606"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="484.676" lry="691.606"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="484.676" lry="691.606"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="484.676" lry="691.606"/>
+		<surface n="10" ulx="0.0" uly="0.0" lrx="484.676" lry="691.606"/>
+		<surface n="11" ulx="0.0" uly="0.0" lrx="484.676" lry="691.606"/>
+		<surface n="12" ulx="0.0" uly="0.0" lrx="484.676" lry="691.606"/>
+		<surface n="13" ulx="0.0" uly="0.0" lrx="484.676" lry="691.606"/>
+		<surface n="14" ulx="0.0" uly="0.0" lrx="484.676" lry="691.606"/>
+		<surface n="15" ulx="0.0" uly="0.0" lrx="484.676" lry="691.606"/>
+		<surface n="16" ulx="0.0" uly="0.0" lrx="484.676" lry="691.606"/>
+		<surface n="17" ulx="0.0" uly="0.0" lrx="484.676" lry="691.606"/>
+		<surface n="18" ulx="0.0" uly="0.0" lrx="484.676" lry="691.606"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_FMswekt"><p xml:id="_ZC9vnmc">how to increase school enrolment and educational achievements, especially for children from poorer socio-economic backgrounds, is an important policy question for developing countries. Since educational achievement is often strongly associated with household income and wealth <ref type="bibr" target="#b14">(Glewwe and Jacoby, 2004;</ref><ref type="bibr" target="#b15">Grimm, 2011;</ref><ref type="bibr">UNESCO, 2011)</ref>, anti-poverty programmes that are successful in increasing income of poor households have the potential to create a positive spillover effect on school enrolment of their children. On the other hand, such programmes can also have adverse effects on children's education depending on the form of support in these programmes. For example, an increase in productive assets of the poor can increase the demand for child labour and a large enough increase in child labour can reduce school enrolment <ref type="bibr" target="#b9">(Cockburn and Dostie, 2007)</ref>. This paper provides experimental evidence on the impact of an asset transfer programme for the ultra-poor in Bangladesh on children's schooling.</p><p xml:id="_RQEASGd">The programme is called 'Challenging the Frontier of Poverty Reduction/Targeting Ultra-Poor' (CFPR/TUP), which was designed and implemented by an NGO called BRAC in Bangladesh since 2002. This programme is also known as the 'graduation model'. In this programme, ultra-poor households are provided with incomegenerating assets (mostly livestock) along with a range of other supports -including training, stipends, free health care facility, and input supports for their livestock for a specified period -in order to enable them to obtain a more stable livelihood. Evaluations of this approach in Bangladesh indicate that the programme has substantial effects on increasing wealth and income of the participant households <ref type="bibr" target="#b11">(Emran et al., 2014;</ref><ref type="bibr" target="#b0">Ahmed et al., 2009;</ref><ref type="bibr" target="#b21">Rabbani et al., 2006)</ref>. In a randomized evaluation, <ref type="bibr" target="#b5">Bandiera et al. (2013)</ref> confirm large positive impacts of the programme on wealth and income, and transformational effects on livelihood security at the end of the 2-year intervention. More importantly, the sizes of impact on several key indicators have increased further after 4 years (i.e. 2 years after end of programme), clearly demonstrating sustainability of these gains.</p><p xml:id="_jKrU7e6">In this paper, we use data from the experimental evaluation to assess whether the increase in wealth has also caused any intra-household spillover effect on school enrolment of the children. We do not find any significant impact on school enrolment rates for either boys or girls at the end of the programme. This lack of impact is observed at both primary and secondary school age levels. The only positive effect on enrolment rate is observed for secondary school-aged boys after 4 years with an effect size of 7.7 per cent. In terms of new enrolment, there is also a positive impact of 4.7 per cent after 4 years on children who were 3-5 years old at baseline. Besides these modest long-term effects on enrolment, the intervention households are also found to have been spending more on children's education than the control group. In terms of grade repetition, a crude measure of quality of education, there is no major effect. Although girls of primary school age were 7 per cent more likely to have repeated a grade during the intervention phase, this negative effect is no longer observed after 4 years.</p><p xml:id="_A24wc3Y">On the other hand, programme participation had significant immediate impact on increasing the amount of child work for both boys and girls, especially of secondary school age. Concentration of this effect in livestock-rearing activities indicates that the increased demand for child labour is related to livestock transfers. The magnitude of effects on child work, however, decreased after 4 years. We do not find any effect on children's engagement in household chores as a result of their households' being in the programme. Changes in child work also do not show any clear association with the change in their enrolment status after 4 years. We observe statistically significant increases in child labour in beneficiary households irrespective of whether they were enrolled or not. We conclude that these effects on child work do not explain the limited effects on school enrolment. Given that the particular approach of asset transfer followed in TUP has been very successful in creating greater economic opportunities for the ultra-poor and pathways out of extreme poverty, this slow progress in human capital accumulation by their children needs to be considered for further improvement in the model's effectiveness. This is even more important considering the intergenerational persistence of extreme poverty. There are a number of similar graduation programmes being initiated in several countries encouraged by the successes of this model on the livelihood front. These initiatives may benefit by looking beyond the current graduation models in designing interventions, and aiming to impact livelihood and children's welfare simultaneously. For instance, the transfers in TUP are not conditional on school enrolment of the children. Using the case of PROGRESA, de <ref type="bibr" target="#b10">Brauw and Hoddinott (2011)</ref> have shown that it is the conditionality rather than the transfers per se that influences investment in human capital. Therefore, applying conditionality or providing other educational supports targeting school enrolment for the ultra-poor households should be tested in new graduation initiatives.</p><p xml:id="_cqdZddT">The paper is organized as follows. The next section briefly describes the context in terms of inequality in access to education across different income groups in Bangladesh. There follows a discussion of the TUP programme, the experiment design, and data. The results of average effects on school enrolment and child labour are then presented followed by a conclusion with policy implications of the findings.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_swcHVTd">Poverty and school enrolment in Bangladesh</head><p xml:id="_GeagTc3">Access to education is usually associated with the economic well-being of the households. In this section, we briefly examine the variations in school enrolment across different poverty groups in Bangladesh. For this, we rank the households in the national Household Income and Expenditure Survey <ref type="bibr">(HIES-2005)</ref> into quintiles by their per capita adult-equivalent expenditure. BRAC sometimes uses the term 'ultra-poor' to refer to the poorest 10 per cent in income distribution. Therefore, we also separate the households of the poorest quintile into two deciles to observe existence of any inequality in access to education within the poorest end of this welfare distribution.</p><p xml:id="_HWFKbyZ">Table <ref type="table" target="#tab_0">1</ref> shows the net primary and secondary enrolment rates for boys and girls across different expenditure quintiles. We observe significant differences in the net enrolment rates, at both primary and secondary levels, between children living in the poorest and the second poorest quintiles. Boys belonging to households of the poorest quintile had a net primary enrolment rate of 57 per cent, which was significantly lower than the second poorest quintile (65 per cent) in 2005. Despite government initiatives for universal primary education since the early 1990s, this difference in access to education at primary level is quite noteworthy. Significant differences are observed within the bottom quintile as well. When these households are split into two deciles, enrolment rates for the bottom decile are found to be lower (at 53 per cent) compared to the second poorest decile (61 per cent). Similar differences are observed for net primary enrolment rates of girls (60 per cent vs. 66 per cent), and for net secondary enrolment of boys (14 per cent and 27 per cent) and girls (27 per cent and 35 per cent). This pattern of inequality in access to education is sometimes presented to argue that increasing household income for the ultra-poor will lead to an increase in the school enrolment rates of their children (e.g. <ref type="bibr" target="#b18">Maitra, 2003)</ref>. Using impact evaluation data, we demonstrate that this association does not necessarily imply an automatic chain of impacts.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_q6FEtkM">BRAC's ultra-poor programme and evaluation design</head><p xml:id="_qpyWBGa">Programme description BRAC has been a pioneer NGO in implementing programmes that target the extreme poor in Bangladesh, and the ultra-poor programme is one of their more recent initiatives. This paper focuses on the second phase of this programme, which started in 2007 with the aim of reaching over 800,000 households in 40 districts of the country by 2011. The programme targets ultra-poor women in rural areas who are unable to access mainstream social protection programmes. This programme aims to empower the poorest women economically, socially, and psychologically through a multi-faceted intervention package. Participant women are provided with a combination of productive assets (usually cows, goats, poultry, or seeds for vegetable cultivation) as the main entry point. Although some of the other services, such as healthcare, are provided to all the members of beneficiary households and the programme is viewed as a household-level intervention, all the transfers are made through a woman member of each household. They commit to retain and manage the asset for two years but they are allowed to sell it or exchange it for another income-generating asset within that period.</p><p xml:id="_taT2MWj">The asset transfer is accompanied with skills training, specific to the type of asset provided. A trained asset specialist visits each beneficiary household every 1-2 months during the first year of the programme. In addition, BRAC programme officers visit them weekly for about 18 months to ensure that these ultra-poor women, who have limited prior experience of running a business on their own, are fully supported.</p><p xml:id="_7xuyExG">To compensate for any short-run fall in income due to the occupational shift, a weekly subsistence allowance is provided for the first 40 weeks, which is until the participants learn to manage the assets well enough to generate a regular flow of income. Between 18 and 24 months into the programme, the beneficiaries also take part in confidence building sessions about how to use microfinance and are enrolled in village-level microfinance groups.</p><p xml:id="_RMEBbbS">Other components of the programme include savings facility, preventive and curative health care services, and social development support involving training on legal, social, and political rights. The ultra-poor households receive monthly visits from a health volunteer and get access to BRAC's legal services. There are also provisions for full cost of treatment if any member of the beneficiary households suffers a major illness. These health supports are designed to reduce costly morbidity and distress sales of assets. In addition, BRAC initiates the establishment of village committees that bring together representatives from the village elite and ultra-poor households. These committees extend social and financial supports to all the beneficiary households. <ref type="bibr" target="#b19">Matin et al. (2008)</ref> give a more elaborate explanation of the programme components and their purposes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_pRS8u4C">Targeting</head><p xml:id="_GdvV7Rb">At the first step, geographical targeting is done to determine which district and sub-districts are to be selected for the programme. These are chosen to be the most vulnerable parts of the country in terms of food insecurity mapping conducted by the World Food Programme (WFP). After this site selection, teams from respective local BRAC branch offices select the relatively poorer communities within their operational area.</p><p xml:id="_AMje3G6">The programme uses a combination of participatory wealth ranking and survey methods to identify the ultra-poor households in each community. A participatory rural appraisal (PRA) is conducted to list all the households in a village and to divide them into 4-5 community-defined wealth categories. Households ranked in the lowest wealth group become the 'community-defined ultra-poor'. In the final stage of targeting, the BRAC team visits these community-defined ultra-poor households and conducts a brief survey. This data is used to determine programme eligibility based on pre-defined selection criteria. There are three exclusion criteria, all of which are binding. Households who are already borrowing from a microfinance institute, who are recipients of any government anti-poverty programmes, and who have no adult woman in their members, are excluded from the programme. Furthermore, to be selected into the programme, a household has to satisfy at least three of the following five inclusion criteria: 1) total land owned including homestead is not more than 10 decimals; 2) there is no adult male income earner in the household; 3) adult women in the household work outside the homestead; 4) school-aged children have to work; and 5) the household has no productive assets. After further cross-checks by branch managers, to make sure that the information provided in the survey is correct, the households satisfying at least three of these inclusion criteria and none of the exclusion criteria are defined as the Specially Targeted Ultra-Poor (STUP) households. All these STUP households are targeted by the programme and receive the full intervention package.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_GYhbamh">Evaluation strategy and survey design</head><p xml:id="_wrFGwXh">The roll-out of the programme was randomized to identify the effects of the programme by comparing the changes in treated to control households before and after the interventions. Details of the randomization protocol are available in the main impact evaluation paper by <ref type="bibr" target="#b5">Bandiera et al. (2013)</ref>. Randomization was done at branch office level so that all selected communities within a branch were treated either in 2007 or after 2011. We survey all ultra-poor households selected by the programme in these branches at baseline and every two years, and the programme rolled-out in control areas after the second follow-up survey. Data used in this paper covers a total of 40 branches (of which 20 are treated), 1,409 villages and 6,814 STUP households who have been interviewed both in the baseline (in 2007) and in the two follow-up surveys <ref type="bibr">(in 2009 and 2011)</ref>.</p><p xml:id="_7C6QPTG">Ultra-poor households were selected, using the targeting method outlined above, at the same time in both treatment and control branches. The only difference between them is that the ultra-poor in treated branches received the assets and other interventions immediately after baseline whereas the ultra-poor in control branches received those after 2011. The baseline survey was carried out to measure the pre-programme characteristics of treatment and control households. <ref type="bibr" target="#b5">Bandiera et al. (2013)</ref> find that the STUP households from treatment and control branches had very similar characteristics at baseline. <ref type="bibr" target="#b16">Imbens and Wooldridge (2009)</ref> suggest the normalized differences between treatment and control groups should be less than 0.25, as a rule of thumb, for consistency of estimates. Normalized differences between the two groups are found to be lower than 0.15 for a range of baseline characteristics for this evaluation.</p><p xml:id="_KHcXbWn">The first follow-up survey was carried out on the same households during January-December 2009. There were on average 800 (minimum 511, maximum 987) days in between the baseline and follow-up surveys for a household. This implies that by </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_6dPMtrK">Findings</head><p xml:id="_d5THdvj">In this section we present the estimates of average effects of programme participation on school enrolment, a few other education-related indicators, and extent of child labour. We measure the average impact using the following difference-indifference estimate 0 1 2 3 ijt j t j t ijt y treat followup treat followup u</p><formula xml:id="formula_0">β β β β = + + + × + (1)</formula><p xml:id="_jX8cjBG">where y it is a dummy equal to 1 if the individual i from household j in time t is enrolled in school and 0 otherwise. Treat j is a dummy for household j being assigned to treatment in the randomized experiment, followup t is a dummy equal to 1 for each follow-up survey period and u ijt is the error term. The coefficient of the interactions between treatment and follow-up surveys (β 3 ) identify the impacts of the programme under two key assumptions of: 1) common trend between treatment and control groups; and 2) no spillover effect on the control group. Since the control households come from villages located within control branch offices, there is no concern about spillover effect on them. We also look into the average effects after controlling for individual and household characteristics at baseline. While the baseline characteristics are uncorrelated with treatment status, thanks to randomization, and unlikely to affect the coefficients, inclusion of these controls can improve precision of the estimated impacts. We, however, do not find any qualitative difference between the estimates with and without the baseline controls and, therefore, present only the estimates without controls. Before presenting the estimates of the impact on the children's outcomes, Figure 1 graphically presents the impact of the programme on household wealth. In this graph, average values of total household assets at baseline and follow-up surveys (in 2007 price) are presented by their intervention status. This shows that these two groups of households owned a similar level of assets at baseline. While the households in control branches experienced some growth in assets between baseline and follow-up, the growth was substantially higher for the treatment households. By the end of programme interventions at first follow-up, treatment households owned about twice the amount of assets of the control group. This impact on asset ownership increases further at the second follow-up, and the impacts are substantially larger than the amount of assets they received from the programme. This shows that the beneficiary households have not only managed to retain the assets but also have accumulated further assets. <ref type="bibr" target="#b5">Bandiera et al. (2013)</ref> critically evaluate the impact of the programme on income, economic activities, and assets. They find very large effects on all these dimensions, and the graph is presented to put the main effects of the programme into perspective. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_Vjs45sU">Effects on schooling</head><p xml:id="_3KcPhZd">Table 2 presents impact estimates on school enrolment for the cohorts of boys and girls who are of primary (6-10 years) and secondary (11-15 years) school age during the three survey rounds. Enrolment rate for boys of primary school age in control households was 73 per cent at baseline (Column 1). There was no significant difference between the children in treatment and control groups at baseline. There was also no significant change in these enrolment rates between the baseline and the follow-up surveys for control group. The difference-in-difference estimate on the enrolment rate of primary school age boys after 2 years (at the first follow-up) is -0.04 and statistically not significant. Average effect of 2 per cent for this cohort after 4 years is also not significant. This implies that the programme did not have a significant impact on enrolment rate of these boys. The same average effects have been measured separately for girls of primary school age (Column 2), and for secondary school age boys (Column 3) and girls (Column 4). Column 5 gives the average effects estimated for all the children in the 6-15 years age cohorts. The results show that none of these impacts is statistically significant, except for the effect on boys of secondary school age after 4 years. There is a 7.7 per cent increase in enrolment for these boys in intervention households compared to the control group at the second follow-up. Most of these not significant effects are quite precisely estimated. For instance, we can reject any positive effect of least 4 per cent on enrolment of girls at 5 per cent significance level after both 2 and 4 years. The evidence clearly shows that the programme did not have any impact on enrolment after 2 years, but there is a long-term positive effect on secondary school enrolment of boys. Boys of secondary school age had a lower enrolment rate (40 per cent) than the girls of the same age group (51 per cent). Both boys and girls of this age bracket have experienced similar general improvement, shown by the changes in control groups, during the 4 years (18 vs. 17 per cent). The interventions impacting enrolment of only secondary school-aged boys (and not the</p><p xml:id="_RQNUwAN">${protocol}://<ref type="url" target="www.developmentbookshelf.com/doi/pdf/10.3362/1755-1986.2015.014">www.developmentbookshelf.com/doi/pdf/10.3362/1755-1986.2015.014</ref> -Wednesday, August 29, 2018 10:11:09 PM -St. Francis Xavier University IP Address:132.174.255.250 WEALTH AND SCHOOL ENROLMENT, BANGLADESH 147 Enterprise Development and Microfi nance Vol. 26 No. 2 June 2015</p><p xml:id="_G54rzkg">girls) can be a potential 'catch-up' effect. Greater emphasis by the government on secondary school scholarships for girls than for boys can also be a reason for this difference. Further investigation of this scholarship programme hypothesis would require collecting data on scholarships available in these communities. Figure <ref type="figure" target="#fig_5">2</ref> gives a visual depiction of this general lack of impact on enrolment rates for all school-aged children.</p><p xml:id="_qXBHuJA">Despite the huge successes of the programme in increasing income and assets of the beneficiaries, the lack of impact on enrolment is a cause of concern. It is possible that it takes longer than 2 or 4 years for the increases in asset or income to influence children's education-related outcomes and here we look at relatively short-run effects. However, using non-participant ultra-poor households from the treatment villages as a comparison group in an evaluation of the previous phase of this programme, <ref type="bibr" target="#b26">Sulaiman (2010)</ref> does not find any significant effect on children's school enrolment after 3 to 6 years of programme participation.</p><p xml:id="_vwwjKGr">Although enrolment rate is the most common measure of access to education, there are other aspects of education that could potentially be influenced by wealth. More importantly, enrolment does not reflect the students' performance in schools or education attainments. It is possible that the programme may have affected achievement of the students if households invested more in quality of education than in its quantity. Table <ref type="table" target="#tab_2">3</ref> looks into the effect on three different indicators related to access and household investments in education. Columns 1 and 2 measure the effect on new enrolment for boys and girls who are 3-5 years old and not enrolled at baseline. Among these boys, 43 per cent and 80 per cent in the control group get enrolled 2 and 4 years later, respectively. There is no statistical difference between treatment and control group after 2 years, but it is 4.7 per cent higher for treatment group after 4 years. It indicates that the programme may have some influence on household decisions for fresh enrolments for boys. However, this difference is not statistically strong with 10 per cent level of significance. We do not find any positive effect on this indicator for girls. Columns 3 and 4 measure the programme effects on the extent of supplementary private tutoring for students at primary and secondary schools. Private tutoring has been becoming a norm in Bangladesh even at primary level <ref type="bibr" target="#b20">(Nath, 2008)</ref>. Given that a large portion of the students in these ultra-poor households are first generation learners, they need such tutoring the most although their parents can least afford it. The point estimates of effects on this indicator are positive although have weak statistical significance only for boys in primary schools (3.5 per cent) after 2 years. Therefore, we can rule out any consistent effect on increasing supplementary private tutoring. In terms of household expenses for education, Table <ref type="table" target="#tab_2">3</ref> shows positive effects after 4 years in households with at least one child attending primary or secondary schools. The effect sizes are substantial compared to the baseline mean of control group -about 85 per cent impact if all the households are included and 30 per cent impact when the outliers (5 per cent observations with the highest amounts spent) are dropped. These results suggest that the increase in wealth and income could influence households' educational investments in the long run although we do not see strong short-term impacts on enrolments.</p><p xml:id="_k8NNmSS">Data on test scores and other schooling outcomes were not collected in this study. As a proxy for school achievement, we can measure the effects of the programme on ${protocol}://<ref type="url" target="www.developmentbookshelf.com/doi/pdf/10.3362/1755-1986.2015.014">www.developmentbookshelf.com/doi/pdf/10.3362/1755-1986.2015.014</ref> -Wednesday, August 29, 2018 10:11:09 PM -St. Francis Xavier University IP Address:132.174.255.250 WEALTH AND SCHOOL ENROLMENT, BANGLADESH 149 Enterprise Development and Microfi nance Vol. 26 No. 2 June 2015</p><p xml:id="_EwFad3X">grade repetition (attending the same grade for more than one year) by the enrolled in schools. Table <ref type="table" target="#tab_3">4</ref> presents the estimated impacts on grade repetition for children who were enrolled both at baseline and the respective follow-up surveys. We find that the programme did not have any significant impact on grade repetition for boys. The likelihoods of grade repetition significantly increased (by 7 per cent) for girls of primary school age (Column 3) after 2 years. One explanation for this increase in grade repetition could have been that more households in the intervention group are letting their poorly performing girls stay in schools who would otherwise drop out. This explanation implies that we would see a positive effect on net enrolment, which is not the case. Therefore, there is a short-term effect on lower educational attainment for girls. This negative effect on school attainment is no longer observed after 4 years.</p><p xml:id="_dDCQSrU">Our analysis could potentially go beyond these average effects. For instance, it is possible that influence of asset or income increase on human capital accumulation is determined by the quality of schools that they can access. However, there are many such dimensions that one could possibly look at for heterogeneity of impacts. Without very strong prior reasoning, such analyses are susceptible to false discoveries. With this important caution, we also looked at heterogeneity of impacts on enrolment by distance to the nearest primary/secondary schools, sex of household head, and the number of siblings of schooling age (results not presented). We do not find any significantly consistent pattern from this analysis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_FteDvAH">Effects on children's work</head><p xml:id="_Pf6BBjJ">Table <ref type="table" target="#tab_4">5</ref> presents the impact estimates on child labour using the same difference-indifference specification, where the dependent variables are total hours spent in the last year in any earning activities, in livestock rearing, and in household chores. For simplicity, we present only the effect sizes and control group average at baseline.</p><p xml:id="_sG2PRet">Point estimates of the impacts on total hours of work are between 38 and 66 hours for children of primary school age after 2 years (Columns 1 and 4 in Panel A). Quite understandably, the effects are relatively larger for older children (between 157 and 239 hours in Panel B). These average effects translate to about 25 to 40 minutes of total work per day. This does not appear to be extremely high. The magnitudes of the effects also reduce substantially after 4 years for secondary school-age girls, who had the highest increase in 2 years. However, an important question related to this child work and welfare is the type of activities that they are engaged in.</p><p xml:id="_aaaztKY">Columns 2 and 5 show that the major portion of the effects on overall child labour comes from increase in activities related to livestock rearing, especially by secondary school-aged children. The level of increase in hours spent on livestockrelated activities does not vary significantly between boys and girls. Similar to the pattern of impacts on total hours of work in any earning activity, there are significant drops in the effect sizes after 4 years. Using household level aggregates of children's work as an indicator, <ref type="bibr" target="#b5">Bandiera et al. (2013)</ref> also show the same pattern in declining effects on child labour. While it is encouraging for the programme, there is a lack of adequate explanation of this decline. We can rule out this being a potential cohort effect, whereby the intervention effects decline as the children get older and stop doing particular types of work. If this were a cohort effect, we would have observed such a decline when measuring impacts by comparing intervention and control children by their baseline age cohorts, but less sharper declines by comparing children in the same age groups of the survey years. We do not see any difference in the impact estimates by these two alternative cohort analyses (results available upon request). One conjecture based on anecdotal evidence is that some children start helping their families with livestock rearing out of excitement, which may subside over time <ref type="bibr" target="#b26">(Sulaiman, 2010)</ref>. Finally, we do not find any programme effect on children's engagement in household chores. Although these results show that transfer of assets for livelihood promotion can have an immediate increase in child labour for the ultra-poor households and this effect may taper off gradually, these do not necessarily imply a trade-off between child labour and school enrolment.</p><p xml:id="_B37Gey2">To explore how the changes in time spent for earning activities are associated with the changes in enrolment, Figure <ref type="figure" target="#fig_6">3</ref> shows the average changes in hours spent in livestock rearing by the changes in enrolment status of the children. Since these changes happen simultaneously after the programme interventions, we cannot assess causality between the changes in these two indicators. However, there are three key patterns that we observe in this graph. First, conforming to the previous average effects, the graph shows that the treatment households had larger increases in the amount of child labour in livestock rearing compared to control. Second, there are noticeable differences across the four enrolment groups in treatment households after 2 years. Children from treatment households who dropped out between the two survey rounds had the highest increase in time spent on livestock rearing. On the other hand, the newly enrolled children experienced the lowest increase in their hours of work in this activity. Always enrolled and never enrolled children observed a similar increase in their work hours between the two rounds. WEALTH AND SCHOOL ENROLMENT, BANGLADESH 153 Enterprise Development and Microfi nance Vol. 26 No. 2 June 2015</p><p xml:id="_rSdCrQz">Finally, these associations between change in enrolment and change in children's work hours in livestock rearing become far less prominent after 4 years. The extent of the increase in work hours for always enrolled children in treatment households implies that increased child labour cannot be the main explanation for lack of impact on enrolment. Overall it seems that the increase in work hours is most likely to be happening through reduced leisure. Nonetheless, this increase in demand for children's work, albeit small, is an aspect to be aware of in designing and implementing livelihood promotion programmes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_HkJrETF">Policy implications and conclusion</head><p xml:id="_v6YVwd3">The results presented in this paper show that the asset transfers in this graduation model did not have any major immediate impact on school enrolment of children and increased the extent of child labour. Despite its laudable successes in accelerating growth in income of the ultra-poor households, this is an important concern in measuring success of this approach to poverty reduction, especially in the context of breaking inter generational poverty traps through increased human capital accumulation. Since household poverty is found to be a key determinant of access to education, progress in poverty reduction is often expected to yield improvement in education. For example, <ref type="bibr" target="#b18">Maitra (2003)</ref> claims that educational attainment of children increases with an increased permanent income of the household in Bangladesh. This paper has demonstrated that improvement in schooling does not automatically follow an increase in income and wealth.</p><p xml:id="_AjNuzw8">The Consultative Group to Assist the Poor (CGAP), in association with Ford Foundation, has undertaken major initiatives to test and scale-up this livelihood approach in over 10 countries. Experimental evaluations under their Graduation programme show large effects of the model on income and assets of the ultra-poor beneficiaries in India, Pakistan, Ethiopia, Ghana, and Peru <ref type="bibr">(Banerjee et al., forthcoming)</ref>. The magnitudes and sustainability of the effects on livelihood outcomes make the model a potentially attractive tool in social protection programmes in many developing countries. Although improving educational outcomes is usually not a primary objective of this model, there is scope for making future initiatives more effective by incorporating new aspects in the package. The findings presented in this paper have similar implications also for other livelihood promotion programmes.</p><p xml:id="_nmT5wMc">One particular avenue to explore for improving educational outcomes is making (parts of) the transfer conditional on schooling. In recent years, there has been a surge in the number of conditional transfer programmes to promote schooling and other human capital accumulation by the poor. Triggered by the success of PROGRESA, a number of conditional cash transfer (CCT) programmes have been initiated in many developing countries. A large and growing literature has demonstrated the positive effects of CCTs on school enrolment (e.g. <ref type="bibr" target="#b24">Skoufias, 2005;</ref><ref type="bibr" target="#b2">Attanasio et al., 2006)</ref>. While there is a general consensus across studies about the positive effects on enrolment, there is relatively less consistency in the evidence ${protocol}://<ref type="url" target="www.developmentbookshelf.com/doi/pdf/10.3362/1755-1986.2015.014">www.developmentbookshelf.com/doi/pdf/10.3362/1755-1986.2015.014</ref> -Wednesday, August 29, 2018 10:11:09 PM -St. Francis Xavier University IP Address:132.174.255.250 on children's performance in schools <ref type="bibr" target="#b13">(Garcia and Hill, 2010)</ref>. <ref type="bibr" target="#b7">Barham et al. (2013)</ref> find that even the short-term impacts on enrolment achieved by a 3-year CCT could result in significant difference in learning outcomes after 10 years. Given the differences in effects on school enrolment between the two types of programmes, the conditionality aspect of cash transfer can be tested within the graduation model. In fact, using the case of PROGRESA, de <ref type="bibr" target="#b10">Brauw and Hoddinott (2011)</ref> show that it is the conditionality, rather than the transfer itself, that influences investment in human capital. <ref type="bibr" target="#b3">Baird et al. (2011)</ref>, in their experimental study of conditionality with cash transfers in Malawi, also find significant influence of conditionality on school attendance and learning outcomes for adolescent girls. This study, however, also finds that unconditional transfer reduces teenage pregnancy and marriage rates for school dropouts, which is naturally not feasible to achieve with conditionality of school attendance. Despite this debate on outcomes beyond education for non-enrolled children, the existing evidence supports a policy suggestion of piloting conditionality in livelihood programmes that involve transfers.</p><p xml:id="_ch4c4UB">These two approaches, graduation vs. CCT, are different not only in imposing conditionality but also in many other important aspects. The form of transfer (cash vs. productive assets) is one of the other key important differences. While asset transfer in the ultra-poor programme has been found successful in increasing income of the poor, this approach has also increased the demand for child labour in the beneficiary households. Change in the demand for child labour is often identified as an important link in the 'poverty-education nexus' <ref type="bibr" target="#b1">(Amin et al., 2004)</ref> although there is weak correlation between child labour and school enrolment <ref type="bibr" target="#b22">(Ravallion and Wodon, 2000)</ref> in Bangladesh. Using detailed information of time use by the children in rural Ethiopia, <ref type="bibr" target="#b9">Cockburn and Dostie (2007)</ref> find that demand for child labour increases with asset accumulation. According to their findings, an increase in the ownership of livestock increases demand for child labour while an increase in income reduces child labour and increases demand for education. The net effect is determined by the relative magnitudes of these two effects. However, the findings in this paper do not indicate increased child labour as a key constraint in achieving impact on education.</p><p xml:id="_7UGsvfg">Evaluations of CCTs, in general, observe a decrease in child labour <ref type="bibr" target="#b23">(Schultz, 2004;</ref><ref type="bibr" target="#b24">Skoufias, 2005)</ref>. In their evaluation of a CCT programme in rural Colombia, <ref type="bibr" target="#b2">Attanasio et al. (2006)</ref> find that time spent in education and work are not complete substitutes for each other. Children may draw some of their time from leisure to increase time spent in schools. It is likely that a similar reallocation of time between leisure and work happens because of asset transfers, especially when the asset management requires work that can be done by a child. Therefore, through adding conditionality in asset transfer programmes, it might be possible to influence enrolment with/without a simultaneous increase in child labour. Given that the largest effect on children's work observed is about 40 minutes per day and these effects decline significantly after 4 years, a direct focus on education seems to hold more promise than trying to avoid any increase in children's work. The process of imposing conditionality, however, needs to be thought through. While cash transfers can stop when the household fails to meet the conditionality, asset transfers are mostly done</p><p xml:id="_ash7byx">${protocol}://<ref type="url" target="www.developmentbookshelf.com/doi/pdf/10.3362/1755-1986.2015.014">www.developmentbookshelf.com/doi/pdf/10.3362/1755-1986.2015.014</ref> -Wednesday, August 29, 2018 10:11:09 PM -St. Francis Xavier University IP Address:132.174.255.250 WEALTH AND SCHOOL ENROLMENT, BANGLADESH 155 Enterprise Development and Microfi nance Vol. 26 No. 2 June 2015</p><p xml:id="_DgqTyyb">in one go and may not have the same level of enforceability. Alternatively, other supports in this graduation model (such as the weekly allowance) can potentially be tied to children's school attendance.</p><p xml:id="_pSqV45R">It is also important to highlight that the programme participants in this evaluation are found to have increased their investments in education after 4 years. This shows that the increase in wealth does have some spillover effects on education. The main argument is that the process can be very slow, and livelihood programmes can be more proactive in influencing inter generational poverty dynamics by focusing on greater human capital accumulation.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>$</head><figDesc xml:id="_MDpKndq">{protocol}://www.developmentbookshelf.com/doi/pdf/10.3362/1755-1986.2015.014 -Wednesday, August 29, 2018 10:11:09 PM -St. Francis Xavier University IP Address:132.174.255.250 WEALTH AND SCHOOL ENROLMENT, BANGLADESH 141 Enterprise Development and Microfi nance Vol. 26 No. 2 June 2015</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>$</head><figDesc xml:id="_ncGksqR">{protocol}://www.developmentbookshelf.com/doi/pdf/10.3362/1755-1986.2015.014 -Wednesday, August 29, 2018 10:11:09 PM -St. Francis Xavier University IP Address:132.174.255.250</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>$</head><figDesc xml:id="_ssXK3yt">{protocol}://www.developmentbookshelf.com/doi/pdf/10.3362/1755-1986.2015.014 -Wednesday, August 29, 2018 10:11:09 PM -St. Francis Xavier University IP Address:132.174.255.250</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><figDesc xml:id="_eDHTYyn">${protocol}://www.developmentbookshelf.com/doi/pdf/10.3362/1755-1986.2015.014 -Wednesday, August 29, 2018 10:11:09 PM -St. Francis Xavier University IP Address:132.174.255.250 WEALTH AND SCHOOL ENROLMENT, BANGLADESH 145 Enterprise Development and Microfi nance Vol. 26 No. 2 June 2015 the time we observed the treated households at follow-up the most intensive part of the programme was just completed. The second follow-up in 2011 was done to measure the sustainability of the effects 2 years after the end of all interventions.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 1</head><label>1</label><figDesc xml:id="_AmXbJw7">Figure 1 Average asset growth between treatment and control</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Figure 2</head><label>2</label><figDesc xml:id="_45GEDF7">Figure2Enrolment rates of all school-aged (primary and secondary) children</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Figure 3</head><label>3</label><figDesc xml:id="_cg43RvC">Figure 3 Association between change in enrolment and change in livestock hours ${protocol}://www.developmentbookshelf.com/doi/pdf/10.3362/1755-1986.2015.014 -Wednesday, August 29, 2018 10:11:09 PM -St. Francis Xavier University IP Address:132.174.255.250</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc xml:id="_3TXhgKA">Net enrolment rates among household expenditure groups(2005)    </figDesc><table><row><cell>${protocol}://www.developmentbookshelf.com/doi/pdf/10.3362/1755-1986.2015.014 -Wednesday, August 29, 2018 10:11:09 PM -St. Francis Xavier University IP Address:132.174.255.250</cell><cell>Household category Poorest quintile 2 nd quintile 3 rd quintile 4 th quintile Richest quintile Total t-test (bottom two quintiles) 2 nd decile Bottom decile t-test (bottom two deciles) Note: *** p&lt;0.01, ** p&lt;0.05, * p&lt;0.1 Source: Estimates from HIES-2005</cell><cell>Net primary Boys Girls 57 63 65 68 72 70 74 77 81 80 68 71 3.09*** 1.88** 61 66 53 60 2.58** 1.69*</cell><cell>Net secondary Boys Girls 20 31 31 43 38 54 54 63 69 72 41 51 4.71*** 4.47*** 27 35 14 27 4.14*** 2.24**</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc xml:id="_GbRjrj7">Average effect on school enrolment</figDesc><table><row><cell></cell><cell cols="2">Primary</cell><cell cols="2">Secondary</cell><cell>All children</cell></row><row><cell></cell><cell cols="2">school age</cell><cell cols="2">school age</cell><cell>of school</cell></row><row><cell></cell><cell>Boys</cell><cell>Girls</cell><cell>Boys</cell><cell>Girls</cell><cell>going age</cell></row><row><cell></cell><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell><cell>(4)</cell><cell>(5)</cell></row><row><cell>Treatment</cell><cell>0.028</cell><cell>0.038</cell><cell>-0.038</cell><cell>0.029</cell><cell>0.017</cell></row><row><cell>(1=Yes, 0=No)</cell><cell>(0.02)</cell><cell>(0.02)</cell><cell>(0.03)</cell><cell>(0.03)</cell><cell>(0.02)</cell></row><row><cell>Follow-up 1</cell><cell>0.014</cell><cell>0.028</cell><cell>0.046</cell><cell>0.053</cell><cell>0.021</cell></row><row><cell>(2 years after)</cell><cell>(0.02)</cell><cell>(0.02)</cell><cell>(0.03)*</cell><cell>(0.03)*</cell><cell>(0.01)*</cell></row><row><cell>Follow-up 2</cell><cell>0.039</cell><cell>0.064</cell><cell>0.182</cell><cell>0.165</cell><cell>0.082</cell></row><row><cell>(4 years after)</cell><cell>(0.02)</cell><cell>(0.02)***</cell><cell>(0.03)***</cell><cell>(0.03)***</cell><cell>(0.01)***</cell></row><row><cell>Programme</cell><cell>-0.041</cell><cell>-0.018</cell><cell>0.052</cell><cell>-0.053</cell><cell>-0.014</cell></row><row><cell>effect after</cell><cell>(0.03)</cell><cell>(0.03)</cell><cell>(0.03)</cell><cell>(0.04)</cell><cell>(0.02)</cell></row><row><cell>2 years</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Programme</cell><cell>0.017</cell><cell>-0.030</cell><cell>0.077</cell><cell>-0.023</cell><cell>0.010</cell></row><row><cell>effect after</cell><cell>(0.03)</cell><cell>(0.03)</cell><cell>(0.04)**</cell><cell>(0.04)</cell><cell>(0.02)</cell></row><row><cell>4 years</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Constant</cell><cell>0.725</cell><cell>0.736</cell><cell>0.400</cell><cell>0.515</cell><cell>0.620</cell></row><row><cell>(control group</cell><cell>(0.02)***</cell><cell>(0.02)***</cell><cell>(0.02)***</cell><cell>(0.02)***</cell><cell>(0.01)***</cell></row><row><cell>at baseline)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Observations</cell><cell>5,190</cell><cell>4,669</cell><cell>4,205</cell><cell>3,811</cell><cell>17,875</cell></row><row><cell>R-squared</cell><cell>0.005</cell><cell>0.003</cell><cell>0.037</cell><cell>0.019</cell><cell>0.007</cell></row></table><note xml:id="_ZK7sxzp"><p>Note: Children categorized by their age in survey years. Standard errors in parenthesis clustered at village level; *** p&lt;0.01, ** p&lt;0.05, * p&lt;0.1 ${protocol}://www.developmentbookshelf.com/doi/pdf/10.3362/1755-1986.2015.014 -Wednesday, August 29, 2018 10:11:09 PM -St. Francis Xavier University IP Address:132.174.255.250</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc xml:id="_NNcJ34V">Average effects on new enrolment, private tutoring, and education expenses ${protocol}://www.developmentbookshelf.com/doi/pdf/10.3362/1755-1986.2015.014 -Wednesday, August 29, 2018 10:11:09 PM -St. Francis Xavier University IP Address:132.174.255.250</figDesc><table><row><cell></cell><cell cols="2">New enrolment</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell cols="2">of children aged</cell><cell cols="2">Private supplementary</cell><cell cols="2">Household expenses</cell></row><row><cell></cell><cell cols="2">3-5 years at baseline</cell><cell cols="2">tutoring</cell><cell cols="2">on education</cell></row><row><cell></cell><cell>Boys</cell><cell>Girls</cell><cell>Primary</cell><cell cols="2">Secondary All eligible</cell><cell>Trimmed</cell></row><row><cell></cell><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell><cell>(4)</cell><cell>(5)</cell><cell>(6)</cell></row><row><cell>Treatment (1=Yes, 0=No)</cell><cell>-</cell><cell>-</cell><cell>-0.019 (0.02)</cell><cell>-0.011 (0.03)</cell><cell>-3.568 (56.12)</cell><cell>29.601 (38.50)</cell></row><row><cell>Follow-up 1</cell><cell>0.429</cell><cell>0.462</cell><cell>-0.023</cell><cell>-0.010</cell><cell>220.554</cell><cell>89.353</cell></row><row><cell>(2-years after)</cell><cell>(0.03)***</cell><cell>(0.03)***</cell><cell>(0.02)</cell><cell>(0.02)</cell><cell>(85.65)**</cell><cell>(33.26)***</cell></row><row><cell>Follow-up 2</cell><cell>0.804</cell><cell>0.826</cell><cell>0.035</cell><cell>0.121</cell><cell>120.647</cell><cell>173.363</cell></row><row><cell>(4-years after)</cell><cell>(0.02)***</cell><cell>(0.02)***</cell><cell>(0.02)*</cell><cell>(0.03)***</cell><cell>(45.76)***</cell><cell>(36.84)***</cell></row><row><cell>Programme effect</cell><cell>-0.010</cell><cell>-0.024</cell><cell>0.035</cell><cell>0.034</cell><cell>-45.800</cell><cell>16.260</cell></row><row><cell>after 2 years</cell><cell>(0.03)</cell><cell>(0.04)</cell><cell>(0.02)*</cell><cell>(0.03)</cell><cell>(101.94)</cell><cell>(44.51)</cell></row><row><cell>Programme effect</cell><cell>0.047</cell><cell>-0.004</cell><cell>0.035</cell><cell>0.008</cell><cell>498.059</cell><cell>152.872</cell></row><row><cell>after 4 years</cell><cell>(0.03)*</cell><cell>(0.03)</cell><cell>(0.02)</cell><cell>(0.04)</cell><cell>(95.45)***</cell><cell>(52.11)***</cell></row><row><cell>Constant (control group at baseline)</cell><cell>-</cell><cell>-</cell><cell>0.136 (0.01)***</cell><cell>0.186 (0.02)***</cell><cell>589.491 (37.24)***</cell><cell>504.942 (25.32)***</cell></row><row><cell>Observations</cell><cell>2,977</cell><cell>2,769</cell><cell>7,528</cell><cell>4,314</cell><cell>8,428</cell><cell>8,343</cell></row><row><cell>R-squared</cell><cell>0.688</cell><cell>0.684</cell><cell>0.006</cell><cell>0.020</cell><cell>0.011</cell><cell>0.017</cell></row></table><note xml:id="_FT7C7Wt"><p>Note: Columns 1 and 2 compare enrolment rates of children who were below schooling age at baseline and were not enrolled. Columns 3 and 4 are children of school age groups in survey years and are enrolled in the respective survey rounds. Column 5 includes all households with at least one child of school-going age, and column 6 drops the 1 per cent observations with the highest amounts spent for education. Standard errors in parenthesis clustered at village level; *** p&lt;0.01, ** p&lt;0.05, * p&lt;0.1</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4</head><label>4</label><figDesc xml:id="_gxhFKSG">Average effect on likelihood of grade repetition</figDesc><table><row><cell>${protocol}://www.developmentbookshelf.com/doi/pdf/10.3362/1755-1986.2015.014 -Wednesday, August 29, 2018 10:11:09 PM -St. Francis Xavier University IP Address:132.174.255.250</cell><cell>Primary school age Boys Girls 2 years After After 4 years After 2 years 4 years After (1) (2) (3) (4) 0.040 (0.03) -0.059 (0.03)* 0.072 (0.03)** 0.026 (0.04) 0.309 (0.02)*** 0.610 (0.03)*** 0.278 (0.02)*** 0.496 (0.03)*** 1,142 956 1,063 902 0.002 0.003 0.006 0.001 Note: Children categorized by their age at baseline. Analysis consists of children who were Secondary school age Boys Girls After 2 years After 4 years After 2 years After 4 years (5) (6) (7) (8) Treatment (1=Yes, 0=No) -0.017 (0.05) -0.001 (0.07) 0.052 (0.04) -0.009 (0.07) Constant (Control mean) 0.179 (0.04)*** 0.219 (0.05)*** 0.140 (0.03)*** 0.262 (0.05)*** Observations 242 174 319 187 R-squared 0.001 0.000 0.005 0.000 enrolled at both the baseline and the respective follow-up rounds. Standard errors in parenthesis clustered at village level; *** p&lt;0.01, ** p&lt;0.05, * p&lt;0.1</cell></row></table><note xml:id="_jWs9MeM"><p>Enterprise Development and Microfi nance Vol. 26 No. 2</p><p>June 2015</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 5</head><label>5</label><figDesc xml:id="_hZ2kHaz">Average effect on time spent in earning activities and household chores Children categorized by their age in survey years. Outcome variables are total hours spent last year in any income-earning activities in column 1, the total hours spent in animal husbandry in the last year in column 2, and total hours spent in household chores in column 3. Total annual hours are calculated by multiplying the number of days they worked on each activity and number of hours spent for those activities on typical days. Only the average programme effects after 2 and 4 years and control mean at baseline are reported from full regression tables.</figDesc><table><row><cell>${protocol}://www.developmentbookshelf.com/doi/pdf/10.3362/1755-1986.2015.014 -Wednesday, August 29, 2018 10:11:09 PM -St. Francis Xavier University IP Address:132.174.255.250</cell><cell>Boys Livestock rearing (2) Panel A. Primary school age (6-10 years) Earning activities (1) Programme effect after 2 years 65.86 (21.95)*** 35.45 (7.57)*** Programme effect after 4 years 46.09 (21.92)** 25.96 (8.80)*** p-value (Year 2 effect = Year 4 effects) 0.315 0.230 Constant (control group at baseline) 88.69 (15.30)*** 14.84 (4.27)*** Observations 5,190 5,190 R-squared 0.003 0.012 Panel B. Secondary school age (11-15 years) Programme effect after 2 years 157.62 (76.73)** 122.56 (15.50)*** Programme effect after 4 years 136.28 (76.04)* 50.60 (14.96)*** p-value (Year 2 effect = Year 4 effects) 0.738 0.000 Constant (control group at baseline) 880.39 (50.39)*** 32.56 (7.82)*** Observations 4,205 4,205 R-squared 0.017 0.057 Note: Standard errors in parenthesis clustered at village level; *** p&lt;0.01, ** p&lt;0.05, * p&lt;0.1 Girls Household chores Earning activities Livestock rearing (3) (4) (5) -0.15 (1.29) 38.46 (30.12) 33.12 (6.02)*** -5.56 (5.47) 22.98 (26.93) 19.64 (7.74)** 0.318 0.456 0.092 0.92 (0.59) 103.24 (17.92)*** 12.35 (2.81)*** 5,069 4,669 4,669 0.001 0.004 0.021 -4.65 (5.38) 239.44 (71.35)*** 121.66 (17.73)*** -0.27 (3.75) 122.48 (71.22)* 73.88 (16.99)*** 0.292 0.011 0.006 4.37 (2.59)* 489.41 (54.45)*** 57.98 (9.58)*** 4,030 3,811 3,811 0.002 0.015 0.049</cell><cell>Household chores (6) 5.74 (9.46) 7.58 (9.88) 0.837 21.90 (5.78)*** 4,512 0.000 30.86 (44.18) 9.66 (46.47) 0.559 294.30 (31.36)*** 3,405 0.017</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="funding">
+<div xml:id="_AK9Cpj9"><p xml:id="_fmhrm4s">constructive feedback. Special thanks to <rs type="institution">BRAC</rs> for full cooperation in implementing the research project. Any remaining errors are mine. This research benefited from funding by the <rs type="funder">UK Department for International Development (DFID)</rs> as part of the iiG, a research programme to study how to improve institutions for pro-poor growth in Africa and South Asia. The views expressed are not necessarily those of <rs type="funder">DFID</rs> or BRAC.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="consolidated"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main" xml:id="_s5vZ3dN">Impact assessment of credit programme for the tenant farmers in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Mohammad</forename><forename type="middle">Abdul</forename><surname>Malek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Abu</forename><surname>Ahasan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Md.</forename><forename type="middle">Amzad</forename><surname>Hossain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Md.</forename><forename type="middle">Shakil</forename><surname>Ahmed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marup</forename><surname>Hossain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Md.</forename><forename type="middle">Hasib</forename><surname>Reza</surname></persName>
+		</author>
+		<idno type="DOI">10.23846/ow31222</idno>
+	</analytic>
+	<monogr>
+		<title level="s" xml:id="_gQzJQru">Research Monograph Series</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<date type="published" when="2009">2009</date>
+			<publisher>International Initiative for Impact Evaluation</publisher>
+			<pubPlace>Dhaka</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Research and Evaluation Division, BRAC</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main" xml:id="_EzWc44Q">Poverty and Other Determinants of Child Labor in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Shahina</forename><surname>Amin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Shakil</forename><surname>Quayes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Janet</forename><forename type="middle">M</forename><surname>Rives</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/4135277</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_w5WZVHc">Southern Economic Journal</title>
+		<title level="j" type="abbrev">Southern Economic Journal</title>
+		<idno type="ISSN">0038-4038</idno>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">876</biblScope>
+			<date type="published" when="2004-04">2004</date>
+			<publisher>JSTOR</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<monogr>
+		<title level="m" type="main" xml:id="_YvUjzup">Child Education and Work Choices in the Presence of a Conditional Cash Transfer Programme in Rural Colombia</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Attanasio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Emla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Ana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Diana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Costas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Alice</surname></persName>
+		</author>
+		<idno>No. 06/13</idno>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<pubPlace>London</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Institute for Fiscal Studies (IFS)</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Working Paper</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main" xml:id="_MndRWRP">Cash or Condition? Evidence from a Cash Transfer Experiment</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Baird</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Mcintosh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Ozler</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/qje/qjr032</idno>
+		<ptr target="//dx.doi.org/10.1093/qje/qjr032" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_NGJhwDk">The Quarterly Journal of Economics</title>
+		<title level="j" type="abbrev">The Quarterly Journal of Economics</title>
+		<idno type="ISSN">0033-5533</idno>
+		<idno type="ISSNe">1531-4650</idno>
+		<imprint>
+			<biblScope unit="volume">126</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1709" to="1753" />
+			<date type="published" when="2011-10-13">2011</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main" xml:id="_hNq2d6r">A multifaceted program causes lasting progress for the very poor: Evidence from six countries</title>
+		<author>
+			<persName><forename type="first">Abhijit</forename><forename type="middle">A</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Esther</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nathanael</forename><surname>Goldberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dean</forename><surname>Karlan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Osei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">William</forename><surname>Parienté</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeremy</forename><surname>Shapiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bram</forename><surname>Thuysbaert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Udry</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.1260799</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_6SRAEme">Science</title>
+		<title level="j" type="abbrev">Science</title>
+		<idno type="ISSN">0036-8075</idno>
+		<idno type="ISSNe">1095-9203</idno>
+		<imprint>
+			<biblScope unit="volume">348</biblScope>
+			<biblScope unit="issue">6236</biblScope>
+			<biblScope unit="page" from="1" to="16" />
+			<date type="published" when="2015-05-15">2015</date>
+			<publisher>American Association for the Advancement of Science (AAAS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main" xml:id="_G43pyY2">Can Basic Entrepreneurship Transform the Economic Lives of the Poor?</title>
+		<author>
+			<persName><forename type="first">Oriana</forename><surname>Bandiera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robin</forename><surname>Burgess</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Narayan</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Selim</forename><surname>Gulesci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Imran</forename><surname>Rasul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Munshi</forename><surname>Sulaiman</surname></persName>
+		</author>
+		<idno type="DOI">10.2139/ssrn.2266813</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_7w24WUG">SSRN Electronic Journal</title>
+		<title level="j" type="abbrev">SSRN Journal</title>
+		<idno type="ISSNe">1556-5068</idno>
+		<imprint>
+			<biblScope unit="volume">043</biblScope>
+			<date type="published" when="2013">2013</date>
+			<publisher>Elsevier BV</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main" xml:id="_AvXRkZ9">Education and the poverty trap</title>
+		<author>
+			<persName><forename type="first">Vicky</forename><surname>Barham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robin</forename><surname>Boadway</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Maurice</forename><surname>Marchand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pierre</forename><surname>Pestieau</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0014-2921(94)00040-7</idno>
+		<ptr target="/dx.doi.org/10.1016/0014-2921(94)00040-7" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_2WvQb47">European Economic Review</title>
+		<title level="j" type="abbrev">European Economic Review</title>
+		<idno type="ISSN">0014-2921</idno>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1257" to="1275" />
+			<date type="published" when="1995-08">1995</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b7">
+	<monogr>
+		<title level="m" type="main" xml:id="_7DvmM4S">More Schooling and More Learning?: Effects of a Three-Year Conditional Cash Transfer Program in Nicaragua after 10 Years</title>
+		<author>
+			<persName><forename type="first">Tania</forename><surname>Barham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Karen</forename><surname>Macours</surname></persName>
+			<idno type="ORCID">0000-0002-1585-4418</idno>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><forename type="middle">A</forename><surname>Maluccio</surname></persName>
+		</author>
+		<idno type="DOI">10.18235/0011482</idno>
+		<imprint>
+			<date type="published" when="2013-07-30">2013</date>
+			<publisher>Inter-American Development Bank</publisher>
+			<biblScope unit="volume">432</biblScope>
+			<pubPlace>Washington, DC</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Working paper</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main" xml:id="_PBDFYMZ">Intergenerational Income Mobility Among Daughters</title>
+		<author>
+			<persName><forename type="first">Laura</forename><surname>Chadwick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gary</forename><surname>Solon</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/000282802760015766</idno>
+		<ptr target="/dx.doi.org/10.1257/000282802760015766" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_cFJBvyj">American Economic Review</title>
+		<title level="j" type="abbrev">American Economic Review</title>
+		<idno type="ISSN">0002-8282</idno>
+		<imprint>
+			<biblScope unit="volume">92</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="335" to="344" />
+			<date type="published" when="2002-02-01">2002</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main" xml:id="_xhNg59d">Child Work and Schooling: The Role of Household Asset Profiles and Poverty in Rural Ethiopia</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cockburn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Dostie</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/jae/ejl045</idno>
+		<ptr target="/dx.doi.org/10.1093/jae/ejl045" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_9bJZvfB">Journal of African Economies</title>
+		<title level="j" type="abbrev">Journal of African Economies</title>
+		<idno type="ISSN">0963-8024</idno>
+		<idno type="ISSNe">1464-3723</idno>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="519" to="563" />
+			<date type="published" when="2007-02-01">2007</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main" xml:id="_D4tHdQw">Must conditional cash transfer programs be conditioned to be effective? The impact of conditioning transfers on school enrolment in Mexico</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>De Brauw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hoddinott</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jdeveco.2010.08</idno>
+		<ptr target="//dx.doi.org/10.1016/j.jdeveco.2010.08" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_mvrasBv">Journal of Development Economics</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="359" to="370" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main" xml:id="_QZK3kn7">Assessing the frontier of ultra-poverty reduction: Evidence from CFPR/TUP, an innovative program in Bangladesh</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Emran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Robano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Smith</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/674110&gt;.${protocol}://www.developmentbookshelf.com/doi/pdf/10.3362/1755-1986.2015.014-Wednesday</idno>
+		<idno>IP Address:132.174.255.250 156</idno>
+		<ptr target="//dx.doi.org/10.1086/674110&gt;.${protocol}://www.developmentbookshelf.com/doi/pdf/10.3362/1755-1986.2015.014-Wednesday" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_pjkbw8M">Economic Development and Cultural Change</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="339" to="380" />
+			<date type="published" when="2014-08-29">2014. August 29, 2018 10:11:09 PM -</date>
+			<publisher>St. Francis Xavier University</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b12">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sulaiman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_hVCR2Yp">Enterprise Development and Microfi nance</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<date type="published" when="2015-06">June 2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main" xml:id="_N2Yh2Nk">Impact of conditional cash transfers on children&apos;s school achievement: evidence from Colombia</title>
+		<author>
+			<persName><forename type="first">Sandra</forename><surname>Garcia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jennifer</forename><surname>Hill</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/19439341003628681</idno>
+		<ptr target="/dx.doi.org/10.1080/19439341003628681" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Ka3hCxx">Journal of Development Effectiveness</title>
+		<title level="j" type="abbrev">Journal of Development Effectiveness</title>
+		<idno type="ISSN">1943-9342</idno>
+		<idno type="ISSNe">1943-9407</idno>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="117" to="137" />
+			<date type="published" when="2010-04-13">2010</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main" xml:id="_hQmCxyG">Economic growth and the demand for education: Is there a wealth effect?</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Glewwe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>Jacoby</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jdeveco.2003</idno>
+		<ptr target="/dx.doi.org/10.1016/j.jdeveco.2003" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_vBAyru2">Journal of Development Economics</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="33" to="51" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main" xml:id="_p2N6RWH">Does household income matter for children&apos;s schooling? Evidence for rural sub-Saharan Africa</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Grimm</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.econedurev.2011.03</idno>
+		<ptr target="/dx.doi.org/10.1016/j.econedurev.2011.03" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Es6Yzhs">Economics of Education Review</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="740" to="754" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main" xml:id="_WfUeWCj">Recent Developments in the Econometrics of Program Evaluation</title>
+		<author>
+			<persName><forename type="first">Guido</forename><forename type="middle">W</forename><surname>Imbens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeffrey</forename><forename type="middle">M</forename><surname>Wooldridge</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/jel.47.1.5</idno>
+		<ptr target="/dx.doi.org/10.1257/jel.47.1.5" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_nk8TRQS">Journal of Economic Literature</title>
+		<title level="j" type="abbrev">Journal of Economic Literature</title>
+		<idno type="ISSN">0022-0515</idno>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="5" to="86" />
+			<date type="published" when="2009-03-01">2009</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main" xml:id="_cGwD2Ps">Growth, Industrialization, and the Intergenerational Correlation of Advantage</title>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">I</forename><surname>Levine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jon</forename><forename type="middle">R</forename><surname>Jellema</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1468-232x.2007.00460.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_QCktjeW">Industrial Relations: A Journal of Economy and Society</title>
+		<title level="j" type="abbrev">Industrial Relations</title>
+		<idno type="ISSN">0019-8676</idno>
+		<idno type="ISSNe">1468-232X</idno>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="130" to="170" />
+			<date type="published" when="2007-01">2007</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b18">
+	<analytic>
+		<title level="a" type="main" xml:id="_BnEmqeZ">Schooling and Educational Attainment: Evidence from Bangladesh</title>
+		<author>
+			<persName><forename type="first">Pushkar</forename><surname>Maitra</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/09645290210131665</idno>
+		<ptr target="/dx.doi.org/10.1080/09645290210131665" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_5CGyHdt">Education Economics</title>
+		<title level="j" type="abbrev">Education Economics</title>
+		<idno type="ISSN">0964-5292</idno>
+		<idno type="ISSNe">1469-5782</idno>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="129" to="153" />
+			<date type="published" when="2003-08">2003</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b19">
+	<monogr>
+		<title level="m" type="main" xml:id="_mxSmAd6">Crafting a Graduation Pathway for the Ultra Poor: Lessons and Evidence from a BRAC Programme</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Matin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sulaiman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rabbani</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<publisher>Chronic Poverty Research Centre</publisher>
+			<biblScope unit="volume">109</biblScope>
+			<pubPlace>Manchester</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Working Paper</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main" xml:id="_a3VYj4t">Private supplementary tutoring among primary students in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Samir</forename><forename type="middle">R</forename><surname>Nath</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/03055690701785285</idno>
+		<ptr target="/dx.doi.org/10.1080/03055690701785285" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_vRKKJNE">Educational Studies</title>
+		<title level="j" type="abbrev">Educational Studies</title>
+		<idno type="ISSN">0305-5698</idno>
+		<idno type="ISSNe">1465-3400</idno>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="55" to="72" />
+			<date type="published" when="2008-02">2008</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b21">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rabbani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">A</forename><surname>Prakash</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sulaiman</surname></persName>
+		</author>
+		<idno>no. 13</idno>
+		<title level="m" xml:id="_6qky2pr">Impact Assessment of CFPR/TUP: A Descriptive Analysis Based on 2002-2005 Panel Data</title>
+		<meeting><address><addrLine>Dhaka</addrLine></address></meeting>
+		<imprint>
+			<publisher>BRAC</publisher>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">CFPR/TUP working paper</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main" xml:id="_7uywfC7">Does child labor displace schooling? Evidence from behavioral responses to an enrollment subsidy</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ravallion</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Wodon</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/1468-0297</idno>
+		<ptr target="//dx.doi.org/10.1111/1468-0297" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_WtCwWSA">Economic Journal</title>
+		<imprint>
+			<biblScope unit="volume">110</biblScope>
+			<biblScope unit="issue">462</biblScope>
+			<biblScope unit="page" from="158" to="175" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main" xml:id="_Er277uM">School subsidies for the poor: evaluating the Mexican Progresa poverty program</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">P</forename><surname>Schultz</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jdeveco.2003</idno>
+		<ptr target="/dx.doi.org/10.1016/j.jdeveco.2003" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_KsYW5rH">Journal of Development Economics</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="199" to="250" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b24">
+	<monogr>
+		<title level="m" type="main" xml:id="_ASqNBkN">PROGRESA and Its Impacts on the Welfare of Rural Households in Mexico</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Skoufias</surname></persName>
+		</author>
+		<idno type="DOI">10.2499/0896291421rr139</idno>
+		<idno>No. 139</idno>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<publisher>International Food Policy Research Institute</publisher>
+			<pubPlace>Washington, DC</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>International Food Policy Research Institute</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Research Report</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b25">
+	<analytic>
+		<title level="a" type="main" xml:id="_gZ9pTGK">Intergenerational Mobility in the Labor Market</title>
+		<author>
+			<persName><forename type="first">Gary</forename><surname>Solon</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s1573-4463(99)03010-2</idno>
+		<ptr target="://dx.doi.org/10.1016/S1573-4463(99)03010-2" />
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_KFm53qY">Handbook of Labor Economics</title>
+		<editor>
+			<persName><forename type="first">O</forename><surname>Ashenfelter</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Card</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Amsterdam: North-Holland &lt;http</addrLine></address></meeting>
+		<imprint>
+			<publisher>Elsevier</publisher>
+			<date type="published" when="1999">1999</date>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="1761" to="1800" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b26">
+	<monogr>
+		<title level="m" type="main" xml:id="_dH9yX9p">Education for All Global Monitoring Report 2010: Reaching the marginalized</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sulaiman</surname></persName>
+		</author>
+		<idno type="DOI">10.54676/zqve8338</idno>
+		<imprint>
+			<date type="published" when="2010-01-01">2010. 2010</date>
+			<publisher>GEM Report UNESCO</publisher>
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b27">
+	<monogr>
+		<title level="m" type="main" xml:id="_VJG6TVN">The Hidden Crisis: The Armed Conflict and Education, Education for All Global Monitoring Report-2011</title>
+		<idno type="DOI">10.3362/1755-1986.2015.014-Wednesday</idno>
+		<idno>IP Address:132.174.255.250</idno>
+		<ptr target="{protocol}://www.developmentbookshelf.com/doi/pdf/10.3362/1755-1986.2015.014-Wednesday" />
+		<imprint>
+			<date type="published" when="2011-08-29">2011. August 29, 2018 10:11:09 PM</date>
+			<publisher>St. Francis Xavier University</publisher>
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

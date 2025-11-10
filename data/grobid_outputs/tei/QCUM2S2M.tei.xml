@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" xml:id="_vCcW2S7">How Much Can Asset Transfers Help the Poorest? Evaluating the Results of BRAC&apos;s Ultra-Poor Programme (2002–2008)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Informa UK Limited</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2012-02">56 14 October 2014</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Anirudh</forename><surname>Krishna</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Public Policy and Political Science</orgName>
+								<orgName type="institution">Duke University</orgName>
+								<address>
+									<settlement>Durham</settlement>
+									<region>North Carolina</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">BRAC</orgName>
+								<address>
+									<settlement>Dhaka</settlement>
+									<country key="BD">Bangladesh</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Meri</forename><surname>Poghosyan</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Public Policy and Political Science</orgName>
+								<orgName type="institution">Duke University</orgName>
+								<address>
+									<settlement>Durham</settlement>
+									<region>North Carolina</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">BRAC</orgName>
+								<address>
+									<settlement>Dhaka</settlement>
+									<country key="BD">Bangladesh</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Narayan</forename><surname>Das</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department">Professor of Public Policy and Political Science</orgName>
+								<orgName type="institution">Duke University</orgName>
+								<address>
+									<addrLine>212 Sanford School</addrLine>
+									<postCode>27514</postCode>
+									<settlement>Durham</settlement>
+									<region>NC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main" xml:id="_nkq4dY7">How Much Can Asset Transfers Help the Poorest? Evaluating the Results of BRAC&apos;s Ultra-Poor Programme (2002–2008)</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main" xml:id="_HpfdD5k">Journal of Development Studies</title>
+						<title level="j" type="abbrev">Journal of Development Studies</title>
+						<idno type="ISSN">0022-0388</idno>
+						<idno type="eISSN">1743-9140</idno>
+						<imprint>
+							<publisher>Informa UK Limited</publisher>
+							<biblScope unit="volume">48</biblScope>
+							<biblScope unit="issue">2</biblScope>
+							<biblScope unit="page" from="254" to="267"/>
+							<date type="published" when="2012-02">56 14 October 2014</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">FA4C8174CDE2232BC34556D715CBAE48</idno>
+					<idno type="DOI">10.1080/00220388.2011.621942</idno>
+					<note type="submission">Final version received May 2011</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2025-11-04T21:16+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a292bac</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=1, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=true, generateTeiCoordinates=[true], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_hMHgPse"><p xml:id="_2FrczJu">The impacts of an innovative programme in rural Bangladesh, which has assisted extremely poor households, literally the poorest of the poor, were assessed over a six-year period (2002-2008). The provision of a substantial dose of assets has helped produce very positive results, by and large. Vulnerability to downturns on account of negative events, such as illnesses and house damage, has resulted in asset losses for several assisted households. Additional measures that reduce vulnerability and risk will help complete the good work commenced by the asset transfer plan.</p><p xml:id="_bqrddqp">How can the wellbeing of the poorest people be improved in a sustainable manner? Different modes of action have been implemented over the previous 60 years with varying degrees of success, each guided by theories that became dominant at particular moments, only to be surpassed over time by other models. Assistance provided directly to poorer households and individuals (or groups of individuals) has been promoted as an alternative, or at least, as a complement, to other strategies aimed at achieving faster national economic growth. No agreement has been reached about the forms in which such assistance should be given, so diverse models of grass-roots development are being championed simultaneously, which are different in concept and design. Prominent among them are conditional cash transfers (which have achieved considerable initial success, particularly in parts of Latin America); employment guarantee programs (being pursued vigorously in India and elsewhere); and coordinated investments in infrastructure and social services in a small but growing group of Millennium Development Villages, principally in Sub-Saharan Africa.</p><p xml:id="_AV6X4BF">Yet another strategy for direct assistance, centered upon the accumulation of productive assets by the poorest, has been implemented since 2002 in rural Bangladesh. BRAC -the multinational non-governmental organisation (NGO), formerly the Bangladesh Rural Advancement Committee, headquartered in Dhaka -is at the forefront of this new-generation development programme, early results from which are reviewed below. 1  Since its inception in the early 1970s, when it launched relief and rehabilitation programmes in selected parts of newly independent and warravaged Bangladesh, BRAC has diversified its operations and expanded geographically, now working in more than 60,000 villages and 4,000 urban slums. Its microfinance programmes have</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="10" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="11" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="12" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="13" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="14" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="15" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="16" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_4kzBnGw"><p xml:id="_KkHVc6K">over 6.6 million borrowers; it has over 68,000 pre-primary and primary schools serving nearly five million children; and its 80,000 health volunteers reach out to millions of people, among them some of the poorest in this country (Abed and Chowdhury, 1997; Smilie, 2009).</p><p xml:id="_T9zJgWu">Based on such diverse experiences (including, most recently, its Income Generation for Vulnerable Group Development, or IGVGD programme), 2 BRAC planners developed a new wave of development programmes called Challenging the Frontiers of Rural Poverty: Targeting the Ultra-Poor, better known by its acronym, CFPR/TUP (Matin et al., 2004; Rabbani et al.,  2006; Hulme and Moore, 2008). F.H. Abed, BRAC's chairperson, explains the motivation that led to the development of this programme: 'Microfinance has not reached a large numbers of very poor people . . . BRAC's definition of the ultra poor is . . . living on less than 35 cents a day . . . BRAC has recognised that before providing microfinance to the ultra poor, it needs to invest in building up their capacity . . . This investment involves transferring assets (such as livestock) to them through a grant -not a loan -of around US$150, and . . . providing a small stipend' for a limited period of time until the assets begin to generate incomes on a regular basis (Abed, 2009).</p><p xml:id="_VGMXUtj">Lack of assets is increasingly regarded as both a key characteristic and an important driver of persistent poverty. Possessing (and being able to hold onto) productive assets -including physical and financial assets as well as human and social capital -helps families generate reliable income streams on a continuing basis. Poor families endowed with productive assets can more effectively carve a pathway out of poverty (Sherraden, 1991; Carter and May, 2001). Theorists have posited the existence of a certain threshold of asset possession, below which families sink inexorably into chronic poverty (Carter and Barrett, 2006). If this theoretical depiction has a bearing in reality, then the provision of a critical minimum amount of productive assets should help families rise and remain above the danger point, which is more than can be achieved by providing them only with wage employment or microcredit or income supplements (especially when these are not invested in assets).</p><p xml:id="_zKSAvne">Simply giving a one-shot dose of assets is not sufficient, however. In fact, attention needs to be paid within any such strategy to several interconnected elements. BRAC's Ultra-Poor programme is guided by a belief 'that the poorest people cannot benefit from a single ''magic bullet'' . . . Rather, they need a carefully sequenced set of supports that provides livelihood security; confidencebuilding and business/technical skill development; an asset transfer; and support for and institutionalization of their improved position within the local economy and society' (Hulme and  Moore, 2008). The longer-term objective is to 'graduate' the ultra poor into a position where they are able to avail themselves of microcredit and other 'normal' or usual forms of assistance.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_5mKJJb8">The Ultra-Poor Programme</head><p xml:id="_NpCxdYQ">The programme was launched in 2002 in three of the poorest districts of Bangladesh (Rangpur, Kurigram, and Nilphamari) that were selected with the help of spatial poverty maps coupled with the intimate area knowledge of BRAC staff. In 2002, a small group of 5000 poorest households was initially selected for the pilot phase. Over the next four years the programme was expanded into 15 districts, serving nearly 100,000 ultra poor households. <ref type="bibr">3</ref> Potential programme participants were identified through multiple methodologies combining geographical targeting, wealth ranking, and proxy means verification. District and sub-districts (upazilas) were identified based on spatial poverty mapping, and then, based on BRAC staff experience, particular village communities were identified. For facilitating participatory assessments and programming, larger communities were split into separate clusters, each with between 80 and 120 households. Participatory wealth ranking exercises were undertaken in cluster meetings. Households who were ranked in the lowest two (of five) wealth categories were further surveyed for information concerned with explicitly stated (and openly advertised) targeting criteria. Two sets of criteria -exclusion criteria and inclusion criteria -were simultaneously applied (Table <ref type="table" target="#tab_0">1</ref>). Exclusion criteria are binding: if a household satisfies any one of those criteria, then it gets excluded automatically from programme assistance. Failure to meet three or more of the five inclusion criteria also constitutes grounds for exclusion.</p><p xml:id="_Xuh2kT3">BRAC staffs have detailed discussions with each selected household; informing them about the nature of assistance on offer; helping them select particular productive assets (cows, goats, poultry, and rickshaws have predominated); showing them how through careful upkeep and sound management they will be able to advance economically; and guiding them through each successive programme step. <ref type="bibr">4</ref> Experience sharing is another important activity. Seeing how others have forged ahead with the help of programme assistance helps newly selected families gain faith in their own ability to progress. Building institutions at the local level is another important thrust area. Village Assistance Committees (known as Gram Daridra Bimochon Committee) have been set up, which enlist local elites' support for the programme concept, helping give the programme wider legitimacy at the local level (Hossain and Matin, 2007).</p><p xml:id="_Y4gRn7X">Capacity building efforts are directed towards several related activities. For periods as long as two years, hands-on training is provided in enterprise management and technical supervision (Ahmed et al., 2008). Increasing awareness of their social and political rights and responsibilities is another capacity building measure implemented by BRAC staff (Rabbani et al., 2006). Connections with local service providers as well as with markets are also facilitated. Cash is provided in two forms. The main component is physical asset transfer. In addition, a weekly stipend of 70 Taka (about $1) is provided for an initial period, until the transferred asset starts yielding a regular income. 5 Support in the form of inputs (related to the household enterprise) is also provided.</p><p xml:id="_97SKrV6">Programme evaluations (presented below) show how the assisted ultra poor have achieved substantial income gains on average. Initial gains have been built upon in later years, thus sustainability and scaling up seem to have been achieved hand in hand. Despite its comprehensive nature, however, the programme remains weak in one respect. Assisted families remain vulnerable to downturns; several have depleted their asset stocks in order to cope with adverse events, especially illnesses and damage to homes. Providing another line of defence against risk and vulnerability will more assuredly help the poorest families advance. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_fwAEewF">Evaluating Results from the Ultra Poor Programme</head><p xml:id="_p5JHwZF">Programme evaluation is facilitated by the existence of a panel data set compiled by BRAC's well regarded in-house Research and Evaluation Division. <ref type="bibr">6</ref> A baseline survey was conducted between June and August 2002 in the same three districts where this programme was initially launched. One-third of all village clusters were randomly selected for this baseline survey. All selected ultrapoor households (SUP) in these clusters were interviewed, with the wife or senior female of the household serving as the principal respondent. An equal number of non-selected ultra poor (NSUP) households -those who were ranked in the lowest poverty categories during the participatory wealth ranking exercises but who did not satisfy one or more of the selection criteria presented in Table <ref type="table" target="#tab_0">1</ref> -were also surveyed. Baseline information was collected in 2002 for a total of 5626 households, among whom 2633 were SUP and 2993 were NSUP households (Rabbani et al., 2006). Households in these two groups are not exactly similar, so one cannot strictly regard them as treatment and control groups. Any such assignment would have been possible only if some among the households who satisfied the required inclusion and exclusion criteria had been randomly (and artificially) excluded from receiving programme benefits. For a variety of reasons, no such control group assignments were made; all those who satisfied the selection criteria were admitted into the programme. <ref type="bibr">7</ref> As a result, the starting economic positions of NSUP households were somewhat better than those of SUP households, although some other household characteristics are not dissimilar (Table <ref type="table" target="#tab_1">2</ref>).</p><p xml:id="_WWAU8Tz">These figures show that in the starting year, 2002, SUP households more often had female, single, or illiterate household heads, somewhat lower incomes, and considerably less land and fewer assets as compared to NSUP households. Fewer SUP households had cash savings in 2002. These results provide reassurance that the selection criteria implemented by BRAC appear to have worked reasonably well for the purpose of identifying and giving programme assistance to the poorest among the poor. How Much Can Asset Transfers Help the Poorest? 257</p><p xml:id="_pCdKKnN">In 2005 and again in 2008, that is, at three-yearly intervals, the same households were resurveyed. Clearly, not all of the original households could be found in the same location; inevitably, some attrition has taken place. <ref type="bibr">8</ref> This extent of attrition is, however, at the lower end of the range experienced in surveys of this kind. <ref type="bibr">9</ref> Further, households not available for resurvey were not dissimilar (in terms of starting characteristics) from other households who have remained in the panel.</p><p xml:id="_V728mBC">As seen above, SUP and NSUP households did not start at the same original positions: NSUPs were somewhat better off. Thus, instead of comparing achievements at any particular point in time it is better to evaluate progress over time: Did SUP households achieve consistently higher income gains compared to NSUP households? Were they able to hold on to (or increase) the assets given by the programme? Are increments in health indicators, savings, and the like also higher among SUPs compared to NSUPs?</p><p xml:id="_dExXT6W">Three previous evaluations conducted these kinds of exercises, using data from the first leg (2002-2005) of the same panel data set (Rabbani et al., 2006; Ahmed et al., 2008; Emran et al.,  2009). Commonly, they utilised difference-in-difference methods of estimation. The advantage of utilising a difference-in-difference estimation method is that it 'eliminates the pretreatment differences in the outcome measures' (Stock and Watson, 2006: 480). The difference in SUPs' average income between 2002 and 2005 is compared with the corresponding difference in NSUPs' average income. Similarly, increments in health status and other outcomes are also compared.</p><p xml:id="_93jFJ6u">Even though they employed slightly different statistical tools these evaluation exercises arrived at broadly similar (and mostly positive) conclusions. During this initial three-year period the average income gain was considerably higher for SUPs compared to NSUPs. In addition, there is evidence of 'significant impact of program participation on . . . food security [and] ownership of livestock and household durables' (Emran et al., 2009: 28). In some other respects, such as health status, human capital growth, and women's empowerment, the gains made by SUPs over this initial three-year period were not significantly superior to those achieved by NSUPs.</p><p xml:id="_5MxkmpZ">These results show (a) that the promised assets (and cash stipends) were actually transferred to the intended beneficiaries; leakages, if any, were small; (b) initially, at least, the programme package succeeded in raising incomes and savings among the people whom it assisted.</p><p xml:id="_fZsjh7z">But have these people been able to hold on these gains over a longer period? In order to address this question we examined, for the first time, the longer panel data set covering two successive three-year periods. The results that we obtained for the first three year period (2002-2005) are similar to those obtained by the studies referred above -not surprising, since we have utilised the same data set. Results for the second three-year period (2005-2008) are also encouraging, showing how a strategy involving asset transfers in coordination with other elements has resulted in significantly elevating, on average, the economic positions of the assisted poorest households. However, considerable numbers of SUP households have lost part of the assets transferred to them by the programme.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_bnbVvud">Examining Differences over a Longer Period</head><p xml:id="_TJz9jJv">We focus in this section upon two key variables -incomes and assets -while also viewing changes in savings behaviour and health status. Household income was computed in relation to 20 different sources, including agriculture, animal husbandry, poultry rearing, day labour, begging and remittances. <ref type="bibr">10</ref> In order to facilitate comparisons over time, per capita income was reported in constant 2002 prices, obtained after deflating the 2005 and 2008 figures by the rural consumer price index for Bangladesh.</p><p xml:id="_GNthsmB">Since asset values were not recorded at the time of the baseline survey (only the numbers of assets of different types were considered at that time), we developed an Asset Stock Index in order to track changes in households' asset ownership over the period 2002-2008. Price weights for each asset type were calculated as the average of mean reported prices for 2005 and 2008 (after excluding outliers). This asset stock index does not purport to be an accurate representation of the real value of different households' assets. Rather, it is a device that helps place a single value on the combined total of a household's assets and to track changes in this value over time. <ref type="bibr">11</ref> Land, probably the most precious asset in rural Bangladesh, does not form part of this asset index. Changes in land ownership are examined separately.</p><p xml:id="_B32gzYh">Table <ref type="table" target="#tab_2">3</ref> reports the gains made in regards to income, assets and savings, respectively, by SUPs and NSUPs over two separate three-year periods, 2002-2005, and 2005-2008. Figures reported in brackets reflect the percentage change over the preceding three-year period.</p><p xml:id="_sqsgxpY">Income gains. SUPs started out in 2002 with average incomes lower than those of NSUPs. By 2005 they had not only closed this gap; they had actually forged ahead of NSUPs. Real per capita income increased for both SUPs and NSUPs over this first three-year period, but the average increase was 72 per cent for SUPs and only 29 per cent for NSUPs. Over the next three years, 2005 to 2008, the average per capita income of SUPs increased by another 74 per cent; NSUPs meanwhile achieved an average income gain of 64 per cent. Thus, the assisted poor have continued to pull ahead of the non-assisted poor. However, the differential rate of progress has become smaller over time.</p><p xml:id="_TdNg6Yg">It is important to note that while the average income of SUP households increased at a healthy rate, not all assisted poor achieved income gains. In fact, as many as 17 per cent of all SUP households (and 19% of all NSUP households) saw real per capita incomes fall between 2005 and 2008. Considering the entire six-year period, 2002-2008, seven per cent of SUPs (and 13% of NSUPs) experienced reductions in real per capita income.</p><p xml:id="_xBKyScw">Changes in asset stocks. The assisted ultra poor (SUPs) received asset transfers as a programme component beginning in 2002. As a result their asset stocks increased hugely (by almost 16 times) between 2002 and 2005. NSUPs did not receive any similar grant of productive assets, and they were able to increase their asset stocks by only 50 per cent on average over the same three-year period. Between 2005 and 2008, however, the average value of asset stocks (at constant prices) among SUPs decreased by 12 per cent, whereas NSUPs experienced an average gain of 41 per cent. Asset losses during this period were experienced by as many as 54 per cent of all SUPs. Looking at different asset types we found that the largest decreases occurred in the numbers of cows and bulls -the same asset type as was given out to the largest number of the assisted ultra poor. These decreases occurred disproportionately among SUP households of all three surveyed districts; NSUPs did not experience a similar decline. <ref type="bibr">12</ref> So it is not possible to lay the blame upon some wide-ranging livestock epidemic or natural calamity. Some other reasons must be invoked in order to account for the inability of many assisted households to hold on to some part of their asset stocks. We examine alternative explanations below.</p><p xml:id="_pYg6BSx">Land holdings. As Table <ref type="table" target="#tab_2">3</ref> shows, SUPs started out owning less than half the amount of land as was owned by NSUPs in 2002 (2.37 decimals compared to 6.14 decimals). Over the next six years SUPs were able to narrow this gap but they were not able to come abreast with NSUPs. During 2002-2005 SUPs increased their land ownership by 32 per cent, whereas NSUPs lost, on average, 11 per cent of their former land holdings. In 2005-2008 average land holdings among SUPs increased by another 50 per cent -and among NSUPs by only 10 per cent. These data provide evidence of widespread land hunger: early income gains among even the poorest households have been utilised in part for the purchase of more land. It is noteworthy that SUPs have continued to acquire more land, thereby gaining the additional status and prestige that ownership of land conveys within an agrarian society. However, these gains in land holding do not fully compensate for the loss of other kinds of productive assets between 2005 and 2008, as we will see below.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_Scfnruu">Savings and health.</head><p xml:id="_VJWYKBk">The incidence of cash savings among SUPs rose from less than eight per cent in 2002 to 94 per cent in 2005 and 98 per cent in 2008. The increase during the first threeyear period was largely a result of programme requirements: those who were assisted by the programme were required to save. But this requirement ceased to be operational once asset transfer was completed. The fact that the incidence of savings among SUPs did not decline (and even rose slightly) during the next three years shows that the programme has helped nurture a savings habit among SUPs. In comparison, many fewer NSUPs had cash savings in 2008.</p><p xml:id="_pEPmaHM">Self-reported health status and health improvements of household heads (occurring during the year preceding each survey) were also recorded by these three-yearly household surveys. No significant differences are visible in these regards between SUPs and NSUPs. In spite of the provision of some additional healthcare benefits to SUPs by BRAC, more than 40 per cent of all respondents of both groups reported feeling 'not well' or 'not good/bad', the bottom two points of the five-point ordinal scale utilised for this survey question in 2005 and again in 2008.</p><p xml:id="_Ygg6P7h">Overall, therefore, the Ultra Poor programme has shown encouraging results. First, the selection of beneficiaries was done effectively in general. Those among the identified poorest who were left out (NSUPs) had higher incomes and greater asset holdings than those who were admitted into the programme (SUPs). Second, there was good overall targeting. Third, incomes among SUPs have increased consistently, on average, over six years; initial income gains have not been eroded with the passage of time; and the average income gains of SUPs over both threeyear periods have surpassed those of NSUPs. Fourth, a savings habit has been inculcated: 98 per cent of SUPs had cash savings in 2008 compared to fewer than 10 per cent in 2002.</p><p xml:id="_6xnJqHZ">With every silver lining, however, there is usually a cloud, large or small. Cause for concern arises because as many as 1215 SUPs (54 per cent of all SUPs in the panel) drew down their asset stocks between 2005 and 2008. A majority of SUPs who experienced asset stock losses -68 per cent -also experienced negative changes in real income. Since those whose assets and income both decline are in danger of falling into chronic poverty, it becomes important to identify what more needs to be done.</p><p xml:id="_ht8d4VJ">We examine below the factors that were associated, positively or negatively, with income gains in both three-year periods. Broadly the same factors were also associated with changes in households' asset stocks, as discussed in the next section.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_m2sU2sC">Identifying Factors of Change</head><p xml:id="_4B8FCSe">Difference-in-difference analyses can help with this exercise. The general model of identification is as follows: Model 1:</p><formula xml:id="formula_0">y ijt ¼ a þ b 1 x t þ b 2 x j þb 3 x jt þ e jit ,</formula><p xml:id="_9YsmVfE">where a is the constant. y ijt is the outcome (real per capita income or asset stock) for the i th household in year t; j indicates the treatment group (j ¼ 1 for SUP, j ¼ 0 for NSUP); t indicates year: (2005 or  2008); x jt (the interaction term) is the additional affect of being in the treatment group in the end period (x jt ¼ 1 if j ¼ 1 and t ¼ 1); e ijt is the error term This basic model is next controlled by household characteristics (Model 2), district fixed effects (Model 3) and household events (Model 4).</p><formula xml:id="formula_1">t ¼ 0 if year ¼ start period (2002 or 2005), t ¼ 1 if year ¼ end period</formula><p xml:id="_TrXNnnZ">Model 2:</p><formula xml:id="formula_2">y ijt ¼ a þ b 1 x t þ b 2 x j þb 3 x jt þ C 1 [H i ] þ e jit Model 3: y ijt ¼ a þ b 1 x t þ b 2 x j þb 3 x jt þ C 1 [H i ] þ C 2 [D i ] þ e jit Model 4: y ijt ¼ a þ b 1 x t þ b 2 x j þb 3 x jt þ C 1 [H i ] þ C 2 [D i ] þ C 3 [E i ] þ e jit C 1 [H i ]</formula><p xml:id="_2zrBdqn">is a vector of starting household characteristics (sex, age, literacy, marital status of household head, total land owned by the household); C 2 [D] are district fixed effects (capturing differences in the local political economy and culture); C 3 [E i ] is a vector of household events (such as, house damage, serious illness and death of family member, death of livestock, marriage) that occurred during the year preceding the survey; 13 and e ijt is the error term.</p><p xml:id="_cf3vUaT">Tables <ref type="table" target="#tab_3">4</ref> and <ref type="table" target="#tab_4">5</ref> present the results of analyses that considered real per capita income as the dependent variable.</p><p xml:id="_dEdse6z">Table 4 looks at the first period, 2002-2005, while Table 5 considers the period 2005-2008.</p><p xml:id="_WX46g9J">Interpreting these results is straightforward. Since the model is an additive one, the effects of different independent variables are added together. Consider the column of results reported under Model 1 of Table <ref type="table" target="#tab_3">4</ref>. The coefficient for the variable 'SUP 2002' shows that SUPs began in 2002 at a disadvantage of 292 Taka compared to NSUPs. The coefficient for the variable 'Year 2005' reports the time trend, indicating how per capita incomes of both the NSUP and SUP increased on average by 831 Taka. <ref type="bibr">14</ref> However, the Ultra Poor also experienced an additional increase of 969 Taka, as indicated by the coefficient for the variable 'SUP 2005'. Thus, the programme effect, experienced only by SUPs, exceeded the time trend that was experienced in common by both groups. <ref type="bibr">15</ref> Average 2005 real per capita incomes for SUPs can be computed from this model by adding together the values of SUP 2002, SUP 2005, Year 2005, and the constant term: 2784.50-291.83þ969.37þ830.95 ¼ 4292.99 Taka -the same value as we saw earlier in</p><p xml:id="_BN25Bfb">Table 3. Average 2005 real per capita incomes for NSUPs can be computed by adding together only the constant How Much Can Asset Transfers Help the Poorest? 261 Downloaded by [University Of Maryland] at 06:56 14 October 2014</p><p xml:id="_vXu8fep">term and the time trend (leaving aside those coefficients that do not apply to NSUPs), thus 2784.50þ830.95 ¼ 3615.45 Taka, once again the same figure that we saw in Table <ref type="table" target="#tab_2">3</ref> for NSUPs.</p><p xml:id="_hJfmA8u">The additive effects of household characteristics and experiences can be examined similarly with the help of Models 2-4. Consider the results reported under Model 4. Notice that for households headed by females real per capita incomes in 2005 were lower by 494 Taka on average. However, the positive coefficient (401) for the interactive term 'SUP females' shows that for female-headed SUP households the disadvantage was reduced by this amount: SUP femaleheaded households experienced a net disadvantage of 494-401 ¼ 93 Taka. The coefficient for the variable 'HH head single' shows that this factor was an advantage in case of men (þ420 Taka). However, the next variable shows that single female household heads had an additional disadvantage (7708 Taka).</p><p xml:id="_najUNJS">The age of household head has no significant effect, but his or her being literate tends to raise 2005 per capita incomes by an amount of 168 Taka. Household size has a significant negative effect -a reduction of 461 Taka for each additional member. Amount of land owned has a significant but small effect on income -an average increase of 22 Taka for each additional decimal of land. While poor families in these contexts typically covet additional land, as we will Household events make a difference in addition to household characteristics. House damage and illnesses have had longer-term pernicious effects upon incomes. <ref type="bibr">16</ref> Much as analyses undertaken in other parts of the world have also indicated, such negative events placed households upon a downward trajectory (Krishna, 2010). These effects, while robustly negative in the analysis, are nevertheless under-reported in Tables <ref type="table" target="#tab_3">4</ref> and <ref type="table" target="#tab_4">5</ref>. The surveys that were undertaken inquired only about the incidence of these (and other) events during the year preceding the date of interview. Thus, events occurring in the year after the survey, amounting to three of six years, have been missed out.</p><p xml:id="_sYxjFg8">Table <ref type="table" target="#tab_4">5</ref> shows how the same nature of effects was experienced over the second period, 2005-2008. The only notable differences between these two sets of results concern two variables: Literacy, and residence in Kurigram district. The variable 'HH head literate' lost significance during the second period, while residence in Kurigram changed from being a significantly negative influence to being a significantly positive one (compared to residence in Rangpur).</p><p xml:id="_CvZbZKU">Notably, the depressing influence upon per capita income of house damage and illnesses has continued unabated, even increasing in size during the more recent period. While BRAC officials have been aware of these negative effects -acknowledging that 'the most common crises are damage of house and severe illness of household members' and recognising that 'serious illness of household members is the major driver of downward mobility of the ultra poor households because of its high prevalence and severe effects' (Rabbani et al., 2006: 17-18) SUP and NSUP households have nevertheless continued to face the ravages of such adverse events. The similarity of experiences across these two groups of households -as well as the lack of any significant difference between them in terms of self-reported health status scores -suggests that reducing vulnerability and risk are important tasks for the future.</p><p xml:id="_qBecXJR">Per capita incomes have more than tripled for SUP households (in constant 2002 Taka) between 2002 and 2008, far surpassing the gains made by NSUP households during the same period. But the nagging presence of vulnerability to adverse events is troubling, and it is responsible, at least in part, for the drawing down of asset stocks by many SUP households. The data show that as many as 54 per cent of all assisted ultra poor households suffered reductions in asset stocks over this three-year period. The average reduction in the value of asset stock among these households was worth 8136 Taka. <ref type="bibr">17</ref> Given that the average increase of asset stock values among SUPs during the first three years of programme administration was a little less than 13,000 Taka (see Table <ref type="table" target="#tab_2">3</ref>), the average loss of 8,136 Taka during the second three-year period represents a troubling trend.</p><p xml:id="_ESTN6hx">Some part of the loss in asset stock values was made up by the acquisition of additional land. However, only 39 per cent of all SUPs who suffered asset stock losses added to their land holdings during this period. Among NSUPs who suffered asset stock losses over the same period, 34 per cent acquired additional land. The average incremental landholding by SUPs who lost assets is relatively small: on average, only 1.07 decimals. SUPs who did not suffer asset stock losses added almost twice as much to their land holdings between 2005 and 2008 (2.1 decimals), suggesting that a simplistic explanation -which holds that SUPs who lost (non-land) assets essentially exchanged these assets for land -does not provide a complete accounting of the available facts.</p><p xml:id="_VqSB8Wc">Some other reasons are also responsible for the observed reduction in SUPs' asset stocks. We conducted analyses similar to the ones reported in Tables <ref type="table" target="#tab_3">4</ref> and <ref type="table" target="#tab_4">5</ref>, but this time considering Asset Stock Index as the dependent variable. Since these results are broadly similar to those reported earlier (for the analysis of household income), we will not report them in full, only pointing out significant differences. Household size had a positive impact on changes in the asset stock index, even though its impact on per capita income was negative. Female-headed households were not at any significant disadvantage in terms of asset stock values. Amount of land owned had a significant but a small positive effect on asset stock values (worth only 89 Taka for each additional decimal during the 2005-2008 period).</p><p xml:id="_Kcg596D">Given the evidence at our disposal we are unable fully to account for the observed asset stock reductions. Future data collection exercises should gather richer and more continuous information about household events. <ref type="bibr">18</ref> Our findings, especially when seen in conjunction with other evidence from Bangladesh, reviewed below, does indicate, however, that illnesses, house damage, and other adverse household events have played a large part in these events. It is encouraging to find that incomes among SUPs continued to increase even as many of them experienced reductions in asset stocks. Only 17 per cent of all surveyed SUPs suffered reductions in real per capital income between 2005 and 2008. This is an excellent result for a large-scale programme of this kind. We believe, however, that further improvements can and should be made.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_msb7Ypp">Conclusion: Asset Building and Protection against Adverse Events</head><p xml:id="_Uv4KK7m">Experience has shown that the poorest individuals are hard to reach with the help of microfinance alone. 'From the demand side, the ultra poor do not have an asset base or confidence to allow risk taking and, from the supply side, zero tolerance on non-repayment discourages the participation of those who have limited fallback options' (Sulaiman and Gulesci,  2008: 2). Other means of transferring cash -including conditional cash transfers, employment generating programmes, and so on -may also not suffice to move people permanently out of poverty, unless they simultaneously help build resilience, forge connections, and raise confidence.</p><p xml:id="_qKjgSSV">Vulnerability to risk is a constant feature of the experience of poverty (Dercon, 2005). While designing programme elements planners should pay heed not only to the potential for gains but also to the likelihood of losses. Raising the ability of poor people to deal with the most important sources of risk (without losing one's shirt in the process) while concurrently improving their prospects for upward mobility -these are the critical objectives that grass-roots development programmes must serve. Exclusively supporting upward mobility can be of relatively little value, unless the danger of backsliding is simultaneously addressed.</p><p xml:id="_w4aMw8e">Davis (2007: 1) in his extensive work on poverty in Bangladesh notes how 'improvements are generally gradual, whereas declines can be caused by the types of events which are either gradual or sudden'. He identifies dowry, illnesses, and adverse dependency ratios as the most important causes of households' economic decline in Bangladesh. Similarly, examining a longitudinal panel data set from rural parts of this country, Quisumbing (2007) concludes that household events such as illnesses, dowries, floods (causing house damage), and legal costs are principally implicated in reducing household income and consumption. Evidence from other countries, both developing and industrialised, shows how adverse events, such as illnesses, can have a long-term deleterious effects (Krishna, 2010). Although the impact of these events is underestimated in our analysis (because information about household events was recorded for only three of six years), events of an adverse kind were nevertheless found to be associated with households moving backward, eroding some part of the gains that they had previously made. More than any others in the contexts examined here, two factors -illnesses and house damage -have worked to deplete the economic gains that households have made.</p><p xml:id="_dWfed8e">Assisting the poorest households to build stocks of productive assets helps protect them to some extent against downside risks. However, reducing the risk itself is additionally important. Equally, the costs associated with these downside risks must be lowered. It can then be expected with greater assurance that the ultra poor will move consistently upward, less vulnerable to backsliding on account of adverse events requiring large expenditures.</p><p xml:id="_Y5Qne8G">More generally, this discussion helps underline that poverty reduction is a multi-dimensional enterprise. There exist multiple limiting factors that trap people in poverty. Any one-dimensional intervention will rarely be sufficient. This fact is critically important for the design of How Much Can Asset Transfers Help the Poorest? 265 development programmes, particularly those that have, following recent fashions, started to focus, sometimes exclusively, upon cash transfers. While cash can be, and often is, an important element of a package of assistance, giving out cash without paying heed to the other dimensions is unlikely to produce a lasting impact. Better methods are required for designing relatively high dimensionality interventions.</p><p xml:id="_mekVsye">1. Known when it was established in 1972 as the Bangladesh Rehabilitation Assistance Committee, and a year later as the Bangladesh Rural Advancement Committee, BRAC has since grown way beyond the limits implied by its former name -it operates in many countries in addition to Bangladesh, works in urban as well as in rural areas, and resembles a huge corporate organisation more than any 'committee' -so what was formerly an acronym has now become the official name of the organisation: BRAC. 2. The IGVGD program aimed to leverage food aid provided by the World Food Programme through income generation and social development training, developing a regular savings habit, providing small amounts of microcredit, and offering an opportunity to be involved in BRAC's mainstream development programs. As of 2004, the programme was working with 1.2 million extremely poor women in Bangladesh. For further details about and evaluations of this initiative, see Hulme and Matin (2003) and Matin and Ahmed (2004). 3. Based on the learning and experiences from this first phase, the programme was extended and expanded over the next five years-2007-2011 (known as the second phase of CFPR). At the time of writing, the programme was assisting more than 300,000 ultra poor families. 4. Staff to assisted ultra poor ratio is 1:100, and BRAC staff visit assisted households every week. These and several other details related to the working of this programme were obtained from Rabeya Yasmin, Programme Head, CFPR, BRAC -to whom the authors are grateful. 5. This weekly stipend was increased to 175 Taka for the second phase of CFPR. 6. Since data generated in-house by the implementing organisation has to be viewed with some caution, it is comforting to know that BRAC's Research and Evaluation Division is operationally (and financially) independent of other programme-implementing wings of this organisation. Data made available by this organisation have also been utilised by other analysts. See, for example, Ahmed et al. (2008) and Hulme and Moore (2008). 7. Randomised control trials -the 'gold standard' currently of development programme evaluation -can require such an arbitrary withholding of programme benefits from otherwise eligible individuals. A disconnect can arise in this manner between the requirements of professional evaluators, on the one hand, and on the other hand, programme implementers' concern for equity and fairness in benefit distribution -particularly when the programme concerned is locally grounded, building upon past experiences rather than writing upon a completely blank slate. 8. This rate of attrition was 6 per cent from 2002 to 2005 and 14 per cent between 2005 and 2008. 9. Dercon and Shapiro (2007) calculate a mean attrition rate of between 14 and 33 per cent for such studies. 10. Cash stipends given to SUPs are not included within this measure of household income. 11. Due to lack of space the details of index construction cannot be reported here, but are available upon request from the authors. The asset stock index is robust to alternative specifications. None of the results reported below changes significantly when one of these specifications is substituted by another. 12. Less than one-third of all NSUPs (compared to more than one-half of all SUPs) experienced asset losses between 2005 and 2008. 13. We ran multicollinearity tests with each of these characteristics and events as the dependent variable, finding no reasons for concern. The occurrence of particular household events is not significantly associated with programme participation, namely., the likelihood of events such as illnesses, floods, and so on, does not differ significantly between SUPs and NSUPs. Using Log Income (in place of income) as the dependent variable did not change the results reported below in terms of which variables gained significance. 14. As mentioned earlier, all figures are in constant 2002 Taka. 15. Instead of simply catching up with NSUPs, as convergence theory would lead us to expect, SUPs have actually moved further ahead. 16. Marriage of household member is positively correlated with income, increasing 2005 incomes by 332 Taka on average. Reverse causality is likely here -having a higher income likely motivated people to marry earlier.</p><p xml:id="_WtYgyPV">17. Among those SUPs who suffered asset stock reductions between 2005 and 2008, 95 per cent lost some value between 7783 and 8488 Taka. 18. It is possible that some SUPs exchanged material assets for human capital assets, investing in education and health, and it would be important to probe this possibility. Given the limited availability of data on these aspects, it becomes difficult to test this claim in full.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc xml:id="_J4TERjC">Criteria for exclusion and inclusion</figDesc><table><row><cell>Criteria</cell></row></table><note xml:id="_UVqWCBs"><p>Source:Rahman et al. (2004), Matin et al. (2004).</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc xml:id="_xsdVYgb">Baseline characteristics of beneficiaries of SUP and NSUP households</figDesc><table><row><cell>NSUP (N ¼ 2298) SUP (N ¼ 2251)</cell><cell>Difference</cell></row></table><note xml:id="_4kMS3eh"><p>1</p><p>Single includes never married, divorced, separated and widowed women.</p><p>2 Includes land of three types: cultivable, non-cultivable, and homestead.</p><p>3</p><p>In Bangladesh, 1 decimal is equal to 40.46 square meters.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 .</head><label>3</label><figDesc xml:id="_kbSjAS6">Economic indicators ofNSUP and Ultra Poor in 2002, 2005 and 2008   </figDesc><table><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Difference</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>(SUP-NSUP)</cell></row><row><cell></cell><cell>Year</cell><cell>NSUP</cell><cell>SUP</cell><cell>(S.E)</cell></row><row><cell>Per capita income</cell><cell>2002</cell><cell>2,784.50</cell><cell>2,492.67</cell><cell>7291.83***</cell></row><row><cell>(in constant 2000 Taka)</cell><cell></cell><cell></cell><cell></cell><cell>(62.59)</cell></row><row><cell></cell><cell>2005</cell><cell>3,615.45</cell><cell>4,292.98</cell><cell>677.54***</cell></row><row><cell></cell><cell>(increase over 2002)</cell><cell>("29%)</cell><cell>("72%)</cell><cell>(71.93)</cell></row><row><cell></cell><cell>2008</cell><cell>5,970.16</cell><cell>7,480.06</cell><cell>1,509.90***</cell></row><row><cell></cell><cell>(increase over 2005)</cell><cell>("65%)</cell><cell>("74%)</cell><cell>(116.7)</cell></row><row><cell>Asset value index</cell><cell>2002</cell><cell>2,132.50</cell><cell>829.96</cell><cell>71,302.54***</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>(114.92)</cell></row><row><cell></cell><cell>2005</cell><cell>3,189.23</cell><cell>13,801.15</cell><cell>10,611.92***</cell></row><row><cell></cell><cell>(increase over 2002)</cell><cell>("50%)</cell><cell>("1,663%)</cell><cell>(205.75)</cell></row><row><cell></cell><cell>2008</cell><cell>4,492.94</cell><cell>12,207.89</cell><cell>7,714.96***</cell></row><row><cell></cell><cell>(increase over 2005)</cell><cell>("41%)</cell><cell>(#12%)</cell><cell>(218.97)</cell></row><row><cell>Owned land/</cell><cell>2002</cell><cell>6.14/2.53</cell><cell>2.37/0.33</cell><cell>73.78***</cell></row><row><cell>cultivable land</cell><cell></cell><cell></cell><cell></cell><cell>(0.42)</cell></row><row><cell></cell><cell>2005</cell><cell>5.46/2.23</cell><cell>3.12/0.71</cell><cell>72.33***</cell></row><row><cell></cell><cell>(increase over 2002)</cell><cell>(#11%/#13%)</cell><cell>("32%/"117%)</cell><cell>(0.43)</cell></row><row><cell></cell><cell>2008</cell><cell>6.03/2.24</cell><cell>4.67/1.35</cell><cell>71.37***</cell></row><row><cell></cell><cell>(increase over 2005)</cell><cell>("10%/"0.06%)</cell><cell>("50%/"90%)</cell><cell>(0.41)</cell></row><row><cell>Proportion reporting</cell><cell>2002</cell><cell>.20</cell><cell>.08</cell><cell>70.12***</cell></row><row><cell>cash savings</cell><cell></cell><cell></cell><cell></cell><cell>(.01)</cell></row><row><cell></cell><cell>2005</cell><cell>.30</cell><cell>.94</cell><cell>0.64***</cell></row><row><cell></cell><cell>(increase over 2002)</cell><cell></cell><cell></cell><cell>(.01)</cell></row><row><cell></cell><cell>2008</cell><cell>.34</cell><cell>.98</cell><cell>0.63***</cell></row><row><cell></cell><cell>(increase over 2005)</cell><cell></cell><cell></cell><cell>(.01)</cell></row></table><note xml:id="_nx8KBRE"><p>Note: ***means significance at 99 per cent level.</p><p>How Much Can Asset Transfers Help the Poorest? 259</p><p>Downloaded by [University Of Maryland] at 06:56 14 October 2014</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4 .</head><label>4</label><figDesc xml:id="_yMUJSEc">Change in real per capita income between 2002 and 2005 (per capita income in 2005 is the dependent variable)</figDesc><table><row><cell></cell><cell>Model 1</cell><cell>Model 2</cell><cell>Model 3</cell><cell>Model 4</cell></row><row><cell>SUP 2002</cell><cell>7291.83***</cell><cell>7371.28***</cell><cell>7355.60***</cell><cell>7354.95***</cell></row><row><cell></cell><cell>(67.54)</cell><cell>(71.33)</cell><cell>(70.36)</cell><cell>(70.28)</cell></row><row><cell>SUP 2005</cell><cell>969.37***</cell><cell>948.62***</cell><cell>951.65***</cell><cell>964.34***</cell></row><row><cell></cell><cell>(95.39)</cell><cell>(89.90)</cell><cell>(88.62)</cell><cell>(88.88)</cell></row><row><cell>Year 2005</cell><cell>830.95***</cell><cell>797.30***</cell><cell>792.77***</cell><cell>724.87***</cell></row><row><cell></cell><cell>(67.17)</cell><cell>(63.47)</cell><cell>(62.57)</cell><cell>(63.96)</cell></row><row><cell cols="2">Household (HH) characteristics (starting year)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>HH head female</cell><cell></cell><cell>7490.80***</cell><cell>7522.95***</cell><cell>7493.87***</cell></row><row><cell></cell><cell></cell><cell>(120.03)</cell><cell>(118.78)</cell><cell>(118.69)</cell></row><row><cell>SUP female</cell><cell></cell><cell>423.46***</cell><cell>395.75***</cell><cell>401.38***</cell></row><row><cell></cell><cell></cell><cell>(97.49)</cell><cell>(96.14)</cell><cell>(96.03)</cell></row><row><cell>HH head single</cell><cell></cell><cell>427.85</cell><cell>439.51*</cell><cell>420.58*</cell></row><row><cell></cell><cell></cell><cell>(262.47)</cell><cell>(258.74)</cell><cell>(258.60)</cell></row><row><cell>HH head single female</cell><cell></cell><cell>7743.35***</cell><cell>7701.57**</cell><cell>7708.12**</cell></row><row><cell></cell><cell></cell><cell>(286.02)</cell><cell>(282.00)</cell><cell>(281.69)</cell></row><row><cell>HH head age</cell><cell></cell><cell>0.43</cell><cell>2.26</cell><cell>2.06</cell></row><row><cell></cell><cell></cell><cell>(1.83)</cell><cell>(1.81)</cell><cell>(1.82)</cell></row><row><cell>HH head literate</cell><cell></cell><cell>194.64**</cell><cell>175.54**</cell><cell>168.54*</cell></row><row><cell></cell><cell></cell><cell>(87.84)</cell><cell>(86.61)</cell><cell>(86.45)</cell></row><row><cell>Household size</cell><cell></cell><cell>7481.78***</cell><cell>7463.35***</cell><cell>7461.65***</cell></row><row><cell></cell><cell></cell><cell>(16.08)</cell><cell>(15.90)</cell><cell>(15.96)</cell></row><row><cell>Total land owned</cell><cell></cell><cell>23.71***</cell><cell>22.69***</cell><cell>22.44***</cell></row><row><cell></cell><cell></cell><cell>(1.57)</cell><cell>(1.55)</cell><cell>(1.55)</cell></row><row><cell cols="3">District fixed effects (Rangpur is the comparison category)</cell><cell></cell><cell></cell></row><row><cell>Nilphamari</cell><cell></cell><cell></cell><cell>7891.67***</cell><cell>7884.77***</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(56.34)</cell><cell>(56.40)</cell></row><row><cell>Kurigram</cell><cell></cell><cell></cell><cell>7274.91***</cell><cell>7287.30***</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(54.32)</cell><cell>(54.27)</cell></row><row><cell>Household events</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>House damaged</cell><cell></cell><cell></cell><cell></cell><cell>7182.43***</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>(51.94)</cell></row><row><cell>Member ill</cell><cell></cell><cell></cell><cell></cell><cell>7186.26***</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>(55.48)</cell></row><row><cell>Member died</cell><cell></cell><cell></cell><cell></cell><cell>745.29</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>(141.07)</cell></row><row><cell>Marriage</cell><cell></cell><cell></cell><cell></cell><cell>332.42***</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>(95.96)</cell></row><row><cell>Livestock died</cell><cell></cell><cell></cell><cell></cell><cell>797.88</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>(102.37)</cell></row><row><cell>Constant</cell><cell>2784.50***</cell><cell>4676.64***</cell><cell>4914.26***</cell><cell>5025.32***</cell></row><row><cell></cell><cell>(47.60)</cell><cell>(118.48)</cell><cell>(119.74)</cell><cell>(120.93)</cell></row><row><cell>R-squared</cell><cell>0.088</cell><cell>0.192</cell><cell>0.215</cell><cell>0.218</cell></row><row><cell>d/f</cell><cell>9069</cell><cell>9054</cell><cell>9052</cell><cell>9047</cell></row><row><cell cols="4">Notes: *p 5 .10, **p 5 .05, ***p 5 .01; standard errors are reported in parentheses.</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 5 .</head><label>5</label><figDesc xml:id="_HVyQyrm">Change in real per capita income between 2005 and 2008 (per capita income in 2008 is the dependent variable) How Much Can Asset Transfers Help the Poorest? 263 Downloaded by [University Of Maryland] at 06:56 14 October 2014 see later, the effects of additional landholding upon incomes are relatively small. In terms of district of residence, living in either Nilphamari or Kurigram (rather than in Rangpur district) tended to go together with lower 2005 per capita incomes (respectively, 7884 Taka and 7287 Taka).</figDesc><table><row><cell></cell><cell>Model 1</cell><cell>Model 2</cell><cell>Model 3</cell><cell>Model 4</cell></row><row><cell>SUP 2005</cell><cell>677.54***</cell><cell>356.33***</cell><cell>404.04***</cell><cell>420.86***</cell></row><row><cell></cell><cell>(96.72)</cell><cell>(101.38)</cell><cell>(100.68)</cell><cell>(101.06)</cell></row><row><cell>SUP 2008</cell><cell>832.36***</cell><cell>777.04***</cell><cell>779.78***</cell><cell>758.68***</cell></row><row><cell></cell><cell>(136.79)</cell><cell>(126.36)</cell><cell>(125.38)</cell><cell>(125.29)</cell></row><row><cell>Year 2008</cell><cell>2354.71***</cell><cell>2357.43***</cell><cell>2351.70***</cell><cell>2340.39***</cell></row><row><cell></cell><cell>(96.23)</cell><cell>(89.29)</cell><cell>(88.60)</cell><cell>(88.64)</cell></row><row><cell cols="2">Household (HH) characteristics (starting year)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>HH head female</cell><cell></cell><cell>71022.64***</cell><cell>71150.06***</cell><cell>71152.58***</cell></row><row><cell></cell><cell></cell><cell>(173.56)</cell><cell>(172.70)</cell><cell>(172.41)</cell></row><row><cell>SUP female</cell><cell></cell><cell>958.88***</cell><cell>908.72***</cell><cell>912.82***</cell></row><row><cell></cell><cell></cell><cell>(135.05)</cell><cell>(134.06)</cell><cell>(133.86)</cell></row><row><cell>HH head single</cell><cell></cell><cell>842.61**</cell><cell>840.95**</cell><cell>784.85**</cell></row><row><cell></cell><cell></cell><cell>(331.43)</cell><cell>(328.85)</cell><cell>(329.24)</cell></row><row><cell>HH head single female</cell><cell></cell><cell>7952.62***</cell><cell>7837.05**</cell><cell>7781.97**</cell></row><row><cell></cell><cell></cell><cell>(369.37)</cell><cell>(366.63)</cell><cell>(366.78)</cell></row><row><cell>HH head age</cell><cell></cell><cell>0.22</cell><cell>1.90</cell><cell>1.28</cell></row><row><cell></cell><cell></cell><cell>(2.66)</cell><cell>(2.65)</cell><cell>(2.65)</cell></row><row><cell>HH head literate</cell><cell></cell><cell>142.27</cell><cell>111.35</cell><cell>107.54</cell></row><row><cell></cell><cell></cell><cell>(121.48)</cell><cell>(120.56)</cell><cell>(120.34)</cell></row><row><cell>Household size</cell><cell></cell><cell>7783.00***</cell><cell>7767.36***</cell><cell>7771.71***</cell></row><row><cell></cell><cell></cell><cell>(23.40)</cell><cell>(23.35)</cell><cell>(23.37)</cell></row><row><cell>Total land owned</cell><cell></cell><cell>33.35***</cell><cell>31.85***</cell><cell>31.44***</cell></row><row><cell></cell><cell></cell><cell>(2.25)</cell><cell>(2.23)</cell><cell>(2.23)</cell></row><row><cell cols="3">District fixed fffects (Rangpur is the comparison category)</cell><cell></cell><cell></cell></row><row><cell>Nilphamari</cell><cell></cell><cell></cell><cell>7436.19***</cell><cell>7441.48***</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(79.98)</cell><cell>(79.86)</cell></row><row><cell>Kurigram</cell><cell></cell><cell></cell><cell>478.12***</cell><cell>459.74***</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(76.75)</cell><cell>(76.72)</cell></row><row><cell>Household events</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>House damaged</cell><cell></cell><cell></cell><cell></cell><cell>7227.03**</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>(96.64)</cell></row><row><cell>Member ill</cell><cell></cell><cell></cell><cell></cell><cell>7228.47***</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>(87.13)</cell></row><row><cell>Member died</cell><cell></cell><cell></cell><cell></cell><cell>96.94</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>(230.34)</cell></row><row><cell>Marriage</cell><cell></cell><cell></cell><cell></cell><cell>652.00***</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>(128.77)</cell></row><row><cell>Livestock died</cell><cell></cell><cell></cell><cell></cell><cell>787.56</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>(139.67)</cell></row><row><cell>Constant</cell><cell>3615.45***</cell><cell>6671.46***</cell><cell>6501.75***</cell><cell>6585.60***</cell></row><row><cell></cell><cell>(68.04)</cell><cell>(181.69)</cell><cell>(183.81)</cell><cell>(184.23)</cell></row><row><cell>R-squared</cell><cell>0.175</cell><cell>0.298</cell><cell>0.309</cell><cell>0.312</cell></row><row><cell>d/f</cell><cell>9091</cell><cell>9046</cell><cell>9044</cell><cell>9039</cell></row><row><cell cols="4">Notes: *p 5 .10, **p 5 .05, ***p 5 .01; standard errors are reported in parentheses.</cell><cell></cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p xml:id="_TeWCe2b">Downloaded by [University Of Maryland] at 06:56 14 October 2014</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head xml:id="_mbd9kU9">Acknowledgements</head><p xml:id="_RvWYz3m">The authors wish to thank <rs type="person">Chris Barrett</rs>, <rs type="person">David Hulme</rs>, <rs type="person">Imran Matin</rs>, <rs type="person">Agnes Quisumbing</rs>, <rs type="person">Norman Uphoff</rs>, and two anonymous reviewers for their comments on earlier drafts. The usual disclaimers apply.</p><p xml:id="_fjgFRra">Notes</p></div>
+			</div>			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="consolidated"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main" xml:id="_tpFPjy6">The poorest and hungry: Assessments, analyses, and actions: An IFPRI 2020 book.</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">H</forename><surname>Abed</surname></persName>
+		</author>
+		<idno type="DOI">10.2499/9780896296602bk</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_3VAQ2aZ">The Poorest and Hungry: Assessments, Analyses, and Actions</title>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Braun</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Vargas</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Hill</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Pandya-Lorch</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Washington, DC</addrLine></address></meeting>
+		<imprint>
+			<publisher>International Food Policy Research Institute</publisher>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="page" from="339" to="344" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main" xml:id="_gHZKjX3">The Bangladesh Rural Advancement Committee: how BRAC learned to meet rural people&apos;s needs through local action</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">H</forename><surname>Abed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M R</forename><surname>Chowdhury</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_5sexaGX">Reasons for Hope: Instructive Experiences in Rural Development</title>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Krishna</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">N</forename><surname>Uphoff</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Esman</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Bloomfield, CT</addrLine></address></meeting>
+		<imprint>
+			<publisher>Kumarian Press</publisher>
+			<date type="published" when="1997">1997</date>
+			<biblScope unit="page" from="41" to="56" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main" xml:id="_J4Uvps2">1 Poverty Dynamics</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Addison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hulme</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kanbur</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/acprof:oso/9780199557547.003.0001</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_JdKy3TP">Poverty Dynamics</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University PressOxford</publisher>
+			<date type="published" when="2009-01-22">2009</date>
+			<biblScope unit="page" from="3" to="26" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main" xml:id="_Tg7vzMd">The impact of asset transfers on livelihoods of the ultra poor in Bangladesh</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ahmed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rabbani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sulaiman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Das</surname></persName>
+		</author>
+		<ptr target="http://www.bracresearch.org/monographs/Monograph_39.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_J5JfBRN">Monograph</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main" xml:id="_xJa2W3b">Hybrid 3D CNN-LSTM Model for rs-fMRI-Based Parkinson’s Prediction</title>
+		<author>
+			<persName><forename type="first">Salman</forename><forename type="middle">Ibne</forename><surname>Eunus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sakib</forename><surname>Rokoni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mitheela</forename><forename type="middle">Das</forename><surname>Armisha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jasia</forename><forename type="middle">Hossain</forename><surname>Omi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Asika</forename><surname>Islam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Farah</forename><forename type="middle">Binta</forename><surname>Haque</surname></persName>
+		</author>
+		<idno type="DOI">10.31645/jisrc.25.23.1.2</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_zf95HUG">Journal of Independent Studies and Research Computing</title>
+		<title level="j" type="abbrev">JISR-C</title>
+		<idno type="ISSN">2412-0448</idno>
+		<idno type="ISSNe">1998-4154</idno>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2009">2009</date>
+			<publisher>Shaheed Zulfiqar Ali Bhutto Institute of Science and Technology</publisher>
+			<pubPlace>Dhaka</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>BRAC Research and Evaluation Department</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main" xml:id="_gqQang7">The economics of poverty traps and persistent poverty: An asset-based approach</title>
+		<author>
+			<persName><forename type="first">Michael</forename><forename type="middle">R</forename><surname>Carter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christopher</forename><forename type="middle">B</forename><surname>Barrett</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00220380500405261</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_JVUFtWf">Journal of Development Studies</title>
+		<title level="j" type="abbrev">Journal of Development Studies</title>
+		<idno type="ISSN">0022-0388</idno>
+		<idno type="ISSNe">1743-9140</idno>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="178" to="199" />
+			<date type="published" when="2006-02">2006</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main" xml:id="_AZZ2kt4">One Kind of Freedom: Poverty Dynamics in Post-apartheid South Africa</title>
+		<author>
+			<persName><forename type="first">Michael</forename><forename type="middle">R</forename><surname>Carter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Julian</forename><surname>May</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0305-750x(01)00089-4</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_yHvKR4J">World Development</title>
+		<title level="j" type="abbrev">World Development</title>
+		<idno type="ISSN">0305-750X</idno>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1987" to="2006" />
+			<date type="published" when="2001-12">2001</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main" xml:id="_uc5WHEg">Discussions Among the Poor: Exploring Poverty Dynamics with Focus Groups in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Peter</forename><surname>Davis</surname></persName>
+		</author>
+		<idno type="DOI">10.2139/ssrn.1653340</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_KXQpDdv">SSRN Electronic Journal</title>
+		<title level="j" type="abbrev">SSRN Journal</title>
+		<idno type="ISSNe">1556-5068</idno>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<date type="published" when="2007">2007</date>
+			<publisher>Elsevier BV</publisher>
+			<pubPlace>Manchester</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">CPRC Working Paper</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main" xml:id="_JPyDaTf">Risk, Insurance, and Poverty: A Review</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Dercon</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/0199276838.003.0002</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_4BF6XYV">Insurance Against Poverty</title>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Dercon</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University PressOxford</publisher>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="page" from="9" to="37" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main" xml:id="_hE2QNXq">Moving Out of Poverty (Volume 1)</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Dercon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Shapiro</surname></persName>
+		</author>
+		<idno type="DOI">10.1596/978-0-8213-6991-3</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_8yZWE3B">Cross-Disciplinary Perspectives on Mobility</title>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Narayan</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Petesch</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Washington, DC</addrLine></address></meeting>
+		<imprint>
+			<publisher>The World Bank</publisher>
+			<date type="published" when="2007-10">2007</date>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="77" to="126" />
+		</imprint>
+	</monogr>
+	<note>Moving Out of Poverty</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b10">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><surname>Emran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Robano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Smith</surname></persName>
+		</author>
+		<ptr target="http://www.bu.edu/econ/neudc/papers/Section%204/Session%2017/284.pdf" />
+		<title level="m" xml:id="_3gHBrkS">Assessing the frontiers of ultra-poverty reduction, evidence from CFPR/ TUP, an innovative program in Bangladesh</title>
+		<meeting><address><addrLine>Washington, DC</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+		<respStmt>
+			<orgName>Department of Economics, Georgetown University</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main" xml:id="_za8C2jp">Engaging elite support for the poorest? BRAC&apos;s Targeted Ultra Poor programme for rural women in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Naomi</forename><surname>Hossain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Imran</forename><surname>Matin</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/09614520701336923</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_9Eda35B">Development in Practice</title>
+		<title level="j" type="abbrev">Development in Practice</title>
+		<idno type="ISSN">0961-4524</idno>
+		<idno type="ISSNe">1364-9213</idno>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="380" to="392" />
+			<date type="published" when="2007-06-01">2007</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main" xml:id="_ZEzZME4">Programmes for the poorest: learning from the IGVGD in Bangladesh</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hulme</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Matin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_GjhzBuB">World Development</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="647" to="665" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main" xml:id="_pmyBXjS">Assisting the Poorest in Bangladesh: Learning from BRAC&apos;s &apos;Targeting the Ultra Poor&apos; Programme</title>
+		<author>
+			<persName><forename type="first">David</forename><surname>Hulme</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Karen</forename><surname>Moore</surname></persName>
+		</author>
+		<idno type="DOI">10.2139/ssrn.1160303</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_7v775wY">SSRN Electronic Journal</title>
+		<title level="j" type="abbrev">SSRN Journal</title>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Barrientos</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Hulme</surname></persName>
+		</editor>
+		<idno type="ISSNe">1556-5068</idno>
+		<imprint>
+			<biblScope unit="page" from="194" to="210" />
+			<date type="published" when="2008">2008</date>
+			<publisher>Elsevier BV</publisher>
+			<pubPlace>Basingstoke, UK</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b14">
+	<monogr>
+		<author>
+			<persName><forename type="first">Krishna</forename><forename type="middle">A</forename></persName>
+		</author>
+		<title level="m" xml:id="_e52bAZC">One Illness Away: How People Escape Poverty and Why they Become Poor</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main" xml:id="_CNdvzHb">Topic Modeling Using Community Detection on a Word Association Graph</title>
+		<author>
+			<persName><forename type="first">Mahfuzur</forename><surname>Rahman Chowdhury</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Intesur</forename><surname>Ahmed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Farig</forename><surname>Sadeque</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Muhammad</forename><surname>Nur Yanhaona</surname></persName>
+		</author>
+		<idno type="DOI">10.26615/978-954-452-092-2_098</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_fTaPQWa">Proceedings of the Conference Recent Advances in Natural Language Processing - Large Language Models for Natural Language Processings</title>
+		<meeting>the Conference Recent Advances in Natural Language Processing - Large Language Models for Natural Language Processings</meeting>
+		<imprint>
+			<publisher>INCOMA Ltd., Shoumen, BULGARIA</publisher>
+			<date type="published" when="2004">2004</date>
+			<biblScope unit="page" from="908" to="917" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main" xml:id="_U966cQ9">Poverty Transitions, Shocks, and Consumption in Rural Bangladesh: Preliminary Results from a Longitudinal Household Survey</title>
+		<author>
+			<persName><forename type="first">Agnes</forename><forename type="middle">R</forename><surname>Quisumbing</surname></persName>
+		</author>
+		<idno type="DOI">10.2139/ssrn.1629178</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_53xbB7r">SSRN Electronic Journal</title>
+		<title level="j" type="abbrev">SSRN Journal</title>
+		<idno type="ISSNe">1556-5068</idno>
+		<imprint>
+			<biblScope unit="volume">105</biblScope>
+			<date type="published" when="2007">2007</date>
+			<publisher>Elsevier BV</publisher>
+			<pubPlace>Manchester</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">CPRC Working Paper</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b17">
+	<monogr>
+		<title level="m" type="main" xml:id="_94ur35Z">Impact assessment of CFPR/TUP: a descriptive analysis based on 2002-2005 panel data</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rabbani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Prakash</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sulaiman</surname></persName>
+		</author>
+		<idno>No. 12</idno>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>BRAC</publisher>
+			<pubPlace>Dhaka</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">CFPR-TUP Working Paper Series</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b18">
+	<analytic>
+		<title level="a" type="main" xml:id="_FMv5SZz">Stories of targeting: process documentation of selecting the ultra poor for CFPR/TUP Programme</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Rahman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tariq</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s" xml:id="_gxVGZgS">CFPR-TUP Working Paper Series</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<date type="published" when="2004">2004</date>
+			<publisher>BRAC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main" xml:id="_CRFcVwj">Assets and the Poor</title>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Sherraden</surname></persName>
+		</author>
+		<idno type="DOI">10.4324/9781315288376</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_NUnyZaj">Assets and the Poor: A New American Welfare Policy</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Sharpe</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Armonk, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main" xml:id="_jjrTz8C">Freedom From Want</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Smilie</surname></persName>
+		</author>
+		<idno type="DOI">10.1515/9781565493155</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_vuEbxre">Freedom from Want: The Remarkable Success Story of BRAC, the Global Grassroots Organization that&apos;s Winning the Fight against Poverty</title>
+		<meeting><address><addrLine>Bloomfield, CT</addrLine></address></meeting>
+		<imprint>
+			<publisher>Lynne Rienner Publishers</publisher>
+			<date type="published" when="2009-12-31">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b21">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Watson</surname></persName>
+		</author>
+		<title level="m" xml:id="_CS4P9jX">Introduction to Econometrics</title>
+		<meeting><address><addrLine>Harlow, UK</addrLine></address></meeting>
+		<imprint>
+			<publisher>Addison-Wesley Series in Economics</publisher>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note>2nd Edition</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main" xml:id="_GTZ5gyS">A Matched Case-Control Study to Identify Risk Determinants of Tuberculosis in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Malabika</forename><surname>Sarker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fahmida</forename><surname>Homayra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mrittika</forename><surname>Barua</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sukanta</forename><surname>Paul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Avijit</forename><surname>Saha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rahima</forename><surname>Akter James P Grant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H M</forename><surname>Mahbub Latif</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shayela</forename><surname>Islam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Akramul</forename><surname>Lslam</surname></persName>
+		</author>
+		<idno type="DOI">10.5176/2251-3833_ghc17.05</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_pHv4AXw">Annual Global Healthcare Conference (GHC)</title>
+		<imprint>
+			<publisher>Global Science &amp; Technology Forum (GSTF)</publisher>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="page" from="11" to="16" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main" xml:id="_g7mdDG4">The Grameen Bank story: rural credit in Bangladesh</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Yunus</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_QCtGDmS">Reasons for Hope: Instructive Experiences in Rural Development</title>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Krishna</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">N</forename><surname>Uphoff</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Esman</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Bloomfield, CT</addrLine></address></meeting>
+		<imprint>
+			<publisher>Kumarian Press</publisher>
+			<date type="published" when="1997">1997</date>
+			<biblScope unit="page" from="9" to="25" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

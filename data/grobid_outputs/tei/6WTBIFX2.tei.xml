@@ -1,0 +1,1083 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" xml:id="_x2KASTt">A booster to conditional cash transfer programme: experimental evidence on financial inclusion and livelihood enhancement project</title>
+				<funder ref="#_TtrGgvU #_pAmwFvR">
+					<orgName type="full">JSPS KAKENHI</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Informa UK Limited</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2024-08-22">2024-08-22</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Ayako</forename><surname>Matsuda</surname></persName>
+							<email>amatsuda@kansai-u.ac.jp</email>
+							<affiliation key="aff0">
+								<orgName type="department">Faculty of Economics</orgName>
+								<orgName type="institution">Kansai University</orgName>
+								<address>
+									<settlement>Osaka</settlement>
+									<country>Japan;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Keitaro</forename><surname>Aoyagi</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">Metrics Work Consultants Inc</orgName>
+								<address>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Takako</forename><surname>Mochizuki</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="institution">Japan International Cooperation Agency</orgName>
+								<address>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Miki</forename><surname>Uematsu</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Faculty of Economics</orgName>
+								<orgName type="institution">Kaihatsu Management Consulting, Inc</orgName>
+								<address>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="institution">Kansai University</orgName>
+								<address>
+									<addrLine>3-3-35 Yamate-cho</addrLine>
+									<postCode>564-868</postCode>
+									<settlement>Suita City Osaka</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main" xml:id="_MJf28xe">A booster to conditional cash transfer programme: experimental evidence on financial inclusion and livelihood enhancement project</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main" xml:id="_YAzDDG5">Journal of Development Effectiveness</title>
+						<title level="j" type="abbrev">Journal of Development Effectiveness</title>
+						<idno type="ISSN">1943-9342</idno>
+						<idno type="eISSN">1943-9407</idno>
+						<imprint>
+							<publisher>Informa UK Limited</publisher>
+							<biblScope unit="volume">17</biblScope>
+							<biblScope unit="issue">2</biblScope>
+							<biblScope unit="page" from="143" to="160"/>
+							<date type="published" when="2024-08-22" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">56F5819336865033042C63F7453D9077</idno>
+					<idno type="DOI">10.1080/19439342.2024.2394478</idno>
+					<note type="submission">Received 28 December 2021 Accepted 17 June 2024</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2025-11-04T18:59+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a292bac</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=1, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=true, generateTeiCoordinates=[true], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term xml:id="_wXZ7FGc">Randomised control trial</term>
+					<term xml:id="_m4F8H5H">impact evaluation</term>
+					<term xml:id="_BKTtXc8">conditional cash transfer</term>
+					<term xml:id="_NHukZkB">financial inclusion</term>
+					<term xml:id="_GC2HQY3">financial education</term>
+					<term xml:id="_R29dbEB">female empowerment</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_hYAMfBB"><p xml:id="_VrJaJZm">While Conditional Cash Transfer (CCT) Programmes have contributed to sustained economic growth in many countries, existing evaluations show that the Honduran CCT programme has only a modest impact on poverty. This study examines a causal impact of a training project on financial inclusion and livelihood enhancement conducted as a booster to increase the effectiveness of the CCT programme. Based on a graduation approach, the project provides multi-faceted interventions to randomly selected CCT beneficiaries. We estimate intention-to-treat effects and find that the interventions significantly increase financial literacy and inclusion, including knowledge of financial institutions, financial accounts, bookkeeping, and pro-saving attitudes. We also find that the treated individuals in rural areas gain significant income from business, livestock farming, and agriculture by switching employment. Importantly, we find evidence that the interventions contribute to female empowerment by changing the intrahousehold decision-making process. The impact is much larger in rural areas, where financial markets are underdeveloped, and the traditional gender pattern is more prevalent. The intervention seems to reduce the urban-rural gap.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="634.32" lry="833.04"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="10" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="11" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="12" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="13" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="14" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="15" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="16" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="17" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="18" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="19" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1." xml:id="_RTW2MjJ">Introduction</head><p xml:id="_cHjNejP">Conditional Cash Transfer Programmes (CCTs) have been widely implemented in Latin America and other countries. Women from poor families with preschool or school-age children as well as pregnant women are provided with lump-sum payments conditional on regular school attendance and health-centre visits. In Honduras, the Vice-ministry of Social Integration (Secretaría de Integración Social, SSIS) of the national government initiated a CCT programme called the Family Allowances Programme (Programma de Asignación Familiar, PRAF) in 1990. Continued widespread poverty extended the programme to PRAF II in 1998, Bono Diez Mil (Bonus 10,000) in 2010, and Bono Vida Mejor (Better Life Bonus) in 2014. The current CCT programme focuses on human capital development and assists with housing, ovens, water filters, and latrines, as well as cash transfers to schools and health centres to be used for better planning and budgeting. <ref type="bibr">1</ref> Meanwhile, financial inclusion based on a graduation approach has recently inspired policymakers worldwide. <ref type="bibr">2</ref> This approach includes a series of interventions such as consumption assistance (food and/or cash), followed by better access to financial services, technical skills training, and seed-Third, this study contributes to the literature on female empowerment through financial inclusion. As this traditional gender pattern is still highly prevalent in rural areas where the population is more heavily concentrated, the ACTIVO project has helped these women go outside to attend training sessions. Existing studies such as Ashraf, Karlan, and Yin (2010), Dupas and Robinson (2013), and Bandiera et al. (2017) agree that women with increased financial knowledge and management skills have better control of their financial resources, which can improve intra-household bargaining power. Thus, our findings of positive impact on gender-related outcomes is crucial. Additionally, Humphries et al. (2012) qualitatively showed that Honduran agricultural programmes encouraged female participants to exercise their freedom. Although their findings are relevant, their analysis was observational, and thus did not identify causal effects. Complementing the literature, the present study helps us understand the causal effect through which poor women's financial inclusion can reduce traditional gender bias.</p><p xml:id="_TkzBtQJ">The remainder of this paper is organised as follows: Section 2 describes the background of the study site. Section 3 discusses the details of the randomised intervention and characteristics of the sample. Section 4 describes the empirical strategy. Section 5 presents the results, followed by a discussion in Section 6. Finally, Section 7 concludes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2." xml:id="_RNEEUb8">Background</head><p xml:id="_rPn2u2E">The PRAF was the first social safety-net programme in Honduras, originally intended to compensate poor households for the negative economic impacts of structural adjustments (Moore 2008). The PRAF was expanded to PRAF II in 1998, with external funding from the Inter-American Development Bank. Modelled after Mexico's PROGRESA, PRAF II aimed to increase investment in human capital, including nutrition, health during early childhood and education (Millán et al. 2020). This was further expanded to Bono Diez Mil in 2010, and Bono Vida Mejor in 2014. The programme offers lump-sum payments to poor mothers with preschool or school-age children conditional on regular school attendance, and to pregnant women conditional on regular health-centre visits. <ref type="bibr">5</ref> The amount of cash transfers depends on a household's characteristics in terms of the number of children and their ages, which is approximately 100 USD at one time to a maximum of 500 USD per year. Cash is disbursed every three to four months, except in Tegucigalpa, the capital of Honduras, where it is often deposited into bank accounts. <ref type="bibr">6</ref> Although the number of beneficiaries has been growing, the programme has been criticised for poor targeting and leakage (Moore 2008). According to the World Bank, the poverty headcount ratios of 1.90 and 3.20 USD per day remain at 14.8% and 29.0%, respectively (World Bank 2018b). <ref type="bibr">7</ref> Additionally, previous studies found that the past Honduran CCT programmes had a minimal impact on poverty alleviation: a 0.02 percentage-point decline in poverty (Cecchini and Madariaga 2011); a 1-2 percentage-point increase in enrolment rates but no significant reduction in child labour-force participation (Glewwe and Olinto 2004); a 6.9% increase in caloric intake but no significant improvements in dietary quality (Hoddinott and Wiesmann 2008); and a significant 3.9% increase in fertility (Glassman et al. 2013). <ref type="bibr">8</ref> These findings contrast with the relatively large positive impacts found in other Latin American countries.</p><p xml:id="_ckvKRpK">Furthermore, the literature consistently claims that CCT programmes alone are insufficient, and that a much more comprehensive programme with more active participation by social workers and others may be necessary for poverty alleviation (Fiszbein et al. 2009; Moore 2008). Accordingly, in the ACTIVO project, national and local governments teamed up with extension workers, community leaders, and local financial institutions and provided training sessions on financial inclusion and livelihood to CCT beneficiaries. <ref type="bibr">9</ref> The ACTIVO project comprised three components. The first component included training sessions on household bookkeeping, financial education, and livelihood enhancement. The sessions were classroom-based, and each session lasted two to three hours. Table <ref type="table" target="#tab_0">1</ref> summarises the contents of these sessions, topics covered, and average number of sessions. For Modules 1-4, instructors were chosen from among extension workers, municipality officials, and financial institutions' employees. Some attendees opened their accounts on the spot. <ref type="bibr">10</ref> Alternatively, bank employees visited community meetings to help people open new accounts.</p><p xml:id="_TQxNUV4">Modules 5 and 6 covered topics related to vocational training and livelihood improvement. While these modules were implemented over a long period, each municipality worked closely with the local communities to maintain strong relationships, and the attendees seemed to stay motivated by acquainting themselves with the success stories of people in their neighbourhood. The instructors were typically selected from among local business owners (e.g. a local restaurant owner for a cooking class). In later sessions, they were chosen from participants who had already started their businesses during the intervention. Topics included cooking, baking, hairdressing, tailoring, detergent manufacturing, the production of piñatas, livestock farming, agriculture, etc. This is in line with McKenzie  and Woodruff (2014) and Brooks, Donovan, and Johnson (2018), who maintained that marketspecific, localised information would be much more helpful than the principles commonly taught in formal business classes.</p><p xml:id="_6thYAK4">The second component of the ACTIVO project involved semi-personalised coaching sessions. Local officials and community leaders held these coaching sessions as a follow-up to classroom sessions. Coaches periodically visited treated women individually or in meetings in case they had questions and/or concerns about materials provided earlier. The coaching also aimed to boost • Understanding the benefits and usefulness of savings accounts.</p><p xml:id="_wJqTEcK">• Identifying basic methods of saving.</p><p xml:id="_NuHNmvQ">• Establishing savings goals linked to improvements in livelihood and economic activities. April 2016 2. Household financial management (Avg.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.8" xml:id="_txtbJnS">sessions)</head><p xml:id="_kQZteQk">• Understanding annual cash flow patterns.</p><p xml:id="_GqHSvAR">• Learning household bookkeeping methods.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_XhP2wT6">May 2016</head><p xml:id="_bNezFcp">3. Planning of income improvement activities (Avg. 13 sessions)</p><p xml:id="_wyzbpn2">• Making plans for livelihood improvement.</p><p xml:id="_2awppkU">• Understanding the financial situations.</p><p xml:id="_VgJvVTq">June 2016 4. Financial services (Avg. 30 sessions)</p><p xml:id="_DZcfjDs">• Acquiring knowledge of financial products to use them appropriately.</p><p xml:id="_HurFmyd">• Understanding rights and obligations of the financial service users.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_zPdPSj9">July 2016</head><p xml:id="_4CKKzeW">5. Management of micro-enterprise (Avg. 5.6 sessions)</p><p xml:id="_cxYdsFp">• Understanding the importance of business plan for micro-enterprise.</p><p xml:id="_rjva2Av">• Learning to use financial products for micro- enterprises.</p><p xml:id="_hM6mstz">Sep 2016 -May 2017 6. Vocational training (Avg. 24.4 sessions)</p><p xml:id="_wWaY43Y">• Vocational training relevant to local contexts.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_XpaJ4uU">Sep 2016-May 2017</head><p xml:id="_FneFGuV">We list the average numbers of sessions for each module across municipalities. Each session took two to three hours. participants' self-esteem to improve their livelihoods. While participation was not mandatory throughout the project, Table <ref type="table" target="#tab_1">2</ref> shows that almost all treated women participated in at least one session. <ref type="bibr">11</ref> On average, each woman attended five training and four coaching sessions. As most training sessions in rural areas were held at the community level, peer learning seemed to work well. The third component was a one-time asset transfer provided by the government or public sector, including mancomunidad (territorial associations of municipalities). The assets were not randomly distributed for logistical reasons; the choice was finalised by the participants, local leaders, extension workers, and municipality officials, based on the business plans submitted by the participants. <ref type="bibr">12</ref> Accordingly, our results can be interpreted as the upper bounds for the potential impacts. A total of 355 women received assets.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3." xml:id="_52H2dZQ">Data</head><p xml:id="_wwh5EQx">The baseline survey was conducted among approximately 2,000 households from a pool of CCT beneficiaries during June -July 2015, approximately 10 months prior to the intervention. Five municipalities were involved: Las Vegas, Quimistán, San Rafael, Tegucigalpa, and Villa de San Francisco (Appendix Figure <ref type="figure">1</ref>). <ref type="bibr">13</ref> The survey was conducted in person and included information on household members, the respondents' and households' socio-economic characteristics, income, expenditure, details of the decision-making processes, and several arithmetic questions such as addition, subtraction, and annual interest rates. Half of the 2,000 people lived in urban areas, whereas the rest lived in rural areas. Considering the security situations and local governments' capacity constraints, the sampling strategy was as follows: In urban areas, CCT beneficiaries were stratified at the municipality level and individuals were randomly assigned to either the treatment or control groups. In rural areas, the unit of randomisation was at the village level. In total, there were 27 village clusters. As the number of clusters are limited, we conduct randomisation inference to overcome small-sample problems.</p><p xml:id="_wFnDxJS">The endline survey was conducted one month after the interventions were completed. For comparison, the survey asked the same set of questions as the baseline one, followed by a new set of questions on whether the training and coaching sessions improved the relationship between the participants and their spouses. The overall attrition rates are 12% and 7% in urban and rural areas, respectively; however, we observe no evidence of differential attrition. Table <ref type="table" target="#tab_2">3</ref> shows that the treatment dummy is not correlated with attrition. Some of the explanatory variables that were correlated with attrition (Column 2) are controlled in the regressions to alleviate potential bias.</p><p xml:id="_rT2VjvV">Table <ref type="table" target="#tab_3">4</ref> presents summary statistics. <ref type="bibr">14</ref> Almost 95% of the respondents are female for urban sample, while the corresponding ratio is higher for rural sample. The ratios of female-headed households and single-mother households are higher for urban sample than for rural sample. On average, the urban respondents are 40.7 years old, with 4.06 and 3.93 years of schooling. Rural respondents are generally older and have fewer years of education.</p><p xml:id="_K2zSpfA">The average annual incomes are 64,550 Lempira (2,817.6 USD) and 65,912 Lempira (2,877.0 USD), respectively. <ref type="bibr">15</ref> Incomes from employment and micro-enterprise account for larger shares for urban sample. Income of the rural sample is smaller, while those from agriculture and livestock farming are higher. <ref type="bibr">16</ref> Panel B reports that, at the baseline, only 6-7 % correctly answered the question on the annual interest rate (math dummy) for urban sample. On average, 71 and 75% had some preliminary knowledge of financial institutions and accounts. Additionally, only 10% have saving goals and engage in bookkeeping, while 47 and 52% have at least one financial account. This is not surprising as CCT payments are deposited into bank accounts in some urban areas. The average outstanding balance at the baseline is 648.8 and 734.8 Lempiras (28.3 and 32.1 USD), which constitutes 1.0-1.1% of the average annual incomes. Rural-sample averages are generally lower than the urban-sample ones (math dummy, knowledge of bank or any other financial institutions, bank accounts, loan qualifications, and mobile money), indicating that financial markets were less developed in rural than in urban areas. About half had some knowledge of financial institutions or some knowledge of financial accounts. Only one-third had at least one financial account. The average outstanding balance is 405.5 and 1126.8 Lempiras (USD 17.7 and 49.2).</p><p xml:id="_jKnCVqj">In general, husbands make decisions in 17-20% of urban households, while the ratios are higher in rural households (29 and 25%). This suggests that the traditional gender pattern remains prevalent in rural areas. To verify the validity of the randomisation, we check the balance between the control and treatment groups. For urban sample, none of the differences are statistically significant from zero, except for income from agriculture, knowledge of financial accounts, and knowledge of loan qualifications. For rural sample, we find none of the differences are statistically significant, except for income from livestock and account balance. This might not be surprising given that the intervention was conducted in ruralvillage clusters.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4." xml:id="_95USFMn">Empirical analysis</head><p xml:id="_kYV5qK6">To identify the causal impact of the interventions, we estimate intention-to-treat (ITT) effects. Particularly, we compare treated women with control women, irrespective of whether the treated women actually participated in the project. The estimation model is as follows:</p><p xml:id="_t5W3TAR">where the outcome is Y i (measured at the individual level in urban areas and averaged at the village level in rural areas). T i denotes a treatment dummy. Following McKenzie (2012), we include X i , which are the corresponding baseline characteristics. The estimations also control for municipality-specific factors by ρ m :The parameter of interest (ITT effect) is β 1 . We use robust standard errors for the urban sample and cluster standard errors for the rural sample, following our randomisation strategy. Following Hess (2017), we report RI-based p-values. As we examine various outcomes, we conduct multiple-hypothesis testing. Following Anderson (2008), we use the Benjamini-Hochberg step-up method and report q-values, which are the smallest alpha values at which the null is rejected.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5." xml:id="_UHYb2Mg">Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.1." xml:id="_7axaRMM">Financial outcomes</head><p xml:id="_7m6hp4R">Panel A of Table <ref type="table" target="#tab_4">5</ref> reports the estimation results of the financial outcomes for the urban sample. The ITT effects are shown as the coefficients of the treatment dummies. All estimations control for age, years of schooling, dummies for single-mother, literacy, being a CCT recipient, the corresponding baseline variables, and municipality dummies. Column 1 shows that the treated respondents significantly increased their mathematical skills by 0.040 points, indicating an increase by 54.8% from the baseline. Columns 2-4 report the financial literacy outcomes: the intervention led to increased knowledge of financial institutions, financial accounts, and loan qualifications by 0.097, 0.051, and 0.125 points, respectively. All these effects are robust to multiple hypothesis testing. Column 5 shows that the treated women did not significantly increase their knowledge of mobile money (Column 5). This is intuitive, considering that mobile banking had not been fully initiated outside the capital. The results generally report that, consistent with Banerjee et al. (2015) and 2021), Miller et al. (2015), and Kaiser and Menkhoff (2017) and Kaiser and Menkhoff 2022), classroom training helped treated women gain practical financial knowledge. <ref type="bibr">17</ref> Columns 6 and 9 report that the intervention significantly increase the number of women with saving goals and those who engage in bookkeeping by almost 1.5 and 2.8 times from the baseline. These results are robust to controlling for multiple hypothesis testing. We do not observe a significant change in account openings (Columns 7 and 8). This is most likely because, in urban areas, approximately half of the respondents already had at least one financial account at the baseline (Panel B, Table <ref type="table" target="#tab_3">4</ref>).</p><p xml:id="_N3zsUsJ">Panel B in Table <ref type="table" target="#tab_4">5</ref> presents the results for the rural sample. The results in Columns 1-6 are similar to those for the urban sample, although the estimated impacts are larger and significant by almost two (Columns 1, 2, 4, 5, 6, and 9) to five times (Column 3). The larger and significant impacts in rural areas are likely due to the much lower initial knowledge and inclusion in rural than in urban areas (Table <ref type="table" target="#tab_3">4</ref>). Additionally, the intervention significantly induced account openings by 0.230 (Column 7). While only 4% of the rural sample engaged in bookkeeping at the baseline (Panel B, Table <ref type="table" target="#tab_4">5</ref>), the number increased by 0.466 at the endline (Column 9). <ref type="bibr">18</ref> All these effects are robust when controlling for multiple hypothesis testing.</p><p xml:id="_w2dpNu3">Comparing the results of Panels A and B shows that the intervention seems to reduce the urbanrural gap. For some outcomes, rural averages even exceed urban averages. In particular, Column 1 indicates that treated women in rural area now have average math score of 0.138 ( = 0.026 + 0.112), while those in urban area have average score of 0.113 ( = 0.073 + 0.040). Column 3 implies that 82.7% ( = 0.776 + 0.051) of the treated women in urban areas have some knowledge on financial accounts while 76.6% ( = 0.503 + 0.263) of the treated women in rural areas have the relevant knowledge.</p><p xml:id="_533xYsP">In Column 10, we show that the treated women have larger account balances (Panels A and B): by 744.1 Lempira (32.5 USD) for the urban sample, and 216.0 Lempira (9.43 USD) for the rural sample. <ref type="bibr">19</ref> Overall, consistent with previous studies (e.g. Banerjee et al. 2015; Kaiser and Menkhoff 2017; Miller  et al. 2015), we find that the interventions significantly impact financial literacy, inclusion, and household management.</p><p xml:id="_ZTF7ZGm">Developing bookkeeping habits would lead to better financial management and increased income. Table <ref type="table" target="#tab_5">6</ref> shows that the treated women (pooled sample) thought bookkeeping is helpful in reducing nonessential expenditures, increasing household income, having some All estimations include the following control variables: age, years of schooling, dummies for single-mother, literacy, being a CCT recipient, corresponding baseline variables, and municipality dummies. For the rural sample, the total number of observations is 960, aggregated at the cluster level. We use robust standard errors for the urban sample, and compute randomisation-inference p-values for the rural sample. We conduct multiple-hypothesis testing and report the q-value, which is the smallest alpha at which the null is rejected. ***, **, and * denote significance at the 1%, 5%, and 10% levels, respectively. Control means in this table are measured at the baseline.</p><p xml:id="_XXYeahM">prospects for future earnings and business, and so on. The treated households now seem to recognise nonessential consumption and might spend less money on products such as sugary drinks. The differences between the control and treatment groups are significant at 1% level.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.2." xml:id="_J2u3RAn">Income outcomes</head><p xml:id="_TkgafTp">The treated women seemed to practise what they learned through the sessions by starting and expanding their businesses. We measured the impacts on annual reported income, and the results are shown in Table <ref type="table" target="#tab_6">7</ref>. Because assets were not randomly distributed, our results show the upper bounds for the potential impacts. Panel A reports no significant changes in income for the urban sample. The treated individuals did not significantly increase the number of income sources (Column 6). This might be because, as many of the treated women were already receiving income from employment, the training sessions on starting new businesses seemed less effective than those for participants in rural areas (discussed below). By contrast, we find significant increases in the rural households' income. The total income increased by 3755.5 Lempira (163.9 USD, Panel B, Column 1). Columns 2-5 show that income from employment significantly decreased, whereas income from self-employed businesses, livestock farming, and agriculture increased by 5732.5 Lempira (250.2 USD), 342.7 Lempira (15.0 USD), and 476.3 Lempira (20.8 USD), respectively. The results suggest that they might have switched from being employed to starting new businesses. These results are intuitive, given that many of the treated women in rural areas used to be housewives at the baseline, and the intervention then created opportunities for new businesses such as selling snacks, services, running small stores or canteens, street vending, and livestock farming. Column 6 reports a significant increase in the number of income sources for the treated women. <ref type="bibr">20</ref> One might be sceptical in interpreting these results because the estimated positive impacts might merely have been brought about by the income effect from asset transfers rather than by an improvement in their business. However, the estimated increase in income is far greater than the market value of these assets (footnote 12).</p><p xml:id="_AtFQ8M2">Overall, the intervention was more successful in rural areas, where women's baseline (self/nonself) employment ratio used to be low. These results are consistent with those in previous studies, such as Macours, Schady, and Vakis (2012) and Brooks, Donovan, and Johnson (2018), who found that CCT beneficiaries with business grants increased non-agricultural self-employment and the transferred assets and seed grants help the poor overcome their credit constraints. Additionally, Column 7 shows that total expenditure also increased by 314.5 Lempira (13.73 USD). Increased income seems to contribute to increased expenditure in the rural areas. These results are robust to controlling for multiple hypothesis testing.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.3." xml:id="_9ZbUuFD">Gender outcomes</head><p xml:id="_3Hp4KyU">We further examined whether these interventions contributed to female empowerment. Table <ref type="table" target="#tab_7">8</ref> presents the results. <ref type="bibr">21</ref> Panel A shows that in urban areas, the dummy for a husband being an exclusive decision maker is negative (Column 1). Columns 2-4 report that the dummies for treated women involved in educational and financial decisions are positive but insignificant. Column 5 shows that the intervention significantly increased the treated women's involvement in householdborrowing decisions by 8%. However, this is no longer significant when we consider the q-value. This is intuitive given that the baseline means are high, suggesting that the 'machismo' tradition is already fading in urban areas.</p><p xml:id="_Adrs2QY">In comparison, Panel B shows that the intervention Column 1 reports that the dummy for the husband being an exclusive decision-maker decreases by 0.05, which is an 18.0 percentage-point change from the baseline level. In Columns 2, 4, and 5, respectively, the treated women are significantly more likely to be involved in household decision-making on the education of their children, applying for a loan, and borrowing from neighbours, relatives, or friends. Considering that traditional gender roles are much more prevalent in rural than in urban areas (Tables <ref type="table" target="#tab_3">4</ref> and <ref type="table" target="#tab_4">5</ref>), the ACTIVO project seems to contribute to female empowerment. The results are robust to multiplehypothesis testing. In line with Ashraf, Karlan, and Yin (2010), Dupas and Robinson (2013), and <ref type="formula">Bandiera et al. (2017)</ref>, we show that improvements in financial management and the increased All estimations include the following control variables: age, years of schooling, dummies for single-mother, literacy, being a CCT recipient, corresponding baseline variables, and municipality dummies (in Column 6, the corresponding baseline variables were not surveyed). For the rural sample, the total number of observations is 960, aggregated at the cluster level. We use robust standard errors for the urban sample and compute randomisation-inference p-values for the rural sample. We conduct multiple-hypothesis testing and report the q-value, which is the smallest alpha at which the null is rejected. ***, **, and * denote significance at the 1%, 5%, and 10% levels, respectively. Control means in Columns ( <ref type="formula">1</ref>) -( <ref type="formula">6</ref>) are measured at the baseline, while those in Column (6) are measured at the endline. All estimations exclude single-mother households. All estimations include the following control variables: age, literacy dummy, years of schooling, a dummy for being a CCT recipient, corresponding baseline variables for (1), and municipality dummies. For the rural sample, the total number of observations is 789, aggregated at the cluster level. We use robust standard errors for the urban sample. We conduct multiple-hypothesis testing and report the q-value, which is the smallest alpha at which the null is rejected. ***, **, and * denote significance at the 1%, 5%, and 10% levels, respectively. Control means in Column (1) are measured at the baseline, while those in Column ( <ref type="formula">2</ref>) -( <ref type="formula">4</ref>) are measured at the endline.</p><p xml:id="_WzQYg7q">freedom to engage in income-generating activities boost female decision-making power. The results are robust to different specifications. 22</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="6." xml:id="_n5UJeam">Discussion</head><p xml:id="_RBSGupv">Our results show that the benefits of the ACTIVO project are wide-ranging: the positive short-term effects of improving household financial management, diversifying income-generating activities, promoting female-owned businesses, and facilitating female empowerment. Overall, the intervention was more successful in rural areas, suggesting that it contributes to reduce the gap between urban and rural areas. As rural women used to have occasional meetings on CCTs and other purposes, the current community-based programme with peer-pressure may have driven them to engage in sessions actively. We attempted other specifications, definitions of empirical variables, and combinations of explanatory variables, and find that the results are robust. Taken together, our results are largely consistent with findings in the literature on financial inclusion and female empowerment using data from other countries (Ashraf, Karlan, and Yin 2010; Bandiera et al. 2017; Banerjee et al. 2015;  Dupas and Robinson 2013; Kaiser and Menkhoff 2017; Miller et al. 2015). This suggests that our results are not necessarily context-specific and may show external validity.</p><p xml:id="_uYj5HNe">While our results are consistent with the growing body of literature, there are several limitations. First, we can neither separate the impact of each project component nor directly examine the underlying mechanism. This is because access to the attendance records for the classroom sessions was not available due to privacy concerns. However, in line with other studies on the graduation approach, we consider that the sequential structure of the intervention helped the treated beneficiaries gain financial management skills, convert knowledge into action, and improve their own livelihood. Additionally, our findings support the theory of imperfect financial markets, where providing one-time assets relaxes financial constraints and helps recipients start and expand their businesses.</p><p xml:id="_G66fWyZ">Second, while some studies, including Banerjee et al. (2015) and McKenzie and Puerto (2021), examine spillover effects on untreated households, we cannot measure whether there are positive or negative spillovers to untreated women. Banerjee et al. (2015) argued that transferring productive assets to many households in a small village may generate a negative externality for other asset owners through price changes. Conversely, Angelucci and De Giorgi (2009) found that the benefits that accrue to treatment households are shared with others. It would be important for future research to analyse externalities, and even general equilibrium effects.</p><p xml:id="_xJkwHtc">Third, it should be noted that this study finds positive impacts in the short run. From a policy standpoint, analysis of long-term outcomes is also important. Blattman, Fiala, and Martinez (2020)  found that the impact of one-time cash transfers dissipates over 10 years. They claimed that untreated households caught up and converged with the treatment group. In contrast, Banerjee, Duflo, and Sharma (2021) find positive effects on consumption, food security, income, and health, even 10 years after the intervention. Whether all the positive impacts found in the current study persist will need to be addressed in future studies.</p><p xml:id="_rppscEG">The total cost for the implementation of the ACTIVO project was approximately 58,700 USD, which comprised 36,700 USD for classroom training sessions and 22,000 USD for in-kind asset transfers. The classroom sessions were relatively low-cost because the service utilised municipalities' existing resources. Altogether, our back-of-envelope calculation estimates that for every dollar spent, the project yielded a benefit of 2.9 dollars as income from self-employed businesses in rural areas. Consequently, the ACTIVO project is found to be quite cost-effective compared to, for example, Banerjee et al. (2015), who report a benefit/cost ratio for their intervention in Honduras of -198%.</p><p xml:id="_eqgJ5ry">In 2019, the government accredited the 'ACTIVO model' as part of the national poverty reduction strategy. Since then, the ACTIVO model has been rolled out at scale, and was expanded to approximately 9,000 households in 88 municipalities in January 2020. During the COVID-19 pandemic, the ACTIVO model has been implemented nationwide with social distancing and other preventive measures.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="7." xml:id="_tFHZAJM">Conclusion</head><p xml:id="_PxfqpBv">International development projects have recently focused on evidence-based practice. Our empirical evidence sheds light on policies that attempt to improve women's livelihood through financial inclusion. The ACTIVO project was based on a graduation approach and selected a sample using a randomised controlled trial, which enabled us to quantitatively measure causal effects. Through the ACTIVO project, the treated women seemed to learn to leave the house unaccompanied, go out to do something on their own, voice their opinions in front of a group, have confidence in joining non-family groups, and collaborate with other women in efforts to improve their lives. Increased financial knowledge also benefits rural financial institutions as they may be able to attract more clients. The treated women are now aware of the importance of examining the contents of their expenditure and eliminating nonessential purchases, which should help them climb out of poverty. The estimated impacts are larger in rural areas, where financial access is severely limited, and machismo is more prevalent. The result suggest that the intervention contributes to reduce the gap between urban and rural areas.</p><p xml:id="_TgS3MTn">Notes 1. For details, see Galiani and McEwan (2013) and Inter-American Development Bank (2014). 2. The graduation approach was proposed by the Consultative Group to Assist the Poor (CGAP) and more than 60 such programmes are in progress. 3. ACTIVO is the Spanish acronym for Ahorro (Savings), Cuenta Financiera (Financial Accounts), Trabajo (Employment), Ingreso (Income), para la Vida Optimizada (for Improved Livelihood). 4. The authors argued that this was most likely because the vast majority of the small assets (in their case, chickens) provided by the intervention died due to illness. Consequently, treated households lost most of their productive assets, which led to an overall benefit/cost ratio of -198%. 5. Lump-sum payments are provided conditional on the followings: i) if an infant is under 11 months and 29 days old, s/he must be taken for a health check-up every month; ii) if an infant is between the ages of 12 months and 23 months and 29 days, s/he must be taken for a health check-up every other month; iii) a toddler aged 2-5 years must receive health check-ups every three months; iv) for a child of ages 6-18 years, his/her school-attendance rate should be 80% or higher; v) a pregnant woman should have two health check-ups every four months; and vi) a postpartum woman should have at least one medical check-up within 7 days of delivery. 6. Although the national government has tried to expand wire transfer, its legislation was still underdeveloped, and electronic transactions were only available for limited purposes, such as charging mobile phones. 7. 2011 PPP (World Bank, 2018a). 8. These studies generally agree that the amount of cash transfers is insufficient to lift beneficiaries out of poverty (Cecchini and Madariaga 2011; Fiszbein et al. 2009; Glewwe and Olinto 2004; Millán et al. 2020). Galiani and  McEwan (2013) argued that the amount of cash transfers in Honduras was 7% of pre-transfer consumption compared to 27% in Mexico. 9. The ACTIVO Project was implemented under the leadership of each municipality in collaboration with local financial institutions. Local municipalities conducted the sessions on their own initiatives without outsourcing to NGOs or other non-profit organisations. Until then, the formal financial sector seemed not to have adequate incentives to provide products and services to the poor. Also, given that approximately 80% of the country's terrain is mountainous (Merrill, T., and Library of Congress. Federal Research Division 1995), limited presence of local financial institutions has been a serious problem. Consequently, knowledge of and access to the formal financial sector is limited among households and micro-enterprises in Honduras, where only 45% of the population (aged 15 and over) have saving accounts at banks or other financial institutions, compared to an average of 59% in Latin American countries. Accordingly, instead of having savings accounts, many households and micro-enterprises rely on cash, keep money under their mattress, or save in the form of livestock, jewellery, grain, and other commodities, despite the risk of damage, theft, and violence. 10. Financial institutions offered a basic account (cuenta basica) for which the minimum deposit is 10 Lempira (0.44 USD), with no further charges or fees.</p><p xml:id="_dwtj9B8">11. Although there was neither a participation fee nor penalty for absence, the attendance rates were high. The potential reasons for this could be that i) the treated women were used to having regular meetings and ii) they were invited to training sessions by community leaders or extension workers who were usually well-known to them. In one of the municipalities (Las Vegas), the participation rate in training sessions was 100%, while that in coaching sessions was 37.3%. This is most likely because some coaching leaders were replaced, and the sessions were held during the busy coffee-production season. 12. The assets distributed were, for example, baking ovens, seed capital for business, small livestock, vegetable seeds, fertilisers, and small-scale irrigation. The assets' market prices were approximately 120 Lempira (5.24 USD) per chick, 200 Lempira (8.73 USD) per rabbit, 30 Lempira (1.31 USD) for fish, and 1,500 Lempira (65.47 USD) for piglet. Local municipalities did not maintain records on the market prices of assets provided or recipients of respective assets to avoid unwanted conflicts. Alternatively, we estimate the average value transferred, which was approximately 61.9 USD (the total cost for asset transfers was approximately 22,000 USD). 13. The ACTIVO project selected the participants based on the lists administered by Ministry of Development and Social Inclusion (Secretaría de Desarrollo e Inclusión Social, SEDIS). Five municipalities were chosen by the national government and JICA based on local contexts and for logistical reasons. 14. Appendix Table <ref type="table" target="#tab_0">1</ref> presents the summary statistics for the pooled sample. 15. 1 USD = 22.91 Honduran Lempira (OANDA, retrieved on June 5, 2017). In 2016, the annual inflation rate was 3.7%</p><p xml:id="_FHmQBHV">and the deposit interest rate was 8.6% (World Bank). 16. Muller and Sousa (2020) find that female labour force participation rate in Honduras is likely to be underestimated especially in rural areas. The large difference between urban and rural samples might be because that rural women underreport their engagement in economic activities. 17. There may be a concern that single mothers were disproportionately left behind in financial inclusion. However, we find that the coefficients for single mothers are insignificant except in Column (2) in Panel A. 18. Anecdotal evidence at the endline revealed that bookkeeping was mostly conducted on a weekly basis in urban areas, whereas it was less frequently conducted in rural areas. A probable explanation is that the rural respondents shopped in bulk and less frequently when they visited central areas. 19. The impacts of the urban sample disappear when we consider multiple-hypothesis testing. This could be because information on the exact amount of account balance is less reliable than that on other outcomes, considering local security situations, especially in urban areas. Dupas et al. (2018) find that treated households increase bank savings but reduce home savings. We do not have information on home savings because of security concerns. Nonetheless, bank savings are much more secure than home savings when violence and theft are serious issues. 20. The endline survey found that 45.4%, 19.2%, and 28.7% of the rural treated households answered that they newly started businesses, livestock farming, and agriculture, respectively. 21. The estimations in Table <ref type="table" target="#tab_7">8</ref> exclude single-mother households. Baseline information was only available for the dummy for a husband being an exclusive decision maker. 22. The full results are available on request.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><graphic coords="19,46.60,76.10,396.84,249.60" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc xml:id="_kEFXTd5">Components of the training sessions.</figDesc><table><row><cell>Module</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc xml:id="_Av9MN9X">Session participations.</figDesc><table><row><cell></cell><cell></cell><cell cols="2">Training sessions</cell><cell cols="2">Coaching sessions</cell></row><row><cell></cell><cell></cell><cell>Participated in at least</cell><cell>Avg # of sessions</cell><cell>Had at least one</cell><cell>Avg # of sessions</cell></row><row><cell></cell><cell>Obs</cell><cell>one session</cell><cell>participated in*</cell><cell>session</cell><cell>participated in*</cell></row><row><cell>Las Vegas</cell><cell>153</cell><cell>153</cell><cell>6.48</cell><cell>57</cell><cell>4.12</cell></row><row><cell>Quimistán</cell><cell>257</cell><cell>255</cell><cell>5.31</cell><cell>240</cell><cell>2.58</cell></row><row><cell>San Rafael</cell><cell>202</cell><cell>201</cell><cell>5.13</cell><cell>183</cell><cell>4</cell></row><row><cell>Tegucigalpa</cell><cell>261</cell><cell>245</cell><cell>3.58</cell><cell>192</cell><cell>3.61</cell></row><row><cell>Villa de San</cell><cell>130</cell><cell>129</cell><cell>4.98</cell><cell>128</cell><cell>7.12</cell></row><row><cell>Francisco</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Total</cell><cell>1,003</cell><cell>983</cell><cell>4.96</cell><cell>800</cell><cell>3.96</cell></row></table><note xml:id="_bSyGFdP"><p>*Conditional on participation.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 .</head><label>3</label><figDesc xml:id="_PXyycT5">Difference in attrition.</figDesc><table><row><cell></cell><cell>(1)</cell><cell>(2)</cell></row><row><cell>Treatment dummy</cell><cell>0.010</cell><cell>-0.00006</cell></row><row><cell></cell><cell>(0.013)</cell><cell>(0.011)</cell></row><row><cell>Urban dummy</cell><cell></cell><cell>0.048***</cell></row><row><cell></cell><cell></cell><cell>(0.015)</cell></row><row><cell>Literacy dummy</cell><cell></cell><cell>-0.296***</cell></row><row><cell></cell><cell></cell><cell>(0.012)</cell></row><row><cell>Received CCT in 2017</cell><cell></cell><cell>-0.117***</cell></row><row><cell></cell><cell></cell><cell>(0.011)</cell></row><row><cell>Tegucigalpa</cell><cell></cell><cell>0.005</cell></row><row><cell></cell><cell></cell><cell>(0.019)</cell></row><row><cell>Quimistán</cell><cell></cell><cell>-0.055***</cell></row><row><cell></cell><cell></cell><cell>(0.019)</cell></row><row><cell>San Rafael</cell><cell></cell><cell>-0.028</cell></row><row><cell></cell><cell></cell><cell>(0.021)</cell></row><row><cell>Las Vegas</cell><cell></cell><cell>-0.035</cell></row><row><cell></cell><cell></cell><cell>(0.022)</cell></row><row><cell>Constant</cell><cell>0.085***</cell><cell>0.346***</cell></row><row><cell></cell><cell>(0.009)</cell><cell>(0.022)</cell></row><row><cell>Obs</cell><cell>2048</cell><cell>2048</cell></row></table><note xml:id="_PPz9Muh"><p>The dependent variable is the dummy for attrition. The base variable for the municipality dummy is Villa de San Francisco. Standard errors are in parenthesis. ***p &lt; 0.01, **p &lt; 0.05, and *p &lt; 0.1.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4 .</head><label>4</label><figDesc xml:id="_v6UkJQ8">Summary statistics and balance.</figDesc><table><row><cell>Urban Sample</cell><cell>Rural Sample</cell></row></table><note xml:id="_dFAF45X"><p>loan qualifications. For rural sample, the table lists numbers aggregated at the village level. None of the differences are statistically significant, except for income from livestock and account balance.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 5 .</head><label>5</label><figDesc xml:id="_2Ddc7Cd">ITT estimation results (1) financial outcomes.</figDesc><table><row><cell>(10)</cell><cell></cell><cell>Account</cell><cell>balance</cell><cell></cell><cell>744.1</cell><cell>[0.062]*</cell><cell>[0.120]</cell><cell>648.8</cell><cell>(3161)</cell><cell>855</cell><cell></cell><cell>216.0</cell><cell>[0.018]**</cell><cell></cell><cell>[0.013]**</cell><cell></cell><cell>405.5</cell><cell>(1698)</cell><cell>27</cell></row><row><cell>(9)</cell><cell></cell><cell></cell><cell>bookkeeping</cell><cell></cell><cell>0.263</cell><cell>[0.000]***</cell><cell>[0.001]***</cell><cell>0.094</cell><cell>(0.292)</cell><cell>855</cell><cell></cell><cell>0.466</cell><cell>[0.000]***</cell><cell></cell><cell>[0.001]***</cell><cell></cell><cell>0.042</cell><cell>(0.202)</cell><cell>27</cell></row><row><cell>(7) (8)</cell><cell>Financial inclusion outcomes: Dummy for . . .</cell><cell>having one financial having multiple financial</cell><cell>account accounts</cell><cell></cell><cell>0.023 0.011</cell><cell>[0.463] [0.658]</cell><cell>[0.608] [0.737]</cell><cell>0.522 0.182</cell><cell>(0.500) (0.385)</cell><cell>855 855</cell><cell></cell><cell>0.230 0.035</cell><cell>[0.006]*** [0.002]***</cell><cell></cell><cell>[0.001]*** [0.012]**</cell><cell></cell><cell>0.335 0.026</cell><cell>(0.473) (0.160)</cell><cell>27 27</cell></row><row><cell>(6)</cell><cell></cell><cell>setting a saving</cell><cell>goal</cell><cell></cell><cell>0.151</cell><cell>[0.000]***</cell><cell>[0.001]***</cell><cell>0.101</cell><cell>(0.302)</cell><cell>852</cell><cell></cell><cell>0.352</cell><cell>[0.000]***</cell><cell></cell><cell>[0.001]***</cell><cell></cell><cell>0.036</cell><cell>(0.187)</cell><cell>27</cell></row><row><cell>(2) (3) (4) (5)</cell><cell>Financial literacy outcomes: Dummy for the knowledge of . . .</cell><cell>financial financial loan mobile</cell><cell>institutions accounts qualifications money</cell><cell></cell><cell>0.097 0.051 0.125 0.009</cell><cell>[0.002]*** [0.039]** [0.000]*** [0.761]</cell><cell>[0.008]*** [0.079]* [0.001]*** [0.809]</cell><cell>0.713 0.776 0.599 0.482</cell><cell>(0.452) (0.417) (0.490) (0.500)</cell><cell>855 855 854 853</cell><cell></cell><cell>0.257 0.263 0.242 0.094</cell><cell>[0.001]*** [0.000]*** [0.002]*** [0.013]**</cell><cell></cell><cell>[0.004]** [0.001]*** [0.006]*** [0.012]**</cell><cell></cell><cell>0.539 0.503 0.379 0.338</cell><cell>(0.499) (0.500) (0.486) (0.474)</cell><cell>27 27 27 27</cell></row><row><cell>(1)</cell><cell></cell><cell>Math</cell><cell>scores</cell><cell>Panel A: Urban sample</cell><cell>Coef. 0.040</cell><cell>[p-value] [0.012]**</cell><cell>[q-value] [0.037]**</cell><cell>Control means 0.073</cell><cell>(SD) (0.261)</cell><cell>Obs 850</cell><cell>Panel B: Rural sample</cell><cell>Coef. 0.112</cell><cell>[RI p-value] [0.000]</cell><cell>***</cell><cell>[q-value] [0.001]</cell><cell>***</cell><cell>Control means 0.026</cell><cell>(SD) (0.160)</cell><cell>Obs(Clusters) 27</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Table 6 .</head><label>6</label><figDesc xml:id="_AuDd7Ma">Evaluation on bookkeeping.Standard deviations are in parentheses below the means. The fourth column reports the significance in differences between the control and treatment groups.</figDesc><table><row><cell>All</cell><cell>Control</cell><cell>Treatment</cell><cell>Difference</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6"><head>Table 7 .</head><label>7</label><figDesc xml:id="_2ammh8d">ITT estimation results (2) income outcomes.</figDesc><table><row><cell></cell><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell><cell>(4)</cell><cell>(5)</cell><cell>(6)</cell><cell>(7)</cell></row><row><cell></cell><cell></cell><cell></cell><cell cols="2">Income from. . .</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>A dummy for an increase in</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>the number of</cell><cell></cell></row><row><cell>Outcomes</cell><cell cols="5">Total Income employment business farming agriculture</cell><cell>income source(s)</cell><cell>Expenditure</cell></row><row><cell cols="2">Panel A: Urban sample</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Coef.</cell><cell>2964.4</cell><cell>2307.6</cell><cell>-18.1</cell><cell>64.1</cell><cell>328.9</cell><cell>0.003</cell><cell>-92.8</cell></row><row><cell>[p-value]</cell><cell>[0.534]</cell><cell>[0.492]</cell><cell>[0.997]</cell><cell>[0.453]</cell><cell>[0.212]</cell><cell>[0.861]</cell><cell>[0.665]</cell></row><row><cell>[q-value]</cell><cell>[0.757]</cell><cell>[0.723]</cell><cell>[1.000]</cell><cell>[0.692]</cell><cell>[0.471]</cell><cell>[1.000]</cell><cell>[0.902]</cell></row><row><cell>Control means</cell><cell>64550</cell><cell>40772</cell><cell>13924</cell><cell>339</cell><cell>317</cell><cell>0.087</cell><cell>4739</cell></row><row><cell>(SD)</cell><cell>(45056)</cell><cell>(40238)</cell><cell>(27945)</cell><cell>(2199)</cell><cell>(2740)</cell><cell>(0.282)</cell><cell>(4481)</cell></row><row><cell>Obs</cell><cell>855</cell><cell>855</cell><cell>855</cell><cell>855</cell><cell>855</cell><cell>855</cell><cell>855</cell></row><row><cell cols="2">Panel B: Rural sample</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Coef.</cell><cell>3755.5</cell><cell>-4335.8</cell><cell>5732.5</cell><cell>342.7</cell><cell>476.3</cell><cell>0.079</cell><cell>314.5</cell></row><row><cell>[RI p-value]</cell><cell>[0.017]**</cell><cell>[0.015]**</cell><cell cols="3">[0.008]*** [0.008]*** [0.011]**</cell><cell>[0.009]***</cell><cell>[0.010]***</cell></row><row><cell>[q-value]</cell><cell>[0.013]**</cell><cell>[0.012]**</cell><cell cols="3">[0.012]** [0.012]** [0.013]**</cell><cell>[0.012]**</cell><cell>[0.013]**</cell></row><row><cell>Control means</cell><cell>49930</cell><cell>29187</cell><cell>5179</cell><cell>624</cell><cell>4081</cell><cell>0.073</cell><cell>3526</cell></row><row><cell>(SD)</cell><cell>(44038)</cell><cell>(31039)</cell><cell>(16972)</cell><cell>(2224)</cell><cell>(29472)</cell><cell>(0.260)</cell><cell>(4541)</cell></row><row><cell>Obs (Clusters)</cell><cell>27</cell><cell>27</cell><cell>27</cell><cell>27</cell><cell>27</cell><cell>27</cell><cell>27</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_7"><head>Table 8 .</head><label>8</label><figDesc xml:id="_ErT43Gx">ITT estimation results (3) gender outcomes.</figDesc><table><row><cell>(5)</cell><cell>decision of borrowing from</cell><cell>neighbour, relatives or friends</cell><cell></cell><cell>0.080</cell><cell>[0.048]**</cell><cell>[0.224]</cell><cell>0.729</cell><cell>(0.445)</cell><cell>855</cell><cell></cell><cell>0.085</cell><cell>[0.014]**</cell><cell>[0.012]**</cell><cell>0.600</cell><cell>(0.490)</cell><cell>27</cell></row><row><cell>(4)</cell><cell>A dummy for being involved in</cell><cell>decision of applying for a loan</cell><cell></cell><cell>0.038</cell><cell>[0.352]</cell><cell>[0.562]</cell><cell>0.729</cell><cell>(0.445)</cell><cell>855</cell><cell></cell><cell>0.096</cell><cell>[0.014]**</cell><cell>[0.012]**</cell><cell>0.596</cell><cell>(0.491)</cell><cell>27</cell></row><row><cell>(3)</cell><cell></cell><cell>how to use CCT payments</cell><cell></cell><cell>0.020</cell><cell>[0.372]</cell><cell>[0.562]</cell><cell>0.944</cell><cell>(0.231)</cell><cell>855</cell><cell></cell><cell>-0.003</cell><cell>[0.010]***</cell><cell>[0.012]**</cell><cell>0.956</cell><cell>(0.206)</cell><cell>27</cell></row><row><cell>(2)</cell><cell></cell><cell>educational decision of children</cell><cell></cell><cell>0.029</cell><cell>[0.273]</cell><cell>[0.497]</cell><cell>0.899</cell><cell>(0.302)</cell><cell>539</cell><cell></cell><cell>0.037</cell><cell>[0.013]**</cell><cell>[0.012]**</cell><cell>0.846</cell><cell>(0.361)</cell><cell>27</cell></row><row><cell>(1)</cell><cell>A dummy for a husband being</cell><cell>an exclusive decision maker</cell><cell></cell><cell>-0.061</cell><cell>[0.108]</cell><cell>[0.332]</cell><cell>0.167</cell><cell>(0.373)</cell><cell>539</cell><cell></cell><cell>-0.052</cell><cell>[0.016]**</cell><cell>[0.012]**</cell><cell>0.289</cell><cell>(0.434)</cell><cell>27</cell></row><row><cell></cell><cell></cell><cell>Outcomes</cell><cell>Panel A: Urban sample</cell><cell>Coef.</cell><cell>[p-value]</cell><cell>[q-value]</cell><cell>Control means</cell><cell>(SD)</cell><cell>Obs</cell><cell>Panel B: Rural sample</cell><cell>Coef.</cell><cell>[RI p-value]</cell><cell>[q-value]</cell><cell>Control means</cell><cell>(SD)</cell><cell>Obs (Clusters)</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head xml:id="_6J953q4">Acknowledgment</head><p xml:id="_dWvAybj">The authors would like to thank <rs type="institution">Consultores en Mercadeo</rs>, <rs type="institution">Finanzas y Economía S. de R.L.</rs> for the field surveys. We would also like to thank <rs type="person">Johannes Fedderke</rs>, <rs type="person">Jun Goto</rs>, <rs type="person">Miki Kohara</rs>, <rs type="person">Masahiro Shoji</rs>, seminar participants at <rs type="affiliation">Osaka University, Waseda University, Kansai University, Otaru University of Commerce</rs> and conference participants at the 18th Meeting of the Japan Evaluation Society, the 19th Spring Conference of the Japan Society for International Development, the Japan Economics Association Spring Meeting 2018, Western Economic Association International 15th International Conference. All views and interpretations expressed in this paper are those of the authors and not necessarily those of the supporting or cooperating institutions.</p></div>
+			</div>
+			<div type="funding">
+<div><head xml:id="_VbB6Mwx">Funding</head><p xml:id="_SfePnpC">This study was funded by <rs type="funder">JSPS KAKENHI</rs> [Grant Numbers <rs type="grantNumber">18J40059</rs> and <rs type="grantNumber">19K23209</rs>].</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_TtrGgvU">
+					<idno type="grant-number">18J40059</idno>
+				</org>
+				<org type="funding" xml:id="_pAmwFvR">
+					<idno type="grant-number">19K23209</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_RqYd9d3">Disclosure statement</head><p xml:id="_nz5zsf8">No potential conflict of interest was reported by the author(s).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_nnzK2dB">Notes on contributors</head><p xml:id="_4VaTDDx">Ayako Matsuda is an Associate Professor at Kansai University, Japan. Her research interests include household financial management in developing economies.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_N6qaHRd">Keitaro Aoyagi is a Representative Director at Metrics Work Consultants Inc. He specializes in program evaluation and evidence-based policy making, especially in the field of international development.</head><p xml:id="_HhwMk3r">Takako Mochizuki is a Project Formulation Advisor at JICA country office in Honduras, and was affiliated with Kaihatsu Management Consulting, Inc. when the surveys were collected. Table A1. Summary statistics for pooled sample. Obs Mean S.D. Min Max Panel A: Household characteristics Treatment 1,825 0.50 0.50 0 1 Urban 1,825 0.47 0.50 0 1 Female 1,825 0.96 0.18 0 1 Head 1,826 0.33 0.47 0 1 Single mother 1,826 0.27 0.44 0 1 Age 1,825 41.58 11.18 1 91 Years of schooling 1,809 3.65 2.35 0 9 Received CCT in 2015 1,826 0.98 0.14 0 1 Participated in any training session* 905 0.82 0.38 0 1 Participated in all training sessions* 905 0.37 0.48 0 1 Panel B: Baseline characteristics Measures of financial literacy Math dummy 1,819 0.05 0.21 0 1 Knowledge of bank or any financial institution 1,826 0.62 0.49 0 1 Knowledge of financial accounts 1,826 0.62 0.48 0 1 Knowledge of loan qualifications 1,824 0.47 0.50 0 1 Knowledge of mobile money 1,820 0.41 0.49 0 1 Measures of financial inclusion Having a saving goal 1,826 0.07 0.26 0 1 Having one financial account 1,805 0.39 0.49 0 1 Having multiple financial accounts 1,805 0.11 0.31 0 1 Bookkeeping 1,826 0.07 0.25 0 1 Account balance (Lempira)** 1,071 1,743 9,820 0 190,898 Annual income (Lempira) 1,826 57,884 48,386 2,479 636,933 Annual income from employment (Lempira) 1,826 35,396 38,044 0 408,000 Annual income from micro-enterprise (Lempira) 1,826 9,181 27,789 0 576,000 Annual income from agriculture (Lempira) 1,826 2,372 18,619 0 600,000 Annual income from livestock farming (Lempira) 1,826 599.1 2,217 0 33,200 Annual income from CCT (Lempira) 1,826 5,396 6,082 0 83,333 *Conditional on being treated. **Conditional on having any financial account.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_Wa36Brq">Miki</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>AppendixFigure A1 .</head><label>A1</label><figDesc xml:id="_aMqGd67">Uematsu is a consultant at Kaihatsu Management Consulting, Inc.Survey sites. Note: http://www.ezilon.com/maps/north-america/honduras-maps.html.</figDesc></figure>
+			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="consolidated"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main" xml:id="_UTGR2Qz">Multiple Inference and Gender Differences in the Effects of Early Intervention: A Reevaluation of the Abecedarian, Perry Preschool, and Early Training Projects</title>
+		<author>
+			<persName><forename type="first">Michael</forename><forename type="middle">L</forename><surname>Anderson</surname></persName>
+		</author>
+		<idno type="DOI">10.1198/016214508000000841</idno>
+		<ptr target="https://doi.org/10.1198/016214508000000841" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_2fEyrvY">Journal of the American Statistical Association</title>
+		<title level="j" type="abbrev">Journal of the American Statistical Association</title>
+		<idno type="ISSN">0162-1459</idno>
+		<idno type="ISSNe">1537-274X</idno>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="issue">484</biblScope>
+			<biblScope unit="page" from="1481" to="1495" />
+			<date type="published" when="2008-12-01">2008</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main" xml:id="_3JS8cXj">Indirect Effects of an Aid Program: How Do Cash Transfers Affect Ineligibles&apos; Consumption?</title>
+		<author>
+			<persName><forename type="first">Manuela</forename><surname>Angelucci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Giacomo</forename><surname>De Giorgi</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/aer.99.1.486</idno>
+		<ptr target="https://doi.org/10.1257/aer.99.1.486" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Fx8ahPF">American Economic Review</title>
+		<title level="j" type="abbrev">American Economic Review</title>
+		<idno type="ISSN">0002-8282</idno>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="486" to="508" />
+			<date type="published" when="2009-02-01">2009</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main" xml:id="_2bHekj7">Female Empowerment: Impact of a Commitment Savings Product in the Philippines</title>
+		<author>
+			<persName><forename type="first">Nava</forename><surname>Ashraf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dean</forename><surname>Karlan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wesley</forename><surname>Yin</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.worlddev.2009.05.010</idno>
+		<ptr target="https://doi.org/10.1016/j.worlddev.2009.05.010" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_xePgEUd">World Development</title>
+		<title level="j" type="abbrev">World Development</title>
+		<idno type="ISSN">0305-750X</idno>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="333" to="344" />
+			<date type="published" when="2010-03">2010</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main" xml:id="_rMrsajY">Labor Markets and Poverty in Village Economies*</title>
+		<author>
+			<persName><forename type="first">Oriana</forename><surname>Bandiera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robin</forename><surname>Burgess</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Narayan</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Selim</forename><surname>Gulesci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Imran</forename><surname>Rasul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Munshi</forename><surname>Sulaiman</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/qje/qjx003</idno>
+		<ptr target="https://doi.org/10.1093/qje/qjx003" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_sk9Y5Kn">The Quarterly Journal of Economics</title>
+		<idno type="ISSN">0033-5533</idno>
+		<idno type="ISSNe">1531-4650</idno>
+		<imprint>
+			<biblScope unit="volume">132</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="811" to="870" />
+			<date type="published" when="2017-03-20">2017</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main" xml:id="_fay7NEw">A multifaceted program causes lasting progress for the very poor: Evidence from six countries</title>
+		<author>
+			<persName><forename type="first">Abhijit</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Esther</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nathanael</forename><surname>Goldberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dean</forename><surname>Karlan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Osei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">William</forename><surname>Parienté</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeremy</forename><surname>Shapiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bram</forename><surname>Thuysbaert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Udry</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.1260799</idno>
+		<ptr target="https://doi.org/10.1126/science.1260799" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_cbJGsEu">Science</title>
+		<title level="j" type="abbrev">Science</title>
+		<idno type="ISSN">0036-8075</idno>
+		<idno type="ISSNe">1095-9203</idno>
+		<imprint>
+			<biblScope unit="volume">348</biblScope>
+			<biblScope unit="issue">6236</biblScope>
+			<biblScope unit="page">1260799</biblScope>
+			<date type="published" when="2015-05-15">2015</date>
+			<publisher>American Association for the Advancement of Science (AAAS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main" xml:id="_hdSBC2R">Long-Term Effects of the Targeting the Ultra Poor Program</title>
+		<author>
+			<persName><forename type="first">Abhijit</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Esther</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Garima</forename><surname>Sharma</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/aeri.20200667</idno>
+		<ptr target="https://doi.org/10.1257/aeri.20200667" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_5DEdBsQ">American Economic Review: Insights</title>
+		<title level="j" type="abbrev">American Economic Review: Insights</title>
+		<idno type="ISSN">2640-205X</idno>
+		<idno type="ISSNe">2640-2068</idno>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="471" to="486" />
+			<date type="published" when="2021-12-01">2021</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main" xml:id="_Xc4wrAp">The Long-Term Impacts of Grants on Poverty: Nine-Year Evidence from Uganda’s Youth Opportunities Program</title>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Blattman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nathan</forename><surname>Fiala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sebastian</forename><surname>Martinez</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/aeri.20190224</idno>
+		<ptr target="https://doi.org/10.1257/aeri.20190224" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_BFRDdzw">American Economic Review: Insights</title>
+		<title level="j" type="abbrev">American Economic Review: Insights</title>
+		<idno type="ISSN">2640-205X</idno>
+		<idno type="ISSNe">2640-2068</idno>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="287" to="304" />
+			<date type="published" when="2020-09-01">2020</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main" xml:id="_gQ8va38">Mentors or Teachers? Microenterprise Training in Kenya</title>
+		<author>
+			<persName><forename type="first">Wyatt</forename><surname>Brooks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kevin</forename><surname>Donovan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Terence</forename><forename type="middle">R</forename><surname>Johnson</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/app.20170042</idno>
+		<ptr target="https://doi.org/10.1257/app.20170042" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_RPq4jmc">American Economic Journal: Applied Economics</title>
+		<title level="j" type="abbrev">American Economic Journal: Applied Economics</title>
+		<idno type="ISSN">1945-7782</idno>
+		<idno type="ISSNe">1945-7790</idno>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="196" to="221" />
+			<date type="published" when="2018-10-01">2018</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main" xml:id="_EPf2PtW">Conditional Cash Transfer Programmes: The Recent Experience in Latin America and the Caribbean</title>
+		<author>
+			<persName><forename type="first">Simone</forename><surname>Cecchini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aldo</forename><surname>Madariaga</surname></persName>
+		</author>
+		<idno type="DOI">10.2139/ssrn.1962666</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_JPvYBVP">SSRN Electronic Journal</title>
+		<title level="j" type="abbrev">SSRN Journal</title>
+		<idno type="ISSNe">1556-5068</idno>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>Elsevier BV</publisher>
+			<pubPlace>Santiago de Chile</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main" xml:id="_z9wWtNZ">Banking the Unbanked? Evidence from Three Countries</title>
+		<author>
+			<persName><forename type="first">Pascaline</forename><surname>Dupas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dean</forename><surname>Karlan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jonathan</forename><surname>Robinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Diego</forename><surname>Ubfal</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/app.20160597</idno>
+		<ptr target="https://doi.org/10.1257/app.20160597" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_cuywqSu">American Economic Journal: Applied Economics</title>
+		<title level="j" type="abbrev">American Economic Journal: Applied Economics</title>
+		<idno type="ISSN">1945-7782</idno>
+		<idno type="ISSNe">1945-7790</idno>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="257" to="297" />
+			<date type="published" when="2018-04-01">2018</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main" xml:id="_35UA3YQ">Savings Constraints and Microenterprise Development: Evidence from a Field Experiment in Kenya</title>
+		<author>
+			<persName><forename type="first">Pascaline</forename><surname>Dupas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jonathan</forename><surname>Robinson</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/app.5.1.163</idno>
+		<ptr target="https://doi.org/10.1257/app.5.1.163" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_vupDjdb">American Economic Journal: Applied Economics</title>
+		<title level="j" type="abbrev">American Economic Journal: Applied Economics</title>
+		<idno type="ISSN">1945-7782</idno>
+		<idno type="ISSNe">1945-7790</idno>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="163" to="192" />
+			<date type="published" when="2013-01-01">2013</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main" xml:id="_RmX7uhE">Conditional Cash Transfers</title>
+		<author>
+			<persName><forename type="first">Ariel</forename><surname>Fiszbein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Norbert</forename><forename type="middle">R</forename><surname>Schady</surname></persName>
+		</author>
+		<idno type="DOI">10.1596/978-0-8213-7352-1</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_V4vg7Df">A World Bank Policy Research Report</title>
+		<imprint>
+			<biblScope unit="volume">47603</biblScope>
+			<date type="published" when="2009-02-09">2009</date>
+			<publisher>The World Bank</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main" xml:id="_YcMw8AH">The financial inclusion of small-scale rural producers in Honduras</title>
+		<author>
+			<persName><forename type="first">Daniela</forename><surname>Cruz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jesús</forename><surname>López</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">César</forename><surname>Valenzuela</surname></persName>
+		</author>
+		<idno type="DOI">10.18356/bf56dbc6-en</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_VS5kugY">ECLAC Books</title>
+		<imprint>
+			<publisher>UN</publisher>
+			<date type="published" when="2018-05-28">2018</date>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="111" to="140" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main" xml:id="_uFE6QSJ">The heterogeneous impact of conditional cash transfers</title>
+		<author>
+			<persName><forename type="first">Sebastian</forename><surname>Galiani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Patrick</forename><forename type="middle">J</forename><surname>Mcewan</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jpubeco.2013.04.004</idno>
+		<ptr target="https://doi.org/10.1016/j.jpubeco.2013.04.004" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_WQTjsfF">Journal of Public Economics</title>
+		<title level="j" type="abbrev">Journal of Public Economics</title>
+		<idno type="ISSN">0047-2727</idno>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="page" from="85" to="96" />
+			<date type="published" when="2013-07">2013</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main" xml:id="_XMBuVxK">Impact of Conditional Cash Transfers on Maternal and Newborn Health</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Glassman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Duran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Fleisher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Singer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sturke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Angeles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Charles</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_hhxJHMQ">Journal of Health, Population, and Nutrition</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">4 Suppl 2</biblScope>
+			<biblScope unit="page" from="48" to="S66" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b15">
+	<monogr>
+		<title level="m" type="main" xml:id="_5CNzCZh">Evaluating of the Impact of Conditional Cash Transfers on Schooling: An Experimental Analysis of Honduras</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Glewwe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Olinto</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Final Report for USAID</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b16">
+	<monogr>
+		<title level="m" type="main" xml:id="_Czt36pb">Grupo de trabajo para financiamiento de vivienda de CGAP: Una plataforma para fortalecer accesibilidad a vivienda para la mayoría</title>
+		<idno type="DOI">10.18235/0007069</idno>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<publisher>Inter-American Development Bank</publisher>
+		</imprint>
+	</monogr>
+	<note>CGAP Brief Consultative Group to Assist the Poor</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main" xml:id="_UaWd7hf">Randomization Inference with Stata: A Guide and Software</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hess</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1536867X1701700306</idno>
+		<ptr target="https://doi.org/10.1177/1536867X1701700306" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_WX2pSHC">The Stata Journal</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="630" to="651" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b18">
+	<analytic>
+		<title level="a" type="main" xml:id="_s27eB9D">The Impact of Conditional Cash Transfer Programs on Food Consumption in Honduras, Mexico, and Nicaragua</title>
+		<author>
+			<persName><forename type="first">John</forename><surname>Hoddinott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Doris</forename><surname>Wiesmann</surname></persName>
+		</author>
+		<idno type="DOI">10.2139/ssrn.1269417</idno>
+		<ptr target="https://doi.org/10.2139/ssrn.1269417" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Hp4AHcS">SSRN Electronic Journal</title>
+		<title level="j" type="abbrev">SSRN Journal</title>
+		<idno type="ISSNe">1556-5068</idno>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main" xml:id="_phqpJqf">Opening Cracks for the Transgression of Social Boundaries: An Evaluation of the Gender Impacts of Farmer Research Teams in Honduras</title>
+		<author>
+			<persName><forename type="first">Sally</forename><surname>Humphries</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lauren</forename><surname>Classen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">José</forename><surname>Jiménez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fredy</forename><surname>Sierra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Omar</forename><surname>Gallardo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marvin</forename><surname>Gómez</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.worlddev.2012.05.008</idno>
+		<ptr target="https://doi.org/10.1016/j.worlddev.2012.05.008" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_kgaYwPB">World Development</title>
+		<title level="j" type="abbrev">World Development</title>
+		<idno type="ISSN">0305-750X</idno>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="2078" to="2095" />
+			<date type="published" when="2012-10">2012</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main" xml:id="_X3URjWY">Inter-American Development Bank Sustainability Report 2014</title>
+		<idno type="DOI">10.18235/0005860</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_Zpcf8y7">Development Effectiveness Overview 2014</title>
+		<meeting><address><addrLine>Washington, D.C</addrLine></address></meeting>
+		<imprint>
+			<publisher>Inter-American Development Bank</publisher>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main" xml:id="_f4bNDWP">Does Financial Education Impact Financial Literacy and Financial Behavior, and If So, When?</title>
+		<author>
+			<persName><forename type="first">Tim</forename><surname>Kaiser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lukas</forename><surname>Menkhoff</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/wber/lhx018</idno>
+		<ptr target="https://doi.org/10.1093/wber/lhx018" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_DqMRpQJ">The World Bank Economic Review</title>
+		<idno type="ISSN">0258-6770</idno>
+		<idno type="ISSNe">1564-698X</idno>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="611" to="630" />
+			<date type="published" when="2017-10-01">2017</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main" xml:id="_Fb5N7uA">Active learning improves financial education: Experimental evidence from Uganda</title>
+		<author>
+			<persName><forename type="first">Tim</forename><surname>Kaiser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lukas</forename><surname>Menkhoff</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jdeveco.2022.102870</idno>
+		<ptr target="https://doi.org/10.1016/j.jdeveco.2022.102870" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_QJKFfSM">Journal of Development Economics</title>
+		<title level="j" type="abbrev">Journal of Development Economics</title>
+		<idno type="ISSN">0304-3878</idno>
+		<imprint>
+			<biblScope unit="volume">157</biblScope>
+			<biblScope unit="page">102870</biblScope>
+			<date type="published" when="2022-06">2022</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main" xml:id="_KPhqnhJ">Cash Transfers, Behavioral Changes, and Cognitive Development in Early Childhood: Evidence from a Randomized Experiment</title>
+		<author>
+			<persName><forename type="first">Karen</forename><surname>Macours</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Norbert</forename><surname>Schady</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Renos</forename><surname>Vakis</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/app.4.2.247</idno>
+		<ptr target="https://doi.org/10.1257/app.4.2.247" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_9uHvFU6">American Economic Journal: Applied Economics</title>
+		<title level="j" type="abbrev">American Economic Journal: Applied Economics</title>
+		<idno type="ISSN">1945-7782</idno>
+		<idno type="ISSNe">1945-7790</idno>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="247" to="273" />
+			<date type="published" when="2012-04-01">2012</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b24">
+	<analytic>
+		<title level="a" type="main" xml:id="_dWR9pJZ">Beyond baseline and follow-up: The case for more T in experiments</title>
+		<author>
+			<persName><forename type="first">David</forename><surname>Mckenzie</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jdeveco.2012.01.002</idno>
+		<ptr target="https://doi.org/10.1016/j.jdeveco.2012.01.002" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_K9S8tRF">Journal of Development Economics</title>
+		<title level="j" type="abbrev">Journal of Development Economics</title>
+		<idno type="ISSN">0304-3878</idno>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="210" to="221" />
+			<date type="published" when="2012-11">2012</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b25">
+	<analytic>
+		<title level="a" type="main" xml:id="_gs6aGCe">Growing Markets through Business Training for Female Entrepreneurs: A Market-Level Randomized Experiment in Kenya</title>
+		<author>
+			<persName><forename type="first">David</forename><surname>Mckenzie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Susana</forename><surname>Puerto</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/app.20180340</idno>
+		<ptr target="https://doi.org/10.1257/app.20180340" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_aUe6aXa">American Economic Journal: Applied Economics</title>
+		<title level="j" type="abbrev">American Economic Journal: Applied Economics</title>
+		<idno type="ISSN">1945-7782</idno>
+		<idno type="ISSNe">1945-7790</idno>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="297" to="332" />
+			<date type="published" when="2021-04-01">2021</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b26">
+	<analytic>
+		<title level="a" type="main" xml:id="_fEpWAPY">What Are We Learning from Business Training and Entrepreneurship Evaluations around the Developing World?</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Mckenzie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Woodruff</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/wbro/lkt007</idno>
+		<ptr target="https://doi.org/10.1093/wbro/lkt007" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Wk7a2Gr">The World Bank Research Observer</title>
+		<title level="j" type="abbrev">The World Bank Research Observer</title>
+		<idno type="ISSN">0257-3032</idno>
+		<idno type="ISSNe">1564-6971</idno>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="48" to="82" />
+			<date type="published" when="2014">2014</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b27">
+	<monogr>
+		<title level="m" type="main" xml:id="_vkF5Vjn">Honduras: A Country Study</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Merrill</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<publisher>Federal Research Division, Library of Congress</publisher>
+			<pubPlace>Washington, D.C</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Federal Research Division</orgName>
+		</respStmt>
+	</monogr>
+	<note>Library of Congress</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b28">
+	<analytic>
+		<title level="a" type="main" xml:id="_qqCQDqv">Experimental Long-Term Effects of Early-Childhood and School-Age Exposure to a Conditional Cash Transfer Program</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Millán</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Macours</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Maluccio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Tejerina</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jdeveco.2019.102385</idno>
+		<ptr target="https://doi.org/10.1016/j.jdeveco.2019.102385" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_RhdJ87u">Journal of Development Economics</title>
+		<imprint>
+			<biblScope unit="volume">143</biblScope>
+			<biblScope unit="page">102385</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b29">
+	<analytic>
+		<title level="a" type="main" xml:id="_8V3MyE8">Can You Help Someone Become Financially Capable? A Meta-Analysis of the Literature</title>
+		<author>
+			<persName><forename type="first">Margaret</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Julia</forename><surname>Reichelstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christian</forename><surname>Salas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bilal</forename><surname>Zia</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/wbro/lkv009</idno>
+		<ptr target="https://doi.org/10.1093/wbro/lkv009" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Wx7ATV4">The World Bank Research Observer</title>
+		<title level="j" type="abbrev">World Bank Res Obs</title>
+		<idno type="ISSN">0257-3032</idno>
+		<idno type="ISSNe">1564-6971</idno>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="220" to="246" />
+			<date type="published" when="2015-05-04">2015</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b30">
+	<analytic>
+		<title level="a" type="main" xml:id="_7tgvp7U">Segundo informe: Propuesta de implementación del proyecto PRAF/BID: Fase 2</title>
+		<idno type="DOI">10.18235/0010204</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_pn2yEtj">International Poverty Centre Research Report</title>
+		<imprint>
+			<biblScope unit="page">15</biblScope>
+			<date type="published" when="2008">2008</date>
+			<publisher>Inter-American Development Bank</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b31">
+	<analytic>
+		<title level="a" type="main" xml:id="_QqZzHWT">“She Helps Me All the Time”: Underestimating Women&apos;s Economic Engagement in Rural Honduras</title>
+		<author>
+			<persName><forename type="first">Miriam</forename><surname>Muller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Liliana</forename><forename type="middle">D</forename><surname>Sousa</surname></persName>
+		</author>
+		<idno type="DOI">10.1596/1813-9450-9217</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_NcNjqu3">She Helps Me All the Time&apos;: Underestimating Women&apos;s Economic Engagement in Rural Honduras</title>
+		<imprint>
+			<publisher>World Bank, Washington, DC</publisher>
+			<date type="published" when="2020-04">2020. 9217</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Policy Research Working Paper</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b32">
+	<analytic>
+		<title level="a" type="main" xml:id="_fRMp69h">The impact of conditional cash transfers on child health in low- and middle-income countries: a systematic review</title>
+		<author>
+			<persName><forename type="first">Ebenezer</forename><surname>Owusu-Addo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ruth</forename><surname>Cross</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00038-014-0570-x</idno>
+		<ptr target="https://doi.org/10.1007/s00038-014-0570-x" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_JYxbff2">International Journal of Public Health</title>
+		<title level="j" type="abbrev">Int J Public Health</title>
+		<idno type="ISSN">1661-8556</idno>
+		<idno type="ISSNe">1661-8564</idno>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="609" to="618" />
+			<date type="published" when="2014-06-05">2014</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b33">
+	<analytic>
+		<title level="a" type="main" xml:id="_SsEwXXd">Overview</title>
+		<idno type="DOI">10.1596/9780821399859_overview</idno>
+		<ptr target="http://wdi.worldbank.org/tables" />
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_uFrK4rY">Global Financial Development Report 2014:Financial Inclusion</title>
+		<imprint>
+			<publisher>The World Bank</publisher>
+			<date type="published" when="2018-12-27">2018. December 27, 2021. 2018. December 27, 2021</date>
+			<biblScope unit="page" from="1" to="14" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

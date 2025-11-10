@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" xml:id="_pufqe8h">Evidence on Graduation in Practice: Concern Worldwide&apos;s Graduation Programme in Rwanda</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Ricardo</forename><surname>Sabates</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<addrLine>Garsington Road Oxford 350 Main Street</addrLine>
+									<postCode>OX4 2DQ 02148</postCode>
+									<settlement>Malden</settlement>
+									<region>MA</region>
+									<country>UK USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Stephen</forename><surname>Devereux</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<addrLine>Garsington Road Oxford 350 Main Street</addrLine>
+									<postCode>OX4 2DQ 02148</postCode>
+									<settlement>Malden</settlement>
+									<region>MA</region>
+									<country>UK USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main" xml:id="_wqDZJDm">Evidence on Graduation in Practice: Concern Worldwide&apos;s Graduation Programme in Rwanda</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">88B8532B37DFA3B29164E40B014E7A93</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2025-11-04T20:32+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a292bac</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=1, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=true, generateTeiCoordinates=[true], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_Wd9H6B5"><p xml:id="_E927zCf">This article examines graduation impacts of social protection programmes in Africa, by presenting evidence from an interim evaluation of the 'Enhancing the Productive Capacity of Extremely Poor People' project, implemented by Concern Worldwide in Rwanda's Southern Province. The project builds on the principles of the Rwandan government's national social protection scheme, the Vision 2020 Umurenge Programme (VUP). Its design is adapted from the 'graduation model', an innovative approach from Bangladesh that delivers a sequenced package of support with the objective of moving households out of extreme poverty. Difference-in-differences analysis was performed to compare participants and control group households after the cash transfers phase. Findings reveal that participants have significantly reduced their level of deprivation and demonstrated improvements in consumption, health, education and social participation. Further research will assess the impacts of other project components, notably asset transfers and training, and will investigate the sustainability of these positive impacts over time.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="485.28" lry="697.347"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="485.28" lry="697.347"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="485.28" lry="697.347"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="485.28" lry="697.347"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="485.28" lry="697.347"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="485.28" lry="697.347"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="485.28" lry="697.347"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="485.28" lry="697.347"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="485.28" lry="697.347"/>
+		<surface n="10" ulx="0.0" uly="0.0" lrx="485.28" lry="697.347"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1" xml:id="_tXqKgZH">Introduction</head><p xml:id="_9AnpRtr">Despite being one of the poorest countries in the world, Rwanda has achieved sustained economic growth and poverty reduction over the last ten years. Nevertheless, 45 per cent of the population still live in poverty and one in four Rwandans remain in extreme poverty, unable to afford even the basic necessities of life (NISR 2012). 1 Households with children under 16 years and female-headed lone parent families are most at risk of extreme poverty <ref type="bibr">(NISR 2012;</ref><ref type="bibr" target="#b7">Vinck et al. 2009</ref>). In Rwanda, as across the developing world, extremely poor rural households are unable to reduce their exposure to risk, to mitigate the effects of risk, or to cope with shocks. They often subsist in a poverty trap, knocked closer to destitution with each small setback, unable to accumulate the assets necessary to begin to make any movement out of poverty. They lack the human, physical and financial assets to enable them to diversify their income-generating activities. Many are locked into subsistence-oriented agriculture with tiny land-holdings, or they are dependent on low-paid wage labour in agriculture, which makes asset accumulation and coping with risk extremely challenging <ref type="bibr" target="#b0">(Ahmed et al. 2007;</ref><ref type="bibr">Lawson et al. 2010)</ref>.</p><p xml:id="_rmvGg3A">The Government of Rwanda's flagship intervention that aims to enable the extremely poor to exit poverty sustainably is the Vision 2020 Umurenge Programme (VUP) (see <ref type="bibr">Gahamanyi and Kettlewell, this IDS Bulletin)</ref>. Extremely poor households with no adult who is able to work are entitled to a regular cash transfer ('Direct Support'), while households with adults who can work are eligible to participate in low-paid community infrastructure projects ('Public Works'). The third strand of the VUP is access to credit for investment in incomegenerating activities (Ubudehe Credit Scheme). VUP participants are expected to save some of the income they receive so that they can invest in income-generating activities <ref type="bibr">(Ministry of Local Government 2011)</ref>.</p><p xml:id="_U2Jm33P">In support of the government's ambition to achieve sustainable poverty reduction through livelihood-promoting social protection programmes, in 2011 Concern Worldwide launched a project called 'Enhancing the Productive Capacity of Extremely Poor People', also known as the Graduation Programme, in two districts of southern Rwanda. The project targets households that would normally be eligible for Direct Support from the VUP, and aims to demonstrate that these households can also be assisted to 'graduate' out of extreme poverty if they receive an appropriate package of assistance which includes, but extends beyond, regular unconditional cash transfers. Instead of employment on Public Works projects, participants receive intensive training and coaching and a productive asset that is expected to generate future streams of income even after project support ends.</p><p xml:id="_rpgzAgD">This article provides evidence from two quantitative surveys, conducted at baseline and 12 months after the first and second cohort of participants on the Graduation Programme received their first cash transfer. This was complemented by qualitative research conducted a few months later to explore changes in indicators during the first year of implementation, as well as in-depth interviews with case study households, for a deeper understanding of the 'enablers' and 'constrainers' of graduation. Two specific research questions are addressed in this article: (1) What changes in human, social and economic indicators have occurred that can be attributed to the programme? (2) What lessons can be learned in terms of programme design and implementation, to maximise the potential for participants to graduate sustainably out of extreme poverty? In particular, Concern Worldwide's Graduation Programme combines cash transfers to the poorest households with productive asset transfers, microfinance (promotion of savings followed by access to credit), training in incomegenerating activities and coaching in life-skills, as well as strengthening of community support mechanisms. This package is designed to support extremely poor households with consumption transfers to meet their basic needs, promotion of savings to increase their resilience to shocks, and productive assets and skills development to enable them to improve their livelihood options. These activities are sequenced, starting with consumption support and coaching, followed by savings promotion, then skills training, and finally asset transfers. It is expected that project  participants will move from a position of dependence on external assistance to a state where they no longer need such support and can achieve a sustainable exit from extreme poverty (see Figure <ref type="figure" target="#fig_2">1</ref>).</p><p xml:id="_r54cPc7">The Graduation Programme targets 1,200 extremely poor households in two cohorts, with 400 in the first cohort and 800 in the second. All 1,200 households received cash transfers from Concern Worldwide for a minimum of 12 months. The average value of cash transfers was RwF18,000 per month (US$26), based on the number of dependants in the household. 2  Coaching of households is done by volunteer Community Development Animators (CDAs). Each CDA has approximately 15 households whom they visit at least twice a month. They work with households on planning and prioritising their problems and the needs that are to be addressed using cash transfers; spending and savings plans; shared household decision-making and other programme-related messages and activities.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3" xml:id="_udrsDwB">Methods</head><p xml:id="_XNc3yxX">The evaluation of Rwanda's Graduation Programme uses a quasi-experimental research design -the research is designed to share the logic of an experiment but recognises that we cannot control for all the interventions and changes in people's lives. Nor can we find a control group which is identical to and who live exactly the same lives as the participants, apart from the Concern intervention. Nor can we control the lives of the control group to ensure that they do not benefit from any programmes or projects that might improve their lives in the ways aimed for by the Concern programme. The 'before and after' survey design enables us to measure changes in the lives of the participants as aimed for by the programme, as well as measuring changes in the lives of the control group, which enables us to control to some extent for confounding factors (factors other than the programme that may have led to the observed changes). To the extent that the participant group's lives have improved more than those of the control group we can conclude that the Graduation Programme has, on the balance of probability, contributed to these positive outcomes.</p><p xml:id="_GMsagH4">The qualitative data provide context, texture and explanatory depth to the quantitative findings. Specifically, the qualitative research highlights changes in the lives and livelihoods of programme participants over time; focusing on the enabling factors and challenges for change as expressed by the participants themselves. In-depth discussions generate information that enables programme implementers to understand participants' perceptions about the changes taking place in their lives, particularly those that are attributable to the programme, and how these perceptions influence the choices they make.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1" xml:id="_VJZEN7s">Sample</head><p xml:id="_zCj9d4q">A 100 per cent census of the first cohort of participant households was included in both the baseline and follow-up surveys, making 400 households (200 per sector) in the baseline and 390 households during the follow-up survey (the reduction is due to ten participants dropping out of the programme). For the second cohort the baseline information included a census of 800 participants but for the follow-up survey a 50 per cent random sample of 400 participants was selected. In addition, 200 households (100 per sector) were selected by Concern to be the control group. A sector not in receipt of VUP and not adjacent to the intervention sectors was identified and 200 households from the bottom two poverty categories, based on the community wealth ranking Ubudehe system (see <ref type="bibr">Sabates-Wheeler et al.,</ref> this IDS Bulletin), were sampled. The same control group was used for both the first and second cohort of participants.</p><p xml:id="_2Aj6vBS">In terms of the timeline, baseline information was collected in August 2011 for the first cohort and in December 2011 for the control group. In August 2012 follow-up information was collected for the first cohort of participants and the control group. Also in August 2012 baseline information was collected for the second cohort, and additional information was collected as baseline for the control group. In August 2013 baseline and follow-up information was collected for the second cohort and for the control group. Control group households were given incentives to avoid survey fatigue and to contribute towards the time that they spent supporting the project with data collection.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2" xml:id="_E76PXhK">Quantitative analysis</head><p xml:id="_my4rXwD">A questionnaire was designed to measure the socioeconomic situation of households by collecting information for indicators which are typically highly correlated with income or consumption poverty. The questionnaire contained different modules, starting with a comprehensive household roster where information on the gender, age, marital status, relationship to the head of the household and occupation of each member of the household was recorded. Subsequent modules collected information on the living conditions of the household, including: assets -productive and non-productive -income; financial management, saving and loans; housing conditions; diet and food security; child education; health; social inclusion and social capital; management of shocks/coping strategies; and household decisionmaking processes. Many of these indicators are easier to collect accurately than income and provide a good tool for measuring multiple deprivations and for targeting purposes.</p><p xml:id="_Y5QUfrb">For each outcome of interest we estimate difference-in-differences, which is obtained when the relevant indicator is compared between participants and the control group over time. This difference-in-differences indicator is an unbiased estimate of the impact of a programme, with certain strong assumptions being made (see endnote). 3 Since there was no random selection of households into treatment (participant) and nontreatment (control) groups, there are some initial differences in outcome indicators, which could be the result of regional effects or household composition, among other factors. In order to overcome these problems of lack of random selection and initial differences in outcome indicators, we can introduce controls in the estimation of the difference-in-differences indicator. Since we have information about the region in which Concern is working, to some extent we believe that both participating and control group households have been exposed to similar external factors. Finally, due to the similarities of the region and of the households' backgrounds, we can assume that both groups will react in the same way to the incentives provided by the programme. In addition, having information about the region enables the introduction of a control for regional differences, hence the need to use multivariate analyses.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3" xml:id="_HUf8s77">Qualitative fieldwork</head><p xml:id="_GH8q3ck">In May 2013, qualitative fieldwork was undertaken by Concern Worldwide staff on a small sample of Graduation Programme households and non-participants in the same communities. The method used was face-to-face interviews with case study households. The qualitative information complements the quantitative survey-based evaluation methods.</p><p xml:id="_AWCVBzM">Nine respondents were purposively selected as household case studies, to display the following characteristics:</p><p xml:id="_8zywD2b">'Progressing': households that have successfully utilised programme support to improve their situation and appear to be on a pathway to graduate out of poverty (three interviews). 'Facing challenges': households that are continuing to struggle despite receiving programme support (three interviews). 'Dropouts': households that have dropped out of the programme (one interview). 'Community members': non-participating households from the target community (two interviews).</p><p xml:id="_5AjJrtq">Although it is rewarding to report on 'success stories', some of the most important learning comes from understanding the challenges that people face and reflecting on how programme interventions can be adapted to better meet the needs of participants and help them overcome these challenges.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4" xml:id="_rhTzrxk">Results</head><p xml:id="_e3xsNUG">Given the broad range of social and economic data contained in the surveys, in this article we provide only a partial overview of the findings. More detailed results can be found in the research reports for the first and second cohorts <ref type="bibr">(Sabates and Abbott 2013;</ref><ref type="bibr" target="#b5">Sabates, Devereux and Abbott 2013;</ref><ref type="bibr" target="#b6">Sabates, Kyanga and Devereux 2013)</ref>.</p><p xml:id="_bpacCba">Our first key result shows that the Graduation Programme has enabled a significant reduction in deprivation for programme participants over a relatively short period of time. During both the baseline and follow-up surveys, information was collected on several indicators of deprivation, including the households' ability (or inability) to access adequate food, their (in)ability to pay for membership of the government-subsidised Mutual Health Insurance Scheme, and their (in)ability to purchase medicines. The responses to these questions were combined to construct a simple index to measure changes in deprivation between participants and the control group over time. The scale ranges from 0 (only eats a few times a week, can never afford health care or essential medicines), to 8 (eats three times a day, can always afford health care and basic medicines).</p><p xml:id="_UrRhGgE">For the first cohort, during the one-year period after the first cash transfer, control group households recorded a small but statistically insignificant improvement in their average deprivation index value, from 2.3 to 2.5, while participants recorded a substantial and highly significant improvement, from 1.9 to 7.0 (see Figure <ref type="figure">2</ref>, Panel A). The difference over time, the difference-in-differences, indicates an average improvement in the deprivation index of 4.8. For the second cohort, there was also a difference over time in favour of participants. The difference-in-differences for the second cohort indicates a net improvement in the deprivation index of 1.5 (see Figure <ref type="figure">2</ref>, Panel B).</p><p xml:id="_NS4k4cV">Of course, increased spending on food and on health care are output indicators rather than outcomes. There is no guarantee that spending more on food, health insurance and medicine will lead to improved nutrition and health outcomes for household members. This 'theory of change' is an assumption that would need to be rigorously tested with food consumption or anthropometric surveys, and monitoring of health status and responses to episodes of ill-health over time. However, we do find impressive increases in consumption of meat and milk by participating households for the first and second cohorts during the first 12 months of cash transfer disbursement on the Graduation Programme.</p><p xml:id="_Ucm4hy2">The most likely explanation is the income effect: cash transfers allowed the purchase of meat and milk, or the acquisition of livestock that produced meat and milk. By contrast, fewer control group households reported consuming meat and milk after 12 months than at baseline.</p><p xml:id="_rYfADNc">Our second key result is that the Graduation Programme has enabled participants to increase their ownership of productive assets, including livestock. Productive assets are defined as assets that have the potential to generate future streams of income. Several indicators related to productive assets were investigated, including ownership and usage of land and the number of different assets owned at two points in time. In terms of (non-livestock) productive assets, we find significant increases in the ownership of mobile phones for both cohorts of participants relative to the control group. However, for ownership of bicycles and hoes, we find only relative changes over time for the first cohort, but not for the second cohort.</p><p xml:id="_zpaBvhe">Mobile phones are an important means of communication and are increasingly used for commercial purposes in rural Rwanda. For the first cohort, the proportion of participants who owned a mobile phone increased from 1 per cent Source Authors' own, based on Concern Worldwide data for the Graduation Programme. 8.0 7.0 6.0 5.0 4.0 3.0 2.0 1.0 0.0 5.0 4.0 3.0</p><p xml:id="_U5k3w49">2.0 1.0 0.0 Control Beneficiaries Control Beneficiaries Baseline 12 months Baseline 12 months 2.26 2.51 1.94 6.96 2.55 2.88 2.49 4.35</p><p xml:id="_SYh9Apa">to 12 per cent between baseline and follow-up. For the second cohort, this proportion increased from 3 per cent to 17 per cent. For control group households, the proportion of households who owned a mobile phone remained around 2-5 per cent with no significant changes over time. For ownership of hoes, on the other hand, we find that for the first cohort, more than 80 per cent of control households and more than 90 per cent of programme participant households owned at least one hoe during the baseline survey. One year after the first cash transfer, hoe ownership had fallen slightly but not significantly among control households, to 78 per cent, but had risen to 98 per cent among participating households.</p><p xml:id="_tvAAFNW">The situation for livestock is different: as for the first and second cohorts, we find significant increases in the number of livestock owned over time as a result of the Graduation Programme.</p><p xml:id="_dJyP7Gz">In general, very few households in the survey owned a cow at baseline. One year after receiving their first cash transfer 7 per cent and 10 per cent of participants from the first and second cohorts, respectively, had acquired a cow. There were no changes for the control group over this period. The trend in terms of smaller domesticated animals (for example, goats) was even more dramatic. For the first cohort, while control group households owning animals other than cows doubled (from 9 per cent to 19 per cent), the proportion of participating households owning other domesticated animals increased more than ten times, from a small minority to a large majority (7 per cent to 81 per cent). This means that more than four times as many participants as control group households owned other domesticated animals one year after the first cash transfer (81 per cent versus 19 per cent). Information from the second cohort enables us to measure the specific domesticated animals for which a change is measured</p><p xml:id="_TNdWJjE">Table 1 Average ownership of livestock before and after the programme, second cohort Average number of Baseline 12 months Difference Significance Control Cows 0.016 0.025 0.01 Goats 0.089 0.075 -0.01 Sheep 0.000 0.000 0.00 Pigs 0.053 0.056 0.00 Chickens 0.063 0.037 -0.03 Rabbits 0.032 0.068 0.04 Participants Cows 0.024 0.106 0.08 * Goats 0.079 1.030 0.95 ** Sheep 0.005 0.061 0.06 Pigs 0.071 0.646 0.57 ** Chickens 0.113 0.646 0.53 ** Rabbits 1.388 0.448 -0.94 ** D-in-D Cows 0.07 * D-in-D Goats 0.97 ** D-in-D Sheep 0.06 D-in-D Pigs 0.57 ** D-in-D Chickens 0.56 ** D-in-D Rabbits -0.98 ** Source Authors' own, based on Concern Worldwide data for the Graduation Programme.</p><p xml:id="_cqq3Pz2">(Table <ref type="table">1</ref>). We find a significant investment in goats, pigs and chickens, but interestingly, a reduction in rabbits over time, suggesting that the cash transfers are allowing recipients to 'upgrade' their livestock holdings to larger and more lucrative animals.</p><p xml:id="_KThAKD2">Thirdly, we focused on whether the Graduation Programme increased the consumption assets owned by participants. Respondents were asked if they owned their house, kitchen utensils (plates, saucepans, spoons and forks), furniture and household equipment (chairs, basins, jerrycans) and electronic goods (radios). For both the first and second cohorts we find sustained increases in the ownership of consumption assets. To synthesise the data on consumption assets, a simple index was constructed for the first cohort, being the sum of the following assets owned by households: house, saucepan, spoon, fork, plate, basin, jerry-can, chair, radio. For each household, the value of the index ranges from 0 (indicating extremely asset poor -no consumption assets owned) to 9 (indicating asset rich -ownership of at least one of each of these assets). For the second cohort, we used the number of consumption assets owned by each household and a set of prices for these goods collected in the local market during baseline to estimate the monetary value of livestock. 4</p><p xml:id="_f4HKuJy">For the first cohort, participants actually doubled their average level of consumption asset ownership, from 3.4 to 6.9 points (equivalent to an increase of 3.4 distinct assets). Conversely, control group households experienced a reduction in their ownership of consumption assets, from 4.5 to 3.7 points, though this was not statistically significant (Figure <ref type="figure" target="#fig_4">3</ref>, Panel A). The difference-in-differences between control group and participants is more than four assets and is statistically significant. The same pattern is shown for the second cohort using the value of consumption assets owned (Figure <ref type="figure" target="#fig_4">3</ref>, Panel B). While the value of assets remained unchanged for the control group, at around US$10, for the participants of the second cohort, one year after the programme, the value nearly doubled (from US$13 to US$24).</p><p xml:id="_ybwbTVC">Fourthly, the Graduation Programme strongly encouraged savings among participants, both for risk mitigation and for potential investment in productive activities. We find strong evidence for the effectiveness of this sensitisation campaign for both the first and second cohorts. For the first cohort, the proportion of participants who reported that they had saved money increased from 12 per cent to 96 per cent one year after the first cash transfer. In contrast, only 8 per cent of the control group interviewed had Source Authors' own, based on Concern Worldwide data for the Graduation Programme. 8.0 7.0 6.0 5.0 4.0 3.0 2.0 1.0 0.0 5.0 4.0 3.0 2.0 1.0 0.0 Control Beneficiaries Control Beneficiaries Baseline 12 months Baseline 12 months 4.45 3.71 3.44 6.87 10 10 13</p><p xml:id="_My5NXKx">managed to save any money. For the second cohort a higher proportion of households were saving during baseline (36 per cent of the participants, 20 per cent from the control group). One year into the programme, the proportion of participants with savings had increased fivefold relative to non-participants.</p><p xml:id="_huZtDgc">A fifth area of interest focuses on human capital investments by households. In particular, it is hypothesised that the Graduation Programme will improve investment in education and health of household members. In terms of education, our main finding is that the Graduation Programme is enabling more sustained investment in secondary schooling by participants, but no relative changes in primary schooling (which is partly expected due to the improved access to primary education achieved at national level by the Government of Rwanda). The proportion of first and second cohort families sending their children to secondary school showed small increases one year into the programme, while the proportion of control group families sending their children to secondary school actually decreased. One reason behind the increase in children's participation in education has to do with the Graduation Programme's cash transfers making school uniforms as well as books and materials affordable. One unemployed programme participant with a wife and three young daughters explained: 'My children will study without a problem because they have all school materials and won't be hungry'.</p><p xml:id="_YUyN2QJ">The last area investigated in this article is social inclusion. Poor and vulnerable individuals often withdraw from social activities or else are excluded from communal activities, either because poverty reduces the time and money they have available for social events and commitments -all of their resources have to be allocated to securing their basic needs -or because they have feelings of shame (for example, if they feel they do not have good enough clothes to attend meetings). We tested whether the programme has impacted on individuals' likelihood of participating in different social activities, using the hypothesis that more households that participate in the Graduation Programme will be socially included after receiving cash transfers for 12 months than at baseline, in comparison to control group households. For the first and second cohorts we found significant increases in the proportion of households who attended church weekly and those who were members of a cooperative. We did not find changes in the proportion of participants who participated in Umuganda (voluntary community work) or community meetings.</p><p xml:id="_48vzVGY">As an example of the importance of social participation, households from the second cohort were asked if they felt well respected by their community. Responses were coded from 1 for 'not respected' to 5 'highly respected'. Our data show that during baseline the average value of the indicator was somewhat higher for households from the control group (2.5) than for participants (2.0). Over time, the subjective feelings of being respected by members of their community increased to 2.9 for participants, but remained unchanged for the control group. The relative increase over time is statistically significant. A widow on the Graduation Programme gave a poignant insight into how her social status has improved.</p><p xml:id="_QPAsSAD">Before joining the programme I was despised and looked down on. I was not confident enough to engage with other community members. I always felt embarrassed because I lacked almost everything. Now there's respect for me and my family because of the change they have seen in our lives.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5" xml:id="_Bn3nyrc">Conclusions and lessons for graduation</head><p xml:id="_hajafZd">This article has focused on the outcomes of the Graduation Programme in Rwanda for participants who have received regular cash transfers for at least 12 months. Positive changes in the circumstances of participants were expected, as cash transfers increase the purchasing power of individuals and enable investment in assets and in income-generating activities. Incremental income also allows households to invest in the health and education of family members, thereby improving their wellbeing, especially for children, both immediately and in the future (see Roelen, this IDS Bulletin). For many indicators, control group households were better off than participating households at the time of the baseline survey, but a year later this situation had reversed, and participating households were better off than control group households. This 'leapfrog' effect is largely attributable to the first phase of the Graduation Programme.</p><p xml:id="_uNPtmVR">One of the most impressive signs of improvement is in the 'deprivation index', a composite measure of a household's ability to meet its basic needs for food security and health care. Before joining the programme, most participants could not afford to buy enough food, medicine or health insurance, but after one year they could pay for all these essentials. Similar, but less dramatic, positive trends were observed for ownership of some productive assets and livestock, and in higher proportions of participating households sending their children to primary and secondary school after 12 months of cash transfers than at baseline. Finally, programme participants significantly increased their participation in social and communal activities, including church and cooperatives, and this had an impact on how well respected individuals felt by their communities.</p><p xml:id="_4w4h4B5">These early results are very encouraging, but can largely be attributed to the income effect of cash transfers -higher income translates immediately, almost by definition, into improved wellbeing. In future research we will focus on controlling for the amount of cash transfer received to deepen the analysis of the potential medium-term impacts of the programme. On the other hand, the qualitative research revealed that shocks, especially major illness to working adults, can undermine progress towards graduation, and this was the main reason reported for participants dropping out of the programme. Interviews with case study households that were 'facing challenges' highlighted the enormous obstacles to progress faced by this target group, most of whom were effectively assetless and had no incomegenerating activity when the programme started. For some extremely poor people, graduation into self-reliance is an unrealistic ambition and conventional long-term social assistance might be a more appropriate form of support.</p><p xml:id="_vFcggPw">After the cash transfers phase, other components of the integrated 'graduation model' approach are being introduced, notably livelihood assets and training. The real test of the Graduation Programme's impact will be whether the positive outcomes recorded after 12 months of cash transfers are sustained during the next phase of the programme, and -crucially -after the programme ends and all support is terminated. While cash transfers are important for protecting food security and basic consumption needs, graduation requires generating selfreliant livelihoods, and this is the expected impact of the asset transfers, training and coaching components. Whether this ambition is achieved, and for how many participating households, will be investigated in further rounds of research.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>2</head><figDesc xml:id="_kQ6EjpX">Concern Worldwide's Graduation Programme in RwandaThe Graduation Programme in Rwanda follows the approach to graduation championed in Bangladesh by BRAC's Challenging the Frontiers of Poverty Reduction (CFPR) programme and the Chars Livelihoods Programme (CLP) (see BRAC 2001; Hashemi and Umaira 2011; Pritchard, Kenward and Hannan, this IDS Bulletin).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><figDesc xml:id="_TsyXQRR">accumulation and consolidation -households expand their interaction with microfinance (to include savings). Not all HHs proceed beyond this level Level Two: Asset transfer -skills training, regular coaching and consumption support continues, livelihood assets are transferred, beneficiaries are introduced to savingsLevel One: Targeting and baseline -selected households are identified as being the extreme poor in their community; this is verified and skills training, regular coaching and consumption support starts A ll b e n e f ic ia r ie s r e a c h t h is le v adapted from de<ref type="bibr" target="#b1">Montesquiou et al. (2014)</ref>.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 1</head><label>1</label><figDesc xml:id="_ch4Zc33">Figure 1 The basic graduation model</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure</head><figDesc xml:id="_KHUUUEB">Figure 2 Changes in deprivation index by cohort Panel A. Cohort 1 Panel B. Cohort 2</figDesc><graphic coords="5,50.53,62.37,183.11,214.79" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 3</head><label>3</label><figDesc xml:id="_CmzuZNc">Figure 3 Changes in consumption assets over time Panel A. Cohort 1: asset index Panel B. Cohort 2: value of assets (in USD)</figDesc><graphic coords="7,42.57,62.37,202.07,214.79" type="bitmap" /></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_Wv8DuRD"><p xml:id="_U9pwvyw">An extremely poor household is defined as one that is unable to provide basic food to meet the needs of all its members, assuming that no resources are used for anything other than providing food. 2 Exchange rate Rwandan Francs to US Dollars is RwF680 per US$ (April 2014). 3 The assumptions are that: (1) selection into and out of the programme was done at random; (2) there are no initial differences in indicator values; (3) there will be no other influencing factors on the outcomes of interest during the period of the intervention; and (4) both participants and control group households would react in the same way to the intervention. 4 As with other assets, we did not update market prices, which were held constant over time.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Notes*</head><figDesc xml:id="_UWGdBNd">The authors thank the staff of Concern Worldwide and their implementing partner Services au Développement des Associations (SDA-IRIBA), along with the Community Development Animators, for working tirelessly towards achieving the objectives of the Graduation Programme. We would also like to thank the respondents in the participant and control groups who agreed to participate in the survey. We are grateful to Prof. Pamela Abbott and Dr Aleston Kyanga for their support with the research reports which form the basis of this article. An earlier version of this article was presented at the international conference: 'Graduation and Social Protection' in Kigali, 6-8 May 2014. 1 Poverty is measured by consumption levels.</figDesc></figure>
+			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="consolidated"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main" xml:id="_Att6XcZ">The world&apos;s most deprived : Characteristics and causes of extreme poverty and hunger</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ahmed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Wiesmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Frankenberger</surname></persName>
+		</author>
+		<idno type="DOI">10.2499/0896297705</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_y84GW2m">The World&apos;s Most Deprived: Characteristics and Causes of Extreme Poverty and Hunger, 2020 Discussion Paper</title>
+		<meeting><address><addrLine>Washington DC; Dhaka</addrLine></address></meeting>
+		<imprint>
+			<publisher>International Food Policy Research Institute</publisher>
+			<date type="published" when="2001">2007. 2001</date>
+			<biblScope unit="volume">43</biblScope>
+		</imprint>
+	</monogr>
+	<note>Challenging the Frontiers of Poverty Reduction: Targeting the Ultra-poor, Targeting Social Constraints</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b1">
+	<monogr>
+		<title level="m" type="main" xml:id="_BjJNE9U">From Extreme Poverty to Sustainable Livelihoods: A Technical Guide to the Graduation Approach</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>De Montesquiou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Sheldon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Degiovanni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hashemi</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>CGAP-Ford Foundation</publisher>
+			<pubPlace>New York NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main" xml:id="_uMYUdyx">New Pathways for the Poorest: The Graduation Model from BRAC</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Hashemi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Umaira</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_unw54b9">CSP Research Report</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<date type="published" when="2011">2011</date>
+			<pubPlace>Brighton</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Centre for Social Protection, IDS</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main" xml:id="_hU329AB">A Spatial Analysis of Poverty in Kigali, Rwanda using indicators of household living standard</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">O</forename><surname>Akinyemi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Bigirimana</surname></persName>
+		</author>
+		<idno type="DOI">10.4314/rj.v26i1.1</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_7SdGD7v">Rwanda Journal</title>
+		<title level="j" type="abbrev">RWJour</title>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Lawson</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Hulme</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">I</forename><surname>Matin</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">K</forename><surname>Moore</surname></persName>
+		</editor>
+		<idno type="ISSN">2305-2678</idno>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2010">2010. 2012</date>
+			<publisher>African Journals Online (AJOL)</publisher>
+			<pubPlace>Kigali; Kigali</pubPlace>
+		</imprint>
+	</monogr>
+	<note>The Third Integrated Housing and Living Conditions Survey (EICV): Main Indicators Report</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main" xml:id="_6YGSaRp">Evidence on Graduation in Practice: Concern Worldwide&apos;s Graduation Programme in Rwanda</title>
+		<author>
+			<persName><forename type="first">Ricardo</forename><surname>Sabates</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stephen</forename><surname>Devereux</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/1759-5436.12129</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Czy7Z6E">IDS Bulletin</title>
+		<title level="j" type="abbrev">IDS Bulletin</title>
+		<idno type="ISSN">0265-5012</idno>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="64" to="73" />
+			<date type="published" when="2013">2013</date>
+			<publisher>Institute of Development Studies</publisher>
+			<pubPlace>Kigali</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main" xml:id="_ur25Jpd">Evidence on Graduation in Practice: Concern Worldwide&apos;s Graduation Programme in Rwanda</title>
+		<author>
+			<persName><forename type="first">Ricardo</forename><surname>Sabates</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stephen</forename><surname>Devereux</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/1759-5436.12129</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_FnTpEFd">IDS Bulletin</title>
+		<title level="j" type="abbrev">IDS Bulletin</title>
+		<idno type="ISSN">0265-5012</idno>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="64" to="73" />
+			<date type="published" when="2013">2013</date>
+			<publisher>Institute of Development Studies</publisher>
+			<pubPlace>Kigali</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main" xml:id="_jXppjer">Evidence on Graduation in Practice: Concern Worldwide&apos;s Graduation Programme in Rwanda</title>
+		<author>
+			<persName><forename type="first">Ricardo</forename><surname>Sabates</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stephen</forename><surname>Devereux</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/1759-5436.12129</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_sgQVj83">IDS Bulletin</title>
+		<title level="j" type="abbrev">IDS Bulletin</title>
+		<idno type="ISSN">0265-5012</idno>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="64" to="73" />
+			<date type="published" when="2013">2013</date>
+			<publisher>Institute of Development Studies</publisher>
+			<pubPlace>Kigali</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b7">
+	<monogr>
+		<title level="m" type="main" xml:id="_aHdN9kD">Rwanda: Comprehensive Food Security and Vulnerability Analysis</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Vinck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Brunelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Takenoshita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Chizelema</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>World Food Programme</publisher>
+			<pubPlace>Rome</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

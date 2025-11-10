@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" xml:id="_ywx8Q4U">Evaluating the long-run impact of an innovative anti-poverty programme: evidence using household panel data</title>
+				<funder>
+					<orgName type="full">Research and Evaluation Division</orgName>
+					<orgName type="abbreviated">RED</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Informa UK Limited</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2015-12-12">12 December 2015</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">M</forename><forename type="middle">Niaz</forename><surname>Asadullah</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">University of Malaya</orgName>
+								<address>
+									<settlement>Kuala Lumpur</settlement>
+									<country key="MY">Malaysia</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">University of Reading</orgName>
+								<address>
+									<settlement>Reading</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">University of Oxford</orgName>
+								<address>
+									<settlement>Oxford</settlement>
+									<country>UK;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Institute for the Study of Labor (IZA)</orgName>
+								<address>
+									<settlement>Bonn</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jinnat</forename><surname>Ara</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="institution">BRAC</orgName>
+								<address>
+									<settlement>Dhaka</settlement>
+									<country key="BD">Bangladesh</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main" xml:id="_2V2b3mC">Evaluating the long-run impact of an innovative anti-poverty programme: evidence using household panel data</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main" xml:id="_bTQTurC">Applied Economics</title>
+						<title level="j" type="abbrev">Applied Economics</title>
+						<idno type="ISSN">0003-6846</idno>
+						<idno type="eISSN">1466-4283</idno>
+						<imprint>
+							<publisher>Informa UK Limited</publisher>
+							<biblScope unit="volume">48</biblScope>
+							<biblScope unit="issue">2</biblScope>
+							<biblScope unit="page" from="107" to="120"/>
+							<date type="published" when="2015-12-12">12 December 2015</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">D1E32DEAAC09CCAA9C736B5615E5FB51</idno>
+					<idno type="DOI">10.1080/00036846.2015.1073846</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2025-11-04T23:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a292bac</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=1, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=true, generateTeiCoordinates=[true], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term xml:id="_XPtN5XG">Bangladesh</term>
+					<term xml:id="_yjd9qv2">farm employment</term>
+					<term xml:id="_FJsntKF">food security</term>
+					<term xml:id="_jAuwAZK">occupational choice</term>
+					<term xml:id="_JGeUEVx">extreme poverty</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_gUawrRS"><p xml:id="_PTPNAQJ">Using a four-round panel data set from the first phase of the Challenging the Frontiers of Poverty Reduction -Targeting the Ultra Poor (CFPR -TUP) programme of BRAC, we investigate whether a one-off transfer of livestock assets improves well-being of the very poor women in Bangladesh. Programme impact is assessed on a wide range of monetary and nonmonetary measures of wellbeing using difference-in-difference (DD) as well as matching methods. We find significant positive long-term impact on food security, household savings, assets and participation in microfinance. Participant women are less likely to be in distress occupation and more into selfemployment. However, the long-term effect is much smaller for most outcomes when compared to short-and medium-run impacts. We conclude by discussing the significance of the institutional and regional context for the observed time path of estimated programme effect.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="634.32" lry="833.04"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="609.449" lry="793.701"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="609.449" lry="793.701"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="609.449" lry="793.701"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="609.449" lry="793.701"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="609.449" lry="793.701"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="609.449" lry="793.701"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="609.449" lry="793.701"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="609.449" lry="793.701"/>
+		<surface n="10" ulx="0.0" uly="0.0" lrx="609.449" lry="793.701"/>
+		<surface n="11" ulx="0.0" uly="0.0" lrx="609.449" lry="793.701"/>
+		<surface n="12" ulx="0.0" uly="0.0" lrx="609.449" lry="793.701"/>
+		<surface n="13" ulx="0.0" uly="0.0" lrx="609.449" lry="793.701"/>
+		<surface n="14" ulx="0.0" uly="0.0" lrx="609.449" lry="793.701"/>
+		<surface n="15" ulx="0.0" uly="0.0" lrx="609.449" lry="793.701"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_m9nVSJB">I. Introduction</head><p xml:id="_FZeyzzB">Bangladesh has made significant progress in rural poverty reduction over the past years. Yet one-fifth of its rural population lives in extreme poverty <ref type="bibr" target="#b18">(Jolliffe et al. 2013)</ref>. The ultra-poor households share multiple socio-economic characteristics such as being without any agricultural/homestead land, headed by a widow/female, having disabled adult male members, having no regular income source and remain excluded from NGO-run microcredit schemes <ref type="bibr" target="#b12">(Halder and Mosley 2004;</ref><ref type="bibr" target="#b0">Ahmed et al. 2007;</ref><ref type="bibr">Banerjee and Duflo 2011;</ref><ref type="bibr" target="#b9">Davis 2011)</ref>. Acknowledging the association between gender and extreme poverty, the lack of productive assets and skills, and limits of conventional poverty schemes, BRAC, one of the world's largest NGOs, designed a programme known as 'Challenging the Frontiers of Poverty Reduction -Targeting the Ultra Poor' (CFPR-TUP) programme, to reach the poorest of the poor and elevate them out of extreme poverty. The programme includes direct transfers of incomegenerating livestock assets and livelihood training and has reached thousands of female beneficiaries in Bangladesh. In addition to expanding coverage in Bangladesh, the TUP programme has inspired similar initiatives in eight countries under the CGAP-Ford Foundation Graduation programme <ref type="bibr" target="#b14">(Hashemi and Montesquiou 2011)</ref>.</p><p xml:id="_CUgp6XQ">Existing research using nonexperimental data from Bangladesh confirms significant programme impact on household income and food security most of which was also sustained after 6 years <ref type="bibr" target="#b1">(Ahmed et al. 2009;</ref><ref type="bibr" target="#b25">Krishna, Poghosyan, and Das 2012;</ref><ref type="bibr" target="#b10">Emran, Robano, and Smith 2014)</ref>. 1 Evaluation using experimental data from Ethiopia, Ghana, Honduras, India, Pakistan and Peru confirms sizable impact of the graduation model on the livelihoods of programme participants <ref type="bibr">(Banerjee et al. 2011</ref><ref type="bibr" target="#b5">(Banerjee et al. , 2015))</ref>. Randomized evaluation of phase 2 of the TUP scheme in Bangladesh yields similar results <ref type="bibr" target="#b2">(Bandiera et al. 2013)</ref>. However, evidence suggests a bigger programme impact in some countries (e.g. Pakistan and West Bengal) than others (e.g. Honduras). Moreover, even a short-run impact is absent in one instance <ref type="bibr" target="#b6">(Bauchet, Morduch, and Ravi 2015)</ref>. Lastly, there is currently no evidence on the long-term benefits of participation in such programmes owing to nonavailability of suitable data.</p><p xml:id="_jBHeDqQ">The timing of impact evaluation is important because household and individual-level impacts are likely to vary over time <ref type="bibr" target="#b24">(King and Behrman 2009;</ref><ref type="bibr" target="#b27">Quisumbing, Baulch, and Kumar 2011)</ref>. It may take time for households to realize the full return to their investments in projects involving assets received from the CFPR-TUP scheme. Female entrepreneurs may take longer to set-up new enterprises and expand their business by securing access to additional financial resources. Successful transition to larger microenterprises in a patriarchal society hinges upon mobility into the male-dominated public sphere as well as support from male household members. The institutional context in which the programme is assumed to operate may also change over time <ref type="bibr" target="#b6">(Bauchet, Morduch, and Ravi 2015)</ref>. For these reasons, this article revisits the evidence on phase 1 of the CFPR-TUP programme using a four-round panel data set that tracks treatment (selected ultra-poor) and control (nonselected ultra-poor) households in northwestern Bangladesh over a period of 9 years <ref type="bibr">(i.e. 2002 and 2011)</ref> in a quasi-experimental setting.</p><p xml:id="_UVcen3n">Consistent with previous assessment of mediumterm effects, we present evidence on long-term effects in terms of changes in food expenditure, household assets, food security and microfinance participation. In addition to difference-in-difference method, matching methods are used to control for the differences between treatment and control households. However, for most outcomes including female self-employment, programme impact increases in the medium run but declines in the long run. We conclude by highlighting the role of contextual factors specific to northwestern region of Bangladesh that may influence the time path of programme effect after assistance was withdrawn.</p><p xml:id="_BEAhcyD">The rest of the article is organized as follows. The 'programme description and conceptual framework' section discusses BRAC's TUP programme and set out the conceptual framework. We explain the selection criteria of programme participants and the intervention package. The 'Data and empirical methods' section describes the sample and presents the descriptive statistics of the key variables included in the analysis. The empirical strategy is also discussed in this section. The results are presented in the 'Results and discussion' section. We conclude in the 'Conclusion and policy implications' section.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_2cHKWzR">II. Programme description and conceptual framework</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_m5tcVgW">Asset transfers vs. other approaches to poverty reduction</head><p xml:id="_kvs8Dk2">The government of Bangladesh has implemented a number of interventions to help households move out of poverty. These have ranged from providing access to credit, skills training, safety net interventions, new technology to transfers of productive assets <ref type="bibr" target="#b27">(Quisumbing, Baulch, and Kumar 2011)</ref>. These programmes vary in terms of design (e.g. single vs. multi-components; conditional vs. unconditional transfer), targeting criteria (e.g. gender focused, individual vs. group-based approach) and coverage of the poorest of the poor <ref type="bibr" target="#b0">(Ahmed et al. 2007</ref>). <ref type="foot" target="#foot_0">2</ref> Currently as many as 27 public safety net interventions operate to assist the poor in Bangladesh through transfers <ref type="bibr" target="#b18">(Jolliffe et al. 2013)</ref>. Examples of existing short-term interventions are Food for Work and Cash for Work. Long-term schemes that offer both cash and food support throughout the year include the Employment Generation Program for the Poorest (EGPP), Vulnerable Group Development (VGD) and Vulnerable Group Feeding (VGF). Among these programmes, EGPP is one of the largest public safety net programmes in Bangladesh. However, some of these transfer interventions often fail to reach the very poor and do not by themselves trigger sustainable income growth for the poorest of the poor.</p><p xml:id="_8u43q5Y">Because of the low level of physical capital endowment, the ultra-poor are often trapped in various forms of chronic deprivation. They need a critical push to uplift their initial endowment base, in as risk-free a manner as possible, to a certain level which is necessary for getting greater access to other resources and their productive utilization. In this setting, a one-off asset transfer could be a valuable anti-poverty tool and serves as a powerful alternative to other poverty approaches such as cash and food transfer programmes, microfinance or access to technology. However, the ultra-poor, particularly women, also lacks in human capital to excel in running small enterprises. So transfer of physical capital per se may not be sufficient to escape poverty trap.</p><p xml:id="_tBRwttE">By targeting females who are untrained and too poor to benefit from conventional poverty programmes, schemes such as the TUP programme serve to expand the available policy tools to reach out women in poverty. This approach might be better than conventional poverty reduction strategies for a number of reasons. First, poverty programmes such as food-for-work primarily rely on the capacity to exchange labour and are not effective in helping the poor to escape poverty traps (e.g. under-nutrition related). Other safety net programmes involving in-kind transfer are not sustainable as they do not help find regular income sources. Second, existing government safe net programmes suffer from targeting error which is minimized in case of schemes run by established NGOs like BRAC. Third, provision of livelihood training ensures that assets transferred are not managed inefficiently because of lack of skills. In sum, through a creative combination of assets and skills training, the programme enables femaleheaded households and other vulnerable families to 'graduate' out of extreme poverty by overcoming capital and skills constraints <ref type="bibr" target="#b2">(Bandiera et al. 2013)</ref>. Close monitoring by NGO workers and intensive skills training facilitates 'graduation' from lowreturn livelihood strategy relying on agricultural wage labour to managing basic microenterprises. In the next section, we describe the TUP programme in detail.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_dPCuBfH">Programme description</head><p xml:id="_m85J8pm">The TUP programme is built on two decades of experience of the World Food Program and the Government of Bangladesh sponsored scheme to assist vulnerable families to address food security through raising poultry and food aid. The scheme, Income Generation for Vulnerable Group Development (IGVGD), was launched in 1986 where an integrated package of food aid was provided to the extreme poor in Bangladesh along with provisions for savings, microcredit and skill development training. Evaluation of this intervention showed that the impact was not sustainable <ref type="bibr" target="#b13">(Hashemi 2001;</ref><ref type="bibr" target="#b26">Matin and Hulme 2003)</ref>. Questions were raised about targeting effectiveness as many participating households were found to have not fulfilled all the eligibility criteria. BRAC responded by drawing up the CFPR-TUP programme which was initially introduced in 2002 in three of the poorest districts of Bangladesh, Rangpur, Kurigram and Nilphamari. Later on it extended to another 12 districts.</p><p xml:id="_EbKFjFD">The TUP scheme roughly targets the bottom 10% population in the income distribution. Compared to IGVGD, the scheme first identifies the extreme poor using a community-based participatory wealth ranking method. Usually households in the poorest category of wealth rankings were considered as the 'ultra-poor' though sometimes households in the poorest two categories were also considered. Among the ultra-poor, a group of households were selected to receive programme support based on the inclusion and exclusion criteria. To be eligible, an ultra-poor woman must meet at least three of the following five criteria: (1) the household is dependent upon female domestic/seasonal work, for example, begging, maid; (2) own less than 10 decimals of land; (3) no active male adult member in the household; (4) no productive assets in the household; and (5) children of school-going age have to take paid work. In addition, there are three exclusion criteria:</p><p xml:id="_qT8PaTd">(1) no adult woman in the household who is able to work; (2) participating in microfinance and (3) beneficiary of government/NGO development project. Any ultra-poor household meeting at least three of the inclusion and none of the exclusion criteria is selected to receive benefits from programme. An additional round of verification is carried out by BRAC to generate the final list of households eligible for CFPR-TUP support. Those who received programme benefit are called selected ultra-poor (SUP) households.</p><p xml:id="_wuvfH4F">Once female beneficiaries are selected, BRAC helps them to identify appropriate income-generating microenterprises through extensive consultation with respective household members. After finalization of enterprise choice, beneficiaries participate in orientation training on the programme and the enterprise. The multi-component TUP programme then begins by a transfer of productive assets worth taka 10 000 to support development of the selected enterprise. Over 90% of SUP households chose a livestock combination (e.g. cow, goat, poultry, etc.); only a handful of beneficiaries opted for vegetablenursery growing or nonfarm enterprises. The asset is usually transferred within 1 month of the orientation training <ref type="bibr" target="#b1">(Ahmed et al. 2009</ref>).</p><p xml:id="_A6n9NuD">In addition, programme participants are encouraged to save in TUP fund immediately after joining the programme. Other supplementary programme components included monthly visits by health workers, weekly follow-up session to provide technical advice, build social awareness and a weekly stipend of taka 70. <ref type="foot" target="#foot_2">3</ref> In case of loss of transferred assets due to unforeseen shocks, a second round support is provided. The intervention therefore combines support for immediate consumption needs with longerterm investments in training and business development so that after 2 years ultra-poor people are equipped to help themselves 'graduate' out of extreme poverty. <ref type="foot" target="#foot_3">4</ref></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_8cE8P2T">Understanding programme impact over time</head><p xml:id="_5cbDG4V">Considering a longer assessment window is important because the time path of impact varies across interventions. The implementation cycle differs from project to project, leading to variation in the duration of exposure to a treatment across programme areas and beneficiaries. Owing to length of the implementation cycle and nature of outcome variables, the timing of evaluations matters <ref type="bibr" target="#b24">(King and Behrman 2009)</ref>. Depending on the time path of impact, an early evaluation risks under-/overestimating the impact. In case of TUP phase 1, the programme implementation cycle was 24 months. Soon after the intervention, it is natural to see a jump in livestock asset holding and associated earnings. However, households have to wait before they can trade them to acquire bigger assets and/or diversify the asset portfolio. Only having established and run a successful livestock-/poultry-based business for a few years the household can 'trade-in' the stock to buy a larger and more indivisible income-earning asset, such as a cow, a rickshaw or a small shop. For this reason, we expect the return to increase further after 4-6 years of the intervention. At the same time, absence of male working and extended family members can limit access to additional social support in running the household's new economic enterprise <ref type="bibr" target="#b14">(Hashemi and Montesquiou 2011)</ref>. In patriarchal settings, women's sociocultural barriers and other specific obstacles like access to the market and short-term loans prevent her from expanding her business. In sum, whilst initial transfers of asset can succeed in putting females in poultry and livestock management, whether they build on this and continue to run microenterprises long after the intervention can only be assessed through longterm evaluation.</p><p xml:id="_56SnJJj">Lastly, external factors beyond the programme's reach can significantly influence its outcomes. Rangpur region is characterized by many conditions (e.g. absence of local markets to sell produces from small enterprises, lack of physical infrastructure and adverse agro-climatic factors) that potentially limits basic entrepreneurial activities including upgradation of microenterprises in the long run. Moreover, the relative return to livestock and poultry rearing vis-à-vis agricultural wage work may change over time. Since the TUP programme works by moving females out of agricultural wage work, participant households are less likely to be affected by labour market shocks. But shocks (e.g. food price rise) that increase demand for agricultural labour can benefit control households relying on agriculture. In addition, programme impact depends on the availability of close substitutes to the programme <ref type="bibr" target="#b6">(Bauchet, Morduch, and Ravi 2015)</ref>. The larger institutional context and how it may have changed over time is therefore critical to understanding programme effect over time. When discussing the main results in the 'Results and discussion', we elaborate on these issues.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_ACdcwgR">III. Data and empirical methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_9c2GhrD">Data</head><p xml:id="_6v4GJq5">Our evaluation focuses on changes in outcomes in the treatment and control groups following the introduction of the CFPR-TUP scheme between 2002 and 2011. The baseline survey was carried out during June-August, 2002 in Rangpur, Kurigram and Nilphamari districts. The sample size was 5626 households (of which 2633 were treatment households). In follow-up surveys carried out in 2005 and 2008, a total of 5228 and 4559 households were tracked, respectively. The fourth round survey, conducted in 2011, traced 4038 households. In other words, a total of 1588 households were lost between 2002 and 2011. Compared to nonattrition households, attrition households have significantly less cash savings, live in poor household conditions, are less food secure, have fewer assets and more likely to be female headed. Whether these differences would lead to a downward bias in the impact analysis of TUP depends on the way in which sample attrition affected programme and nonprogramme households. To this end, Table <ref type="table" target="#tab_0">A1</ref>, Appendix, presents disaggregated attrition data separating out treatment and control households. Of the total households lost, 52% were treatment households. These households were poorer compared to control households in terms of cash savings, education level and asset ownership. In order to test whether sample attrition was excessively concentrated in treatment sample, we regressed attrition dummy on treatment dummy (controlling for village of location). Results indicate that the treatment dummy was never significant (Table <ref type="table" target="#tab_1">A2</ref>, Appendix).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_7dZQEZe">Empirical strategy</head><p xml:id="_SNGqjxV">We have a quasi-experimental set-up where data on treatment and control sample are available from preand post-intervention periods. In order to explore the correlations formally, we begin with differencein-difference (DD) technique which focuses on the difference between the treatment and control group from the pre-programme period to the follow-up period. The OLS regression function used to estimate DD impact using four rounds of panel data is as follows:</p><formula xml:id="formula_0">Y it ¼ α þ β 1 T 2005 þ β 2 T 2008 þ β 3 T 2011 þ β 4 SUP þ β 5 T 2005Ã SUP þ β 6 T 2008Ã SUP þ β 7 T 2011Ã SUP þ e it<label>(1)</label></formula><p xml:id="_AqJPP8W">where Y it is outcome variable of interest for household (or individual) i at time t; T j are time dummies <ref type="bibr">(j = 2005, 2008 and 2011)</ref> and SUP is treatment household dummy. The constant term (α) is the mean value of the outcome variable for the control households in the baseline; β 1 , β 2 and β 3 measures change in outcome variable from baseline to followup survey <ref type="bibr">(2005, 2008, and 2011</ref>) for control households; β 4 measures the difference in outcome variable between SUP and control households at the baseline; the key parameters of interest, β 5 , β 6 and β 7 , are our double difference estimators of the outcome variable (i.e. average treatment effect). In this setting, β 5 , β 6 and β 7 correspond to the short-( <ref type="formula">2005  over 2002</ref> Although the surveyed households were extreme poor and selected based on specific selection criteria, they were not similar in terms of their economic and demographic characteristics (see Table <ref type="table" target="#tab_2">A3</ref>, Appendix). Consequently, the two groups of households may not have experienced the same growth trajectory overtime without the intervention. Therefore, we also re-estimate Equation 1 additionally controlling for selected baseline characteristics such as sex of the household head, occupation of the main female of the household, household members' literacy, economic status and asset holding of the households. To further check the sensitivity of impact estimates, we use propensity score matching (PSM). The PSM method of programme evaluation constructs a comparison group who are likely to be similar to the treated (i.e. have similar inclusion probability densities) contingent upon baseline participation by matching intervention sample to comparison group based on observable characteristics. <ref type="foot" target="#foot_4">5</ref>The impact of the programme is then estimated as the average difference in the outcomes for each intervention respondent from a weighted average of outcomes in each similar comparison group of respondents from the matched sample. We implement the PSM method in the following steps. First, a probit model using baseline ( <ref type="formula">2002</ref>) data is estimated. Second, we check the balancing properties of the data by testing whether treatment and comparison groups have the same distribution (mean) of propensity scores and of variables within groupings of the propensity score. Variables not satisfying this are dropped or replaced with alternative variables and the specification is rechecked. Third, we estimate the matching equations using the common support restriction (to ensure that matches are formed only where the distribution of the density of the propensity scores overlap between treatment and control groups). Subsequently, we match the propensity score between the treatment and control groups through the nearest neighbourhood matching technique using STATA's psmatch2 command (see Table <ref type="table" target="#tab_3">A4</ref>, Appendix, for regression results on the propensity scores).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_8BmQfex">IV. Results and discussion</head><p xml:id="_D7Dyvjn">In this section, we look into the causal impact of TUP programme (summary statistics by programme participation status are presented in Table <ref type="table" target="#tab_2">A3</ref>, Appendix). Although we construct three sets of estimates -DD, DD with baseline characteristics control and DD matching, for the sake of brevity, we do not discuss the second set of estimates. It is because point estimates are very similar to unconditional DD figures. To understand whether and how the programme effect varies over time, we separately present estimate of the short-, medium-and long-term impact on a range of monetary and nonmonetary indicators.</p><p xml:id="_tgpS8jR">Impact on household wealth, occupation, food security, income and microfinance uptake Table <ref type="table" target="#tab_0">1</ref> presents evidence of impact on household assets. For most indicators (e.g. # of cows, goats, bed, chair/table and rickshaw van), larger size of the medium-term impact indicates that treatment households succeeded in expanding their asset base beyond what was provided by the programme initially. However, DD as well as DD-PSM estimates indicate a declining programme impact over 2002-2011 period. In some instances, the long-term effect is insignificant even at 10% level (e.g. cultivable land holding size). This pattern remains unchanged when we re-examine the data by aggregating assets into farm and nonfarm as well as transferred and nontransferred assets. Overall, there is no indication that households changed their portfolio by consolidating transferred agricultural assets to acquire more nonfarm assets.</p><p xml:id="_xC5dxMZ">The increase in household assets reported in Table <ref type="table" target="#tab_0">1</ref> is consistent with changes in household occupation reported in Table <ref type="table" target="#tab_1">2</ref>. Both DD and DD-PSM estimates show statistically significant programme effect on agricultural self-employment in the short as well as medium terms. However, DD estimate of the long-term effect is statistically insignificant. The corresponding DD-PSM estimate is significant but smaller compared to short-and medium-term estimates. On the other hand, programme impact on agricultural wage work is negative and significant. The evidence of declining programme effect is also noticeable in case of day labour. Similarly, the large negative impact on distress employment (begging and working as servants) amongst programme women was significantly attenuated by 2011.</p><p xml:id="_4GHhcA6">Several hypotheses may explain the fall in female participation in self-employment and the rise in household chores. First, female members may have genuinely moved out of self-employment in the long run and gone back into household chores. 6  Enhanced asset base may have provided the much needed financial platform for male members to setup new microenterprises. Second, due to more intensive contact with BRAC staff in the early years influencing their views, or as livestock and poultry go through several generations, the link with the initial asset transfer to the female beneficiary could become weaker in female beneficiaries' minds, leading to differences in reported primary occupation.</p><p xml:id="_ZFUbqtn">In order to better understand the above possibilities, we separately looked at occupational change amongst working-aged males. There is some evidence in support of the hypothesis that male members in SUP sample took over enterprise ownership allowing females to fall back into household chores. Males of the SUP households were significantly engaged in nonfarm self-employment whilst their dependence on day labouring, begging and housemaid/servant had declined. Only short-and medium-term DD and DD-PSM estimates are significant. On the other hand, farm self-employment increased among the working-aged male members over the years though the impact is statistically insignificant throughout. Furthermore, we analysed the primary occupation of the working-aged female members whose households have an active male member with those where no active male member is present. Results show a higher percentage of females members were engaged in distress  6 Women who have taken up livestock rearing work as part of the intervention could find it more convenient to hand over their enterprises (e.g. poultry rearing) to other household members or move on to activities that can be combined more easily with household work. Such dynamics surrounding management and control of economic resources are well-documented in case of microcredit services. Studies have shown that in most cases men use NGO credit and husbands' income remain a key source of instalment payments <ref type="bibr" target="#b11">(Goetz and Gupta 1996;</ref><ref type="bibr" target="#b15">Hashemi, Schuler, and Riley 1996;</ref><ref type="bibr" target="#b28">Sengupta and Aubuchon 2008)</ref>. Evidence on occupational choice of female participants in microfinance also finds limited evidence of radical change in the gender division of labour resulting from women's access to credit. Women are still doing traditional home-based jobs like poultry raising, tailoring and paddy husking <ref type="bibr" target="#b19">(Kabeer 2001)</ref>.</p><p xml:id="_fmKXHsc">occupation like day labouring, begging, as well as housemaids when no active male member is present. However, when no active male member was present in the baseline, female participation in selfemployment remained significantly higher even in 2011. When formally examined using DD approach, the effect remains significant (results not reported but available from the authors upon request). In order to explore the second possibility, we examined secondary occupation of female members (data only available for 2011). The data indicate a large number of programme women reporting household chores as the primary but self-employment as the secondary occupation. This implies that the reported long-term occupation pattern in the data could be still consistent with the story of a positive programme impact on microenterprise development in intervention area. Table <ref type="table" target="#tab_2">3</ref> confirms positive and highly significant impact on programme participants with regard to savings, outstanding loan and lending. DD and DD-PSM estimates of long-term effect are also significant in case of cash savings and outstanding lending. The observed change in programme impact on credit demand observed between 2002 and 2008 is consistent with growth in household assets and engagement in microenterprise activities during the period. <ref type="foot" target="#foot_5">7</ref> However, as before, size of the estimated long-run effect is smaller when compared to shortand medium-term effects. <ref type="foot" target="#foot_6">8</ref>Next we compare the programme impact on household assets, occupational structure and financial choices reported in Tables <ref type="table" target="#tab_0">1</ref><ref type="table" target="#tab_1">2</ref><ref type="table" target="#tab_2">3</ref>with that on food security and household income (see Table <ref type="table" target="#tab_3">4</ref>). The DD estimates are always found to be negative and statistically significant at one level for the indicator variable 'Always in deficit'. The impact on extreme food insecurity declines over time with the long-term effect being much smaller. This is true irrespective of whether we use simple DD method or DD matching estimator. Per capita food expenditure has increased for both groups in 2008 and 2011 but pronounced more among the SUP households which were highly significant. However, the long-run <ref type="bibr">(2002-2008 and 2002-2011)</ref> impacts are positive and statistically significant at the level of 1. When compared to double difference estimates, PSM estimates suggest smaller impact of both the mediumand long-term effects. In addition, longer-term effect remains smaller than the medium-term effect. Because of the absence of comparable data in 2011 round, we could not estimate the long-run impact on household income. However, estimates based on earlier rounds of data yields results that are consistent with estimates on programme impact on food expenditure (Table <ref type="table" target="#tab_3">4</ref>).</p><p xml:id="_J7m4W8g">In sum, the TUP scheme succeeded in transforming occupational structure and asset base of treatment households. However, the change was not sustained 9 years after the transfer of productive asset. This finding contrasts with evidence on the short-and medium-term impact of the programme documented for Bangladesh and other countries. 9 This could be owing to changes in the factor market and other institutions some of which may have differentially affected treatment and control households in different time periods. We discuss this next.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_YuAYJsY">Contextualizing the results</head><p xml:id="_KVZ6jvm">Given the fact that phase 1 of the TUP scheme started in 2002 and our sample comes from northwestern Bangladesh, this section contextualizes the main findings taking into account the national and regional trends in poverty. The decline in poverty during 2000-2010 in Bangladesh is characterized by two underlying processes. During the first half of the decade, economic growth reduced poverty benefiting those who moved from agricultural labour to nonfarm production. Poverty decline was larger amongst households with more landholding during 2000-2005. Increased wage returns to education also helped to reduce poverty but only in the nonagricultural sector. During 2005-2010, redistributive public programmes played a greater role in poverty reduction. This period saw larger fall in poverty to land-poor (i.e. the most deprived) households who relied on agricultural work. There was an increase in income earned by individuals with lower levels of schooling. The exogenous increase in food price led to the increase in demand for unskilled workers along with a rise in agricultural wage rate in rural areas. Labour income increased despite a lack of change in labour productivity <ref type="bibr" target="#b17">(Jacoby and Dasgupta 2012)</ref>. Transfers from public safety net programmes and private sources (e.g. remittance) grew during 2000-2010, suggesting that nonlabour income also contributed to poverty decline. However, government schemes suffered from poor targeting, thereby limiting their impact on poverty despite increased public spending.</p><p xml:id="_FVmV36F">In addition to the temporal differences described above, the pattern of poverty reduction varied across regions. Most of the daily workers and self-employed in agriculture are located in the western part of Bangladesh. Their low participation in nonagricultural work meant that during 2000-2005 the region saw small progress in poverty. However, the eastwest divide in poverty disappeared during the second half of the decade as the western part benefited from higher wages in agriculture. In other words, poverty declined broadly across both the eastern and western divisions during 2005-2010. The only exception is the northwestern districts of Rangpur division where phase 1 of the TUP scheme was implemented. Compared to other divisions, Rangpur has the highest prevalence of poverty (42%) and extreme poverty (28%) and lagged behind other regions even by 2010 <ref type="bibr" target="#b18">(Jolliffe et al. 2013)</ref>. Most poor workers in the region are still employed in the agricultural sector. 10 At the same time, real wage rate and employment opportunities did not increase significantly despite rise in wage rates relative to other divisions <ref type="bibr" target="#b22">(Khandker and Mahmud 2011)</ref>. All these  9 For instance, based on six randomized trials in Ethiopia, Ghana, Honduras, India, Pakistan and Peru, <ref type="bibr" target="#b5">Banerjee et al. (2015)</ref> found no evidence of decline in the impact of the programme on consumption, household assets and food security 3 years after the transfer of productive asset. 10 The share of farm work in total household income increased from 43.2% in 2000 to 55.9% in 2010 in Rangpur division <ref type="bibr" target="#b23">(Khandker and Samad 2012)</ref>.</p><p xml:id="_2Eyp9Un">factors leave households in the division vulnerable to seasonal hunger arising from agricultural seasonality. To cope with this, the extreme poor households often engage in employment diversification (switch from farm work to irregular nonfarm work) during the lean season (usually September-November), thereby reducing the scope for achieving economies of scale in nonfarm self-employment.</p><p xml:id="_mVAbZME">Lastly, two institutional changes in greater Rangpur region during 2002-2010 are noteworthy for interpreting our results. First, a microfinance programme known as PRIME was introduced in 2006 to address seasonal as well as extreme poverty. <ref type="foot" target="#foot_7">11</ref>Besides providing production-related loans, PRIME offered extension and training services. Evaluation of the programme impact shows that PRIME is more effective than regular microfinance in reaching the ultra-poor and reducing extreme poverty <ref type="bibr" target="#b21">(Khandker, Khalily, and Samad 2010)</ref>. Second, government-run social safety net programmes expanded their coverage in the northwestern region which was found to have a positive effect on mitigating food deprivation <ref type="bibr" target="#b20">(Khandker, Khaleque, and Samad 2011)</ref>.</p><p xml:id="_nSjsCRS">In sum, food price rise, expanded coverage of other safety net schemes (such as EGPP, VGD and VGF), the introduction of targeted microfinance schemes and inter-sectoral change altogether may explain why we find a decline in TUP phase 1 programme impact towards the second half of 2000-2010. Phase 1 data are not rich enough to examine these issues in detail <ref type="bibr" target="#b7">(BRAC 2009)</ref>. Nonetheless, we carried out additional tests to verify some of these possibilities. First, external shocks may have eroded the asset base of the programme beneficiaries, leading to a reduction in the long-run programme impact. Table <ref type="table" target="#tab_4">5</ref> confirms that the long-term estimate of the impact on death of livestock is larger compared to short-and medium-term estimates. More importantly, DD and DD-PSM estimates of the probability of spending money to cover losses owing to livestock shocks are also significant and increases in size over time. <ref type="foot" target="#foot_8">12</ref> Second, the effect of food crisis of 2009-2012 may help to explain the observed 'long-term' impact on expenditures and food deficit variables in our data. Following the 2007-2008 food price shock, the rural extremely poor saw a 22% decline in consumption <ref type="bibr" target="#b18">(Jolliffe et al. 2013)</ref>. Whilst food price is found to be a significant predictor of food security in TUP phase 1 data, it does not affect the observed programme effect <ref type="bibr" target="#b16">(Hossain et al. 2015)</ref>. A third explanation for the decline in programme impact relates to the introduction of competing safety net schemes. In the baseline, both programme and control households reported to be significantly dependent on relief schemes to meet the expenses. Whilst this decreased significantly between 2002 and 2011 amongst treatment households, a similar fall is also noted in the control sample <ref type="bibr">(from 61% in 2002 to 12.56% in 2011)</ref>. This suggests the effect of expansion of other safety net schemes in northwestern districts benefitting control households. Lastly, our data suggest a jump in NGO-run microfinance schemes amongst control households between 2008 and 2011percentage of control households reporting taking NGO loans increased from 28 to 35 (see Table <ref type="table" target="#tab_2">A3</ref>, Appendix). This could be owing to interventions like PRIME and may explain why the programme impact on microfinance participation is significant but smaller in the long run.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_epnXQCY">V. Conclusion and policy implications</head><p xml:id="_JwzJZUk">The evidence presented in this article yields new insights into long-term effects of the TUP intervention.</p><p xml:id="_dFwCy73">For most outcomes including working-age female members in self-employment, estimated mediumterm <ref type="bibr">(2002)</ref><ref type="bibr">(2003)</ref><ref type="bibr">(2004)</ref><ref type="bibr">(2005)</ref><ref type="bibr">(2006)</ref><ref type="bibr">(2007)</ref><ref type="bibr">(2008)</ref> effect is larger than the short-run <ref type="bibr">(2002)</ref><ref type="bibr">(2003)</ref><ref type="bibr">(2004)</ref><ref type="bibr">(2005)</ref> impact. Reassuringly the long-term impact is also significant in most cases, although the effect size points towards a diminishing return when compared to medium-term impact. We conjecture that the temporal change in programme impact is partly owing to institutional changes in the northwestern region. During 2000-2005, most of the reduction in poverty in Bangladesh was driven by growth in nonfarm wage and workers moving from agriculture to nonfarm work. On the other hand, increase in wages in the agricultural sector was more important for reducing poverty during 2005-2010. Our finding of larger impact of the TUP programme during 2002-2005 and apparently smaller impact during 2005-2011 is therefore consistent with the counteracting sectoral patterns in poverty reduction observed during 2000-2010.</p><p xml:id="_yBRcRrt">The results of this study identify a number of questions that require further examination. First, changes in contextual setting need to be better understood. This includes the role of competing safety net schemes and improvement in agricultural labour market conditions. Second, women's perception of what constitutes economic activity and household work as household income rises may change. Women's productive and reproductive works are intertwined so that economically well-off women may not report taking care of live animals as productive work. Third, hidden challenges may remain in successful upgradation of microenterprises by poor women in rural areas. Future research should look into hidden challenges underlying successful management of microenterprises by poor women as well as study changes in their perception of work and employment. Identifying context-specific demand and supply constraints that bind in the long run can be crucial for ensuring lasting impact of the programme above and beyond the project life cycle.</p><p xml:id="_QPa4d6M">Table A3. (Continued). 2002 2005 2008 2011 Natural and physical asset T 2002 C 2002 Diff T 2005 C 2005 Diff T 008 C 2008 Diff T 2011 C 2011 Diff Primary occupation of the working aged individuals (15-60 years)female Farm-self employment 0.2 0.3 -0.1 42.9 8.2 34.6*** 37.6 12.1 25.5*** 39.2 36.7 2.6* Day labour 24.2 13.3 11.0*** 14.9 16.2 -1.2 12.7 15.9 -3.2*** 7.5 5.9 1.6** Nonfarm salaried 1.0 0.8 0.1 0.9 0.7 0.2 0.9 0.6 0.3 0.9 0.9 0.0 Nonfarm self-employment 4.4 3.2 1.2** 6.5 3.6 2.9*** 3.4 2.9 0.4 1.7 1.1 0.6* Begging 3.3 1.2 2.1*** 1.7 1.2 0.5 2.1 1.4 0.7* 2.3 1.3 1.0*** Servant 13.6 8.0 5.5*** 6.7 8.6 -1.9** 8.4 10.4 -1.9** 7.0 6.7 0.3 Unemployed 2.9 2.9 0.0 1.7 1.6 0.0 1.4 1.9 -0.5 1.7 2.2 -0.5 HH chores 48.7 67.6 -18.8*** 16.1 48.9 -32.8*** 22.1 41.7 -19.6*** 35.1 40.5 -5.4*** Financial market participation Have cash savings (of respondents) 9.10 21.39 -12.29*** 90.99 30.36 60.63*** 93.76 35.93 57.83*** 98.28 47.73 50.55*** Have outstanding loans (of HHs) 26.22 39.54 -13.32*** 72.35 62.68 9.67*** 53.77 43.66 10.11*** 35.03 34.33 0.70 Amount of outstanding loans (Tk.) 1044 2239 -1195*** 1581 1603 -22 2244 2780 -536*** 6019 6446 -428*** Size of outstanding lending 1431 3672 -2241* 2116 2588 -472 7908 7823 85 18992 15907 3084*** Taken loan from NGO 3.72 25.34 -21.62*** 36.91 15.72 21.19*** 52.29 28.69 23.60*** 51.38 35.30 16.07*** Taken loan from informal sources 95.96 72.07 23.89*** 62.90 83.99 70.14*** 47.36 70.14 -22.78*** 48.17 64.07 -15.91*** Type of crisis (of households) crisis/incidence occurred in last 1 year (yes = 1) House damaged 41.60 37.70 3.90** 18.27 12.43 5.84*** 8.64 7.01 1.62** 24.49 23.17 1.16 HH members seriously ill 23.38 24.24 -0.86 15.89 17.17 -1.29 12.93 12.53 -0.40 22.16 22.37 -0.52 Death of livestock 3.29 4.59 -1.30** 8.73 2.78 5.95*** 6.58 3.09 3.49*** 21.45 6.63 14.70*** Death of duck/hen 22.14 23.47 -1.33 32.59 25.77 6.81*** 0.81 0.55 0.24 Loss by thief/robbery 0.62 0.52 0.10 0.86 0.67 0.19 0.43 0.26 0.17 1.00 1.65 -0.65* Type of crisis (of households) money spent for the incidence (yes = 1) House damaged 91.40 91.38 0.02 77.28 81.33 -4.04 99.45 99.26 0.18 99.02 99.33 -0.31 HH members seriously ill 92.45 93.19 -0.74 97.30 97.90 -0.60 99.26 99.59 -0.33 100.00 99.77 0.23 Livestock sick ---94.34 88.96 5.39** 98.11 96.40 1.72 99.63 99.76 -0.13 Death of livestock 8.70 21.35 -12.65** 11.48 9.26 2.22 100.0 98.33 1.67 100.00 99.24 0.76* Death of duck/hen ---1.51 0.66 0.85 99.71 99.80 -0.09 100.00 100.00 0.00 Notes: Significance of difference is examined using a t-test. Treatment and control sample comprises of 2098 and 1940 households, respectively. ***, ** and * refer to 1%, 5% and 10% level of significance, respectively.</p><p xml:id="_FXNAM5b">Table <ref type="table" target="#tab_3">A4</ref>. Probit regression of determinants of TUP programme participation using full sample (dependent variable 1 if treatment household; 0 otherwise).</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><figDesc xml:id="_TUqdFUQ">), medium-(2008 over 2002) and long-run (2011 over 2002) measures of programme impacts, respectively.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc xml:id="_AdzF5Jh">Difference-in-difference (DD) and DD-PSM estimates of the impact of the TUP programme on household assets.</figDesc><table><row><cell></cell><cell></cell><cell>DD</cell><cell></cell><cell></cell><cell>DD-PSM</cell><cell></cell></row><row><cell></cell><cell>T 2005* SUP</cell><cell>T 2008* SUP</cell><cell>T 2011* SUP</cell><cell>T 2005* SUP</cell><cell>T 2008* SUP</cell><cell>T 2011* SUP</cell></row><row><cell></cell><cell>(short-run impact,</cell><cell>(medium-run</cell><cell>(long-run impact,</cell><cell>(short-run impact,</cell><cell>(medium-run</cell><cell>(long-run impact,</cell></row><row><cell></cell><cell>2005-2002)</cell><cell>impact, 2008-2002)</cell><cell>2011-2002)</cell><cell>2005-2002)</cell><cell>impact, 2008-2002)</cell><cell>2011-2002)</cell></row><row><cell>Natural and physical asset</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>(individual index)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Homestead land owned</cell><cell>0.68***</cell><cell>0.96***</cell><cell>0.70***</cell><cell>0.01</cell><cell>0.29*</cell><cell>0.22</cell></row><row><cell>(decimal)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Cultivable land owned</cell><cell>0.60</cell><cell>1.09**</cell><cell>0.58</cell><cell>-0.40</cell><cell>-0.02</cell><cell>-0.33</cell></row><row><cell>(decimal)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>No. of cow/bull owned</cell><cell>1.58***</cell><cell>1.11***</cell><cell>0.61***</cell><cell>1.49***</cell><cell>1.03***</cell><cell>0.54***</cell></row><row><cell>No. of goat/sheep owned</cell><cell>0.40***</cell><cell>0.38***</cell><cell>0.19***</cell><cell>0.37***</cell><cell>0.38***</cell><cell>0.18***</cell></row><row><cell>No. of duck/hen owned</cell><cell>0.55***</cell><cell>1.96***</cell><cell>1.19***</cell><cell>0.50***</cell><cell>1.73***</cell><cell>0.81***</cell></row><row><cell>No. of rickshaw/van</cell><cell>0.05***</cell><cell>0.06***</cell><cell>0.02*</cell><cell>0.04***</cell><cell>0.04***</cell><cell>0.00</cell></row><row><cell>owned</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>No. of trees owned</cell><cell>0.65**</cell><cell>0.62**</cell><cell>0.76***</cell><cell>0.10***</cell><cell>0.18***</cell><cell>0.18***</cell></row><row><cell>No. of bed owned</cell><cell>0.13***</cell><cell>0.21***</cell><cell>0.22***</cell><cell>0.11***</cell><cell>0.18***</cell><cell>0.10*</cell></row><row><cell>No. of chair/table owned</cell><cell>0.07</cell><cell>0.13**</cell><cell>0.04</cell><cell>0.34*</cell><cell>0.60***</cell><cell>0.12</cell></row><row><cell>Aggregate index</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Aggregate business asset</cell><cell>0.08***</cell><cell>0.08***</cell><cell>0.05***</cell><cell>0.08***</cell><cell>0.07***</cell><cell>0.05***</cell></row><row><cell>Aggregate nonbusiness</cell><cell>0.01***</cell><cell>0.02***</cell><cell>-0.02***</cell><cell>0.01***</cell><cell>0.02***</cell><cell>0.02*</cell></row><row><cell>asset</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Aggregate transferred</cell><cell>0.08***</cell><cell>0.09***</cell><cell>0.05***</cell><cell>0.08***</cell><cell>0.08***</cell><cell>0.05***</cell></row><row><cell>asset</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Aggregate nontransferred</cell><cell>0.01***</cell><cell>0.03***</cell><cell>0.02***</cell><cell>0.02***</cell><cell>0.02***</cell><cell>0.02**</cell></row><row><cell>asset</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note xml:id="_p86B4Qk"><p>Notes: Results are obtained from OLS estimation of Equation 1. Each set of short-, medium-and long-term estimates (corresponding to an outcome variable) relates to parameters β 5 , β 6 and β 7 respectively in Equation 1. Other estimated parameters are not reported to save space. DD-PSM estimates are obtained by applying DD technique to matched sample observations. Aggregate asset indices have been constructed following the principal component analysis. ***, ** and * refer to 1%, 5% and 10% level of significance, respectively.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc xml:id="_3NS3dCb">Difference-in-difference (DD) and DD-PSM estimates of the impact of the TUP programme on primary occupation of the working aged individuals (15-60 years).</figDesc><table><row><cell></cell><cell></cell><cell>DD</cell><cell></cell><cell></cell><cell>DD-PSM</cell><cell></cell></row><row><cell></cell><cell>T 2005* SUP</cell><cell>T 2008* SUP</cell><cell>T 2011* SUP</cell><cell>T 2005* SUP</cell><cell>T 2008* SUP</cell><cell>T 2011* SUP</cell></row><row><cell></cell><cell>(short-run impact,</cell><cell>(medium-run impact,</cell><cell>(long-run impact,</cell><cell>(short-run impact,</cell><cell>(medium-run impact,</cell><cell>(long-run impact,</cell></row><row><cell></cell><cell>2005-2002)</cell><cell>2008-2002)</cell><cell>2011-2002)</cell><cell>2005-2002)</cell><cell>2008-2002)</cell><cell>2011-2002)</cell></row><row><cell>Female</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Farm-self employment</cell><cell>34.7***</cell><cell>25.6***</cell><cell>2.6</cell><cell>41.1***</cell><cell>32.2***</cell><cell>11.9***</cell></row><row><cell>Day labour</cell><cell>-12.2***</cell><cell>-14.1***</cell><cell>-9.3***</cell><cell>-15.3***</cell><cell>-16.0***</cell><cell>-5.9***</cell></row><row><cell>Nonfarm salaried</cell><cell>0.1</cell><cell>0.2</cell><cell>-0.1</cell><cell>0.6</cell><cell>0.7</cell><cell>-0.1</cell></row><row><cell>Nonfarm self</cell><cell>1.7**</cell><cell>-0.8</cell><cell>-0.6</cell><cell>2.7***</cell><cell>0.2</cell><cell>0.3</cell></row><row><cell>Begging</cell><cell>-1.6***</cell><cell>-1.4**</cell><cell>-1.1*</cell><cell>-1.7***</cell><cell>-1.8***</cell><cell>-1.1*</cell></row><row><cell>Servant</cell><cell>-7.4***</cell><cell>-7.5***</cell><cell>-5.3***</cell><cell>-6.6***</cell><cell>-5.8***</cell><cell>-2.4</cell></row><row><cell>Unemployed</cell><cell>0.0</cell><cell>-0.5</cell><cell>-0.5</cell><cell>0.5</cell><cell>-0.8</cell><cell>0.0</cell></row><row><cell>HH chores</cell><cell>-14.0***</cell><cell>-0.8</cell><cell>13.4***</cell><cell>-20.2***</cell><cell>-9.0***</cell><cell>-2.0</cell></row><row><cell>Male</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Farm-self employment</cell><cell>1.7*</cell><cell>1.3</cell><cell>-0.1</cell><cell>2.1**</cell><cell>1.4</cell><cell>0.0</cell></row><row><cell>Day labour</cell><cell>-8.8***</cell><cell>-9.1***</cell><cell>-6.7***</cell><cell>-9.4***</cell><cell>-9.5***</cell><cell>-5.4**</cell></row><row><cell>Nonfarm salaried</cell><cell>0.7</cell><cell>0.0</cell><cell>0.0</cell><cell>0.0</cell><cell>-0.4</cell><cell>0.1</cell></row><row><cell>Nonfarm self</cell><cell>5.6***</cell><cell>6.0***</cell><cell>3.0</cell><cell>4.4**</cell><cell>4.0**</cell><cell>0.2</cell></row><row><cell>Begging</cell><cell>-0.5</cell><cell>-0.5</cell><cell>-0.2</cell><cell>-0.5</cell><cell>-0.6</cell><cell>-0.2</cell></row><row><cell>Servant</cell><cell>-0.2</cell><cell>-0.2</cell><cell>-0.6*</cell><cell>0.6</cell><cell>0.3</cell><cell>0.3</cell></row><row><cell>Unemployed</cell><cell>1.2***</cell><cell>1.2***</cell><cell>1.1**</cell><cell>0.4</cell><cell>0.4</cell><cell>0.2</cell></row></table><note xml:id="_S299GUf"><p>Note: See Table1</p><p>.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 .</head><label>3</label><figDesc xml:id="_A9TuEFR">Difference-in-difference (DD) and DD-PSM estimates of the impact of the TUP programme on financial market participation.</figDesc><table><row><cell></cell><cell></cell><cell>DD</cell><cell></cell><cell></cell><cell>DD-PSM</cell><cell></cell></row><row><cell></cell><cell>T 2005* SUP</cell><cell>T 2008* SUP</cell><cell>T 2011* SUP</cell><cell>T 2005* SUP</cell><cell>T 2008* SUP</cell><cell>T 2011* SUP</cell></row><row><cell></cell><cell>(short-run impact,</cell><cell>(medium-run impact,</cell><cell>(long-run impact,</cell><cell>(short-run impact,</cell><cell>(medium-run impact,</cell><cell>(long-run impact,</cell></row><row><cell></cell><cell>2005-2002)</cell><cell>2008-2002)</cell><cell>2011-2002)</cell><cell>2005-2002)</cell><cell>2008-2002)</cell><cell>2011-2002)</cell></row><row><cell>Have cash savings</cell><cell>72.92***</cell><cell>70.12***</cell><cell>62.84***</cell><cell>66.16***</cell><cell>64.40***</cell><cell>53.12***</cell></row><row><cell>(of respondents)?</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Have outstanding loans</cell><cell>22.99***</cell><cell>23.43***</cell><cell>14.02***</cell><cell>16.53***</cell><cell>13.85***</cell><cell>3.74</cell></row><row><cell>(of HHs)?</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Have outstanding</cell><cell>4.26*</cell><cell>11.32***</cell><cell>3.17***</cell><cell>4.47***</cell><cell>13.07***</cell><cell>3.30***</cell></row><row><cell>lending (of HHs)?</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Amount of outstanding</cell><cell>1173***</cell><cell>659**</cell><cell>768**</cell><cell>552</cell><cell>-523</cell><cell>1563</cell></row><row><cell>loans (Tk.)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Taken loan from NGO?</cell><cell>42.81***</cell><cell>45.22***</cell><cell>37.70***</cell><cell>31.60***</cell><cell>41.77***</cell><cell>32.60***</cell></row><row><cell>Taken loan from</cell><cell>46.25***</cell><cell>-46.67***</cell><cell>-39.79***</cell><cell>-18.34***</cell><cell>-36.02***</cell><cell>-25.41***</cell></row><row><cell>informal sources?</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note xml:id="_tjptxcv"><p>Notes: The variable 'Taken loan from NGO' is defined on the basis of response to question 'Do you have any outstanding loan? If yes, then mention sources of loan and name of the sources'.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4 .</head><label>4</label><figDesc xml:id="_uzYRAK2">Difference-in-difference (DD) and DD-PSM estimates of the impact of the TUP programme on food security, food expenditure and income.</figDesc><table><row><cell></cell><cell></cell><cell>DD</cell><cell></cell><cell></cell><cell>DD-PSM</cell><cell></cell></row><row><cell></cell><cell>T 2005* SUP</cell><cell>T 2008* SUP</cell><cell>T 2011* SUP</cell><cell>T 2005* SUP</cell><cell>T 2008* SUP</cell><cell>T 2011* SUP</cell></row><row><cell></cell><cell>(short-run impact,</cell><cell>(medium-run</cell><cell>(long-run impact,</cell><cell>(short-run impact,</cell><cell>(medium-run</cell><cell>(long-run impact,</cell></row><row><cell></cell><cell>2005-2002)</cell><cell>impact, 2008-2002)</cell><cell>2011-2002)</cell><cell>2005-2002)</cell><cell>impact, 2008-2002)</cell><cell>2011-2002)</cell></row><row><cell>(a) Food security</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Always deficit</cell><cell>-31.76***</cell><cell>-25.63***</cell><cell>-19.68***</cell><cell>-28.85***</cell><cell>-17.15***</cell><cell>-13.91***</cell></row><row><cell>Somewhat deficit</cell><cell>12.12***</cell><cell>11.93***</cell><cell>11.84***</cell><cell>6.49**</cell><cell>5.96**</cell><cell>7.80***</cell></row><row><cell>Neither deficit nor surplus</cell><cell>14.96***</cell><cell>10.50***</cell><cell>7.15***</cell><cell>17.42***</cell><cell>9.10***</cell><cell>5.80***</cell></row><row><cell>Surplus</cell><cell>4.69***</cell><cell>3.20***</cell><cell>0.68</cell><cell>4.95***</cell><cell>2.09***</cell><cell>0.31</cell></row><row><cell>(b) Per capita food</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>expenditure and income</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Per capita food</cell><cell>-</cell><cell>3.52***</cell><cell>1.52***</cell><cell>-</cell><cell>2.43***</cell><cell>0.48**</cell></row><row><cell>expenditure (per day)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Per capita income (yearly)</cell><cell>969***</cell><cell>1802***</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell></row><row><cell>Note: See Table 1.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 5 .</head><label>5</label><figDesc xml:id="_deuA8xn">Difference-in-difference (DD) and DD-PSM estimates of the impact of the TUP programme on crisis and shocks.</figDesc><table><row><cell></cell><cell></cell><cell>DD</cell><cell></cell><cell></cell><cell>DD-PSM</cell><cell></cell></row><row><cell></cell><cell>T 2005* SUP</cell><cell>T 2008* SUP</cell><cell>T 2011* SUP</cell><cell>T 2005* SUP</cell><cell>T 2008* SUP</cell><cell>T 2011* SUP</cell></row><row><cell></cell><cell>(short-run impact,</cell><cell>(medium-run</cell><cell>(long-run impact,</cell><cell>(short-run impact,</cell><cell>(medium-run</cell><cell>(long-run impact,</cell></row><row><cell></cell><cell>2005-2002)</cell><cell>impact, 2008-2002)</cell><cell>2011-2002)</cell><cell>2005-2002)</cell><cell>impact, 2008-2002)</cell><cell>2011-2002)</cell></row><row><cell>(a) Crisis/incidence occurred in</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>last 1 year (yes = 1)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>House damaged</cell><cell>1.94</cell><cell>-2.28</cell><cell>-2.75</cell><cell>3.57</cell><cell>1.53</cell><cell>0.96</cell></row><row><cell>HH members seriously ill</cell><cell>-0.42</cell><cell>1.26</cell><cell>0.34</cell><cell>-1.72</cell><cell>-0.78</cell><cell>-0.70</cell></row><row><cell>Death of livestock</cell><cell>7.24***</cell><cell>4.79***</cell><cell>15.99***</cell><cell>7.13***</cell><cell>4.55***</cell><cell>17.03***</cell></row><row><cell>Death of duck/hen</cell><cell>-1.33**</cell><cell>8.30***</cell><cell>1.56</cell><cell>1.85</cell><cell>9.85***</cell><cell>0.59</cell></row><row><cell>Loss by thief/robbery</cell><cell>0.08</cell><cell>0.06</cell><cell>-0.75*</cell><cell>0.10</cell><cell>-0.01</cell><cell>-0.47</cell></row><row><cell>(b) Money spent for the</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>incidence (yes = 1)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>House damaged</cell><cell>-4.06</cell><cell>0.17</cell><cell>0.33</cell><cell>1.75</cell><cell>1.45</cell><cell>0.79</cell></row><row><cell>HH members seriously ill</cell><cell>0.14</cell><cell>0.42</cell><cell>1.97</cell><cell>-0.61</cell><cell>-0.65</cell><cell>-0.15</cell></row><row><cell>Livestock sick</cell><cell>5.39**</cell><cell>1.72</cell><cell>-0.13</cell><cell>28.13***</cell><cell>12.38***</cell><cell>5.73***</cell></row><row><cell>Death of livestock</cell><cell>10.87**</cell><cell>14.32**</cell><cell>13.42**</cell><cell>1.44***</cell><cell>4.69***</cell><cell>17.21***</cell></row><row><cell>Death of duck/hen</cell><cell>0.85</cell><cell>-0.09</cell><cell>0.00</cell><cell>0.30</cell><cell>9.86</cell><cell>0.59</cell></row></table><note xml:id="_n3e3yEc"><p>Note: See Table1</p><p>.</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_0"><p xml:id="_8cVFCxa">For instance, MFIs prefer moderately poor clients and nonagricultural portfolio<ref type="bibr" target="#b28">(Sengupta and Aubuchon 2008)</ref>.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p xml:id="_8Ry2WNK">Downloaded by [University of Cambridge] at 17:28 12 December 2015</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="3" xml:id="foot_2"><p xml:id="_VD9FmFe">The provision of stipend money helps protect against distress selling of assets to fight short-term food insecurity and hunger and in general continues up to 8-10 months.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_3"><p xml:id="_2xDPWfv">The progress made over the last decade has led BRAC to introduce the next phase of the programme. The second phase started in 2007 covering 40 districts and 300 000 beneficiaries<ref type="bibr" target="#b8">(Das and Shams 2011)</ref>.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="5" xml:id="foot_4"><p xml:id="_8uGtx9X">The propensity score matching approach is valid under the assumption that the differences in participation are solely based on observed characteristics of baseline survey. However, it is possible that during the selection process BRAC officials have favoured participants who are more motivated and ambitious but have lower ability. If so, treatment and control households are likely to differ with their unobservable characteristics. This remains an important caveat for our analysis.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="7" xml:id="foot_5"><p xml:id="_U8ZP39H">More than two-thirds of the CFPR-TUP graduates participated in BRAC microfinance<ref type="bibr" target="#b29">(Shams, Mahmud, and Das 2010)</ref>.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="8" xml:id="foot_6"><p xml:id="_5hAmGxU">An exception is DD and DD-PSM estimates on informal sources which indicate reduced dependence over time.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="11" xml:id="foot_7"><p xml:id="_Fee6nHa">Although initially introduced in Lalmonirhat, PRIME later covered Rangpur, Nilphamari, Gaibandha and Kurigram.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="12" xml:id="foot_8"><p xml:id="_C7XgdGY"><ref type="bibr" target="#b25">Krishna, Poghosyan, and Das (2012)</ref> also document vulnerability to downturns owing to negative events such as illnesses and house damage which has resulted in asset losses among SUP households.</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head xml:id="_PZZuxE4">Acknowledgements</head><p xml:id="_eFtGTh5">We would like to thank <rs type="person">Mahabub Hossain</rs>, <rs type="person">Narayan Chandra Das</rs>, <rs type="person">Peter Davis</rs> and <rs type="person">Simeen Mahmud</rs> for their helpful comments. We also received helpful suggestions from seminar participants at <rs type="institution">BAPPENAS (Indonesian Ministry of National Development Planning)</rs> on an earlier version of the paper. The usual disclaimers apply.</p></div>
+			</div>
+			<div type="funding">
+<div><head xml:id="_cKnvWQe">Funding</head><p xml:id="_aDHbGr9">We gratefully acknowledge support from the <rs type="funder">Research and Evaluation Division (RED) of BRAC</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_5Axgg5m">Disclosure Statement</head><p xml:id="_Y5RtZfy">No potential conflict of interest was reported by the authors.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_eyTdN6t">Appendix</head><p xml:id="_hqGPdBQ">Table <ref type="table">A1</ref>. Baseline comparison between attrition and nonattrition households <ref type="bibr">(2002)</ref><ref type="bibr">(2003)</ref><ref type="bibr">(2004)</ref><ref type="bibr">(2005)</ref><ref type="bibr">(2006)</ref><ref type="bibr">(2007)</ref><ref type="bibr">(2008)</ref><ref type="bibr">(2009)</ref><ref type="bibr">(2010)</ref><ref type="bibr">(2011)</ref>.</p><p xml:id="_Z4n5Hc4">Attrition during 2002-2011 Available HH in 2011 Attrition during 2002-2011 Available HH in 2011 Indicators Treatment Control Diff Treatment Control Diff Treatment + control Treatment + control Difference Has cash savings (of respondent women) 8.6 16.6 -8.0*** 8.5 22.1 -13.6*** 12.4 15.0 -2.6** Roof made of tin (of HHs) 47.9 57.8 -10.0*** 43.2 54.4 -11.2*** 52.7 48.6 4.1*** Use sanitary latrine (of HHs) 3.0 4.2 -1.1 2.2 4.6 -2.3*** 3.6 3.4 0.2 Present value of the living room (BDT) (mean) 927 1412 -485*** 861 1630 -769*** 1161 1230 -70 Face always food deficit (%) 66.8 44.8 22.0*** 62.2 39.6 22.6*** 56.2 51.4 4.8*** Mean cultivable land (decimal) 0.34 1.84 -1.50*** 0.36 2.88 -2.52*** 1.07 1.57 -0.51 Own cow (% of HHs) 1.6 8.2 -6.6*** 2.9 11.8 -8.9*** 4.8 7.2 -2.4*** Own poultry (% of HHs) 30.4 41.0 -10.6*** 32.0 48.5 -16.5*** 35.5 39.9 -4.4*** Household size 3.33 3.33 0.00 3.64 3.99 -0.35*** 3.33 3.81 -0.48*** Age of the household head 42 44 -2*** 43 43 0 43 43 0 Female headed households (%) 46.3 36.2 10.1*** 41.3 22.4 18.9*** 41.4 32.2 9.2*** Years of education of the household head 0.41 0.66 -0.25*** 0.32 0.65 -0.32*** 0.53 0.48 0.05 Sample size 1588 4038 1588 4038 Note: *** and ** refer to 1% and 5% level of significance, respectively.</p><p xml:id="_P9g7zUr">Table A2. Probit regression of treatment assignment as a determinant of sample attrition (dependent variable = 1 if nonattrition; 0 if attrition). (1) (2) Treatment household (1 if treatment; 0 if control) 0.0005 .00083 (0.96) (0.94) Village dummies No Yes Number of observations 5629 5629 Adjusted R 2 0.0832 0.00 Note: p-value in parenthesis.</p><p xml:id="_45ZCE89">Table A3. Mean differences in key outcome variables by year and programme membership status. 2002 2005 2008 2011 Natural and physical asset T 2002 C 2002 Diff T 2005 C 2005 Diff T 008 C 2008 Diff T 2011 C 2011 Diff Homestead land owned (decimal) 1.96 3.50 -1.55*** 2.35 3.21 -0.86*** 3.25 3.84 -0.58*** 2.78 3.63 -0.85*** Cultivable land owned (decimal) 0.39 2.86 -2.47*** 0.80 2.67 -1.87*** 1.33 2.71 -1.38*** 0.59 2.48 -1.89*** No. of cow/bull owned 0.05 0.20 -0.16*** 1.67 0.24 1.43*** 1.37 0.42 0.95*** 0.78 0.33 0.45*** No. of goat/sheep owned 0.11 0.14 -0.04** 0.52 0.16 0.36*** 0.62 0.28 0.34*** 0.34 0.18 0.16*** No. of duck/hen owned 0.88 1.50 -0.62*** 2.60 2.67 -0.07 3.86 2.52 1.34*** 2.05 1.47 0.57*** No. of rickshaw/van owned 0.02 0.04 -0.03*** 0.08 0.06 0.02** 0.10 0.07 0.03*** 0.00 0.00 0.00* No. of trees owned 0.59 1.36 -0.77*** 0.75 0.87 -0.12 3.83 3.98 -0.15 0.01 0.01 -0.01*** No. of bed owned 0.76 1.03 -0.26*** 1.10 1.23 -0.14*** 1.35 1.41 -0.06** 1.40 1.44 -0.04 No. of chair/table owned 0.22 0.54 -0.32*** 0.56 0.81 -0.25*** 0.89 1.07 -0.18*** 1.08 1.36 -0.28*** Effect of treatment on food security Always deficit 60.10 41.91 18.20*** 15.30 28.87 -13.57*** 21.02 28.45 -7.43*** 42.90 44.38 -1.48 Somewhat deficit 37.27 49.23 -11.95*** 53.67 53.51 0.17 57.20 57.22 -0.02 48.81 48.92 -0.11 Neither deficit nor surplus 2.57 7.53 -4.95*** 24.59 14.59 10.01*** 18.64 13.09 5.54*** 7.77 5.57 2.20*** Surplus 0.05 1.34 -1.29*** 6.43 3.04 3.39*** 3.15 1.24 1.91*** 0.52 1.13 -0.61** Per capita food expenditure and income Per capita food expenditure (per day) 60.10 41.91 18.20*** 15.30 28.87 -13.57*** 21.02 28.45 -7.43*** 42.90 44.38 -1.48 Per capita income (yearly) 37.27 49.23 -11.95*** 53.67 53.51 0.17 57.20 57.22 -0.02 48.81 48.92 -0.11 Primary occupation of the working-aged individuals (15-60 years)male Farm self-employment 3.1 3.7 -0.6 4.1 3.0 1.1* 4.5 3.7 0.7 5.7 6.4 -0.7 Day labour 66.7 59.6 7.1*** 53.6 55.4 -1.7 48.7 50.8 -2.0 52.7 52.3 0.4 Nonfarm salaried 3.2 4.2 -1.0 1.9 2.2 -0.4 1.9 3.0 -1.1** 4.6 5.6 -1.0 Nonfarm self-employment 16.1 22.8 -6.7*** 20.6 21.7 -1.2 19.0 19.8 -0.7 19.8 23.5 -3.7*** Begging 1.6 0.8 0.7** 0.8 0.6 0.2 0.7 0.5 0.3 0.9 0.4 0.6** Servant 2.1 1.4 0.7 0.5 0.1 0.4*** 0.6 0.1 0.5** 0.1 0.1 0.1 Unemployed 1.5 2.5 -1.0** 0.6 0.5 0.1 0.4 0.3 0.2 0.2 0.2 0.0 (Continued )</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="consolidated"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main" xml:id="_XZHxzsm">The world&apos;s most deprived : Characteristics and causes of extreme poverty and hunger</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">U</forename><surname>Ahmed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">V</forename><surname>Hill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Wiesmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Frankenberger</surname></persName>
+		</author>
+		<idno type="DOI">10.2499/0896297705</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_HRRXkbV">The World&apos;s Most Deprived: Characteristics and Causes of Extreme Poverty and Hunger</title>
+		<meeting><address><addrLine>Washington, DC</addrLine></address></meeting>
+		<imprint>
+			<publisher>International Food Policy Research Institute</publisher>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main" xml:id="_qJSC98f">Impact assessment of credit programme for the tenant farmers in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Mohammad</forename><forename type="middle">Abdul</forename><surname>Malek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Abu</forename><surname>Ahasan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Md.</forename><forename type="middle">Amzad</forename><surname>Hossain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Md.</forename><forename type="middle">Shakil</forename><surname>Ahmed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marup</forename><surname>Hossain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Md.</forename><forename type="middle">Hasib</forename><surname>Reza</surname></persName>
+		</author>
+		<idno type="DOI">10.23846/ow31222</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_PxXsRQp">Research Monograph Series</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<date type="published" when="2009">2009</date>
+			<publisher>International Initiative for Impact Evaluation</publisher>
+			<pubPlace>Dhaka</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Research and Evaluation Division</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main" xml:id="_xMe7NYb">Can Basic Entrepreneurship Transform the Economic Lives of the Poor?</title>
+		<author>
+			<persName><forename type="first">Oriana</forename><surname>Bandiera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robin</forename><surname>Burgess</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Narayan</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Selim</forename><surname>Gulesci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Imran</forename><surname>Rasul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Munshi</forename><surname>Sulaiman</surname></persName>
+		</author>
+		<idno type="DOI">10.2139/ssrn.2266813</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_a9hubqW">SSRN Electronic Journal</title>
+		<title level="j" type="abbrev">SSRN Journal</title>
+		<idno type="ISSNe">1556-5068</idno>
+		<imprint>
+			<biblScope unit="volume">7386</biblScope>
+			<date type="published" when="2013">2013</date>
+			<publisher>Elsevier BV</publisher>
+			<pubPlace>Bonn</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Institute for the Study of Labor (IZA</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b3">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Duflo</surname></persName>
+		</author>
+		<title level="m" xml:id="_E7wmHpU">Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty</title>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Public Affairs</publisher>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main" xml:id="_tfQuuuV">Long-term Effects of the Targeting the Ultra Poor Program</title>
+		<author>
+			<persName><forename type="first">Abhijit</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Esther</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Garima</forename><surname>Sharma</surname></persName>
+		</author>
+		<idno type="DOI">10.3386/w28074</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_u6tJ3EQ">Targeting the Hard-Core Poor: An Impact Assessment</title>
+		<imprint>
+			<publisher>National Bureau of Economic Research</publisher>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note>mimeo</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main" xml:id="_Pk83yNQ">A multifaceted program causes lasting progress for the very poor: Evidence from six countries</title>
+		<author>
+			<persName><forename type="first">Abhijit</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Esther</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nathanael</forename><surname>Goldberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dean</forename><surname>Karlan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Osei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">William</forename><surname>Parienté</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeremy</forename><surname>Shapiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bram</forename><surname>Thuysbaert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Udry</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.1260799</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_WA3yy3F">Science</title>
+		<title level="j" type="abbrev">Science</title>
+		<idno type="ISSN">0036-8075</idno>
+		<idno type="ISSNe">1095-9203</idno>
+		<imprint>
+			<biblScope unit="volume">348</biblScope>
+			<biblScope unit="issue">6236</biblScope>
+			<biblScope unit="page">1260799</biblScope>
+			<date type="published" when="2015-05-15">2015</date>
+			<publisher>American Association for the Advancement of Science (AAAS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main" xml:id="_9PBmSx9">Failure vs. displacement: Why an innovative anti-poverty program showed no net impact in South India</title>
+		<author>
+			<persName><forename type="first">Jonathan</forename><surname>Bauchet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jonathan</forename><surname>Morduch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shamika</forename><surname>Ravi</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jdeveco.2015.03.005</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_WDD2RQc">Journal of Development Economics</title>
+		<title level="j" type="abbrev">Journal of Development Economics</title>
+		<idno type="ISSN">0304-3878</idno>
+		<imprint>
+			<biblScope unit="volume">116</biblScope>
+			<biblScope unit="page" from="1" to="16" />
+			<date type="published" when="2015-09">2015</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b7">
+	<monogr>
+		<title level="m" type="main" xml:id="_2GNdeYx">Impact assessment of credit programme for the tenant farmers in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Mohammad</forename><forename type="middle">Abdul</forename><surname>Malek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Abu</forename><surname>Ahasan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Md.</forename><forename type="middle">Amzad</forename><surname>Hossain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Md.</forename><forename type="middle">Shakil</forename><surname>Ahmed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marup</forename><surname>Hossain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Md.</forename><forename type="middle">Hasib</forename><surname>Reza</surname></persName>
+		</author>
+		<idno type="DOI">10.23846/ow31222</idno>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>International Initiative for Impact Evaluation</publisher>
+			<pubPlace>Dhaka</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Research and Evaluation Division</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b8">
+	<monogr>
+		<title level="m" type="main" xml:id="_YRb5yht">Asset Transfer Program for the Ultra Poor: A Randomized Control Trial Evaluation</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Shams</surname></persName>
+		</author>
+		<idno>No. 22</idno>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>BRAC</publisher>
+			<pubPlace>Dhaka</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">CFPR Working Paper</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main" xml:id="_FVz7ets">The Trappings of Poverty: The Role of Assets and Liabilities in Socio-Economic Mobility in Rural Bangladesh</title>
+		<author>
+			<persName><forename type="first">Peter</forename><surname>Davis</surname></persName>
+		</author>
+		<idno type="DOI">10.2139/ssrn.1896138</idno>
+		<idno>No. 195</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Zpv6bgp">SSRN Electronic Journal</title>
+		<title level="j" type="abbrev">SSRN Journal</title>
+		<idno type="ISSNe">1556-5068</idno>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>Elsevier BV</publisher>
+			<pubPlace>Manchester</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Institute for Development Policy and Management, University of Manchester (IDPM)</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">CPRC Working Paper</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main" xml:id="_sJEYWjG">Assessing the Frontiers of Ultrapoverty Reduction: Evidence from Challenging the Frontiers of Poverty Reduction/Targeting the Ultra-poor, an Innovative Program in Bangladesh</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Shahe</forename><surname>Emran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Virginia</forename><surname>Robano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stephen</forename><forename type="middle">C</forename><surname>Smith</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/674110</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_ghxbPxh">Economic Development and Cultural Change</title>
+		<title level="j" type="abbrev">Economic Development and Cultural Change</title>
+		<idno type="ISSN">0013-0079</idno>
+		<idno type="ISSNe">1539-2988</idno>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="339" to="380" />
+			<date type="published" when="2014-01">2014</date>
+			<publisher>University of Chicago Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main" xml:id="_bvRbHgj">Who takes the credit? Gender, power, and control over loan use in rural credit programs in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Anne</forename><forename type="middle">Marie</forename><surname>Goetz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rina</forename><forename type="middle">Sen</forename><surname>Gupta</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0305-750x(95)00124-u</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Nb736FF">World Development</title>
+		<title level="j" type="abbrev">World Development</title>
+		<idno type="ISSN">0305-750X</idno>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="45" to="63" />
+			<date type="published" when="1996-01">1996</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main" xml:id="_s9HmAvt">Journal of International Development</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Halder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Mosley</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/(issn)1099-1328</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_HjdzVwm">Journal of International Development</title>
+		<idno type="ISSN">0954-1748</idno>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="387" to="406" />
+			<date type="published" when="2004">2004</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main" xml:id="_7REheR5">Linking Microfinance and Safety Net Programs to Include the Poorest: The Case of IGVGD in Bangladesh</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hashemi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_hngXYSy">Focus Note</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<date type="published" when="2001-05">2001. May</date>
+			<publisher>The Consultative Group to Assist the Poorest</publisher>
+			<pubPlace>Washington, DC</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main" xml:id="_2VZMgfZ">Reaching the Poorest: Lessons from the Graduation Model</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hashemi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Montesquiou</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_N9ctqau">CEGAP Focus Note</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<date type="published" when="2011-03-15">2011. 15 March</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main" xml:id="_24ym4Mn">Rural credit programs and women&apos;s empowerment in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Syed</forename><forename type="middle">M</forename><surname>Hashemi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sidney</forename><forename type="middle">Ruth</forename><surname>Schuler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ann</forename><forename type="middle">P</forename><surname>Riley</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0305-750x(95)00159-a</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_6E3C3UJ">World Development</title>
+		<title level="j" type="abbrev">World Development</title>
+		<idno type="ISSN">0305-750X</idno>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="635" to="653" />
+			<date type="published" when="1996-04">1996</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b16">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hossain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Asadullah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hossain</surname></persName>
+		</author>
+		<title level="m" xml:id="_tHeSBc9">Rising Food Prices and Household Food Security: Re-assessing the Impact of an Anti-poverty Program</title>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note>mimeo</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main" xml:id="_uYmyNe7">Household Exposure to Food Price Shocks in Rural Bangladesh</title>
+		<author>
+			<persName><forename type="first">Hanan</forename><forename type="middle">G</forename><surname>Jacoby</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Basab</forename><surname>Dasgupta</surname></persName>
+		</author>
+		<idno type="DOI">10.57138/hxuf1839</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_3Ehm4Xk">The Bangladesh Development Studies</title>
+		<title level="j" type="abbrev">BDS</title>
+		<idno type="ISSN">0304-095X</idno>
+		<imprint>
+			<biblScope unit="volume">XXXVII</biblScope>
+			<biblScope unit="issue">1 &amp; 2</biblScope>
+			<biblScope unit="page" from="83" to="101" />
+			<date type="published" when="2012">2012</date>
+			<publisher>Bangladesh Institute of Development Studies</publisher>
+			<pubPlace>Washington, DC</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b18">
+	<analytic>
+		<title level="a" type="main" xml:id="_RF5qSMs">Bangladesh - Poverty Assessment : Assessing a Decade of Progress in Reducing Poverty, 2000-2010</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Jolliffe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Sharif</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Gimenez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Ahmed</surname></persName>
+		</author>
+		<idno type="DOI">10.1596/16622</idno>
+	</analytic>
+	<monogr>
+		<title level="s" xml:id="_8bKKCaw">Bangladesh Development Series Paper</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<date type="published" when="2013-06">2013</date>
+			<publisher>World Bank, Dhaka</publisher>
+			<pubPlace>Washington, DC</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main" xml:id="_wChSvfw">Conflicts Over Credit: Re-Evaluating the Empowerment Potential of Loans to Women in Rural Bangladesh</title>
+		<author>
+			<persName><forename type="first">Naila</forename><surname>Kabeer</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0305-750x(00)00081-4</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_p8gt8MV">World Development</title>
+		<title level="j" type="abbrev">World Development</title>
+		<idno type="ISSN">0305-750X</idno>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="63" to="84" />
+			<date type="published" when="2001-01">2001</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b20">
+	<monogr>
+		<title level="m" type="main" xml:id="_wm2wC27">Can Social Safety Nets Alleviate Seasonal Deprivation? Evidence from Northwest Bangladesh</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Khandker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Khaleque</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Samad</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>The World Bank</publisher>
+			<biblScope unit="volume">5865</biblScope>
+			<pubPlace>Washinton, DC</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Policy Research Working Paper</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b21">
+	<monogr>
+		<title level="m" type="main" xml:id="_pmF7rEy">Seasonal and Extreme Poverty in Bangladesh: Evaluating an Ultra-Poor Microfinance Project</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Khandker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Khalily</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Samad</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>The World Bank</publisher>
+			<biblScope unit="volume">5331</biblScope>
+			<pubPlace>Washinton, DC</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Policy Research Working Paper</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main" xml:id="_e3fz6nT">Seasonal Hunger and Public Policies</title>
+		<author>
+			<persName><forename type="first">Shahidur</forename><forename type="middle">R</forename><surname>Khandker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wahiduddin</forename><surname>Mahmud</surname></persName>
+		</author>
+		<idno type="DOI">10.1596/978-0-8213-9553-0</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_fX8HaTd">Policy Brief</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>The World Bank</publisher>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b23">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><surname>Khandker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Samad</surname></persName>
+		</author>
+		<title level="m" xml:id="_gXTvw2F">Is Monga Persistent in Northwest Bangladesh? World Bank Working Paper</title>
+		<meeting><address><addrLine>Washinton, DC</addrLine></address></meeting>
+		<imprint>
+			<publisher>World Bank</publisher>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b24">
+	<analytic>
+		<title level="a" type="main" xml:id="_xE8h332">Timing and Duration of Exposure in Evaluations of Social Programs</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>King</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Behrman</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/wbro/lkn009</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_w6WGPTS">The World Bank Research Observer</title>
+		<title level="j" type="abbrev">The World Bank Research Observer</title>
+		<idno type="ISSN">0257-3032</idno>
+		<idno type="ISSNe">1564-6971</idno>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="55" to="82" />
+			<date type="published" when="2009-02-01">2009</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b25">
+	<analytic>
+		<title level="a" type="main" xml:id="_YfSX5Hw">How Much Can Asset Transfers Help the Poorest? Evaluating the Results of BRAC&apos;s Ultra-Poor Programme (2002–2008)</title>
+		<author>
+			<persName><forename type="first">Anirudh</forename><surname>Krishna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Meri</forename><surname>Poghosyan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Narayan</forename><surname>Das</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00220388.2011.621942</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_STgGztq">Journal of Development Studies</title>
+		<title level="j" type="abbrev">Journal of Development Studies</title>
+		<idno type="ISSN">0022-0388</idno>
+		<idno type="ISSNe">1743-9140</idno>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="254" to="267" />
+			<date type="published" when="2012-02">2012</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b26">
+	<analytic>
+		<title level="a" type="main" xml:id="_qHykFuF">Programs for the Poorest: Learning from the IGVGD Program in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Imran</forename><surname>Matin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><surname>Hulme</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0305-750x(02)00223-1</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_SmBE375">World Development</title>
+		<title level="j" type="abbrev">World Development</title>
+		<idno type="ISSN">0305-750X</idno>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="647" to="665" />
+			<date type="published" when="2003-03">2003</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b27">
+	<analytic>
+		<title level="a" type="main" xml:id="_trY5njz">Evaluating the long-term impact of anti-poverty interventions in Bangladesh: an overview</title>
+		<author>
+			<persName><forename type="first">Agnes</forename><forename type="middle">R</forename><surname>Quisumbing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bob</forename><surname>Baulch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Neha</forename><surname>Kumar</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/19439342.2011.570447</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_UAvEpsu">Journal of Development Effectiveness</title>
+		<title level="j" type="abbrev">Journal of Development Effectiveness</title>
+		<idno type="ISSN">1943-9342</idno>
+		<idno type="ISSNe">1943-9407</idno>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="153" to="174" />
+			<date type="published" when="2011-06">2011</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b28">
+	<analytic>
+		<title level="a" type="main" xml:id="_xP945EP">The Microfinance Revolution: An Overview</title>
+		<author>
+			<persName><forename type="first">Rajdeep</forename><surname>Sengupta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Craig</forename><forename type="middle">P</forename><surname>Aubuchon</surname></persName>
+		</author>
+		<idno type="DOI">10.20955/r.90.9-30</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_6NYmSJq">Review</title>
+		<title level="j" type="abbrev">r</title>
+		<imprint>
+			<biblScope unit="volume">90</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="9" to="30" />
+			<date type="published" when="2008-01">2008. January/February 2008</date>
+			<publisher>Federal Reserve Bank of St. Louis</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b29">
+	<analytic>
+		<title level="a" type="main" xml:id="_bBJa5jx">Integration of the Ultra Poor into Mainstream Development: How Effective is CFPR? CFPR Working Paper No. 21</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Shams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mahmud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">N</forename><surname>Das</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_c73aXAn">Dhaka: BRAC. Coefficient z-Value p-Value Female-headed household</title>
+		<imprint>
+			<biblScope unit="issue">0</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note>0.345 6.00 0.001 Household size 0.097 5.72 0.003 Amount of own land (decimal) -0.019 -6.60 0.001 Received government benefit (yes = 1; no = 0) -0.528 -2.85</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b30">
+	<analytic>
+		<title level="a" type="main" xml:id="_wHKq32h">YES, NO, MAYBE: THE AMBIGUOUS RELATIONSHIPS BETWEEN STATE‐OWNED ENTERPRISES AND THE STATE</title>
+		<author>
+			<persName><forename type="first">Carole</forename><surname>Rentsch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Matthias</forename><surname>Finger</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/apce.12096</idno>
+		<idno>-0.521 -0.97</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_mzC5bYb">Annals of Public and Cooperative Economics</title>
+		<title level="j" type="abbrev">Ann Public Coop Econ</title>
+		<idno type="ISSN">1370-4788</idno>
+		<idno type="ISSNe">1467-8292</idno>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="617" to="640" />
+			<date type="published" when="2001">-3.35 0.001</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+	<note>active female member 0.150 3.02 0.003 No. of active male member -0.256 -5.54 0.003 Owned cow/bull (yes = 1; no = 0) -0.545 -6.11 0.001 Owned goat/sheep (yes = 1; no = 0) -0.040 -0.50 0.618 Owned hen/duck (yes = 1; no = 0) -0.185 -4.20 0.00 Owned rickshaw/van (yes = 1; no = 0) -0.484 .106 Owned ornaments (yes = 1; no = 0) -0.061 -0.27 0.786 Owned shop (yes = 1; no = 0)</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b31">
+	<analytic>
+		<title level="a" type="main" xml:id="_zVxmhxk">Postscript:</title>
+		<idno type="DOI">10.2307/j.ctt1d9njw7.24</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_xqkPAhU">Sustainable Compromises</title>
+		<imprint>
+			<publisher>University of Nebraska Press</publisher>
+			<date type="published" when="2014-05-01" />
+			<biblScope unit="page" from="181" to="186" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b32">
+	<monogr>
+		<title level="m" type="main" xml:id="_MU4dueV">Figure 5.10. Children’s educational aspirations by socio-economic status of the household, by years of schooling</title>
+		<idno type="DOI">10.1787/888934039217</idno>
+		<idno>Constant -0.019 -0.23</idno>
+		<imprint>
+			<date type="published" when="0370">3.37 0.001</date>
+			<publisher>Organisation for Economic Co-Operation and Development (OECD)</publisher>
+		</imprint>
+	</monogr>
+	<note>(yes = 1; no = 0) -0.084 -1.99 0.047 Improved economic status in last 1 year 0.217</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,1738 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" xml:id="_qenvmYT">Effects of Government-Implemented Cash Plus Model on Violence Experiences and Perpetration Among Adolescents in Tanzania, 2018‒2019</title>
+				<funder ref="#_dzcnKKq">
+					<orgName type="full">UNICEF Office of Research-Innocenti</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Tanzania Social Action Fund (TASAF)</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Tanzania Commission for AIDS (TACAIDS)</orgName>
+				</funder>
+				<funder ref="#_vew4hAS">
+					<orgName type="full">United Kingdom&apos;s Department of International Development</orgName>
+				</funder>
+				<funder ref="#_XB8G4BN">
+					<orgName type="full">Swedish Development Cooperation Agency</orgName>
+				</funder>
+				<funder ref="#_sh5r2jb">
+					<orgName type="full">Irish Aid</orgName>
+				</funder>
+				<funder ref="#_ATcYP3Z">
+					<orgName type="full">UNICEF</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">(TASAF)</orgName>
+				</funder>
+				<funder ref="#_YcZ9ERT">
+					<orgName type="full">Oak Foundation</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Public Health Association</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2021-12">2021-12</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><roleName>PhD</roleName><forename type="first">Tia</forename><surname>Palermo</surname></persName>
+							<email>tiapaler@buffalo.edu</email>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Epidemiology and Environmental Health</orgName>
+								<orgName type="department" key="dep2">School of Public Health and Health Pro- fessions</orgName>
+								<address>
+									<addrLine>270 Farber Hall</addrLine>
+									<postCode>14214</postCode>
+									<settlement>Buffalo</settlement>
+									<region>NY</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Epidemiology and Environmental Health</orgName>
+								<orgName type="department" key="dep2">School of Public Health and Health Pro- fessions</orgName>
+								<address>
+									<addrLine>270 Farber Hall</addrLine>
+									<postCode>14214</postCode>
+									<settlement>Buffalo</settlement>
+									<region>NY</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MPH</roleName><forename type="first">Leah</forename><surname>Prencipe</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Epidemiology and Environmental Health</orgName>
+								<orgName type="department" key="dep2">School of Public Health and Health Pro- fessions</orgName>
+								<address>
+									<addrLine>270 Farber Hall</addrLine>
+									<postCode>14214</postCode>
+									<settlement>Buffalo</settlement>
+									<region>NY</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Lusajo</forename><surname>Kajula</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Epidemiology and Environmental Health</orgName>
+								<orgName type="department" key="dep2">School of Public Health and Health Pro- fessions</orgName>
+								<address>
+									<addrLine>270 Farber Hall</addrLine>
+									<postCode>14214</postCode>
+									<settlement>Buffalo</settlement>
+									<region>NY</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main" xml:id="_kj8haez">Effects of Government-Implemented Cash Plus Model on Violence Experiences and Perpetration Among Adolescents in Tanzania, 2018‒2019</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main" xml:id="_AA9dwmg">American Journal of Public Health</title>
+						<title level="j" type="abbrev">Am J Public Health</title>
+						<idno type="ISSN">0090-0036</idno>
+						<idno type="eISSN">1541-0048</idno>
+						<imprint>
+							<publisher>American Public Health Association</publisher>
+							<biblScope unit="volume">111</biblScope>
+							<biblScope unit="issue">12</biblScope>
+							<biblScope unit="page" from="2227" to="2238"/>
+							<date type="published" when="2021-12" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">BF4C9DAC2643BDC4BC509B2C82B112F8</idno>
+					<idno type="DOI">10.2105/ajph.2021.306509</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2025-11-04T23:54+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a292bac</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=1, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=true, generateTeiCoordinates=[true], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_J4Q7S2J"><p xml:id="_EVGwBsU">Objectives. To examine the impacts of a government-implemented cash plus program on violence experiences and perpetration among Tanzanian adolescents.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_MPYKujP">Methods.</head><p xml:id="_jwC7sCU">We used data from a cluster randomized controlled trial (n 5 130 communities) conducted in the Mbeya and Iringa regions of Tanzania to isolate impacts of the "plus" components of the cash plus intervention. The panel sample comprised 904 adolescents aged 14 to 19 years living in households receiving a government cash transfer. We estimated intent-to-treat impacts on violence experiences, violence perpetration, and pathways of impact.</p><p xml:id="_rsnMm2m">Results. The plus intervention reduced female participants' experiences of sexual violence by 5 percentage points and male participants' perpetration of physical violence by 6 percentage points. There were no intervention impacts on emotional violence, physical violence, or help seeking. Examining pathways, we found positive impacts on self-esteem and participation in livestock tending and, among female participants, a positive impact on sexual debut delays and a negative effect on school attendance.</p><p xml:id="_9hfmbQx">Conclusions. By addressing poverty and multidimensional vulnerability, integrated social protection can reduce violence.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="593.972" lry="783.042"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="593.972" lry="783.042"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="593.972" lry="783.042"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="593.972" lry="783.042"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="593.972" lry="783.042"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="593.972" lry="783.042"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="593.972" lry="783.042"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="593.972" lry="783.042"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="593.972" lry="783.042"/>
+		<surface n="10" ulx="0.0" uly="0.0" lrx="593.972" lry="783.042"/>
+		<surface n="11" ulx="0.0" uly="0.0" lrx="593.972" lry="783.042"/>
+		<surface n="12" ulx="0.0" uly="0.0" lrx="593.972" lry="783.042"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_TcDp9zK"><p xml:id="_uhD6Key">noncontributory social safety net programs, including cash transfers, found that social safety nets can contribute to VAC reduction. <ref type="bibr" target="#b9">10</ref> More recently, studies from Mali and Zimbabwe have demonstrated that household-targeted cash plus programs reduced violence experienced by children and youths. <ref type="bibr" target="#b12">13,</ref><ref type="bibr" target="#b13">14</ref> Violence impacts have also been Girls Empowerment Program). <ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref> Nevertheless, in Zambia, the Adolescent Girls Empowerment Program found no impacts on physical violence, intimate partner violence, or "unwanted sex," and an intervention implemented in Kampala, Uganda, found that providing girls with a savings account but no other life skills training increased the risk of unwanted sexual touching and harassment. <ref type="bibr" target="#b14">15,</ref><ref type="bibr" target="#b18">19</ref> When replicated in Tanzania, the Livelihood Empowerment for Adolescents intervention failed to demonstrate protective impacts, <ref type="bibr" target="#b19">20</ref> while another intervention in Liberia (Girl Empower) did not lead to reductions in violence. <ref type="bibr">21</ref> The aforementioned interventions were implemented by nongovernmental organizations, and, thus, evidence is needed on government-implemented programs, which have greater potential for sustainability and scale-up. Recent studies have called for additional research of at-scale programs to prevent violence within households, as well as programs tailored to reach adolescent girls. <ref type="bibr" target="#b21">22,</ref><ref type="bibr" target="#b22">23</ref> We examined impacts of the "plus" components from a government-run, multisectoral cash plus intervention on male and female adolescents' experiences and perpetration of violence.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_TZsYCRU">METHODS</head><p xml:id="_MtCEGdA">We used data from a longitudinal cluster randomized controlled trial (n 5 130 communities), which was implemented by United Nations Children's Fund (UNI-CEF) Office of Research-Innocenti, University at Buffalo, and EDI Global, in collaboration with Tanzania Social Action Fund (TASAF), Tanzania Commission for AIDS, and UNICEF Tanzania.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_Na2PyYR">Participants</head><p xml:id="_uxfXXj7">The cash plus intervention was piloted in 4 districts and targeted adolescents aged 14 to 19 years living in households participating in the Government of the Republic of Tanzania's flagship social protection program, the Productive Social Safety Net (PSSN). The PSSN reaches 1 million households nationally, providing a cash transfer every other month, livelihoods enhancement, and public works. <ref type="bibr" target="#b23">24</ref> Cash transfer payments were variable depending on school enrollment and health-related coresponsibilities, but these averaged US $7.10 per month (maximum US $21.70 per month), equivalent to approximately 16% of household consumption. <ref type="bibr" target="#b23">24,</ref><ref type="bibr" target="#b24">25</ref> All study households (intervention and control arms) had been enrolled in the PSSN since 2015 and received cash transfers. The intervention that was randomized was the </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_bmazecU">Procedures</head><p xml:id="_B4cdWJx">The "Ujana Salama" Cash Plus Model for Safe Transitions to a Healthy and Productive Adulthood intervention followed a capabilities approach <ref type="bibr" target="#b25">26,</ref><ref type="bibr" target="#b26">27</ref>  We used TASAF administrative data on PSSN enrollment (in 2015) to identify households that would have adolescents aged 14 to 19 years in 2017. We approached all of these households and aimed to interview all eligible youths (including new youths not registered in the household in 2015; Appendix F, available as a supplement to the online version of this article at <ref type="url" target="http://www.ajph.org">http://   www.ajph.org</ref>). Three rounds of data were collected: baseline (April-June 2017), round 2 (May-July 2018), and round 3 (June-August 2019). We used a split sample approach for modules on violence victimization and perpetration for male and female participants based on best practices guidance, in which male participants answered the violence module in one community and female participants in another, to protect confidentiality of participants and reduce the chance that a perpetrator-victim pair would both be interviewed. <ref type="bibr" target="#b27">28</ref> We provided anonymized referral information to respondents containing contact numbers for district social welfare officers. <ref type="bibr" target="#b28">29</ref> Interviews were conducted in Swahili with same-sex enumerators in private settings and data were entered into SurveyBe version 5.10.210 (EDI Global Limited, Gerrards Cross, UK) software via tablets.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_kgahNCj">Measures</head><p xml:id="_ScX3jdu">The primary outcomes were experienced violence (emotional, physical, sexual), help-seeking related to violence, and perpetration of physical and emotional violence in the past 12 months. We assessed these by using an adapted version of questionnaire items used in the World Health Organization (WHO) Multi-country Study on Women's Health and Domestic Violence, <ref type="bibr" target="#b29">30</ref> which draws on the Conflict Tactics Scale. <ref type="bibr" target="#b30">31</ref> We adapted these items to include any perpetrator (not just intimate partners) for the current study. Binary violence indicators for emotional, physical, and sexual violence were created from multiple items per violence type (Appendix E, available as a supplement to the online version of this article at <ref type="url" target="http://www.ajph.org">http://www.ajph.org</ref>). At baseline, because of an error in a dataentry skip pattern, sexual violence questions were only asked of individuals who reported ever having had sex.</p><p xml:id="_Hd6JzKW">In subsequent rounds, sexual violence questions were asked to all individuals selected for the violence module.</p><p xml:id="_892RVX7">Respondents experiencing any type of violence were then asked whether they had ever tried to seek help or tell anyone about the violence. In line with existing literature, <ref type="bibr" target="#b31">32,</ref><ref type="bibr" target="#b32">33</ref> we further categorized help seeking into formal and informal sources (Appendix E). Age-disparate sexual relationship was defined as having a sexual partner 5 or more years older, in line with previous studies. <ref type="bibr" target="#b33">34</ref> Self-perceived stress was measured using the Enhanced Life Distress Inventory, which measures distress across multiple areas of social life and functioning <ref type="bibr" target="#b34">35</ref> and results in an overall scale ranging from 0 to 39 and 3 subscales (economic and healthrelated well-being, risk and security, relationships). We measured selfefficacy by using a locus-of-control index <ref type="bibr" target="#b35">36,</ref><ref type="bibr" target="#b36">37</ref> and self-esteem by using 2 items from Rosenberg's self-esteem scale. <ref type="bibr" target="#b37">38</ref>  Activities were not mutually exclusive, and multitasking was reported as separate activities. An additional pathway examined elsewhere was genderequitable attitudes. <ref type="bibr" target="#b38">39</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_hWAWwkG">Statistical Analysis</head><p xml:id="_DMKkHfF">As policymakers are interested in understanding population impacts, we used intention-to-treat analyses to examine impacts of the program, including all clusters and adolescents, irrespective of program uptake (uptake was 48.5% among those eligible), <ref type="bibr" target="#b39">40</ref> among participants who were interviewed at all 3 rounds. We calculated </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_5mn57xR">RESULTS</head><p xml:id="_MuT9yAF">Out of 3599 adolescents found eligible at baseline, a total of 2458 completed interviews (68%). Among this baseline evaluation sample (n 5 2458), approximately half (n 5 1165) were interviewed for the violence questions, and, among these, 988 and 1033 were followed up at rounds 2 and 3, respectively, representing the panel samples (Appendix F). Among the panel sample interviewed at all 3 rounds (n 5 904), no adolescents had missing values for variables of interest. The average age of the sample at baseline was 16 years, 47.4% of the sample were female, and 57% were attending school (Table <ref type="table" target="#tab_0">1</ref>).</p><p xml:id="_V3Adgam">All background characteristics were balanced at baseline between study arms.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_6byfGeK">Outcomes</head><p xml:id="_AAR5K3k">At baseline, 35%, 27%, and 1% of adolescents reported having experienced emotional, physical, and sexual violence, respectively (Table <ref type="table" target="#tab_0">1</ref>). Physical and sexual violence outcomes were balanced at baseline in the pooled (male and female participants) sample, while emotional violence was not (39% of the treatment group vs 31% of controls had experienced emotional violence). Among those who had experienced physical or emotional violence (n 5 404), 31.7% reported seeking help or disclosing to someone (8.4% to for-  <ref type="table" target="#tab_2">2</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_kJ9ZcC4">Intervention Impacts</head><p xml:id="_HXSzhqj">By round 3, treatment adolescents had a 3-percentage-point reduction of experiencing sexual violence as a result of the intervention (b 5 20.03; 95% confidence interval [CI] 5 20.06, 20.00;</p><p xml:id="_S7Zuvdw">Table <ref type="table" target="#tab_2">2</ref>). The intervention had no impact on emotional or physical violence experiences in the pooled sample, nor on help seeking (formal or informal sources). When examining impacts separately by gender, we saw that the sexual violence impacts were driven by the female sample, who experienced a 5-percentage-point reduction in sexual violence (b 5 20.05; 95% CI 5 20.10, 20.00; Table <ref type="table" target="#tab_3">3</ref>) as a result of the program (there were no impacts on this indicator among male participants, who reported low rates of sexual violence; Table <ref type="table" target="#tab_3">3</ref>). Impacts at round 2 are presented in Appendix H (available as a supplement to the online version of this article at <ref type="url" target="http://www.ajph.org">http://www.ajph.org</ref>).</p><p xml:id="_96Z6Z5Q">In the pooled sample we found no impacts on emotional and physical violence perpetration. However, when we examined male and female participants separately, we found that male participants were less likely to report physical violence perpetration as a result of the intervention (b 5 20.06; 95% CI 5 20.10, 20.02; Table <ref type="table" target="#tab_3">3</ref>). There were no impacts on emotional violence There were no impacts on help seeking among either gender (Table <ref type="table" target="#tab_3">3</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_EFzUvwr">Pathways Analyses</head><p xml:id="_9WSHYzP">We found positive impacts on participation in livestock herding for the household (b 5 0.09; 95% CI 5 0.02, 0.17;</p><p xml:id="_nJTU6hV">Table 4) and self-esteem (b 5 0.19; 95% CI 5 0.08, 0.29). There were no intervention impacts on self-perceived stress, self-efficacy (locus of control), marriage or cohabitation, school attendance, or age-disparate relationships. When we examined pathway impacts separately by gender (Appendix I, available as a supplement to the online version of this article at <ref type="url" target="http://www.ajph.org">http://www.ajph.   org</ref>), we saw that changes in livestock herding were driven by female participants (b 5 0.14; 95% CI 5 0.03, 0.24), while we observed increases in selfesteem for both female (b 5 0.19; 95% CI 5 0.05, 0.33) and male participants (b 5 0.29; 95% CI 5 0.05, 0.36). In addition, among female participants, we found a protective impact on delaying age at first sexual intercourse (b 5 20. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_D2Vps5w">Robustness Check</head><p xml:id="_ewC7UBy">Difference-in-differences models confirmed findings from the singledifference models with respect to null impacts on emotional and physical violence (Appendix J, available as a  supplement to the online version of this article at <ref type="url" target="http://www.ajph.org">http://www.ajph.org</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_FtFsn7B">Average-Treatment-on-the-Treated Analyses</head><p xml:id="_SQqv3Hk">Average-treatment-on-the-treated estimates were in the same direction and maintained the same significance levels </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_CK2Gfrg">Perpetrators</head><p xml:id="_tvRUEj5">Among those who reported emotional or physical violence at baseline (n 5 402), the most common perpetrators were peers (45%) and family members (41%), followed by partner or spouse (27%), and then authorities (21%; Appendix M). Other perpetrators were reported by only 3% of respondents. Subsequently, at round 3, those reporting physical or emotional violence (n 5 316) reported the most common perpetrators as peers (44%), partner or spouse (34%), and family members (25%; Appendix N, available as a supplement to the online version of this article at <ref type="url" target="http://www.ajph.org">http://www.ajph.org</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_XrVq2Zy">DISCUSSION</head><p xml:id="_VEj9KpD">We examined the effects of a government-implemented cash plus program targeted to adolescents and found that the intervention reduced  The intervention led to an increase in equitable gender attitudes (including around violence) among male participants, examined elsewhere. <ref type="bibr" target="#b38">39</ref> This pathway may partly explain decreases in physical violence perpetration, as attitudes about sex, gender, normative behaviors, and hostile masculinity are learned in adolescence, <ref type="bibr" target="#b40">41,</ref><ref type="bibr" target="#b42">43</ref> and, thus, this is a key window to model equitable gender norms and healthy relationships. <ref type="bibr" target="#b43">44</ref> These findings may have implications for reducing future violence perpetration.</p><p xml:id="_dURmeEJ">Our findings are consistent with those from an intervention in Uganda <ref type="bibr" target="#b15">16</ref> but are in contrast with studies from Uganda, Zambia, and Liberia that did not find protective effects against violence. <ref type="bibr" target="#b14">15,</ref><ref type="bibr" target="#b18">19,</ref><ref type="bibr">21</ref> These mixed findings underscore that context matters in violence-reduction interventions, as do program design and implementation. Among the cited studies, there is variation in program components, implementing agencies, and dosage of exposure to components. It is difficult to make conclusions about which combinations are most effective in reducing VAC because few studies have tested different combinations of components, and there have been limited examples of the same program being implemented in multiple contexts. In our own study, we were unable to distinguish impacts of the individual intervention components because we could not vary program components across villages.</p><p xml:id="_xTNTXTe">Studies that have evaluated impacts of cash transfers (in contrast with our study, which only evaluated the "plus" components in cash plus) have found positive impacts on school attendance, <ref type="bibr">45,</ref><ref type="bibr">46</ref> reductions in intimate partner violence among adolescents, <ref type="bibr" target="#b33">34</ref> and reductions in other violence-related outcomes among children and adolescents. <ref type="bibr" target="#b9">10</ref> These studies are not in contrast with our findings, because the interventions studied were different (cash transfers vs "plus" components).</p><p xml:id="_zEsBs3D">Other studies examining effects of cash plus programs have found that these reduced violence against adolescents and youths, <ref type="bibr" target="#b13">14</ref> as well as harsh discipline or corporal punishment among young children. <ref type="bibr" target="#b12">13,</ref><ref type="bibr">47,</ref><ref type="bibr">48</ref> Limitations Generalizability of the results to all adolescents in Tanzania is limited. In</p><p xml:id="_xqethNP">addition, the productive grant was disbursed shortly before round 3, and, thus, full impacts of the intervention may not have fully materialized. During round 3 fieldwork, households experienced a delay in PSSN payments for the first time, and this may have mitigated impacts of the cash plus program. Underreporting of violence is not expected to be correlated with treatment status and therefore should not bias impact estimates. Perpetration of physical and emotional violence was not assessed at baseline so we could not assess balance between intervention arms before program roll-out. Our study design did not allow us to disentangle effects of the different program components, and, thus, we could not conclude which components may have contributed more to violence reduction. Finally, it is possible that our subanalyses were subject to type II errors, as power is reduced as sample sizes are reduced, and ability to make conclusions about heterogeneous treatment effects is limited. A key factor in the successful implementation of this intervention was multisectoral coordination, including at the district level, where staff were based and activities were implemented. While most program components were administered through PSSN structures, health facilities strengthening was carried out by Ministry of Health, Community Development, Gender, Elderly, and Children, with technical support from UNICEF.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_79CDeA5">Conclusions</head><p xml:id="_myab8yr">Multisectoral approaches are increasingly advocated to address the drivers of violence. Our study showed that a government-run, multisectoral cash plus intervention reduced violence experiences and perpetration. The broad potential reach of similar scalable interventions has implications for VAC reduction at the population level.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_KuR9fVa">ABOUT THE AUTHORS</head><p xml:id="_TQD3Udh">Tia Palermo is with the the Department of Epidemiology and Environmental Health, School of Public Health and Health Professions, University at Buffalo, State University of New York. Leah Prencipe is a PhD candidate and is with the Department of Public Health, Erasmus MC, University Medical Centre, Rotterdam, the Netherlands, and the Social and Economic Policy Unit, United Nations Children's Fund (UNICEF) Office of Research-Innocenti, Florence, Italy. Lusajo Kajula is with the Social and Economic Policy Unit, UNI-CEF Office of Research-Innocenti. low-and middle-income countries: conceptualization, influences and outcomes. Innocenti Discussion Papers. Florence, Italy: UNICEF Office of Research; 2017. 45. Baird S, Ferreira FHG, € Ozler B, Woolcock M. Conditional, unconditional and everything in between: a systematic review of the effects of cash transfer programmes on schooling outcomes. J Dev Effect. 2014;6(1):1-43. <ref type="url" target="https://doi.org/10.1080/19439342.2014.890362">https://doi.  org/10.1080/19439342.2014.890362</ref> 46. De Hoop J, Gichane MW, Groppo V, Zuilkowski SS, on behalf of the Productive Social Safety Net Youth Evaluation Team. Cash transfers, public works and child activities: mixed methods evidence from the United Republic of Tanzania. Working Paper Series (WP-2020-03). Florence, Italy: UNICEF Office of Research-Innocenti; 2020. 47. Roelen K, Saha A. Pathways to stronger futures? The role of social protection in reducing psychological risk factors for child development in Haiti. World Dev. 2021;142:105423. <ref type="url" target="https://doi.org/10.1016/j.worlddev.2021.105423">https://doi.org/10.  1016/j.worlddev.2021.105423</ref> 48. Roy S, Hidrobo M, Hoddinott J, Ahmed A. Transfers, behavior change communication, and intimate partner violence: postprogram evidence from rural Bangladesh. Rev Econ Stat. 2019;101(5):865-877. <ref type="url" target="https://doi.org/10.1162/rest_a_00791">https://doi.org/10.1162/  rest_a_00791</ref> </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><figDesc xml:id="_SYHGEQp">examined in bundled interventions targeted to adolescents comprising components related to economic strengthening, life skills, and strengthening health capabilities, but the evidence is mixed. Interventions in sub-Saharan Africa show reductions in forced sex in Uganda (Livelihood Empowerment for Adolescents), physical or sexual violence in Zimbabwe (Shaping the Health of Adolescents in Zimbabwe) and Kenya (Adolescent Girls Initiative), and reduced participation in transactional sex in Zambia (Adolescent</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>"</head><figDesc xml:id="_jBG44NG">plus" components targeted to adolescents. We used a sample size calculation to determine the number of clusters required (Appendix A, available as a supplement to the online version of this article at http://www.ajph.org). Randomization Random assignment of 130 villages into study arms (65 intervention and 65 control) was conducted in July 2017, after completion of the baseline surveys, and was stratified by TASAF administrative areas (program administrative areas, corresponding to Mafinga and Mufindi districts in Iringa, and Rungwe and Busokelo districts in Mbeya) and village size (large vs small villages).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><figDesc xml:id="_EUZ6wRf">to strengthen youth productive, human, and health assets (Conceptual Framework in Appendix B, available as a supplement to the online version of this article at http://www.ajph.org). Guiding principles included government ownership, implementation within the PSSN livelihoods enhancement strategy and existing government frameworks, linkages with other government services, and age-and gender-sensitive livelihoods interventions. The intervention comprised (1) faceto-face livelihoods and life skills training delivered 2 hours per week over 12 weeks (January-May 2018); (2) mentoring (occurring biweekly and then monthly between July 2018 and March 2019) and a productive grant (totaling US $80 disbursed in up to 2 payments between March and June 2019), conditional on having attended trainings and developing an approved educational or business plan; and (3) facilitated linkages to adolescent-friendly HIV and sexual and reproductive health services in government health facilities (July 2018-March 2019; Appendix C, available as a supplement to the online version of this article at http://www.ajph. org). The training included sessions on livelihoods, sexual and reproductive health, and HIV prevention and treatment, including a bundle of high-impact behavior change communication approaches and peer support groups (topics summarized in Appendix C). During mentoring, adolescents were provided with linkages to training and apprenticeship activities, input on business plans, peer education, and linkages to health facilities (Activities in Appendix D, available as a supplement to the online version of this article at http://www.ajph.org). Two mentors (1 male, 1 female) were selected per village. Addressing supply of health services, UNICEF worked with the Ministry of Health, Community Development, Gender, Elderly, and Children to perform a training in July 2019 with staff at government primary health care facilities in treatment villages to strengthen adolescent-friendly services.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><figDesc xml:id="_KPCXxV4">We added questions on violence perpetration at round 3. Binary perpetration indicators were created separately for 12-month emotional and physical violence based on items summarized in Appendix D. Intermediate pathways examined included age at first sexual intercourse, entry into marriage or cohabitation, engaging in an age-disparate sexual relationship, self-perceived stress, self-efficacy, self-esteem, school attendance, and time use (Appendix E).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><figDesc xml:id="_2vuyVat">For time use, we examined participation in 5 types of economic activities performed in the past 7 days (farm work, livestock herding, fishing, nonagricultural business, paid work outside the household) and household chores performed in the previous day (collecting water; collecting firewood or other fuel materials; collecting nuts or other tree fruits; taking care of children, cooking, or cleaning; and taking care of the elderly or sick household members).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><figDesc xml:id="_QKe24Fr">intervention effects with data separately at each follow-up round by using ordinary least squares for continuous outcomes and linear probability models for binary outcomes. For continuous and binary outcomes, we reported b coefficients. We adjusted the regression models for age, sex, and stratum (district and village size), and we adjusted standard errors for clustering and heteroskedasticity by using the VCE (robust) command in Stata version 16 (StataCorp LP, College Station, TX). We further calculated average-treatment-on-the-treated estimates by using 2-stage least squares regressions with linear probability models, in which we predicted program take up in the first-stage regressions and treatment impacts on the treated in the second stage. We tested program impacts on potential pathways of impact at rounds 2 and 3, and then tested pathway impacts by gender at round 3 only. We describe perpetrators of violence descriptively only, given low proportions in the categories of perpetrators and limited power to estimate program impacts.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><figDesc xml:id="_SjbyvF9">mal sources vs 24.5% to informal sources). Examining indicators by gender, we found evidence for baseline balance for all characteristics and outcomes, except farm work for the household excluding livestock among female participants and experience of physical violence and informal reporting of violence among male participants (Appendix G, available as a supplement to the online version of this article at http:// www.ajph.org). By round 3, experiences of violence among the control (treatment) group were 33% (29%) for emotional violence, 13% (11.1%) for physical violence, and 6% (2%) for sexual violence (Table</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>3 12 5</head><label>35</label><figDesc xml:id="_PmKtQXq">55; 95% CI 5 21.02, 20.09) and a negative impact on school attendance (b 5 20.10; 95% CI 5 20.19, 0.00). This delay in sexual debut translates to approximately half a year (0.55 6.6 months).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head>but were generally 2</head><label>2</label><figDesc xml:id="_rEA7DbM">to 3 times larger in magnitude as compared with intentionto-treat estimates (Appendices K, L, and M, available as supplements to the online version of this article at http:// www.ajph.org). We found impacts on the economic and health-related well-being stress Enhanced Life Distress Inventory subscale to be statistically significant (b 5 21.40; 95% CI 5 22.65, 20.14) in the average-treatment-on-the-treated models, but not in intention-to-treat models.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_9"><graphic coords="12,227.62,78.12,326.19,297.35" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>TABLE 1 -</head><label>1</label><figDesc xml:id="_CCmzd3g">Sample Characteristics at Baseline by Treatment Status: Tanzania Adolescent Cash PlusStudy, 2017, Iringa and Mbeya Regions of Tanzania</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell>RESEARCH &amp; ANALYSIS</cell></row><row><cell></cell><cell>Full Sample (n 5 904),</cell><cell>Cash Plus (Intervention; n 5 440),</cell><cell>Cash Only (Control; n 5 464),</cell></row><row><cell>Variables</cell><cell>Mean 6SD or No. (%)</cell><cell>Mean 6SD or No. (%)</cell><cell>Mean 6SD or No. (%)</cell></row><row><cell></cell><cell cols="2">General characteristics</cell><cell></cell></row><row><cell>Female</cell><cell>429 (47)</cell><cell>204 (46)</cell><cell>225 (48)</cell></row><row><cell>Age, y</cell><cell>16.0 61.6</cell><cell>15.9 61.5</cell><cell>16.0 61.6</cell></row><row><cell>Age of household head, y</cell><cell>58.7 616.4</cell><cell>58.8 616.3</cell><cell>58.5 616.5</cell></row><row><cell>Female-headed household</cell><cell>603 (67)</cell><cell>288 (65)</cell><cell>315 (68)</cell></row><row><cell>Mufindi or Mafinga districts</cell><cell>475 (53)</cell><cell>239 (54)</cell><cell>236 (51)</cell></row><row><cell></cell><cell></cell><cell>Primary outcomes</cell><cell></cell></row><row><cell>Experiences of violence</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Emotional</cell><cell>318 (35)</cell><cell>136 (31)</cell><cell>182 (39)</cell></row><row><cell>Physical</cell><cell>247 (27)</cell><cell>109 (25)</cell><cell>138 (30)</cell></row><row><cell>Sexual a</cell><cell>8 (1)</cell><cell>4 (1)</cell><cell>4 (1)</cell></row><row><cell>Help seeking for emotional or</cell><cell></cell><cell></cell><cell></cell></row><row><cell>physical violence (n 5 402)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Any</cell><cell>128 (32)</cell><cell>50 (28)</cell><cell>78 (35)</cell></row><row><cell>Formal</cell><cell>34 (8)</cell><cell>14 (8)</cell><cell>20 (9)</cell></row><row><cell>Informal</cell><cell>99 (25)</cell><cell>35 (20)</cell><cell>64 (28)</cell></row><row><cell></cell><cell cols="2">Intermediate pathway outcomes</cell><cell></cell></row><row><cell>Age at first sexual intercourse</cell><cell>15.9 61.8</cell><cell>15.8 61.7</cell><cell>15.9 62.0</cell></row><row><cell>(n 5 137), y</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Age-disparate sex (female</cell><cell>18 (26)</cell><cell>6 (19)</cell><cell>12 (33)</cell></row><row><cell>participants only; n 5 68)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Locus of control index</cell><cell>3.2 60.5</cell><cell>3.3 60.5</cell><cell>3.2 60.5</cell></row><row><cell>Self-esteem index</cell><cell>3.9 60.8</cell><cell>4.0 60.8</cell><cell>3.9 60.8</cell></row><row><cell>ELDI (0-39)</cell><cell>3.3 64.7</cell><cell>3.3 64.7</cell><cell>3.3 64.6</cell></row><row><cell>ELDI economic and health-</cell><cell>2.7 63.5</cell><cell>2.6 63.5</cell><cell>2.8 63.5</cell></row><row><cell>related well-being subscale</cell><cell></cell><cell></cell><cell></cell></row><row><cell>ELDI risk subscale</cell><cell>0.3 61.0</cell><cell>0.3 61.0</cell><cell>0.2 60.9</cell></row><row><cell>ELDI relations subscale</cell><cell>0.3 61.2</cell><cell>0.4 61.3</cell><cell>0.3 61.1</cell></row><row><cell>Currently attending school</cell><cell>512 (57)</cell><cell>254 (58)</cell><cell>258 (56)</cell></row><row><cell>Has a spouse or cohabitating</cell><cell>1 (0)</cell><cell>0 (0)</cell><cell>1 (0)</cell></row><row><cell>partner</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Time use indicators</cell><cell></cell><cell></cell><cell></cell></row><row><cell>(% participating)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Any economic activities</cell><cell>709 (78)</cell><cell>347 (79)</cell><cell>362 (78)</cell></row><row><cell>Paid work outside the</cell><cell>121 (13)</cell><cell>52 (12)</cell><cell>69 (15)</cell></row><row><cell>household</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Farm work for the household,</cell><cell>598 (66)</cell><cell>298 (68)</cell><cell>300 (65)</cell></row><row><cell>excluding livestock</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Livestock herding for the</cell><cell>433 (48)</cell><cell>213 (48)</cell><cell>220 (47)</cell></row><row><cell>household</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Fishing for the household</cell><cell>14 (2)</cell><cell>7 (2)</cell><cell>7 (2)</cell></row><row><cell>Household business</cell><cell>41 (5)</cell><cell>16 (4)</cell><cell>25 (5)</cell></row><row><cell>Any chores</cell><cell>811 (90)</cell><cell>404 (92)</cell><cell>407 (88)</cell></row><row><cell>Collecting water</cell><cell>607 (67)</cell><cell>316 (72)</cell><cell>291 (63)</cell></row><row><cell>Collecting firewood</cell><cell>358 (40)</cell><cell>193 (44)</cell><cell>165 (36)</cell></row><row><cell>Collecting nuts and other tree</cell><cell>120 (13)</cell><cell>63 (14)</cell><cell>57 (12)</cell></row><row><cell>fruits</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell>Continued</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>TABLE 1 -</head><label>1</label><figDesc xml:id="_X3j2vFE">ContinuedNote. ELDI 5 Enhanced Life Distress Inventory. Economic activities included those conducted in the previous week, and time-use activities have a reference period of the previous day.The sexual violence indicator included in this table differs from those used in impacts analyses in Tables2 and 3because of a skip pattern error at baseline, whereby only adolescents who reported having had sexual intercourse were asked questions about sexual violence. In subsequent waves, all youths in the violence module were asked questions about sexual violence, which may include other forced sexual acts.</figDesc><table><row><cell></cell><cell>Full Sample (n 5 904),</cell><cell>Cash Plus (Intervention; n 5 440),</cell><cell>Cash Only (Control; n 5 464),</cell></row><row><cell>Variables</cell><cell>Mean 6SD or No. (%)</cell><cell>Mean 6SD or No. (%)</cell><cell>Mean 6SD or No. (%)</cell></row><row><cell>Taking care of children,</cell><cell>661 (73)</cell><cell>327 (74)</cell><cell>334 (72)</cell></row><row><cell>cooking, or cleaning</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Taking care of elderly or sick</cell><cell>211 (23)</cell><cell>109 (25)</cell><cell>102 (22)</cell></row></table><note xml:id="_dsFkBaU"><p>a</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>TABLE 2 -</head><label>2</label><figDesc xml:id="_aZe4A9x">Intervention Effects (Intent-to-Treat) on Violence at Round 3: Tanzania Adolescent Cash Plus Study, 2019, Iringa and Mbeya Regions of Tanzania</figDesc><table><row><cell>Variables</cell><cell>Cash Plus, No. (%)</cell><cell>Cash Only, No. (%)</cell><cell>b (95% CI)</cell></row><row><cell>Experienced</cell><cell>440</cell><cell>464</cell><cell></cell></row><row><cell>Emotional violence</cell><cell>126 (29)</cell><cell>155 (33)</cell><cell>20.05 (20.11, 0.02)</cell></row><row><cell>Physical violence</cell><cell>49 (11)</cell><cell>58 (13)</cell><cell>20.01 (20.06, 0.03)</cell></row><row><cell>Sexual violence</cell><cell>10 (2)</cell><cell>26 (6)</cell><cell>20.03 (20.06, 0.00)</cell></row><row><cell>Emotional, physical, or sexual violence</cell><cell>148 (34)</cell><cell>181 (39)</cell><cell>20.05 (20.12, 0.02)</cell></row><row><cell>Sought help</cell><cell>148</cell><cell>181</cell><cell></cell></row><row><cell>Any</cell><cell>61 (41)</cell><cell>76 (42)</cell><cell>20.02 (20.13, 0.10)</cell></row><row><cell>Formal</cell><cell>11 (7)</cell><cell>11 (6)</cell><cell>0.02 (20.03, 0.07)</cell></row><row><cell>Informal</cell><cell>54 (36)</cell><cell>65 (36)</cell><cell>0.00 (20.11, 0.11)</cell></row><row><cell>Perpetrated</cell><cell>440</cell><cell>464</cell><cell></cell></row><row><cell>Emotional violence</cell><cell>19 (4)</cell><cell>28 (6)</cell><cell>20.02 (20.05, 0.02)</cell></row><row><cell>Physical violence</cell><cell>16 (4)</cell><cell>30 (6)</cell><cell>20.03 (20.06, 0.00)</cell></row></table><note xml:id="_sh4J6zA"><p>Note. CI 5 confidence interval. Linear probability models, male and female participants. Models controlled for age, gender, and stratum (district and village size); only coefficients on treatment indicator are shown. Standard errors are clustered at the community level.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>TABLE 3 -</head><label>3</label><figDesc xml:id="_MewZYaV">Intervention Effects (Intent-to-Treat) on Violence at Round 3: Tanzania Adolescent Cash Plus Study, 2019, Iringa and Mbeya Regions of Tanzania Note. CI 5 confidence interval. Linear probability models, by gender. Models controlled for age, gender, and stratum (district and village size); only coefficients on treatment indicator are shown. Standard errors are clustered at the community level.</figDesc><table><row><cell>Variables</cell><cell>Cash Plus, No. (%)</cell><cell>Cash Only, No. (%)</cell><cell>b (95% CI)</cell></row><row><cell></cell><cell cols="2">Male participants</cell><cell></cell></row><row><cell>Experienced</cell><cell>236</cell><cell>239</cell><cell></cell></row><row><cell>Emotional violence</cell><cell>58 (25)</cell><cell>77 (32)</cell><cell>20.07 (20.16, 0.01)</cell></row><row><cell>Physical violence</cell><cell>23 (10)</cell><cell>30 (13)</cell><cell>20.01 (20.07, 0.05)</cell></row><row><cell>Sexual violence</cell><cell>5 (2)</cell><cell>11 (5)</cell><cell>20.03 (20.07, 0.01)</cell></row><row><cell>Sought help</cell><cell>65</cell><cell>90</cell><cell></cell></row><row><cell>Any</cell><cell>24 (37)</cell><cell>34 (38)</cell><cell>0.00 (20.17, 0.16)</cell></row><row><cell>Formal</cell><cell>6 (9)</cell><cell>7 (8)</cell><cell>0.01 (20.07, 0.09)</cell></row><row><cell>Informal</cell><cell>21 (32)</cell><cell>26 (29)</cell><cell>0.05 (20.10, 0.20)</cell></row><row><cell>Perpetrated</cell><cell>236</cell><cell>239</cell><cell></cell></row><row><cell>Emotional violence</cell><cell>10 (4)</cell><cell>13 (5)</cell><cell>20.01 (20.05, 0.03)</cell></row><row><cell>Physical violence</cell><cell>5 (2)</cell><cell>20 (8)</cell><cell>20.06 (20.10, 20.02)</cell></row><row><cell></cell><cell cols="2">Female participants</cell><cell></cell></row><row><cell>Experienced</cell><cell>204</cell><cell>225</cell><cell></cell></row><row><cell>Emotional violence</cell><cell>68 (33)</cell><cell>78 (35)</cell><cell>20.01 (20.11, 0.09)</cell></row><row><cell>Physical violence</cell><cell>26 (13)</cell><cell>28 (12)</cell><cell>0.00 (20.06, 0.06)</cell></row><row><cell>Sexual violence</cell><cell>5 (2)</cell><cell>15 (7)</cell><cell>20.05 (20.10, 0.00)</cell></row><row><cell>Sought help</cell><cell>83</cell><cell>91</cell><cell></cell></row><row><cell>Any</cell><cell>37 (45)</cell><cell>42 (46)</cell><cell>20.05 (20.20, 0.10)</cell></row><row><cell>Formal</cell><cell>5 (6)</cell><cell>4 (4)</cell><cell>0.02 (20.06, 0.10)</cell></row><row><cell>Informal</cell><cell>33 (40)</cell><cell>39 (43)</cell><cell>20.06 (20.21, 0.10)</cell></row><row><cell>Perpetrated</cell><cell>204</cell><cell>225</cell><cell></cell></row><row><cell>Emotional violence</cell><cell>9 (4)</cell><cell>15 (7)</cell><cell>20.02 (20.08, 0.03)</cell></row><row><cell>Physical violence</cell><cell>11 (5)</cell><cell>10 (4)</cell><cell>0.01 (20.03, 0.06)</cell></row></table><note xml:id="_rfHjnVv"><p><ref type="bibr" target="#b40">41</ref> </p><p>This may, in part, explain why we found protective effects for sexual violence but no other forms of violence. Moreover,</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>TABLE 4 -</head><label>4</label><figDesc xml:id="_YMxqeD8">Intervention Effects on Intermediate Pathway Indicators at Round 3: Tanzania Adolescent Cash Plus Study, 2019, Iringa and Mbeya Regions of Tanzania Note. CI 5 confidence interval; ELDI 5 Enhanced Life Distress Inventory. Ordinary least squares and linear probability models (intent-to-treat estimates). Standard errors are clustered at the community level. Economic activities included those conducted in the previous week, and time use activities had a reference period of the previous day. Models controlled for age, gender, and stratum (district and village size); only coefficients on treatment indicator are shown.</figDesc><table><row><cell></cell><cell>Cash Plus (n 5 440), Mean 6SD or</cell><cell>Cash Only (n 5 464), Mean 6SD or</cell><cell></cell></row><row><cell>Variables</cell><cell>No. (%)</cell><cell>No. (%)</cell><cell>b (95% CI)</cell></row><row><cell>Age at first sexual intercourse, y</cell><cell></cell><cell></cell><cell>20.27 (20.61, 0.08)</cell></row><row><cell>Mean 6SD</cell><cell>16.9 61.4</cell><cell>17.2 61.8</cell><cell></cell></row><row><cell>Total no.</cell><cell>151</cell><cell>161</cell><cell></cell></row><row><cell>Age-disparate sex (female participants</cell><cell></cell><cell></cell><cell>20.10 (20.23, 0.03)</cell></row><row><cell>only)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>No. (%)</cell><cell>23 (30)</cell><cell>34 (40)</cell><cell></cell></row><row><cell>Total no.</cell><cell>77</cell><cell>85</cell><cell></cell></row><row><cell>Locus of control index</cell><cell>3.3 60.5</cell><cell>3.3 60.5</cell><cell>0.03 (20.04, 0.10)</cell></row><row><cell>Self-esteem index</cell><cell>3.9 60.8</cell><cell>3.8 60.8</cell><cell>0.19 (0.08, 0.29)</cell></row><row><cell>ELDI (0-39)</cell><cell>3.5 64.9</cell><cell>4.1 65.3</cell><cell>20.61 (21.42, 0.21)</cell></row><row><cell>ELDI economic and health-related</cell><cell>2.8 63.5</cell><cell>3.4 64.0</cell><cell>20.59 (21.12, 20.06)</cell></row><row><cell>well-being subscale</cell><cell></cell><cell></cell><cell></cell></row><row><cell>ELDI risk subscale</cell><cell>0.3 61.2</cell><cell>0.3 61.0</cell><cell>20.01 (20.19, 0.17)</cell></row><row><cell>ELDI relations subscale</cell><cell>0.4 61.2</cell><cell>0.4 61.4</cell><cell>0.00 (20.24, 0.23)</cell></row><row><cell>Currently attending school</cell><cell>152 (35)</cell><cell>174 (38)</cell><cell>20.04 (20.10, 0.03)</cell></row><row><cell>Has a spouse or cohabiting partner</cell><cell>30 (7)</cell><cell>25 (5)</cell><cell>0.02 (20.01, 0.05)</cell></row><row><cell>Time use</cell><cell>440</cell><cell>464</cell><cell></cell></row><row><cell>Any economic activities</cell><cell>359 (82)</cell><cell>376 (81)</cell><cell>0.01 (20.05, 0.06)</cell></row><row><cell>Paid work outside the household</cell><cell>108 (25)</cell><cell>106 (23)</cell><cell>0.02 (20.04, 0.07)</cell></row><row><cell>Farm work for the household</cell><cell>265 (60)</cell><cell>261 (56)</cell><cell>0.04 (20.03, 0.11)</cell></row><row><cell>Livestock herding for the household</cell><cell>260 (59)</cell><cell>232 (50)</cell><cell>0.09 (0.02, 0.17)</cell></row><row><cell>Fishing for the household</cell><cell>9 (2)</cell><cell>9 (2)</cell><cell>0.00 (20.02, 0.02)</cell></row><row><cell>Household business</cell><cell>69 (16)</cell><cell>68 (15)</cell><cell>0.01 (20.04, 0.07)</cell></row><row><cell>Any chores</cell><cell>393 (89)</cell><cell>412 (89)</cell><cell>0.01 (20.04, 0.05)</cell></row><row><cell>Collecting water</cell><cell>325 (74)</cell><cell>339 (73)</cell><cell>0.01 (20.06, 0.08)</cell></row><row><cell>Collecting firewood</cell><cell>148 (34)</cell><cell>122 (26)</cell><cell>0.07 (20.01, 0.14)</cell></row><row><cell>Collecting nuts and other tree fruits</cell><cell>36 (8)</cell><cell>23 (5)</cell><cell>0.03 (0.00, 0.07)</cell></row><row><cell>Taking care of children, cooking, or</cell><cell>303 (69)</cell><cell>327 (70)</cell><cell>20.01 (20.08, 0.06)</cell></row><row><cell>cleaning</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Taking care of elderly or sick</cell><cell>81 (18)</cell><cell>83 (18)</cell><cell>0.01 (20.05, 0.06)</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p xml:id="_RU2Ud25">AJPH December 2021, Vol 111, No. 12</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head xml:id="_XmHnKby">ACKNOWLEDGMENTS</head><p xml:id="_A5wJzQN">Funding for this pilot and evaluation has been provided by <rs type="funder">Oak Foundation</rs> (<rs type="grantNumber">OCAY-16-73</rs>) and <rs type="funder">UNICEF</rs>. Additional funding for the evaluation (<rs type="grantNumber">2017-2019</rs>) was provided by the <rs type="funder">United Kingdom's Department of International Development</rs> (<rs type="grantNumber">DFID 203529-102</rs>) and the <rs type="funder">Swedish Development Cooperation Agency</rs> (Sida <rs type="grantNumber">G41102</rs>), both through a grant to <rs type="funder">UNICEF Office of Research-Innocenti</rs> supporting the <rs type="programName">Transfer Project</rs>. Additional funding for program implementation activities (<rs type="grantNumber">2018-2020</rs>) was provided by <rs type="funder">Irish Aid</rs> (<rs type="grantNumber">IA-TAN/ 2019/064</rs>).</p><p xml:id="_PzbM27U">Preliminary findings from this study were presented at the Population Association of America Annual Meeting virtually in May 2021 and at the AIDS 2020 23rd International AIDS Conference virtually in July 2020.</p><p xml:id="_Rs4FdN9">The authors would like to acknowledge the support of the <rs type="funder">Tanzania Social Action Fund (TASAF)</rs> and <rs type="funder">Tanzania Commission for AIDS (TACAIDS)</rs>-in particular, <rs type="person">Ladislaus Mwamanga</rs> (TASAF), <rs type="person">Amadeus Kamagenge</rs> (TASAF), and <rs type="person">Fariji Mishael</rs> <rs type="funder">(TASAF)</rs> for the implementation of this evaluation. In addition, the <rs type="institution">UNICEF</rs> personnel instrumental to the initial planning stages of this pilot and study included <rs type="person">Alison Jenkins</rs>, <rs type="person">Beatrice Targa</rs>, <rs type="person">Patricia Lim Ah Ken</rs>, <rs type="person">Victoria Chuwa</rs>, <rs type="person">Naomi Neijhoft</rs>, and <rs type="person">Tulanoga Matwimbi</rs>. We would also like to acknowledge the hard-working field teams of <rs type="institution">EDI Global</rs>, who conducted the data collection for this study to the highest professional standards.</p><p xml:id="_CPv9ATh">Members of the <rs type="institution">Tanzania Cash Plus Evaluation Team</rs> were as follows: <rs type="institution">University at Buffalo</rs>: <rs type="person">Tia Palermo</rs> (co-principal investigator); <rs type="institution">UNICEF Office of Research</rs>: <rs type="person">Lusajo Kajula</rs>, <rs type="person">Jacobus de Hoop</rs>, <rs type="person">Leah Prencipe</rs>, <rs type="person">Valeria Groppo</rs>, and <rs type="person">Jennifer Waidler</rs>; EDI Global: <rs type="person">Johanna Choumert Nkolo</rs> (co-principal investigator), <rs type="person">Respichius Mitti</rs> (co-principal investigator), <rs type="person">Nathan Sivewright</rs>, <rs type="person">Koen Leuveld</rs>, <rs type="person">Callum Taylor</rs>, and <rs type="person">Bhoke Munanka</rs>; <rs type="person">TASAF</rs>: <rs type="person">Paul Luchemba</rs> and <rs type="person">Tumpe Mnyawami Lukongo</rs>; <rs type="person">TACAIDS</rs>: <rs type="person">Aroldia Mulokozi</rs>; <rs type="person">UNICEF Tanzania</rs>: <rs type="person">Ulrike Gilbert</rs>, <rs type="person">Paul Quarles van Ufford</rs>, <rs type="person">Rikke Le Kirkegaard</rs>, <rs type="person">Frank Eetaama</rs>, and <rs type="person">Jennifer Matafu</rs>.</p><p xml:id="_d7DM7ys">Note. The funders had no role in analysis or interpretation of data. The findings, interpretations, and conclusions expressed in this article are those of the authors and are not necessarily the position of <rs type="institution">UNICEF</rs> or the <rs type="institution">Government of the United Republic of Tanzania</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_YcZ9ERT">
+					<idno type="grant-number">OCAY-16-73</idno>
+				</org>
+				<org type="funding" xml:id="_ATcYP3Z">
+					<idno type="grant-number">2017-2019</idno>
+				</org>
+				<org type="funding" xml:id="_vew4hAS">
+					<idno type="grant-number">DFID 203529-102</idno>
+				</org>
+				<org type="funding" xml:id="_XB8G4BN">
+					<idno type="grant-number">G41102</idno>
+				</org>
+				<org type="funding" xml:id="_dzcnKKq">
+					<idno type="grant-number">2018-2020</idno>
+					<orgName type="program" subtype="full">Transfer Project</orgName>
+				</org>
+				<org type="funding" xml:id="_sh5r2jb">
+					<idno type="grant-number">IA-TAN/ 2019/064</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_88p86Jq">PUBLICATION INFORMATION</head><p xml:id="_SzjcGCF">Full Citation: Palermo T, Prencipe L, Kajula L; for the Tanzania Cash Plus Evaluation Team. Effects of government-implemented cash plus model on violence experiences and perpetration among adolescents in Tanzania, 2018-2019. Am J Public Health. 2021;111 (12) </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_wTxJWeE">CONFLICTS OF INTEREST</head><p xml:id="_VQ7zktZ">The authors have no competing financial and nonfinancial interests to declare.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_6mBpgVd">HUMAN PARTICIPANT PROTECTION</head><p xml:id="_ySea6uv">Ethics approval for the study was granted by the National Institute for Medical Research (NIMR/ HQ/R.8a/Vol.IX/2784) and the Tanzania Commission for Science and Technology. Informed assent and parental consent were obtained for all unmarried adolescents aged 14 to 17 years, and written informed consent was obtained directly for those aged 18 and 19 years and married adolescents aged 15 to 17 years. There were no married adolescents younger than 15 years, which was the legal age of marriage in Tanzania for girls. The study was retrospectively registered with the Pan African Clinical Trial Registry as PACTR201804003008116.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_10"><figDesc xml:id="_gCXsbZE">:2227-2238. Acceptance Date: August 8, 2021. DOI: https://doi.org/10.2105/AJPH.2021.306509 CONTRIBUTORS T. Palermo conceptualized the article. T. Palermo, L. Prencipe, and L. Kajula were responsible for the research design. T. Palermo and L. Prencipe led the statistical analysis. All authors interpreted findings and contributed to writing the article and approved the final version. Members of the evaluation team further contributed to study design and data collection.</figDesc></figure>
+			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="consolidated"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main" xml:id="_fUFrbqY">Global Prevalence of Past-year Violence Against Children: A Systematic Review and Minimum Estimates</title>
+		<author>
+			<persName><forename type="first">Susan</forename><surname>Hillis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><surname>Mercy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Adaugo</forename><surname>Amobi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Howard</forename><surname>Kress</surname></persName>
+		</author>
+		<idno type="DOI">10.1542/peds.2015-4079</idno>
+		<ptr target="https://doi.org/10.1542/peds.2015-4079" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_zTFrM7a">Pediatrics</title>
+		<idno type="ISSN">0031-4005</idno>
+		<idno type="ISSNe">1098-4275</idno>
+		<imprint>
+			<biblScope unit="volume">137</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">20154079</biblScope>
+			<date type="published" when="2016-03-01">2016</date>
+			<publisher>American Academy of Pediatrics (AAP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main" xml:id="_ZhttWfv">Intimate partner violence and women&apos;s physical and mental health in the WHO multi-country study on women&apos;s health and domestic violence: an observational study</title>
+		<author>
+			<persName><forename type="first">Mary</forename><surname>Ellsberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Henrica</forename><forename type="middle">Afm</forename><surname>Jansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lori</forename><surname>Heise</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Charlotte</forename><forename type="middle">H</forename><surname>Watts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Claudia</forename><surname>Garcia-Moreno</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0140-6736(08)60522-x</idno>
+		<ptr target="https://doi.org/10.1016/S0140-6736(08)60522-X" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_rDa6KA5">The Lancet</title>
+		<title level="j" type="abbrev">The Lancet</title>
+		<idno type="ISSN">0140-6736</idno>
+		<imprint>
+			<biblScope unit="volume">371</biblScope>
+			<biblScope unit="issue">9619</biblScope>
+			<biblScope unit="page" from="1165" to="1172" />
+			<date type="published" when="2008-04">2008. 9619</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main" xml:id="_eacKnMD">The enduring impact of violence against children</title>
+		<author>
+			<persName><forename type="first">Susan</forename><forename type="middle">D</forename><surname>Hillis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">A</forename><surname>Mercy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Janet</forename><forename type="middle">R</forename><surname>Saul</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/13548506.2016.1153679</idno>
+		<ptr target="https://doi.org/10.1080/13548506.2016.1153679" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_xPDqVTr">Psychology, Health &amp; Medicine</title>
+		<title level="j" type="abbrev">Psychology, Health &amp; Medicine</title>
+		<idno type="ISSN">1354-8506</idno>
+		<idno type="ISSNe">1465-3966</idno>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="393" to="405" />
+			<date type="published" when="2017">2017</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main" xml:id="_CWAkWHM">HIV and Childhood Sexual Violence: Implications for Sexual Risk Behaviors and HIV Testing in Tanzania</title>
+		<author>
+			<persName><forename type="first">Laura</forename><forename type="middle">F</forename><surname>Chiang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jieru</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Matthew</forename><forename type="middle">R</forename><surname>Gladden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">A</forename><surname>Mercy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gideon</forename><surname>Kwesigabo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fatma</forename><surname>Mrisho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Linda</forename><forename type="middle">L</forename><surname>Dahlberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Myo</forename><forename type="middle">Zin</forename><surname>Nyunt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kate</forename><forename type="middle">A</forename><surname>Brookmeyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kevin</forename><surname>Vagi</surname></persName>
+		</author>
+		<idno type="DOI">10.1521/aeap.2015.27.5.474</idno>
+		<ptr target="https://doi.org/10.1521/aeap.2015.27.5.474" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_dhmQk7D">AIDS Education and Prevention</title>
+		<title level="j" type="abbrev">AIDS Education and Prevention</title>
+		<idno type="ISSN">0899-9546</idno>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="474" to="487" />
+			<date type="published" when="2015-10">2015</date>
+			<publisher>Guilford Publications</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main" xml:id="_wVDWszC">What factors are associated with recent intimate partner violence? findings from the WHO multi-country study on women&apos;s health and domestic violence</title>
+		<author>
+			<persName><forename type="first">Tanya</forename><surname>Abramsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Charlotte</forename><forename type="middle">H</forename><surname>Watts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Claudia</forename><surname>Garcia-Moreno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Karen</forename><surname>Devries</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ligia</forename><surname>Kiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mary</forename><surname>Ellsberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Henrica</forename><forename type="middle">Afm</forename><surname>Jansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lori</forename><surname>Heise</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/1471-2458-11-109</idno>
+		<ptr target="https://doi.org/10.1186/1471-2458-11-109" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_3dPEf34">BMC Public Health</title>
+		<title level="j" type="abbrev">BMC Public Health</title>
+		<idno type="ISSNe">1471-2458</idno>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">109</biblScope>
+			<date type="published" when="2011-02-16">2011</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main" xml:id="_rJsQ9xz">Prevalence of and factors associated with male perpetration of intimate partner violence: findings from the UN Multi-country Cross-sectional Study on Men and Violence in Asia and the Pacific</title>
+		<author>
+			<persName><forename type="first">Emma</forename><surname>Fulu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rachel</forename><surname>Jewkes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tim</forename><surname>Roselli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Claudia</forename><surname>Garcia-Moreno</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s2214-109x(13)70074-3</idno>
+		<ptr target="https://doi.org/10.1016/S2214-109X(13)70074-3" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_vPRE4Pq">The Lancet Global Health</title>
+		<title level="j" type="abbrev">The Lancet Global Health</title>
+		<idno type="ISSN">2214-109X</idno>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="e187" to="e207" />
+			<date type="published" when="2013-10">2013</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main" xml:id="_xYXb6pB">Closing the door on illicit tobacco trade, opens the way to better tobacco control</title>
+		<author>
+			<persName><forename type="first">Vinayak</forename><surname>Prasad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ulrike</forename><surname>Schwerdtfeger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fatimah</forename><surname>El-Awa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Douglas</forename><surname>Bettcher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Vera</forename><surname>Da Costa E Silva</surname></persName>
+		</author>
+		<idno type="DOI">10.26719/2015.21.6.379</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_xwVfRmW">Eastern Mediterranean Health Journal</title>
+		<title level="j" type="abbrev">Easter Mediterr Health J</title>
+		<idno type="ISSN">1020-3397</idno>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="379" to="380" />
+			<date type="published" when="2016">2016</date>
+			<publisher>World Health Organization Regional Office for the Eastern Mediterranean (WHO/EMRO)</publisher>
+			<pubPlace>Geneva, Switzerland</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b7">
+	<monogr>
+		<title level="m" type="main" xml:id="_babRNxE">How to Make ‘Cash Plus’ Work</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Roelen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Devereux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Abdulai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Martorano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Palermo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">P</forename><surname>Ragno</surname></persName>
+		</author>
+		<idno type="DOI">10.18356/0e6268b5-en</idno>
+		<imprint>
+			<date type="published" when="2017-08-31">2017</date>
+			<publisher>United Nations Publications</publisher>
+			<pubPlace>Florence, Italy</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main" xml:id="_dd47Afg">A Mixed-Method Review of Cash Transfers and Intimate Partner Violence in Low- and Middle-Income Countries</title>
+		<author>
+			<persName><forename type="first">Ana</forename><forename type="middle">Maria</forename><surname>Buller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Amber</forename><surname>Peterman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Meghna</forename><surname>Ranganathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alexandra</forename><surname>Bleile</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Melissa</forename><surname>Hidrobo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lori</forename><surname>Heise</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/wbro/lky002</idno>
+		<ptr target="https://doi.org/10.1093/wbro/lky002" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_8hV93pJ">The World Bank Research Observer</title>
+		<idno type="ISSN">0257-3032</idno>
+		<idno type="ISSNe">1564-6971</idno>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="218" to="258" />
+			<date type="published" when="2018-08-01">2018</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main" xml:id="_mpFhEQ2">Understanding the linkages between social safety nets and childhood violence: a review of the evidence from low- and middle-income countries</title>
+		<author>
+			<persName><forename type="first">Amber</forename><surname>Peterman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anastasia</forename><forename type="middle">(naomi)</forename><surname>Neijhoft</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sarah</forename><surname>Cook</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tia</forename><forename type="middle">M</forename><surname>Palermo</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/heapol/czx033</idno>
+		<ptr target="https://doi.org/10.1093/heapol/czx033" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_wwDDuBg">Health Policy and Planning</title>
+		<idno type="ISSN">0268-1080</idno>
+		<idno type="ISSNe">1460-2237</idno>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1049" to="1071" />
+			<date type="published" when="2017-04-22">2017</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main" xml:id="_5JvGWUv">Prevention of violence against women and girls: what does the evidence say?</title>
+		<author>
+			<persName><forename type="first">Mary</forename><surname>Ellsberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Diana</forename><forename type="middle">J</forename><surname>Arango</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Matthew</forename><surname>Morton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Floriza</forename><surname>Gennari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sveinung</forename><surname>Kiplesund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Manuel</forename><surname>Contreras</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Charlotte</forename><surname>Watts</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0140-6736(14)61703-7</idno>
+		<ptr target="https://doi.org/10.1016/S0140-6736(14)61703-7" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_HhZhTzU">The Lancet</title>
+		<title level="j" type="abbrev">The Lancet</title>
+		<idno type="ISSN">0140-6736</idno>
+		<imprint>
+			<biblScope unit="volume">385</biblScope>
+			<biblScope unit="issue">9977</biblScope>
+			<biblScope unit="page" from="1555" to="1566" />
+			<date type="published" when="2015-04">2015. 9977</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main" xml:id="_tVy9tsE">Combined structural interventions for gender equality and livelihood security: a critical review of the evidence from southern and eastern Africa and the implications for young people</title>
+		<author>
+			<persName><forename type="first">Andrew</forename><surname>Gibbs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Samantha</forename><surname>Willan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alison</forename><surname>Misselhorn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jaqualine</forename><surname>Mangoma</surname></persName>
+		</author>
+		<idno type="DOI">10.7448/ias.15.3.17362</idno>
+		<ptr target="https://doi.org/10.7448/IAS.15.3.17362" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_5VSYtV9">Journal of the International AIDS Society</title>
+		<title level="j" type="abbrev">Journal of the International AIDS Society</title>
+		<idno type="ISSN">1758-2652</idno>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">S1</biblScope>
+			<biblScope unit="page" from="1" to="10" />
+			<date type="published" when="2012-06">2012</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main" xml:id="_xQWe2V6">Cash transfers, polygamy, and intimate partner violence: Experimental evidence from Mali</title>
+		<author>
+			<persName><forename type="first">Rachel</forename><surname>Heath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Melissa</forename><surname>Hidrobo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shalini</forename><surname>Roy</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jdeveco.2019.102410</idno>
+		<ptr target="https://doi.org/10.1016/j.jdeveco.2019.102410" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_P5Ne4vE">Journal of Development Economics</title>
+		<title level="j" type="abbrev">Journal of Development Economics</title>
+		<idno type="ISSN">0304-3878</idno>
+		<imprint>
+			<biblScope unit="volume">143</biblScope>
+			<biblScope unit="page">102410</biblScope>
+			<date type="published" when="2020-03">2020</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main" xml:id="_rByzR7F">A cash plus program reduces youth exposure to physical violence in Zimbabwe</title>
+		<author>
+			<persName><forename type="first">Averi</forename><surname>Chakrabarti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sudhanshu</forename><surname>Handa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gustavo</forename><surname>Angeles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><surname>Seidenfeld</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.worlddev.2020.105037</idno>
+		<ptr target="https://doi.org/10.1016/j.worlddev.2020.105037" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_UuqVPzW">World Development</title>
+		<title level="j" type="abbrev">World Development</title>
+		<idno type="ISSN">0305-750X</idno>
+		<imprint>
+			<biblScope unit="volume">134</biblScope>
+			<biblScope unit="page">105037</biblScope>
+			<date type="published" when="2020-10">2020</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b14">
+	<monogr>
+		<title level="m" type="main" xml:id="_WyT3yFS">Adolescent Girls Empowerment Programme: Research and evaluation mid-term technical report</title>
+		<author>
+			<persName><forename type="first">Karen</forename><surname>Austrian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Hewett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Erica</forename><surname>Soler-Hampejsek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fiammetta</forename><surname>Bozzani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jere</forename><surname>Behrman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jean</forename><surname>Digitale</surname></persName>
+		</author>
+		<idno type="DOI">10.31899/pgy9.1005</idno>
+		<ptr target="https://doi.org/10.31899/pgy9.1005" />
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<publisher>Population Council</publisher>
+			<pubPlace>Nairobi, Kenya</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main" xml:id="_6RNstxt">Women’s Empowerment in Action: Evidence from a Randomized Control Trial in Africa</title>
+		<author>
+			<persName><forename type="first">Oriana</forename><surname>Bandiera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Niklas</forename><surname>Buehren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robin</forename><surname>Burgess</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Markus</forename><surname>Goldstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Selim</forename><surname>Gulesci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Imran</forename><surname>Rasul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Munshi</forename><surname>Sulaiman</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/app.20170416</idno>
+		<ptr target="https://doi.org/10.1257/app.20170416" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_KXdXu5t">American Economic Journal: Applied Economics</title>
+		<title level="j" type="abbrev">American Economic Journal: Applied Economics</title>
+		<idno type="ISSN">1945-7782</idno>
+		<idno type="ISSNe">1945-7790</idno>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="210" to="259" />
+			<date type="published" when="2020-01-01">2020</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main" xml:id="_naruvSK">The SHAZ! Project: Results from a Pilot Randomized Trial of a Structural Intervention to Prevent HIV among Adolescent Women in Zimbabwe</title>
+		<author>
+			<persName><forename type="first">Megan</forename><forename type="middle">S</forename><surname>Dunbar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mi-Suk</forename><surname>Kang Dufour</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Barrot</forename><surname>Lambdin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Imelda</forename><surname>Mudekunye-Mahaka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Definate</forename><surname>Nhamo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nancy</forename><forename type="middle">S</forename><surname>Padian</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0113621</idno>
+		<ptr target="https://doi.org/10.1371/journal.pone.0113621" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_tVP5APv">PLoS ONE</title>
+		<title level="j" type="abbrev">PLoS ONE</title>
+		<idno type="ISSNe">1932-6203</idno>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page">e113621</biblScope>
+			<date type="published" when="2014-11-21">2014</date>
+			<publisher>Public Library of Science (PLoS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b17">
+	<monogr>
+		<title level="m" type="main" xml:id="_eXyaZRB">Adolescent Girls Initiative–Kenya: Midline results report</title>
+		<author>
+			<persName><forename type="first">Karen</forename><surname>Austrian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Erica</forename><surname>Soler-Hampejsek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Joyce</forename><surname>Mumah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Beth</forename><surname>Kangwana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yohannes</forename><surname>Dibaba Wado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Benta</forename><surname>Abuya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Valsa</forename><surname>Shah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><surname>Maluccio</surname></persName>
+		</author>
+		<idno type="DOI">10.31899/pgy14.1026</idno>
+		<ptr target="https://doi.org/10.31899/pgy14.1026" />
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<publisher>Population Council</publisher>
+			<pubPlace>Nairobi, Kenya</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b18">
+	<analytic>
+		<title level="a" type="main" xml:id="_Z7S63Au">Can economic assets increase girls&apos; risk of sexual harassment? Evaluation results from a social, health and economic asset-building intervention for vulnerable adolescent girls in Uganda</title>
+		<author>
+			<persName><forename type="first">Karen</forename><surname>Austrian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eunice</forename><surname>Muthengi</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.childyouth.2014.08.012</idno>
+		<ptr target="https://doi.org/10.1016/j.childyouth.2014.08.012" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_7ZvepwF">Children and Youth Services Review</title>
+		<title level="j" type="abbrev">Children and Youth Services Review</title>
+		<idno type="ISSN">0190-7409</idno>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="168" to="175" />
+			<date type="published" when="2014-12">2014</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b19">
+	<monogr>
+		<title level="m" type="main" xml:id="_t4mqnQ8">Evaluation of an Adolescent Development Program for Girls in Tanzania</title>
+		<author>
+			<persName><forename type="first">Niklas</forename><surname>Buehren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Markus</forename><surname>Goldstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Selim</forename><surname>Gulesci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Munshi</forename><surname>Sulaiman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Venus</forename><surname>Yam</surname></persName>
+		</author>
+		<idno type="DOI">10.1596/1813-9450-7961</idno>
+		<ptr target="https://doi.org/10.1596/1813-9450-796121" />
+		<imprint>
+			<date type="published" when="2017-02">2017</date>
+			<publisher>World Bank, Washington, DC</publisher>
+			<pubPlace>Washington, DC</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main" xml:id="_Z3jnN8T">Girl Empower – A gender transformative mentoring and cash transfer intervention to promote adolescent wellbeing: Impact findings from a cluster-randomized controlled trial in Liberia</title>
+		<author>
+			<persName><forename type="first">Berk</forename><surname>Özler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kelly</forename><surname>Hallman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marie-France</forename><surname>Guimond</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Elizabeth</forename><forename type="middle">A</forename><surname>Kelvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marian</forename><surname>Rogers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Esther</forename><surname>Karnley</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ssmph.2019.100527</idno>
+		<ptr target="https://doi.org/10.1016/j.ssmph.2019.100527" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_AkzSRK7">SSM - Population Health</title>
+		<title level="j" type="abbrev">SSM - Population Health</title>
+		<idno type="ISSN">2352-8273</idno>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">100527</biblScope>
+			<date type="published" when="2019">2019</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main" xml:id="_3xFwEZu">Who perpetrates violence against children? A systematic analysis of age-specific and sex-specific data</title>
+		<author>
+			<persName><forename type="first">Karen</forename><surname>Devries</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Louise</forename><surname>Knight</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Max</forename><surname>Petzold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Katherine</forename><forename type="middle">G</forename><surname>Merrill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lauren</forename><surname>Maxwell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Abigail</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Claudia</forename><surname>Cappa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ko</forename><forename type="middle">Ling</forename><surname>Chan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Claudia</forename><surname>Garcia-Moreno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Natasha</forename><surname>Hollis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Howard</forename><surname>Kress</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Amber</forename><surname>Peterman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sophie</forename><forename type="middle">D</forename><surname>Walsh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sunita</forename><surname>Kishor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alessandra</forename><surname>Guedes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sarah</forename><surname>Bott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Betzabe</forename><forename type="middle">C</forename><surname>Butron Riveros</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Charlotte</forename><surname>Watts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Naeemah</forename><surname>Abrahams</surname></persName>
+		</author>
+		<idno type="DOI">10.1136/bmjpo-2017-000180</idno>
+		<ptr target="https://doi.org/10.1136/bmjpo-2017-000180" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_TGKEE4x">BMJ Paediatrics Open</title>
+		<title level="j" type="abbrev">bmjpo</title>
+		<idno type="ISSNe">2399-9772</idno>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">e000180</biblScope>
+			<date type="published" when="2018-02">2018</date>
+			<publisher>BMJ</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main" xml:id="_NHHMr9b">Intimate partner violence among adolescents and young women: prevalence and associated factors in nine countries: a cross-sectional study</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>St€ Ockl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>March</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Pallitto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Garcia-Moreno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Study</forename><surname>Who Multi-Country</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Team</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/1471-2458-14-751</idno>
+		<ptr target="https://doi.org/10.1186/1471-2458-14-751" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_UVqyG7V">BMC Public Health</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">751</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b23">
+	<monogr>
+		<title level="m" type="main" xml:id="_f2CDsgf">Tanzania Poverty, Growth, and Public Transfers : Options for a National Productive Safety Net Program</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Rosas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Zaldivar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Granata</surname></persName>
+		</author>
+		<idno type="DOI">10.1596/16788</idno>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<publisher>Washington, DC</publisher>
+			<pubPlace>Washington, DC</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b24">
+	<analytic>
+		<title level="a" type="main" xml:id="_d3WEX73">Enhanced life distress inventory: Development and validation in two African countries</title>
+		<author>
+			<persName><forename type="first">Tia</forename><surname>Palermo</surname></persName>
+			<idno type="ORCID">0000-0003-0419-2049</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Brian</forename><forename type="middle">J</forename><surname>Hall</surname></persName>
+			<idno type="ORCID">0000-0001-9358-2377</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Cristina</forename><surname>Cirillo</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/bjhp.12448</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_PHMvKJY">British Journal of Health Psychology</title>
+		<title level="j" type="abbrev">British J Health Psychol</title>
+		<idno type="ISSN">1359-107X</idno>
+		<idno type="ISSNe">2044-8287</idno>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="728" to="753" />
+			<date type="published" when="2018">2018</date>
+			<publisher>Wiley</publisher>
+			<pubPlace>Florence, Italy</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Tanzania PSSN Youth Study Evaluation Team</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b25">
+	<analytic>
+		<title level="a" type="main" xml:id="_R2qkNDG">Understanding adolescent development in the context of child sexual exploitation</title>
+		<author>
+			<persName><forename type="first">John</forename><surname>Coleman</surname></persName>
+		</author>
+		<idno type="DOI">10.1332/policypress/9781447351412.003.0006</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_4auAFmw">Child Sexual Exploitation: Why Theory Matters</title>
+		<meeting><address><addrLine>London, England</addrLine></address></meeting>
+		<imprint>
+			<publisher>Policy Press</publisher>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="page" from="117" to="132" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b26">
+	<analytic>
+		<title level="a" type="main" xml:id="_tKfV87t">Human Rights and Capabilities</title>
+		<author>
+			<persName><forename type="first">Amartya</forename><surname>Sen</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/14649880500120491</idno>
+		<ptr target="https://doi.org/10.1080/14649880500120491" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Ye5mpgc">Journal of Human Development</title>
+		<title level="j" type="abbrev">Journal of Human Development</title>
+		<idno type="ISSN">1464-9888</idno>
+		<idno type="ISSNe">1469-9516</idno>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="151" to="166" />
+			<date type="published" when="2005-07">2005</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b27">
+	<analytic>
+		<title level="a" type="main" xml:id="_XhdPYew">Role of pectoralis major flap in resource limited settings (developing world): A case report of huge neck cancer done in Tanzania</title>
+		<author>
+			<persName><forename type="first">Victor</forename><surname>Mashamba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shaban</forename><surname>Mawala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Emmerenceana</forename><surname>Mahulu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ashfaq</forename><surname>Abdulshakoor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Amina</forename><surname>Hassan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aron</forename><surname>Kiberiti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Joyce</forename><surname>Kasongwa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sadick</forename><surname>Sizya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Angela</forename><surname>Mwakimonga</surname></persName>
+		</author>
+		<idno type="DOI">10.52768/2766-7820/1036</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_FEunYyY">Journal of Clinical Images and Medical Case Reports</title>
+		<title level="j" type="abbrev">J Clin Images Med Case Rep</title>
+		<idno type="ISSNe">2766-7820</idno>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<date type="published" when="2009">2009. 2011</date>
+			<publisher>Open Source Publications</publisher>
+			<pubPlace>Tanzania</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>US Centers for Disease Control and Prevention, Muhimbili University of Health and Allied Sciences</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b28">
+	<analytic>
+		<title level="a" type="main" xml:id="_wRr97Y5">M. Ellsberg and L. Heise, &lt;i&gt;Researching Violence against Women: A Practical Guide for Researchers and Activists&lt;/i&gt;, Washington, D.C.: World Health Organization and PATH, 2005. 257 pp. Swiss Francs 50.00/US$45.00; developing countries Swiss Francs 35.00/US$41.50 ISBN 92 4 154647 6.</title>
+		<author>
+			<persName><forename type="first">Fareda</forename><surname>Banda</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/s0021855306220163</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_G8HbHEx">Journal of African Law</title>
+		<title level="j" type="abbrev">J. Afr. law</title>
+		<idno type="ISSN">0021-8553</idno>
+		<idno type="ISSNe">1464-3731</idno>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="202" to="203" />
+			<date type="published" when="2005">2005</date>
+			<publisher>Cambridge University Press (CUP)</publisher>
+			<pubPlace>Geneva, Switzerland</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b29">
+	<analytic>
+		<title level="a" type="main" xml:id="_3YvdcUS">Prevalence of intimate partner violence: findings from the WHO multi-country study on women&apos;s health and domestic violence</title>
+		<author>
+			<persName><forename type="first">Claudia</forename><surname>Garcia-Moreno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Henrica</forename><forename type="middle">Afm</forename><surname>Jansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mary</forename><surname>Ellsberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lori</forename><surname>Heise</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Charlotte</forename><forename type="middle">H</forename><surname>Watts</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0140-6736(06)69523-8</idno>
+		<ptr target="https://doi.org/10.1016/S0140-6736(06)69523-8" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_ZVrG6hF">The Lancet</title>
+		<title level="j" type="abbrev">The Lancet</title>
+		<idno type="ISSN">0140-6736</idno>
+		<imprint>
+			<biblScope unit="volume">368</biblScope>
+			<biblScope unit="issue">9543</biblScope>
+			<biblScope unit="page" from="1260" to="1269" />
+			<date type="published" when="2006-10">2006. 9543</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b30">
+	<analytic>
+		<title level="a" type="main" xml:id="_pF9aB3u">The Revised Conflict Tactics Scales (CTS2)</title>
+		<author>
+			<persName><forename type="first">Murray</forename><forename type="middle">A</forename><surname>Straus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sherry</forename><forename type="middle">L</forename><surname>Hamby</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sue</forename><surname>Boney-Mccoy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">B</forename><surname>Sugarman</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/019251396017003001</idno>
+		<ptr target="https://doi.org/10.1177/019251396017003001" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_GQQUwyG">Journal of Family Issues</title>
+		<title level="j" type="abbrev">Journal of Family Issues</title>
+		<idno type="ISSN">0192-513X</idno>
+		<idno type="ISSNe">1552-5481</idno>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="283" to="316" />
+			<date type="published" when="1996-05">1996</date>
+			<publisher>SAGE Publications</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b31">
+	<analytic>
+		<title level="a" type="main" xml:id="_ukqqTbt">Tip of the Iceberg: Reporting and Gender-Based Violence in Developing Countries</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Palermo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bleck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Peterman</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/aje/kwt295</idno>
+		<ptr target="https://doi.org/10.1093/aje/kwt295" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_dbVbH22">American Journal of Epidemiology</title>
+		<title level="j" type="abbrev">American Journal of Epidemiology</title>
+		<idno type="ISSN">0002-9262</idno>
+		<idno type="ISSNe">1476-6256</idno>
+		<imprint>
+			<biblScope unit="volume">179</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="602" to="612" />
+			<date type="published" when="2014">2014</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b32">
+	<analytic>
+		<title level="a" type="main" xml:id="_3brUdVY">Disclosure, reporting and help seeking among child survivors of violence: a cross-country analysis</title>
+		<author>
+			<persName><forename type="first">Audrey</forename><surname>Pereira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Amber</forename><surname>Peterman</surname></persName>
+			<idno type="ORCID">0000-0002-3921-5936</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Anastasia</forename><forename type="middle">Naomi</forename><surname>Neijhoft</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Buluma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rocio</forename><forename type="middle">Aznar</forename><surname>Daban</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aminul</forename><surname>Islam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Esmie</forename><forename type="middle">Tamanda Vilili</forename><surname>Kainja</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Inah</forename><forename type="middle">Fatoumata</forename><surname>Kaloga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">They</forename><surname>Kheam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Afrooz</forename><forename type="middle">Kaviani</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Catherine</forename><surname>Maternowska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alina</forename><surname>Potts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Chivith</forename><surname>Rottanak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Chea</forename><surname>Samnang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mary</forename><surname>Shawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Miho</forename><surname>Yoshikawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tia</forename><surname>Palermo</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/s12889-020-09069-7</idno>
+		<ptr target="https://doi.org/10.1186/s12889-020-09069-7" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_nE2NxV2">BMC Public Health</title>
+		<title level="j" type="abbrev">BMC Public Health</title>
+		<idno type="ISSNe">1471-2458</idno>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">1051</biblScope>
+			<date type="published" when="2020-07-02">2020</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b33">
+	<analytic>
+		<title level="a" type="main" xml:id="_aRyAk7q">The effect of a conditional cash transfer on HIV incidence in young women in rural South Africa (HPTN 068): a phase 3, randomised controlled trial</title>
+		<author>
+			<persName><forename type="first">Audrey</forename><surname>Pettifor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Catherine</forename><surname>Macphail</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">P</forename><surname>Hughes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Amanda</forename><surname>Selin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jing</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">Xavier</forename><surname>Gómez-Olivé</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Susan</forename><forename type="middle">H</forename><surname>Eshleman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ryan</forename><forename type="middle">G</forename><surname>Wagner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wonderful</forename><surname>Mabuza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nomhle</forename><surname>Khoza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Chirayath</forename><surname>Suchindran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Immitrude</forename><surname>Mokoena</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rhian</forename><surname>Twine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Philip</forename><surname>Andrew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ellen</forename><surname>Townley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Oliver</forename><surname>Laeyendecker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yaw</forename><surname>Agyei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stephen</forename><surname>Tollman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kathleen</forename><surname>Kahn</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s2214-109x(16)30253-4</idno>
+		<ptr target="https://doi.org/10.1016/S2214-109X(16)30253-4" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_qKXvDyX">The Lancet Global Health</title>
+		<title level="j" type="abbrev">The Lancet Global Health</title>
+		<idno type="ISSN">2214-109X</idno>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="e978" to="e988" />
+			<date type="published" when="2016-12">2016</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b34">
+	<analytic>
+		<title level="a" type="main" xml:id="_DdNcZGV">Enhanced life distress inventory: Development and validation in two African countries</title>
+		<author>
+			<persName><forename type="first">Tia</forename><surname>Palermo</surname></persName>
+			<idno type="ORCID">0000-0003-0419-2049</idno>
+			<affiliation>
+				<orgName type="collaboration">Tanzania PSSN Youth Study Evaluation Team</orgName>
+			</affiliation>
+		</author>
+		<author>
+			<persName><forename type="first">Brian</forename><forename type="middle">J</forename><surname>Hall</surname></persName>
+			<idno type="ORCID">0000-0001-9358-2377</idno>
+			<affiliation>
+				<orgName type="collaboration">Tanzania PSSN Youth Study Evaluation Team</orgName>
+			</affiliation>
+		</author>
+		<author>
+			<persName><forename type="first">Cristina</forename><surname>Cirillo</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">Tanzania PSSN Youth Study Evaluation Team</orgName>
+			</affiliation>
+		</author>
+		<idno type="DOI">10.1111/bjhp.12448</idno>
+		<ptr target="https://doi.org/10.1111/bjhp.12448" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_pGSxeEh">British Journal of Health Psychology</title>
+		<title level="j" type="abbrev">British J Health Psychol</title>
+		<idno type="ISSN">1359-107X</idno>
+		<idno type="ISSNe">2044-8287</idno>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="728" to="753" />
+			<date type="published" when="2020-07-07">2020</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b35">
+	<analytic>
+		<title level="a" type="main" xml:id="_BWeyZzc">DIFFERENTIATING AMONG INTERNALITY, POWERFUL OTHERS, AND CHANCE</title>
+		<author>
+			<persName><forename type="first">Hanna</forename><surname>Levenson</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/b978-0-12-443201-7.50006-3</idno>
+		<ptr target="https://doi.org/10.1016/B978-0-12-443201-7.50006-3" />
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_SQRap3C">Research with the Locus of Control Construct</title>
+		<editor>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Lefcourt</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Elsevier</publisher>
+			<date type="published" when="1981">1981</date>
+			<biblScope unit="page" from="15" to="63" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b36">
+	<monogr>
+		<title level="m" type="main" xml:id="_FsQ6EQN">Measuring Skills in Developing Countries</title>
+		<author>
+			<persName><forename type="first">Rachid</forename><surname>Laajaj</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Karen</forename><surname>Macours</surname></persName>
+		</author>
+		<idno type="DOI">10.1596/1813-9450-8000</idno>
+		<ptr target="https://doi.org/10.1596/1813-9450-8000" />
+		<imprint>
+			<date type="published" when="2017-03">2017</date>
+			<publisher>World Bank, Washington, DC</publisher>
+			<pubPlace>Washington, DC</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b37">
+	<analytic>
+		<title level="a" type="main" xml:id="_jyDCWCH">Society and the Adolescent Self-Image</title>
+		<author>
+			<persName><forename type="first">Morris</forename><surname>Rosenberg</surname></persName>
+		</author>
+		<idno type="DOI">10.1515/9781400876136</idno>
+		<ptr target="https://doi.org/10.1515/9781400876136" />
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_QPx72Mr">Society and the Adolescent Self-Image</title>
+		<meeting><address><addrLine>Princeton, NJ</addrLine></address></meeting>
+		<imprint>
+			<publisher>Princeton University Press</publisher>
+			<date type="published" when="1965-12-31">1965</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b38">
+	<analytic>
+		<title level="a" type="main" xml:id="_NeMCrZh">Impacts of a Cash Plus Intervention on Gender Attitudes Among Tanzanian Adolescents</title>
+		<author>
+			<persName><forename type="first">Yekaterina</forename><surname>Chzhen</surname></persName>
+			<idno type="ORCID">0000-0001-7437-2542</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Leah</forename><surname>Prencipe</surname></persName>
+			<idno type="ORCID">0000-0003-2676-5784</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Frank</forename><surname>Eetaama</surname></persName>
+			<idno type="ORCID">0000-0001-5075-022X</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Luchemba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tumpe</forename><forename type="middle">Mnyawami</forename><surname>Lukongo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tia</forename><surname>Palermo</surname></persName>
+			<idno type="ORCID">0000-0003-0419-2049</idno>
+		</author>
+		<idno type="DOI">10.1016/j.jadohealth.2020.07.025</idno>
+		<ptr target="https://doi.org/10.1016/j.jadohealth.2020.07.025" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_gq372wb">Journal of Adolescent Health</title>
+		<title level="j" type="abbrev">Journal of Adolescent Health</title>
+		<idno type="ISSN">1054-139X</idno>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="899" to="905" />
+			<date type="published" when="2021-05">2021</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b39">
+	<analytic>
+		<title level="a" type="main" xml:id="_cYE6Fzg">Ujana Salama: Cash Plus Model on Youth Well-being and Safe, Healthy Transitions – Round 3 Findings</title>
+		<author>
+			<persName><forename type="first">Tanzania</forename><surname>Cash</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Plus</forename><forename type="middle">Evaluation</forename><surname>Team</surname></persName>
+		</author>
+		<idno type="DOI">10.18356/26642166-2020-23</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_qsjKMT9">A cash plus model for safe transitions to a healthy and productive adulthood: round 3 report</title>
+		<meeting><address><addrLine>Florence, Italy</addrLine></address></meeting>
+		<imprint>
+			<publisher>United Nations Publications</publisher>
+			<date type="published" when="2021-07-21">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b40">
+	<analytic>
+		<title level="a" type="main" xml:id="_PDXN7dw">Sexual violence and youth in South Africa: The need for community-based prevention interventions</title>
+		<author>
+			<persName><forename type="first">Inge</forename><surname>Petersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Arvin</forename><surname>Bhana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mary</forename><surname>Mckay</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chiabu.2005.02.012</idno>
+		<ptr target="https://doi.org/10.1016/j.chiabu.2005.02.012" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_DcjFZqm">Child Abuse &amp; Neglect</title>
+		<title level="j" type="abbrev">Child Abuse &amp; Neglect</title>
+		<idno type="ISSN">0145-2134</idno>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="1233" to="1248" />
+			<date type="published" when="2005-11">2005</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b41">
+	<analytic>
+		<title level="a" type="main" xml:id="_vqYWXvg">Parenting processes and dating violence: the mediating role of selfesteem in low-and high-SES adolescents</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Pflieger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T</forename><surname>Vazsonyi</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.adolescence.2005.10.002</idno>
+		<ptr target="https://doi.org/10.1016/j.adolescence.2005.10.002" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_PJVh4Wm">J Adolesc</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="495" to="512" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b42">
+	<monogr>
+		<title level="m" type="main" xml:id="_dqztDdE">Men and Sex: New Psychological Perspectives</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Levant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">R</forename><surname>Brooks</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<publisher>John Wiley &amp; Sons Inc</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b43">
+	<monogr>
+		<title level="m" type="main" xml:id="_rbAAvMD">Gender socialization during adolescence in</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>John</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Stoebenau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ritter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Edmeades</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Balvin</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

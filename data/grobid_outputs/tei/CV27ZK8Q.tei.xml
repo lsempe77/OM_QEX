@@ -1,0 +1,979 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" xml:id="_th7G58D">Community Networks and Poverty Reduction Programmes: Evidence from Bangladesh *</title>
+				<funder>
+					<orgName type="full">Economic Organisation and Public Policy Programme</orgName>
+					<orgName type="abbreviated">EOPP</orgName>
+				</funder>
+				<funder ref="#_9ZUBuZx">
+					<orgName type="full">Suntory and Toyota International Centres for Economics and Related Disciplines</orgName>
+				</funder>
+				<funder ref="#_z5U7gzE">
+					<orgName type="full">unknown</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">UK Department for International Development (DFID)</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Oriana</forename><surname>Bandiera</surname></persName>
+							<email>o.bandiera@lse.ac.uk.</email>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Economics</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Robin</forename><surname>Burgess</surname></persName>
+							<email>r.burgess@lse.ac.uk.</email>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Economics and STICERD</orgName>
+								<orgName type="institution">LSE</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Selim</forename><surname>Gulesci</surname></persName>
+							<email>s.gulesci@lse.ac.uk.</email>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Economics and STICERD</orgName>
+								<orgName type="institution">LSE</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Imran</forename><surname>Rasul</surname></persName>
+							<email>i.rasul@ucl.ac.uk.</email>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Economics</orgName>
+								<orgName type="institution">University College London</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Maitreesh</forename><forename type="middle">Oriana</forename><surname>Ghatak</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Robin</forename><surname>Bandiera</surname></persName>
+						</author>
+						<author>
+							<persName><surname>Burgess</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Timothy</forename><surname>Besley</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Jean-Paul</forename><surname>Faguet</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Henrik</forename><surname>Kleven</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Valentino</forename><surname>Larcinese</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Gerard</forename><surname>Padro</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Torsten</forename><surname>Miquel</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Nicholas</forename><surname>Persson</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Daniel</forename><forename type="middle">M</forename><surname>Stern</surname></persName>
+						</author>
+						<author>
+							<persName><surname>Sturm</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Toyota International Centres for Economics and Related Disciplines London School of Economics and Political Science</orgName>
+								<orgName type="institution">The Suntory Centre Suntory</orgName>
+								<address>
+									<addrLine>Houghton Street</addrLine>
+									<postCode>WC2A 2AE</postCode>
+									<settlement>London</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main" xml:id="_Cpj4gdb">Community Networks and Poverty Reduction Programmes: Evidence from Bangladesh *</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">9FFC03DB9A6DACBE99FC5C09FBC3D7BF</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2025-11-04T23:27+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a292bac</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=1, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=true, generateTeiCoordinates=[true], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term xml:id="_RBUDCw2">asset transfers</term>
+					<term xml:id="_bv66vQ8">social networks</term>
+					<term xml:id="_VreT5Ay">ultra-poor programme. JEL Classification: D85</term>
+					<term xml:id="_G9rkVSf">O12</term>
+					<term xml:id="_XBbbkqr">O15</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_d9wABSR"><p xml:id="_xM2p2rE">Whether basic entrepreneurship can be inculcated amongst the poorest in society and serve as a route out of poverty remains an open question. We provide evidence on this issue by looking at the effects of a large-scale asset transfer and training programme which is targeted at the poorest women in rural Bangladesh. We use a randomized control trial research design, and survey all households in the community. This allows us to map the full social network of the beneficiaries, on multiple dimensions of interaction. We find that beneficiaries' wealth levels and occupational structure converge to that of lower-middle class households. Beneficiaries use their newly found wealth to purchase household durables, and improve their human capital, as measured by business skills and their health status. We find the programme affects the composition of beneficiary households' networks: they form ties to wealthier residents after the programme. The programme also affects outcomes among social network members, but has no effect on households that are not socially connected to beneficiaries. Our findings suggest that such programs have effects beyond beneficiary households, and that the network structures and outcomes in targeted communities are transformed by them.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="594.96" lry="840.96"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="595.22" lry="842.0"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="595.22" lry="842.0"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="595.22" lry="842.0"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="10" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="11" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="12" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="13" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="14" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="15" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="16" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="17" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="18" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="19" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="20" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="21" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="22" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="23" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="24" ulx="0.0" uly="0.0" lrx="595.0" lry="842.0"/>
+		<surface n="25" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="26" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="27" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="28" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="29" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="30" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="31" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="32" ulx="0.0" uly="0.0" lrx="595.0" lry="842.0"/>
+		<surface n="33" ulx="0.0" uly="0.0" lrx="595.0" lry="842.0"/>
+		<surface n="34" ulx="0.0" uly="0.0" lrx="595.0" lry="842.0"/>
+		<surface n="35" ulx="0.0" uly="0.0" lrx="595.0" lry="842.0"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1" xml:id="_j65J87A">Introduction</head><p xml:id="_qpaCYQc">The poorest in any society are often bypassed by economic development. They often languish in unrenumerative and insecure occupations without the skills or know-how to build a route out of poverty. The question of how they might be reached and their lives transformed has therefore become a pressing issue for organizations interested in promoting economic development.</p><p xml:id="_7q9yQ5X">There is a growing awareness, for example, that micro-…nance, heraled by some as a key means of releasing the business potential of poor entrepreneurs does not reach the poorest segment of the population, who have no business opportunities to borrow for [Murdoch 1988, Baland et al  2008, Grameen Bank 2009]. This recognition has prompted a wave of programmes targeting ultrapoor households. The distinctive feature of these programmes, compared to earlier cash transfers and assistance programmes, is their aim to permanently raise the ultra-poor out of poverty by providing business opportunities and skills training.</p><p xml:id="_bMKq6Px">The world's largest NGO BRAC has been the key innovator in this area of policy. They developed their programme for reaching the ultra-poor over a number of years in Bangladesh. This involved signi…cant amounts of …eld observation, experimentation and tailoring. The BRAC ultrapoor programme is now being copied and exported to a wide range of settings across the globe. A range of micro-…nance NGOs are implementing ultra-poor programmes in Haiti, Honduras, India, Pakistan, Peru, Ethiopia and Yemen. Whether basic entrepreneurship can be inculcated amongst the poorest of the poor, however, remains an open question. This paper begins to …ll this gap by providing the …rst results from a large-scale, randomized evaluation of the nationwide ultra-poor programme in Bangladesh which was designed and implemented in collaboration with BRAC.</p><p xml:id="_cs8wTXy">The programme aims to empower the poorest women in Bangladesh economically, socially and psychologically, through a multi-faceted intervention. The targeted women receive business assets (mostly livestock and poultry), business training, a stipend for a forty week period, health and legal advice. The key feature of the programme is that the value of assets received is extremely large in relation to bene…ciaries'initial wealth and represents a signi…cant injection of wealth into the community.</p><p xml:id="_GuEE77g">The design and data collection strategy explicitly recognizes that ultra-poor households are embedded in several types of social networks. For example these networks might be de…ned along …xed familial ties, or changing ties related to business transactions. Such networks can in ‡uence whether and how households that are not direct bene…ciaries of the ultra-poor programme, are still a¤ected by the presence of the programme in their community. The nature of interactions between households can also be a¤ected, hence the fabric of underlying networks in the community can be a¤ected by such programmes. This might be especially so when the programme signi…cantly increases the value of assets within the community. To understand these changes in our empirical context, we thus collect detailed information on various types of social networks households are embedded within. <ref type="bibr" target="#b0">1</ref> This paper evaluates the e¤ect of the programme on the treated households, on the composition of their networks, and on their network members, using a selected subsample of communities where we surveyed every households. The e¤ect of the programme is identi…ed as the di¤erence in di¤erence before and after the programme in treated and control communities. We also separately identify the community-wide e¤ects of the programme that operate through households being socially connected to bene…ciaries from general equilibrium e¤ects of the programme through prices and wages. To do so, we compare changes in outcomes between households in treated and control communities that are connected to bene…ciary households, to those that are not connected to them in any social network.</p><p xml:id="_Q3h22PM">The analysis yields four sets of …ndings. First, the programme has the intended e¤ect on direct bene…ciary ultra-poor households. Namely treated households still have the assets one year after the transfer, and their savings have increased as dictated by the programme. The asset transfer is large enough to move the ultra-poor several steps up in the wealth distribution. Using community de…ned wealth classes, after the transfer the ultra-poor move from being the poorest to being close to the lower-middle class in their community. The asset transfer has signi…cant impacts on the economic lives of these households as they abandon wage labor (either in agriculture or as domestic servants) in favor of livestock rearing. Compared to other households in the village, the occupational structure of the ultra-poor becomes indistinguishable from the middle classes.</p><p xml:id="_j8ATm8d">Second, while we …nd that the programme increases total per capita expenditure among bene-…ciaries, this e¤ect is not precisely estimated. However, we …nd that treated households purchase signi…cantly more durables, especially radios and bicycles. The programme also leads to the accumulation of human capital, measured both in terms of business skills and health status. Our measure of business skills increases by 20%, and bene…ciaries'BMI increases by 6%. This magnitude of increase is large enough to overtake the average respondent in the two lowest classes. Similarly, children's z-scores increase by .72. However, while the e¤ects on BMI and z-scores are not precisely estimated, they are large and lead to some optimism that larger and more precisely measurable improvements may be achievable in the longer run.</p><p xml:id="_f2XMYaC">Third, our survey allows us to create a full map of social networks within the community. These networks are de…ned along di¤erent dimensions such as family ties, ties of informal insurance, and market transaction ties in land, labor and credit markets. We show that the ultra-poor are embedded in a rich web of networks. Among familial and insurance ties, these links are predominantly with members of the lower classes. In contrast, market transactions take place between ultra-poor and upper class households. We …nd that the programme signi…cantly a¤ects the composition of the ultra-poor's social networks. In particular, the programme creates connections between the ultra-poor and households in higher wealth classes, especially for market transactions. The programme is thus e¤ective in giving the ultra-poor a chance to interact with individuals of higher social status, thus opening up possibilities for better integration in society. <ref type="bibr" target="#b1">2</ref> Fourth, we …nd that members of the ultra-poor households'social networks are also a¤ected by the programme, but the e¤ect is heterogeneous depending on the nature of the network. In particular, the …ndings indicate that the large wealth shock experienced by ultra-poor households bene…ts the members of their family network, whose consumption and durables goods expenditures increase, and the members of their informal insurance network, who experience an increase in business skills. The di¤erence between the two networks is consistent with them having di¤erent functions, so that family networks engage in wealth redistribution, and hence are a¤ected by a permanent increase in the wealth of one of their members, whereas insurance networks only smooth temporary income shocks and are therefore una¤ected by permanent increases in wealth. Finally, the programme has no discernible impact on the outcomes of households that are unconnected to the ultra-poor, e¤ectively ruling out the hypothesis that the …ndings for connected households are driven by common trends that di¤er between the treatment and control branch, or through general equilibrium e¤ects through prices or local wages.</p><p xml:id="_HUpjuFW">Our analysis contributes to the growing literature that evaluates interventions that aim to transform the lives of the poorest in society. Emran et al [2009], for example, use panel data from Phase I of BRAC's ultra-poor programme and …nd a signi…cant positive impact on income, food consumption and security, durables and livestock, which is in line with our …ndings. In addition to evaluating the impact on the targeted households, we also show that the programme a¤ects the composition of the social networks they interact with and selected outcomes of the network members.</p><p xml:id="_abesrt9">It is also part of a growing literature evaluating the spillover e¤ects of social assistance programmes in village economies. A number of these studies have exploited data used to evaluate the PROGRESA social assistance programme in rural Mexico [Schultz 2004]. This followed a similar research design to the data we use in that within each geographic location, treated and non-treated households are observed, and a complete census of households is conducted.</p><p xml:id="_jyJRYmm">For example, Angelucci and de Giorgi [2009] …nd there to be indirect e¤ects on the consumption of non-eligibles in treatment villages. They present evidence that this occurs through the insurance and credit markets -households indirectly bene…t from their neighbors higher income by receiving more transfers, by borrowing more when hit by a negative idiosyncratic shock, and by reducing their precautionary savings. <ref type="bibr" target="#b2">3</ref> In the same empirical context, spillover e¤ects in schooling choices <ref type="bibr" target="#b1">2</ref> Our analysis relates to the literature on risk pooling arrangements across households. While such ex post risk pooling mechanisms have been documented in developing country settings, formal tests of the Pareto e¢ cient allocation of risk being achieved at the village level are typically rejected [Townsend 1994, Ligon 1998  Our analysis also contributes to the literature on the e¤ects of extended family on other household behaviors, such as for consumption [Altonji et al 1992]; inter-generational transfers [Cox and Jakubson 1995, Altonji et al 1997, La  Ferrara 2003, Behrman and Rosenzweig 2006]; childrens'education choices [Loury 2006]; and non-resident parental investments into children [Weiss and Willis 1985]. <ref type="bibr" target="#b2">3</ref> Angelucci and De Giorgi [2009] and Gertler et al [2006] provide evidence that local food prices do not change signi…cantly over time between treatment and control villages suggesting that any indirect treatment e¤ects are between treated and non-treated households have been reported by Bobonis and Finan [2008] and Cattaneo and Lalive [2006], and Angelucci et al [2009a]. <ref type="bibr" target="#b3">4</ref> Our main point of departure from this literature is to be able to identify spillovers from ben-e…ciaries to non-bene…ciaries, pinpoint how these spillovers di¤er between households that are connected to bene…ciaries and those that are not, to identify the type of social network these spillovers operate through, and to assess whether the composition of the network is itself endogenously a¤ected by the programme.</p><p xml:id="_UsDDWnR">The paper is organized as follows. Section 2 describes the programme, data, and research design. Section 3 presents descriptive evidence on ultra-poor households and their networks at baseline. Section 4 evaluates the e¤ect of the ultra-poor programme on bene…ciary households, the structure of ultra-poor households's social networks and outcomes among those households that are and are not connected to ultra-poor households. Section 5 concludes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2" xml:id="_BpDDV6G">BRAC' s Ultra-Poor Programme</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1" xml:id="_5267g7A">Programme Description</head><p xml:id="_g9V65g7">BRAC, formerly known as the Bangladeshi Rural Advancement Committee, is the world's largest NGO with programmes in micro-…nance, education, health, environment and social empowerment. BRAC has been a pioneer in implementing programmes that target extreme poverty in Bangladesh. This paper focuses on the second phase of this programme, which was started in 2007 and aims to target 860,300 households in 40 districts of the country by 2011. The programme targets women living in rural parts of the country who are unable to access and bene…t from mainstream poverty reduction programmes and is currently being replicated in a number of countries around the world.</p><p xml:id="_Qrh6pht">BRAC's ultra-poor programme aims to economically, socially and psychologically empower the poorest women in Bangladesh through a multi-faceted intervention. Targeted women receive a combination of assets, such as cows, goats, poultry or seeds for vegetable cultivation. The asset transfer is accompanied with skills training, speci…c to the type of asset provided. Furthermore, a subsistence allowance is provided for the …rst 40 weeks following the asset transfer, with the aim of providing an opportunity for the bene…ciaries to spend some time learning to use the assets to make a living out of them. The allowance enables them to smooth their income while they quit occupations they may have had and devote more time to business activities related to the transferred asset.</p><p xml:id="_afQkyjf">This highly intensive subsidized element of the programme only lasts for two years. Between 18 and 24 months into the programme, the bene…ciaries also take part in con…dence-building sessions about how to use micro-…nance and are enrolled in village-level micro-…nance organizations.</p><p xml:id="_U8CZHRn">Other components of the programme are a savings scheme, preventive and curative health care not being driven by general equilibrium e¤ects of PROGRESA. <ref type="bibr" target="#b3">4</ref> Examples of well identi…ed spillover e¤ects from other settings include health externalities from the eradication of worms [Kremer and Miguel 2004].</p><p xml:id="_3jWC2kt">services and social development support involving training on legal, social and political rights. The ultra-poor households receive monthly visits from a health volunteer and have access to BRAC's legal services. In addition, BRAC initiates the establishment of village committees that bring together representatives from the village elite and from ultra-poor households.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2" xml:id="_TZ2W4xB">Targeting</head><p xml:id="_UpzqmPC">At the …rst stage of selection into the programme, BRAC decides which districts to target. These are chosen to be the poorest in the country in terms of human development indices. BRAC employees from local branch o¢ ces then select the areas within a branch to be targeted by the programme. Each area selected is referred to as a 'spot', which is a cluster of approximately 100 households and is smaller than a village.</p><p xml:id="_K8Mvmed">The programme uses a combination of participatory wealth ranking methods and survey methods to identify the ultra-poor women that will be targeted in each spot. First, a participatory rural appraisal (PRA) is conducted to divide all households in a spot into …ve community de…ned wealth bins and identify the poorest households, one being the wealthiest and …ve the poorest. The households ranked in wealth rank …ve become the 'community-selected ultra-poor'.</p><p xml:id="_zzJY53q">In the …nal stage of targeting, BRAC workers visit the community-selected ultra-poor households and conduct a brief survey to determine who meets the programmes selection criteria. There are three exclusion criteria, all of which are binding. If the household is already borrowing from a micro-…nance-providing NGO, is a recipient of a mainstream government anti-poverty programme, or if there is no adult woman in the household, then it is automatically excluded from the programme. Furthermore, a selected household has to satisfy three of the following …ve inclusion criteria: (i) total land owned including homestead is not more than 10 decimals; (ii) there is no adult male income earner in the household; (iii) adult women in the household work outside the homestead; (iv) school going-aged children have to work; (v) the household has no productive assets. After further cross-checks to make sure that the information provided in the survey is correct, the households that satisfy at least three of these criteria are de…ned as the Specially Targeted Ultra-Poor (STUP) households. These represent the treated households in our analysis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3" xml:id="_sKekMhZ">Evaluation Strategy and Survey Design</head><p xml:id="_jtyBdUH">The data used in this study is part of a larger data collection exercise implemented in collaboration with BRAC within a randomized evaluation strategy to measure the e¤ects of the ultra-poor programme nationwide. Randomization is at the branch o¢ ce level, so that all spots within a branch are either treated in 2007 or in following years. All ultra-poor households and a random sample on non-ultra-poor households are surveyed at baseline and every two years until the programme roll-out ends in 2011. <ref type="bibr" target="#b4">5</ref> Ultra-poor households are selected at the same time in both treatment and control branches, using the same method outlined above. The only di¤erence between them is that ultra-poor in treated branches receive the assets immediately whereas ultra-poor in control branches will receive them in 2011.</p><p xml:id="_Rt23AkG">To provide a more in-depth analysis of the interaction between the programme and social networks, in two branch o¢ ces -one treated branch and one control branch -we surveyed every household in all spots in the branch every year. These households are the subject of this study. The two branch o¢ ces are located in the Naogaon district in North-west Bangladesh. This area was chosen as it contained the …nal two branch o¢ ces to be targeted by the programme within their 2007 expansion, so it allowed us the maximum amount of time to survey everyone living in the selected spots. The treated branch has 22 spots and 1620 households, the control branch has 13 spots and 923 households. Map 1 illustrates the distribution of spots within the study area. The concern of there being spillovers between treatment and control locations is mitigated because: (i) the shortest distance between a treatment and a control household is larger than 6 kilometers; (ii) there is a major river ‡owing between the two branch o¢ ces, reducing the likelihood of travel between locations or their markets being integrated.</p><p xml:id="_5NRMnbX">In the study area, the baseline survey was carried out between October 2007 and February 2008, the follow up fourteen months later between January and April 2009. Assets were transferred between October 2007 and October 2008. <ref type="bibr" target="#b5">6</ref> The survey questionnaire measures a rich set of individual outcomes, including occupational choices, income and expenditure, business and household assets, health, business skills, and empowerment. However, the distinctive feature of the survey that we exploit in this paper is its coverage of social networks. Respondents are asked to list all the households they interact with in each of the surveyed activities, thus for instance the land module lists all the households the respondent lets land to and rents land from, the food consumption module lists all the households the respondent gives food to and receives food from, and so on.</p><p xml:id="_V7Xty8F">Given that we survey every household in the spot, we can fully map various types of networks at the spot level. This detailed network mapping allows us to identify who the ultra-poor interacted with before the programme and how these households are a¤ected by it. It also allows us to see how the network structure and social standing of the ultra-poor households change with the poverty reduction programme.</p><p xml:id="_72qqUd3">Then, for districts that contain upazilas that have more than one branch o¢ ce, we drop the upazilas with only 1 branch o¢ ce in them. Out of the rest, we: (i) randomly choose 2 upazilas for the Northern districts and 1 for the Non-North districts. (ii) Within each upazila, randomly choose one control and one treatment branch o¢ ce. For districts that do not have any upazilas with more than one branch o¢ ce in them (only one: Kishoreganj), we randomly allocate one branch o¢ ce to control, and one to treatment. <ref type="bibr" target="#b5">6</ref> The fact that di¤erent households received assets at di¤erent points in time as the programme was rolled out across spots in the branch raises the issue of heterogeneous treatment e¤ects, as households who had the asset for longer had more time to adjust. In our sample, the median household had the asset for 9 months, and only 10% of the households had it for less than 5 months. Results are qualitatively similar if we restrict the sample to households who had the asset longer than 5 months or longer than 9 months (the median). We note that the sample used here might be too small to estimate heterogeneous e¤ects precisely. We defer the analysis of this issue to the evaluation in the full sample.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3" xml:id="_YXQp5xR">Data Description</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1" xml:id="_KsshwkW">The Lives of the Ultra-Poor at Baseline</head><p xml:id="_6JgVtaw">Table 1, Panel A, describes the characteristics of ultra-poor households and other households belonging to each of the …ve socioeconomic classes as ranked by the community. The …rst row lists the number and sample shares of households in each class. The sample contains 186 ultrapoor households, accounting for 9% of the households in the spot on average. Twice as many households were ranked in the same social class as the ultra-poor by the local community, but were not selected by the programme. The next poorest class (class four) has the largest number of households in the sample. Taken together the two bottom classes account for just over half the sample households, while 18%, 14% and 13% of households belong to the middle and top two classes, respectively.</p><p xml:id="_246XGgR">The second row shows that, in line with the programme targeting strategy, ultra-poor households are more likely to be female headed. The share of male headed households is 55% for the ultra-poor , 85% for the other households in class …ve, and close to 100% for all other classes. Household size (row three) is increasing in wealth, ranging from 3 for the ultra-poor to 4.8 for the top class.</p><p xml:id="_SmbTTZm">The next two rows show basic indicators of human capital, literacy as a measure of education and BMI as a measure of health. In both cases we report measures for the survey respondent, that is the main female in the household. Measures for household heads are correlated. Only 9% of ultra-poor are literate and the share increases rapidly with wealth from 26% among leading women in the bottom class to 55% in the top class. This gives a clear illustration of the low levels of human capital in these villages. <ref type="bibr" target="#b6">7</ref> The next row show that BMI is also increasing in wealth, with the ultra-poor being at the bottom of the lowest class with a 18.6 average, up to 20.9 in the top class. <ref type="bibr" target="#b7">8</ref> The next three rows report measures of expenditure and wealth. Average per capita expenditure by ultra-poor households is just under 60% of average per capita expenditure by households in the middle class and just under 25% of average per capita expenditure in the upper class. Differences in wealth are much starker. The corresponding …gures for the value of household durables are 23% and 6%, whereas for the value of business assets these are 2.4% and .03%, largely driven by the fact that 42% of ultra-poor households have no assets at baseline. The Gini coe¢ cient for wealth is .79, re ‡ecting the large degree of inequality in the distribution of assets.</p><p xml:id="_uD6XAJD">The di¤erences in business assets translate into di¤erences in occupational structure. Panel B reports the annual hours devoted to the four most common economic activities for women in this sample as well as annual leisure hours computed as the hours not devoted to any economic activity, including household chores, which are the principal activity for women in our sample. Three patterns are of note. First, ultra-poor households spend considerably more time selling labor outside the household both as agricultural daily laborers and as maids, to which they devote 330 and 450 hours annually, respectively. The hours devoted to these activities fall rapidly as we move up along the class structure and women in the middle and upper classes are very rarely involved in these activities.</p><p xml:id="_kkjsUrv">Second, in line with the skewed distribution of assets, and in particular livestock, ultra-poor respondents devote much less time to livestock rearing. The average for the main female in a ultra-poor household is 382 hours per year, compared to 815 for the main female in a middle class household and 847 in an upper class household. Di¤erences in household chores exhibits a similar pattern, presumably due to the fact that livestock rearing is typically done on homestead land, hence it is easier to combine with chores.</p><p xml:id="_WgUapQ3">Third, once we sum up the hours devoted to all economic activities, including minor activities not listed in the table and household chores, leisure hours are very similar across wealth classes, averaging about 6300 per year or 17 per day. This implies that even in the poorest classes women are not underemployed, rather they are employed in activities (paid labor) that are likely to be less remunerative. Rather than creating employment, we then expect the programme to change the pattern of time use towards more remunerative activities.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2" xml:id="_Zw3eMvj">Asset Transfers and the Distribution of Wealth</head><p xml:id="_GrWT6B3">The average ultra-poor in our sample receives an asset valued 9958TK. In the context of the distribution of business assets described in Table <ref type="table" target="#tab_0">1</ref>, the value of the assets BRAC transferred to ultra-poor households is twice the mean value of ultra-poor 'business assets at baseline. For the 42% of ultra-poor households that had no assets at baseline the transfer obviously entails an even more signi…cant change in wealth, but even for the average ultra-poor household that had some assets at baseline, the transfer amounts to doubling the value of those assets.</p><p xml:id="_jdEXQ6m">The value of all the transfers to all ultra-poor households in each spot amounts to between .1% and 6% of the value of all business assets in the spots. The transfers are thus a sizeable share of existing wealth, amounting, on average, to 6 times the wealth of the lowest class, 33% of the second lowest, 10% of the middle class and 6% and 2% of the two upper classes.</p><p xml:id="_BdarmER">The size of the transfers relative to the value of existing spot assets implies that the programme has a non trivial impact on the distribution of wealth, pushing the ultra-poor out of the bottom and possibly above some of the lowest classes. To illustrate this, Figure <ref type="figure">1A</ref> shows the kernel density estimates of the distribution of log wealth in treated spots before and after the transfer. The comparison of the two distributions clearly shows that a mass of individuals move from the left tail to the center, with a considerable reduction in inequality. The two vertical lines represents the average value of ultra-poor log wealth before and after the transfer, highlighting the fact that the programme pushed treated ultra-poor a long way up the wealth distribution. A similar graph for control spots (Figure <ref type="figure">1B</ref>) suggests that this change did not occur where the programme did not operate.</p><p xml:id="_paDSnrV">To evaluate the impact of the ultra-poor programme on the distribution of wealth formally, accounting for household characteristics and trends common to treated and control spots, we estimate the following regression:</p><formula xml:id="formula_0">y it = 1 + P 6 j=2 j C j i + 1 T i + P 6 j=2 j C j i T i + 1 R t + P 6 j=2 j C j i R t + 1 T i R t + P 6 j=2 j T i C j i R t + 0 X it + it<label>(1)</label></formula><p xml:id="_p6WhVd7">where y it is log total wealth of household i in year t, C j i are class dummies for all classes above ultra-poor , T i = 1 if household i is in a treated spot, 0 otherwise, R t = 1 if year t is after the programme, 0 if before and X it is a vector of household controls, which includes size, irreligion, years of education of the respondent, maximum years of education in the household, respondent age, marital status, whether the household receives government bene…ts and an indicator for whether the interview takes place during the lean season to account for seasonal di¤erences in saving and consumption patterns.</p><p xml:id="_PnxR7mn">The parameters of interests are j and j . j measures the di¤erence between the average ultra-poor household and the average household in class j before and after the programme in treated spots. j measures the di¤erence in di¤erence of the same quantity in treated and control spots. Under the assumption that the change in control spots is a good counterfactual for the equivalent change in treatment spots in the absence of the programme, the di¤erence in di¤erence measures the e¤ect of the programme.</p><p xml:id="_eQS6jak">Table <ref type="table">2</ref> shows that after the programme the ultra-poor become wealthier than non-treated households in their same wealth class, and also wealthier than households in class four, thus e¤ectively moving up two slots in the community wealth classi…cation. <ref type="bibr" target="#b8">9</ref> The table shows that both the simple di¤erences (b j + b j ) and the di¤erence in di¤erences (b j ) are precisely estimated for all wealth classes. Moreover the two are quite similar, con…rming, as already suggested by Figure <ref type="figure">1</ref>, that the distribution of assets did not change where the programme did not operate.</p><p xml:id="_gP5JQqZ">Estimates of (1) for the log of PCE, not reported for reasons of space, show a similar pattern with ultra-poor becoming better o¤ than class four, and somewhat below the middle class. Simple di¤erences and di¤erence in di¤erences estimates are also similar suggesting that no change took place where the programme did not operate, but most coe¢ cients are imprecisely estimated, so the evidence is suggestive but needs to be interpreted with caution.</p><p xml:id="_5ytck3P">The impact of the programme on the distribution of wealth within the spots, implies that the programme is likely to a¤ect economic and social outcomes of households other than the treated ultra-poor. Social networks are likely to be a key mechanism through which the programme spills over onto non-treated households. To explore this hypothesis, the next section describes the <ref type="bibr" target="#b8">9</ref> In Table <ref type="table">2</ref>, the row titled "At baseline" gives b j + b j , the di¤erence between STUPs and wealth class j in the treatment branch at baseline; the row titled "At follow-up" gives b j + b j + b j + b j , the di¤erence between STUPs and wealth class j in the treatment branch at follow-up; the row titled "Simple Di¤" gives b j + b j , the di¤erence-in-di¤erence between the STUPs and wealth class j at baseline and follow-up; the row titled "Di¤-in-Di¤" gives b j , the triple di¤erence between the STUPs and wealth class j in treatment and control branches, in baseline and follow-up.</p><p xml:id="_w5emHhc">structure of the networks ultra-poor households are embedded in.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3" xml:id="_dnZex3Q">Ultra-poor Households and Their Networks</head><p xml:id="_6G6jgQF">Given that we survey all households in the spot we can map entire networks at the spot level. To simplify the exposition, we group network relationships into three categories. The …rst includes all households that are linked by family ties, the second all households that engage in economic transactions (land rentals, credit and employment) and the third all households that engage in insurance transfers (food exchange, assistance in times of crisis and other transfers in cash or in kind). The sets are not exclusive, so that household i could belong to all three networks of household j, if for instance i is part of j's family, rents some land from them and gives them food to cope with crisis.</p><p xml:id="_8FZf9CD">To measure the network connections of ultra-poor households we count a household to be connected to a ultra-poor if either the household or the ultra-poor lists the other among its network members. While in many cases the two coincide (e.g. for family), allowing unidirectional links has the advantage of capturing all available information when this is unlikely to be collected on both sides, for instance, a ultra-poor will name their employer, but a large employer is only asked to name his/her main employee for every business activity he may have.</p><p xml:id="_7GEYhUQ">Table <ref type="table">3</ref> shows the share of households that are connected to ultra-poor households on each of the three network dimensions, at the spot level by social class. The table shows that 25% of households in the spot belong to the informal insurance network of at least one ultra-poor household, 15% have family ties with a ultra-poor household and only 2.5% have economic ties. These averages hide considerable variation within class. Indeed, 38% of ultra-poor households belong to the insurance network of at least another ultra-poor household, but the share falls quickly from 28% for households belonging to the bottom wealth class to 16% for households belonging to the top class. This is consistent with insurance networks being formed assortatively among people of similar wealth levels, but there is substantial sharing across wealth classes. The next two columns separate the insurance networks according to the direction of the ‡ows, whether to or from ultra-poor households. The two are non-exclusive and indeed most households both give and receive from ultra-poor households. This is particularly true at lowest wealth levels, whereas, as expected, the upper classes mostly give and rarely receive transfers from the ultra-poor.</p><p xml:id="_ByRJeCZ">Family networks are also distributed by class but the gradient is ‡atter, so that 20% of households in the bottom two classes are connected to at least one ultra-poor household, the share falls to 12% for the middle and lower-upper classes and …nally to 3% for the top class. Finally, economic networks follow the reverse pattern as almost no households except the very richest employ, rent land or give credit to the ultra-poor. Among the top class, 12% of households do.</p><p xml:id="_38Zdaat">Table <ref type="table">3</ref> thus show that the ultra-poor households are embedded in a rich network structure at the spot level. This opens up the possibility that this structure changes as a result of the programme and that the programme itself a¤ects the outcomes of the households that have network connections to the ultra-poor. Sections 4.2 and 4.3 evaluate the impact of the programme on the structure of the networks and their members.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4" xml:id="_Zb3wFEs">Analysis</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.1" xml:id="_5WmVVH6">Programme E¤ect on Treated Ultra-poor</head><p xml:id="_WgVfBhS">To evaluate the e¤ect of the programme on the treated ultra-poor households we use a di¤erence in di¤erence estimator that exploits the variation before and after the programme between ultra-poor households residing within the treatment and the control branch. As discussed in detail in Section 2, the same selection process was carried in all spots, but only selected ultra-poor in the treatment branch received the asset. We restrict the sample to ultra-poor households and estimate:</p><formula xml:id="formula_1">y it = + T i + R t + T i R t + X it + it ;<label>(2)</label></formula><p xml:id="_7MhVJ7q">where y it is outcome of interest for household i in period t; T i = 1 if household i lives in the treated branch and = 0 if in they live in the control branch, R t = 1 after the programme and 0 otherwise, X it are household controls described in Section 3.2 above. The parameter of interest is , the di¤erence in di¤erence between treatment and control before and after the programme. Under the identifying assumption that the control spots represent a valid counterfactual for the treated spots in the absence of the programme, namely that trends in all outcomes of interests are the same in treatment and control, identi…es the causal e¤ect of the treatment on the treated. Imperfect compliance and drop-outs are not an issue in this context as all households who were selected participated in the programme, and all of them stayed on until at least the follow-up. Appendix Table <ref type="table" target="#tab_0">A1</ref> reports the means of key variables in treatment and control at baseline. As is expected in a randomization over two units, there are some signi…cant di¤erences. In particular, the ultra-poor are worse-o¤ in treatment spots, in terms of durables and human capital. They also have a di¤erent occupational structure, with more hours devoted to wage labor and fewer hours to husbandry and household chores. The key concern is that might be contaminated by reversion to the mean. This concern is partially ameliorated by the fact that similar di¤erences between treatment and control also exist for non ultra-poor households (Tables <ref type="table" target="#tab_1">A2 to A4</ref>), which indicate that if the estimated were to be solely driven by reversion to the mean, we should …nd the same e¤ect when we estimate (2) for non ultra-poor households. The fact that we do not (as shown in Section 4.3 below) allays this concern.</p><p xml:id="_yQUCt2C">Columns 1 and 2 in Table <ref type="table" target="#tab_1">4</ref> report the e¤ects of the programme on the variables that are directly a¤ected by it, namely business assets and savings. The di¤erence in di¤erence estimates indicate that business assets of the treated ultra-poor increase by 22,500TK, that is …ve fold the average value of business assets belonging to ultra-poor at baseline. Savings increase by 1,100TK, a six fold increase from the baseline amount. Both e¤ects are precisely estimated at conventional levels.</p><p xml:id="_9hEF4DV">Columns 3 to 7 evaluate the e¤ect of the programme on ultra-poor time use. The programme increases the time devoted to livestock rearing by 560 hours, or 1.5 times the baseline amount.</p><p xml:id="_dMgHmcv">Similarly, the programme reduces the time devoted to daily labor by 440 hours (1.3 times the baseline amount), and to maid services by 1100 (over two times the baseline amount). The programme also increases the time devoted to household chores by 420 (one third of the baseline amount). The …ndings show that the programme transforms the occupational structure of the main female in ultra-poor households, and that the magnitude of the e¤ect is large enough to make the occupational structure of the ultra-poor similar to that of the middle and upper classes as described in Table <ref type="table" target="#tab_0">1</ref>. Finally, we …nd that the change in time use is accompanied by an increase in hours worked, as leisure falls by 420 hours, or 7% of the baseline amount. Columns 8 and 9 evaluate the e¤ect on the respondent's income. Including the 15TK daily stipend that comes with the asset transfer, income increases by 2,800TK, which amounts to doubling the baseline. Without the stipend, however, income falls by 700TK. Further analysis which is not reported for reasons of space indicate that this is driven by a loss of earnings from maid work and daily laboring. This is in line with the expectations of the programme, as assets cannot generate much income in the short run, and this was the rationale for paying the stipend. We note that the stipend however more than compensates for the loss of earnings as income including stipend is signi…cantly higher for treated ultra-poor households.</p><p xml:id="_XAWTqYd">Table <ref type="table" target="#tab_2">5</ref> illustrates what the extra income is used for. Column 1 shows a 10% increase in per capita expenditure, but this is not signi…cant at conventional levels. Further results (not shown) indicate that this is driven by an increase in non-food expenditures per capita, while food expenditures experience a slight decline. Consumption analysis of individual food items reveal some increase in meat and egg consumption, but none of these e¤ects are precisely estimated.</p><p xml:id="_BECRJDG">The next columns show that the programme lead to an increase in household durables, driven by purchases of radios and bicycles. Further analysis (not shown) does not …nd a signi…cant e¤ect on any other non-food expenditures or investments such as house repairs.</p><p xml:id="_c8HeThX">Table <ref type="table" target="#tab_3">6</ref> evaluates the e¤ect of the programme on human capital outcomes. The …rst two columns show the e¤ects on the respondent BMI (1.07, corresponding to a 2.2 kg increase for the average height) and on children z-scores (.72). While neither is precisely estimated, both are very large in magnitude. To put the BMI numbers in context, 1.07 is between the di¤erence between ultra-poor and class 4 (1) and between ultra-poor and class 3 (1.2) at baseline. This is not necessarily inconsistent with the fact that food expenditure and calorie composition is unchanged, as measurement error in these variables is notoriously severe.</p><p xml:id="_VhUcDvj">Columns 3 and 4 analyze the impact of the programme on self-assessed entrepreneurship skills. The survey collects information on a rich set of twelve business skills, ranging, e.g. from the ability to identify a promising business opportunity, to keeping books and managing employees.</p><p xml:id="_PFW7mD3">For parsimony we group the twelve business skills into two categories according to whether they require third party interactions (e.g. keeping books versus dealing with clients). The rationale behind this is that the ultra-poor are likely to have more control over their own learning abilities (e.g. to keep books) than over outcomes that depend on the perception that others have of them. The estimates indicate that the programme signi…cantly increases the individual measure of business skills by 20% but its impact on the people's measure is just below half the size and not precisely estimated. This is consistent with the fact that the ultra-poor status in society and that a¤ects their ability to deal with third parties might change at a slower pace than their asset holding and occupational choices.</p><p xml:id="_r5xXTeU">Overall, the …ndings indicate that the programme leads to radical changes in the economic lives of ultra-poor households, as their asset level and occupational choices come to resemble those of the lower-middle classes. By revealed preference, household durables were the items the ultra-poor felt more constrained on, as those are the only purchases for which we can measure a signi…cant increase. We also see a signi…cant increase in business skills, which is encouraging for the long-term sustainability of the programme.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.2" xml:id="_xcznJsx">Programme E¤ect on the Structure of Networks</head><p xml:id="_ndW9Y4W">This section investigates whether the radical changes in ultra-poor circumstances brought about by the programme a¤ect the type of transactions that take place within their network, or the composition of the network per se. As described earlier, we group information on all transactions between ultra-poor and other households in the spot into two broad networks. The market network includes market transactions in employment, credit and land rental. We de…ne household j to be in the market network of a ultra-poor if j either employs (or in principle is employed by) a ultra-poor, lends or borrows from a ultra-poor or lets or rents land to a ultra-poor The 'informal insurance' network includes all non market transfers, monetary or in-kind, that are not explicitly payment for services or other goods. We de…ne household j to be in the insurance network of a ultra-poor if j exchanges (borrow/lend) food items, provides assistance in times of crisis or transfers in cash/kind with a ultra-poor household. Finally, we also study family networks, i.e. networks whose members are linked through family relations, even they never engage in market or non-market transactions.</p><p xml:id="_B4BERUs">This section investigates whether the programme leads ultra-poor to change the members of their market and insurance networks (by de…nition, family cannot change other than for reasons exogenous to the programme such as migration or marriage). <ref type="bibr" target="#b9">10</ref> This is the …rst step of a research agenda that aims to exploit the exogenous changes brought by the programme to shed light on how networks react to changes in the wealth of their members and the implications that this has for our understanding of the functions of di¤erent networks.</p><p xml:id="_heuswzF">To evaluate the e¤ect of the programme on the composition of the ultra-poor networks we test whether the programme made the ultra-poor drop existing members and/or add new ones. Our baseline speci…cations are:</p><formula xml:id="formula_2">m j1 = 1 + 1 T j + 1 X j + j if m j0 = 1<label>(3)</label></formula><formula xml:id="formula_3">m j1 = 2 + 2 T j + 2 X j + j if m j0 = 0</formula><p xml:id="_fq3Wd9R">where m j1 = 1 (m j0 = 1) if household j is connected to a ultra-poor after (before) the programme, <ref type="bibr" target="#b9">10</ref> Reassuringly, we …nd that the programme has no e¤ect on the composition of the family networks. 0 otherwise. We estimate (3) separately for market and insurance networks. The …rst equation in (3) estimates the probability that household j remains connected to a ultra-poor after the programme, whereas the second estimates the probability that household j becomes connected to a ultra-poor after the programme. The parameters of interest are 1 and 2 ;which measure the di¤erence between treatment and control. 1 &gt; 0 ( 2 &gt; 0) indicates the average household is more likely to remain connected (to join) at least one ultra-poor in spots where the programme is active.</p><p xml:id="_fsQKSnV">We also investigate whether the e¤ect of the programme depends on the social class of j;by interacting the T j term in (3) with class dummies. This allows us to establish whether the ultrapoor substitute network members across wealth classes as they become wealthier.</p><p xml:id="_Q2fdaCa">Table <ref type="table" target="#tab_4">7</ref> reports the estimates of (3) with and without the interactions with class dummies, for the market and insurance networks. The table reports the average e¤ect of the programme on all classes in Columns 1-2 and 5-6 and the average e¤ect by wealth class in Columns 3-4 and 7-8.</p><p xml:id="_hADwdce">Columns 1 and 2 show that the programme has no signi…cant impact on the composition of the market network. Both 1 and 2 are not signi…cantly di¤erent from zero, although the estimate of <ref type="bibr" target="#b0">1</ref> is large, indicating that households in treated spots are neither more nor less likely to remain connected or join a ultra-poor network after the programme. Columns 3 and 4 show that the average e¤ect hides heterogeneous e¤ects by wealth class. In particular we …nd that households in class 4 are signi…cantly less likely to remain connected to ultra-poor after the programme, whereas upper class households are signi…cantly more likely to remain connected. In line with this, Column 4 shows that upper class households are signi…cantly more likely to join a ultra-poor network after the programme. Columns 5 and 6 indicate that 1 &gt; 0 and 2 &gt; 0 for informal insurance networks, although only 2 is precisely estimated, indicating that this network becomes larger after the programme. Columns 7 and 8 show that the expansion is accompanied by a change in composition by social class. In particular, Column 7 shows that ultra-poor households are signi…cantly less likely to remain connected to other ultra-poor households, whereas households belonging to class 3 are more likely to remain connected. Column 8 then shows that other ultra-poor households and households from class 5 and 4 are more likely to join.</p><p xml:id="_tVWhWKw">Taken together these …ndings indicate that the programme has a signi…cant impact on the composition of the ultra-poor network. In particular, the programme seems to create connections between ultra-poor and households in higher wealth classes, especially for market transactions. The programme is thus e¤ective in giving the ultra-poor a chance to interact with individuals of higher social status, thus reducing opening up possibilities for better integration in society.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.3" xml:id="_c7MhFHB">Programme E¤ect on Households With and Without an Ultrapoor Connection</head><p xml:id="_kssuXSV">The dramatic change in the lives of the ultra-poor is likely to a¤ect households that are connected to them through various networks. To investigate this hypothesis this section evaluates the e¤ect of the programme on the outcomes of non-ultra-poor households that are connected to at least one ultra-poor household, and compares them to households that have no connection to the ultrapoor. To purge the estimates from changes due to changes in network compositions we restrict the sample to households that are connected (not connected) to ultra-poor both at baseline and follow-up. We also restrict the analysis to family and insurance networks, as only 13 households have market connections to ultra-poor before and after the programme.</p><p xml:id="_Zx6h7Ar">Tables <ref type="table" target="#tab_13">8 to 16</ref> evaluate the e¤ect of the programme on households linked to ultra-poor through family connections, through insurance networks and not connected. We follow the same methodology, use the same speci…cation and same outcome variables as in Section 4.1 above.</p><p xml:id="_VP9E3se">Five …ndings are of note. First, neither connected nor unconnected households experience an increase in the outcomes directly a¤ected by the programme -business assets and savings. This is reassuring as it suggests that the increase experienced by the ultra-poor are purely due to the programme, namely there are no di¤erential trends between the treatment and control branches that could explain part of the di¤erence.</p><p xml:id="_9S4ZASz">Second, the programme a¤ects the time use of connected households: both family and members of the insurance networks increase the time devoted to household chores at the expense of leisure, and the magnitude of the e¤ect is comparable to the same e¤ect for the ultra-poor -about 400 hours per year. This is not due to common trends at the branch level, as unconnected households are una¤ected, and it deserves further investigation.</p><p xml:id="_ZrPpuFt">Third, households who are connected to at least one ultra-poor through family links experience a signi…cant and large increase in per capita expenditure, which raises by 30% of the baseline amount. This comes entirely from non-food expenditure and is also mirrored by an increase in household durables, in particular bicycles and beds. Human capital variables are una¤ected.</p><p xml:id="_QfTVqFM">Fourth, the increase in per capita expenditure for households belonging to the insurance network is smaller (18% of the baseline amount) and not precisely estimated. We observe no signi…cant change in household durables or any other item. There is however a signi…cant increase in self reported business skills, by roughly half the comparable magnitude for the ultra-poor (.18 vs. .40). Further analysis (not shown here) indicates that the e¤ect for members of the insurance network who are not family members is even closer to the e¤ect on the treated (.27 vs. .40).</p><p xml:id="_8Rb7meP">Fifth, the programme has no discernible impact on the outcomes of non connected households, e¤ectively ruling out the hypothesis that the …ndings for connected households are driven by common trends that di¤er between the treatment and control branch.</p><p xml:id="_fWh5agR">Taken together the …ndings indicate that the large wealth shock experienced by ultra-poor households bene…ts the members of their family network, whose consumption expenditure and durables increase, and the members of their informal insurance network, who experience an increase in business skills. The di¤erence between the two networks is consistent with them having di¤erent functions, so that family networks engage in wealth redistribution, and hence are a¤ected by a permanent increase in the wealth of one of their members, whereas insurance networks only smooth temporary income shocks and are therefore una¤ected by permanent increases in wealth.</p><p xml:id="_6arXPJD">We note that the e¤ect on family members can be driven both by a direct transfer from the ultra-poor and by a reduction in current and expected future transfers to ultra-poor , implying that family members disposable income increases. The reduction in current and expected future transfers must play a key role because the increase in consumption expenditure is stronger for family members than for the ultra-poor themselves. The fact that the programme a¤ects the business skills of members of the insurance network but not of those of the family network might be driven by the fact that insurance networks are endogenously chosen, possibly among people with similar interests, who can bene…t from learning business skills from the ultra-poor. Members of family networks, on the other hand, need not have similar interests, so that they might not bene…t and hence have no incentive learn how to run a business from the treated ultra-poor.</p><p xml:id="_C5hw7QE">While our results are consistent with this assumption on the di¤erent roles of di¤erent networks, they are far from providing de…nitive evidence. A parallel project is fully dedicated to explore these issues in detail.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5" xml:id="_FPdZHcY">Conclusions</head><p xml:id="_a8ZVMF5">Combining a randomized evaluation strategy with a survey of all households in treatment and control locations, we provide evidence on the e¤ect of a programme which attempts to promote basic entrepreneuship amongst the poorest women in Bangladesh. We examine the e¤ects of programme both on targeted bene…ciaries and within the social networks to which they belong. We show that the programme transforms the economic lives of the bene…ciaries, the composition of their social network, and selected outcomes of network members. The key contribution of this paper is to show that the e¤ect of the programme extends beyond the private sphere, and spills over into the social networks of the bene…ciaries. Three …ndings are of particular note.</p><p xml:id="_5E3wytr">First, we show that network composition changes, and as they become wealthier, bene…ciaries establish connections with households in higher wealth classes. Using an exogenous shock -the programme -we are thus able to shed light the causal e¤ect of wealth di¤erences on network membership.</p><p xml:id="_e4cg3Mm">Second, and in contrast to earlier work on programme spillovers, we show that the distinction between households that are socially connected to the bene…ciaries and those who are not is crucial, as only the former are a¤ected by the programme.</p><p xml:id="_T5gQdPZ">Third, our detailed information on social interactions on a wide range of domains allows us to show that spillovers are heterogeneous by network type, and the evidence indicates that family networks share wealth, whereas informal insurance networks share information on business skills.</p><p xml:id="_5fVHTrW">Ultimately, however, both the estimated private and social e¤ects are measured within a single year, and thus might over-or under-estimate the long run e¤ects. For instance, bene…ciaries consumption and human capital might grow faster once they reach the peak of the learning curve, so that our estimates may be smaller than the long-run e¤ects. On the other hand, changes in network composition might just re ‡ect short-run experiments, which might be undone in the long run. Future survey rounds will provide the data to answer these important questions.</p><p xml:id="_kNfVHTs">STUPs other WR 5 WR 4 WR 3 WR 2 WR 1 186 371 602 392 307 301 8.6% 17.2% 27.9% 18.2% 14.2% 13.9% .55 .85 .97 .96 .98 .98 (.50) (.36) (.18) (.19) (.14) (.14) 3.05 3.44 3.81 4.03 4.14 4.78 (1.72) (1.31) (1.25) (1.31) (1.42) (2.01) .09 .26 .29 .38 .45 .55 (.28) (.44) (.46) (.49) (.50) (.50) 18.60 19.43 19.70 19.86 20.42 20.92 (2.90) (2.72) (2.94) (3.10) (3.30) (3.31) 6134.4 6895.5 7696.9 10093.8 13111.3 24517.6 (3438.0) (4240.0) (5064.2) (8442.9) (11959.8) (78347.3) 328.7 818.8 1021.8 1460.7 2221.5 5690.6 (424.3) (2589.9) (1243.3) (2000.6) (2738.3) (11876.3) 4327.9 20711.4 42125.7 176843.5 390901.9 1196752 (21460.8) (130769.8) (102413.9) (357345.5) (547774.4) (2093045) 169.7 487.8 773.5 1617.4 1307.3 12945.9 (782.4) (1459.9) (1558.0) (8652.0) (3472.0) (73930.2) 2.33 2.47 2.53 2.53 2.44 2.44 (.58) (.58) (.57) (.54) (.62) (.63) 2.59 2.63 2.66 2.65 2.64 2.55 (.45) (.50) (.47) (.46) (.50) (.52) STUPs other WR 5 WR 4 WR 3 WR 2 WR 1 382.63 616.72 751.90 815.29 850.51 847.41 (433.91) (534.53) (440.66) (429.98) 390.73 (377.99) 331.77 156.20 112.91 94.06 31.86 4.05 (562.49) (460.28) (349.00) (312.76) (169.14) (52.01) 449.65 126.58 39.10 9.59 5.54 1.99 (747.33) (428.99) (226.20) 135.60 (60.52) (34.58) 1203.07 1439.96 1505.94 1499.68 1539.12 1565.25 (493.81) (525.38) (471.21) (459.78) (435.24) (480.00) 6327.67 6412.08 6330.11 6310.09 6299.37 6319.93 701.52 (759.46) (684.68) (671.78) (644.80) (683.64) N 186 371 602 392 307 301</p><p xml:id="_XAqtM63">Panel B Notes:Total hours that the main female in the household spent during the previous year given by type of activity.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_ypTu7Yu">Table 2: Baseline Occupational Structure</head><p xml:id="_44xWNJ5">Entrepreneurship I is the mean for the responses to 6 questions about respondent's self-confidence in her entrepreneurial tasks. The responses can be 1=I definitely cannot do this task, 2=May be I can do this task, 3=I definitely can do this task. The tasks are to run your own business, to identify business opportunities to start up new business, to identify business opportunities to expand existing business, to save in order to invest in future business opportunities, to manage financial accounts, to estimates acccurately the costs of running a new business. Entrepreneurship II is the mean for the responses to 6 taks about responsent's self-confidence in her entrepreneurial skills, for tasks involving her interaction with others. The tasks are to bargain to obtain cheap prices when you are buying inputs for your business, to bargain to obtain high prices for your outputs, to protect your business from harm by others, to collect money someone owes you, to make sure employees get the work done properly, to obtian credit to start up new business ot to expand existing business.  Treat is a dummy variable equal to 1 if the household is in a treatment spot. Repeat is a dummy variable for whether the observation is from the followup survey. In Column 1 the dependent variable is the total value of business assets (in TAKAs). In Column 2 the dependent variable is total value of savings (in TAKAs) of the household. In Columns 3, 4, 5 and 6 the dependent variables are the hours spent by the main female in the household during the past year working in animal husbandry, working in daily labor, working as a maid and on household chores respectively. In Column 7 the dependent variable is the hours spent not working on any business activity or household chores by the main female in the household during the past year. In Column 8 the dependent variable is the total household income (in TAKAs) from the business activities of the main female respondent during the past year, including the stipend that the treated STUPs received from BRAC. In Column 9 the dependent variable is the total household income (in TAKAs) from the business activities of the main female respondent during the past year, excluding the stipend. Treat is a dummy variable equal to 1 if the household is in a treatment spot. Repeat is a dummy variable for whether the observation is from the followup survey. In Column 1 the dependent variable is the value (in TAKAs) of the per capita food and non-food consumption of the household during the past year.</p><p xml:id="_zSN963a">In Column 2 the dependent variable is the total value of household durables (radios, bicycles, chairs, tables, beds and bednets) owned by the household, in TAKAs.In Columns 3-8, the dependent variables are respectively the number of radios, bicycles, chairs, tables, beds and bednets that the household owns. Treat is a dummy variable equal to 1 if the household is in a treatment spot. Repeat is a dummy variable for whether the observation is from the followup survey. In Column 1 the dependent variable is the BMI of the respondent. In Column 2 the dependent variable is the z-score for the weight-forlength of the children aged 1-5 years old. In Column 3 the dependent variable is the mean for the responses to 6 questions about respondent's self-confidence in her entrepreneurial skills. The responses can be 1=I definitely cannot do this task, 2=May be I can do this task, 3=I definitely can do this task. The tasks are to run your own business, to identify business opportunities to start up new business, to identify business opportunities to expand existing business, to save in order to invest in future business opportunities, to manage financial accounts, to estimate accurately the costs of running a new business. In Column 4 the dependent variables is the mean for the responses to 6 questions about respondent's self-confidence in her entrepreneurial skills. The responses can be as before. The tasks are to bargain to obtain cheap prices when you are buying anything for business, to bargain to obtain high prices for your outputs, to protect your business assets from harm by others, to collect the money someone owns you, to make sure employees get the work done properly, to obtain credit to start up new business or expand existing business. *** 0.01, ** 0.05, * 0.10. The dependent variable is a dummy variable equal to 1 if the household is connected to a STUP household at followup through the market network (columns 1-4) or through the informal insurance network (columns 5-8). The row "Baseline Connected" indicates whether the sample consists of households that are connected to STUPs at baseline or those who are not connected to STUPs at baseline through the relevant network. Treat is a dummy variable equal to 1 if the household is in a treatment spot. In columns 3-4 and 7-8 the regression includes interaction of the treat dummy with wealth classes. The reference category is STUP. The rows WR5-WR1 report the sum of the coefficient of treat with the interaction of treat and the relevant wealth class dummy variable and the standard error of this sum. *** 0.01, ** 0.05, * 0.10. The sample includes the households who are in the first degree family of STUPs and live in the same spot. Treat is a dummy variable equal to 1 if the household is in a treatment spot. Repeat is a dummy variable for whether the observation is from the followup survey. In Column 1 the dependent variable is the total value of business assets (in TAKAs). In Column 2 the dependent variable is total value of savings (in TAKAs) of the household. In Columns 3, 4, 5 and 6 the dependent variables are the hours spent by the main female in the household during the past year working in animal husbandry, working in daily labor, working as a maid and on household chores respectively. In Column 7 the dependent variable is the hours spent not working on any business activity or household chores by the main female in the household during the past year. In Column 8 the dependent variable is the total household income (in TAKAs) from the business activities of the main female respondent during the past year. In Column 2 the dependent variable is the total value of household durables (radios, bicycles, chairs, tables, beds and bednets) owned by the household, in TAKAs.In Columns 3-8, the dependent variables are respectively the number of radios, bicycles, chairs, tables, beds and bednets that the household owns. Treat is a dummy variable equal to 1 if the household is in a treatment spot. Repeat is a dummy variable for whether the observation is from the followup survey. For the explanation of the dependent variables, see notes for Table <ref type="table" target="#tab_3">6</ref>. Treat is a dummy variable equal to 1 if the household is in a treatment spot. Repeat is a dummy variable for whether the observation is from the followup survey. In Column 1 the dependent variable is the total value of business assets (in TAKAs). In Column 2 the dependent variable is total value of savings (in TAKAs) of the household. In Columns 3, 4, 5 and 6 the dependent variables are the hours spent by the main female in the household during the past year working in animal husbandry, working in daily labor, working as a maid and on household chores respectively. In Column 7 the dependent variable is the hours spent not working on any business activity or household chores by the main female in the household during the past year. In Column 8 the dependent variable is the total household income (in TAKAs) from the business activities of the main female respondent during the past year. In Column 1 the dependent variable is the value (in TAKAs) of the per capita food and non-food consumption of the household during the past year. In Column 2 the dependent variable is the total value of household durables (radios, bicycles, chairs, tables, beds and bednets) owned by the household, in TAKAs.In Columns 3-8, the dependent variables are respectively the number of radios, bicycles, chairs, tables, beds and bednets that the household owns.  Treat is a dummy variable equal to 1 if the household is in a treatment spot. Repeat is a dummy variable for whether the observation is from the followup survey. In Column 1 the dependent variable is the total value of business assets (in TAKAs). In Column 2 the dependent variable is total value of savings (in TAKAs) of the household. In Columns 3, 4, 5 and 6 the dependent variables are the hours spent by the main female in the household during the past year working in animal husbandry, working in daily labor, working as a maid and on household chores respectively. In Column 7 the dependent variable is the hours spent not working on any business activity or household chores by the main female in the household during the past year. In Column 8 the dependent variable is the total household income (in TAKAs) from the business activities of the main female respondent during the past year. Treat is a dummy variable equal to 1 if the household is in a treatment spot. Repeat is a dummy variable for whether the observation is from the followup survey. In Column 1 the dependent variable is the value (in TAKAs) of the per capita food and non-food consumption of the household during the past year. In Column 2 the dependent variable is the total value of household durables (radios, bicycles, chairs, tables, beds and bednets) owned by the household, in TAKAs.In Columns 3-8, the dependent variables are respectively the number of radios, bicycles, chairs, tables, beds and bednets that the household owns. Table A1: Baseline Balancing for STUPs in Treatment and Control Spots Treatment Control Difference HH Head Male .55 .56 .02 (.04) (.08) (.09) HH Size 3.19 2.51 -.68** (.23) (.15) (.31) Literacy .10 .03 -.08 (.03) (.03) (.05) BMI of respondent 18.36 19.61 1.25** (.22) (.68) (.56) Total Pce 6179.40 5955.76 -223.64 (308.95) (634.95) (692.97) HH Durables Value 292.59 464.72 172.13** (34.60) (67.26) (75.58) Business Assets' Value 5158.71 1196.41 -3962.30 (1984.56) (361.47) (3865.02) Savings 180.95 127.44 -53.52 (70.61) (64.34) (141.25) Entrepreneurship I 2.27 2.55 .29*** (.05) (.10) (.11) Entrepreneurship II 2.58 2.60 .02 (.04) (.10) (.09) Treatment Control Difference Husbandry Hours 346.22 519.87 173.65** (33.11) (83.70) (77.32) Day-Labor Hours 412.45 27.70 -384.76*** (49.62) (27.70) (97.55) Maid Hours 490.99 293.85 -197.14 (63.14) (105.75) (134.19) Household-chore Hours 1119.97 1516.28 396.31*** (39.11) (70.86) (84.27) Leisure Hours 6325.91 6334.31 8.40 (59.31) (102.44) (126.70)</p><p xml:id="_JQ2Gur7">Entrepreneurship I is the mean for the responses to 6 questions about respondent's self-confidence in her entrepreneurial tasks. The responses can be 1=I definitely cannot do this task, 2=May be I can do this task, 3=I definitely can do this task. The tasks are to run your own business, to identify business opportunities to start up new business, to identify business opportunities to expand existing business, to save in order to invest in future business opportunities, to manage financial accounts, to estimates acccurately the costs of running a new business. Entrepreneurship II is the mean for the responses to 6 taks about responsent's self-confidence in her entrepreneurial skills, for tasks involving her interaction with others. The tasks are to bargain to obtain cheap prices when you are buying inputs for your business, to bargain to obtain high prices for your outputs, to protect your business from harm by others, to collect money someone owes you, to make sure employees get the work done properly, to obtian credit to start up new business ot to expand existing business. Table A2: Baseline Balancing for STUPs' Family Network Treatment Control Difference HH Head Male .91 .88 -.04 (.02) (.04) (.04) HH Size 4.02 3.38 -.64*** (.10) (.16) (.19) Literacy .18 .17 -.01 (.03) (.04) (.05) BMI of respondent 19.00 20.07 1.07*** (.17) (.33) (.35) Total Pce 7153.82 9467.73 2313.92*** (286.11) (1109.85) (803.12) HH Durables Value 778.14 1540.31 762.16*** (99.58) (388.60) (282.85) Business Assets' Value 90338.7 86473.9 -3864.83 (24562.3) (27823.4) (45318.41) Savings 845.39 903.60 58.21 (269.17) (344.40) (505.61) Entrepreneurship I 2.39 2.56 .17** (.04) (.07) (.08) Entrepreneurship II 2.61 2.67 .06 (.03) (.06) (.06) Treatment Control Difference Husbandry Hours 607.89 923.05 315.16*** (28.45) (52.90) (57.86) Day-Labor Hours 368.77 49.76 -319.01*** (37.55) (30.24) (67.15) Maid Hours 105.04 62.93 -42.11 (26.41) (30.34) (48.86) Household-chore Hours 1303.51 1636.34 332.83*** (30.18) (51.61) (60.04) Leisure Hours 6326.87 6090.05 -236.82** (47.37) (74.95) (92.56)</p><p xml:id="_aPDtvgZ">Entrepreneurship I is the mean for the responses to 6 questions about respondent's self-confidence in her entrepreneurial tasks. The responses can be 1=I definitely cannot do this task, 2=May be I can do this task, 3=I definitely can do this task. The tasks are to run your own business, to identify business opportunities to start up new business, to identify business opportunities to expand existing business, to save in order to invest in future business opportunities, to manage financial accounts, to estimates acccurately the costs of running a new business. Entrepreneurship II is the mean for the responses to 6 taks about responsent's self-confidence in her entrepreneurial skills, for tasks involving her interaction with others. The tasks are to bargain to obtain cheap prices when you are buying inputs for your business, to bargain to obtain high prices for your outputs, to protect your business from harm by others, to collect money someone owes you, to make sure employees get the work done properly, to obtian credit to start up new business ot to expand existing business. Table A3: Baseline Balancing for STUPs' Informal Insurance Network Treatment Control Difference HH Head Male .90 .92 .03 (.02) (.03) (.03) HH Size 4.13 3.60 -.53*** (.09) (.13) (.18) Literacy .21 .26 .05 (.02) (.04) (.05) BMI of respondent 19.0 20.28 1.28*** (.16) (.35) (.34) Total Pce 8037.11 12385.93 4348.82*** (388.84) (2447.13) (1536.75) HH Durables Value 846.79 2178.13 1331.33*** (94.88) (478.96) (316.42) Business Assets' Value 178228.4 165403.8 -12824.67 (39445.26) (51033.9) (76169.02) Savings 1032.71 1175.44 142.73 (307.21) (303.26) (757.69) Entrepreneurship I 2.39 2.58 .19*** (.03) (.06) (.07) Entrepreneurship II 2.61 2.67 .06 (.03) (.06) (.06) Treatment Control Difference Husbandry Hours 612.55 861.02 248.47*** (24.62) (44.27) (50.53) Day-Labor Hours 360.09 35.0 -325.14*** (31.55) (20.79) (57.69) Maid Hours 90.50 56.60 -33.90 (21.44) (22.88) (40.50) Household-chore Hours 1278.78 1636.17 357.40*** (26.48) (47.08) (54.21) Leisure Hours 6349.57 6171.03 -178.54** (40.17) (61.65) (79.74)</p><p xml:id="_gv4wQST">Entrepreneurship I is the mean for the responses to 6 questions about respondent's self-confidence in her entrepreneurial tasks. The responses can be 1=I definitely cannot do this task, 2=May be I can do this task, 3=I definitely can do this task. The tasks are to run your own business, to identify business opportunities to start up new business, to identify business opportunities to expand existing business, to save in order to invest in future business opportunities, to manage financial accounts, to estimates acccurately the costs of running a new business. Entrepreneurship II is the mean for the responses to 6 taks about responsent's self-confidence in her entrepreneurial skills, for tasks involving her interaction with others. The tasks are to bargain to obtain cheap prices when you are buying inputs for your business, to bargain to obtain high prices for your outputs, to protect your business from harm by others, to collect money someone owes you, to make sure employees get the work done properly, to obtian credit to start up new business ot to expand existing business. Table A4: Baseline Balancing for Those Outside the STUPs' Network Treatment Control Difference HH Head Male .92 .93 .01 (.01) (.01) (.02) HH Size 3.92 3.82 -.10 (.06) (.06) (.09) Literacy .41 .34 -.07*** (.02) (.02) (.03) BMI of respondent 19.81 20.44 .63*** (.12) (.14) (.18) Total Pce 10693.16 12839.87 2146.70 (516.28) (2604.34) (2252.16) HH Durables Value 1824.04 2161.0 336.95 (253.61) (170.31) (33.47) Business Assets' Value 271939.5 213042.6 -58896.91 (34691.42) (21054.73) (44835.45) Savings 2717.30 1448.22 -1269.07 (1153.94) (310.80) (1394.50) Entrepreneurship I 2.52 2.48 -.04 (.02) (.03) (.03) Entrepreneurship II 2.63 2.63 .00 (.02) (.02) (.03) Treatment Control Difference Husbandry Hours 728.70 809.65 80.94*** (16.33) (20.68) (26.06) Day-Labor Hours 66.05 21.01 -45.05*** (10.11) (6.22) (13.10) Maid Hours 69.76 55.90 -13.87 (11.87) (12.30) (17.49) Household-chore Hours 1472.45 1594.49 122.04*** (16.72) (20.04) (26.05) Leisure Hours 6401.33 6270.39 -130.94*** (23.84) (29.90) (37.90)</p><p xml:id="_XdzxVTF">Entrepreneurship I is the mean for the responses to 6 questions about respondent's self-confidence in her entrepreneurial tasks. The responses can be 1=I definitely cannot do this task, 2=May be I can do this task, 3=I definitely can do this task. The tasks are to run your own business, to identify business opportunities to start up new business, to identify business opportunities to expand existing business, to save in order to invest in future business opportunities, to manage financial accounts, to estimates acccurately the costs of running a new business. Entrepreneurship II is the mean for the responses to 6 taks about responsent's self-confidence in her entrepreneurial skills, for tasks involving her interaction with others. The tasks are to bargain to obtain cheap prices when you are buying inputs for your business, to bargain to obtain high prices for your outputs, to protect your business from harm by others, to collect money someone owes you, to make sure employees get the work done properly, to obtian credit to start up new business ot to expand existing business.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="755" xml:id="_xRejhW4">536</head><p xml:id="_BPBtsaB">Panel A Notes: Sample includes HHs that are not connected to STUPs, through any family or economic network recorded in the survey. The observations are from the baseline survey only. Total Pce, HH Durables Value, Business Assets' Value and Savings are given in Bangladeshi TAKAs. Total Pce includes value of food (calculated from last 3 days' consumption) and non-food items consumed in the HH. HH Durables include radio, bicycle, chair, table, chouki (bed), bednet. Business assets include land, livestock, power pump, plough, tractor, mowing machine, shed to keep livestock, shop premises, boat, fishnet, rickshaw/van, trees, cart.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><figDesc xml:id="_suau2dC">, Dercon and Krishnan 2000, Dubois et al 2008]. There is stronger evidence of risk pooling within ethnic groups [Deaton 1992, Udry 1994], sub-castes [Munshi and Rosenzweig 2005, Mazzocco and Saini 2009], and family and friends [Rosenzweig 1988, Fafchamps and Lund 2003, La Ferrara 2003, Cox and Fafchamps 2007, Angelucci et al 2009b]</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><figDesc xml:id="_43Dw7mu">.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><figDesc xml:id="_rXTMSA4">The sample includes STUPs and observations from baseline survey only. Total Pce, HH Durables Value, Business Assets' Value and Savings are given in Bangladeshi TAKAs. Total Pce includes value of food (calculated from last 3 days' consumption) and non-food items consumed in the HH. HH Durables include radio, bicycle, chair, table, chouki (bed), bednet. Business assets include land, livestock, power pump, plough, tractor, mowing machine, shed to keep livestock, shop premises, boat, fishnet, rickshaw/van, trees, cart.Panel A -Baseline Descriptive Statistics Panel B -Time Allocation of the Respondents at BaselineN Panel B Notes:Total hours that the main female in the household spent during the previous year given by type of activity.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><figDesc xml:id="_Rnahn87">Sample includesHHs that are connected to STUPs through their first degree family network and observations from baseline survey only. Total Pce, HH Durables Value, Business Assets' Value and Savings are given in Bangladeshi TAKAs. Total Pce includes value of food (calculated from last 3 days' consumption) and non-food items consumed in the HH. HH Durables include radio, bicycle, chair, table, chouki (bed), bednet. Business assets include land, livestock, power pump, plough, tractor, mowing machine, shed to keep livestock, shop premises, boat, fishnet, rickshaw/van, trees, cart.Panel A -Baseline Descriptive Statistics Panel B -Time Allocation of the Respondents at BaselineN Panel B Notes:Total hours that the main female in the household spent during the previous year given by type of activity.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><figDesc xml:id="_xXcgHTE">Sample includesHHs that are connected to STUPs through their informal insurance network (food exhange, assiatnce in times of crisis, any other transfers in cash/kind). The observations are those form the baseline survey only. Total Pce, HH Durables Value, Business Assets' Value and Savings are given in Bangladeshi TAKAs. Total Pce includes value of food (calculated from last 3 days' consumption) and non-food items consumed in the HH. HH Durables include radio, bicycle, chair, table, chouki (bed), bednet. Business assets include land, livestock, power pump, plough, tractor, mowing machine, shed to keep livestock, shop premises, boat, fishnet, rickshaw/van, trees, cart.Panel A -Baseline Descriptive Statistics Panel B -Time Allocation of the Respondents at BaselineN Panel B Notes:Total hours that the main female in the household spent during the previous year given by type of activity.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 : Baseline Summary Statistics</head><label>1</label><figDesc xml:id="_uHpNhVm">The sample includes all HHs and observations form baseline survey only. Total Pce, HH Durables Value, Business Assets' Value and Savings are given in Bangladeshi TAKAs. Total Pce includes value of food (calculated from last 3 days' consumption) and non-food items consumed in the HH. HH Durables include radio, bicycle, chair, table, chouki (bed), bednet. Business assets include land, livestock, power pump, plough, tractor, mowing machine, shed to keep livestock, shop premises, boat, fishnet, rickshaw/van, trees, cart.</figDesc><table><row><cell>Maid Hours</cell></row><row><cell>Household-chore Hours</cell></row><row><cell>Leisure Hours</cell></row><row><cell>Panel A Notes:</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 4 :</head><label>4</label><figDesc xml:id="_NCRyYaB">Direct Effects of the Programme IThe sample includes the STUP households at baseline and followup.</figDesc><table><row><cell></cell><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell><cell>(4)</cell><cell>(5)</cell><cell>(6)</cell><cell>(7)</cell><cell>(8)</cell><cell>(9)</cell></row><row><cell></cell><cell>Assets</cell><cell>Saving</cell><cell cols="2">Husbandry Day-labor</cell><cell>Maid</cell><cell>Chores</cell><cell cols="3">Leisure Income I Income II</cell></row><row><cell>treat</cell><cell>-8798.1</cell><cell>271.1</cell><cell>-245.8**</cell><cell>811.8</cell><cell>939.9**</cell><cell>-508.2***</cell><cell>208.1</cell><cell>2274.2**</cell><cell>2358.8**</cell></row><row><cell></cell><cell>(6496.8)</cell><cell>(270.7)</cell><cell>(121.1)</cell><cell>(524.2)</cell><cell>(409.8)</cell><cell>(96.0)</cell><cell>(142.1)</cell><cell>(922.6)</cell><cell>(913.2)</cell></row><row><cell>repeat</cell><cell>6076.6</cell><cell>780.8**</cell><cell>-24.1</cell><cell>536.5</cell><cell>443.8</cell><cell>-431.0***</cell><cell>232.8</cell><cell>2313.0*</cell><cell>2320.3*</cell></row><row><cell></cell><cell>(10109.5)</cell><cell>(333.6)</cell><cell>(129.6)</cell><cell>(609.1)</cell><cell>(478.3)</cell><cell>(116.0)</cell><cell>(156.7)</cell><cell>(1316.8)</cell><cell>(1306.4)</cell></row><row><cell cols="3">treat*repeat 22446.1** 1109.2***</cell><cell>559.8***</cell><cell>-441.0</cell><cell cols="4">-1100.2** 427.0*** -423.9** 2776.5*</cell><cell>-696.1</cell></row><row><cell></cell><cell>(9921.6)</cell><cell>(352.9)</cell><cell>(138.3)</cell><cell>(618.3)</cell><cell>(504.3)</cell><cell>(122.1)</cell><cell>(169.8)</cell><cell>(1473.3)</cell><cell>(1459.7)</cell></row><row><cell>N</cell><cell>372</cell><cell>372</cell><cell>372</cell><cell>372</cell><cell>372</cell><cell>372</cell><cell>372</cell><cell>372</cell><cell>372</cell></row><row><cell>baseline</cell><cell>1196.4</cell><cell>127.4</cell><cell>519.9</cell><cell>27.7</cell><cell>293.8</cell><cell>1516.3</cell><cell>6334.3</cell><cell>2751.3</cell><cell>2751.3</cell></row><row><cell></cell><cell>(2257.4)</cell><cell>(401.8)</cell><cell>(522.7)</cell><cell>(172.9)</cell><cell>(660.4)</cell><cell>(442.5)</cell><cell>(639.8)</cell><cell>(3897.7)</cell><cell>(3897.7)</cell></row><row><cell></cell><cell>Tobit</cell><cell>Tobit</cell><cell>Tobit</cell><cell>Tobit</cell><cell>Tobit</cell><cell>OLS</cell><cell>OLS</cell><cell>OLS</cell><cell>OLS</cell></row><row><cell cols="2">*** 0.01, ** 0.05, * 0.10.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 5 :</head><label>5</label><figDesc xml:id="_a3cTwzy">Direct Effects of the Programme IIThe sample includes the STUP households at baseline and followup.</figDesc><table><row><cell></cell><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell><cell>(4)</cell><cell>(5)</cell><cell>(6)</cell><cell>(7)</cell><cell>(8)</cell></row><row><cell></cell><cell>Pce</cell><cell cols="6">Durables Value Radios Bicycles Chairs Tables Beds</cell><cell>Bednets</cell></row><row><cell>treat</cell><cell>703.03</cell><cell>-94.56</cell><cell>0.00</cell><cell>-0.00</cell><cell>0.12</cell><cell>0.01</cell><cell>-0.17</cell><cell>-0.11</cell></row><row><cell></cell><cell>(790.01)</cell><cell>(104.53)</cell><cell>(0.02)</cell><cell>(0.01)</cell><cell cols="3">(0.11) (0.07) (0.11)</cell><cell>(0.13)</cell></row><row><cell>repeat</cell><cell>-686.33</cell><cell>72.43</cell><cell>0.01</cell><cell>-0.02</cell><cell>0.15</cell><cell>0.09</cell><cell>0.12</cell><cell>0.26*</cell></row><row><cell></cell><cell>(773.46)</cell><cell>(110.64)</cell><cell>(0.03)</cell><cell>(0.01)</cell><cell cols="3">(0.15) (0.09) (0.14)</cell><cell>(0.15)</cell></row><row><cell>treat*repeat</cell><cell>550.37</cell><cell>113.09</cell><cell>0.08**</cell><cell>0.05**</cell><cell>-0.06</cell><cell>0.04</cell><cell>-0.03</cell><cell>-0.03</cell></row><row><cell></cell><cell>(897.89)</cell><cell>(127.24)</cell><cell>(0.04)</cell><cell>(0.02)</cell><cell cols="3">(0.16) (0.10) (0.15)</cell><cell>(0.16)</cell></row><row><cell>N</cell><cell>290</cell><cell>372</cell><cell>372</cell><cell>372</cell><cell>372</cell><cell>372</cell><cell>372</cell><cell>372</cell></row><row><cell>baseline</cell><cell>5662.76</cell><cell>464.72</cell><cell>0.03</cell><cell>0.00</cell><cell>0.10</cell><cell>0.10</cell><cell>0.74</cell><cell>0.85</cell></row><row><cell></cell><cell>(3307.25)</cell><cell>(420.05)</cell><cell>(0.16)</cell><cell>(0.00)</cell><cell cols="3">(0.38) (0.31) (0.50)</cell><cell>(0.54)</cell></row><row><cell></cell><cell>OLS</cell><cell>Tobit</cell><cell>OLS</cell><cell>OLS</cell><cell>OLS</cell><cell>OLS</cell><cell>OLS</cell><cell>OLS</cell></row><row><cell cols="2">*** 0.01, ** 0.05, * 0.10.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 6 :</head><label>6</label><figDesc xml:id="_crppUc4">Direct Effects of the Programme IIIThe sample includes the STUP households at baseline and followup.</figDesc><table><row><cell></cell><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell><cell>(4)</cell></row><row><cell></cell><cell cols="3">Respondent's BMI Z value for wfl Entrepreneurship I</cell><cell>Entrepreneurship II</cell></row><row><cell>treat</cell><cell>-1.209</cell><cell>-0.984**</cell><cell>-0.210*</cell><cell>-0.022</cell></row><row><cell></cell><cell>(0.791)</cell><cell>(0.387)</cell><cell>(0.123)</cell><cell>(0.112)</cell></row><row><cell>repeat</cell><cell>-1.054</cell><cell>-0.781*</cell><cell>-0.507***</cell><cell>-0.405**</cell></row><row><cell></cell><cell>(0.907)</cell><cell>(0.447)</cell><cell>(0.162)</cell><cell>(0.163)</cell></row><row><cell>treat*repeat</cell><cell>1.070</cell><cell>0.718</cell><cell>0.402**</cell><cell>0.183</cell></row><row><cell></cell><cell>(0.944)</cell><cell>(0.504)</cell><cell>(0.166)</cell><cell>(0.167)</cell></row><row><cell>N</cell><cell>328</cell><cell>140</cell><cell>346</cell><cell>346</cell></row><row><cell>baseline</cell><cell>19.610</cell><cell>-0.722</cell><cell>2.198</cell><cell>2.443</cell></row><row><cell></cell><cell>(3.859)</cell><cell>(0.937)</cell><cell>(0.625)</cell><cell>(0.562)</cell></row><row><cell></cell><cell>OLS</cell><cell>OLS</cell><cell>OLS</cell><cell>OLS</cell></row><row><cell>Sample</cell><cell>Respondent</cell><cell>Kids</cell><cell>Respondent</cell><cell>Respondent</cell></row><row><cell cols="2">*** 0.01, ** 0.05, * 0.10.</cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 7 :</head><label>7</label><figDesc xml:id="_Zw8n3a3">Direct Effects on The Composition of STUP's Networks</figDesc><table><row><cell></cell><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell><cell>(4)</cell><cell>(5)</cell><cell>(6)</cell><cell>(7)</cell><cell>(8)</cell></row><row><cell></cell><cell cols="2">Market Market</cell><cell>Market</cell><cell cols="4">Market Insurance Insurance Insurance</cell><cell>Insurance</cell></row><row><cell>treat</cell><cell>0.147</cell><cell>0.006</cell><cell>0.024</cell><cell>-0.005</cell><cell>0.041</cell><cell cols="2">0.040*** -0.203***</cell><cell>0.261***</cell></row><row><cell></cell><cell cols="2">(0.145) (0.008)</cell><cell>(0.371)</cell><cell>(0.010)</cell><cell>(0.044)</cell><cell>(0.014)</cell><cell>(0.071)</cell><cell>(0.051)</cell></row><row><cell>WR5</cell><cell></cell><cell></cell><cell>-0.042</cell><cell>0.002</cell><cell></cell><cell></cell><cell>0.032</cell><cell>0.092***</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(0.176)</cell><cell>(0.013)</cell><cell></cell><cell></cell><cell>(0.082)</cell><cell>(0.030)</cell></row><row><cell>WR4</cell><cell></cell><cell></cell><cell>-0.764***</cell><cell>-0.009</cell><cell></cell><cell></cell><cell>-0.042</cell><cell>0.059**</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(0.195)</cell><cell>(0.010)</cell><cell></cell><cell></cell><cell>(0.066)</cell><cell>(0.025)</cell></row><row><cell>WR3</cell><cell></cell><cell></cell><cell>0.188</cell><cell>0.029</cell><cell></cell><cell></cell><cell>0.216*</cell><cell>-0.038</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(0.325)</cell><cell>(0.019)</cell><cell></cell><cell></cell><cell>(0.123)</cell><cell>(0.037)</cell></row><row><cell>WR2</cell><cell></cell><cell></cell><cell>0.024</cell><cell>0.012</cell><cell></cell><cell></cell><cell>-0.027</cell><cell>0.012</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(0.371)</cell><cell>(0.023)</cell><cell></cell><cell></cell><cell>(0.117)</cell><cell>(0.036)</cell></row><row><cell>WR1</cell><cell></cell><cell></cell><cell cols="2">0.384*** 0.078**</cell><cell></cell><cell></cell><cell>0.086</cell><cell>-0.048</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(0.125)</cell><cell>(0.039)</cell><cell></cell><cell></cell><cell>(0.138)</cell><cell>(0.032)</cell></row><row><cell>N</cell><cell>54</cell><cell>2105</cell><cell>54</cell><cell>2105</cell><cell>532</cell><cell>1627</cell><cell>532</cell><cell>1627</cell></row><row><cell>Baseline Connected</cell><cell>YES</cell><cell>NO</cell><cell>YES</cell><cell>NO</cell><cell>YES</cell><cell>NO</cell><cell>YES</cell><cell>NO</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Table 8 :</head><label>8</label><figDesc xml:id="_wfB6Qrf">Indirect Effects on the Family Network of STUPs I</figDesc><table><row><cell></cell><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell><cell>(4)</cell><cell>(5)</cell><cell>(6)</cell><cell>(7)</cell><cell>(8)</cell></row><row><cell></cell><cell>Assets</cell><cell>Saving</cell><cell cols="2">Husbandry Day-labor</cell><cell>Maid</cell><cell>Chores</cell><cell>Leisure</cell><cell>Income I</cell></row><row><cell>treat</cell><cell>-45518.2</cell><cell>1163.2</cell><cell>-268.7***</cell><cell>209.9</cell><cell>698.9</cell><cell cols="2">-374.5*** 415.4***</cell><cell>1135.9</cell></row><row><cell></cell><cell cols="2">(51946.5) (1746.7)</cell><cell>(72.3)</cell><cell>(364.8)</cell><cell>(714.7)</cell><cell>(66.9)</cell><cell>(97.1)</cell><cell>(854.9)</cell></row><row><cell>repeat</cell><cell>1724.7</cell><cell>10568.5</cell><cell>-189.6**</cell><cell>-345.5</cell><cell>462.6</cell><cell cols="2">-333.7*** 466.3***</cell><cell>3335.5**</cell></row><row><cell></cell><cell cols="2">(69901.8) (6985.4)</cell><cell>(80.4)</cell><cell>(436.2)</cell><cell>(764.2)</cell><cell>(81.0)</cell><cell>(116.6)</cell><cell>(1384.3)</cell></row><row><cell>treatXrepeat</cell><cell>-19811.0</cell><cell>-11880.5</cell><cell>140.7</cell><cell>262.5</cell><cell>-566.9</cell><cell cols="2">405.2*** -455.9***</cell><cell>-9.7</cell></row><row><cell></cell><cell cols="2">(81046.7) (8256.2)</cell><cell>(89.5)</cell><cell>(460.4)</cell><cell>(809.0)</cell><cell>(88.4)</cell><cell>(132.6)</cell><cell>(1781.6)</cell></row><row><cell>N</cell><cell>570</cell><cell>570</cell><cell>570</cell><cell>570</cell><cell>570</cell><cell>570</cell><cell>570</cell><cell>570</cell></row><row><cell>baseline</cell><cell>87513.1</cell><cell>914.8</cell><cell>921.5</cell><cell>50.4</cell><cell>63.7</cell><cell>1638.8</cell><cell>6087.7</cell><cell>2706.8</cell></row><row><cell></cell><cell cols="2">(251520.5) (3136.5)</cell><cell>(481.8)</cell><cell>(275.5)</cell><cell>(276.3)</cell><cell>(469.8)</cell><cell>(682.6)</cell><cell>(5063.9)</cell></row><row><cell></cell><cell>Tobit</cell><cell>Tobit</cell><cell>Tobit</cell><cell>Tobit</cell><cell>Tobit</cell><cell>OLS</cell><cell>OLS</cell><cell>OLS</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6"><head>Table 9 :</head><label>9</label><figDesc xml:id="_F8r6fVx">Indirect Effects on the Family Network of STUPs IIThe sample includes the STUP households at baseline and followup. Treat is a dummy variable equal to 1 if the household is in a treatment spot. Repeat is a dummy variable for whether the observation is from the followup survey. In Column 1 the dependent variable is the value (in TAKAs) of the per capita food and non-food consumption of the household during the past year.</figDesc><table><row><cell></cell><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell><cell>(4)</cell><cell>(5)</cell><cell>(6)</cell><cell>(7)</cell><cell>(8)</cell></row><row><cell></cell><cell>Pce</cell><cell cols="4">Durables Value Radios Bicycles Chairs</cell><cell>Tables</cell><cell>Beds</cell><cell>Bednets</cell></row><row><cell>treat</cell><cell>-2226.04*</cell><cell>-1033.82***</cell><cell>-0.01</cell><cell>-0.05</cell><cell>-0.22</cell><cell cols="2">-0.27*** -0.51***</cell><cell>-0.24*</cell></row><row><cell></cell><cell>(1214.63)</cell><cell>(396.92)</cell><cell>(0.05)</cell><cell>(0.06)</cell><cell>(0.14)</cell><cell>(0.09)</cell><cell>(0.13)</cell><cell>(0.12)</cell></row><row><cell>repeat</cell><cell>-3537.80***</cell><cell>565.13</cell><cell>-0.06</cell><cell>-0.04</cell><cell>0.08</cell><cell>-0.06</cell><cell>-0.06</cell><cell>0.05</cell></row><row><cell></cell><cell>(1265.45)</cell><cell>(557.05)</cell><cell>(0.06)</cell><cell>(0.07)</cell><cell>(0.18)</cell><cell>(0.10)</cell><cell>(0.14)</cell><cell>(0.14)</cell></row><row><cell>treatXrepeat</cell><cell>2907.08**</cell><cell>26.16</cell><cell>0.06</cell><cell>0.16**</cell><cell>0.12</cell><cell>0.17</cell><cell>0.29*</cell><cell>0.19</cell></row><row><cell></cell><cell>(1359.31)</cell><cell>(609.96)</cell><cell>(0.07)</cell><cell>(0.08)</cell><cell>(0.21)</cell><cell>(0.12)</cell><cell>(0.17)</cell><cell>(0.16)</cell></row><row><cell>N</cell><cell>498</cell><cell>570</cell><cell>570</cell><cell>570</cell><cell>570</cell><cell>570</cell><cell>570</cell><cell>570</cell></row><row><cell>baseline</cell><cell>9726.09</cell><cell>1551.91</cell><cell>0.11</cell><cell>0.16</cell><cell>1.01</cell><cell>0.70</cell><cell>1.36</cell><cell>1.40</cell></row><row><cell></cell><cell>(9436.98)</cell><cell>(3539.23)</cell><cell>(0.32)</cell><cell>(0.40)</cell><cell>(1.33)</cell><cell>(0.89)</cell><cell>(1.44)</cell><cell>(1.04)</cell></row><row><cell></cell><cell>OLS</cell><cell>Tobit</cell><cell>OLS</cell><cell>OLS</cell><cell>OLS</cell><cell>OLS</cell><cell>OLS</cell><cell>OLS</cell></row><row><cell cols="2">*** 0.01, ** 0.05, * 0.10.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_7"><head>Table 10 :</head><label>10</label><figDesc xml:id="_9gT2FQt">Indirect Effects on the Family Network of STUPs III</figDesc><table><row><cell></cell><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell><cell>(4)</cell></row><row><cell></cell><cell cols="3">Respondent's BMI Z value for wfl Entrepreneurship I</cell><cell>Entrepreneurship II</cell></row><row><cell>treat</cell><cell>-0.358</cell><cell>0.338</cell><cell>-0.149*</cell><cell>-0.086</cell></row><row><cell></cell><cell>(0.366)</cell><cell>(0.356)</cell><cell>(0.084)</cell><cell>(0.075)</cell></row><row><cell>repeat</cell><cell>0.012</cell><cell>0.294</cell><cell>-0.366***</cell><cell>-0.321***</cell></row><row><cell></cell><cell>(0.430)</cell><cell>(0.377)</cell><cell>(0.111)</cell><cell>(0.100)</cell></row><row><cell>treatXrepeat</cell><cell>0.153</cell><cell>-0.533</cell><cell>0.129</cell><cell>0.059</cell></row><row><cell></cell><cell>(0.503)</cell><cell>(0.423)</cell><cell>(0.122)</cell><cell>(0.111)</cell></row><row><cell>N</cell><cell>502</cell><cell>230</cell><cell>550</cell><cell>550</cell></row><row><cell>baseline</cell><cell>19.848</cell><cell>-1.498</cell><cell>2.339</cell><cell>2.488</cell></row><row><cell></cell><cell>(2.592)</cell><cell>(1.719)</cell><cell>(0.646)</cell><cell>(0.587)</cell></row><row><cell></cell><cell>OLS</cell><cell>OLS</cell><cell>OLS</cell><cell>OLS</cell></row><row><cell>Sample</cell><cell>Respondent</cell><cell>Kids</cell><cell>Respondent</cell><cell>Respondent</cell></row><row><cell cols="5">*** 0.01, ** 0.05, * 0.10. The sample includes the STUP households at baseline and followup.</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_8"><head>Table 11 :</head><label>11</label><figDesc xml:id="_YNCgUgE">Indirect Effects on the Informal Insurance Network of STUPs IThe sample includes the households who are in the informal insurance network of STUPs and live in the same spot.</figDesc><table><row><cell></cell><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell><cell>(4)</cell><cell>(5)</cell><cell>(6)</cell><cell>(7)</cell><cell>(8)</cell></row><row><cell></cell><cell>Assets</cell><cell>Saving</cell><cell cols="2">Husbandry Day-labor</cell><cell>Maid</cell><cell>Chores</cell><cell>Leisure</cell><cell>Income I</cell></row><row><cell>treat</cell><cell>16268.7</cell><cell>2482.3</cell><cell>-175.8***</cell><cell>633.3</cell><cell cols="3">-314.0 -287.3*** 316.5***</cell><cell>-74.1</cell></row><row><cell></cell><cell cols="2">(73525.6) (1575.4)</cell><cell>(63.3)</cell><cell>(421.0)</cell><cell>(632.0)</cell><cell>(62.1)</cell><cell>(84.1)</cell><cell>(1734.9)</cell></row><row><cell>repeat</cell><cell>-25168.4</cell><cell>7351.1</cell><cell>-119.7*</cell><cell>308.7</cell><cell cols="3">-739.4 -253.7*** 371.8***</cell><cell>2597.3</cell></row><row><cell></cell><cell cols="2">(92324.6) (4938.0)</cell><cell>(71.3)</cell><cell>(458.4)</cell><cell>(777.4)</cell><cell>(79.9)</cell><cell>(105.4)</cell><cell>(2206.4)</cell></row><row><cell>treatXrepeat</cell><cell>-27025.0</cell><cell>-7380.0</cell><cell>67.5</cell><cell>-347.2</cell><cell>455.9</cell><cell cols="2">363.3*** -395.1***</cell><cell>166.5</cell></row><row><cell></cell><cell cols="2">(101078.4) (5741.7)</cell><cell>(78.7)</cell><cell>(461.9)</cell><cell>(836.5)</cell><cell>(84.8)</cell><cell>(116.8)</cell><cell>(2223.0)</cell></row><row><cell>N</cell><cell>746</cell><cell>746</cell><cell>746</cell><cell>746</cell><cell>746</cell><cell>746</cell><cell>746</cell><cell>746</cell></row><row><cell>baseline</cell><cell>173781.5</cell><cell>1235.4</cell><cell>874.8</cell><cell>36.7</cell><cell>55.4</cell><cell>1620.5</cell><cell>6171.7</cell><cell>4241.0</cell></row><row><cell></cell><cell cols="2">(529741.7) (3144.1)</cell><cell>(445.9)</cell><cell>(216.2)</cell><cell>(235.2)</cell><cell>(474.6)</cell><cell>(636.6)</cell><cell>(13005.5)</cell></row><row><cell></cell><cell>Tobit</cell><cell>Tobit</cell><cell>Tobit</cell><cell>Tobit</cell><cell>Tobit</cell><cell>OLS</cell><cell>OLS</cell><cell>OLS</cell></row><row><cell cols="2">*** 0.01, ** 0.05, * 0.10.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_9"><head>Table 12 :</head><label>12</label><figDesc xml:id="_Rd6peft">Indirect Effects on the Informal Insurance Network of STUPs IIThe sample includes the households who are in the informal insurance network of STUPs and live in the same spot. Treat is a dummy variable equal to 1 if the household is in a treatment spot. Repeat is a dummy variable for whether the observation is from the followup survey.</figDesc><table><row><cell></cell><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell><cell>(4)</cell><cell>(5)</cell><cell>(6)</cell><cell>(7)</cell><cell>(8)</cell></row><row><cell></cell><cell>Pce</cell><cell cols="5">Durables Value Radios Bicycles Chairs Tables</cell><cell>Beds</cell><cell>Bednets</cell></row><row><cell>treat</cell><cell>-2868.71</cell><cell>-973.73**</cell><cell>0.10**</cell><cell>-0.08</cell><cell>-0.10</cell><cell cols="3">-0.20** -0.41*** -0.26**</cell></row><row><cell></cell><cell>(2118.41)</cell><cell>(380.92)</cell><cell>(0.04)</cell><cell>(0.05)</cell><cell>(0.15)</cell><cell>(0.08)</cell><cell>(0.12)</cell><cell>(0.11)</cell></row><row><cell>repeat</cell><cell>-4491.24*</cell><cell>1009.25*</cell><cell>-0.01</cell><cell>0.03</cell><cell>0.54**</cell><cell>0.16</cell><cell>0.26*</cell><cell>0.13</cell></row><row><cell></cell><cell>(2394.09)</cell><cell>(573.25)</cell><cell>(0.05)</cell><cell>(0.07)</cell><cell>(0.23)</cell><cell>(0.10)</cell><cell>(0.15)</cell><cell>(0.14)</cell></row><row><cell>treatXrepeat</cell><cell>2252.04</cell><cell>-500.60</cell><cell>-0.01</cell><cell>0.03</cell><cell>-0.33</cell><cell>-0.05</cell><cell>-0.14</cell><cell>0.06</cell></row><row><cell></cell><cell>(2418.05)</cell><cell>(636.26)</cell><cell>(0.06)</cell><cell>(0.08)</cell><cell>(0.26)</cell><cell>(0.11)</cell><cell>(0.17)</cell><cell>(0.16)</cell></row><row><cell>N</cell><cell>660</cell><cell>746</cell><cell>746</cell><cell>746</cell><cell>746</cell><cell>746</cell><cell>746</cell><cell>746</cell></row><row><cell>baseline</cell><cell>12690.67</cell><cell>2255.55</cell><cell>0.09</cell><cell>0.26</cell><cell>1.20</cell><cell>0.80</cell><cell>1.57</cell><cell>1.59</cell></row><row><cell></cell><cell>(23959.07)</cell><cell>(4971.26)</cell><cell>(0.29)</cell><cell>(0.48)</cell><cell>(1.52)</cell><cell>(0.92)</cell><cell>(1.42)</cell><cell>(1.26)</cell></row><row><cell></cell><cell>OLS</cell><cell>Tobit</cell><cell>OLS</cell><cell>OLS</cell><cell>OLS</cell><cell>OLS</cell><cell>OLS</cell><cell>OLS</cell></row><row><cell cols="2">*** 0.01, ** 0.05, * 0.10.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_10"><head>Table 13 :</head><label>13</label><figDesc xml:id="_4vRDCuZ">Indirect Effects on the Informal Insurance Network of STUPs IIIThe sample includes the households who are in the informal insurance network of STUPs and live in the same spot. Treat is a dummy variable equal to 1 if the household is in a treatment spot. Repeat is a dummy variable for whether the observation is from the followup survey. For explanation of the dependent variables, see notes for Table6.</figDesc><table><row><cell></cell><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell><cell>(4)</cell></row><row><cell></cell><cell cols="3">Respondent's BMI Z value for wfl Entrepreneurship I</cell><cell>Entrepreneurship II</cell></row><row><cell>treat</cell><cell>-0.621</cell><cell>0.338</cell><cell>-0.138*</cell><cell>-0.062</cell></row><row><cell></cell><cell>(0.386)</cell><cell>(0.353)</cell><cell>(0.077)</cell><cell>(0.067)</cell></row><row><cell>repeat</cell><cell>-0.058</cell><cell>0.243</cell><cell>-0.399***</cell><cell>-0.354***</cell></row><row><cell></cell><cell>(0.474)</cell><cell>(0.361)</cell><cell>(0.101)</cell><cell>(0.092)</cell></row><row><cell>treatXrepeat</cell><cell>0.107</cell><cell>-0.645</cell><cell>0.198*</cell><cell>0.121</cell></row><row><cell></cell><cell>(0.533)</cell><cell>(0.409)</cell><cell>(0.109)</cell><cell>(0.100)</cell></row><row><cell>N</cell><cell>660</cell><cell>280</cell><cell>720</cell><cell>720</cell></row><row><cell>baseline</cell><cell>20.327</cell><cell>-1.474</cell><cell>2.345</cell><cell>2.502</cell></row><row><cell></cell><cell>(3.373)</cell><cell>(1.799)</cell><cell>(0.651)</cell><cell>(0.585)</cell></row><row><cell></cell><cell>OLS</cell><cell>OLS</cell><cell>OLS</cell><cell>OLS</cell></row><row><cell>Sample</cell><cell>Respondent</cell><cell>Kids</cell><cell>Respondent</cell><cell>Respondent</cell></row><row><cell cols="2">*** 0.01, ** 0.05, * 0.10.</cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_11"><head>Table 14 :</head><label>14</label><figDesc xml:id="_jxeu9uB">Indirect Effects on Those not Connected to STUPs IThe sample includes the households who are not connected STUPs and live in the same spot.</figDesc><table><row><cell></cell><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell><cell>(4)</cell><cell>(5)</cell><cell>(6)</cell><cell>(7)</cell><cell>(8)</cell></row><row><cell></cell><cell>Assets</cell><cell>Saving</cell><cell cols="2">Husbandry Day-labor</cell><cell>Maid</cell><cell>Chores</cell><cell>Leisure</cell><cell>Income I</cell></row><row><cell>treat</cell><cell>51596.7</cell><cell>3782.4**</cell><cell>-82.4***</cell><cell>-114.3</cell><cell cols="3">-567.4* -117.7*** 191.0***</cell><cell>545.6</cell></row><row><cell></cell><cell>(40510.3)</cell><cell>(1810.7)</cell><cell>(29.0)</cell><cell>(174.2)</cell><cell>(310.4)</cell><cell>(27.3)</cell><cell>(40.3)</cell><cell>(644.0)</cell></row><row><cell>repeat</cell><cell>18392.3</cell><cell>6153.8***</cell><cell>-30.3</cell><cell>203.2</cell><cell>-343.9</cell><cell>-72.4**</cell><cell>62.7</cell><cell>4316.8***</cell></row><row><cell></cell><cell>(39948.8)</cell><cell>(1856.1)</cell><cell>(32.9)</cell><cell>(190.9)</cell><cell>(334.1)</cell><cell>(32.9)</cell><cell>(47.8)</cell><cell>(789.8)</cell></row><row><cell>treatXrepeat</cell><cell>-79844.5</cell><cell>-8201.3***</cell><cell>-22.5</cell><cell>-92.1</cell><cell>389.7</cell><cell>65.8*</cell><cell>-27.8</cell><cell>-2050.7</cell></row><row><cell></cell><cell>(58965.5)</cell><cell>(3029.0)</cell><cell>(40.3)</cell><cell>(238.7)</cell><cell>(424.3)</cell><cell>(38.7)</cell><cell>(57.2)</cell><cell>(1294.1)</cell></row><row><cell>N</cell><cell>2426</cell><cell>2426</cell><cell>2426</cell><cell>2426</cell><cell>2426</cell><cell>2426</cell><cell>2426</cell><cell>2426</cell></row><row><cell>baseline</cell><cell>225599.8</cell><cell>1524.5</cell><cell>827.6</cell><cell>20.1</cell><cell>38.1</cell><cell>1606.2</cell><cell>6263.7</cell><cell>4120.6</cell></row><row><cell></cell><cell>(498900.8)</cell><cell>(7398.2)</cell><cell>(468.5)</cell><cell>(140.4)</cell><cell>(221.1)</cell><cell>(466.0)</cell><cell>(692.1)</cell><cell>(7473.3)</cell></row><row><cell></cell><cell>Tobit</cell><cell>Tobit</cell><cell>Tobit</cell><cell>Tobit</cell><cell>Tobit</cell><cell>OLS</cell><cell>OLS</cell><cell>OLS</cell></row><row><cell cols="2">*** 0.01, ** 0.05, * 0.10.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_12"><head>Table 15 :</head><label>15</label><figDesc xml:id="_Z6vgu5V">Indirect Effects on Those not Connected to STUPs IIThe sample includes the households who are not connected to STUPs and live in the same spot.</figDesc><table><row><cell></cell><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell><cell>(4)</cell><cell>(5)</cell><cell>(6)</cell><cell>(7)</cell><cell>(8)</cell></row><row><cell></cell><cell>Pce</cell><cell cols="4">Durables Value Radios Bicycles Chairs</cell><cell>Tables</cell><cell>Beds</cell><cell>Bednets</cell></row><row><cell>treat</cell><cell>-2347.75</cell><cell>-396.71</cell><cell>0.01</cell><cell>-0.05**</cell><cell>0.05</cell><cell cols="3">-0.15*** -0.40*** -0.16***</cell></row><row><cell></cell><cell>(2872.93)</cell><cell>(295.81)</cell><cell>(0.02)</cell><cell>(0.03)</cell><cell>(0.09)</cell><cell>(0.05)</cell><cell>(0.06)</cell><cell>(0.05)</cell></row><row><cell>repeat</cell><cell>-4690.54</cell><cell>807.18**</cell><cell>-0.00</cell><cell>0.05*</cell><cell>0.17</cell><cell>0.09</cell><cell>0.04</cell><cell>0.12**</cell></row><row><cell></cell><cell>(2885.80)</cell><cell>(326.97)</cell><cell>(0.03)</cell><cell>(0.03)</cell><cell>(0.11)</cell><cell>(0.06)</cell><cell>(0.07)</cell><cell>(0.06)</cell></row><row><cell>treatXrepeat</cell><cell>1562.79</cell><cell>-852.66**</cell><cell>0.01</cell><cell>0.06*</cell><cell>-0.22*</cell><cell>-0.05</cell><cell>-0.09</cell><cell>-0.07</cell></row><row><cell></cell><cell>(2803.85)</cell><cell>(415.82)</cell><cell>(0.03)</cell><cell>(0.04)</cell><cell>(0.12)</cell><cell>(0.07)</cell><cell>(0.08)</cell><cell>(0.07)</cell></row><row><cell>N</cell><cell>2210</cell><cell>2426</cell><cell>2426</cell><cell>2426</cell><cell>2426</cell><cell>2426</cell><cell>2426</cell><cell>2426</cell></row><row><cell>baseline</cell><cell>13294.05</cell><cell>2263.42</cell><cell>0.17</cell><cell>0.26</cell><cell>1.44</cell><cell>0.88</cell><cell>1.75</cell><cell>1.69</cell></row><row><cell></cell><cell>(59485.74)</cell><cell>(4033.74)</cell><cell>(0.37)</cell><cell>(0.48)</cell><cell>(1.74)</cell><cell>(0.89)</cell><cell>(1.20)</cell><cell>(1.02)</cell></row><row><cell></cell><cell>OLS</cell><cell>Tobit</cell><cell>OLS</cell><cell>OLS</cell><cell>OLS</cell><cell>OLS</cell><cell>OLS</cell><cell>OLS</cell></row><row><cell cols="2">*** 0.01, ** 0.05, * 0.10.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_13"><head>Table 16 :</head><label>16</label><figDesc xml:id="_fgtcYEN">Indirect Effects on Those not Connected to STUPs IIIThe sample includes the households who are not connected to STUPs and live in the same spot. Treat is a dummy variable equal to 1 if the household is in a treatment spot. Repeat is a dummy variable for whether the observation is from the followup survey. For explanation of the dependent variables, see notes for Table6.</figDesc><table><row><cell></cell><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell><cell>(4)</cell></row><row><cell></cell><cell cols="3">Respondent's BMI Z value for wfl Entrepreneurship I</cell><cell>Entrepreneurship II</cell></row><row><cell>treat</cell><cell>-0.562***</cell><cell>-0.356*</cell><cell>0.023</cell><cell>-0.026</cell></row><row><cell></cell><cell>(0.184)</cell><cell>(0.182)</cell><cell>(0.035)</cell><cell>(0.030)</cell></row><row><cell>repeat</cell><cell>-0.059</cell><cell>-0.280</cell><cell>-0.382***</cell><cell>-0.335***</cell></row><row><cell></cell><cell>(0.205)</cell><cell>(0.181)</cell><cell>(0.043)</cell><cell>(0.039)</cell></row><row><cell>treatXrepeat</cell><cell>0.283</cell><cell>0.170</cell><cell>0.032</cell><cell>0.068</cell></row><row><cell></cell><cell>(0.262)</cell><cell>(0.210)</cell><cell>(0.051)</cell><cell>(0.046)</cell></row><row><cell>N</cell><cell>2214</cell><cell>968</cell><cell>2356</cell><cell>2356</cell></row><row><cell>baseline</cell><cell>20.506</cell><cell>-0.852</cell><cell>2.348</cell><cell>2.506</cell></row><row><cell></cell><cell>(3.091)</cell><cell>(2.223)</cell><cell>(0.653)</cell><cell>(0.575)</cell></row><row><cell></cell><cell>OLS</cell><cell>OLS</cell><cell>OLS</cell><cell>OLS</cell></row><row><cell>Sample</cell><cell>Respondent</cell><cell>Kids</cell><cell>Respondent</cell><cell>Respondent</cell></row><row><cell cols="2">*** 0.01, ** 0.05, * 0.10.</cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_0"><p xml:id="_Znt9FFe">Studies that have collected detailed information on the structure of family and other networks in village economy settings have provided important insights on the role of social networks in learning about agriculture in Ghana [Bandiera and Rasul</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p xml:id="_GhqyGKD">2006, Conley and Udry 2009], and child fostering in Burkina Faso [Akresh 2009].</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="5" xml:id="foot_2"><p xml:id="_B9pZxKH">We stratify at the sub-district level. To be precise, the choice of sample and the randomization of treatment timing followed the following steps. First, the programme chooses all the area o¢ ces they want to treat (15 districts, 133 branch o¢ ces). Second, we determine districts in which there are upazilas with more than one branch o¢ ce.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="7" xml:id="foot_3"><p xml:id="_5Ypu7Cd">The corresponding …gures for male heads are only slighly higher, ranging from 20% in the bottom class to 66% in the top class.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="8" xml:id="foot_4"><p xml:id="_wdZPC8T">In this setting, the relationship between BMI and health status is likely to be positive throughout, as the heaviest among the wealthiest individuals (i.e. those weighing 2 standard deviations above the mean) are just on the overweight threshold<ref type="bibr" target="#b24">(25)</ref>.</p></note>
+		</body>
+		<back>
+
+			<div type="funding">
+<div xml:id="_CrqDvPj"><p xml:id="_KwvaxMC">We thank <rs type="institution">BRAC</rs> and especially <rs type="person">Imran Matin</rs> and <rs type="person">Munshi Sulaiman</rs> for their invaluable help on this project. We thank <rs type="person">Chris Woodruff</rs> for sharing survey questions and seminar participants at <rs type="institution">LSE</rs> for useful comments. This research benefited from funding by the <rs type="funder">UK Department for International Development (DFID)</rs> as part of the iiG, a research programme to study how to improve institutions for pro-poor growth in Africa and South-Asia. The views expressed are not necessarily those of <rs type="institution">DFID</rs>. This series is published by the <rs type="funder">Economic Organisation and Public Policy Programme (EOPP)</rs> located within the <rs type="funder">Suntory and Toyota International Centres for Economics and Related Disciplines</rs> <rs type="institution">(STICERD) at the London School of Economics and Political Science</rs>. This new series is an amalgamation of the <rs type="projectName">Development Economics Discussion Papers and the Political Economy and Public Policy Discussion Papers</rs>. The programme was established in October 1998 as a successor to the <rs type="programName">Development Economics Research Programme</rs>. The work of the programme is mainly in the <rs type="programName">fields of development economics, public economics and political economy</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funded-project" xml:id="_9ZUBuZx">
+					<orgName type="project" subtype="full">Development Economics Discussion Papers and the Political Economy and Public Policy Discussion Papers</orgName>
+					<orgName type="program" subtype="full">Development Economics Research Programme</orgName>
+				</org>
+				<org type="funding" xml:id="_z5U7gzE">
+					<orgName type="program" subtype="full">fields of development economics, public economics and political economy</orgName>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_Gs29wzy" /><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><figDesc xml:id="_fquPv8J">Allocation of the Respondents at BaselineN Panel B Notes:Total hours that the main female in the household spent during the previous year given by type of activity.</figDesc></figure>
+			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="consolidated"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main" xml:id="_PcCrEWA">Flexibility of Household Structure: Child Fostering Decisions in Burkina Faso</title>
+		<author>
+			<persName><forename type="first">Richard</forename><surname>Akresh</surname></persName>
+		</author>
+		<idno type="DOI">10.1353/jhr.2009.0011</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_7d9KZ84">Journal of Human Resources</title>
+		<title level="j" type="abbrev">Journal of Human Resources</title>
+		<idno type="ISSNe">1548-8004</idno>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="976" to="997" />
+			<date type="published" when="2009">2009</date>
+			<publisher>University of Wisconsin Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main" xml:id="_dYvnr3c">Is the Extended Family Altruistically Linked? Direct Tests Using Micro Data</title>
+		<author>
+			<persName><forename type="first">Joseph</forename><surname>Altonji</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fumio</forename><surname>Hayashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Laurence</forename><surname>Kotlikoff</surname></persName>
+		</author>
+		<idno type="DOI">10.3386/w3046</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_9bXBwvu">American Economic Review</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="page" from="1177" to="1198" />
+			<date type="published" when="1992">1992</date>
+			<publisher>National Bureau of Economic Research</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main" xml:id="_cvxwBpU">Parental Altruism and Inter Vivos Transfers: Theory and Evidence</title>
+		<author>
+			<persName><forename type="first">Joseph</forename><forename type="middle">G</forename><surname>Altonji</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fumio</forename><surname>Hayashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Laurence</forename><forename type="middle">J</forename><surname>Kotlikoff</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/516388</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_fqS6Utm">Journal of Political Economy</title>
+		<title level="j" type="abbrev">Journal of Political Economy</title>
+		<idno type="ISSN">0022-3808</idno>
+		<idno type="ISSNe">1537-534X</idno>
+		<imprint>
+			<biblScope unit="volume">105</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1121" to="1166" />
+			<date type="published" when="1997-12">1997</date>
+			<publisher>University of Chicago Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main" xml:id="_m8tzmxy">Indirect Effects of an Aid Program: How Do Cash Transfers Affect Ineligibles&apos; Consumption?</title>
+		<author>
+			<persName><forename type="first">Manuela</forename><surname>Angelucci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Giacomo</forename><surname>De Giorgi</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/aer.99.1.486</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_R57Btzt">American Economic Review</title>
+		<title level="j" type="abbrev">American Economic Review</title>
+		<idno type="ISSN">0002-8282</idno>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="486" to="508" />
+			<date type="published" when="2009-02-01">2009</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+	<note>.m and g.de giorgi</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main" xml:id="_4sFF42T">a) Family Networks and Schooling Outcomes: Evidence From a Randomized Social Experiment</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Rangel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Rasul</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_W6tHpNG">Journal of Public Economics</title>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note>forthcoming</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b5">
+	<monogr>
+		<title level="m" xml:id="_AkfUACe">Insurance and Investment Within Family Networks</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Rangel</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">I</forename><surname>Rasul</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+		<respStmt>
+			<orgName>UCL</orgName>
+		</respStmt>
+	</monogr>
+	<note>mimeo</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main" xml:id="_Dy78DNh">Micro…nance Lifespans: A Study of Attrition and Exclusion in Self Help Groups in India</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Baland.J-M, R.Somanathan</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Vandewalle</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_AMpdFnW">India Policy Forum</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="159" to="210" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main" xml:id="_cJWRPGb">Social Networks, and Technology Adoption in Northern Mozambique</title>
+		<author>
+			<persName><surname>Rasul</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_UmHqkkb">Economic Journal</title>
+		<imprint>
+			<biblScope unit="volume">116</biblScope>
+			<biblScope unit="page" from="862" to="902" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main" xml:id="_ah8tcqs">Parental Wealth and Adult Children&apos;s Welfare in Marriage</title>
+		<author>
+			<persName><forename type="first">Jere</forename><forename type="middle">R</forename><surname>Behrman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mark</forename><forename type="middle">R</forename><surname>Rosenzweig</surname></persName>
+		</author>
+		<idno type="DOI">10.1162/rest.88.3.496</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_C9bdSuU">Review of Economics and Statistics</title>
+		<title level="j" type="abbrev">Review of Economics and Statistics</title>
+		<idno type="ISSN">0034-6535</idno>
+		<idno type="ISSNe">1530-9142</idno>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="496" to="509" />
+			<date type="published" when="2006-08">2006</date>
+			<publisher>MIT Press - Journals</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main" xml:id="_JNkjtSd">Neighborhood Peer Effects in Secondary School Enrollment Decisions</title>
+		<author>
+			<persName><forename type="first">Gustavo</forename><forename type="middle">J</forename><surname>Bobonis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Frederico</forename><surname>Finan</surname></persName>
+		</author>
+		<idno type="DOI">10.1162/rest.91.4.695</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_8WuVkgp">Review of Economics and Statistics</title>
+		<title level="j" type="abbrev">Review of Economics and Statistics</title>
+		<idno type="ISSN">0034-6535</idno>
+		<idno type="ISSNe">1530-9142</idno>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="695" to="716" />
+			<date type="published" when="2008">2008</date>
+			<publisher>MIT Press - Journals</publisher>
+		</imprint>
+	</monogr>
+	<note>bobonis.g and f.finan</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main" xml:id="_XCq5gkr">Social Interactions and Schooling Decisions</title>
+		<author>
+			<persName><forename type="first">Rafael</forename><surname>Lalive</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Alejandra</forename><surname>Cattaneo</surname></persName>
+		</author>
+		<idno type="DOI">10.1162/rest.91.3.457</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_2gBhJBW">Review of Economics and Statistics</title>
+		<title level="j" type="abbrev">Review of Economics and Statistics</title>
+		<idno type="ISSN">0034-6535</idno>
+		<idno type="ISSNe">1530-9142</idno>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="457" to="477" />
+			<date type="published" when="2006">2006</date>
+			<publisher>MIT Press - Journals</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main" xml:id="_gxPRQkK">Learning About a New Technology: Pineapple in Ghana</title>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_buBdgxq">forthcoming American Economic Review</title>
+		<editor>
+			<persName><surname>Conley</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Udry</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main" xml:id="_Uu6UhQ9">Chapter 58 Extended Family and Kinship Networks: Economic Insights and Evolutionary Directions</title>
+		<author>
+			<persName><forename type="first">Donald</forename><surname>Cox</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marcel</forename><surname>Fafchamps</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s1573-4471(07)04058-2</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_UvcwmC3">Handbook of Development Economics</title>
+		<imprint>
+			<publisher>Elsevier</publisher>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="3711" to="3784" />
+		</imprint>
+	</monogr>
+	<note>.d and m.fafchamps</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main" xml:id="_uBAFycK">The connection between public transfers and private interfamily transfers</title>
+		<author>
+			<persName><forename type="first">Donald</forename><surname>Cox</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">George</forename><surname>Jakubson</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0047-2727(94)01438-t</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_xJ7Hzyx">Journal of Public Economics</title>
+		<title level="j" type="abbrev">Journal of Public Economics</title>
+		<idno type="ISSN">0047-2727</idno>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="129" to="167" />
+			<date type="published" when="1995-05">1995</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note>.d and g.jakubson</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main" xml:id="_6Hq4dRQ">Saving and Income Smoothing in Côte D&apos;Ivoire</title>
+		<author>
+			<persName><surname>Deaton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_es4FgRT">Journal of African Economies</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="1" to="24" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main" xml:id="_S3AW9BJ">In Sickness and in Health: Risk Sharing within Households in Rural Ethiopia</title>
+		<author>
+			<persName><forename type="first">Stefan</forename><surname>Dercon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pramila</forename><surname>Krishnan</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/316098</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Q6Z6KND">Journal of Political Economy</title>
+		<title level="j" type="abbrev">Journal of Political Economy</title>
+		<idno type="ISSN">0022-3808</idno>
+		<idno type="ISSNe">1537-534X</idno>
+		<imprint>
+			<biblScope unit="volume">108</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="688" to="727" />
+			<date type="published" when="2000-08">2000</date>
+			<publisher>University of Chicago Press</publisher>
+		</imprint>
+	</monogr>
+	<note>.s and p.krishnan</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main" xml:id="_RDDR5gs">Formal and Informal Risk Sharing in LDCs: Theory and Empirical Evidence</title>
+		<author>
+			<persName><forename type="first">Pierre</forename><surname>Dubois</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bruno</forename><surname>Jullien</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Thierry</forename><surname>Magnac</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1468-0262.2008.00857.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_KQbGdWr">Econometrica</title>
+		<idno type="ISSN">0012-9682</idno>
+		<idno type="ISSNe">1468-0262</idno>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="679" to="725" />
+			<date type="published" when="2008-07">2008</date>
+			<publisher>The Econometric Society</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main" xml:id="_VhTZWA7">Assessing the Frontiers of Ultra-Poverty Reduction: Evidence from CFPR/TUP, An Innovative Program in Bangladesh</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Shahe Emran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Virginia</forename><surname>Robano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stephen</forename><forename type="middle">C</forename><surname>Smith</surname></persName>
+		</author>
+		<idno type="DOI">10.2139/ssrn.1354158</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_aMSAKZa">SSRN Electronic Journal</title>
+		<title level="j" type="abbrev">SSRN Journal</title>
+		<editor>
+			<persName><forename type="first">S</forename><forename type="middle">M C</forename><surname>Emran</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Smith</surname></persName>
+		</editor>
+		<idno type="ISSNe">1556-5068</idno>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+		<respStmt>
+			<orgName>mimeo George Washington University</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b18">
+	<analytic>
+		<title level="a" type="main" xml:id="_rVZK2BV">Risk-sharing networks in rural Philippines</title>
+		<author>
+			<persName><forename type="first">Marcel</forename><surname>Fafchamps</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Susan</forename><surname>Lund</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0304-3878(03)00029-4</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_fUwftF8">Journal of Development Economics</title>
+		<title level="j" type="abbrev">Journal of Development Economics</title>
+		<idno type="ISSN">0304-3878</idno>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="261" to="287" />
+			<date type="published" when="2003-08">2003</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note>fafchamps.m and s.lund</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b19">
+	<monogr>
+		<author>
+			<persName><surname>Gertler</surname></persName>
+		</author>
+		<title level="m" xml:id="_DghdwCM">Investing Cash Transfers to Raise Long-Term Living Standards</title>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+		<respStmt>
+			<orgName>mimeo University of California Berkeley</orgName>
+		</respStmt>
+	</monogr>
+	<note>martinez, and m.rubio-codina</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main" xml:id="_E5Anta9">Grameen Bank II: A Possible Analysis with a Relational Perspective (Grameen Bank II: Una Possibile Analisi in Prospettiva Relazionale)</title>
+		<author>
+			<persName><forename type="first">Tommaso</forename><surname>Reggiani</surname></persName>
+		</author>
+		<idno type="DOI">10.2139/ssrn.897493</idno>
+		<ptr target="http://www.grameen-info.org" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_dpFMfTM">SSRN Electronic Journal</title>
+		<title level="j" type="abbrev">SSRN Journal</title>
+		<idno type="ISSNe">1556-5068</idno>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main" xml:id="_FpT4tpJ">Worms: Identifying Impacts on Education and Health in the Presence of Treatment Externalities</title>
+		<author>
+			<persName><forename type="first">Edward</forename><surname>Miguel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Kremer</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1468-0262.2004.00481.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_9uNek96">Econometrica</title>
+		<title level="j" type="abbrev">Econometrica</title>
+		<idno type="ISSN">0012-9682</idno>
+		<idno type="ISSNe">1468-0262</idno>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="159" to="217" />
+			<date type="published" when="2004-01">2004</date>
+			<publisher>The Econometric Society</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main" xml:id="_Fjgvn77">Kin Groups and Reciprocity: A Model of Credit Transactions in Ghana</title>
+		<author>
+			<persName><forename type="first">Eliana</forename><forename type="middle">La</forename><surname>Ferrara</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/000282803322655518</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_cJYcwgM">American Economic Review</title>
+		<title level="j" type="abbrev">American Economic Review</title>
+		<idno type="ISSN">0002-8282</idno>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1730" to="1751" />
+			<date type="published" when="2003-11-01">2003</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main" xml:id="_UewzwsF">Risk Sharing and Information in Village Economies</title>
+		<author>
+			<persName><forename type="first">Ethan</forename><surname>Ligon</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/1467-937x.00071</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Tm2DkgG">The Review of Economic Studies</title>
+		<idno type="ISSN">0034-6527</idno>
+		<idno type="ISSNe">1467-937X</idno>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="847" to="864" />
+			<date type="published" when="1998-10">1998</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b24">
+	<analytic>
+		<title level="a" type="main" xml:id="_CcWkBgA">All in the Extended Family: Effects of Grandparents, Aunts, and Uncles on Educational Attainment</title>
+		<author>
+			<persName><forename type="first">Linda</forename><forename type="middle">L</forename><surname>Loury</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/000282806777212099</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_qnsFMsr">American Economic Review</title>
+		<title level="j" type="abbrev">American Economic Review</title>
+		<idno type="ISSN">0002-8282</idno>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="275" to="278" />
+			<date type="published" when="2006-04-01">2006</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b25">
+	<analytic>
+		<title level="a" type="main" xml:id="_uBTm7gd">Testing Efficient Risk Sharing with Heterogeneous Risk Preferences</title>
+		<author>
+			<persName><forename type="first">Maurizio</forename><surname>Mazzocco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shiv</forename><surname>Saini</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/aer.102.1.428</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_2rBM3T2">American Economic Review</title>
+		<title level="j" type="abbrev">American Economic Review</title>
+		<idno type="ISSN">0002-8282</idno>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="428" to="468" />
+			<date type="published" when="2009">2009</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">mimeo UCLA</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b26">
+	<monogr>
+		<title level="m" xml:id="_5f9ZaVC">Do Micro…nance Programs Really Help the Poor? New Evidence from a Flagship Programme in Bangladesh</title>
+		<imprint>
+			<date type="published" when="1988">1988</date>
+		</imprint>
+		<respStmt>
+			<orgName>mimeo Harvard University</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b27">
+	<monogr>
+		<title level="m" xml:id="_dWqqGJV">Why is Mobility in India so Low? Social Insurance, Inequality, and Growth</title>
+		<imprint>
+			<publisher>mimeo Brown University</publisher>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b28">
+	<analytic>
+		<title level="a" type="main" xml:id="_HPMZyy6">Risk, Implicit Contracts and the Family in Rural Areas of Low-Income Countries</title>
+		<author>
+			<persName><forename type="first">Mark</forename><forename type="middle">M</forename><surname>Rosenzweig</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/2233724</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_qfxYwv7">The Economic Journal</title>
+		<title level="j" type="abbrev">The Economic Journal</title>
+		<idno type="ISSN">0013-0133</idno>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="issue">393</biblScope>
+			<biblScope unit="page">1148</biblScope>
+			<date type="published" when="1988-12">1988</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b29">
+	<analytic>
+		<title level="a" type="main" xml:id="_MVFZW9x">School Subsidies for the Poor: Evaluating the Mexican PROGRESA Poverty Program</title>
+		<author>
+			<persName><forename type="middle">T</forename><surname>Schultz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_edVnh75">Journal of Development Economics</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="page" from="199" to="250" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b30">
+	<analytic>
+		<title level="a" type="main" xml:id="_y4UnT3V">Risk and Insurance in Village India</title>
+		<author>
+			<persName><surname>Townsend</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_9NdDree">Econometrica</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="page" from="539" to="591" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b31">
+	<analytic>
+		<title level="a" type="main" xml:id="_QaU9ky4">Risk and Insurance in a Rural Credit Market: An Empirical Investigation in Northern Nigeria</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Udry</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/2297901</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_hSC6sEr">The Review of Economic Studies</title>
+		<title level="j" type="abbrev">The Review of Economic Studies</title>
+		<idno type="ISSN">0034-6527</idno>
+		<idno type="ISSNe">1467-937X</idno>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="495" to="526" />
+			<date type="published" when="1994-07-01">1994</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b32">
+	<analytic>
+		<title level="a" type="main" xml:id="_S7v6fbG">Children as Collective Goods and Divorce Settlements</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Weiss</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Willis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_FxhEwMC">Journal of Labor Economics</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="268" to="292" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,1331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" xml:id="_te7tzNb">The Enduring Impacts of a Big Push during Multiple Crises Experimental Evidence from Afghanistan</title>
+				<funder ref="#_cMUkJ3Z">
+					<orgName type="full">World Bank Afghanistan Country Management Unit and the Finance, Competitiveness and Innovation Global Practice</orgName>
+				</funder>
+				<funder ref="#_UXVevch">
+					<orgName type="full">Afghan Management and Marketing Consultants</orgName>
+					<orgName type="abbreviated">AMMC</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">South Asia Region Gender Innovation Lab</orgName>
+					<orgName type="abbreviated">GIL</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">World Bank</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Knowledge for Change</orgName>
+				</funder>
+				<funder ref="#_FHy4AGD">
+					<orgName type="full">UK Government-UNHCR-World Bank</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">, Partnership for Economic Inclusion</orgName>
+					<orgName type="abbreviated">PEI</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Development Impact Evaluation (DIME) department, World Bank § Development Policy and Partnerships</orgName>
+					<orgName type="abbreviated">DDP</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2023-11">November 2023</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Guadalupe</forename><surname>Bedoya</surname></persName>
+							<email>gbedoya@worldbank.org</email>
+						</author>
+						<author>
+							<persName><forename type="first">Yulia</forename><surname>Belyakova</surname></persName>
+							<email>ybelyakova@worldbank.org</email>
+						</author>
+						<author>
+							<persName><forename type="first">Aidan</forename><surname>Coville</surname></persName>
+							<email>acov-ille@worldbank.org</email>
+						</author>
+						<author>
+							<persName><forename type="first">Thomas</forename><surname>Escande</surname></persName>
+							<email>tescande@worldbank.org</email>
+						</author>
+						<author>
+							<persName><forename type="first">Mohammad</forename><surname>Isaqzadeh</surname></persName>
+							<email>mohammadisaqzadeh@fas.harvard.edu</email>
+							<affiliation key="aff1">
+								<orgName type="department">Weatherhead Center for International Affairs</orgName>
+								<orgName type="institution">Harvard University</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Aminata</forename><surname>Ndiaye</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Ahmed</forename><surname>Rostom</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Development Economics Development Impact Group</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main" xml:id="_GyQkpDP">The Enduring Impacts of a Big Push during Multiple Crises Experimental Evidence from Afghanistan</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2023-11">November 2023</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">1F03BC633AF62517EA60DCC5952F8E8B</idno>
+					<note type="submission">Originally published in the Policy Research Working Paper Series on November 2023.</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2025-11-04T20:56+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a292bac</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=1, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=true, generateTeiCoordinates=[true], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term xml:id="_jwMEQet">J21</term>
+					<term xml:id="_r3PW8A7">J22</term>
+					<term xml:id="_PmC95hX">O12</term>
+					<term xml:id="_hCJ84JA">D13 Poverty</term>
+					<term xml:id="_dFwJ7EJ">big push</term>
+					<term xml:id="_BN2vhHJ">labor supply</term>
+					<term xml:id="_Dw7vaDF">women&apos;s empowerment</term>
+					<term xml:id="_8NfFvSY">resilience</term>
+					<term xml:id="_xX6J3SK">fragility</term>
+					<term xml:id="_DuxYJqw">conflict and violence</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_TUJN4SJ">Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is</head></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="10" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="11" ulx="0.0" uly="0.0" lrx="792.0" lry="612.0"/>
+		<surface n="12" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="13" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="14" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="15" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="16" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="17" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="18" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="19" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="20" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="21" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="22" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="23" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="24" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="25" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="26" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="27" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="28" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="29" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="30" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="31" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="32" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="33" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="34" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="35" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="36" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="37" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="38" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="39" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="40" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="41" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="42" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="43" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="44" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="45" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1" xml:id="_MfZpgbh">Introduction</head><p xml:id="_vKgXgE2">More than 700 million people live in extreme poverty worldwide. This includes an estimated 97 million who were pushed into extreme poverty due to the COVID-19 pandemic, reversing the positive global trend for the first time since 1997 and highlighting the precarious nature of the large development gains achieved over the past 30 years (Lakner et al., 2021; World Bank, 2022a; Kharas &amp; Dooley, 2021). Two-thirds of this extreme poor population are expected to live in fragile and conflict-affected areas by 2030, where social protection is weak and households have limited access to coping mechanisms, making them particularly vulnerable to the increasing frequency of conflict, climate and economic shocks (Corral et al., 2020; Bousquet   &amp; Bronkhorst, 2021; Wellenstein et al., 2022). These settings are also where evidence is most limited due to the practical challenges with generating rigorous evidence under these conditions (Tollefson, 2022; Blattman   &amp; Ralston, 2015). This raises concerns that, even as global evidence increases, site selection may bias our understanding of the effectiveness of future poverty reduction strategies (Allcott, 2015). Identifying antipoverty strategies that are resilient to conflict, climate and economic shocks will be critical for ensuring that the significant development gains can be recovered and sustained.</p><p xml:id="_Dv6PB2y">In 2016, women in some of the poorest and most marginalized households in Afghanistan's Balkh province received a multi-faceted intervention (the Targeting the Ultra-Poor Program, or TUP) to help them create sustainable livelihoods and move out of extreme poverty. Aimed at addressing multiple constraints faced by the ultra-poor, the intervention included an asset transfer (typically cows), a monthly cash stipend, and coaching for twelve months. In 2018, two years after the asset transfer, results from a randomized control trial (RCT) showed significant impacts across a range of well-being indicators. The treatment increased households' consumption and revenues, reduced food insecurity, improved psychological well-being for women and men, increased women's market work participation (reducing their idle time), improved children's school attendance and physical health, and reduced their poverty prevalence by 20 percentage points, compared to the control group (Bedoya et al., 2019). Not only did the program improve the lives of treatement UP household members in a fragile context, but it also helped reduce gender gaps and improve women's empowerment in a setting with particularly binding constraints for women's participation in social and economic activities.</p><p xml:id="_NMmtZCY">Shortly following the promising short-term results, the country was beset by multiple crises between 2018 and 2021: severe droughts in 2018 and 2021, escalating violence, and the COVID-19 pandemic fundamentally affected Afghans' livelihoods, health and security. TUP-type programs have begun to show promising longterm impacts in more secure locations and under more stable macroeconomic conditions (Banerjee et al.,  over control, despite overall reductions in well-being. Second, treatment households have more diverse income sources and use more sustainable coping mechanisms (i.e., they rely less on loans, gifts and child labor to cope with shocks, in a context where external support do not represent a significant source of income), compared to control households. Finally, treatment households are 20 percentage points (53%) more likely to have recovered to some extent from shocks occurred in the previous year compared to control households reporting similar shocks affecting their livelihoods. These results suggest that the program was able to provide protection and strengthen treatment households' resilience, that is, their ability to cope with or limit the effects of shocks, which can help protect their potential future consumption and investments. This implies a potential role of similar programs in strengthening resilience, even while households are still enduring the effects of significant shocks.</p><p xml:id="_NtE3DSn">Finally, we explore whether the TUP program can impact economic and other well-being gaps between ultra-poor and non-ultra poor households. The ultra-poor originally started off as the poorest households in the communities where they were identified (the bottom 6% of the study villages). Five years after the asset transfer, the TUP program was able to reduce gaps across income and revenues, food security, and consumption between treatment households and the rest of the households in their villages (non-UP households, 94% of the population). Furthermore, treatment households now appear more similar to non-UP households than their UP control counterparts, closing gaps across a number of dimensions, including psychological well-being, school enrollment and income, while extending gains even beyond non-UP levels in terms of reduced reliance on loans for consumption and health shocks, increased savings, livestock value, and women's empowerment. Taken together, there is a clear and significant contribution of the TUP program to the reduction of inequality across multiple dimensions of well-being in the villages where the TUP was implemented.</p><p xml:id="_MYtDFjP">This study contributes to the existing literature in three ways: (i) providing some of the first evidence of long-term impacts of a TUP program in a conflict-affected area; (ii) articulating a mechanism through which a TUP program is able to achieve protective benefits amidst multiple concurrent economic, health and climate shocks; and (iii) highlighting the role of a TUP program on reducing inequality.</p><p xml:id="_mwau6yk">First, while longer-term impacts of the TUP have been documented in Bangladesh and India, these have been in stable settings and under positive macroeconomic conditions (Bandiera et al., 2017; Banerjee et al.,   2021; Balboni et al., 2021). <ref type="bibr">3</ref> This is the first experimental evidence of a TUP program's long-lasting effects across multiple well-being indicators in one of the most fragile settings in the world. <ref type="bibr">4,</ref><ref type="bibr">5</ref> It is also the most <ref type="bibr">3</ref> A multifaceted project targeting poor young people (vs. ultra-poor primary women) in Uganda finds positive impacts 4 years after asset transfer but these dissipate by year 9 due to control group catch-up (Blattman et al., 2013, 2020). <ref type="bibr">4</ref> Even prior to the political events of August 2021, Afghanistan was rated as the least peaceful of 163 countries in 2019 (Institute for Economics and Peace, 2019).</p><p xml:id="_jzv2yqY">5 Brune et al. (2022) report mixed impacts after four years from an impact evaluation of a TUP program in the Republic of fragile setting in which a TUP program has ever been evaluated, with battle-related fatalities estimated at 172 per 100,000 people during the study period. <ref type="bibr">6</ref> Second, we present evidence of the protective effects of the TUP program amidst multiple concurrent exogenous shocks, and explore the potential mechanisms through which the program strengthens resilience under such system-wide crises. Shorter-term impacts in fragile and conflict-affected settings have been observed in Afghanistan, Niger, South Sudan, and the Democratic Republic of Congo (Bedoya et al., 2019;   Bossuroy et al., 2022; Chowdhury et al., 2017; Angelucci et al., 2023). While countries face structural fragility and security conditions (with some facing worsening conflict and associated economic effects), the combined health, economic and climate shocks experienced during this study provide an important opportunity to understand coping mechanisms and resilience to multi-dimensional shocks which are expected to be an increasing feature of poverty reduction strategies in the future. While protective effects of similar multifaceted interventions against external shocks in non-fragile settings have been documented (see Macours et   al. (2022) for a "cash plus" intervention), we are not aware of studies on TUP's effectiveness in building resilience in the context of fragility and multiple concurrent exogenous shocks to date.</p><p xml:id="_pa7Jj2v">Third, we present evidence that TUP programs have the potential to reduce village-level inequality, enduring through significantly harsh conditions. This builds on the existing evidence from Bangladesh where, despite significant inequality at baseline between ultra-poor and non-ultra-poor households, the program allowed treatment households to accumulate assets and take on occupations similar to non-UP households, reducing gaps with the next socioeconomic category to the ultra-poor, the near-poor, four years after the asset transfer (Bandiera et al., 2017).</p><p xml:id="_z4YK847">The paper proceeds as follows: Section 2 describes the nature of the shocks experienced by Afghans during the period between study's midline and endline surveys and the trends in critical outcomes for nontreated households during this period. Section 3 describes the TUP program and Section 4 explains the study design. We present the main results in Section 5, present a discussion on mechanisms in Section 6, provide a benchmarking of these results against non-UP socioeconomic conditions in Section 7, and discuss costs and benefits of the program in Section 8. Section 9 concludes.</p><p xml:id="_s6zXswt">Yemen during an onset of social unrest but changes in the implementation post-randomization affected the study's ability to reliably measure with precision impacts across multiple dimensions. Therefore, the authors are unable to determine whether the lack of impacts on some dimensions are due to the crisis or to the compromise in the design for the implementer re-qualification process after the randomization (Brune et al., 2022). <ref type="bibr">6</ref> Own estimates using the yearly battle-related civilian and military deaths for the years in which the TUP was implemented in each country Pettersson et al. (2021), divided by the country's population from the World Bank's World Development Indicators. Afghanistan's battle-related deaths estimate is 17 times as large as Pakistan's (10 battle-related deaths per 100,000 people); 7 times as large as the Republic of Yemen's (24 per 100,000 people); and 6 times as large as South Sudan's (29 per 100,000 people), for the years when the TUP studies took place in each country. The periods include intervention and impact analyses as follows: 2016-2018 for Afghanistan, 2009-2013 for Pakistan, 2010-2014 for Yemen, and 2013-2015 for South Sudan. The average battle-related casualties per year were also much higher in Afghanistan (58 per 100,000 people), followed by South Sudan (9.8), Yemen (4.8), and Pakistan (2.4).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2" xml:id="_QwNY2bP">Context</head><p xml:id="_a2Chgkx">In the years before the political events of August 2021, Afghanistan had been experiencing significant compounding challenges. A drought in 2018 was the worst the country had experienced in over a decade, with almost half of the population reporting that their income was significantly affected (FAO, 2019; FSAC,   2018). This was followed by dry conditions in 2020 and another devastating drought in 2021 that created a significant deficit of wheat production and endangered the lives of more than 3 million livestock due to lack of water (IFRC, 2021; ReliefWeb, 2022). During the same period, political tensions between the Afghan government and the Taliban remained high, manifesting themselves through conflict and insecurity, with the number of battle-related deaths more than doubling in 2021 compared to the 2018-2020 period (Figure <ref type="figure">II</ref>). <ref type="bibr">7</ref> This political instability ultimately culminated in the August 2021 with the regime change. The COVID-19 pandemic added fuel to the fire, seeing the economy contract by 6% in 2020 (Sahin &amp; Tzannatos, 2021), with many livelihoods deeply impacted-either directly through illness and death of breadwinners, or indirectly through lockdowns and ensuing macroeconomic deterioration. The Balkh province, where the study was conducted, was among the provinces most severely affected by both the 2018 and 2020 droughts (FSAC,   2018; IFRC, 2021). At the same time, although Balkh was relatively stable with respect to the rest of the country during the TUP intervention implementation period (2016/2017), the security situation quickly worsened, with Balkh experiencing more casualties per 100,000 people than the national average during the 2020-2021 period (Figure <ref type="figure">III</ref>). <ref type="bibr">8,</ref><ref type="bibr">9</ref> These factors were compounded by the COVID-19 pandemic, creating an even more fragile and difficult context for all households in the study regions. Afghanistan was already a fragile setting, ranked as the least peaceful of 163 countries in 2019 (Institute for Economics and Peace (2019)).</p><p xml:id="_shdg4ym">Consistent with the simultaneous significant shocks affecting the economic opportunities, productivity, health and security of Afghans, we observe sizeable decreases from midline to endline across multiple outcomes in the control group and among non-UP households (Figure <ref type="figure">IV</ref>). Food consumption among UP control households decreased by 27% between July 2018 and June 2021, while non-UP households faced an even larger reduction of 33%. Food security indicators deteriorated across the board. The proportion of non-UP households in which adults skipped or cut any meals in the past month increased from 33% to 68%. For UP households this increased from 55% to 83%. Income and revenues across all sources measured decreased by 31% for UP control households and by 34% for non-UP households.</p><p xml:id="_5PvkVgS">7 Battle-related casualties include injuries or fatalities on the battlefield. A battle is "a violent interaction between two politically organized armed groups at a particular time and location". Armed Conflict Location &amp; Event Data Project (ACLED) (2021).</p><p xml:id="_HfN6PgT">8 See Figure <ref type="figure">I</ref> for a timeline of the intervention, data collection and significant events.  Sources. FAO (2019), FSAC (2018), ReliefWeb (2022), IFRC (2021). Notes. Battle-related casualties include injuries or fatalities on the battlefield. A battle is "a violent interaction between two politically organized armed groups at a particular time and location." All casualties include battle-related injuries and fatalities (i.e., on the battlefield) as well as casualties and fatalities off the battlefield, such as drone strikes, suicide bombings, and other violence against civilians. Data from Armed Conflict Location &amp; Event Data Project (ACLED) (2022). Notes. All casualties include battle-related injuries and fatalities (i.e., on the battlefield) as well as casualties and fatalities off the battlefield, such as drone strikes, suicide bombings, and other violence against civilians. Own estimates using casualties data from Armed Conflict Location &amp; Event Data Project (ACLED) (2022) and population data for Afghanistan from World Bank (2022b) and Balkh province from UN OCHA (2015) (data for 2016-2017), National Statistics and Information Authority (2020) (data for 2018-2020), and National Statistics and Information Authority (2021) (data for 2021). Notes. The figure shows average indicators for the non-treated (i.e., UP control and non-UP) households from midline to endline in terms of endline proxy indicators for income and revenues, consumption, and food security. All estimates are for the endline sample. Our food consumption proxy includes 25 food items that best predict total consumption at baseline and midline (for details, see Online Appendix Text 2). Food consumption in constant 2018 AFN is converted into an index where endline consumption for the control group = 1. Details on inflation estimates can be found in Online Appendix Text 3. Monetary values are in nominal USD.</p><p xml:id="_9pkrZ8f">Originally designed by BRAC in Bangladesh, the TUP program targets UP women and provides them with a productive asset (typically livestock), training, mentoring, a cash stipend, and other services for a set period until the household "graduates" into a more sustainable, self-sufficient livelihood.</p><p xml:id="_3yw4mCj">The TUP program was implemented in eight Afghan provinces under the World Bank-supported Access to Finance program between 2015 and 2021, reaching 12,698 households. The impact evaluation focuses on Balkh province, where approximately 1,500 households were reached. The intervention was implemented by the Microfinance Investment Support Facility for Afghanistan (MISFA), an independent apex organization. Various local nongovernmental organizations (NGOs) delivered the frontline program activities in collaboration with MISFA.</p><p xml:id="_7PteWH8">Program villages were selected among the poorest villages in the province. A participatory rural appraisal (PRA), through which the community ranked the population of each village based on their socioeconomic status, was conducted to identify UP households. This was followed by a verification survey to ensure that households met program eligibility criteria.</p><p xml:id="_GRuhw9t">While similar in approach to other TUP programs, the exact design for the Afghanistan TUP was developed by MISFA to address local constraints, and its duration was shorter than other TUP programs implemented before (12 months vs. 18-24 months). The following components were delivered to the eligible households:<ref type="foot" target="#foot_2">foot_2</ref> 1. Productive asset transfer (although households could choose from several types of livestock, TUP households mainly selected a cow with a calf or a pregnant cow; livestock was replaced if livestock became sick or died during the program duration).</p><p xml:id="_dhTJEcr">2. A monthly cash transfer (USD 15 nominal per month for 12 months).</p><p xml:id="_aNnNzFs">3. Biweekly training sessions on livestock rearing and entrepreneurship for 12 months. 4. A health subsidy with a hygiene kit worth about USD 42 nominal.</p><p xml:id="_eq42xEw">5. Fortnightly mentoring visits by social organizers to discuss topics related to health, education, women's empowerment, financial inclusion, and social cohesion/community support. 6. Veterinary services to evaluate livestock assets and provide additional support if necessary (food supplements or asset replacement). 7. Linking households to education, health, and financial institutions where needed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4" xml:id="_ugrARrK">Design and Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.1" xml:id="_FyaXWAc">Experimental Design and Sample</head><p xml:id="_h9SduFJ">The evaluation sample comes from 80 villages in four districts of Balkh province. Households were selected based on a wealth ranking of the entire population of households in these villages, conducted through a Participatory Rural Appraisal (PRA), and resulting in an eligible UP group of slightly under 6% of the population, or the census of ultra-poor households in study villages. A baseline survey was conducted from February to April 2016. A public lottery was then held in May 2016 where 1,219 UP households in the study villages were randomly assigned into one treatment group (491 households) and one control group (728 households). <ref type="bibr">11</ref> Additionally, approximately 20 households in each of the study villages were randomly drawn at baseline (excluding TUP-eligible households), which allows us to have a representative benchmark for the TUP sample, referred throughout the paper as the non-ultra-poor (non-UP) sample. Further details on the sample are described in Bedoya et al. (2019).</p><p xml:id="_4MmkXkf">The randomization was stratified by PRA groups, with larger villages split into multiple PRA groups, typically defined by the catchment area of a masjid (mosque). Starting in May 2016, the treatment group received the TUP package, and the control group did not receive any of the components. A midline survey was conducted from July to October 2018, approximately two years after the asset transfer, and an endline survey took place over several short data collection rounds between January and June 2021, approximately 5 years after the asset transfer. Due to the COVID-19 pandemic and the escalating conflict in Afghanistan, the endline survey was conducted by phone, with the implication that only households with a working phone number could be surveyed. This covered 69% (839/1,219) of randomized UP households. Additionally, data were collected from 1,081 non-UP households at endline, which represents 64% (1,081/1,679) of non-UP households surveyed at baseline.</p><p xml:id="_WTesGf6">In this paper, we present estimates of the impact of the program on UP households with a working phone, comparing the treatment and control groups five years after the asset transfer. As Table <ref type="table" target="#tab_0">1</ref> shows, the sample interviewed at midline is similar to the endline sample across all dimensions measured: there are no statistically significant differences between the two groups. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.2" xml:id="_H4sSdxM">Data</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.2.1" xml:id="_tG4BgXF">Surveys</head><p xml:id="_AGPhF6P">Household phone surveys. The woman in the household with the most knowledge and decision power, or the primary woman, completed the endline phone survey. Four short rounds of surveys, approximately 30 minutes each, were conducted between 3 and 7 weeks apart to accommodate for the limited duration of a phone survey. <ref type="bibr">12</ref> Some outcomes were measured in more than one phone survey round, while others were measured only once (Table <ref type="table" target="#tab_0">A1</ref> in the Online Appendix). The baseline and midline surveys were conducted in person with the primary woman (lasting 2 hours approximately) and primary man (lasting 45 minutes approximately). <ref type="bibr">13</ref> Market surveys. A market-level survey was conducted in four districts encompassing the 80 study villages to collect data on food prices. This was used to calculate consumption values from quantities in the household survey. This method replicates the approach used by the Afghan government to calculate national poverty measures before 2021. Surveyors visited the largest market in each district and collected sales prices for all food items found in the household consumption survey. These data were collected by more than one surveyor, and were administered in parallel with the household surveys.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.2.2" xml:id="_9mGr3js">Primary Outcomes</head><p xml:id="_vCTEz7z">Here we describe the primary outcome measures at endline, collected at the household-and individuallevel from the primary woman. These are described fully in Online Appendix Text 1, where we include the main differences with midline outcome measures, which are mostly due to the need of adjusting the indicators to fit the time limit and other constraints faced during phone surveys.</p><p xml:id="_aT5g8qZ">1. Consumption proxy. A proxy for total per capita consumption is estimated using a subset of food items consumed in the last week, and non-food expenditures in the past month or twelve months, depending on the item. <ref type="bibr">14</ref> We followed a two-step estimation to select the subset of items that best predicted consumption using baseline and midline data. We use district market prices from the market surveys to estimate the value of food consumption. We report the consumption proxy as an index of real values, where per capita consumption for control UP at endline equals 1. This allows for comparison across rounds adjusting for inflation between midline and endline, which was particularly important for food items (Online Appendix Text 3 presents details on real value estimates).</p><p xml:id="_MUsuFRk">2. Household durable assets. An index proxy for wealth generated using principal component analysis of the number and types of durable household assets (excluding land/property), following Filmer &amp;   Pritchett (2001), for the durable assets available in the DHS (2015) data. The index is then normalized to the unit standard deviation of control, with control mean equal to zero.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3." xml:id="_BjgPxam">Value of livestock.</head><p xml:id="_7wUt6zj">Total value of livestock is calculated as the total number of TUP livestock (cows, goats, sheep) and chickens owned by the household, multiplied by unit price, for each livestock type.</p><p xml:id="_wsGrKF7">The unit price comes from the valuation given by the households for each type of livestock in nominal USD.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4." xml:id="_SSfDdr2">Financial inclusion index.</head><p xml:id="_VHtxkQm">A standardized index including the following outcomes: (i) anyone in the household has savings; (ii) household value of total savings; and (iii) the household's ability to access formal credit (i.e., from a bank or microfinance institution) for emergency purposes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5." xml:id="_WtMgdcg">Psychological well-being index.</head><p xml:id="_HsJ5k7m">A psychological well-being index is computed for women using the standardized weighted average of scores on the Center for Epidemiologic Studies Depression (CES-D) seven-point scale (Radloff, 1977) (negatively coded), and the World Values Survey (WVS) questions on happiness and life satisfaction. <ref type="bibr">15</ref> The index is computed using the procedure outlined in Anderson   (2008), by subtracting the mean and dividing by the standard deviation of the control group for each unit of analysis, computing the covariance matrix, inverting the matrix, adding up the rows of the matrix, and weighting each variable with its corresponding entry in the summed inverted covariance matrix. As a last step, the index is normalized again by dividing by the sum of the weights. including ownership of a mobile phone for themselves, and having financial assets in their name and separate from others. The women's political and social involvement index is a proxy for agency at the community level, and includes whether the primary woman has a Tazkira (national ID card), voted in the last presidential or provincial elections, attended village leaders' meetings, or approached village leaders about her needs or village issues in the last 12 months. The index is computed using the same procedure outlined in the psychological well-being index description.</p><p xml:id="_yjxPxU9">7. Market work participation. Whether the primary woman and primary man (if there is one) participated in market activities, including all paid or unpaid work and self-employment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.2.3" xml:id="_xpuwYRc">Secondary Outcomes</head><p xml:id="_axfrJjH">1. Food security and nutritional diversity. For food security, a standardized weighted average of (i) whether everyone in the household eats at least two meals every day, (ii) no adult skips or cuts the size of meals, and (iii) no child skips or cuts the size of meals in the past 30 days. The index is computed using the same procedure outlined in the psychological well-being index description. We measure household nutritional diversity by comparing the share of proxy food consumption by groups of food with different nutritional content (calculated as the total monthly per capita expenditure on select food items, divided by total monthly per capita food consumption). Since we estimate consumption based on district market prices, the changes in shares of food items is mostly a reflection of change in quantities consumed. Individual food items correspond to the items selected for the consumption proxy and are grouped into the following categories: meat (beef, veal, mutton, goat, and chicken); dairy (milk (fresh), yogurt, curd (chaka), dogh (a yogurt drink), and eggs); vegetables (potato, tomato, okra, pumpkin, and green pepper); and fruits (apple, orange, banana, mango, and lettuce). 4. Household income and revenues. A proxy for household income and revenues comprising household enterprise revenues (sales of livestock, agriculture, and non-agricultural revenues) and income earned by primary household members from paid labor in the past 4 weeks. <ref type="bibr">16</ref> 5. School enrollment. Whether a school-age child (ages 6-18) is enrolled in school.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.3" xml:id="_Ru5KuGp">Design Integrity</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.3.1" xml:id="_VuER2QA">Baseline Balance</head><p xml:id="_mTqkzvN">Table <ref type="table" target="#tab_3">A4</ref>-A in the Online Appendix presents the test for baseline balance for the households surveyed in any of the four endline survey rounds, while Table <ref type="table" target="#tab_3">A4</ref>-B presents the balance test for households surveyed in all four endline survey rounds. We follow the same specification used for impact analyses, comparing baseline treatment and control households, controlling for randomization strata. In both tables, Panel A presents these comparisons for primary outcomes, and Panel B for secondary outcomes and other relevant indicators. We find no statistically significant or economically meaningful differences across most outcomes and indicators, except for the primary woman's psychological well-being and the value of livestock. Treatment households interviewed in any of the four survey rounds have 36% lower (p-value = 0.033) value of livestock at baseline (this difference is similar in magnitude but not significant for households surveyed in all four endline survey rounds), compared to control, while primary women in treatment households have a lower psychological well-being measure by 0.23 SD (p-value = 0.007) (this difference is similar in magnitude and level of significance for households surveyed in all four endline survey rounds), compared to their counterparts in the control group. These differences in livestock value and psychological well-being at baseline may result in underestimates of treatmentment effects. To assess whether these imbalances influence any of the main results, we present robustness checks including these variables as controls (Table <ref type="table" target="#tab_5">A6</ref> in the Online Appendix).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.3.2" xml:id="_rQVjMmE">Compliance</head><p xml:id="_FgbSctS">As described in Bedoya et al. (2019), the program was highly successful at delivering the components, with 97% of the treatment households reporting being aware of the TUP program, and of those, the majority (99.5%), reporting having received program assets or services, compared to 3% in the control group. 96% of treatment households and 1.5% of control reported receiving livestock assets.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.3.3" xml:id="_fMvzDak">Attrition</head><p xml:id="_JrCaZXH">The lottery assigned 1,219 households into treatment (491) and control (728). Of these, 1,173 (96%)</p><p xml:id="_kNQCqYA">were surveyed at baseline. <ref type="bibr">17</ref> The endline phone survey was successfully completed among 839 households, which implies an attrition of 31% with respect to baseline, and of 27% with respect to midline. While we find the TUP significantly impacted women's phone ownership at midline (women were 5.4 percentage points more likely to own a mobile phone for herself, p-value = 0.074, see Bedoya et  <ref type="formula">al. (2019)</ref>), we find no impacts on household mobile phone ownership which alleviates concerns of potential selection bias from differential phone ownership. The difference in attrition rates across treatment and control groups is not statistically significant (Table <ref type="table" target="#tab_4">A5</ref> in the Online Appendix). Attrition at endline was predominantly driven by the constraint that households needed to have a working phone to be surveyed. <ref type="bibr">18</ref> When conditioning on whether households had a working phone, the response rate was 94%.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.4" xml:id="_T3ShrXB">Data Analysis</head><p xml:id="_EmPeSyP">We estimate impacts comparing outcomes across treatment and control groups at endline with the following specification:</p><formula xml:id="formula_0">Y i = α + βT i + 133 j=1 V i,j + ϵ i<label>(1)</label></formula><p xml:id="_pnmJ4vF">where, Y i is the outcome of interest for household (or individual) i at endline, T i is a dummy variable equal to 1 if household i is assigned to receive treatment and 0 otherwise, and β is the intention-to-treat estimate of the TUP. Since randomization is stratified by community, we follow Bruhn &amp; McKenzie (2008)   and include V j -a dummy variable equal to one if household i comes from PRA group j. For individual-level outcomes, we cluster the standard errors at the household level. Similarly, for outcomes collected in more than one survey round, we pool the data and cluster standard errors at the household level. Online Appendix Table <ref type="table" target="#tab_5">A6</ref> shows that the main results remain qualitatively unchanged when we re-estimate the regressions controlling for baseline characteristics.</p><p xml:id="_wru5WsY">5 Results As Panel B2 of Online Appendix Table <ref type="table" target="#tab_0">A11</ref> shows, midline impacts for the endline sample (i.e., only households with a phone), using the endline indicators adapted to shorter phone interviews, are very similar to the impacts for the whole UP sample reported in Bedoya et al. (2019). Two years after the asset transfer, compared to UP households in the control group, treatment households reported higher consumption by 31%</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_xTjK3H6">As</head><p xml:id="_SXjxytQ">(p-value &lt; 0.005) with higher income and revenues by 11% (p-value = 0.317) and larger women's market work participation by 22 percentage points (p-value &lt; 0.005). The financial situation of the treatment households is impacted with lower value of household's outstanding loans by 50% (p-value = 0.008) and higher value of livestock by 397% (p-value &lt; 0.005). Women in treatment households reported higher women's psychological well-being, measured by a 3-component index, by 0.58 SD (p-value &lt; 0.005), and higher women's empowerment, as per a 3-component index, by 0.76 SD (p-value &lt; 0.005) as well as higher children's school enrollment by 6 percentage points (p-value = 0.024) (see Online Appendix Table A17 for children's school enrollment results). Overall, impacts across multiple dimensions of well-being were large and significant at midline, two years after the asset transfer.</p><p xml:id="_W47UzCC">Although attenuated, these impacts persists five years after the asset transfer. In the following section, we report endline impacts-between January and June 2021-per outcome group.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.1" xml:id="_4yKwhcM">Consumption, Food Security and Nutritional Diversity</head><p xml:id="_RrcsPJD">Five years after the asset transfer, the intervention continues to have a significant impact on consumption among treatment households. Our consumption proxy is 16% (p-value = 0.015) larger in the treatment group than in the control group (Table <ref type="table" target="#tab_1">2</ref>). <ref type="bibr">19,</ref><ref type="bibr">20</ref> The intervention also increases an index of food security for treatment households by 0.09 SD (p-value = 0.115), compared to control, however, this impact is not statistically significant. It is worth putting these results into context. Due to food price increases, food consumption in constant terms decreased by 27% in the control group between midline (July-October 2018)</p><p xml:id="_thDa7vR">and endline (January-June 2021) (Figure <ref type="figure">IV</ref>), while total consumption decreased by 8% during the same period (not shown). Therefore, these impacts occur while households in both treatment and control groups are experiencing decreases in food and overall consumption, as well as in food security.</p><p xml:id="_PCxzgtq">While we observe higher consumption together with small but statistically insignificant improvements in our measures of food security, we find that the intervention improved the nutritional quality of the food consumed by treatment households, consistent with the literature (Subramanian &amp; Deaton, 1996; Strauss   &amp; Thomas, 1995; Subramanian &amp; Deaton, 1996). <ref type="bibr">21</ref> As Table <ref type="table" target="#tab_1">2</ref> shows, per-capita consumption for UP <ref type="bibr">19</ref> Our proxy includes 29 items with the greatest explanatory power (75% and 59% of the variation in total consumption at baseline and midline for the UP and non-UP households, respectively). <ref type="bibr">20</ref> Further details on the consumption proxy are in Online Appendix Text 2. Comparison of control means and impacts across all main outcomes and their proxies for the midline and endline samples can be found in Table <ref type="table" target="#tab_0">A11</ref> of the Online Appendix. <ref type="bibr">21</ref> The food security index incorporates indicators related to the extensive margin, i.e., whether the household experienced  <ref type="formula">4</ref>) reports the treatment estimates as a percentage of the control mean. Column (5) reports the total number of observations across all data collection rounds (n*t, where n is the individual HH) and the number of unique HHs (N, in parentheses). Our consumption proxy estimate includes 25 food and 4 non-food items that best predict total consumption at midline (for details, see Online Appendix Text 2). Consumption is converted into an index where endline consumption for the control group = 1.</p><p xml:id="_mwjT65G">The food security index combines three food security measures, normalized to the unit SD of control HHs, with mean equal = 0. Nutritional diversity results report shares of proxy food consumption, by type of food. Meat category includes beef, veal, mutton, goat, and chicken; dairy category includes milk (fresh), yogurt, curd (chaka), dogh (a yogurt drink), and eggs; vegetables category includes potato, tomato, okra, pumpkin, and green pepper; fruits category includes apple, orange, banana, mango, and lettuce. HH = household; PRA = participatory rural appraisal; SE = standard error; SD = standard deviation.</p><p xml:id="_7zcQrWV">households is higher for eggs and dairy products (58%, p-value &lt; 0.005) and fruits (62%, p-value &lt; 0.005), and lower for low-nutrition wheat-related food (-13%, p-value &lt; 0.005) and low-quality rice (-11%, p-value = 0.008), than for control group households. This is consistent with treatment household switching to a more nutritional diet at higher income, which is what we observe when comparing treatment households with control (Colen et al., 2018; Chen et al., 2016). <ref type="bibr">22</ref> In this way, the intervention seems to have helped households sustain a level of income that allowed them to smooth the effects of shocks in consumption through a more nutritionally dense food basket. This is remarkable in a fragile context with pervasive food insecurity. 23</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.2" xml:id="_pcH9QHf">Finance</head><p xml:id="_fbugJ8a">As Table <ref type="table" target="#tab_2">3</ref> shows, the intervention also continues to have positive impacts on all financial outcomes measured. An index of financial inclusion is 0.328 SD higher in the treatment group (p-value = 0.011), mostly driven by savings. Although coming from a low base, treatment households are more likely to save by 7.1 percentage points (p-value &lt; 0.005), compared to 2.7% in the control group, and they save USD 9 (p-value = 0.02) more on average, from USD 4.4 in the control group. Treatment households are also 3.2 percentage points (p-value = 0.123) less likely to be indebted, compared to 89% in the control group, and are USD 118 (p-value = 0.034) less indebted-20 percent decrease compared to USD 597 in the control group.</p><p xml:id="_bhNg5Fk">This is particularly relevant given that at baseline and at midline, UP households reported consumption and health shocks as the main reasons for accessing loans.</p><p xml:id="_Z4AwFBP">Finally, treatment households are more likely to have taken out a loan for a productive purpose (6.7 percentage points, p-value = 0.001), compared to 3.3% in the control group, therefore the level remains low for both groups, suggesting again that consumption continues to be the main purpose for obtaining loans at endline as it was the case at midline (Bedoya et al., 2019). These results also suggest that the financial impacts of the intervention, including savings habit formation, and the ability to reduce the reliance on loans to smooth consumption shocks, have had lasting effects.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.3" xml:id="_dwzWbAn">Household Durable and Productive Assets</head><p xml:id="_tReM3Jt">As highlighted in Table <ref type="table" target="#tab_3">4</ref>, the intervention continues to show significant impacts across different types of assets owned by treatment households. An index of household durable assets is 0.29 SD (p-value &lt; 0.005) any instances of not having enough food on the table over the past month, but not the intensive margin, i.e., the extent of these reductions or inefficiencies (how many times that happens during the recall period), which is a good measure of food insecurity but does not capture the full extent of food (in)security. <ref type="bibr">22</ref> Since we estimate consumption based on district market prices, the changes in shares of food items is mostly a reflection of change in quantities consumed. <ref type="bibr">23</ref> Close to 40% of the population in rural Balkh province faced level 3 or higher (crisis or emergency) food insecurity between August 2018 -May 2021 (Integrated Food Security Phase Classification, 2023). larger than in control households. <ref type="bibr">24</ref> Similarly, the proportion of treatment households that own cows, goats, or sheep-the type of livestock transferred as part of the TUP program-is 32.5 percentage points (p-value &lt; 0.005) larger than the 14.5% in the control group. A higher proportion of treatment households also own chickens (1.8 percentage points, p-value = 0.55), compared to 32% in control, although this result is not statistically significant.</p><p xml:id="_hZHvNaE">When we analyze the impact of the intervention on the number of livestock owned, we find impacts across each type of livestock: treatment households have 4.7 times the number of cows (p-value &lt; 0.005) as their control group counterparts, who own 0.1 cow, on average; 3.1 times the number of goats (p-value = 0.006); 7.1 times more sheep (p-value = 0.005); and 1.4 times more chickens (p-value = 0.025) than the control group. Compared with midline, these results reflect lower rates of reduction (or even increases, as in the case of goats) in livestock ownership for the treatment group when compared to control households, except for cows (Table <ref type="table" target="#tab_3">4</ref> and Table <ref type="table" target="#tab_4">A15</ref> in the Online Appendix): change in ownership of livestock by type for the control group between midline and endline was -10% for cows, -60% for goats, -86% for sheep, -63% for chickens, while changes for the treatment group were -41% for cows, +1% for goats, -51% for sheep, -41% for chickens.</p><p xml:id="_v6B6yeX">Consistent with these results, treatment households report 5.8 times the value of livestock, or 476% (p-value &lt; 0.005) larger than the control group. Because treatment households reported a lower valuation (significant for households surveyed in any round) of livestock than control at baseline (Table <ref type="table" target="#tab_3">A4</ref> in the Online Appendix), we show in Online Appendix Table <ref type="table" target="#tab_5">A6</ref> robustness checks including the value of livestock at baseline as a control. The estimated impacts are almost identical at 477% of control (p-value &lt; 0.005).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.4" xml:id="_XB8hMtA">Labor Supply and Market Work Participation</head><p xml:id="_w2FRkfr">Treatment women's labor force participation-measured as paid or unpaid work including self-employment, or job searching in the previous two weeks-increases by 7.9 percentage points (p-value = 0.002) in the treatment group, from 67% in the control group (Panel A, columns 1-3 in Table <ref type="table" target="#tab_4">5</ref>). This impact is driven by both an increase in market work participation (12 percentage points, p-value &lt; 0.005), compared to 48% in the control group, as well as an increase in the proportion of women looking for work (2.1 percentage points, p-value = 0.47), compared to 51% in the control group, although the latter is not statistically significant.</p><p xml:id="_UDwYC39">Impacts on market work participation are driven mostly by large increases in participation in household activities: participation in livestock rearing is higher by 15.6 percentage points (p-value &lt; 0.005), compared to 15.7% in the control group, followed by a larger participation in household's non-agricultural businesses by 2.3 percentage points (p-value = 0.15), from 8.4% in the control group, although the latter is measured with less precision. There are two important results to highlight here. First, labor supply for control women is increasing considerably between midline and endline, with market work participation and job search increasing by 18 and 32 percentage points, respectively (see Table <ref type="table" target="#tab_5">A16</ref> in the Online Appendix for results at midline). In a context with previously low women's labor participation, these increases are remarkable but could also reflect the effects of the economic crisis, leading more household members to look for jobs. Second, these figures indicate that a large proportion of treatment women doing market work are also searching for a job, suggesting high levels of underemployment. Treatment women are either working less than they want to and/or looking for better job opportunities, which is consistent with the results from midline (Bedoya et   al., 2019).</p><p xml:id="_nqdhe6Y">Columns 4-6 in Table <ref type="table" target="#tab_4">5</ref> show that treatment primary man's labor participation is also higher, although more moderately at 4.9 percentage points (p-value = 0.01), from 84% in the control group. Market work participation is larger by 5.8 percentage points (p-value = 0.022), compared to 72% in the control group, while job search is higher by 2.7 percentage points (p-value = 0.268), compared to 74% for their control counterparts, although this impact is not statistically significant. The impacts on market work participation for men are mostly driven by increases in participation in all types of household businesses: participation in livestock rearing increases by 6.1 percentage points (p-value = 0.002), compared to 12.1% in the control group; participation in household agriculture increases by 4.7 percentage points (p-value = 0.026), compared to 14% in the control group; and participation in non-agricultural businesses increases by 2.8 percentage points (p-value = 0.034), compared to 4.8% for their control counterparts. Similar to treatment women, we also find indications of high levels of underemployment with most primary men doing market work also looking for a job. <ref type="bibr">25</ref> Overall, in a context where economic conditions are driving high levels of under-employment, these results suggest that the program contributed to sustained market work participation-primarily driven by entrepreneurial activities in livestock-and diversification into household productive activities for both the primary man and the primary woman, compared to their counterparts in the control group.  <ref type="formula" target="#formula_0">1</ref>) reports the mean and the standard deviation (in parentheses) of each outcome for the primary woman (respectively, column (4) for the primary man) of the control group. Column (2) reports the treatment estimates in levels with robust standard errors (in parentheses) for the primary woman (respectively, column (5) for the primary man). Column (3) reports the naive p-values [in brackets] for the primary woman (respectively, column (6) for the primary man). Primary woman (respectively, primary man) sample size for each treatment estimate is reported at the bottom of the panels: it lists the total number of observations across all data collection rounds (n*t, where n is the individual HH) and the number of unique HHs (N, in parentheses). All market work participation estimates are whether the HH member engaged in an activity over the past month. Labor force participation is defined by the International Labour Organization as the working-age population that engages actively in the labour market, either by working or looking for work. HH = household; PRA = participatory rural appraisal; SE = standard error; SD = standard deviation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.5" xml:id="_7kxbV9E">Household Income and Revenues</head><p xml:id="_eaDeStH">Five years after the asset transfer, treatment households report higher and more diversified sources of income and revenues compared to their counterparts in the control group: our proxy for monthly household income and revenues is 32% (p-value = 0.001) larger than the control group (Table <ref type="table" target="#tab_5">6</ref>). <ref type="bibr">26</ref> Most sources of income and revenues measured contribute to this increase, which is consistent with the positive impacts on participation in productive activities in the household described previously. However, these results also highlight an important role played by paid labor income from productive activities of the primary members outside of the household, which is 19% (p-value = 0.036) larger in treatment households than in control. This represents the largest share of income and revenues. <ref type="bibr">27</ref> In addition to the overall <ref type="bibr">26</ref> Our proxy for income and revenues includes a subset of the sources of income and revenues identified in previous data collection rounds as the main sources. At midline, our proxy accounted for 76% and 67% of the total income and revenues for control and treatment households, respectively, for the endline sample (Table <ref type="table" target="#tab_0">A11</ref> in the Online Appendix). <ref type="bibr">27</ref> Estimates are included for both the primary man and the primary woman, when available. Missing values are imputed increase in income, the diversification across income sources other than livestock sales is consistent with the long-term results from India, 10 years after the asset transfer (Banerjee et al., 2021; Bandiera et al., 2017).</p><p xml:id="_veKX9v2">Although treatment households receive more paid labor income than control households, the proportion that this income contributes to overall household income is lower (62% vs. 69% in control).</p><p xml:id="_eB3ngpX">As mentioned in Section 2, income and revenues decrease considerably (-31%) for control households between midline and endline. <ref type="bibr">28</ref> Treatment households also face decreases across the board in revenues of all household productive activities, but they are able to partially mitigate these negative shocks and increase paid labor of primary members between the midline and endline. As a result, treatment households continue to have larger and more diversified income and revenue streams than control group households.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.6" xml:id="_tvn8Xjg">Psychological Well-Being</head><p xml:id="_vXYjJCv">As Table <ref type="table" target="#tab_6">7</ref> shows, the intervention continues to have positive impacts on the primary woman's psychological well-being in the long term. The impact on a 3-component index of psychological well-being is 0.22 SD (p-value = 0.01) higher for women in the treatment group, compared to control. <ref type="bibr">29</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_s9gvkex">All measured</head><p xml:id="_8K3eA2C">with the mean by treatment group and whether they engaged in a paid activity. <ref type="bibr">28</ref> In real terms, this is a decrease of 41%. <ref type="bibr">29</ref> All index impacts are normalized to the unit SD of control women, with mean equal to zero. Impacts on sub-indices aggregated into the single-measure psychological well-being index can be found in Online Appendix Table <ref type="table" target="#tab_8">A9</ref>. indicators of psychological well-being are better in the treatment group than in the control group: more women report being very happy or quite happy (4.2 percentage points, p-value = 0.13), compared to 78% in control; they report higher life satisfaction (0.35 percentage points, p-value = 0.137) compared to 6.4 (out of a maximum score of 10) in control; and they are also less likely to report symptoms consistent with major depression (7-CESD &gt;= 8) (by 6.3 percentage points, p-value = 0.061), compared to 87% in the control group, although the first two are not measured with precision. Given the significant imbalance in the primary woman's psychological well-being index at baseline (-0.23 SD, Table <ref type="table" target="#tab_3">A4</ref>-A of the Online Appendix), we confirm these results are robust to the inclusion of the primary woman's psychological well-being index and value of livestock as baseline controls (Online Appendix Table <ref type="table" target="#tab_5">A6</ref>). The impact on our index of psychological well-being increases to 0.27 SD or 25% more than the originally estimated (p-value = 0.001), when we control for baseline characteristics.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.7" xml:id="_puQbJU9">School Enrollment</head><p xml:id="_YwjRwN7">As Table <ref type="table" target="#tab_6">7</ref> shows, the intervention continues to have an impact on education outcomes among school-age children, with treatment households reporting 5.6 percentage points higher school enrollment (p-value = 0.061), from 56.2% in the control group.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.8" xml:id="_aAtH2pR">Women's Empowerment</head><p xml:id="_VrPewN8">Five years after the asset transfer, treatment women in treatment households continue to show higher levels of empowerment than women in the control group: our 3-dimension index of women's empowerment is 0.38 SD (p-value &lt; 0.005) higher than for control women (Table <ref type="table" target="#tab_7">8</ref>). These results are driven by large impacts on two dimensions: women's economic opportunities, and political and social involvement. An index of economic empowerment is 0.42 SD (p-value &lt; 0.005) higher for treatment women, and an index of political and social involvement, measuring agency at the community level, is 0.20 SD (p-value = 0.013) larger for treatment women than for control. Our decision-making index, with 12 indicators of agency at the household level, reports positive lower and not statistically significant impacts of 0.11 SD (p-value = 0.223), compared to control.</p><p xml:id="_Mzvkrhh">Three indicators across multiple domains drive the impact on economic opportunities: participating in market work is 12 percentage points higher (p-value = 0.003), compared to 51% in the control group; having financial assets in her own name and separate from others is 9.3 percentage points (p-value = 0.008) higher, compared to 15.3% in control; and having a mobile phone for herself is higher by 8.7 percentage points positive impact of the TUP intervention on treatment women's psychological well-being, compared to the control group. This, together with the fact that treatment women report large levels of under-employment and idle time, and the positive impacts across multiple socioeconomic indicators, support the argument that treatment women's well-being is not decreased by the intervention, even when taking into consideration the increased market participation. Taking all together, our results suggest that women's empowerment was increased by the program, even in the most conservative scenario, that is, one when we exclude the direct effect of women's market participation from our women's empowerment indicator, and when we do not consider other indicators of socioeconomic well-being.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.9" xml:id="_Nv4wQZG">Shocks, Coping Mechanisms and Resilience</head><p xml:id="_GPQJxqH">To secure long-term, sustained growth out of extreme poverty in fragile settings, households need to be resilient to shocks. How does the TUP program help households cope with or limit the effects of shocks in ways that might help protect their potential future consumption and investments? The period between midline and endline presents an important test of the TUP program's ability to increase household resilience in this way due to the level and extent of the exogenous shocks that occurred in Afghanistan, covered in detail in Section 2.</p><p xml:id="_yHAjU8H">Table <ref type="table" target="#tab_8">9</ref> shows that treatment and control households report a similarly high incidence of shocks affecting their income or livelihoods. We present two indicators: (i) the incidence of any shock affecting households' livelihoods in the past year (collected in January-February 2021), and (ii) the incidence of the 16 types of shocks in the past month (collected in May-June 2021). Both indicators confirm that shocks are equally likely to occur in treatment and control households irrespective of the period analyzed. Our preferred measure highlighting the full extent of exposure to shocks comes from our 1-month incidence measure since it prompts for each one of 16 different types of shocks. Here we find that 60% of households in the treatment vs. 61% in control (p-value = 0.711) have had a shock exposure in the past month. <ref type="bibr">31</ref> We present analyses of recovery and coping mechanism using shock exposure in the past year since this allows us to better reflect on the ability of the TUP program to strengthen households' resilience to shocks over the medium term.</p><p xml:id="_ZaktSrp">First, we find that the TUP program improves the ability of UP households to partially or fully recover from the shocks. As Table <ref type="table" target="#tab_8">9</ref> shows, treatment households are 19.7 percentage points, or 53% (p-value = 0.025) more likely to have at least somewhat recovered from shocks occurred in the past year, compared to  <ref type="formula">4</ref>) reports the total sample size. Data on incidence of shocks was collected in two survey rounds (starting in January and June 2021, respectively), with a one year recall and one month recall periods. Incidence of shocks over the past year was collected starting in January 2021 with a screening question that we believe reduced the number of shocks reported, while the question collected starting in June 2021 presented respondents with a full list of options prompted by the enumerator one by one. The list included 16 options of adverse events: lost a job or cannot find work (outside of HH); household livestock got sick or died; household business had to close; household business had a loss; household forced to move; severe illness or injury of a HH member (including accidents); death of a HH member; imprisonment of a HH member; weather or natural disaster shock (e.g., drought, flood, storm, earthquake); theft; destruction of house / other property (due to conflict or accident); HH member had to pay compensation; other violence/crime event; rise in food prices; lower crop yield; loss of household asset. Use of coping strategies was collected only with 12 months recall. Remittance amounts are in nominal USD. ER for 2021 of 77.45 AFN to 1 USD from the IMF (average of ER for March, April and May 2021, due to data unavailability in the rest of the months). HH = household; PW = primary woman; PM = primary man; PRA = participatory rural appraisal; SE = standard error; SD = standard deviation; ER = exchange rate.</p><p xml:id="_FPFq8U7">37% in the control group.</p><p xml:id="_tuVyxbf">Second, treatment households are also less likely to resort to coping mechanisms that might harm their future consumption and investment opportunities. This includes a reduction in taking out a loan (control mean = 21%, effect size = -5.6 percentage points, p-value = 0.062) or using children's labor (control mean = 1.1%, effect size = -1.1 percentage points, p-value=0.026) to cope with a shock. Relying less on loans to cope with shocks implies lower interest payments against future consumption, and a lower risk of default if loans are used mostly for consumption, which is the main reason for borrowing in this population. Lower reliance on loans to smooth the effects of shocks also suggests that households will have relatively more opportunity to borrow more in the future for productive purposes. Relying less on children's work is a desirable outcome since work could compete with children's' schooling and long-term human capital formation.</p><p xml:id="_httspqR">Third, neither the likelihood of receiving remittances, nor the value of these remittances, were significantly different for treatment and control UP households. Their average value in the past month (USD 3) and regularity of receiving remittances (4.2% of UP households report receiving remittances sometimes or regularly) suggest this is not an important source of support for UP households. Consistent with the increased ability of treatment households to manage shocks, we find that treatment households are also less dependent on external gifts and support to cope with shocks (control mean = 6.1%, effect size = -3.1 percentage points, p-value=0.052).</p><p xml:id="_VXu6zgp">These results suggest that the TUP program has contributed to improving the ability of UP households to recover from shocks and enhanced access to better coping mechanisms to help protect their potential consumption and investments in the future.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="6" xml:id="_39qCNcN">A Discussion on Mechanisms</head><p xml:id="_tMjrJCf">Here we explore the role of income, revenue and asset diversification as a potential tool for treatment households to weather shocks and extend development gains relative to control households. We find that treatment households have a more diversified set of livestock assets driven by the initial livestock transfer, but also benefit from a wider range of non-livestock economic activities and revenue sources than their control counterparts.</p><p xml:id="_T7W8sHg">First, on livestock assets, Figure V (left) shows the total number of livestock for treatment and control groups from asset transfer to endline, estimated using a single indicator expressed in cow equivalents that allows us to aggregate all types of livestock to facilitate the analysis. The right figure presents the total value of this livestock holding. <ref type="bibr">32,</ref><ref type="bibr">33</ref> Between midline and endline, the total livestock numbers decreased for both groups (40% treatment vs. 56% control); however, since livestock prices increased faster than inflation during this period, we see an increase in livestock value over the same period (control increase = 4%; treatment increase = 21%) . Treatment households own almost 6 times more in livestock value than control, with the majority of this value (70%) in higher-return assets-cows, goats and sheep. In contrast, control households have the majority of their livestock value (70%) in the lowest-return asset, chickens (not shown). Therefore, both the level and types of livestock assets treatment households hold act as a protective investment for the crisis period.</p><p xml:id="_CsyaJjH">Another highlight from Figure <ref type="figure">V</ref> is the fact that although the control group was able to accumulate livestock from transfer to midline (under relatively good economic conditions), the gains were transitory. As Figure <ref type="figure">A2</ref> in the Online Appendix shows in detail, most control UP households remain with low livestock holdings from transfer to endline, and only a few manage to accumulate, compared to treatment households. This is consistent with results from Bangladesh that show that only a small group of control households (5.9%) experience similar changes in assets (as the TUP transfer) in the absence of the program. They also suggest these are mostly transitory and conclude that the probability of control group catching up economically to non-UP households is close to zero (Balboni et al., 2021).</p><p xml:id="_CxYZwkS">Second, on non-livestock economic activities, treatment households own 56% more non-livestock assets for production (out of 30) (control mean = 0.63; effect size = 0.35; p-value = 0.005); twice as many types of crops cultivated (out of 25) (control mean = 0.47; effect size = 0.55; p-value = 0.043), and a higher likelihood of owning a non-agricultural business (control mean = 0.16; effect size = 0.04; p-value = 0.048) (see Table <ref type="table" target="#tab_9">A10</ref> of the Online Appendix).</p><p xml:id="_G7FSZ4q">Moving to income and revenues, Table <ref type="table" target="#tab_5">6</ref> shows treatment households increase the primary man and woman's paid labor income by 19% (p-value = 0.036), increase the number of different income sources by 17% (p-value = 0.002) (Table <ref type="table" target="#tab_9">A10</ref> in the Online Appendix), and generate higher income across 3 out of 4 sources (livestock sales, agriculture, and labor income), as reported in Table <ref type="table" target="#tab_5">6</ref>.</p><p xml:id="_8xCaNCB">These results are consistent with Bandiera et al. (2017) and Balboni et al. (2021) who show that large transfers are essential for ultra-poor households to reach a threshold of initial assets that allows them to accumulate assets (and, in this case, divest less during crises), and take on better occupations that allow <ref type="bibr">32</ref> We use the same equivalence between livestock types used by the implementer at the time of the transfer: one cow is equivalent to three sheep and to four goats. As there was no transfer of chickens, for the relative valuation of chickens, we use the average baseline market household self-valuation of chickens and cows to get a ratio of a chicken equal to 0.017 cow, consistent with the ratio used by the Food and Agriculture Organization of the United Nations (FAO) for international comparisons of baskets of livestock (FAO, 2011). <ref type="bibr">33</ref> During the implementation, each transfer was done with either pregnant animals or with the same number of offspring. At transfer, we count each pregnant animal as a non-pregnant animal. Offspring are counted as adults. This is consistent with the midline and endline, where we cannot differentiate between pregnant and non-pregnant animals or between offspring and adults, so each animal is counted as a non-pregnant adult. Notes. Treatment and control mean differences are calculated controlling for PRA strata. To convert different livestock types to cow-equivalents, we use conversion factors from the implementer, specifically: 1 cow = 3 sheep = 4 goats. Since there was no transfer of chickens, we use the average baseline household self-valuation of chickens and cows to get a conversion of 1 cow = 59 chickens, consistent with the Food and Agriculture Organization of the United Nations (FAO) conversion used for international comparisons of baskets of livestock (FAO, 2011). Value of livestock is winsorized at the 99th percentile, by treatment and control groups. Includes households surveyed in endline, for which data is also available at transfer and midline.</p><p xml:id="_fav6GMP">them to improve their well-being in the long-term. These patterns of diversification are also consistent with long-term TUP impacts in more stable settings: in Bangladesh 7 and 11 years after the asset transfer (Bandiera et al., 2017; Balboni et al., 2021), as well as in India 10 years after the asset transfer (Banerjee   et al., 2021). However, the type and dynamics of diversification depend on the context. Early in the program, all treatment households are able to take on higher-return activities, mostly through an increase in labor participation of the household members with idle time, particularly women. While livestock earnings continue to be significantly higher for treatment households than control by year 7 both in Bangladesh and India, this pattern changes by year 10 in India, when the main source of earnings shifts away from livestock towards wage income, including remittances, due to the migration of household members to areas with better economic conditions (Banerjee et al., 2021). In Bangladesh, diversification into livestock and agricultural businesses continues in the longer term. It is important to keep in mind that both Bangladesh and India did not experience deep economic or system-wide crises during the evaluation period. On the contrary, India's 10 years of the study period correspond to a rapid expansion in economic growth, wages and income. <ref type="bibr">34</ref> These differences, highlight the potential role of local conditions for the patterns of diversification, but also emphasize the important role of diversification regardless of the local conditions.</p><p xml:id="_5mAeP5Q">These results support the ability of the TUP to create longer-term sustained impacts in Afghanistan, one of the most fragile settings in the world, including through diversification within livestock as well as non-livestock activities and income sources, consistent with previous results from more stable settings.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="7" xml:id="_GSRmDvF">Benchmarking TUP Households' Socioeconomic Conditions against</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_NKeaYcP">Those of Non-Ultra-Poor Households</head><p xml:id="_hwhSm7S">How do the improvements in UP treatment households' outcomes influence their economic and social standing relative to the rest of the population in their communities? To answer this question, we leverage data collected at baseline, midline and endline on a random representative sample of non-UP households (excluding the census of UP that was randomized into treatment and control) across the 80 villages in the study. Bedoya et al. (2019) show that (i) all households, including non-UP, are vulnerable; and (ii) UP households participating in this study were considerably worse off than non-UP households at baseline across all dimensions studied, including consumption, poverty, food security, assets, and psychological well-being.</p><p xml:id="_kjXCVuq">Here, we extend this analysis by exploring where UP treatment households have been able to catch up with non-UP households across multiple socioeconomic dimensions. Table <ref type="table" target="#tab_9">10</ref> shows how socioeconomic gaps between UP and non-UP households have been affected by the intervention. <ref type="bibr">35</ref> Column 1 shows the estimated difference between non-UP and UP control households, while column 2 shows the difference between non-UP and UP treatment households at endline. Column 3 reports the p-value for the estimated change in these gaps.</p><p xml:id="_weSMFU8">At endline, we see that the intervention has helped eliminate or reverse gaps across a range of outcomes.</p><p xml:id="_qTe24ey">Specifically, UP households are more likely to save -and save more, have higher livestock value, women's empowerment, and women's market work participation relative to non-UP households. This is consistent with the focus of the intervention on economic empowerment, livestock, and women's participation. Treatment UP households have also mostly caught up with non-UP households in psychological well-being and children's school enrollment.</p><p xml:id="_BgK4qA8">We also see that gaps have been reduced (but not eliminated) for income and revenues. In particular, non-UP households have more income and revenues from non-agricultural business (p-value &lt; 0.005) and paid labor (p-value = 0.060) than UP treatment households. Higher non-UP paid labor might be explained by differences in human capital and non-UP's ability to access more formal jobs as reported by Bedoya et al.   (2019). Therefore, differences in assets (livestock assets vs. investment in non-agricultural businesses) and human capital endowments may help explain the persistence of these gaps.</p><p xml:id="_zJZvZX7">Finally, treatment UP households report fewer outstanding cash loans (p-value = 0.027) than non-UP and control UP households. On its own, decreased debt burden for treatment UP households has ambiguous implications and whether this is a positive outcome depends, among other factors, on the proportion of that excess debt that non-UP households use for investments (rather than for consumption), and the profitability of those investments. While most loans in this setting are for consumption, rather than productive purposes, control UP households are significantly less likely to use loans for productive purposes than non-UP households, and this gap disappears for treatment UP households.</p><p xml:id="_suywJ8F">In sum, the TUP program has contributed to the reduction of inequality across multiple dimensions of well-being in the villages where the TUP program intervened in a significant way and helped close the socioeconomic gaps between the UP treatment households (who were selected as the bottom 6% of the population) and the average non-UP household in these communities. For context, in Bangladesh, the TUP program closed the gaps across multiple outcomes between the ultra-poor and the next socioeconomic group, the near-poor (the population is divided into 4 groups, including the ultra-poor), four years after the asset transfer (Bandiera et al., 2017). However, in the same study villages, Balboni et al. (2021) report that only 3% of households in control villages reach the asset stock of a median middle-class household within four years, estimating the probability of catching up to the upper socioeconomic groups close to zero in this setting.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="8" xml:id="_neRqksH">Costs and Benefits of the Program</head><p xml:id="_WF5Yq5P">We compare program costs to the present value of non-durable consumption, based on Banerjee et   al. (2015), and building on the estimates by Bedoya et al. (2019) for the midline results. It is worth highlighting that this method, using only non-durable consumption, will underestimate the benefits of the TUP program that go beyond consumption but are difficult to monetize, including impacts on the primary woman's psychological well-being and empowerment, children's school enrollment, durable consumption (i.e., household assets), and potential impacts on other outcomes and gender inequality reported in Bedoya et   al. (2019). We estimate that the program will break even at year 5 only using non-durable consumption estimates as a benchmark. <ref type="bibr">36</ref> See Online Appendix Text 4 for details on these estimates.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="9" xml:id="_hbC4EDP">Conclusion</head><p xml:id="_PcfQfNg">In 2016, the TUP program was delivered through a public lottery to ultra-poor households across 80 villages within the Balkh province of Afghanistan. By tracking these households over five years, during a period of significant upheaval including macroeconomic deterioration, escalating violence, severe droughts and the COVID-19 pandemic, we are uniquely positioned to illustrate the potential protective effects of the TUP program against these multiple shocks and unpack some of the mechanisms through which the program may improve resilience in an already fragile setting. While all households in the study area experienced significant reductions in economic activity, food security and consumption between midline and endline when these external shocks occurred, we see that the program impacts relative to the UP control group are sustained, and that UP treatment households reduce gaps with non-UP households across most outcomes measured.</p><p xml:id="_NzETbyF">When faced with multiple external shocks, households generally use a variety of approaches to mitigate their harmful impacts. The most common approach to coping with shocks among vulnerable households has been to take out loans, which are typically informal and command high interest rates. Even though control and treatment households are equally likely to be exposed to a shock, treatment households are less likely to rely on loans to mitigate these shocks, with control households facing significantly higher debt burdens as a result, which are usually used for consumption for this population. Overall, treatment households are more likely to have recovered from their shock, at least partially. This suggests that the TUP program has helped households reduce the impact of external shocks, along with helping them incur less debt that could affect their longer-term financial sustainability.</p><p xml:id="_Xz47xf8">Diversification of income and revenue sources over time is one of the mechanisms through which the TUP program has been able to achieve lasting impacts and help treatment households mitigate the impacts of external shocks. Similar to the long-term 10-year and 11-and 7-year results observed in more stable settings in India and Bangladesh (Banerjee et al., 2021; Bandiera et al., 2017), treatment households are able to diversify over time as a result of the program, relative to the control group-a critical mechanisms for the lasting impacts found in these settings. Treatment households shift to other sources of income including paid labor-among others-with both men and women participating more in market activities than their control counterparts.</p><p xml:id="_kZ4Jyjj">There are valid concerns that development research focused on poverty alleviation often lacks diversity.</p><p xml:id="_AU3BJW7">Relatively few studies are conducted in poor and fragile locations due to conflict and political instability, and this site selection can generate important biases in our understanding of program effectiveness (Tollefson,   2022; Allcott, 2015). At the same time, increasing fragility in some of the harshest conditions in the world, compounded with intensifying climate shocks makes it particularly difficult to improve the lives of those most in need. The enduring impacts of a one-off support package amidst multiple climate, health and security shocks highlights the promise, as well as the limitations, of multi-faceted interventions like the TUP program to support the most vulnerable populations. In particular, these results suggests a potential role for the TUP approach and similar multi-faceted programs as a way of integrating humanitarian relief and development efforts. Such programs could be leveraged by both humanitarian and development stakeholders to address acute short-term humanitarian needs, while providing longer-term development solutions.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>9</head><figDesc xml:id="_QZu3bbK">All casualties include battle-related injuries and fatalities (i.e., on the battlefield) as well as casualties and fatalities off the battlefield, such as drone strikes, suicide bombings, and other violence against civilians. Armed Conflict Location &amp; Event Data Project (ACLED) (2021).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><figDesc xml:id="_j7UmwPY">Figure I Implementation, Study and Events Timeline</figDesc><graphic coords="9,95.40,125.38,421.21,188.16" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><figDesc xml:id="_aAEHkC6">Figure II Battle-related Casualties and All Casualties in Afghanistan,Monthly from January 2017 to June 2021</figDesc><graphic coords="9,95.40,419.38,421.19,239.71" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><figDesc xml:id="_phB52NC">Figure III All Casualties per 100,000 People in Afghanistan and Balkh, Annual from 2017 to 2021</figDesc><graphic coords="10,189.00,296.86,234.00,193.23" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><figDesc xml:id="_SsfJ4NG">Figure IV Midline and Endline Comparison of Select Indicators Ultra-Poor Control and Non-Ultra Poor Households</figDesc><graphic coords="11,135.14,129.70,259.20,172.76" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>6.</head><figDesc xml:id="_7Paz83p">Women's empowerment index. A 3-dimension index of women's empowerment including (i) decisionmaking, (ii) economic empowerment, and (iii) political and social involvement. The decision-making index includes 12 measures of women's agency through questions of whether women's views are taken into consideration and/or followed on decisions related to household finances and expenditures (food, home improvements, household finances, buying or selling property, other non-food expenditures); their children (school enrollment, health visits, and marriage), and themselves (how many children to have, taking a loan, opening a business, working outside home). The women's economic opportunities index includes whether the primary woman participates in market work, whether she is the owner or manager of a self-employment enterprise other than livestock or agriculture, as well as effective access to inputs 15 Some questions were adapted to the local context as inBedoya et al. (2019).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>2.</head><figDesc xml:id="_jctD3G9">Livestock ownership. Total number of TUP livestock (cows, goats, sheep) and chickens owned by the household, by livestock type. 3. Other finance indicators. Three outcomes reflecting the use loans in the household: (i) anyone in the household has loans; (iv) household outstanding cash loan balance; and (iii) whether the household took out a loan for productive purposes.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><figDesc xml:id="_nS2hEz2">Bedoya et al. (2019) show, the TUP produced large and significant impacts across multiple dimensions of well-being two years after the asset transfer in 2018. Consumption increased by 30%, treatment households were 20 percentage points less likely to fall under the national poverty line (compared to 82% of the control group), women's psychological well-being and empowerment have also improved significantly and the intervention was able to reduce gender gaps in labor participation and psychological well-being in one of the most conservative and challenging environments for women. The TUP also improved socioeconomic indicators for other household members, including primary men's labor market participation and children's school enrollment.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><figDesc xml:id="_JV62b7D">Figure V Value and Number of Livestock Owned at Transfer, Midline and Endline</figDesc><graphic coords="37,93.74,220.11,421.20,306.32" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc xml:id="_WNqBhDR">Ultra-Poor Households' Socioeconomic Characteristics at Baseline</figDesc><table><row><cell>Midline</cell><cell>Endline</cell><cell>Difference</cell><cell>p-value</cell></row><row><cell>Sample</cell><cell>Sample</cell><cell>(2) -(1)</cell><cell>(2) -(1)</cell></row><row><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell><cell>(4)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc xml:id="_jtDs3jj">Impacts on Consumption, Food Security and Nutritional Diversity</figDesc><table><row><cell></cell><cell>Control Mean (SD)</cell><cell>Level (SE)</cell><cell>p-value</cell><cell>% Control Mean</cell><cell>n*t (N)</cell></row><row><cell></cell><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell><cell>(4)</cell><cell>(5)</cell></row><row><cell>Consumption Index Proxy</cell><cell>1.000</cell><cell>0.161**</cell><cell>[0.015]</cell><cell>16%</cell><cell>2, 182 (839)</cell></row><row><cell>(Endline Control = 1), Month</cell><cell>(1.039)</cell><cell>(0.066)</cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Food Security and Nutritional Diversity</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Food Security Index</cell><cell>0.000</cell><cell>0.092</cell><cell>[0.115]</cell><cell></cell><cell>1, 468 (834)</cell></row><row><cell></cell><cell>(1.000)</cell><cell>(0.058)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Rice (high quality)</cell><cell>0.023</cell><cell>0.000</cell><cell>[0.947]</cell><cell>1%</cell><cell>2, 182 ( 839)</cell></row><row><cell></cell><cell>(0.069)</cell><cell>(0.003)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Rice (low quality)</cell><cell>0.148</cell><cell>-0.016***</cell><cell>[0.008]</cell><cell>-11%</cell><cell>2, 182 ( 839)</cell></row><row><cell></cell><cell>(0.130)</cell><cell>(0.006)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Wheat flour</cell><cell>0.517</cell><cell>-0.065***</cell><cell>[0.000]</cell><cell>-13%</cell><cell>2, 182 ( 839)</cell></row><row><cell></cell><cell>(0.262)</cell><cell>(0.014)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Naan not made at home</cell><cell>0.069</cell><cell>0.012</cell><cell>[0.219]</cell><cell>18%</cell><cell>2, 182 ( 839)</cell></row><row><cell></cell><cell>(0.177)</cell><cell>(0.010)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Beans</cell><cell>0.017</cell><cell>0.003</cell><cell>[0.276]</cell><cell>15%</cell><cell>2, 182 ( 839)</cell></row><row><cell></cell><cell>(0.045)</cell><cell>(0.002)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Meat</cell><cell>0.050</cell><cell>0.009*</cell><cell>[0.085]</cell><cell>18%</cell><cell>2, 182 ( 839)</cell></row><row><cell></cell><cell>(0.103)</cell><cell>(0.005)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Dairy and Eggs</cell><cell>0.064</cell><cell>0.037***</cell><cell>[0.000]</cell><cell>58%</cell><cell>2, 182 ( 839)</cell></row><row><cell></cell><cell>(0.095)</cell><cell>(0.006)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Vegetables</cell><cell>0.093</cell><cell>0.007*</cell><cell>[0.082]</cell><cell>8%</cell><cell>2, 182 ( 839)</cell></row><row><cell></cell><cell>(0.094)</cell><cell>(0.004)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Fruit</cell><cell>0.019</cell><cell>0.012***</cell><cell>[0.000]</cell><cell>62%</cell><cell>2, 182 ( 839)</cell></row><row><cell></cell><cell>(0.063)</cell><cell>(0.003)</cell><cell></cell><cell></cell><cell></cell></row></table><note xml:id="_pXQpsVa"><p>Notes. This table reports Ordinary Least Squares estimates of treatment effects. All regressions include 133 randomization PRA controls and control for data collection rounds in which outcomes were collected. SEs are clustered at the household level. Outcomes are listed on the left and primary outcomes are described in detail in Online Appendix Text 1. (***) (**) (*) denotes significance at (1%) (5%) (10%) level. Column (1) reports the mean and the standard deviation (in parentheses) of each outcome for the control group. Column (2) reports the treatment estimates in levels with robust standard errors (in parentheses). Column (3) reports the naive p-values [in brackets]. Column (</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc xml:id="_mNhPrnt">Impacts on Household FinancesColumn (4) reports the treatment estimates as a percentage of the control mean. Column (4) reports the treatment estimates as a percentage of the control mean. Column (5) reports the total number of observations across all data collection rounds (n*t, where n is the individual HH) and the number of unique HHs (N, in parentheses). Financial inclusion index is computed for a subsample of households with responses to the question on access to credit, which was administered to a subsample of households in the final endline data collection round. All monetary amounts are in nominal USD. ER for 2021 of 77.45 AFN to 1 USD from the IMF (average of ER for March, April and May 2021, due to data unavailability in the rest of the months). HH = household; PRA = participatory rural appraisal; SE = standard error; SD = standard deviation; ER = exchange rate.</figDesc><table><row><cell></cell><cell>Control Mean (SD)</cell><cell>Level (SE)</cell><cell>p-value</cell><cell>% Control Mean</cell><cell>n*t (N)</cell></row><row><cell></cell><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell><cell>(4)</cell><cell>(5)</cell></row><row><cell>Financial Inclusion Index</cell><cell>0.000</cell><cell>0.328**</cell><cell>[0.011]</cell><cell></cell><cell>505</cell></row><row><cell></cell><cell>(1.000)</cell><cell>(0.128)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>HH Has Any Savings</cell><cell>0.049</cell><cell>0.109***</cell><cell>[0.001]</cell><cell>222%</cell><cell>504</cell></row><row><cell></cell><cell>(0.216)</cell><cell>(0.034)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>HH Total Savings (USD)</cell><cell>3.8</cell><cell>9.3*</cell><cell>[0.100]</cell><cell>242%</cell><cell>504</cell></row><row><cell></cell><cell>(39.8)</cell><cell>(5.6)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>HH Can Access Formal Credit if</cell><cell>0.065</cell><cell>0.014</cell><cell>[0.578]</cell><cell>21%</cell><cell>505</cell></row><row><cell>Needed</cell><cell>(0.247)</cell><cell>(0.025)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Other Finance Indicators</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>HH Has Any Loans</cell><cell>0.894</cell><cell>-0.032</cell><cell>[0.123]</cell><cell>-4%</cell><cell>1, 532 (819)</cell></row><row><cell></cell><cell>(0.308)</cell><cell>(0.021)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>HH Outstanding Cash Loans (USD)</cell><cell>597</cell><cell>-118.1**</cell><cell>[0.034]</cell><cell>-20%</cell><cell>1, 541 (820)</cell></row><row><cell></cell><cell>(983)</cell><cell>(55.6)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>HH Has Taken Out a Loan for Produc-</cell><cell>0.028</cell><cell>0.075***</cell><cell>[0.004]</cell><cell>272%</cell><cell>483</cell></row><row><cell>tive Purposes</cell><cell>(0.164)</cell><cell>(0.026)</cell><cell></cell><cell></cell><cell></cell></row></table><note xml:id="_CRQdscb"><p>Notes. This table reports Ordinary Least Squares estimates of treatment effects. All regressions include 133 randomization PRA controls and control for data collection rounds in which outcomes were collected (for outcomes collected in more than one round). SEs are clustered at the household level, except for whether HH has taken out a loan for productive purposes, which was collected in only one round. Outcomes are listed on the left and primary outcomes are described in detail in Online Appendix Text 1. (***) (**) (*) denotes significance at (1%) (5%) (10%) level. Column (1) reports the mean and the standard deviation (in parentheses) of each outcome for the control group. Column (2) reports the treatment estimates in levels with robust standard errors (in parentheses). Column (3) reports the naive p-values [in brackets].</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4</head><label>4</label><figDesc xml:id="_m35uAvh">Impacts on Household Durable and Productive Assets) reports the treatment estimates as a percentage of the control mean. Column (4) reports the treatment estimates as a percentage of the control mean. Column (5) reports the total number of observations across all data collection rounds (n*t, where n is the individual HH) and the number of unique HHs (N, in parentheses). For the total value of livestock (cows, goats, sheep, and chickens), column (5) reports the total sample size. All monetary amounts are in nominal USD. ER for 2021 of 77.45 AFN to 1 USD from the IMF (average of ER for March, April and May 2021, due to data unavailability in the rest of the months). The asset ownership index is constructed using PCA on the number of assets owned, normalized to the unit SD of control HHs,</figDesc><table><row><cell cols="2">Control Mean (SD)</cell><cell>Level (SE)</cell><cell>p-value</cell><cell>% Control Mean</cell><cell>n*t (N)</cell></row><row><cell></cell><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell><cell>(4)</cell><cell>(5)</cell></row><row><cell>HH Livestock and Assets Ownership</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Any Cows, Goats, or Sheep</cell><cell>0.145</cell><cell>0.325***</cell><cell>[0.000]</cell><cell>223%</cell><cell>1, 467 (834)</cell></row><row><cell></cell><cell>(0.353)</cell><cell>(0.028)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Any Chicken</cell><cell>0.319</cell><cell>0.018</cell><cell>[0.550]</cell><cell>6%</cell><cell>1, 467 (834)</cell></row><row><cell></cell><cell>(0.466)</cell><cell>(0.029)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>HH Asset Ownership Index</cell><cell>0.000</cell><cell>0.292***</cell><cell>[0.000]</cell><cell></cell><cell>1, 412 (791)</cell></row><row><cell></cell><cell>(1.000)</cell><cell>(0.074)</cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Number of Livestock Ownded by Type</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Cows</cell><cell>0.101</cell><cell>0.373***</cell><cell>[0.000]</cell><cell>370%</cell><cell>1, 467 (834)</cell></row><row><cell></cell><cell>(0.376)</cell><cell>(0.042)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Goats</cell><cell>0.152</cell><cell>0.324***</cell><cell>[0.006]</cell><cell>213%</cell><cell>1, 467 (834)</cell></row><row><cell></cell><cell>(0.866)</cell><cell>(0.119)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Sheep</cell><cell>0.068</cell><cell>0.410***</cell><cell>[0.005]</cell><cell>607%</cell><cell>1, 467 (834)</cell></row><row><cell></cell><cell>(0.435)</cell><cell>(0.147)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Chickens</cell><cell>1.013</cell><cell>0.378**</cell><cell>[0.025]</cell><cell>37%</cell><cell>1, 467 (834)</cell></row><row><cell></cell><cell>(2.139)</cell><cell>(0.168)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Total Value of Livestock (USD)</cell><cell>68.9</cell><cell>328***</cell><cell>[0.000]</cell><cell>476%</cell><cell>721</cell></row><row><cell></cell><cell>(211)</cell><cell>(50.4)</cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="6">with mean equal to zero. Total value of livestock is winsorized at the 99th percentile, by treatment and</cell></row><row><cell cols="6">control groups. HH = household; PRA = participatory rural appraisal; SE = standard error; SD = standard</cell></row><row><cell>deviation; ER = exchange rate.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note xml:id="_K5qwBt9"><p>Notes. This table reports Ordinary Least Squares estimates of treatment effects. All regressions include 133 randomization PRA controls and control for data collection rounds in which outcomes were collected (for outcomes collected in more than one round). SEs are clustered at the household level, except for the total value of TUP livestock, which was collected in only one round. Outcomes are listed on the left and primary outcomes are described in detail in Online Appendix Text 1. (***) (**) (*) denotes significance at (1%) (5%) (10%) level. Column (1) reports the mean and the standard deviation (in parentheses) of each outcome for the control group. Column (2) reports the treatment estimates in levels with robust standard errors (in parentheses). Column (3) reports the naive p-values [in brackets]. Column (4</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 5</head><label>5</label><figDesc xml:id="_dzB69Ac">Impacts on Labor Supply and Time Use, Primary Woman and Man, Past Month This table reports Ordinary Least Squares estimates of treatment effects. All regressions include 133 randomization PRA controls and control for data collection rounds in which outcomes were collected. SEs are clustered at the household level. Outcomes are listed on the left and primary outcomes are described in detail in Online Appendix Text 1. (***) (**) (*) denotes significance at (1%) (5%) (10%) level. Column (</figDesc><table><row><cell></cell><cell cols="2">Primary Woman</cell><cell></cell><cell cols="2">Primary Man</cell><cell></cell></row><row><cell></cell><cell>Control Mean (SD)</cell><cell cols="2">Level (SE) p-value</cell><cell>Control Mean (SD)</cell><cell cols="2">Level (SE) p-value</cell></row><row><cell></cell><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell><cell>(4)</cell><cell>(5)</cell><cell>(6)</cell></row><row><cell>Labor Participation</cell><cell>0.673</cell><cell>0.079***</cell><cell>[0.002]</cell><cell>0.840</cell><cell>0.049***</cell><cell>[0.010]</cell></row><row><cell></cell><cell>(0.470)</cell><cell>(0.025)</cell><cell></cell><cell>(0.367)</cell><cell>(0.019)</cell><cell></cell></row><row><cell>Market Work Participation</cell><cell>0.481</cell><cell>0.117***</cell><cell>[0.000]</cell><cell>0.717</cell><cell>0.058**</cell><cell>[0.022]</cell></row><row><cell></cell><cell>(0.500)</cell><cell>(0.028)</cell><cell></cell><cell>(0.451)</cell><cell>(0.025)</cell><cell></cell></row><row><cell>Looked for Work</cell><cell>0.505</cell><cell>0.021</cell><cell>[0.470]</cell><cell>0.737</cell><cell>0.027</cell><cell>[0.268]</cell></row><row><cell></cell><cell>(0.500)</cell><cell>(0.029)</cell><cell></cell><cell>(0.441)</cell><cell>(0.024)</cell><cell></cell></row><row><cell cols="2">Market Work Participation by Activity</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>HH Livestock</cell><cell>0.157</cell><cell>0.156***</cell><cell>[0.000]</cell><cell>0.121</cell><cell>0.061***</cell><cell>[0.002]</cell></row><row><cell></cell><cell>(0.364)</cell><cell>(0.024)</cell><cell></cell><cell>(0.327)</cell><cell>(0.020)</cell><cell></cell></row><row><cell>HH Agriculture</cell><cell>0.065</cell><cell>0.005</cell><cell>[0.704]</cell><cell>0.140</cell><cell>0.047**</cell><cell>[0.026]</cell></row><row><cell></cell><cell>(0.246)</cell><cell>(0.014)</cell><cell></cell><cell>(0.347)</cell><cell>(0.021)</cell><cell></cell></row><row><cell>HH Non-Agricultural Business</cell><cell>0.084</cell><cell>0.023</cell><cell>[0.150]</cell><cell>0.048</cell><cell>0.028**</cell><cell>[0.034]</cell></row><row><cell></cell><cell>(0.278)</cell><cell>(0.016)</cell><cell></cell><cell>(0.214)</cell><cell>(0.013)</cell><cell></cell></row><row><cell>Other Work</cell><cell>0.336</cell><cell>0.001</cell><cell>[0.971]</cell><cell>0.634</cell><cell>0.007</cell><cell>[0.807]</cell></row><row><cell></cell><cell>(0.473)</cell><cell>(0.027)</cell><cell></cell><cell>(0.482)</cell><cell>(0.028)</cell><cell></cell></row><row><cell>n*t (N)</cell><cell></cell><cell>1, 614 (838)</cell><cell></cell><cell></cell><cell>1, 551 (822)</cell><cell></cell></row><row><cell>Notes.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Table 6</head><label>6</label><figDesc xml:id="_58RASGK">Impacts on Total Household Income and Revenues Proxy (USD), MonthThis table reports Ordinary Least Squares estimates of treatment effects. All regressions include 133 randomization PRA controls. Outcomes are listed on the left and primary outcomes are described in detail in Online Appendix Text 1. (***) (**) (*) denotes significance at (1%) (5%) (10%) level. Column (1) reports the mean and the standard deviation (in parentheses) of each outcome for the control group. Column (2) reports the treatment estimates in levels with robust standard errors (in parentheses). Column (3) reports the naive p-values [in brackets]. Column (4) reports the treatment estimates as a percentage of the control mean. Column (5) reports the total sample size. All monetary amounts are in nominal USD. ER for 2021 of 77.45 AFN to 1 USD from the IMF (average of ER for March, April and May 2021, due to data unavailability in the rest of the months).</figDesc><table><row><cell></cell><cell>Control Mean (SD)</cell><cell>Level (SE)</cell><cell>p-value</cell><cell>% Control Mean</cell><cell>N</cell></row><row><cell></cell><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell><cell>(4)</cell><cell>(5)</cell></row><row><cell>Total HH Income and Revenues Proxy</cell><cell>42.0</cell><cell>13.4***</cell><cell>[0.001]</cell><cell>32%</cell><cell>750</cell></row><row><cell></cell><cell>(46.5)</cell><cell>(4.0)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Own Livestock Sales Revenue</cell><cell>1.0</cell><cell>1.9***</cell><cell>[0.001]</cell><cell>182%</cell><cell>750</cell></row><row><cell></cell><cell>(5.2)</cell><cell>(0.6)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Own Agriculture Revenue</cell><cell>3.3</cell><cell>4.8***</cell><cell>[0.000]</cell><cell>148%</cell><cell>750</cell></row><row><cell></cell><cell>(7.2)</cell><cell>(1.0)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Own Non-Agricultural Revenue</cell><cell>9.1</cell><cell>1.2</cell><cell>[0.579]</cell><cell>13%</cell><cell>750</cell></row><row><cell></cell><cell>(30.4)</cell><cell>(2.1)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>PM and PW Paid Labor Income</cell><cell>28.9</cell><cell>5.5**</cell><cell>[0.036]</cell><cell>19%</cell><cell>746</cell></row><row><cell></cell><cell>(30.7)</cell><cell>(2.6)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Notes.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note xml:id="_f8AZAca"><p>PM = primary man; PW = primary woman; PRA = participatory rural appraisal; SE = standard error; SD = standard deviation; ER = exchange rate.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6"><head>Table 7</head><label>7</label><figDesc xml:id="_mRpnG22">Impacts on Psychological Well-Being and EducationIndicators were collected across different data collection rounds and, due to attrition between rounds, the sample for psychological well-being outcomes is reduced to households surveyed in all rounds in order to have a complete set of indicators. Each psychological well-being measure is estimated as a score on the variable's scale, normalized to the unit SD of control HHs, with mean equal to zero. Impacts on the normalized measures can be found in TableA9of the Online Appendix. The psychological well-being index is an index of the three previous measures, normalized in the same way. School enrolment is estimated for school-age children (ages 6 to 18 years), with the unit of observation being the child, hence all SEs are clustered at the household level. PW = primary woman; SE = standard error; SD = standard deviation; PRA = participatory rural appraisal; WVS = World Values Survey; CES-D = Center for Epidemiological Studies Depression.</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell>Control Mean (SD)</cell><cell>Level (SE)</cell><cell>p-value</cell><cell>% Control Mean</cell><cell>N</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell><cell>(4)</cell><cell>(5)</cell></row><row><cell cols="3">PW Psychological Well-being In-</cell><cell>0.000</cell><cell>0.220***</cell><cell>[0.010]</cell><cell></cell><cell>645</cell></row><row><cell cols="2">dex (3 items)</cell><cell></cell><cell>(1.000)</cell><cell>(0.085)</cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="3">PW is Very Happy or Quite Happy</cell><cell>0.776</cell><cell>0.042</cell><cell>[0.130]</cell><cell>5%</cell><cell>645</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(0.330)</cell><cell>(0.028)</cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="3">PW Life Satisfaction Rating (1-10)</cell><cell>6.436</cell><cell>0.353</cell><cell>[0.137]</cell><cell>5%</cell><cell>637</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(2.865)</cell><cell>(0.238)</cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="3">PW is Depressed (7-CESD ≥ 8)</cell><cell>0.869</cell><cell>-0.063*</cell><cell>[0.061]</cell><cell>-7%</cell><cell>616</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(0.338)</cell><cell>(0.033)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>School</cell><cell>Enrollment</cell><cell>(Children</cell><cell>0.562</cell><cell>0.056*</cell><cell>[0.061]</cell><cell>10%</cell><cell>2, 094</cell></row><row><cell cols="2">Ages 6 to 18 Years)</cell><cell></cell><cell>(0.496)</cell><cell>(0.030)</cell><cell></cell><cell></cell><cell></cell></row></table><note xml:id="_bcXe6tg"><p>Notes. This table reports Ordinary Least Squares estimates of treatment effects. All regressions include 133 randomization PRA controls. Outcomes are listed on the left and primary outcomes are described in detail in Online Appendix Text 1. (***) (**) (*) denotes significance at (1%) (5%) (10%) level. Column (1) reports the mean and the standard deviation (in parentheses) of each outcome for the control group. Column (2) reports the treatment estimates in levels with robust standard errors (in parentheses). Column (3) reports the naive p-values [in brackets]. Column (4) reports the treatment estimates as a percentage of the control mean, except for indices. Column (5) reports the total sample size. Psychological well-being measures include questions on life satisfaction and happiness from the WVS (averages of two data collection rounds); and scores on the CES-D seven-point scale (negatively coded).</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_7"><head>Table 8</head><label>8</label><figDesc xml:id="_QNtQNbd">Impacts on Women's Empowerment, by Index Component</figDesc><table><row><cell>Control Mean (SD)</cell><cell>Level (SE)</cell><cell>p-value</cell><cell>N</cell></row><row><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell><cell>(4)</cell></row></table><note xml:id="_s5Zf7Fa"><p>treatment estimates in levels with robust standard errors (in parentheses). Column (3) reports the naive p-values [in brackets]. Column (4) reports the total sample size. Indicators were collected across different data collection rounds and, due to attrition between rounds, the sample for women's empowerment outcomes is reduced to households surveyed in all rounds. Indices are constructed with various measures, normalized to the unit SD of control HHs, with mean equal to zero. HH = household; PW = primary woman; PRA = participatory rural appraisal; SE = standard error; SD = standard deviation.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_8"><head>Table 9</head><label>9</label><figDesc xml:id="_a789cTX">Shocks and Coping Mechanisms</figDesc><table><row><cell>Control Mean (SD)</cell><cell>Level (SE)</cell><cell>p-value</cell><cell>N</cell></row><row><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell><cell>(4)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_9"><head>Table 10 Gaps</head><label>10</label><figDesc xml:id="_KxwkbbP">Between Non-Ultra Poor and Ultra-Poor Households Across Select Indicators at EndlineNotes. This table reports Ordinary Least Squares estimates of the adjusted differences (gaps) between non-UP households with control and treatment groups. All regressions include 133 randomization PRA controls. Outcomes are listed on the left and described in detail in Online Appendix Text 1. (***) (**) (*) denotes significance at (1%) (5%) (10%) level. Column (1) reports the adjusted differences (gaps) over UP control for the NUP with robust standard errors (in parentheses). Column (2) reports the adjusted differences (gaps) over UP treatment for the NUP with robust standard errors (in parentheses). Column (3) reports the naive p-value of the difference between columns (1) and (2) in [brakets]. Column (5) reports the total number of observations across all data collection rounds (n*t, where n is the individual HH) and the number of unique HHs (N, in parentheses). All monetary amounts are in nominal USD. ER for 2021 of 77.45 AFN to 1 USD from the IMF (average of ER for March, April and May 2021, due to data unavailability in the rest of the months). Total value of livestock is winsorized at the 99th percentile, by treatment and control groups. PM</figDesc><table><row><cell cols="2">NUP Adjusted</cell><cell></cell><cell></cell></row><row><cell cols="2">Difference (Gap) With</cell><cell></cell><cell></cell></row><row><cell>Control</cell><cell>Treatment</cell><cell>p-value (2)-(1)</cell><cell>n*t (N)</cell></row><row><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell><cell>(4)</cell></row></table><note xml:id="_Z3RQpZJ"><p>= primary man; PW = primary woman; PRA = participatory rural appraisal; SE = standard error; SD = standard deviation; ER = exchange rate.</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_0"><p xml:id="_vgbzjHH">These are also sometimes referred to as "graduation" programs.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_1"><p xml:id="_pbUXMrt">For simplicity, in this paper we refer to the data collection round 2 years after the asset transfer as "midline" and the data collection round 5 years after the transfer as "endline."</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="10" xml:id="foot_2"><p xml:id="_3SpJn8S">For a more detailed program description, see<ref type="bibr" target="#b10">Bedoya et al. (2019)</ref>.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="11" xml:id="foot_3"><p xml:id="_USxsBHE">The initial design considered adding a second treatment arm, but it never materialized, which explains why the control group is much larger than the treatment group.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="12" xml:id="foot_4"><p xml:id="_JGwkcMr">The average interval between phone survey rounds one and two was 50 days, while the average interval between survey rounds three and four was about 20 days.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="13" xml:id="foot_5"><p xml:id="_63BBxPN">If there was no primary man in the household, the primary woman would complete both portions of the survey, and vice versa.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="14" xml:id="foot_6"><p xml:id="_FSTWr3q">Our consumption proxy explains 75% and 59% of the variability in consumption including UP and non-UP at baseline and midline, respectively (see TableA2in Online Appendix Text 2 for further details).</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="16" xml:id="foot_7"><p xml:id="_fVrxR5G">Revenues from sales of livestock include livestock sales only, excluding any produce derived from livestock.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="17" xml:id="foot_8"><p xml:id="_WGQeBc9">The difference is because the implementer conducted an ultra-poor re-verification for a sample of households when the survey firm already had started the baseline. For households located in villages where the baseline survey firm had already conducted data collection, the baseline was missed because they could not go back.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="18" xml:id="foot_9"><p xml:id="_hgg9Ydf">Seventeen households were excluded from analysis upon closer inspection of the data. These households reported 0 consumption, which called into question the overall reliability of these select surveys.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="24" xml:id="foot_10"><p xml:id="_yXyT5Uw">The index is constructed using principal component analysis (PCA) applied on the number (if any) of the following types of assets owned by the household: radios/CDs/cassettes, televisions, dish antenna, VCRs/DVD players, refrigerators, generators, mattresses, cell (mobile) phones, non-mobile phones, clothes irons, bed frames, pieces of jewelry (gold, silver, and so forth), mosquito nets, mosquito-repellent candles, fans, and cameras. The resulting index is then normalized by the standard deviation of the control group such that control mean is 0.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="25" xml:id="foot_11"><p xml:id="_MdykD6u">We could not reliably measure time spent working in endline, but the shorter-term impacts indicated that both treatment women and men doing market work have idle capacity, therefore, an important part of underemployment is likely stemming from working less time than they are willing to work.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="31" xml:id="foot_12"><p xml:id="_96BtZpq">Exposure appears lower in the past 12 months (26% for treatment vs. 30% in control, p-value = 0.225), although this is, in part, a function of the questionnaire structure which first asked whether the household experienced any shock before asking for specific types of shock, likely underestimating shock incidence. While this means the absolute levels may be affected, there is no reason to believe this would affect responses differentially between the control and treatment groups.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="34" xml:id="foot_13"><p xml:id="_Dj75XCW">The control group doubled their consumption between baseline and the 10-year follow-up, while earnings multiplied by 3 between the 18-month and the 10-year follow-ups<ref type="bibr" target="#b9">(Banerjee et al., 2021)</ref>.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="35" xml:id="foot_14"><p xml:id="_3fZDyxb">Note that by definition, a reduction in the gaps between non-UP and UP in this context will be equal to the differences between UP treatment and UP control, which are the impact estimates we reported in the previous sections of the paper ((non-UP-Control) -(non-UP-Treatment) = Treatment-Control). Therefore, whenever there was a significant change, there was a change in gaps with respect to non-UP.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="36" xml:id="foot_15"><p xml:id="_EXgwbym">For this, we assume a sell-off of excess livestock value for treatment over the control group by year 5, to be consumed in non-durable goods at that point.</p></note>
+		</body>
+		<back>
+
+			<div type="funding">
+<div xml:id="_8KecEHU"><p xml:id="_xdMhYGf">, <rs type="person">Naila Ahmed</rs> and <rs type="person">Guillemette Jaffrin</rs> who led the <rs type="funder">World Bank</rs>-funded Access to Finance project, which delivered the intervention. MISFA staff, especially <rs type="person">Bahram Barzin</rs> and <rs type="person">Khalil Baheer</rs> and their team including <rs type="person">Matin Ezidyar</rs>, <rs type="person">Shafkat Shahriyar Bin Reza</rs> and <rs type="person">Hashmat Mohmand</rs> implemented the program. <rs type="institution">Nukhbegan Afghan Research and Consultancy (NARC)</rs> and <rs type="funder">Afghan Management and Marketing Consultants (AMMC)</rs>, the survey firms, for excellent work and high quality data collection. We also thank the <rs type="institution">Afghanistan Country Management Unit (CMU)</rs>, <rs type="person">Jishnu Das</rs>, <rs type="institution">DIME Lighting Seminar</rs> participants, a Development Economics Vice Presidency (DEC) anonymous reviewer, <rs type="person">Paul Christian</rs>, and <rs type="person">Patrick Premand</rs> for helpful comments. Computational reproducibility verified by DIME Analytics. Materials are available in the <ref type="url" target="https://doi.org/10.60572/axgg-a149">Reproducible  Research Repository</ref>. Funding was provided by the <rs type="programName">DIME Impact Evaluation to Development Impact (i2i) fund</rs>, <rs type="funder">Knowledge for Change</rs>, <rs type="funder">UK Government-UNHCR-World Bank</rs> <rs type="programName">Building the Evidence on Forced Displacement research program</rs><rs type="funder">, Partnership for Economic Inclusion (PEI)</rs>, <rs type="funder">South Asia Region Gender Innovation Lab (SAR GIL)</rs>, the <rs type="funder">World Bank Afghanistan Country Management Unit and the Finance, Competitiveness and Innovation Global Practice</rs>. <rs type="person">Aminata Ndiaye</rs> led the <rs type="programName">World Bankfunded</rs> Access to Finance project from 2018 to 2021. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the view of the World Bank, its executive directors, or the countries they represent. The authors <rs type="funder">Development Impact Evaluation (DIME) department, World Bank § Development Policy and Partnerships (DDP) department</rs>, <rs type="funder">World Bank</rs></p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_UXVevch">
+					<orgName type="program" subtype="full">DIME Impact Evaluation to Development Impact (i2i) fund</orgName>
+				</org>
+				<org type="funding" xml:id="_FHy4AGD">
+					<orgName type="program" subtype="full">Building the Evidence on Forced Displacement research program</orgName>
+				</org>
+				<org type="funding" xml:id="_cMUkJ3Z">
+					<orgName type="program" subtype="full">World Bankfunded</orgName>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_6k48qsY"><p xml:id="_nBrZfWX">(p-value = 0.043), compared to 26.9% in control. <ref type="bibr">30</ref> Owning or managing an entrepreneurial business not related to agriculture or livestock, which has lost importance for all UP households, is 2.4 percentage points (p-value = 0.148) larger in treatment, compared to 2.1% in control, but this impact is not measured with precision.</p><p xml:id="_UfRKSUw">Impacts on political and social involvement are driven by primary women's ownership of a national ID increasing by 10 percentage points (p-value = 0.005), compared to 71% in control and an increase in attending village meetings by 5.8 percentage points (p-value = 0.058), compared to 11% in control. Impacts on other domains, while positive, are too small to be statistically significant. It is worth noting that in this dimension we observe a large increase in the control group between the midline and endline across three out of the four indicators (having a national ID, attending village meetings, approaching village leaders) (see Table <ref type="table">8</ref> and Table <ref type="table">A18</ref> of the Online Appendix for impacts at midline), suggesting convergence, with increased empowerment of control women across these dimensions. This partially explains the reduced impacts in relative terms to control, when comparing with the impacts at midline.</p><p xml:id="_Rrb85Fh">Primary women in the control group already report relatively high levels of influence in household decisions, as measured by indicators of decision-making, or agency within the household (for most indicators, between 69% and 88% of control women report having a major say in the decisions related to these domains), which could explain the low impact on this dimension.</p><p xml:id="_t3PsrkT">One concern cited in the women's empowerment literature is that the relationship between market work participation and women's empowerment could be ambiguous. For instance, if women are pushed to work out of need, and they are already over-extended or they have a strong preference for not increasing their market work, this increase could reduce their welfare. In those cases, there is an argument for excluding the part of the market work increase that could be detrimental to women's well-being from the women's empowerment indicator. Since disentangling the proportion of market work that could be detrimental is challenging in our setting, we re-estimate the indicator with the most conservative scenario, that is, one in which we exclude the indicator on market work from our women's empowerment index. This would assume that market work participation does not have any role in women's empowerment. As Table <ref type="table">A8</ref> in the Online Appendix shows, impacts on this new index of women's empowerment is reduced to 0.259 (p-value = 0.002) but continues to be higher for treatment women than for control. In addition, if the increased market work that we observe in treatment households were detrimental to women's well-being, we would expect other indicators such as women's psychological well-being to be affected. As previously reported, there is a large <ref type="bibr">30</ref> One concern that might arise related to potential bias in the impact on mobile phone ownership for primary women stems from the fact that all households in the endline sample had a mobile phone. Table <ref type="table">A4</ref>-A of the Online Appendix, Panel B, shows that household mobile phone ownership was balanced at baseline between treatment and control for endline sample. Further, the impact on mobile phone ownership at the household level at midline is small and not significant (1 percentage point decrease, p-value = 0.996).</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted"  xml:id="b0">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Alcs</surname></persName>
+		</author>
+		<imprint>
+			<publisher>Central Statistics Organization</publisher>
+			<pubPlace>Kabul</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main" xml:id="_xrMHRmt">Site Selection Bias in Program Evaluation *</title>
+		<author>
+			<persName><forename type="first">Hunt</forename><surname>Allcott</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/qje/qjv015</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_A8qCag9">The Quarterly Journal of Economics</title>
+		<idno type="ISSN">0033-5533</idno>
+		<idno type="ISSNe">1531-4650</idno>
+		<imprint>
+			<biblScope unit="volume">130</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="1117" to="1165" />
+			<date type="published" when="2015-03-18">2015</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main" xml:id="_SA8vyBM">Multiple Inference and Gender Differences in the Effects of Early Intervention: A Reevaluation of the Abecedarian, Perry Preschool, and Early Training Projects</title>
+		<author>
+			<persName><forename type="first">Michael</forename><forename type="middle">L</forename><surname>Anderson</surname></persName>
+		</author>
+		<idno type="DOI">10.1198/016214508000000841</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_ryYuXVR">Journal of the American Statistical Association</title>
+		<title level="j" type="abbrev">Journal of the American Statistical Association</title>
+		<idno type="ISSN">0162-1459</idno>
+		<idno type="ISSNe">1537-274X</idno>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="issue">484</biblScope>
+			<biblScope unit="page" from="1481" to="1495" />
+			<date type="published" when="2008-12-01">2008</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main" xml:id="_ZWGjjVv">Multifaceted programs targeting women in fragile settings: Evidence from the Democratic Republic of Congo</title>
+		<author>
+			<persName><forename type="first">Manuela</forename><surname>Angelucci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rachel</forename><surname>Heath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eva</forename><surname>Noble</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jdeveco.2023.103146</idno>
+		<ptr target="https://doi.org/10.1016/j.jdeveco.2023.103146" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_3vz2aJB">Journal of Development Economics</title>
+		<title level="j" type="abbrev">Journal of Development Economics</title>
+		<idno type="ISSN">0304-3878</idno>
+		<imprint>
+			<biblScope unit="volume">164</biblScope>
+			<biblScope unit="page">103146</biblScope>
+			<date type="published" when="2023-09">2023</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main" xml:id="_4au9qz9">acled.api: Automated Retrieval of ACLED Conflict Event Data</title>
+		<author>
+			<persName><forename type="first">Christoph</forename><surname>Dworschak</surname></persName>
+			<idno type="ORCID">0000-0003-0196-9545</idno>
+		</author>
+		<idno type="DOI">10.32614/cran.package.acled.api</idno>
+		<ptr target="https://acleddata.com/acleddatanew/wp-content/uploads/2021/11/ACLEDCodebookv1January-2021.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_MNc8rGq">Armed Conflict Location &amp; Event Data Project (ACLED)</title>
+		<imprint>
+			<publisher>The R Foundation</publisher>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note>Codebook. Retrieved from</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main" xml:id="_BFruBKu">acled.api: Automated Retrieval of ACLED Conflict Event Data</title>
+		<author>
+			<persName><forename type="first">Christoph</forename><surname>Dworschak</surname></persName>
+			<idno type="ORCID">0000-0003-0196-9545</idno>
+		</author>
+		<idno type="DOI">10.32614/cran.package.acled.api</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_uUaHfDQ">Armed Conflict Location &amp; Event Data Project (ACLED)</title>
+		<imprint>
+			<publisher>The R Foundation</publisher>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note>Retrieved from acleddata .com</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main" xml:id="_PHpWg2C">Why Do People Stay Poor?</title>
+		<author>
+			<persName><forename type="first">Clare</forename><surname>Balboni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Oriana</forename><surname>Bandiera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robin</forename><surname>Burgess</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Maitreesh</forename><surname>Ghatak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anton</forename><surname>Heil</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/qje/qjab045</idno>
+		<ptr target="https://doi.org/10.1093/qje/qjab045doi:10.1093/qje/qjab045" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_jdCt5tY">The Quarterly Journal of Economics</title>
+		<idno type="ISSN">0033-5533</idno>
+		<idno type="ISSNe">1531-4650</idno>
+		<imprint>
+			<biblScope unit="volume">137</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="785" to="844" />
+			<date type="published" when="2021-12-07">2021</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main" xml:id="_GuVPxbP">Labor Markets and Poverty in Village Economies*</title>
+		<author>
+			<persName><forename type="first">Oriana</forename><surname>Bandiera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robin</forename><surname>Burgess</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Narayan</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Selim</forename><surname>Gulesci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Imran</forename><surname>Rasul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Munshi</forename><surname>Sulaiman</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/qje/qjx003</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_pqN3HTN">The Quarterly Journal of Economics</title>
+		<idno type="ISSN">0033-5533</idno>
+		<idno type="ISSNe">1531-4650</idno>
+		<imprint>
+			<biblScope unit="volume">132</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="811" to="870" />
+			<date type="published" when="2017-03-20">2017</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main" xml:id="_8MuzpP6">A multifaceted program causes lasting progress for the very poor: Evidence from six countries</title>
+		<author>
+			<persName><forename type="first">Abhijit</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Esther</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nathanael</forename><surname>Goldberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dean</forename><surname>Karlan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Osei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">William</forename><surname>Parienté</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeremy</forename><surname>Shapiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bram</forename><surname>Thuysbaert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Udry</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.1260799</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_B85f7c4">Science</title>
+		<title level="j" type="abbrev">Science</title>
+		<idno type="ISSN">0036-8075</idno>
+		<idno type="ISSNe">1095-9203</idno>
+		<imprint>
+			<biblScope unit="volume">348</biblScope>
+			<biblScope unit="issue">6236</biblScope>
+			<date type="published" when="2015-05-15">2015. 6236</date>
+			<publisher>American Association for the Advancement of Science (AAAS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main" xml:id="_tpmhkgq">Long-Term Effects of the Targeting the Ultra Poor Program</title>
+		<author>
+			<persName><forename type="first">Abhijit</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Esther</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Garima</forename><surname>Sharma</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/aeri.20200667</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_KSTJJTu">American Economic Review: Insights</title>
+		<title level="j" type="abbrev">American Economic Review: Insights</title>
+		<idno type="ISSN">2640-205X</idno>
+		<idno type="ISSNe">2640-2068</idno>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="471" to="486" />
+			<date type="published" when="2021-12-01">2021</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b10">
+	<monogr>
+		<title level="m" type="main" xml:id="_DYjYuyH">No Household Left Behind: Afghanistan Targeting the Ultra Poor Impact Evaluation</title>
+		<author>
+			<persName><forename type="first">Guadalupe</forename><surname>Bedoya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aidan</forename><surname>Coville</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Johannes</forename><surname>Haushofer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mohammad</forename><surname>Isaqzadeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeremy</forename><surname>Shapiro</surname></persName>
+		</author>
+		<idno type="DOI">10.1596/1813-9450-8877</idno>
+		<imprint>
+			<date type="published" when="2019-06">2019. 8877</date>
+			<publisher>World Bank, Washington, DC</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">Policy Research Working Paper</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main" xml:id="_ANfdV6d">Generating Skilled Self-Employment in Developing Countries: Experimental Evidence from Uganda *</title>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Blattman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nathan</forename><surname>Fiala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sebastian</forename><surname>Martinez</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/qje/qjt057</idno>
+		<ptr target="https://doi.org/10.1093/qje/qjt057doi:10.1093/qje/qjt057" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_TK6mueG">The Quarterly Journal of Economics</title>
+		<idno type="ISSN">0033-5533</idno>
+		<idno type="ISSNe">1531-4650</idno>
+		<imprint>
+			<biblScope unit="volume">129</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="697" to="752" />
+			<date type="published" when="2013-12-15">2013</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main" xml:id="_XqFBM44">The Long-Term Impacts of Grants on Poverty: Nine-Year Evidence from Uganda’s Youth Opportunities Program</title>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Blattman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nathan</forename><surname>Fiala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sebastian</forename><surname>Martinez</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/aeri.20190224</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_FmVFMSF">American Economic Review: Insights</title>
+		<title level="j" type="abbrev">American Economic Review: Insights</title>
+		<idno type="ISSN">2640-205X</idno>
+		<idno type="ISSNe">2640-2068</idno>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="287" to="304" />
+			<date type="published" when="2020-09-01">2020, September</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main" xml:id="_CEgkDEg">Generating Employment in Poor and Fragile States: Evidence from Labor Market and Entrepreneurship Programs</title>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Blattman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Laura</forename><surname>Ralston</surname></persName>
+		</author>
+		<idno type="DOI">10.2139/ssrn.2622220</idno>
+		<ptr target="http://dx.doi.org/10.2139/ssrn.2622220" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Mpe9CJV">SSRN Electronic Journal</title>
+		<title level="j" type="abbrev">SSRN Journal</title>
+		<idno type="ISSNe">1556-5068</idno>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main" xml:id="_7BA9mxk">Tackling psychosocial and capital constraints to alleviate poverty</title>
+		<author>
+			<persName><forename type="first">Thomas</forename><surname>Bossuroy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Markus</forename><surname>Goldstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bassirou</forename><surname>Karimou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dean</forename><surname>Karlan</surname></persName>
+			<idno type="ORCID">0000-0003-0164-1398</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Harounan</forename><surname>Kazianga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">William</forename><surname>Parienté</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Patrick</forename><surname>Premand</surname></persName>
+			<idno type="ORCID">0000-0002-7447-5995</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Catherine</forename><forename type="middle">C</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Udry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Julia</forename><surname>Vaillant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kelsey</forename><forename type="middle">A</forename><surname>Wright</surname></persName>
+			<idno type="ORCID">0000-0003-4156-3814</idno>
+		</author>
+		<idno type="DOI">10.1038/s41586-022-04647-8</idno>
+		<ptr target="https://doi.org/10.1038/s41586-022-04647-8" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_dRczhEw">Nature</title>
+		<title level="j" type="abbrev">Nature</title>
+		<idno type="ISSN">0028-0836</idno>
+		<idno type="ISSNe">1476-4687</idno>
+		<imprint>
+			<biblScope unit="volume">605</biblScope>
+			<biblScope unit="issue">7909</biblScope>
+			<biblScope unit="page" from="291" to="297" />
+			<date type="published" when="2022-04-27">2022</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main" xml:id="_BHtqYua">In pursuit of balance: Randomization in practice in development field experiments</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Bousquet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">V</forename><surname>Bronkhorst</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bruhn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Mckenzie</surname></persName>
+		</author>
+		<ptr target="https://blogs.worldbank.org/dev4peace/tackling-intersecting-challenges-climate-change-fragility" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_cZ7jnCQ">American Economic Journal: Applied Economics</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="200" to="232" />
+			<date type="published" when="2008">2021. 2008</date>
+		</imprint>
+	</monogr>
+	<note>Tackling the intersecting challenges of climate change, fragility and conflict World Bank Development for Peace Blog</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main" xml:id="_P2MgR45">Social protection amidst social upheaval: Examining the impact of a multi-faceted program for ultra-poor households in Yemen</title>
+		<author>
+			<persName><forename type="first">Lasse</forename><surname>Brune</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dean</forename><surname>Karlan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sikandra</forename><surname>Kurdi</surname></persName>
+			<idno type="ORCID">0000-0001-7399-6003</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Udry</surname></persName>
+			<idno type="ORCID">0000-0002-1605-1916</idno>
+		</author>
+		<idno type="DOI">10.1016/j.jdeveco.2021.102780</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_fV3aR2W">Journal of Development Economics</title>
+		<title level="j" type="abbrev">Journal of Development Economics</title>
+		<idno type="ISSN">0304-3878</idno>
+		<imprint>
+			<biblScope unit="volume">155</biblScope>
+			<biblScope unit="page">102780</biblScope>
+			<date type="published" when="2022-03">2022</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main" xml:id="_nVxPrBj">A Meta‐analysis of Food Demand Elasticities for China</title>
+		<author>
+			<persName><forename type="first">Danhong</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><surname>Abler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">De</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xiaohua</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wyatt</forename><surname>Thompson</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/aepp/ppv006</idno>
+		<ptr target="https://doi.org/10.1093/aepp/ppv006" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_X739TXc">Applied Economic Perspectives and Policy</title>
+		<title level="j" type="abbrev">Applied Eco Perspectives Pol</title>
+		<idno type="ISSN">2040-5790</idno>
+		<idno type="ISSNe">2040-5804</idno>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="50" to="72" />
+			<date type="published" when="2016">2016</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b18">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><surname>Chowdhury</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Collins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Ligon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sulaiman</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/qje/qjab045</idno>
+		<ptr target="https://doi.org/10.1093/qje/qjab045" />
+		<title level="m" xml:id="_zubWBs5">Valuing Assets Provided to Low-Income Households in South Sudan</title>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note>Working Paper</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main" xml:id="_46m2Xen">Income elasticities for food, calories and nutrients across Africa: A meta-analysis</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Colen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Melo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Abdul-Salam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Roberts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mary</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gomez Y Paloma</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.foodpol.2018.04.002</idno>
+		<ptr target="https://www.sciencedirect.com/science/article/pii/S0306919218302318" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_pk6Ab54">Food Policy</title>
+		<title level="j" type="abbrev">Food Policy</title>
+		<idno type="ISSN">0306-9192</idno>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="page" from="116" to="132" />
+			<date type="published" when="2018-05">2018</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main" xml:id="_jE4s6xQ">Fragility and Conflict: On the Front Lines of the Fight against Poverty</title>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Corral</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alexander</forename><surname>Irwin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nandini</forename><surname>Krishnan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Daniel</forename><forename type="middle">Gerszon</forename><surname>Mahler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tara</forename><surname>Vishwanath</surname></persName>
+		</author>
+		<idno type="DOI">10.1596/978-1-4648-1540-9</idno>
+		<ptr target="https://openknowledge.worldbank.org/handle/10986/33324" />
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_nFkkAeT">Fragility and conflict: On the front lines of the fight against poverty</title>
+		<imprint>
+			<publisher>Washington, DC: World Bank</publisher>
+			<date type="published" when="2020-02-13">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main" xml:id="_rS4Tasu">Molecular genetic characterization of animal genetic resources. FAO Animal Production and Health Guidelines. No. 9. FAO. Published in 2011, 85 pp. ISBN: 978-92-5-107032-1. Available at http://www.fao.org/docrep/014/i2413e/i2413e00.pdf</title>
+		<idno type="DOI">10.1017/s2078633611000609</idno>
+		<ptr target="fromfile:///C:/Users/wb464819/Downloads/FAOAfghanistan-sitrepSeptember2019.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_vmQnYr6">Animal Genetic Resources/Ressources génétiques animales/Recursos genéticos animales</title>
+		<title level="j" type="abbrev">Anim. Genet. Resour.</title>
+		<idno type="ISSN">2078-6336</idno>
+		<idno type="ISSNe">2078-6344</idno>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page">114</biblScope>
+			<date type="published" when="2011-12">2015. 2011. 2019</date>
+			<publisher>Cambridge University Press (CUP)</publisher>
+			<pubPlace>Rome</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Animal Production and Health Guidelines Tech. Rep. Situation report -september 2019</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main" xml:id="_ZW8fP9K">Estimating Wealth Effects without Expenditure Data-or Tears: An Application to Educational Enrollments in States of India</title>
+		<author>
+			<persName><forename type="first">Deon</forename><surname>Filmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lant</forename><forename type="middle">H</forename><surname>Pritchett</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/3088292</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_ZZHwmPk">Demography</title>
+		<title level="j" type="abbrev">Demography</title>
+		<idno type="ISSN">0070-3370</idno>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">115</biblScope>
+			<date type="published" when="2001-02">2001</date>
+			<publisher>Duke University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main" xml:id="_BQvv5kq">SUPPLY SYSTEM OF LIQUID GAS-ENGINE FUEL TO DIESEL ENGINE COMBUSTION CHAMBER</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">V</forename><surname>Ovchinnikov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">Yu. </forename><surname>Uyutov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">A</forename><surname>Kryuchkov</surname></persName>
+		</author>
+		<idno type="DOI">10.18286/1816-4501-2021-3-26-33</idno>
+		<ptr target="fromfile:///C:/Users/wb464819/Downloads/fsacbulletinfornovember2018.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_kwnx3R4">Vestnik of Ulyanovsk state agricultural academy</title>
+		<title level="j" type="abbrev">Vestnik of Ulyanovsk SAA</title>
+		<idno type="ISSN">1816-4501</idno>
+		<imprint>
+			<biblScope unit="volume">230</biblScope>
+			<biblScope unit="page" from="26" to="33" />
+			<date type="published" when="2018">2018</date>
+			<publisher>HPE Ulyanovsk SAA Stolypin</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b24">
+	<analytic>
+		<title level="a" type="main" xml:id="_b4QTpBv">The Fatal Conceit of Foreign Intervention: Evidence from the Afghanistan Papers</title>
+		<author>
+			<persName><forename type="first">Karras</forename><forename type="middle">J</forename><surname>Lambert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christopher</forename><forename type="middle">J</forename><surname>Coyne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nathan</forename><forename type="middle">P</forename><surname>Goodman</surname></persName>
+		</author>
+		<idno type="DOI">10.1515/peps-2021-0001</idno>
+		<ptr target="https://adore.ifrc.org/Download.aspx?FileId=434699Institutefor" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_8BBJ2fp">Peace Economics, Peace Science and Public Policy</title>
+		<idno type="ISSNe">1554-8597</idno>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="285" to="310" />
+			<date type="published" when="2019">2021. 2019</date>
+			<publisher>Walter de Gruyter GmbH</publisher>
+		</imprint>
+	</monogr>
+	<note>revision n°1 Global peace index</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b25">
+	<analytic>
+		<title level="a" type="main" xml:id="_VSyE6ZQ">IPC 2023 Full Program</title>
+		<idno type="DOI">10.1109/ipc57732.2023.10360734</idno>
+		<ptr target="https://www.ipcinfo.org/ipc-country-analysis/population-tracking-tool/en/" />
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_7ey4Nf2">2023 IEEE Photonics Conference (IPC)</title>
+		<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2023-11-12">2023</date>
+			<biblScope unit="page" from="1" to="42" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b26">
+	<monogr>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kharas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Dooley</surname></persName>
+		</author>
+		<ptr target="https://www.brookings.edu/blog/future-development/2021/06/02/long-run-impacts-of-covid-19-on-extreme-poverty/" />
+		<title level="m" xml:id="_vRVn5ZE">Long-run impacts of covid-19 on extreme poverty</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+		<respStmt>
+			<orgName>Brookings</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b27">
+	<monogr>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lakner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Mahler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Yonzan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Aguilar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wu</surname></persName>
+		</author>
+		<ptr target="https://blogs.worldbank.org/opendata/updated-estimates-impact-covid-19-global-poverty-turning-corner-pandemic-2021" />
+		<title level="m" xml:id="_rknppd8">Updated estimates of the impact of covid-19 on global poverty: Turning the corner on the pandemic in 2021? World Bank Data Blog</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b28">
+	<analytic>
+		<title level="a" type="main" xml:id="_Y3RdJYB">%D8%B1%D8%AF-%D9%86%D9%81%D9%88%D8% B3-%DA%A9%D8%B4%D9%88%D8%B1-%DB%B1%DB%B3%DB%B9%DB%B9-%D9%86%D8%B3%D8%AE%DB%80-%D8%A7% D9%88%D9%84</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Macours</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Premand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Vakis</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/ej/ueac018NationalStatistics</idno>
+		<ptr target="https://web.archive.org/web/20200703171906/https:/www.nsia.gov.af:8080/wp-content/uploads/2020/06/%D8%A8%D8%B1%D8%A2%D9%88" />
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_FMcrFQC">Estimated population of afghanistan</title>
+		<imprint>
+			<publisher>and Information Authority</publisher>
+			<date type="published" when="2020">2022. 2020. 2020-21</date>
+			<biblScope unit="volume">132</biblScope>
+			<biblScope unit="page" from="2438" to="2470" />
+		</imprint>
+	</monogr>
+	<note>Transfers, Diversification and Household Risk Strategies: Can Productive Safety Nets Help Households Manage Climatic Variability</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b29">
+	<analytic>
+		<title level="a" type="main" xml:id="_MFbqhb5">https://bbrc.in/wp-content/uploads/2021/06/BBRC_Vol_14_No_05_Special-Issue_42.pdf</title>
+		<author>
+			<persName><forename type="first">Matiur</forename><surname>Rahman</surname></persName>
+		</author>
+		<idno type="DOI">10.21786/bbrc/14.5/43</idno>
+		<ptr target="https://web.archive.org/web/20210709033435/https://nsia.gov.af:8080/wp-content/uploads/2021/06/Estimated-Population-of-Afghanistan1-1400.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_vPpPtFS">Bioscience Biotechnology Research Communications</title>
+		<title level="j" type="abbrev">Biosc Biotech Res Comm</title>
+		<idno type="ISSN">0974-6455</idno>
+		<idno type="ISSNe">2321-4007</idno>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="242" to="244" />
+			<date type="published" when="2021-06-15">2021</date>
+			<publisher>Society for Science and Nature</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b30">
+	<analytic>
+		<title level="a" type="main" xml:id="_Je4Fnjs">Organized violence 1989–2020, with a special emphasis on Syria</title>
+		<author>
+			<persName><forename type="first">Therése</forename><surname>Pettersson</surname></persName>
+			<idno type="ORCID">0000-0002-6837-2164</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Shawn</forename><surname>Davies</surname></persName>
+			<idno type="ORCID">0000-0002-1162-9512</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Amber</forename><surname>Deniz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Garoun</forename><surname>Engström</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nanar</forename><surname>Hawach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stina</forename><surname>Högbladh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Margareta</forename><surname>Sollenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Magnus</forename><surname>Öberg</surname></persName>
+			<idno type="ORCID">0000-0002-5127-9369</idno>
+		</author>
+		<idno type="DOI">10.1177/00223433211026126</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_eZ8Z2Eq">Journal of Peace Research</title>
+		<title level="j" type="abbrev">Journal of Peace Research</title>
+		<idno type="ISSN">0022-3433</idno>
+		<idno type="ISSNe">1460-3578</idno>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="809" to="825" />
+			<date type="published" when="2021-07">2021</date>
+			<publisher>SAGE Publications</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b31">
+	<analytic>
+		<title level="a" type="main" xml:id="_zb9HEVK">The CES-D Scale</title>
+		<author>
+			<persName><forename type="first">Lenore</forename><forename type="middle">S</forename><surname>Radloff</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/014662167700100306</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_rCG98jp">Applied Psychological Measurement</title>
+		<title level="j" type="abbrev">Applied Psychological Measurement</title>
+		<idno type="ISSN">0146-6216</idno>
+		<idno type="ISSNe">1552-3497</idno>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="385" to="401" />
+			<date type="published" when="1977-06">1977</date>
+			<publisher>SAGE Publications</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b32">
+	<monogr>
+		<title level="m" type="main" xml:id="_s3ScZNq">disastr.api: Wrapper for the UN OCHA ReliefWeb Disaster Events API</title>
+		<author>
+			<persName><forename type="first">Christoph</forename><surname>Dworschak</surname></persName>
+			<idno type="ORCID">0000-0003-0196-9545</idno>
+		</author>
+		<idno type="DOI">10.32614/cran.package.disastr.api</idno>
+		<ptr target="https://reliefweb.int/disaster/dr-2021-000022-afg" />
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<publisher>The R Foundation</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b33">
+	<analytic>
+		<title level="a" type="main" xml:id="_f85EFxV">Afghanistan : potential impact of the Coronavirus pandemic on SDG attainment / UNDP Afghanistan.</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sahin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Tzannatos</surname></persName>
+		</author>
+		<idno type="DOI">10.29171/acku_pamphlet_ra541_a3_p684_2020</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_MZGdAyb">Afghanistan: Potential impact of covid-19 and sdgs attainment</title>
+		<imprint>
+			<publisher>Afghanistan Centre at Kabul University</publisher>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b34">
+	<analytic>
+		<title level="a" type="main" xml:id="_VGxVMd8">Human resources: Empirical modeling of household and family decisions</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Strauss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Thomas</surname></persName>
+		</author>
+		<ptr target="https://ideas.repec.org/h/eee/devchp/3-34.html" />
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_v5nmA5Y">Handbook of Development Economics</title>
+		<editor>
+			<persName><forename type="first">H</forename><surname>Chenery</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">T</forename><surname>Srinivasan</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Elsevier</publisher>
+			<date type="published" when="1995">1995</date>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="1883" to="2023" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b35">
+	<analytic>
+		<title level="a" type="main" xml:id="_gKpNdWN">The Demand for Food and Calories</title>
+		<author>
+			<persName><forename type="first">Shankar</forename><surname>Subramanian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Angus</forename><surname>Deaton</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/262020</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_DpAEvgb">Journal of Political Economy</title>
+		<title level="j" type="abbrev">Journal of Political Economy</title>
+		<idno type="ISSN">0022-3808</idno>
+		<idno type="ISSNe">1537-534X</idno>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="133" to="162" />
+			<date type="published" when="1996-02">1996</date>
+			<publisher>University of Chicago Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b36">
+	<analytic>
+		<title level="a" type="main" xml:id="_u2WFEQy">These experiments could lift millions out of dire poverty</title>
+		<author>
+			<persName><forename type="first">Jeff</forename><surname>Tollefson</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/d41586-022-01679-y</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_WkWHmrM">Nature</title>
+		<title level="j" type="abbrev">Nature</title>
+		<idno type="ISSN">0028-0836</idno>
+		<idno type="ISSNe">1476-4687</idno>
+		<imprint>
+			<biblScope unit="volume">606</biblScope>
+			<biblScope unit="issue">7915</biblScope>
+			<biblScope unit="page" from="640" to="642" />
+			<date type="published" when="2022-06-22">2022</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b37">
+	<monogr>
+		<title level="m" type="main" xml:id="_CRPpJAy">Afghanistan : coordination architecture review : final report : findings &amp; recommendations / OCHA.</title>
+		<idno type="DOI">10.2458/azu_acku_pamphlet_hn670_6_z9_a366_2015</idno>
+		<ptr target="https://www.refworld.org/pdfid/55eedf694.pdf%20+%20world%20bank%20estimated%20growth" />
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<publisher>University of Arizona Libraries</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b38">
+	<analytic>
+		<author>
+			<persName><forename type="first">A</forename><surname>Wellenstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rozenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Turner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Walsh</surname></persName>
+		</author>
+		<ptr target="https://databank.worldbank.org/source/world-development-indicators" />
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_jhR7D6j">Poverty and shared prosperity 2022: Correcting course</title>
+		<title level="s" xml:id="_XUEwX2a">World bank development indicators</title>
+		<imprint>
+			<publisher>World Bank</publisher>
+			<date type="published" when="2022">2022. 2022. 4a50dc4ae3bc. 2022b</date>
+		</imprint>
+	</monogr>
+	<note>World Bank LAC Blog Climate change and poverty: the perfect storm Sp.pop.totl</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

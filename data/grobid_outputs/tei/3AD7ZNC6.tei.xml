@@ -1,0 +1,1039 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" xml:id="_uFmBQKe">The impact of livestock asset transfers on the livelihoods of the ultra-poor</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Informa UK Limited</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2022-02-22">2022-02-22</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><roleName>Md</roleName><forename type="first">Narayan</forename><surname>Das</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Md</forename><forename type="middle">D</forename><surname>Kamruzzaman</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Md.</forename><forename type="middle">Shakil</forename><surname>Ahmed</surname></persName>
+						</author>
+						<title level="a" type="main" xml:id="_r7jQyt5">The impact of livestock asset transfers on the livelihoods of the ultra-poor</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main" xml:id="_mTdzseJ">Development in Practice</title>
+						<title level="j" type="abbrev">Development in Practice</title>
+						<idno type="ISSN">0961-4524</idno>
+						<idno type="eISSN">1364-9213</idno>
+						<imprint>
+							<publisher>Informa UK Limited</publisher>
+							<biblScope unit="volume">32</biblScope>
+							<biblScope unit="issue">8</biblScope>
+							<biblScope unit="page" from="1109" to="1123"/>
+							<date type="published" when="2022-02-22" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">4F34A376F05AA8B84CEDF501D47E2916</idno>
+					<idno type="DOI">10.1080/09614524.2022.2037518</idno>
+					<note type="submission">Received 12 August 2020 Accepted 30 January 2022</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2025-11-04T18:00+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a292bac</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=1, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=true, generateTeiCoordinates=[true], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term xml:id="_YT2AdqH">Asset transfer</term>
+					<term xml:id="_HfME4RY">ultra-poor</term>
+					<term xml:id="_fsKaCfR">income</term>
+					<term xml:id="_7cDH3WX">food security</term>
+					<term xml:id="_BZQWdKE">West Bengal</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_rGuX8FZ"><p xml:id="_PRBCdaX">This paper estimates the impacts of Livestock Asset Transfers on the livelihoods of the ultra-poor in West Bengal, India. The programme provides the female members of ultra-poor households with livestock assets as grants. We find that the intervention increases per capita monthly income by Rs 1061 (122% increase). It also increases the food expenditures of households and enables them to secure enough food to eat at least two meals a day. Furthermore, the programme also increases the number/amount of owned livestock assets, poultry, and cultivable lands amid the treatment households.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="634.32" lry="833.04"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="10" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="11" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="12" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="13" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="14" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="15" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="16" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1." xml:id="_2wrJzcM">Introduction</head><p xml:id="_fCmR7Ty">Livestock rearing has largely contributed to earnings, consumption, and food security <ref type="bibr" target="#b23">(Murphy and Allen 2003;</ref><ref type="bibr" target="#b27">and Randolph et al. 2007)</ref>. Besides, generating income from livestock has predominantly been a female-centric activity in rural households <ref type="bibr" target="#b20">(McPeak and Doss 2006)</ref>. Female members in a household who manage and generate income through animal farming/rearing have enhanced bargaining power within households, consequently leading to positive effects on their children's health, nutrition, and educational outcomes <ref type="bibr" target="#b24">(Quisumbing and Maluccio 2003)</ref>. It is, thus understandable that livestock transfer is a popular intervention for addressing ultra-poverty in rural areas of developing countries. Several studies evaluate the effects of livestock transfers on the livelihoods of ultrapoor households. For example, <ref type="bibr" target="#b3">Bandiera et al. (2017)</ref> assess BRAC's Ultra-poor Graduation (UPG) Program in Bangladesh, which provides interventions in the form of asset transfer (mainly livestock and poultry) and training. <ref type="bibr">Bandiera et al.</ref> found a significant increase in the labour supply and earnings for programme participants. Evaluating a similar programme implemented in Ethiopia, Ghana, Honduras, India, Pakistan, and Peru, <ref type="bibr" target="#b5">Banerjee et al. (2015)</ref> also document positive effects on these outcomes. Similar positive effects on the livelihoods of the ultra-poor are also observed from programmes implemented in West Bengal and Rwanda <ref type="bibr" target="#b4">(Banerjee et al. 2011;</ref><ref type="bibr" target="#b2">Argent, Augsburg, and Rasul 2014)</ref>.</p><p xml:id="_RupNEmG">In this paper, we examine the effects of a livestock-based anti-poverty programme on the livelihoods of the ultra-poor 1 in West Bengal, India. The programme titled Targeting Hardcore Poor (THP) has been implemented by a local NGO called Belghoria Janakalyan Samity <ref type="bibr">(BJS)</ref>. The THP programme targets ultra-poor households who are marginalised, severely food insecure, and have no entrepreneurial skills and productive assets. West Bengal is the sixth-largest economy among Indian states, with a per capita GDP of USD 1634 in 2019 against USD 2100 for all of India (MSPI 2021). As of 2011, 22.5% of India's population lived below $1.90 per person per day at the PPP exchange rate (World Bank 2021), and in West Bengal, the rate is 20% <ref type="bibr">(World Bank 2017)</ref>. About two-thirds of West Bengal's population live in rural areas, 2 with the rural population of this state heavily relying on farming activities for their livelihoods <ref type="bibr" target="#b9">(Datta and Ghosal 2014)</ref>.</p><p xml:id="_Ahdwe8W">The intervention provided by the THP programme includes the provision of productive assets (mainly livestock) and other supports such as training, weekly consumption allowances, and health support to ultra-poor women. Using propensity score matching (PSM), we estimate the effects of the intervention on employment, income, food security, productive and durable assets, social inclusion, housing, sanitation, and women's empowerment.</p><p xml:id="_7Y6SHvn">Our paper expands on the existing evaluation literature of anti-poverty programmes (including the transference of livestock assets) <ref type="bibr" target="#b3">(Bandiera et al. 2017;</ref><ref type="bibr" target="#b5">Banerjee et al. 2015;</ref><ref type="bibr" target="#b4">Banerjee et al. 2011;</ref><ref type="bibr" target="#b2">Argent, Augsburg, and Rasul 2014)</ref>. However, we deviate from the existing literature by showing that livestock-based anti-poverty programmes can improve the welfare of more vulnerable households in the community compared to households studied by the current papers on similar interventions. Comparing some basic household demographics between the studies, we find that our sample (from the 2017 cohort) consists of more vulnerable households at baseline in comparison to those previously covered in the evaluation literature <ref type="bibr" target="#b5">(Banerjee et al. 2015;</ref><ref type="bibr" target="#b4">Banerjee et al. 2011;</ref><ref type="bibr" target="#b3">Bandiera et al. 2017;</ref><ref type="bibr" target="#b2">Argent, Augsburg, and Rasul 2014)</ref>. For instance, a majority of the treatment households in our study sample (57%) come with female household heads, which is proportionately higher than the proportion of female-headed households (41%) used in the sample by <ref type="bibr" target="#b3">Bandiera et al. (2017)</ref>. 3 In addition, households in our sample own considerably fewer assets (cows: 3% vs. 5.5% and goats: 6% vs. 9.2%) than those studied by <ref type="bibr" target="#b3">Bandiera et al. (2017)</ref> and have fewer household members of working age (1.61 vs. 2.36) than the sample used by <ref type="bibr" target="#b4">Banerjee et al. (2011)</ref>, further confirming their vulnerable status.</p><p xml:id="_AtNPSs8">The rest of the paper proceeds as follows. A description of the THP programme is provided in Section 2 to set the context, and the conceptual framework is examined in Section 3. Then Sections 4 and 5 elaborate on the research design, data collection methods, and analytical methodology, respectively. Finally, Section 6 presents the findings, and Section 7 concludes the paper.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2." xml:id="_7W3qu8s">The THP programme</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1." xml:id="_ySy9aM6">Selection of beneficiaries</head><p xml:id="_4ymWn5y">This paper examines the programme effects on the 2017 cohort of beneficiaries. The THP programme selects beneficiaries through several steps: Households of a community are first categorised by their poverty status (e.g. ultra-poor, poor, middle class, non-poor) through a Participatory Rural Appraisal (PRA). Households were then surveyed from the bottom two wealth ranks on their socio-economic characteristics and were checked to see if they fit the specific targeting criteria set out by BJS, which were as follows: (i) monthly household income cannot be more than Rs.1000, (ii) the family has no physically active male member who can work and earn, (iii) the family has a physically active woman as primary earner who can undertake economic activities and can grow enterprises, (iv) the household has not taken any loans from a formal or an informal institution, and (v) the household is not adequately supported by the Government or NGOs. 4 A household must meet all these selection criteria to be eligible for the programme support.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2." xml:id="_JK35NZh">Community support mobilisation</head><p xml:id="_UqdRWmm">A village committee is formed comprising village elders, leaders (local government representatives), and scholars (such as teachers), where the committee is responsible for guiding and taking care of ultra-poor households. This supplements the programme at the local level, and the committee gradually becomes a support system for beneficiaries even after the programme is phased out.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3." xml:id="_Qyde7gn">Enterprise selection</head><p xml:id="_72bcdem">After completing the selection process, each beneficiary woman selects her enterprise based on the discussion with the programme staff. The enterprises include farm, non-farm, and mixed-farm/firm assets. The beneficiaries of farm enterprises received five to six goats. In comparison, those of the mixed-farm/firm category got one/two goats and some other non-farm assets like garments, sewing machines, grocery materials, food items, supply materials, and so on. About 75% of the beneficiaries of the 2017 cohort received at least one goat, indicating that the programme provided mainly livestock assets to its recipients.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4." xml:id="_KvV6zYq">Training</head><p xml:id="_tQHv2TA">Each participant received enterprise development and confidence-building training. The enterprise development training is at first provided through the classroom for eight to ten days based on the individual member's capability to manage enterprises which is meant to enhance their enterprise management skills. On-field training and refresher courses were also provided quarterly, depending on the types of enterprises selected. As part of the confidence-building training, attempts were also made to instil faith, self-motivation, and self-reliance among the beneficiaries. Confidence-building training was also provided in the classroom.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.5." xml:id="_3ZSGsq2">Asset transfer</head><p xml:id="_RP9mKEw">The programme staff purchase the assets directly and then transfer them to the selected beneficiaries.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.6." xml:id="_pXh8reY">Consumption support/allowance</head><p xml:id="_xZuGrKs">The primary purpose of this allowance is to smooth their consumption until they start generating earnings from the assets they received from the programme. Beneficiary households receive consumption support/allowances of Rs.140.00 per week. The support continues for about seven weeks for the non-farm category and 14 weeks for the farm and mixed-farm/firm categories.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.7." xml:id="_pe2QFM3">Follow up and monitoring</head><p xml:id="_amXzGNq">Each field staff visits beneficiary households at least once a week to monitor household socio-economic status, followed by designated senior officials who visit beneficiary households once a month.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.8." xml:id="_rd67yGV">Graduation</head><p xml:id="_sPVbpE7">The duration of the programme cycle is two years, where all support provided by the THP programme during this period is fully subsidised and borne by the THP programme. Finally, the graduation phase marks the programme's culmination with the beneficiaries emerging as confident and capable of sustaining their livelihoods. At this stage, beneficiary households are believed to achieve significant progress in their livelihoods.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3." xml:id="_mcxQZyz">Conceptual framework</head><p xml:id="_vyPF8Mp">The two salient approaches related to poverty are the "capability approach" by A.K. Sen and "social exclusion" by Townsend. The capability approach is a framework that enables researchers to utilise various approaches to understand and analyse multidimensional poverty and well-being coherently <ref type="bibr" target="#b1">(Alkire 2007)</ref>, where <ref type="bibr" target="#b30">Sen (1999)</ref> argues that poverty can be identified as capability deprivation, and income is only one instrument in generating capabilities. He stressed that the impact of income on capabilities is conditional and that the relation between income and capability is firmly contingent on the individual's age, gender, location, epidemiological atmospheres, and other variations on which a person may or may not have any control. On the other hand, social exclusion refers to the situation where people are denied participation in the everyday activities of a citizen, which views poverty as declining participation and access to resources when a particular interest group keeps individuals away from the market economy, and these individuals lack social status <ref type="bibr" target="#b32">(Townsend and David 2002)</ref>. Providing the poor with livestock might open up opportunities to reduce poverty, as many people depend on livestock as their livelihoods <ref type="bibr" target="#b31">(Thornton et al. 2002)</ref>. The intervention that provides livestock is thus expected to enhance the capability and access to resources and improve the living standards of the disadvantaged population.</p><p xml:id="_8Vfg5qa">According to <ref type="bibr" target="#b14">Halder and Mosley (2004)</ref>, the ultra-poor is the poorest group with a limited or non-existent asset base. Hence, they rely on earnings from wage labour. They are also reluctant to borrow due to the fear of being overburdened <ref type="bibr" target="#b14">(Halder and Mosley 2004)</ref>. Hence, the intervention that builds a productive asset-base is assumed to reduce their vulnerabilities effectively. Since the THP programme provides the ultra-poor with productive assets (mainly livestock), participants would likely multiply those without selling immediately as they also receive consumption allowances that can be used to finance their immediate needs. Evidence shows that training on livestock rearing to ultra-poor households helps them to better utilise it <ref type="bibr" target="#b2">(Argent, Augsburg, and Rasul 2014)</ref>. Hence, the training and livestock asset of the THP programme may increase self-employment in livestock rearing of ultra-poor women which may consequently increase household income. As such, we expect that the programme would increase income and productive assets of ultra-poor households, which may ultimately translate into improved welfare (household expenditure). Overall, we expect the THP programme may impact the following outcomes:</p><p xml:id="_Q7RSNCa">(1) Employment of working-age members (2) Income (3) Productive and durable assets (4) Welfare (food security)</p><p xml:id="_Hbd2Tma">In this study, we examine the effects of the THP programme on the outcomes mentioned above. In addition, we also examine the effects on secondary outcomes like housing, sanitation, women's empowerment, and social inclusion as they might be affected by the programme through income increases, if any.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4." xml:id="_NyPbUFW">Evaluation design and data collection</head><p xml:id="_uqpMfsS">We estimate the effects of the THP programme using a quasi-experimental design. We focused on the cohort of 2017 when BJS provided treatment support to 100 ultra-poor households. We conducted a follow-up survey on those households in December 2018 to collect post-intervention data. 5 To control for counterfactuals, we also surveyed 101 near-eligible households. During the PRA, these households were identified as ultra-poor or poor households (i.e. the bottom two wealth ranks of the PRA). However, an in-person survey of the households found them ineligible for programme enrolment as they did not meet the selection criteria. It needs to be mentioned here that we did not conduct any baseline survey, but the data collected by BJS for selection purposes have been used as the benchmark information. BJS collected data on demographic characteristics, asset holding, income, employment, housing conditions, etc., during beneficiary selection. These data were collected through household visits after the completion of PRA. The follow-up survey collected information on demographic characteristics of household members, employment and earnings of all members aged more than six years, productive and non-productive physical assets, financial assets, food security, food expenditure, women's empowerment, social inclusion, and others. It needs to be mentioned here that the BJS staff collected the follow-up survey data, and we, the research team, were responsible for strict monitoring of the data collection process. BJS staff were also provided training on the survey instrument.</p><p xml:id="_QDn3g7r">Annex Table <ref type="table" target="#tab_0">A1</ref> reports selected baseline characteristics of treatment and comparison (near eligible) groups. The statistics show that at baseline, 87% of women from the treatment group were widowed or separated or divorced against 65% among the comparison group, indicating that the THP programme successfully selected demographically vulnerable women. Treatment and comparison groups were similar at baseline in terms of the amount of owned land. Around 97% of treatment households were food insecure at baseline compared to 86% of the comparison group, indicating that the programme had successfully targeted food-insecure families as well. In addition, treatment and comparison groups were also similar at baseline in terms of having their own houses. Further analysis shows (not reported in the table) that in 57% of treatment households, primary females were the sole earners at baseline.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5." xml:id="_j54Ss4M">Analytical technique</head><p xml:id="_qWvMtnQ">To estimate the effect of the intervention, we use Propensity Score Matching (PSM), which has become a widely used approach to estimate the causal treatment effect for different interventions where Randomized Control Trials (RCT) are difficult to administer. In an observational study, treatment and comparison groups are often drawn from different populations <ref type="bibr" target="#b10">(Dehejia and Wahba 1999)</ref>. It helps to create an artificial counterfactual to compare the programme's effect. Following <ref type="bibr" target="#b28">Raza, Das, and Misha (2012)</ref>, we took the comparison group from the near-eligible households who were poor but failed to comply with all the programme enrolment criteria.</p><p xml:id="_TCtDNK9">PSM constructs a statistical treatment and comparison group with a similar value of propensity scores and this matching allows one to estimate the Average Treatment Effect on Treated (ATT). It considers the observed characteristics that remain unaffected by the programme while estimating the propensity score. We use these characteristics from the pre-intervention data on treatment and comparison groups to calculate propensity scores and match two groups, which is an ideal practice <ref type="bibr" target="#b18">(Khandker, Koolwal, and Samad 2009)</ref>. As we are intending to estimate the causal effects, mean differences in outcomes between participants and non-participants are not recommended. The characteristics of the two groups might be different without any intervention, which is known as the selection bias problem and PSM is one of the possible solutions to this problem <ref type="bibr" target="#b6">(Caliendo and Kopeinig 2008)</ref>.</p><p xml:id="_Rtpmajv">The propensity score equation is as follows:</p><formula xml:id="formula_0">P(Z) ; Pr{D = 1|Z} = E{D|Z}<label>(1)</label></formula><p xml:id="_9P8XS4a">Where, D takes a value of 0 or 1, indicating whether the observation falls within the treatment or comparison group, and Z represents variables displaying the pre-treatment characteristics.</p><p xml:id="_aKVctF4">The steps we followed to use PSM are (i) estimating a Probit model using the available baseline data; 6 (ii) checking balancing properties of the data by testing whether the two groups have the same distribution (mean) of propensity scores; and (iii) estimating the matching equations using the common support restriction to ensure that matches are formed only where the distribution of the density of the propensity scores overlap between the participant and non-participant groups. Finally, we use STATA's psmatch2 command to match propensity scores between treated and untreated groups through the nearest neighbourhood matching technique.</p><p xml:id="_tvYgQey">As mentioned earlier, we did not conduct any baseline survey. BJS, however, collected some baseline data for beneficiary selection purposes. We use some of this data (the reported six variables in Table <ref type="table" target="#tab_1">A2</ref>) to match treatment and comparison groups. The rationale for choosing these covariates is as follows. First, widowed/separated/divorced women are more likely to be selected by the programme, as their households primarily rely on their income. Second, the age of the leading female members can determine participation. Considering that the physical capability to manage the assets provided by the programme is essential, we include two other variables (age and physical ability) to match treatment and comparison groups. Third, housing condition, an indicator of economic status, which may affect programme participation, is also examined along with the presence of a physically active female member in the household, which was also a selection criterion used by the programme. We therefore include this in the matching equation. Finally, dependency on earnings from day labour may reflect economic status, affecting programme participation, so it is also included.</p><p xml:id="_aH28wnA">Table <ref type="table" target="#tab_1">A2</ref> shows the Probit regression results for matching treatment and comparison groups. Results show that marital dissolution is positively correlated with participation. These results indicate that BJS was more likely to select widowed/separated/divorced women as programme beneficiaries. On the other hand, age is negatively correlated with programme participation. These findings indicate that relatively younger women were more likely to be selected. These findings imply that the PRA approach followed by household visits effectively targets beneficiaries for anti-poverty programmes.</p><p xml:id="_2hAUT6J">Table <ref type="table" target="#tab_2">A3</ref> shows that the propensity score is skewed to the left for the comparison group and right for the treatment group. Overall, ten observations from the comparison group fall on the off-support region and the rest on the on-support region. Conversely, all observations of the treatment group fall on the on-support region. This is likely because the comparison group was well-off compared to the treatment group at baseline.</p><p xml:id="_3Ggpu9M">After conducting the balancing test, we estimate programme impacts by comparing average outcomes of matched treatment and comparison samples at the end line. We follow <ref type="bibr" target="#b10">Dehejia and Wahba (1999)</ref> to estimate the ATT and the equation is as follows:</p><formula xml:id="formula_1">ATT ; E(Y 1 |D = 1) -E(Y 0 |D = 1)<label>(2)</label></formula><p xml:id="_4T88CfE">Where, ATT is the average treatment effect on the treated. Y 1 is the value of the outcome variable for participant households/individuals. 7 Y 0 is the value of the outcome variable for non-participant households/individuals. D takes the value of 1 if the household/individual has participated in the programme and 0 if otherwise.</p><p xml:id="_wa8u4cq">Equation ( <ref type="formula" target="#formula_1">2</ref>) cannot be estimated directly because Y 0 cannot be observed for the programme participant households. Considering the observable covariates (X i ), following <ref type="bibr" target="#b10">Dehejia and Wahba (1999)</ref>, we obtain:</p><formula xml:id="formula_2">E(Y ij |X i , T i = 1) = E(Y ij |X i , T i = 0) = E(Y ij |X i , T i = j)</formula><p xml:id="_MpZ6a7D">For j = 0, 1. Conditional on the observables covariates (X i ), there is no systematic difference between participant and non-participant groups at pre-intervention period. This allows us to estimate the treatment effect on the treated. As mentioned previously, we estimate the effects of the THP programme on the following outcomes: employment, income, food expenditures, food security, productive and durable assets, women's empowerment, social inclusion, housing, and sanitation. Appendix Table <ref type="table" target="#tab_3">A4</ref> reports the description of measurements of our outcome variables of interest. Appendix Table <ref type="table" target="#tab_4">A5</ref>, on the other hand, reports the endline means and standard errors of the outcome variables.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="6." xml:id="_TESZ9DM">Results and discussion</head><p xml:id="_tGYUsJj">In this section, we present and discuss PSM results. These results are estimated as follows. First, we match treatment and comparison groups using the Probit model, and then conduct balancing tests. Afterwards, programme impacts are estimated by comparing end line outcomes of the matched treatment and comparison groups. For this, we have used STATA's PSMATCH2 command. PSM results are reported in Tables <ref type="table" target="#tab_0">1</ref><ref type="table" target="#tab_1">2</ref><ref type="table" target="#tab_2">3</ref><ref type="table" target="#tab_3">4</ref><ref type="table" target="#tab_4">5</ref><ref type="table" target="#tab_5">6</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="6.1." xml:id="_DGpjmpS">Impact on productive assets</head><p xml:id="_Dg9hKhk">Table 1 reports the estimated impacts of the THP programme on productive assets: cows, goats/ sheep, chickens, sewing machines, and cultivable lands. The impacts are estimated using PSM. The results show that the programme has significant positive impacts on the number of goats/ sheep and chickens and sewing machines. Treatment and comparison groups own, on average, 1.95 and 0.42 goats/sheep, respectively, and the difference is statistically significant at the one per cent level. Since the programme transferred livestock assets, this result suggests that programme participants found it profitable and held a significant amount of the asset after the programme cycle. In addition, treatment households owned more chickens (2.20) than the comparison group (1.01). Another important productive asset is the sewing machine. After the intervention, the average number of sewing machines owned increased by 0.19 among treatment households compared to the comparison group.</p><p xml:id="_qBWUQCF">Results in Table <ref type="table" target="#tab_0">1</ref> also show that the programme has increased the amount of owned cultivable land by 0.86 decimals. This result is consistent with the result found in a study on a similar programme implemented by BRAC in Bangladesh <ref type="bibr" target="#b25">(Rabbani, Sulaiman, and Prakash 2006)</ref>. This result suggests that programme participants perhaps purchased additional cultivable land after the intervention, a crucial income-generating asset in rural India. According to <ref type="bibr" target="#b9">Datta and Ghosal (2014)</ref>, 57% and 42% of male and female workers in West Bengal, respectively, were engaged in the Agriculture sector in 2011-2012, indicating the importance of access to cultivable land in rural West Bengal for employment generation among the ultra-poor.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="6.2." xml:id="_9QJ3H9C">Impact on employment</head><p xml:id="_SRC39Zd">Table 2 reports the estimated effects of the intervention on working-age (15-65 years old) members' time devoted to different earning activities. Results show that the intervention increases the time devoted to agriculture (land cultivation), agricultural day labouring, livestock rearing, and small business. As the intervention increases the amount of cultivable land, and the number of goats/sheep, and poultry, the positive effects on the time devoted to land cultivation and livestock and poultry rearing are expected. Results also show that the intervention increases the total time dedicated to all earning activities, suggesting that the critical resource of the ultra-poor, labour, was underutilised without the intervention. The magnitude of the effect on the total time devoted to all earning activities is 56% of the comparison group's mean. These results are also comparable with <ref type="bibr" target="#b3">Bandiera et al. (2017)</ref>. However, as mentioned earlier, the programme's target group evaluated in this paper is more vulnerable than the sample households covered by <ref type="bibr" target="#b3">Bandiera et al. (2017)</ref>, suggesting that the THP programme is effective for the vulnerable segment of ultra-poor households. The results are estimated using PSM.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="6.3." xml:id="_ra2tzD5">Impact on income, food expenditure, savings, and food security</head><p xml:id="_6e9J2Rd">Table <ref type="table" target="#tab_2">3</ref> presents the estimated impacts of the THP programme on income, food expenditure, savings, and food security. We report both household and per capita income. Results show that household income significantly differs between the treatment and comparison groups. The treatment group earns Rs 1699 more per month than the comparison group, which is statistically significant at the one per cent level. The magnitude of the effect is 99% of the comparison group's mean. Analysis of per capita income shows that the programme increases per capita monthly income by Rs 1061 (first row and third column of Table <ref type="table" target="#tab_2">3</ref>), which is 122% of the comparison group's mean per capita income. Our results are consistent with the conceptual framework (mentioned in Section 3) and reveal that providing the poor with productive resources might widen their opportunities and help them to escape from poverty. Similar programme evaluations in Bangladesh depict long-term positive effects of programme participation, particularly on income. For example, <ref type="bibr" target="#b7">Das and Misha (2010)</ref> show that beneficiaries have increased per capita income by 27% two years after receiving the programme support. Therefore, it indicates that the THP programme has a larger effect on income than similar programmes implemented in other contexts. The results are estimated using PSM. The results are estimated using PSM.</p><p xml:id="_y2KjNDP">We also find that the programme positively impacts savings (Table <ref type="table" target="#tab_2">3</ref>). Treatment households have average savings amounting to Rs 6,676, which is higher than comparison households. 8 The magnitude of the effect on savings we have documented in this study is higher than the effect reported by previous studies <ref type="bibr" target="#b3">(Bandiera et al. 2017;</ref><ref type="bibr" target="#b19">Krishna, Poghosyan, and Das 2012)</ref> evaluating a similar programme in Bangladesh.</p><p xml:id="_wybz7Rm">An important indicator of food sufficiency is per capita daily food expenditure. Our result shows that per capita daily food expenditure increases by Rs 20.97 due to the intervention (Table <ref type="table" target="#tab_2">3</ref>). Another indicator of food security is self-perceived food security. During the survey, respondents were asked whether they were able to manage two meals a day. Among the treatment group, 98% of households reported that they could manage two meals a day, whereas the corresponding proportion among the comparison group was 68% (Table <ref type="table" target="#tab_2">3</ref>). The difference (30 percentage points) is statistically significant at the one per cent level. This result implies that the THP programme effectively reduces poverty and vulnerability of ultra-poor households.  The results are estimated using PSM. The results are estimated using PSM.</p><p xml:id="_gQtN8bk">These results suggest that the intervention can be replicated in other similar contexts to address ultra-poverty as the ultra-poor are less likely to benefit from widely available anti-poverty programmes such as microfinance <ref type="bibr" target="#b26">(Rahman and Razzaque 2000;</ref><ref type="bibr" target="#b21">Morduch 1998</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="6.4." xml:id="_HhWFsYm">Impact on durable assets</head><p xml:id="_Eaqf2PH">Table <ref type="table" target="#tab_3">4</ref> reports the estimated impacts (PSM results) of the THP programme on selected durable assets <ref type="bibr">(fan, bicycle, chair, and table)</ref>. Results show that the programme positively affects the number of fans, chairs, and tables. These results again confirm that the intervention improves the welfare of ultra-poor households.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="6.5." xml:id="_JPDxj9H">Impact on housing and sanitation and social inclusion</head><p xml:id="_S62YKEC">Since the programme increases the income of ultra-poor households, it may improve their housing and sanitation conditions. Table <ref type="table" target="#tab_4">5</ref> presents the estimated effects of the programme on housing, sanitation, and social inclusion. We find that there is no statistically significant difference in the average number of rooms used by treatment and comparison groups. Results, however, show that the value of the main house differs significantly between these two groups. We also find that beneficiary households are more likely to use sanitary latrines than their non-beneficiary counterparts. The use of sanitary latrines improves health outcomes <ref type="bibr" target="#b17">(Joshi and Amadi 2013)</ref>, suggesting that the THP programme may improve the health of the ultra-poor in the long-run. <ref type="bibr" target="#b0">Abrams and Hogg (2004)</ref> state a relationship framework in which social life moves on and seeks inclusion and belongings. So social inclusion means a social network in the society where they live. Table <ref type="table" target="#tab_4">5</ref> shows whether respondent women got invitations to social occasions, a measure of social inclusion, from non-relative neighbours last year. Again, we find a significant positive impact of the programme on invitations. After the intervention, invitations to social occasions increased by 25 percentage points among beneficiary women compared to their non-beneficiary counterparts.</p><p xml:id="_5pntKb6">6.6. Impact on women's empowerment <ref type="bibr" target="#b15">Ibrahim and Alkire (2007)</ref> propose a shortlist of internationally comparable indicators to estimate agency and empowerment, which include (i) control over personal decisions, (ii) domain-specific autonomy, (iii) household decision-making, and (iv) the ability to change aspects in one's life at the individual and communal levels. Though not directly related to the conceptual framework, we attempt to analyse whether the programme affects women's empowerment because there might be some indirect connections. For analysing women's empowerment, we use the household decision-making-related indicators that encapsulate decision making regarding (i) land buying/ selling/renting-out, (ii) lending and borrowing money, (iii) children's education, and (iv) sons'/daughters' marriage. Table <ref type="table" target="#tab_5">6</ref> reports the estimated effects on these indicators. More than 80% of both control and treatment women said they had the freedom regarding decision-making on these four issues unlike the control groups. The differences between the treatment and comparison groups are not statistically significant though women from treatment households contribute more to decision-making than their comparison counterparts. It needs to be mentioned here that about 87% of treatment women are widowed/separated/divorced. So, these women were likely to be empowered in decision-making regarding various issues without intervention. So, our results seem to be expected.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="7." xml:id="_FwAFhDv">Conclusion</head><p xml:id="_SznZzby">Livestock rearing has largely contributed to earnings, consumption, and food security <ref type="bibr" target="#b23">(Murphy and Allen 2003;</ref><ref type="bibr" target="#b27">and Randolph et al. 2007</ref>). Besides, generating income from livestock has predominantly been a female-centric activity in rural households <ref type="bibr" target="#b20">(McPeak and Doss 2006)</ref>. Female members in a household who manage and generate income through animal farming/rearing have enhanced bargaining power within households, consequently leading to positive effects on their children's health, nutrition, and educational outcomes <ref type="bibr" target="#b24">(Quisumbing and Maluccio 2003)</ref>. Thus, transferring livestock assets to ultra-poor women can achieve socio-economic well-being at the individual and household levels. This paper examines the effects of a poverty alleviation programme that transfers livestock assets to ultra-poor women in West Bengal, India.</p><p xml:id="_TBeUtbS">Our results suggest that the intervention has significant positive impacts on the livelihoods of the ultra-poor through increasing productive asset-bases, income, and food expenditures. Moreover, these results have implications for long-term poverty reduction and the human capital development of children.</p><p xml:id="_xyYwHm2">With increasing income, the demand for meat and milk generally increases <ref type="bibr" target="#b11">(Delgado 2003)</ref>. As many developing countries are experiencing significant growth in national income, the need for farm products (meat and milk) is likely to increase over time. Hence, transferring livestock assets to ultra-poor households is unlikely to put downward pressure on their prices through the general equilibrium effect, thereby contributing to sustainable improvement in the livelihoods of ultra-poor households. Therefore, our results suggest that the livestock transfer programme can be scaled up to attain the SDG goal of extreme poverty reduction.</p><p xml:id="_fw2Szjk">Our results are for West Bengal of India, where rural households heavily rely on income from livestock. In many developing countries such as Bangladesh, Nepal, and Pakistan, livestock rearing is a popular income-generating activity <ref type="bibr" target="#b3">(Bandiera et al. 2017;</ref><ref type="bibr" target="#b16">Joshi 1992;</ref><ref type="bibr" target="#b29">Rehman et al. 2017)</ref>. Hence, the findings of our study imply that the THP programme can be replicated in other similar contexts to address ultra-poverty and economically empower vulnerable women. Our results also show that BJS successfully targeted more vulnerable households compared to other similar programmes. This suggests that BJS's THP programme replication in different similar contexts may more effectively target ultra-poor households. The main limitation of our study is that it explores the short-run impacts of the THP programme. Further study should be conducted to estimate the long-run impacts. Notes 1. According to <ref type="bibr" target="#b13">Grant et al. (2004)</ref>, several terms are used to identify those who experience poverty most intensely ultra-poor, extremely poor, hardcore poor, destitute, poorest of the poor, and declining poor. Hence, the ultrapoor and hardcore poor are similar. Nonetheless, in this paper, we refer to the ultra-poor. 2. <ref type="url" target="https://www.census2011.co.in/census/state/west+bengal.html#:~:text=Of%20the%20total%20population%20of,West%20Bengal%20state%20was%2062%2C183%2C113">https://www.census2011.co.in/census/state/west+bengal.html#:~:text=Of%20the%20total%20population%  20of,West%20Bengal%20state%20was%2062%2C183%2C113</ref>. 3. Similarly, the proportion of single-membered households at baseline was also higher for our study sample in comparison to <ref type="bibr" target="#b3">Bandiera et al. (2017)</ref> (36% vs. 19%) <ref type="bibr" target="#b8">(Das and Seraj 2009)</ref>. 4. Bandhan, a microfinance institution based in West Bengal, India, also implements a programme known as THP but Bandhan's THP programme's targeting criteria are different from those used by BJS's THP programme. To be eligible as a beneficiary of Bandan's THP programme, a household must meet three of the following five criteria: the primary source of income has to be informal labour or begging; landholdings must be below 20 decimals (10 katthas, 0.2 acres); the household owns no productive assets other than land; no able-bodied males are in the household; school-aged children work instead of attending school <ref type="bibr" target="#b4">(Banerjee et al. 2011)</ref>. Further, the household (1) must have an able-bodied female member, and (2) must not be associated with any microfinance institution or receive sufficient support from the government <ref type="bibr" target="#b4">(Banerjee et al. 2011)</ref>. Unlike Bandhan's THP programme, BJS's THP programme uses income as one of the prime selection criteria. As mentioned previously, households selected by BJS's THP programme are likely to be more vulnerable compared to those selected by Bandhan's THP programme. This perhaps implies that an anti-poverty programme should use income as a selection criterion. 5. The survey, however, could successfully visit 99 households. 6. For estimating the probability of participation versus nonparticipation in a binary treatment case, Logit and Probit models usually yield similar results <ref type="bibr" target="#b6">(Caliendo and Kopeinig 2008)</ref>. We, however, choose the Probit model. 7. All outcome variables except for employment and women's empowerment are at the household level.</p><p xml:id="_C6nW2Kp">8. The savings were mostly at the bank/post office (83% and 75% for the treatment and control groups, respectively). The rest were at home and other places.</p><p xml:id="_PsEt82e">Table A5. Continued. Treatment Control Difference p-value No. of sewing machines 0.212 0.030 0.182 0.000 (0.046) (0.017) (0.049) Amount of cultivable land (decimals) 0.879 0.069 0.809 0.018 (0.338) (0.053) (0.339) Durable assets: No. of fans 1.182 0.574 0.608 0.000 (0.078) (0.051) (0.093) No. of bicycles 0.343 0.277 0.066 0.413 (0.063) (0.051) (0.081) No. of chairs 0.828 0.554 0.274 0.043 (0.107) (0.083) (0.134) No. of tables 0.172 0.079 0.093 0.081 (0.045) (0.027) (0.053) Working age members hours (per month) devoted to: Agriculture (land cultivation) 10.6 2.6 8.0 0.020 (3.1) (1.8) (3.4) Agriculture day labouring 20.0 6.5 13.5 0.001 (4.0) (1.6) (4.1) Non-agriculture day labouring 11.5 18.0 -6.5 0.171 (3.0) (3.5) (4.7) Livestock rearing 35.0 10.3 24.7 0.000 (3.7) (2.3) (4.2) Poultry rearing 5.6 1.6 4.0 0.016 (1.6) (0.7) (1.7) Working as housemaid 14.9 8.3 6.6 0.173 (4.4) (2.5) (4.8) Handicrafts 15.5 16.6 -1.1 0.840 (3.8) (3.9) (5.5) Small business 13.2 1.3 11.9 0.001 (3.9) (0.9) (3.6) Others 14.0 13.2 0.8 0.886 (4.1) (3.8) (5.6) All earning activities 140.3 78.5 61.8 0.000 (8.6) (6.7) (10.7) Social inclusion, housing and sanitation: Got invitation from non-relative neighbour last year (Yes = 1, No = 0) 0.646 0.426 0.221 0.002 (0.048) (0.049) (0.069) No. of rooms used 1.214 1.253 -0.038 0.560 (0.042) (0.050) (0.065) Value of house (Rs) 82183.7 53642.4 28541.3 0.015 (9170.6) (7184.4) (11635.8) uses sanitary latrine (Yes = 1, No = 0) 0.939 0.636 0.302 0.000 (0.024) (0.049) (0.055) Women can take decision on: Land buying/selling/renting out (Yes = 1, No = 0) 0.939 0.880 0.059 0.146 (0.024) (0.033) (0.041) Lending/borrowing (Yes = 1, No = 0) 0.936 0.860 0.076 0.082 (0.025) (0.035) (0.044) Children's education (Yes = 1, No = 0) 0.863 0.723 0.139 0.089 (0.049) (0.066) (0.081) Son's/daughter's marriage (Yes = 1, No = 0) 0.942 0.680 0.262 0.001 (0.033) (0.067) (0.073) Note: figures in the parentheses are standard errors.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc xml:id="_m8jcaPj">PSM impact estimates for productive assets.Standard errors in parentheses. ***significant at the 1% level, **significant at the 5% level, and *significant at the 10% level.</figDesc><table><row><cell></cell><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell></row><row><cell></cell><cell>Matched Treatment Group</cell><cell>Matched Comparison Group</cell><cell>Difference (ATT)</cell></row><row><cell>No. of cows</cell><cell>0.1919</cell><cell>0.1474</cell><cell>0.0444</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(0.076)</cell></row><row><cell>No. of goats/sheep</cell><cell>1.949</cell><cell>0.416</cell><cell>1.533***</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(0.273)</cell></row><row><cell>No. of chickens</cell><cell>2.202</cell><cell>1.014</cell><cell>1.187**</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(0.546)</cell></row><row><cell>No. of sewing machines</cell><cell>0.212</cell><cell>0.022</cell><cell>0.190***</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(0.052)</cell></row><row><cell>Amount of cultivable land (decimals)</cell><cell>0.879</cell><cell>0.020</cell><cell>0.858**</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(0.339)</cell></row><row><cell>Note:</cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc xml:id="_xDkcCdY">PSM impact estimates for working age (15-65 years old) members' time (hours per month) devoted to different earning activities.Standard errors in parentheses. ***significant at the 1% level, **significant at the 5% level, and *significant at the 10% level.</figDesc><table><row><cell></cell><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell></row><row><cell>Earning activities:</cell><cell>Matched Treatment Group</cell><cell>Matched Comparison Group</cell><cell>Difference (ATT)</cell></row><row><cell>Agriculture (land cultivation)</cell><cell>10.61</cell><cell>0.216</cell><cell>10.39***</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(3.166)</cell></row><row><cell>Agricultural day labouring</cell><cell>19.99</cell><cell>5.351</cell><cell>14.64***</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(4.66)</cell></row><row><cell>Non-agricultural day labouring</cell><cell>11.47</cell><cell>21.67</cell><cell>-10.2*</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(6.096)</cell></row><row><cell>Livestock rearing</cell><cell>35.00</cell><cell>15.2</cell><cell>19.8***</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(5.12)</cell></row><row><cell>Poultry rearing</cell><cell>5.6</cell><cell>3.12</cell><cell>2.48</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(1.94)</cell></row><row><cell>Working as housemaid</cell><cell>14.88</cell><cell>8.42</cell><cell>6.46</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(5.65)</cell></row><row><cell>Handicrafts</cell><cell>15.53</cell><cell>18.55</cell><cell>-3.02</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(6.404)</cell></row><row><cell>Small business</cell><cell>13.19</cell><cell>2.32</cell><cell>10.86***</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(4.14)</cell></row><row><cell>Others</cell><cell>14.02</cell><cell>14.91</cell><cell>-0.898</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(7.206)</cell></row><row><cell>All earning activities</cell><cell>140.3</cell><cell>89.77</cell><cell>50.52***</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(12.47)</cell></row><row><cell>Note:</cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 .</head><label>3</label><figDesc xml:id="_pHvXYJX">PSM impact estimates for income, savings, and food security and expenditures.Standard errors in parentheses. ***significant at the 1% level, **significant at the 5% level, and *significant at the 10% level.</figDesc><table><row><cell></cell><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell></row><row><cell></cell><cell cols="3">Matched Treatment Group Matched Comparison Group Difference (ATT)</cell></row><row><cell>Per capita monthly income (Rs)</cell><cell>1933.73</cell><cell>872.75</cell><cell>1060.99***</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(167.02)</cell></row><row><cell>Monthly household income (Rs)</cell><cell>3413.35</cell><cell>1713.87</cell><cell>1699.47***</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(262.01)</cell></row><row><cell>Per capita daily food expenditure (Rs)</cell><cell>40.70</cell><cell>19.72</cell><cell>20.97***</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(2.15)</cell></row><row><cell>Savings (Rs)</cell><cell>6675.6</cell><cell>764.4</cell><cell>5911.25***</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(951.36)</cell></row><row><cell>Can manage two meals a day (yes = 1, no = 0)</cell><cell>0.980</cell><cell>0.680</cell><cell>0.300***</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(0.063)</cell></row><row><cell>Note:</cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4 .</head><label>4</label><figDesc xml:id="_Wbxp2r8">PSM impact estimates for durable assets.</figDesc><table><row><cell></cell><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell></row><row><cell>Number of:</cell><cell>Matched Treatment Group</cell><cell>Matched Comparison Group</cell><cell>Difference (ATT)</cell></row><row><cell>Fans</cell><cell>1.18</cell><cell>0.561</cell><cell>0.620***</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(0.101)</cell></row><row><cell>Bicycles</cell><cell>0.343</cell><cell>0.232</cell><cell>0.111</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(0.0929)</cell></row><row><cell>Chairs</cell><cell>0.828</cell><cell>0.472</cell><cell>0.356**</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(0.154)</cell></row><row><cell>Tables</cell><cell>0.171</cell><cell>0.067</cell><cell>0.105*</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(0.057)</cell></row><row><cell cols="4">Note: Standard errors in parentheses. ***significant at the 1% level, **significant at the 5% level, and *significant at the 10% level.</cell></row><row><cell cols="2">The results are estimated using PSM.</cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 5 .</head><label>5</label><figDesc xml:id="_6sX2ryz">PSM impact estimates for housing, sanitation, and social inclusion.Standard errors in parentheses. ***significant at the 1% level, **significant at the 5% level, and *significant at the 10% level.</figDesc><table><row><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell></row><row><cell>Matched Treatment</cell><cell>Matched Comparison</cell><cell>Difference</cell></row><row><cell>Group</cell><cell>Group</cell><cell>(ATT)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Table 6 .</head><label>6</label><figDesc xml:id="_QsJxkqy">PSM impact estimates for women empowerment.Standard errors in parentheses. ***significant at the 1% level, **significant at the 5% level, and *significant at the 10% level.</figDesc><table><row><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head xml:id="_EKCDkeV">Acknowledgment</head><p xml:id="_vyx856Y">We thank <rs type="person">Mr Bishwajit Das</rs>, Secretary and CEO, BJS, and <rs type="person">Dr Imran Matin</rs>, Executive Director, <rs type="affiliation">BRAC Institute of Governance and Development (BIGD), BRAC University</rs>, for their support in conducting this study.</p></div>
+			</div>			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_PMaHrwD">Disclosure statement</head><p xml:id="_EtGdmKu">No potential conflict of interest was reported by the authors. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_zNa3CHW">Notes on contributors</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_cQNcjkf">Appendix</head><p xml:id="_zQTctGz">Table <ref type="table">A1</ref>. Baseline characteristics of treatment and comparison groups.</p><p xml:id="_Y8JM6rB">Treatment Comparison Difference Main female member is widowed/separated/divorced (Yes = 1, No = 0) 0.869 0.653 0.215*** Amount of owned land (decimal) 5.060 5.770 -0.710 Has own house (Yes = 1, No = 0) 0.717 0.762 -0.045 Wall of main house is made of brick (Yes = 1, No = 0) 0.394 0.505 -0.111 Household is food insecure (Yes = 1, No = 0) 0.970 0.861 0.108*** Note: ***significant at the 1% level, **significant at the 5% level, and *significant at the 10% level.</p><p xml:id="_xuNkWKY">Table A2. Probit regression results. Coefficient Standard error p-value Main female is widowed/separated/divorced (yes = 1, no = 0) 0.811 0.241 0.001 Wall of main house is made of brick (yes = 1, no = 0) -0.282 0.192 0.141 Main earning source is day labouring (yes = 1, no = 0) -0.316 0.208 0.128 Age of main female member -0.020 0.010 0.041 Household has a physically active female member (yes = 1, no = 0) 0.087 0.562 0.877 Live in owned house (Yes = 1, No = 0) 0.185 0.226 0.412 Constant 0.281 0.660 0.671 Table A3. The interior bound, the number of treatment and comparison households for each block. Interior of block of pscore Comparison Treatment Total 0 1 1 1 1 2 0.2 27 12 39 0.4 43 51 94 0.6 19 34 53 0.8 1 1 2 Total 101 99 200 Table A4. Measurement of outcome variables. Outcome variables Measurement Income Both per capita monthly income and total household income per month are use. Employment Engagement in any earning activity last month Food expenditure Per capita food expenditure per day Food security Whether can manage two meals a day Productive assets Land, cows, goats, chickens, sewing machines, savings Durable assets Electric fans, chairs, tables, bicycles Housing and sanitation No. of rooms used, value of main house and use of sanitary latrine Social inclusion Whether invitation was received from non-relative neighbour last year Women's empowerment Whether women can make decisions about buying/selling assets, lending/borrowing, children's education and sons'/daughters' marriages Table A5. Descriptive statistics of outcome variables. Treatment Control Difference p-value Income, food expenditure/security and savings: Household income (Rs/Month) 3413.4 1654.9 1758.5 0.000 (207.1) (126.2) (241.4) Per capita income (Rs/Month) 1933.7 775.9 1157.9 0.000 (138.5) (70.8) (154.7) Per capita food expenditure (Rs/per day) 40.7 19.0 21.7 0.000 (1.849) (0.827) (2.012) Can manage two meals a day (Yes = 1, No = 0) 0.980 0.693 0.287 0.000 (0.014) (0.046) (0.049) Savings (Rs) 6675.6 763.0 5912.7 0.000 (936.8) (129.2) (936.6) Productive asset: No. of cows/bulls 0.192 0.139 0.053 0.422 (0.051) (0.042) (0.066) No. of goats/sheep 1.949 0.564 1.385 0.000 (0.238) (0.101) (0.257) No. of chickens 2.202 1.198 1.004 0.050 (0.467) (0.213) (0.510) (Continued )</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><figDesc xml:id="_6DUbauQ">Dr. Narayan Das is a development economist and Senior Research Fellow at BRAC Institute of Governance and Development (BIGD), BRAC University. He has a PhD in Agricultural and Resource Economics from the University of California at Berkeley. Dr. Das has published extensively including in top economics journals on poverty and labour market issues. His researches focus on poverty analysis, quantitative analysis of development policies, impact assessment of social programs and labour markets. Md. Kamruzzaman is an Anthropologist by training and completed his Under Graduation and Masters degree from Rajshahi University, Bangladesh. He is currently working as a Senior Program Associate at BIGD, BRAC University. He has good command over qualitative research methods and published a journal article in Public Health Action. Md. Shakil Ahmed is a Development Economist by training. He completed his BSS and MSS degree in Economics from Khulna University, Bangladesh. Further, He did his MSc. degree in Development Evaluation and Management from the Institute of Development Policy (IOB), Antwerp University, Belgium. Currently, he is working as a Senior Research Associate at BIGD, BRAC University. He published his papers in different journals, including the American Journal of Agricultural Economics.</figDesc></figure>
+			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="consolidated"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main" xml:id="_N8Q6uhq">A Social Psychological Framework for Understanding Social Inclusion and Exclusion</title>
+		<author>
+			<persName><forename type="first">Dominic</forename><surname>Abrams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><forename type="middle">A</forename><surname>Hogg</surname></persName>
+		</author>
+		<idno type="DOI">10.4324/9780203496176-4</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_VGJa6bd">Social Psychology of Inclusion and Exclusion</title>
+		<imprint>
+			<publisher>Psychology Press</publisher>
+			<date type="published" when="2004-06-02">2004</date>
+			<biblScope unit="page" from="19" to="42" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main" xml:id="_WZMUnk4">Choosing Dimensions: The Capability Approach and Multidimensional Poverty</title>
+		<author>
+			<persName><forename type="first">Sabina</forename><surname>Alkire</surname></persName>
+		</author>
+		<idno type="DOI">10.2139/ssrn.1646411</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_ANqC93r">SSRN Electronic Journal</title>
+		<title level="j" type="abbrev">SSRN Journal</title>
+		<idno type="ISSNe">1556-5068</idno>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<date type="published" when="2007">2007</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note>Working Paper</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main" xml:id="_thzxHQm">Livestock asset transfers with and without training: Evidence from Rwanda</title>
+		<author>
+			<persName><forename type="first">Jonathan</forename><surname>Argent</surname></persName>
+			<idno type="ORCID">0000-0003-3079-0608</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Britta</forename><surname>Augsburg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Imran</forename><surname>Rasul</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jebo.2014.07.008</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_tEyGU49">Journal of Economic Behavior &amp; Organization</title>
+		<title level="j" type="abbrev">Journal of Economic Behavior &amp; Organization</title>
+		<idno type="ISSN">0167-2681</idno>
+		<imprint>
+			<biblScope unit="volume">108</biblScope>
+			<biblScope unit="page" from="19" to="39" />
+			<date type="published" when="2014-12">2014. December</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main" xml:id="_KWgKPm9">Labor Markets and Poverty in Village Economies*</title>
+		<author>
+			<persName><forename type="first">Oriana</forename><surname>Bandiera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robin</forename><surname>Burgess</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Narayan</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Selim</forename><surname>Gulesci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Imran</forename><surname>Rasul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Munshi</forename><surname>Sulaiman</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/qje/qjx003</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_WWznMRT">The Quarterly Journal of Economics</title>
+		<idno type="ISSN">0033-5533</idno>
+		<idno type="ISSNe">1531-4650</idno>
+		<imprint>
+			<biblScope unit="volume">132</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="811" to="870" />
+			<date type="published" when="2017-03-20">2017</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main" xml:id="_tajrEPY">https://jagroforenviron.com/wp-content/uploads/2025/03/Optimizing-Seed-Production-The-Impact-of-NPKSZn-and-B-on-the-Advanced-Breeding-Line-KBL-155-1.pdf</title>
+		<author>
+			<persName><forename type="first">Ronzon</forename><forename type="middle">Chandra</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Supti</forename><surname>Mallick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Muhammad</forename><forename type="middle">Tanvir</forename><surname>Rahman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tasnufa</forename><forename type="middle">Karim</forename><surname>Zhumur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Md.</forename><forename type="middle">Humayun</forename><surname>Kabir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mohammad</forename><forename type="middle">Azhar</forename><surname>Mahmud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Md.</forename><forename type="middle">Lutfar</forename><surname>Rahman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ananya</forename><surname>Saha</surname></persName>
+		</author>
+		<idno type="DOI">10.55706/jae1803</idno>
+		<ptr target="http://ifmrlead.org/wp-content/uploads/2015/OWC/Targeting%20the%20Hard-Core%20Poor.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_qXZCJED">Journal of Agroforestry and Environment</title>
+		<title level="j" type="abbrev">J. Agrofor. Environ.</title>
+		<idno type="ISSN">1995-6983</idno>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="19" to="26" />
+			<date type="published" when="2011">2011</date>
+			<publisher>Bangladesh Agricultural University</publisher>
+		</imprint>
+		<respStmt>
+			<orgName>Institute for Financial Management and Research</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Working Paper</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main" xml:id="_rUsnRqy">A multifaceted program causes lasting progress for the very poor: Evidence from six countries</title>
+		<author>
+			<persName><forename type="first">Abhijit</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Esther</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nathanael</forename><surname>Goldberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dean</forename><surname>Karlan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Osei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">William</forename><surname>Parienté</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeremy</forename><surname>Shapiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bram</forename><surname>Thuysbaert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Udry</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.1260799</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_pTFbUF7">Science</title>
+		<title level="j" type="abbrev">Science</title>
+		<idno type="ISSN">0036-8075</idno>
+		<idno type="ISSNe">1095-9203</idno>
+		<imprint>
+			<biblScope unit="volume">348</biblScope>
+			<biblScope unit="issue">6236</biblScope>
+			<biblScope unit="page">1260799</biblScope>
+			<date type="published" when="2015-05-15">2015</date>
+			<publisher>American Association for the Advancement of Science (AAAS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main" xml:id="_BYEmVtb">SOME PRACTICAL GUIDANCE FOR THE IMPLEMENTATION OF PROPENSITY SCORE MATCHING</title>
+		<author>
+			<persName><forename type="first">Marco</forename><surname>Caliendo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sabine</forename><surname>Kopeinig</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1467-6419.2007.00527.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_KQMfm56">Journal of Economic Surveys</title>
+		<title level="j" type="abbrev">Journal of Economic Surveys</title>
+		<idno type="ISSN">0950-0804</idno>
+		<idno type="ISSNe">1467-6419</idno>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="31" to="72" />
+			<date type="published" when="2008-01-31">2008</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main" xml:id="_c3WrGhv">Addressing Extreme Poverty in a Sustainable Manner: Evidence from CFPR Programme</title>
+		<author>
+			<persName><forename type="first">Narayan</forename><forename type="middle">C</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Farzana</forename><forename type="middle">A</forename><surname>Misha</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_dfBdfXS">BRAC CFPR Work. Pap</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b8">
+	<monogr>
+		<author>
+			<persName><forename type="first">Narayan</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Faisal</forename><surname>Seraj</surname></persName>
+		</author>
+		<ptr target="https://bigd.bracu.ac.bd/publications/pathways-out-of-extreme-poverty-findings-from-round-i-survey-of-cfpr-phase-ii/" />
+		<title level="m" xml:id="_XhmtfUM">Pathways Out of Extreme Poverty: Findings From Round I Survey of CFPR Phase II</title>
+		<meeting><address><addrLine>Dhaka, Bangladesh</addrLine></address></meeting>
+		<imprint>
+			<publisher>BRAC</publisher>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note>Socio-Demographic Profile 1st ed.</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main" xml:id="_6FcSN79">Diversification in the Rural Employment Structure in West Bengal during the Post Reform Period</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Datta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ratan</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ghosal</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_UcwEWBK">Business Studies</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="136" to="146" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main" xml:id="_qbwWWJe">Causal Effects in Nonexperimental Studies: Reevaluating the Evaluation of Training Programs</title>
+		<author>
+			<persName><forename type="first">Rajeev</forename><forename type="middle">H</forename><surname>Dehejia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sadek</forename><surname>Wahba</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01621459.1999.10473858</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_4QWPQFM">Journal of the American Statistical Association</title>
+		<title level="j" type="abbrev">Journal of the American Statistical Association</title>
+		<idno type="ISSN">0162-1459</idno>
+		<idno type="ISSNe">1537-274X</idno>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="issue">448</biblScope>
+			<biblScope unit="page" from="1053" to="1062" />
+			<date type="published" when="1999-12">1999</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main" xml:id="_fcgTYmC">Rising Consumption of Meat and Milk in Developing Countries Has Created a New Food Revolution</title>
+		<author>
+			<persName><forename type="first">Christopher</forename><forename type="middle">L</forename><surname>Delgado</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/jn/133.11.3907s</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_axpaSQC">The Journal of Nutrition</title>
+		<title level="j" type="abbrev">The Journal of Nutrition</title>
+		<idno type="ISSN">0022-3166</idno>
+		<imprint>
+			<biblScope unit="volume">133</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="3907S" to="3910S" />
+			<date type="published" when="2003-11">2003</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b12">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename></persName>
+		</author>
+		<idno type="DOI">10.1093/jn/133.11.3907S</idno>
+		<imprint>
+			<biblScope unit="page">3907</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main" xml:id="_QSWu9s6">Thinking Small, and Thinking Big about Poverty: Maymana and Mofizul&apos;s Story Updated</title>
+		<author>
+			<persName><forename type="first">David</forename><surname>Hulme</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Karen</forename><surname>Moore</surname></persName>
+		</author>
+		<idno type="DOI">10.57138/qvad8034</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_FvwD6Ku">The Bangladesh Development Studies</title>
+		<title level="j" type="abbrev">BDS</title>
+		<idno type="ISSN">0304-095X</idno>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="69" to="96" />
+			<date type="published" when="2004">2004</date>
+			<publisher>Bangladesh Institute of Development Studies</publisher>
+		</imprint>
+		<respStmt>
+			<orgName>University of Manchester. Institute for development policy &amp; management</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main" xml:id="_Uq6wVBD">Working with the ultra‐poor: learning from BRAC experiences</title>
+		<author>
+			<persName><forename type="first">Shantana</forename><forename type="middle">R</forename><surname>Halder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Mosley</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/jid.1084</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_3YaJCT2">Journal of International Development</title>
+		<title level="j" type="abbrev">J of Intl Development</title>
+		<idno type="ISSN">0954-1748</idno>
+		<idno type="ISSNe">1099-1328</idno>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="387" to="406" />
+			<date type="published" when="2004-03-30">2004</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main" xml:id="_aAfK2QQ">Agency and Empowerment: A Proposal for Internationally Comparable Indicators</title>
+		<author>
+			<persName><forename type="first">Solava</forename><surname>Ibrahim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sabina</forename><surname>Alkire</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/13600810701701897</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_DkfSADe">Oxford Development Studies</title>
+		<title level="j" type="abbrev">Oxford Development Studies</title>
+		<idno type="ISSN">1360-0818</idno>
+		<idno type="ISSNe">1469-9966</idno>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="379" to="403" />
+			<date type="published" when="2007-11-29">2007</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main" xml:id="_V5BSjBs">FAO Progressive Management Pathway for Terrestrial Animal Biosecurity (FAO-PMP-TAB)</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Joshi</surname></persName>
+		</author>
+		<idno type="DOI">10.4060/cd5998en</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_DBBDXh4">The Role of Large Ruminants</title>
+		<imprint>
+			<publisher>FAO</publisher>
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main" xml:id="_dfgqXMH">Impact of Water, Sanitation, and Hygiene Interventions on Improving Health Outcomes among School Children</title>
+		<author>
+			<persName><forename type="first">Ashish</forename><surname>Joshi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Chioma</forename><surname>Amadi</surname></persName>
+			<idno type="ORCID">0000-0003-3143-8091</idno>
+		</author>
+		<idno type="DOI">10.1155/2013/984626</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_9bqgKjS">Journal of Environmental and Public Health</title>
+		<title level="j" type="abbrev">Journal of Environmental and Public Health</title>
+		<idno type="ISSN">1687-9805</idno>
+		<idno type="ISSNe">1687-9813</idno>
+		<imprint>
+			<biblScope unit="volume">2013</biblScope>
+			<biblScope unit="page" from="1" to="10" />
+			<date type="published" when="2013">2013</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b18">
+	<monogr>
+		<title level="m" type="main" xml:id="_Ub9dase">Handbook on Impact Evaluation</title>
+		<author>
+			<persName><forename type="first">Shahidur</forename><forename type="middle">R</forename><surname>Khandker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gayatri</forename><surname>B. Koolwal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hussain</forename><surname>Samad</surname></persName>
+		</author>
+		<idno type="DOI">10.1596/978-0-8213-8028-4</idno>
+		<imprint>
+			<date type="published" when="2009-10-13">2009</date>
+			<publisher>The World Bank</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main" xml:id="_cvag6Nu">How Much Can Asset Transfers Help the Poorest? Evaluating the Results of BRAC&apos;s Ultra-Poor Programme (2002–2008)</title>
+		<author>
+			<persName><forename type="first">Anirudh</forename><surname>Krishna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Meri</forename><surname>Poghosyan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Narayan</forename><surname>Das</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00220388.2011.621942</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_RngY57B">Journal of Development Studies</title>
+		<title level="j" type="abbrev">Journal of Development Studies</title>
+		<idno type="ISSN">0022-0388</idno>
+		<idno type="ISSNe">1743-9140</idno>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="254" to="267" />
+			<date type="published" when="2012-02">2012</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main" xml:id="_U7MKYsr">Are Household Production Decisions Cooperative? Evidence on Pastoral Migration and Milk Sales from Northern Kenya</title>
+		<author>
+			<persName><forename type="first">John</forename><forename type="middle">G</forename><surname>Mcpeak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cheryl</forename><forename type="middle">R</forename><surname>Doss</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1467-8276.2006.00877.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_q5MUTkd">American Journal of Agricultural Economics</title>
+		<title level="j" type="abbrev">American J Agri Economics</title>
+		<idno type="ISSN">0002-9092</idno>
+		<idno type="ISSNe">1467-8276</idno>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="525" to="541" />
+			<date type="published" when="2006-08">2006</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b21">
+	<monogr>
+		<title level="m" type="main" xml:id="_BAMPFxw">Krugman, Prof. Paul Robin, (born 28 Feb. 1953), Professor of Economics and International Affairs, Woodrow Wilson School of Public and International Affairs, Princeton University, since 2000; Centenary Professor, London School of Economics and Political Science</title>
+		<author>
+			<persName><forename type="first">Jonathan</forename><surname>Morduch</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/ww/9780199540884.013.u254875</idno>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>Oxford University Press</publisher>
+		</imprint>
+		<respStmt>
+			<orgName>Princeton University, Woodrow Wilson School of Public and International Affairs, Research Program in Development Studies</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Working Paper 198</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b22">
+	<monogr>
+		<ptr target="https://www.statisticstimes.com/economy/india/indian-states-gdp-per-capita.php" />
+		<title level="m" xml:id="_cyqnAxc">Indian States by GDP per Capita</title>
+		<imprint>
+			<publisher>MSPI</publisher>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main" xml:id="_ZRmkAYx">Nutritional Importance of Animal Source Foods</title>
+		<author>
+			<persName><forename type="first">Suzanne</forename><forename type="middle">P</forename><surname>Murphy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lindsay</forename><forename type="middle">H</forename><surname>Allen</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/jn/133.11.3932s</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_FWab6Ss">The Journal of Nutrition</title>
+		<title level="j" type="abbrev">The Journal of Nutrition</title>
+		<idno type="ISSN">0022-3166</idno>
+		<imprint>
+			<biblScope unit="volume">133</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="3932S" to="3935S" />
+			<date type="published" when="2003-11">2003</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b24">
+	<analytic>
+		<title level="a" type="main" xml:id="_8AE6mDR">Resources at Marriage and Intrahousehold Allocation: Evidence from Bangladesh, Ethiopia, Indonesia, and South Africa*</title>
+		<author>
+			<persName><forename type="first">Agnes</forename><forename type="middle">R</forename><surname>Quisumbing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><forename type="middle">A</forename><surname>Maluccio</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/1468-0084.t01-1-00052</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_sF79XNN">Oxford Bulletin of Economics and Statistics</title>
+		<title level="j" type="abbrev">Oxf Bull Econ Stat</title>
+		<idno type="ISSN">0305-9049</idno>
+		<idno type="ISSNe">1468-0084</idno>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="283" to="327" />
+			<date type="published" when="2003-06-04">2003</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b25">
+	<analytic>
+		<title level="a" type="main" xml:id="_BA6dPfd">Impact assessment of credit programme for the tenant farmers in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Mohammad</forename><forename type="middle">Abdul</forename><surname>Malek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Abu</forename><surname>Ahasan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Md.</forename><forename type="middle">Amzad</forename><surname>Hossain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Md.</forename><forename type="middle">Shakil</forename><surname>Ahmed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marup</forename><surname>Hossain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Md.</forename><forename type="middle">Hasib</forename><surname>Reza</surname></persName>
+		</author>
+		<idno type="DOI">10.23846/ow31222</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_68YeAfX">Impact Assessment of CFPR/TUP: A Descriptive Analysis Based on 2002-2005 Panel Data</title>
+		<imprint>
+			<publisher>International Initiative for Impact Evaluation</publisher>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+		<respStmt>
+			<orgName>BRAC, Research and Evaluation Division</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b26">
+	<analytic>
+		<title level="a" type="main" xml:id="_77dTYed">On Reaching the Hardcore Poor: Some Evidence on Social Exclusion in NGO Programmes</title>
+		<author>
+			<persName><forename type="first">Atiur</forename><surname>Rahman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Abdur</forename><surname>Razzaque</surname></persName>
+		</author>
+		<idno type="DOI">10.57138/hzhd1868</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_vsgbVRy">The Bangladesh Development Studies</title>
+		<title level="j" type="abbrev">BDS</title>
+		<idno type="ISSN">0304-095X</idno>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="35" />
+			<date type="published" when="2000-03-01">2000</date>
+			<publisher>Bangladesh Institute of Development Studies</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b27">
+	<analytic>
+		<title level="a" type="main" xml:id="_tKakQCm">Invited Review: Role of livestock in human nutrition and health for poverty reduction in developing countries1,2,3</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">F</forename><surname>Randolph</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Schelling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Grace</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">F</forename><surname>Nicholson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Leroy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Cole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Demment</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Omore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zinsstag</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ruel</surname></persName>
+		</author>
+		<idno type="DOI">10.2527/jas.2007-0467</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_znjjApm">Journal of Animal Science</title>
+		<idno type="ISSN">0021-8812</idno>
+		<idno type="ISSNe">1525-3163</idno>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="2788" to="2800" />
+			<date type="published" when="2007-11-01">2007</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b28">
+	<analytic>
+		<title level="a" type="main" xml:id="_kRXdeTt">Can ultra-poverty be sustainably improved? Evidence from BRAC in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Wameq</forename><forename type="middle">A</forename><surname>Raza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Narayan</forename><forename type="middle">C</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Farzana</forename><forename type="middle">A</forename><surname>Misha</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/19439342.2012.686046</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_fhrNyum">Journal of Development Effectiveness</title>
+		<title level="j" type="abbrev">Journal of Development Effectiveness</title>
+		<idno type="ISSN">1943-9342</idno>
+		<idno type="ISSNe">1943-9407</idno>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="257" to="276" />
+			<date type="published" when="2012-06">2012</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b29">
+	<analytic>
+		<title level="a" type="main" xml:id="_GSpkxXV">Livestock production and population census in Pakistan: Determining their relationship with agricultural GDP using econometric analysis</title>
+		<author>
+			<persName><forename type="first">Abdul</forename><surname>Rehman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Luan</forename><surname>Jingdong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Abbas</forename><forename type="middle">Ali</forename><surname>Chandio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Imran</forename><surname>Hussain</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.inpa.2017.03.002</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_wDWFq9y">Information Processing in Agriculture</title>
+		<title level="j" type="abbrev">Information Processing in Agriculture</title>
+		<idno type="ISSN">2214-3173</idno>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="168" to="177" />
+			<date type="published" when="2017-06">2017</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b30">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sen</surname></persName>
+		</author>
+		<title level="m" xml:id="_sEPvsc5">Development as Freedom</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b31">
+	<monogr>
+		<title level="m" type="main" xml:id="_chFF5js">Mapping Poverty and Livestock in the Developing World</title>
+		<author>
+			<persName><forename type="first">Philip</forename><forename type="middle">K</forename><surname>Thornton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Kruska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Henninger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Patricia</forename><forename type="middle">M</forename><surname>Kristjanson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robin</forename><forename type="middle">S</forename><surname>Reid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Atieno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Odero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ndegwa</surname></persName>
+		</author>
+		<ptr target="https://cgspace.cgiar.org/handle/10568/915" />
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<publisher>International Livestock Research Institute</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b32">
+	<analytic>
+		<title level="a" type="main" xml:id="_yNz3yvB">World Poverty</title>
+		<author>
+			<persName><forename type="first">Peter</forename><surname>Townsend</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gordon</forename><surname>David</surname></persName>
+		</author>
+		<idno type="DOI">10.46692/9781847425560</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_TnvxZA9">World Poverty: New Policies to Defeat an Old Enemy</title>
+		<imprint>
+			<publisher>Bristol University Press</publisher>
+			<date type="published" when="2002-09-25">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b33">
+	<analytic>
+		<title level="a" type="main" xml:id="_ZNUaNeV">Documents and Reports</title>
+		<idno type="DOI">10.1596/978-1-4648-0484-7_documents_and_reports</idno>
+		<ptr target="https://documents.worldbank.org/en/publication/documents-reports/documentdetail" />
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_7wrrsVr">The World Bank Group A to Z 2016</title>
+		<meeting><address><addrLine>Washington, D.C</addrLine></address></meeting>
+		<imprint>
+			<publisher>The World Bank</publisher>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="page" from="35b" to="35b" />
+		</imprint>
+	</monogr>
+	<note>Text/HTML</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b34">
+	<analytic>
+		<title level="a" type="main" xml:id="_ey3vHSx">World Development Indicators 2008: Poverty Data</title>
+		<idno type="DOI">10.1596/28241</idno>
+		<ptr target="https://data.worldbank.org/indicator/SI.POV.DDAY?locations=IN" />
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_KDNKMvW">World Development Indicators</title>
+		<imprint>
+			<publisher>Washington, DC</publisher>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note>Data Bank</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

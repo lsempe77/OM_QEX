@@ -1,0 +1,1300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" xml:id="_YuKkDNk">“Flypaper effects” in transfers targeted to women: Evidence from BRAC&apos;s “Targeting the Ultra Poor” program in Bangladesh</title>
+				<funder>
+					<orgName type="full">Gender, Agriculture</orgName>
+				</funder>
+				<funder ref="#_TRSePgk">
+					<orgName type="full">Bill and Melinda Gates Foundation</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2015-06-20">20 June 2015</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Shalini</forename><surname>Roy</surname></persName>
+							<email>s.roy@cgiar.org</email>
+							<affiliation key="aff0">
+								<orgName type="institution">International Food Policy Research Institute</orgName>
+								<address>
+									<addrLine>2033K Street NW</addrLine>
+									<postCode>20006</postCode>
+									<settlement>Washington</settlement>
+									<region>DC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jinnat</forename><surname>Ara</surname></persName>
+							<email>jinnat.a@brac.net</email>
+							<affiliation key="aff1">
+								<orgName type="department">BRAC</orgName>
+								<address>
+									<addrLine>75 Mohakhali</addrLine>
+									<postCode>1212</postCode>
+									<settlement>Dhaka</settlement>
+									<country key="BD">Bangladesh</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Narayan</forename><surname>Das</surname></persName>
+							<email>narayan.cd@brac.net</email>
+							<affiliation key="aff1">
+								<orgName type="department">BRAC</orgName>
+								<address>
+									<addrLine>75 Mohakhali</addrLine>
+									<postCode>1212</postCode>
+									<settlement>Dhaka</settlement>
+									<country key="BD">Bangladesh</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Agnes</forename><forename type="middle">R</forename><surname>Quisumbing</surname></persName>
+							<email>quisumbing@cgiar.org</email>
+							<affiliation key="aff0">
+								<orgName type="institution">International Food Policy Research Institute</orgName>
+								<address>
+									<addrLine>2033K Street NW</addrLine>
+									<postCode>20006</postCode>
+									<settlement>Washington</settlement>
+									<region>DC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main" xml:id="_V4bAyhV">“Flypaper effects” in transfers targeted to women: Evidence from BRAC&apos;s “Targeting the Ultra Poor” program in Bangladesh</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main" xml:id="_XDCutgR">Journal of Development Economics</title>
+						<title level="j" type="abbrev">Journal of Development Economics</title>
+						<idno type="ISSN">0304-3878</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">117</biblScope>
+							<biblScope unit="page" from="1" to="19"/>
+							<date type="published" when="2015-06-20">20 June 2015</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">BDB7589FDA5B024875B572E0CEA5976D</idno>
+					<idno type="DOI">10.1016/j.jdeveco.2015.06.004</idno>
+					<note type="submission">Received 7 January 2014 Received in revised form 9 June 2015 Accepted 16 June 2015</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2025-11-04T18:52+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a292bac</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=1, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=true, generateTeiCoordinates=[true], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords xml:id="_DptFSgC">Gender Asset transfer Targeting Intrahousehold dynamics Empowerment Impact evaluation Bangladesh</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_vbMPJsQ"><p xml:id="_QKfvQ5W">Many development interventions target transfers to women. However, little evidence directly explores the "flypaper effects" of whether women retain control over these transfers once within the household and how reallocation of the transfers affects women's empowerment. We study these dynamics in the context of BRAC's randomized CFPR-TUP program in Bangladesh, which provides livestock and training to rural women in "ultra poor" households. Our analysis confirms previous findings that CFPR-TUP increased household asset ownership, but shows complex effects on targeted women. Women appear to retain ownership over transferred livestock, but new investments from mobilized resources are largely owned by men. CFPR-TUP also reduces women's movement outside the home and control over income, consistent with transferred livestock requiring maintenance at home. However, beneficiary women also report "intangible" benefits such as increased social capital and, even with limited mobility, a preference for work inside the home given a hostile environment outside the home.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="10" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="11" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="12" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="13" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="14" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="15" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="16" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="17" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="18" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="19" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1." xml:id="_ZW9CxeP">Introduction</head><p xml:id="_gXRv2Sa">Many development interventions target transfers of resources to women. <ref type="bibr">1</ref> This design feature is typically motivated by research that shows greater resource control by women can improve both women's own intrahousehold bargaining position and their children's health, nutrition, and education outcomes (e.g., see reviews in Quisumbing, 2003;  Yoong et al., 2012). However, it is important to note that transferring resources to an individual does not necessarily guarantee that the individual's overall resource control will increase. For example, another household member could take over control of the resources once transferred, or other resources previously in the targeted individual's control could be reallocated away in response to the transfer. In effect, although an intervention may target an individual for the resource transfer, intrahousehold dynamics may determine how resources are eventually allocated, and the effect on the targeted individual may be theoretically ambiguous.</p><p xml:id="_48MHVUH">Moreover, evidence showing individuals within households may not share preferences or pool resources (e.g., Behrman, 1997; Haddad et al.,  1997; Schultz, 2001; Strauss and Thomas, 1995) suggests that the intrahousehold resource allocation across individuals does matter. Theoretical models of household decisionmaking, ranging from bargaining models (Manser and Brown, 1980; McElroy, 1990; McElroy  and Horney, 1981) to partly noncooperative models (e.g. Lundberg  and Pollak, 1993) predict a relationship between individual resource control and bargaining power. In particular, the "threat point" of individuals within a household (or union)that is, their utility from leaving the householdmay determine their decision making power within the household. This threat point may be affected by resources controlled independently by each individual (which could be taken if leaving the household), as well as extra-environmental parameters that affect the desirability of leaving the household (laws governing the labor markets, marriage, and divorce) (McElroy, 1990). Empirical work shows support for this dynamic (Doss, 1999; Fafchamps,  Kebede, and Quisumbing, 2009; Quisumbing and Maluccio, 2003;  Thomas et al., 1997). This implies that since a transfer could either increase the relative resource control of the targeted individual (for example, if she retains control of it, all else equal) or decrease it (for example, if her spouse takes control of it, all else equal), how a targeted transfer affects intrahousehold bargaining is an empirical question.</p><p xml:id="_hag6gbg">These issues and their implications for program effects on intrahousehold dynamics have been relatively unexplored in the empirical literature. Although there is a literature on intrahousehold "flypaper effects"that is, whether a targeted transfer "sticks" to the targeted individualthis has generally been in the context of feeding programs targeted to children. For example, an early review of feeding programs (Bheaton and Gassemi, 1982) found that parents may compensate for food or supplements targeted toward specific members of the household by reducing at-home food consumption for those members, or by sharing take-home rations among other (non-targeted) household members. In the evaluation of the first phase of Mexico's PROGRESA, a forerunner of many conditional cash transfer programs, one of the most serious operational problems found in the health component (Adato et al., 2000a) was that the targeted infants and young children received only a fraction of the nutrients that the program intended to provide, mostly because the supplement was shared within the household.</p><p xml:id="_cHnBqW5">Very few studies directly explore these "flypaper effects" in the context of asset transfers targeted to womenthat is, explore whether asset transfers targeted to women in fact remain in their control, increase their overall resource control, and eventually increase their bargaining position and empowerment. <ref type="bibr">2</ref> We study these dynamics in the context of BRAC's "Challenging the Frontiers of Poverty Reduction -Targeting the Ultra Poor" (CFPR-TUP) program in Bangladesh, a randomized intervention which targets asset transfers (primarily livestock) and provides training to rural women in "ultra poor" households. Previous research on the CFPR-TUP (for example, Krishna et al., 2012 and  Emran et al., 2014 on the first phase; Bandiera et al., 2012 and  Bandiera et al., 2013 on the second phase) has shown large positive household-level program impacts, with documented increases in households' overall food expenditure, rates of self-employment and labor force participation, as well as household-level ownership of productive assets. However, there has been little exploration of how the targeted transfer as well as other assets were reallocated within the household and how this in turn shaped intrahousehold dynamics.</p><p xml:id="_xrN4mKj">Although CFPR-TUP transfers resources to and provides training to women, the program's explicit intention is not to promote women's asset ownership. Instead, its aim is to build the asset base of poor households as an aggregate unit, by providing rural womenfor whom sociocultural norms favoring female seclusion prescribe staying within the homesteadwith assets that can be maintained at home. However, given the targeting, there are several ways in which CFPR-TUP could plausibly shift dynamics within the household through asset transfer.</p><p xml:id="_rD33Cdw">The primary mechanism we focus on is that the program could change relative resource control across individuals within the household, with implications for intrahousehold decisionmaking as predicted by bargaining models. As highlighted above, the direction in which the program changes the targeted woman's relative resource control is theoretically ambiguous. If the transferred asset "sticks to" the targeted woman (that is, remains in her ownership and control), all else equal, her greater control of resources in the household could increase her relative bargaining position. Given that CFPR-TUP directed the training on asset management toward women (albeit without stating explicitly that the asset should be "owned" by women), it is plausible that women would retain control. However, women's retention of the transferred asset is not a guarantee; the transferred asset could be diverted. Although there is little evidence on these dynamics in the context of asset transfers, there is suggestive evidence for intrahousehold diversion of resources targeted to women across literature on agriculture commercialization, conditional cash transfers, and microfinance. <ref type="bibr">3</ref> Even if the asset is not physically taken from the woman, she may not retain all dimensions of "control" over the transferred asset. This scenario is particularly likely if the woman's assertion of certain control rights over the asset goes against traditional gender norms and creates conflict within the household. In a context such as rural South Asia, where patriarchal norms and lack of social safety nets may make it challenging for women to live outside of a union (Brule, 2012), there may be incentive for women to give up certain control rights in order to "keep the peace." This dynamic is also plausible in the context of CFPR-TUP. Since most of the assets transferred to women were cattle, which socioculturally are considered "men's assets" in rural Bangladesh, it would be a transformation of traditional gender roles for women to take over all control rights such as using proceeds from cattle.</p><p xml:id="_bcGYZ63">On the other hand, if the program leads to another household member (for example, the targeted woman's husband) gaining control of resources relative to the woman, the targeted woman's relative bargaining position could in fact worsen. One such scenario is if the targeted transfer does not "stick" with the woman, say if the woman's husband takes over control of the transferred asset as described above. Another is if income generated from the transferred asset is used to buy additional assets, which are considered to be owned and controlled primarily by another household member rather than the woman. These assets could include agricultural productive assets, non-agricultural productive assets, consumer durables, and land, many of which are also typically considered "men's assets" in rural Bangladesh. Again, if subverting gender norms creates conflict and if the external environment is hostile to women being single, the woman may voluntarily give up control of these other assets to "keep the peace" and remain in the union.</p><p xml:id="_ajK6GBH">Control over resources could also be affected indirectly by the asset transfer if it changes women's movements outside the homestead. Less movement outside the home may imply less ability to physically control resourcesfor example, to visit markets and purchase goods using income earned from the assets. If another member of the household (such as the woman's husband) takes over this dimension of control over resources, there may be a shift in intrahousehold dynamics. There are at least two ways in which the program could reduce women's movement outside the home. First, because the assets themselves (mostly livestock) require maintenance at home, they have potential to shift the location of women's work and their time allocation from outside to inside the home. Second, because of sociocultural stigma against women working outside the home and unfavorable employment conditions for women (lower wages, harrassment, etc.), evidence suggests that it is common in Bangladesh for women in poorer households to work outside the home out of necessity, while women in slightly better off households stay within the home, in part to indicate status (BRAC RED, 2009). In this context, if the asset transfer makes the targeted woman's household less poor overall, the woman's perceived need to work outside the home may itself change.</p><p xml:id="_PRSQG8H">Although we are not able to rigorously disentangle these mechanisms, in this paper, we focus on exploring the relative resource control of targeted women and other household members, as well as various dimensions of intrahousehold dynamics. We examine who within the household has perceived ownership over various assets (both transferred and acquired through other means), how perceived ownership translates to rights, and how the program's effect on these dynamics <ref type="bibr">2</ref> Although there has been considerable exploration of the empowerment effects of conditional cash transfer programs (e.g., Adato et al. (2000b), Attanasio and Lechene (2002), de Brauw et al. (2014), Duflo (2000, 2003)), the focus has been more on estimating overall impacts of transfers on women's bargaining power or decisionmaking and less on exploring how control over the transfer itself was allocated within the household. Flypaper effects are more challenging to detect with cash transfers, as cash is fungible and more difficult to trace across household members than physical assets. Perhaps the most closely related work comes from laboratory or field experiments simulating transfer programs (Ashraf, 2009; Castilla and Walker, 2013), although the focus of these studies was on how spousal observability affects the allocation and use of transfers by husbands and wives.</p><p xml:id="_KNctmpY">within the household translate to effects on decisionmaking and other measures of wellbeing for various household members. Our analysis draws on survey data from a randomized controlled trial, with information collected on sex-disaggregated asset ownership and control, decisionmaking, and measures of women's autonomy. We complement our analysis by drawing on qualitative work (Das et al, 2013), based on focus group discussions and key informant interviews in treatment and control communities that explored the sociocultural context and beneficiaries' own perceptions of impacts from the asset transfer program.</p><p xml:id="_wVFtfyw">While our analysis confirms previous findings that the program significantly increases household-level asset ownership, it reveals new findings of ambiguous effects for the targeted individual in terms of ownership and control over various assets and decision making. Results do indicate that the transferred asset tends to remain under the targeted woman's ownership and control. In particular, for livestockthe primary assets transferredthe program slightly increases ownership by men but causes much larger increases in sole or joint ownership by women. These increases in women's livestock ownership are associated with some increases in women's control over the livestock, including the right to sell cattle, which is particularly notable because high-value livestock such as cattle are typically perceived as "men's assets" in the local context. However, we also find increases in household ownership of many other assets (not directly transferred by the program), which tend to be solely owned by men. For example, the program causes increases in men's sole ownership of many types of agricultural productive assets, non-agricultural productive assets, consumer durables, and land. For these assets, women tend not to experience increases in sole or joint ownership, and the ownership they do perceive is not associated with most dimensions of control, although they likely experience increases in the right to use some of the assets. These results suggest that when households make investments in new assets (rather than those transferred) due to the program, these assets are typically owned solely by men. Additionally, we find that the program does not change the proportion of women who work but does shift work from outside to inside the home, plausibly because the transferred asset (livestock) needs to be maintained within the homestead and potentially reducing mobility. Moreover, the program significantly decreases women's voice in a range of decisionsincluding control over their own income, purchases for themselves, and decisionmaking for household budgeting. These reductions are consistent with economic models that link individuals' relative control over resources to their intrahousehold bargaining position.</p><p xml:id="_NapDhyQ">To complement the quantitative findings, we highlight insights from the qualitative work that was part of the overall study (Das et al, 2013). Qualitative findings are closely aligned with quantative findings in terms of program impacts on ownership and control of assets, as well as on mobility. Female beneficiaries report retaining control and management of the transferred assets, with little evidence of program assets being taken over by husbands or other male household members. Qualitative findings also confirm that women's mobility outside the home has been reduced by the program, due in part to the need for maintaining the transferred asset at home and associated increased workloads. However, in the perceptions of targeted women themselves, the program's impact appears to be largely positive. In particular, the qualitative work suggests there were many "intangible" benefits to women that could not be easily explored quantitatively. For example, the training and support provided by the program, in addition to the improvement in economic circumstances, allowed women to gain confidence and increase social capital. Qualitative findings also highlight that work opportunities outside the home for poor women are often so poorly paid and stigmatizing given local norms of female seclusion that most beneficiary women preferred forgoing these in favor of generating income at home, even with the tradeoff of reduced mobility and increased workload. Finally, while the quantitative work found that the program reduced women's voice in household decisions, the qualitative work suggests that women themselves tended not to frame their own empowerment in terms of individual rights or material gains.</p><p xml:id="_6dQsbYV">Rather, when asked about impacts of the program, they tended to describe more intangible outcomesfor example, feeling improved social status in the community and household simply by contributing to improving the economic condition of the household, taking satisfaction in being able to send children to school, etc.</p><p xml:id="_axSqA79">Overall, our findings suggest that although the targeted livestock transfer appeared to stay with women, relative control over resources may have moved more toward men. This appears to have had considerable program impacts on intrahousehold dynamics, with mixed implications for the targeted women and with sociocultural context playing an important role in how women themselves perceive its impacts. More generally, the findings highlight that targeting an intervention to an individual may not guarantee benefits to that individual given intrahousehold responses, and that programs may have complex and somewhat ambiguous intrahousehold impacts even if they quite unambiguously increase welfare of the household in aggregate.</p><p xml:id="_jkV7Fv7">The paper proceeds as follows. Section 2 describes the program and its context in more detail. Section 3 describes the data collected in order to evaluate the program, including information on gender dynamics and assets. Section 4 describes our evaluation approach, which takes advantage of the program's randomized design. Section 5 presents estimates of program impacts on intrahousehold dynamics related to gendered asset ownership and decisionmaking, with additional insights from the qualitative work. Section 6 summarizes the findings and concludes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2." xml:id="_nP9cPQv">Description of program and program context</head><p xml:id="_6nxCGmQ">In 2002, BRAC initiated the first phase of a large-scale grant-based program in rural Bangladesh called "Challenging the Frontiers of Poverty Reduction -Targeting the Ultra Poor" (CFPR-TUP or CFPR). BRAC designed CFPR based on several observations regarding the rural poor in Bangladesh: (i) poor households often lack both physical capital and skills, (ii) although men in rural Bangladesh typically work outside the home, women are perceived to typically stay on the homestead due to sociocultural norms, and (iii) while there have been many programs in rural Bangladesh directed toward women through women's groups, the ultra-poor are marginalized.<ref type="foot" target="#foot_2">foot_2</ref> CFPR thus provided a transfer of productive assets and training to women in ultra-poor households, selecting assets that could be used for income generating activities on the homestead, with the aim of sustainably increasing the households' economic and social capabilities. The first phase of CFPR ran from 2002-2006 and included 100,000 households from the poorest three districts in Bangladesh (Rangpur, Nilphamari, and Kurigram). Because selection into CFPR Phase I was targeted to particular types of households, evaluation of the program required a non-experimental methodology, with beneficiaries compared to a similar but non-random group of non-beneficiaries. Evaluations using these non-experimental methods (Das and Misha, 2010; Emran et al., 2014; Krishna et al.,  2012) suggested that program participation caused significant improvements in the livelihoods of ultra-poor households, even if it did not have a significant impact on women's empowerment, based on a limited set of measures (Emran et al., 2014). <ref type="bibr">5</ref> Based on these promising findings, a second phase (2007-2011) was launched, with expanded coverage and a design that would provide a strong basis for impact evaluation.</p><p xml:id="_kbCBRwp">This paper focuses on the second phase of the CFPR program, which ran from 2007-2011 and followed a randomized control trial (RCT) evaluation design. CFPR Phase II offered two different support packages to the ultra poor, based on household characteristics: a grant-based package for households characterized as the "Specially Targeted Ultra Poor" (STUP) and a "credit-plus grant" package for households characterized as "Other Targeted Ultra Poor" (OTUP). In this paper, we focus on the STUP program.</p><p xml:id="_tKy2FYX">STUP was allocated according to a cluster randomized control design. Within the 13 districts where the program was rolled out in the year 2007, one or two upazilas (subdistricts) from each district were randomly selected. Within each of the upazilas, two BRAC branch offices were randomly selected (see Fig. <ref type="figure">1</ref>). <ref type="bibr">6</ref> One of these branch offices was randomly assigned to treatment and the other branch office to control. Thus, receipt of STUP was pairwise-randomly assigned at the level of branch offices, stratified by upazila. The randomization led to 20 treatment branch offices and 20 control branch offices. In treatment branch offices, coverage by STUP of eligible households extended to the coverage of the office location.</p><p xml:id="_yarghKc">In both treatment and control branch offices, eligible households were identified through a wealth ranking exercise called Participatory Rural Appraisal (PRA), followed by a visit to the household by program staff to verify information. PRA (Chambers, 1994) allowed the community to identify households it considered to be in the bottom wealth ranks, referred to as the "community defined extreme poor."</p><p xml:id="_V5faNN7">Households falling in the category of "community defined extreme poor" were then visited to check requisite inclusion and exclusion criteria. To be eligible, STUP members must have met these criteria, described in Bandiera et al (2013). There were three exclusion criteria, all binding. If a household (i) was already borrowing from an NGO providing microfinance, (ii) was participating in a mainstream government anti-poverty program, or (iii) had no adult women among its members, then it was automatically excluded from the program. Furthermore, to be selected, a household had to satisfy three of the following five inclusion criteria: (i) total land owned including the homestead was not more than 10 decimals (100 decimals = 1 acre); (ii) there was no adult male income earner in the household; (iii) adult women in the household worked outside the homestead; (iv) school-going-aged children had to work; and (v) the household had no productive assets. <ref type="bibr">7</ref> A final round of verification was carried out by high-level BRAC staff to generate the final list of households eligible for CFPR STUP support. The program was carefully designed to minimize anticipation effects or contamination effects in the control group. Bandiera et al (2012) describe that the control group households were not told that they were the control for a study or that they would later receive a program, and the PRA exercise was justified to them as part of BRAC's regular activities since BRAC already operated in the selected communities. <ref type="bibr">9</ref> They also describe that the unit of randomization was chosen to be BRAC branch offices rather than communities to minimize contamination risk, both because neighboring communities within a branch office were closer together than neighboring branch offices (about 12 km apart) and because it minimized risk that program officers based at the branch would not follow the randomization.</p><p xml:id="_xEdaxSg">Only in STUP treatment branch offices, women in households deemed eligible received the following: productive asset transfers for income generating activities on the homestead (such as cows or goats for livestock rearing, chickens or ducks for poultry rearing, etc); training on use of the productive assets for income generating activities (IGAs); a subsistence allowance of approximately 175 taka (about US $2.50) per week; close supervision from program staff; health support (such as free medical treatment, regular visits by the health volunteers (Shasthyo Shebika) for preventive disease); and social development initiatives (community support, awareness raising training). Assets were transferred in 2007-2008. <ref type="bibr">10</ref> The program provided various combinations of productive assets (such as two cows, or a cow and five goats, similarly valued at about 9500 Taka or US$140, according to Bandiera  et al (2013)). Approximately 90% of households received at least one cow. The type of asset transferred to each participant household from the pre-specified assets depended on the capability and willingness of the participants to engage in the associated income generating activities, and suitability of the geographical locations for livestock-raising. The purpose of providing a subsistence allowance was to compensate beneficiaries' opportunity cost of time spent maintaining the IGAs until maturity and helping smooth households' consumption, as well as to deter beneficiaries from selling off the transferred assets to meet immediate consumption needs. This allowance was provided to beneficiaries for 8 to 12 months depending on the type of IGA undertaken.</p><p xml:id="_VpJ2duf">While the asset transfer and other program assistance were targeted to women in the household, and while BRAC program staff encouraged women to use the assets for IGAs rather than selling them off, there was no explicit instruction regarding who in the household should have control and ownership rights over the assets and how income generated from the assets should be allocated within the household. In fact, program documents state that the objective of the program was to build up asset ownership of the household in aggregate, not specifically to increase assets owned exclusively by women. In particular, while women were designated responsible for maintaining the asset, the program did not require that women participate in such decisions as whether to sell or rent the asset, how to use income generated from the asset, etc. Rather, intrahousehold dynamics determined these factors. Our focus in this paper, therefore, is exploring these intrahousehold dynamics.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3." xml:id="_4uM699R">Evaluation design and data</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1." xml:id="_TZESSsP">Main impact evaluation survey</head><p xml:id="_mfNTrPK">From 2007-2011, the BRAC Research and Evaluation Division (RED) collected panel data on households across both treatment and control branch offices in order to evaluate impacts of the STUP package. <ref type="bibr">11</ref> This data collection included three rounds: 2007 (baseline, prior to the start of intervention), 2009 and 2011. It focused primarily on household-level information, covering quantitative socioeconomic and health data. The sample included all households determined to be eligible per the PRA and verification, in each of the 20 treatment branch offices and in each of the 20 control branch offices. The overall sample across all 40 branch offices spanned 1409 communities (villages or parts of villages). At the time of the baseline survey in 2007, the sample included 7953 eligible households over treatment and control groups. <ref type="bibr">12</ref> By the 2011 round, 6919 households were successfully followed up, representing 13% attrition from baseline. Details regarding the sampling design and baseline balancing in characteristics of treatment and control households for the main impact evaluation are found in Bandiera  et al. (2013).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2." xml:id="_sGrwVQQ">Gender and assets follow-up 3.2.1. Qualitative study</head><p xml:id="_HWcHFSH">While the socioeconomic and health data included information on asset ownership at the household level, it did not include details on which individuals in the households owned and controlled these assets. In preparation for fielding a quantitative follow-up focusing on gender and assets, in February-June 2011, a small qualitative study was conducted in order to guide and complement the upcoming quantitative data collection. This qualitative study aimed to inform the development of the quantitative instruments for the 2012 survey, as well as provide insights into the prevailing local patterns of intrahousehold asset ownership and on respondents' perceptions of gendered impacts of the project. Details of the qualitative study are described in Das et al (2013). Fifteen focus-group discussions were conducted by BRAC RED in three districts (a subset of those included in the quantitative survey) and included groups of only female participants in beneficiary households, groups of only male spouses in beneficiary households, groups of only females from non-beneficiary households, and groups of only males from non-beneficiary households. In addition, in each treatment branch office in each of the three districts, two key-informant interviews were conducted: one with the CFPR-TUP Program Organiser and one with the local Gram Daridro Bimochon Committee (GDBC) member who had long-term experience with the program. Fieldwork was conducted in Bangla, and analysis of the qualitative data was conducted using QSR nVivo 9 based on English translation of the transcripts.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.2." xml:id="_hdgnzPh">Quantitative gender and assets follow-up</head><p xml:id="_UKk37Jf">The follow-up quantitative survey was fielded in January-April, 2012, focusing on gender and assets, including detailed questions on sex-disaggregated ownership and control over a large range of assets, dynamics of intrahousehold decision making, and women's autonomy. The present authors contributed to the design and implementation of this follow-up. The design of the gender and assets survey instrument drew extensively on preliminary findings from the qualitative work. For example, the list of assets included several that may not be commonly thought of as major assets but that were named as being often "owned" by and important to women. These included consumer durables (such as jewelry, sarees, and cooking implements), which can serve as stores of value as well as be important factors in acquiring other forms of capital (e.g., having suitable clothes or a space in the home considered a "living room" may be important in developing social capital).</p><p xml:id="_v5zNYBr">Based on the qualitative work, a distinction was also made in the quantitative instrument between having "ownership" and specific "control rights" over assets. In particular, because it appeared that the notion of ownership did not translate to a fixed set of control rights and in some cases differed by asset, the two categories were considered separately. <ref type="bibr">9</ref> It was originally intended that the control group would start receiving the program in 2011 (Bandiera et al (2012)), however this did not occur until after completion of the 2012 follow-up data collection used in this paper. <ref type="bibr">10 Bandiera et al (2013)</ref> note that different households received assets at slightly different times during program roll-out across spots within a branch. We do not have access to records of the exact date on which assets were transferred to each household. <ref type="bibr">11</ref> .</p><p xml:id="_JwRDDEF">In the follow-up quantitative survey, respondents were allowed to use whatever their own notion was of ownership to characterize who owned each asset, while they were additionally asked about certain control rights over the asset. We focus on three specific dimensions of control rights in our analysis: (1) the right to use the asset: the use of an asset may increase an individual's well-being in various intangible ways (for example, use of good clothes improving self-esteem or social status), irrespective of whether the individual has any other rights over the asset; (2) the right to sell the asset: this dimension captures alienation rights, characterized as the defining feature of ownership in the property rights literature (Schlager and Ostrom, 1992); and (3) the right to decide how to use income generated from the asset: this dimension of rights may link most concretely to the individual's ability to obtain tangible economic benefits from the asset. <ref type="bibr">13</ref> Based on qualitative insights, the quantitative survey also allowed for not only "sole" ownership of assets by single individuals but for joint ownership across several individuals. Questions were asked such that two different indicators could be analyzed for women's role in ownership and control: whether women had "sole" ownership or control, as well as whether they had "any" ownership or control (sole, joint with spouse, joint with other household members, or joint with household as a whole).</p><p xml:id="_YxT7ujs">Because this follow-up survey focused on how the program affected dynamics in households headed by a male and female partnership, the sample was restricted to households either with a male household head and female spouse, or with a female household head and male spouse. Attempts were made to re-interview all households included in the baseline round that met these criteria. At baseline, of the 7953 eligible households interviewed in total over treatment and control groups, 7392 households met these criteria. Of these, 6066 households were successfully followed up in the gender and assets survey -3467 treatment households and 2599 control householdsrepresenting 18% attrition from the baseline sample. In all sampled households for the gender and assets survey, the primary respondent was the "main female" member of the household (either the female head or the female spouse of male head). Appendix Table <ref type="table">A</ref>.1 shows this breakdown in further detail.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3." xml:id="_EEwNAYU">Sample attrition</head><p xml:id="_F27nsc3">As we note above, there was considerable attrition between the baseline round in 2007 and the follow-up round in 2012. Our analysis indicates that attrition is slightly but significantly correlated with baseline characteristics of households and individuals that may also be correlated with our outcomes of interest. <ref type="bibr">14</ref> The following characteristics are linked to higher probability of a household attriting from the sample between baseline and follow-up: being a treatment household; living in a "dilapidated" home at baseline; owning land; not owning its home; owning more saris; owning fewer goats/sheep; owning agricultural assets such as a pump; and living in certain branch offices. These correlates are generally in line with reports from the field that the high rate of non-response in the January-April 2012 round was because these months coincided with the "boro" planting and harvesting season in Bangladesh, when rural households become particularly busy. It is roughly consistent with this story that, all else equal, households with land and more agricultural assets were more likely to be busy, while somewhat better off households (those with better homes, for example) were slightly less busy, for example if they were able to hire labor rather than serving as day laborers themselves. In any case, given that attrition appears to be non-random, we account for it in order to minimize bias in impact estimates. We do so by constructing inverse probability weights for each set of outcomes we study (asset ownership and control by men and women, decisions on work and expenditures, impacts on livelihoods), following the methodology of Fitzgerald et al.  (1998).</p><p xml:id="_YTrhxeY">Once attrition weights are incorporated, we find that household characteristics of our endline sample appear to no longer be systematically correlated with treatment status at baseline. Table <ref type="table" target="#tab_0">1</ref> presents baseline means for characteristics of treatment and control households that remain in the sample for the 2012 follow-up round, as well as statistical significance of the differences between groups. Results indicate that these samples are balanced at baseline once attrition weights are applied.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4." xml:id="_WRQVtGX">Evaluation approach</head><p xml:id="_CCaKKfR">Our approach to evaluating impacts of the STUP intervention on gender and asset outcomes takes advantage of the RCT design of the intervention. We wish to estimate the average difference between the outcomes of beneficiaries assigned to receive the program and the counterfactual outcomes of those same beneficiaries had they not been assigned to the program. While it is not possible to directly <ref type="bibr">13</ref> As defined by Schlager and Ostrom (1992), p. 251"the alienation right is a collectivechoice right permitting its holder to transfer all or part of the collective choice rights to an individual or to another group. Exercising a right of alienation means that an individual sells or leases the rights to management, exclusion, or both." <ref type="bibr">14</ref> Estimates of the probability of staying in the non-attrited sample are shown in observe counterfactual outcomes, outcomes of the randomized control group in this study can serve as a reasonable proxy. The randomized assignment of a large sample of eligible households to treatment and control groups helps to ensure that observable and unobservable characteristics of the households were likely balanced across the two groups at baseline. In the absence of nonrandom attrition, any differences between the treatment and control households at follow-up could then be interpreted as causal impacts of the program. As we show in Section 3, there was in fact considerable attrition in our sample by the 2012 follow-up; however, the use of inverse probability attrition weights balances a large set of observable baseline household characteristics across treatment and control groups in our non-attrited sample. With these attrition weights incorporated, any significant differences in outcomes between the non-attrited treatment and control groups in 2012 can reasonably be interpreted as attributable to the program.</p><p xml:id="_3MK6CQ5">We note that ideally we would have preferred to have baseline information on all our key outcomes, such that we could empirically confirm balancing in these indicators as well and use doubledifference or ANCOVA estimates to account for any small differences in baseline values to improve precision of estimates. Because the baseline survey from the main impact evaluation did not contain information on our outcomes of interest related to intrahousehold dynamics, use of baseline information to explore impacts on these outcomes was not possible. However, given that the treatment was randomly assigned and that we find balancing in a large set of observable characteristics available at baseline with sample attrition weights incorporated, concern over baseline differences is minimized. As a further robustness check, we also estimate Lee (2009) attrition bounds in our main results.</p><p xml:id="_hKs6wa9">We also note that our estimates of impact are average "intent to treat" impacts of the STUP intervention, relying on the randomized assignment to avoid any bias due to self-selection in takeup. However, because the takeup rate of the program was quite high, close to 90%, these intent to treat estimates are likely close approximations to average treatment effects on the treated.</p><p xml:id="_yXFpXyE">The basic specification for single-difference estimation is as follows, for a household i in branch office b, with each outcome measure denoted as Y ib the branch office's treatment indicator denoted as Treatment b , and the error term denoted as ε ib : Y ib = β 0 + β 1 * Treatment b + ε ib . We estimate this specification accounting for inverse-probability attrition weights on each observation of household i in branch office b.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5." xml:id="_4BABVqn">Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.1." xml:id="_j6ErfvH">Norms of gendered asset ownership</head><p xml:id="_pFsg28u">Understanding local gender norms regarding livestock ownership is useful in interpreting our impact estimates. The qualitative work in this study (Das et al, 2013) indicated strong gender norms in rural Bangladesh regarding ownership of livestock, the main type of asset transferred by BRAC. Focus group discussions indicated that small livestock such as poultry were typically seen as belonging to womenbecause poultry were kept near the homestead and usually fed and managed by women, because poultry keeping was a low-value and low-status economic activity, and because poultry were more likely than high-value livestock to be bought or sold informally without the need to be taken to markets (daily "bazaars" or weekly "haats") that were seen as "men's places." Meanwhile, larger livestock such as cattle were typically perceived as belonging to men. While they were also kept near homesteads and mostly tended and managed by women, they were both higher in value and more often traded in markets, such that their sale usually required an adult male's consent and help. Respondents tended to perceive nonlivestock assets as belonging to men or women depending on whose activities they were more closely associated with. Assets associated with male income generation, particularly away from the homesuch as cultivation equipmentwere perceived as nearly exclusively controlled and "owned" by men. Assets associated with women's workfood preparation and cookingwere perceived as managed by women and sometimes lent, bought, or sold without a husband's permission. These patterns suggest that, among the assets transferred to women, the most valuable livestock assetscattlewere typically considered assets owned by men in the study setting. Lower-value transferred assets of poultry were more typically considered assets owned by women. Moreover, most assets other than livestock that could be used away from the home and were not transferred by the programsuch as equipment used for agricultural productionwere typically perceived as owned by men. To provide further context for the program impacts we estimate below, we also present descriptive statistics in Appendix Tables A.3-A.8 for all our key outcomes, as measured in the control group in the quantitative follow-up round. The mean values shown for the control group, accounting for attrition weights, represent what the mean counterfactual situation would have been for the treatment group in the absence of the program, in terms of men's and women's asset ownership, women's work, and decisionmaking about women's income and household expenditures.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.2." xml:id="_JMR7W9A">Assets received by beneficiary households</head><p xml:id="_8qwRAar">As additional context for understanding program impacts, it is useful to summarize the assets that beneficiary households received. <ref type="bibr">15</ref> Unfortunately we do not have access to the program's records on what package of assets was transferred to each household. However, in our 2012 round, we did attempt to collect beneficiaries' self-reports on what was transferred in 2007-2008 via recall. This information is missing for about 15% of treatment households in the sample. Of the 85% of treatment households in the sample for which we have information, 92% of the households report receiving a cow, while only 8% report not receiving a cow, consistent with what we know of the program. Table <ref type="table" target="#tab_2">2</ref> summarizes these details. <ref type="bibr">16</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.3." xml:id="_YmJBzMH">Program impacts</head><p xml:id="_HCANKUd">As described above, in all of our impact estimates, we estimate single-difference estimates, taking into account attrition weights. We moreover adjust standard errors to account for the intervention design and survey design. In particular, our estimates account for the stratification of randomization at the upazila level and the cluster-level randomization at the branch office level.</p><p xml:id="_Fy8QkZn">Our discussion of the impact estimates proceeds from immediate impacts of BRAC's asset transfer on intrahousehold asset ownership and control, to "downstream" impacts on work and decisionmaking that may arise because of the asset transfer.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.3.1." xml:id="_G6AaneK">Impacts on intrahousehold ownership of livestock assets</head><p xml:id="_GYtemxs">Because the program transfers livestock assets to ultra-poor households, we expect that the most direct impact of the program will be on the ownership of the transferred assets themselves, namely livestock. <ref type="bibr">17</ref> However, it is not straightforward whether transferring livestock to women will lead to ownership of livestock remaining with women, or instead to livestock ownership being taken over by another household member. We begin by exploring these dynamics.</p><p xml:id="_QY99fwm">For each type of livestock asset listed, the survey asks how many total are owned in the household, then how many are perceived to be owned solely by the woman, solely by her husband, jointly between her and her spouse, jointly by her and other household members, and jointly by the household as a whole. We construct unconditional measures for the number of each type of livestock owned total in the household; owned solely by the female; owned in any part by the female (meaning, solely, jointly with her spouse, jointly with other household members, or jointly by the household); owned solely by her husband; or owned jointly by her and her husband. <ref type="bibr">18</ref> Table <ref type="table" target="#tab_1">3</ref> shows that according to the main female's reports, at the household level, the program significantly increased ownership of livestock such as cows/buffalo, goat/sheep, and chickens/ducks. This increase is consistent with the program's direct transfer of livestock and indicates that households retained ownership of the assets rather than selling them off. A closer look at the intrahousehold distribution of livestock ownership indicates that the program increases livestock owned solely by men, as well as jointly by men and women, but causes the largest increases in livestock owned solely by women or in any part by women.</p><p xml:id="_HMkeQGN">We interpret these patterns as indicating that TUP's transfer of livestock to women "stuck" mostly to women, at least in terms of perceived ownership. <ref type="bibr">19</ref> This pattern includes cows, which as mentioned above, is notable since sociocultural norms in Bangladesh tend to categorize high-value livestock such as cattle as men's assets.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.3.2." xml:id="_hKUABuD">Impacts on intrahouseold ownership of other assets</head><p xml:id="_cwmqFVb">While the program directly transferred livestock (as well as the small cash allowances), it is possible that ownership of other types of assets was affected as well. As described in Section 1, even if the transferred livestock "sticks" to women (at least in terms of perceived ownership), it is possible that other assets "shift away" from the woman and toward other household members in response, such that the overall effect on intrahousehold asset ownership is more ambiguous. In order to explore the interplay in these dynamics, we group assets into several aggregate categories: livestock (the items described in Section 5.3.1), agricultural productive assets, non-agricultural productive assets, consumer durables, land, and cash. The survey asks questions about a range of items in each of these asset categories (chosen based on the qualitative work), analogous to the questions asked for livestock items. We first construct the number owned of each asset type over the same ownership categories as for the individual livestock items (i.e., owned by the household in total, by the female solely, by the female in any part, by the female and male jointly, by the male solely). Appendix Tables A.9-A.12 shows program impacts on these individual assets within each broad asset category.</p><p xml:id="_fMnA782">Then, owing to the large number of assets types within each category, for brevity and ease of interpretation, we construct an aggregate measure of ownership for each category by calculating the overall value of assets owned within each of the main asset categories. In the survey, for each asset owned in the household, the total current value of the asset (in Taka) owned by the household was recorded. In order to construct the aggregate, for each asset type we impute the value owned in each ownership category by dividing the household's total owned value proportionally over the number in each ownership category. <ref type="bibr">20</ref> Because there are active land and asset markets in rural Bangladesh, self-reported asset valuations can be considered a reasonable proxy for the true market value of the asset, permitting an aggregation based on asset value.</p><p xml:id="_26QnUvu">Table <ref type="table" target="#tab_3">4</ref> shows program impacts on the aggregate values owned of each of the asset categories, incorporating both attrition weights and indicating attrition bounds below each estimate (Lee, 2009); all of the estimates, both at the household and intrahousehold levels, fall within the Lee bounds. At the household level, impacts on all of these aggregate asset categories in terms of value are fairly large and statistically significant. Intrahousehold impacts vary however by asset category. 21 <ref type="bibr">17</ref> Although the program protocol includes other possible asset transfers, in practice nearly all transfers were livestock, as reflected in beneficiaries' self-reported recall on transfers in our 2012 survey (Table <ref type="table" target="#tab_2">2</ref>). <ref type="bibr">18</ref> Ideally we would have also analyzed "net" impacts on livestock ownership (i.e., subtracting the number of livestock directly transferred by TUP from the number owned in 2012). Unfortunately we do not have access to programs records on the exact package of livestock assets transferred to each beneficiary household. We attempted to collect this information through recall in our 2012 follow-up round, but while the types of livestock that households reported receiving were plausible, the self-reported numbers were often implausible (e.g., some reported 7 cows received, which is inconsistent with program protocol) such that resulting estimates would unlikely be informative. About 15% of treatment households also had missing information on transferred assets, such that focusing on net impacts would substantially (and possibly nonrandomly) reduce sample size. <ref type="bibr">19</ref> We note that, although it is plausible that general equilibrium effects could also affect intrahousehold distribution of livestock ownership in program areas (for example, if the program's provision of livestock led to changes in livestock prices), existing evidence suggests these were unlikely to play a major role. Bandiera et al (2012) analyze program impacts on market prices for livestock and find a small decrease in poultry prices (by about 9%), but no change in cattle or goat prices. They also find no significant change in prices of output derived from livestock, such as milk and eggs. A small reduction in poultry prices seems unlikely to drive our results on livestock ownership or other subsequently presented results.  <ref type="bibr">20</ref> We make the assumption that all units of a particular asset type are of the same value, regardless of who owns them. For example, if a household owns two cows which in total are worth 20,000 Taka, but one cow is solely owned by the woman and the other cow is solely owned by the man, we assume the woman solely owns 10,000 Taka worth of cows and the man solely owns 10,000 Taka worth of cows. If in fact men typically own highervalue items than women even within an asset type, this assumption would overestimate the value owned by women and underestimate the value owned by men. <ref type="bibr">21</ref> Both household and intrahousehold impacts based on aggregate values are consistent with the pattern of impacts on the number of each asset type presented in Appendix Tables A.9-A.12, giving further support to use of the self-reported valuations. For aggregate livestock, we see that, consistent with the impacts on each distinct type of livestock shown in Table <ref type="table" target="#tab_1">3</ref>, the overall impact on aggregate value of livestock owned is highest for women. The program causes a significant increase of about 9090 Taka in women's sole perceived ownership and about 10,768 Taka in women's any perceived ownership (including joint). The aggregate value of livestock that is perceived as owned solely by men increases significantly as well but by only about 942 Taka.</p><p xml:id="_G6GsvXh">However, the pattern is reversed for the aggregated categories of agricultural productive assets, non-agricultural productive assets, consumer durables, and land. The overall impact on aggregate value of each of these categories is highest for men's sole perceived ownership. In the case of agricultural productive assets, the program significantly increases men's sole ownership by about 375 Taka, while it increases women's sole ownership by about 173 Taka and any ownership (including joint) by about 343 Taka. In the case of non-agricultural productive assets, the program significantly increases men's sole ownership by about 681 Taka, while there is no significant impact on women's sole ownership and an increase of about 356 Taka for any ownership (including joint). In the case of consumer durables, the program significantly increases men's sole ownership by about 2437 Taka, while women's sole ownership increases by about 767 Taka and any ownership (including joint) increases by about 2093 Taka. The difference is most stark for land. In the case of land, the program significantly increases men's sole ownership by about 11,292 Taka, while it has no significant impact on women's sole ownership or any ownership (including joint). This reflects that the large significant increase in land ownership at the household level is highly concentrated in men's exclusive ownership.</p><p xml:id="_3mFEFUq">Finally, Table <ref type="table" target="#tab_3">4</ref> shows the impacts reported on perceived ownership of cash. Here impacts are again highest for women. The program significantly increases women's sole perceived ownership by about 1050 Taka and any perceived ownership (including joint) by 1218 Taka; the impact on men's sole perceived ownership is a weakly significant increase of 61 Taka.</p><p xml:id="_vM6NaeG">Overall the pattern in ownership impacts over asset categories shows that the program causes the biggest increases of value in perceived ownership of livestock and cash for women, while it causes the biggest increases of value in perceived ownership of agricultural productive assets, non-agricultural productive assets, consumer durables, and land for men. Given that, in addition to the livestock transfers provided to women, TUP also provided small cash grants, we interpret both these increases to be indicative of program features "sticking" to women, at least in terms of perceived ownership.</p><p xml:id="_GgVJheC">Program impacts on males for the other asset categories suggest that income generated from the transferred assets were mobilized into new investments in non-livestock assets, falling along patterns of gender norms. Appendix Tables A.9-A.12 highlight these patterns. Within agricultural productive assets, the increases at the household level appear to generally come either from complementarity with receiving a livestock transfer (e.g., a cow shed for cattle) or from new investments in agriculture outside the home (e.g., chopper, plows, axes). Given norms in Bangladesh of agricultural work outside the home being associated with men, it follows that if increased income in households from the transfer translated to new investment in agricultural assets, those assets would be perceived as owned by men. Within non-agricultural productive assets, new investments in household ownership tend to translate to increased sole ownership by males, particularly for assets related to increased mobility or work outside the home (e.g., bicycles, rickshaws) but also for some that theoretically could be owned by either males or females (e.g., mobile phones). Within consumer durables, new investments in household ownership again tend to translate to increased sole ownership by males even for assets that theoretically could be impacts on aggregate value of... Total owned in household Owned solely by female Owned in any part by female Owned jointly by male and female Owned solely by male Livestock 11,703*** 9,090*** 10,768*** 1,511*** 942*** (410) (401) (420) (192) (148) Lee Bounds 11,237*** to 14,131*** 8,770*** to 10,857*** 10,367*** to 12,965*** 1,463*** to 1,952*** 886*** to 1,412*** (346) (240) (306) (235) (340) (277) (175) (160) (118) (98) Agricultural 725*** 173*** 343*** 98*** 375*** (82) (25) (65) (37) (48) Lee Bounds 647*** to 1,072*** 143*** to 331*** 292*** to 602*** 81** to 196*** 346*** to 556*** (79) (71) (21) (18) (65) (59) (34) (32) (45) (36) Nonagricultural 1,055*** 26 356*** 153*** 681*** (137) (48) (88) (40) (93) Lee Bounds 850*** to 1,938*** -25 to 363*** 236*** to 941*** 135*** to 250*** 601*** to 1,222*** (119) (101) (47) (33) (78) (62) (34) (30) (90) (76) Consumer Durables 4,894*** 767*** 2,093*** 704*** 2,437*** (785) (295) (513) (209) (388) Lee Bounds 3,317*** to 9,249*** 124 to 2,888*** 950** to 5,427*** 483*** to 1,935*** 1826*** to 5,129*** (771) (640) (276) (163) (468) (333) (172) (140) (356) (235) Land 13,676*** 1,808 2,460 -56 11,292*** (4,278) (1,630) (2,975) (386) (2,670) Lee Bounds 7,027* to 40,621*** 217 to 11,948*** -918 to 19,571*** -208 to 539*** 8,101*** to 28,502*** (3820) (2,535) (1504) (1,129) (2780) (1,770) (444) (145) (2,703) (1,843) Cash 1,279*** 1,050*** 1,218*** 148*** 61* (85) (59) (74) (42) (35) Lee Bounds 1,233*** to 1,626*** 1,017*** to 1,319*** 1,175*** to 1,536*** 142*** to 194*** 59 to 93*** (78) (71) (53) (46) (67) (60) (37) (36) (37) (36) Source: Authors' computations based on BRAC STUP evaluation data, 2007 and 2012. Notes: Each cell represents a separate regression. Treatment impacts in shaded rows are single-difference estimates with attrition weights; robust standard errors adjusted for survey design and clustering are shown in parentheses. Lee bounds below each shaded row represent the lower and upper bounds for each treatment impact, with standard errors in parantheses. All estimated coefficients and standard errors are rounded to the nearest whole number. *** p b 0.01, ** p b 0.05, * p b 0.1. N = 6066.</p><p xml:id="_a3BEFS5">owned by either males or females (e.g., furniture, appliances, cooking instruments, clothing, housing infrastructure, notably even gold jewelry). Similarly, within land, new investments in household ownership translate almost exclusively to increased sole ownership by males, consistent with gendered norms of land ownership in Bangladesh.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.3.3." xml:id="_U8TtBxq">Rights associated with perceived ownership over assets</head><p xml:id="_Z6zNR55">As described in Section 3.2, our qualitative work showed that respondents' notion of ownership did not necessarily translate to a fixed set of control rights and in some cases differed by asset. To further interpret the patterns of intrahousehold program impacts we find on perceived ownership, we present descriptive analysis on which control rights typically translate to perceived ownership.</p><p xml:id="_yJ36uAe">In all households in our 2012 survey, for each asset owned by the household, the female respondent was asked about her rights over the asset. <ref type="bibr">22</ref> We use these responses to assess how women's perceived ownership is associated with rights and how this depends on treatment status. <ref type="bibr">23</ref> Table <ref type="table" target="#tab_4">5</ref> focuses on livestock. The table describes how ownership over each type of livestock translates on average to women's rights over the livestock, depending on whether women are in the treatment or control group. For each livestock asset owned by the household, we construct conditional indicators for the woman's right to sell it and the right to decide how to spend income generated from it (the right to "use" is not relevant for livestock). Statistics are broken down in two ways: conditional on anyone in the household owning the livestock asset, then conditional on the woman's perception that she herself owns the asset (solely or jointly). Table <ref type="table" target="#tab_4">5</ref> shows that, relative to women in cattle-owning control households, women in cattle-owning treatment households are somewhat more likely to have rights to sell the cattle but slightly less likely to have rights to decide how to spend income generated from the cattle. Within the subset of households in which women perceive that they themselves own the cattle, the same pattern <ref type="bibr">22</ref> The questions on rights were asked of the woman respondent in all households. Due to field budget constraints, in only a randomly pre-selected 20% of households, the rights questions were also asked of the woman's husband for purposes of comparison. Within these 20% of households, for any asset owned by anyone in the household, nearly all men in both treatment and control groups reported having all of the rights asked about. Even when men reported that the asset in question was owned solely by their wives (and not solely or jointly by the men themselves), over 95% of men in both treatment and control groups reported that they had all of these rights over the asset. The only exception was in women's clothing, for which about 70% of men reported having these rights. Based on these findings, we focus our analysis for the full sample on women's rights, with the assumption that men in our sample typically have rights over all assets in the household regardless of who is perceived to own them. over assets that were owned in the household in 2012, rather than hypothetical rights over assets not owned. An alternative to presenting descriptives on conditional indicators might have been to estimate impacts on these conditional indicators. However, conditional impact estimation is problematic, since to estimate rights over livestock for example, we would likely compare treatment households (that had livestock at follow-up but may not have in the absence of the program) with initially better-off control households (that had livestock at follow-up even without receiving the program). Correcting for the selection bias in owning livestock, as required for valid conditional impact estimates, would require strong assumptions on determinants of livestock ownership in the control group that would also be problematic.  Notes: Includes all agricultural assets asked about in 2012 survey, except those which few households in either intervention arm reported owning (tractors, threshing machines, ladders, deep tube wells, pumps, spray machines, carts, other; these are included in the aggregate measure in Table <ref type="table" target="#tab_3">4</ref>). N = 6066 (2599 control [C] and 3467 treatment [T]).</p><p xml:id="_JYCcFft">over treatment and control holds. Although a larger share of women across both groups report rights in this subset than in the overall sample, even within this subset considerably fewer than 100% of women tend to report that they have the rights asked about, reflecting that these rights for women are not considered necessary conditions for women's perceived ownership. The pattern for goats/sheep and chickens/duck is similar to that for cattle: relative to the control, ownership in the treatment translates to fairly similar rights to sell, but slightly lower rights on spending decisions. We emphasize that these differences in conditional averages cannot be interpreted as impacts; the average control household that owned livestock in 2012 was likely different even prior to the program from the average treatment household that owned livestock in 2012, given that the program itself transferred livestock. However, the descriptives support the possibility that, when livestock is transferred to women by TUP rather than obtained in some other way, women's perception of "owning" the livestock translates to their having similar or greater sale rights over the livestock but slightly lower spending-decision rights. This finding would suggest that Table <ref type="table" target="#tab_3">4</ref>'s positive program impacts on women's perceived livestock ownership may translate to women having strengthened alienation rights over livestock (again particularly notable for cattle, given prevailing gender norms), but perhaps not strengthened rights to obtain concrete economic benefits from livestock. Tables <ref type="table" target="#tab_8">6 to 9</ref> show analogous statistics for agricultural productive assets, non-agricultural productive assets, consumer durables, and land. <ref type="bibr">24</ref> We construct conditional indicators for the right to use (relevant for all), the right to sell (relevant for all), and the right to decide how to spend generated income (relevant for all except consumer durables). Across  Notes: Includes all consumer durables asked about in 2012 survey, except those which few households in either intervention arm reported owning (radios, TVs, cameras, VCRs, fans, watches, mosquito nets, living rooms, latrines, solar, other; these are included in the aggregate measure in Table <ref type="table" target="#tab_3">4</ref>). N = 6066 (2599 control [C] and 3467 treatment [T]).</p><p xml:id="_2WRU9sa">the statistics for all of these asset categories, three patterns emerge. The first is that for most assets (though not all), the woman's right to use the asset appears to be independent of whether she herself owns the asset; nearly 100% of women in both treatment and control groups have use rights over most of these assets conditional on anyone in the household owning them. There do appear to be some exceptions to women's use rights including for bicycles and rickshaws, particularly in the treatment group, although it is difficult to determine whether these come from mobility issues or are artifacts of the small sample of households owning the assets to begin with. Second, in nearly all cases, the share of women reporting rights over each asset conditional on ownership is higher in the control group than in the treatment group. This pattern appears conditional on household ownership as well as conditional on the woman's own perceived ownership (although again shares are slightly higher within the latter subset than in the full sample). It also applies to both sale rights and spending-decision rights. Again these descriptive statistics cannot be interpreted as causal impacts of the program. However, they again support the possibility that, when livestock is transferred to women by TUP, women's perception of "owning" nonlivestock assets translates to their having slightly lower sales and spending-decision rights than in the absence of the program. Taken together, these findings suggest several implications for how impacts on ownership may translate to control rights. Given the large significant household-level program impacts shown in Table <ref type="table" target="#tab_3">4</ref> and the fairly consistent association between household ownership and women's use rights, women's rights to use a large range of livestock and non-livestock assets were likely strengthened by the program. Findings also suggest that the large positive program impacts on women's perceived ownership of livestock may translate to somewhat strengthened alienation rights, but limited rights to obtain concrete economic benefits from livestock. Moreover, although Table <ref type="table" target="#tab_3">4</ref> showed some positive program impacts in women's perceived ownership of agricultural productive assets, non-agricultural productive assets, and consumer durables, these may not translate to meaningful alienation rights over the assets nor strengthened rights to obtain concrete economic benefits from them.</p><p xml:id="_TGvXvGw">Overall, although the program significantly increased women's perceived ownership of livestock and may have particularly strengthened their alienation rights over high-value cattle, results suggest that the increases in women's control rights over other assets may have been limited to use; in particular, it appears unlikely that the program meaningfully increased women's rights to decide how to spend income generated from any asset. Under the assumption (described in footnote 22) that men typically have control rights over nearly all assets in the household regardless of who is perceived to own them, these findings suggest that although there were likely meaningful increases in women's control over livestock, looking across asset categories, men's relative resource control likely increased more than women's.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.3.4." xml:id="_B5m2evc">Intrahousehold decision making related to livestock</head><p xml:id="_q6sqs9W">Having explored individuals' relative resource control within the household, we then turn to examining intrahousehold decisionmaking.</p><p xml:id="_d8cd6f4">We start by exploring program impacts on who makes decisions regarding livestock management. Table <ref type="table" target="#tab_9">10</ref> shows that the program increases women's voice in all dimensions considered of decisionmaking relevant to livestock. For decisions related to the livestock itself (e.g., buying a cow, selling a cow, etc.), we see that the program significantly increases women's sole decisionmaking in addition to joint decisionmaking. Given that social norms in Bangladesh typically categorize buying and selling of high-value assets like cattle as in the realm of men, this finding is notable. In terms of milk, the program does not increase women's sole decision making, but does increase joint decision making. These findings are consistent with the descriptive results on control rights; women's increased alienation rights over livestock align with greater decisionmaking power on sales of the cattle themselves, but limited changes in the right to spend generated income aligns with more limited decisionmaking power on what to do with the milk produced by cattle.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.3.5." xml:id="_d6JsBgQ">Ultra-poor women's decisions to work and use their earnings</head><p xml:id="_3jenUPs">We next turn to program impacts on women's decisions to work. Our survey asks whether women are "doing any work or business that brings in cash, additional food, or allows you to accumulate assets for your household," then asks whether this work is inside the home, outside the home, or both. We construct indicators for whether the woman works at all, for whether the woman works inside the home (potentially in addition to outside the home), and for whether the woman works outside the home (potentially in addition to inside the home). Table <ref type="table" target="#tab_10">11</ref> Panel A shows that while the program does not affect the proportion of women who work, it does change where women work. The program causes about a 17 percentage point increase in Notes: Includes all land assets asked about in 2012 survey, except those which few households in either intervention arm reported owning (uncultivated land, garden, pond, other; these are included in the aggregate measure in Table <ref type="table" target="#tab_3">4</ref>). N = 6066 (2599 control [C] and 3467 treatment [T]). women working inside the home, relative to the control group, and about an 8 percentage point decrease in women working outside the home. Since the types of assets provided to women by the program require maintenance at home, the implications for time allocation may explain this pattern. We also note that this finding may imply a reduction in women's mobility as a whole, since the qualitative work indicates that women tend to have limited ability to leave the homestead unless their work directly requires it.</p><p xml:id="_X3eNvQ5">We then analyze impacts on what women do with the income they earn. Our survey asks whether women give all the money they earn to their husbands/other family members, give some to their husbands/ other family members, or keep it all. We construct the following indicators from these responses: whether the woman works and keeps all of the money; whether the woman works and keeps any of the money; whether the woman works and keeps none of the money. These indicators are defined unconditionally such that, for the first for example, a woman who does not work is coded with 0, a woman who does work and does not keep all of the money she earns is coded as 0, and a woman who does work and does keep all of the money she earns is coded with 1. Table <ref type="table" target="#tab_10">11</ref> Panel B shows that the program significantly decreases the proportion of women who work and keep all or any of the money they earn (by about 8 percentage points or 4 percentage points respectively), while the proportion that keeps none of the money earned increases by about 5 percentage points.</p><p xml:id="_6TjKytX">Finally, we analyze who decides how to use the money earned by women who work. Our survey asks "Who usually decides how to spend the money you earn?", with response options of "yourself; your husband; self and husband; self and other HH member; and someone else." We construct four indicators from these responses: whether the woman works and solely decides how to spend the money she earns; whether the woman works and has any voice in deciding how to spend the money she earns; whether the woman works and her husband solely decides how to spend the money she earns; and whether the woman works and she and her husband jointly decide how to spend the money she earns. Again, these are unconditional indicators. Table <ref type="table" target="#tab_10">11</ref> Panel C shows that the program significantly reduces the proportion of households where a woman works and solely decides how to use the money she earns (by about 9 ppt), while it significantly increases the proportion of households where the decision is made jointly between the woman and her husband (by about 10 percentage points).</p><p xml:id="_ftKuKuE">Taken together, these findings raise the possibility that the shift in location of women's work due to the program may also shift control and decision-making over the income earned by women. In particular, given social norms of female seclusion, women who do not work outside the home may not have reason to leave the home at all. A shift to working exclusively inside the home may translate to no longer having the mobility to make use of income independently (e.g., going to the market), but rather giving the money earned to another household member who will leave the home and deciding jointly what to do with it.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.3.6." xml:id="_rgXkvH6">Intrahousehold decisionmaking related to expenditures</head><p xml:id="_vnzwKB4">We then turn to impacts on decisionmaking on issues more broadly affecting the household. Table <ref type="table" target="#tab_2">12</ref>, Panel A, shows how the program affects who has a voice in decisions relevant to credit and savings. We see that the program significantly increases women's role in decisionmaking relevant to loansboth in whether to take one and how to spend itin terms of sole and joint decisionmaking. Husbands' sole decision making is not substantially affected in terms of loans. This pattern is consistent with the program facilitating loans to women. Program participant women are eligible to take BRAC microfinance loans after two years of grant supports, and earlier evidence showed that about 68% of TUP program participants took loans from BRAC during the three year period after they completed the TUP program supportcycle (Das and Shams, 2010). However, in terms of saving, the program significantly decreases women's sole decision making and significantly increases joint decisionmaking.</p><p xml:id="_N3qk6cV">Table <ref type="table" target="#tab_2">12</ref>, Panel B, shows impacts on who decides about specific categories of expenses. Patterns of impacts across food, housing, and health care are very similar. The program significantly reduces the proportions of households in which women solely decide or have any voice in deciding how to spend on these categories, while it significantly increases the Table 12 Decisionmaking relevant to credit, savings, and specific categories of household expenditures. Treatment impact on decisionmaking Woman solely decides She has any voice in deciding She and her husband jointly decide Her husband solely decides Panel A: Decisions on credit and savings Whether to take a loan 0.079*** 0.273*** 0.176*** 0.007** (0.008) (0.016) (0.014) (0.003) How to spend proceeds of a loan 0.078*** 0.274*** 0.179*** 0.006* (0.008) (0.016) (0.013) (0.003) How much to save -0.106*** 0.000 0.123*** 0.002 (0.015) (0.008) (0.016) (0.008) Panel B: Decisions on specific household expenditure categories Food -0.130*** -0.030** 0.098*** 0.030** (0.015) (0.015) (0.016) (0.015) Housing -0.126*** -0.050*** 0.078*** 0.050*** (0.014) (0.015) (0.016) (0.015) Healthcare -0.124*** -0.051*** 0.079*** 0.051*** (0.014) (0.015) (0.016) (0.015) Source: Authors' computations based on BRAC STUP evaluation data, 2007 and 2012. Notes: Single-difference estimates with attrition weights; robust standard errors adjusted for survey design and clustering in parentheses. Each cell represents a separate regression. *** p b 0.01, ** p b 0.05, * p b 0.1. N = 6066.</p><p xml:id="_RGVBrSQ">proportion of households in which husbands solely decide or in which decisions are made jointly. Table <ref type="table" target="#tab_11">13</ref> shows that the program significantly reduces the proportion of women controlling the money needed to buy food or items for themselves. There is approximately a 15 percentage point reduction in women controlling the money needed to buy food from the market, a 12 percentage point reduction for clothes for themselves, a 15 percentage point reduction for medicine for themselves, and a 7 percentage point reduction for cosmetics for themselves.</p><p xml:id="_v78f4Vt">These impacts are consistent with the previous results showing that the program causes women to shift work inside the home and have less control over their earnings. Here we find that, even beyond reducing women's control over their own earnings, the program causes them to have less control and decision making power over household expenses as a whole.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.4." xml:id="_Gd5djub">Additional insights from qualitative findings</head><p xml:id="_PVsGZva">To add nuance to the quantitative findings on program impacts for targeted women, we summarize some insights from the qualitative study regarding beneficiaries' own perceptions (Das et al, 2013). In terms of sex-disaggregated asset ownership and control, results from the qualitative study are remarkably consistent with results from the quantitative analysis. Both men's and women's focus groups drawn from beneficiary households stated that the transferred livestock assets either belonged to women or were jointly owned. Even when the asset was seen as jointly owned, women were seen to have authority and veto power over such decisions as whether to sell the asset or to give it to a relative. These findings closely match the quantitative impact estimates on women's ownership and control over livestock. Focus group participants indicated that their stance was encouraged by the mode of operation of the TUP program which, without explicitly stating that the asset was being transferred to women, directed support and on-going training in managing the asset toward women. There was little direct exploration in the qualitative work on how resources were mobilized to purchase new assets and who owned and controlled these new assets. However, as noted in Section 5.3, the prevailing patterns of asset ownership described in Section 5.1 are consistent with nearly all nonlivestock assets being perceived as owned by men.</p><p xml:id="_hjvGYpj">Qualitative findings also support the quantitative finding that the program caused beneficiary women to more likely stay within the homestead and less likely be employed outside the home. Focus groups reported that transferred livestock required maintenance at home and raised women's workloads between about one to three hours per day.</p><p xml:id="_DXBH58Z">However, the qualitative work highlighted many intangible benefits perceived by targeted women, which were not easily explored through the quantitative work. One striking finding was that, while many beneficiary women described reduced mobility and heavy workloads due to the program, there was consensus that their situation was nonetheless preferable to working outside the home given low pay and high stigma associated with the options commonly available to extremely poor rural women (e.g., work as domestic servants, agricultural day labor, employment by others in small businesses such as weaving with handlooms). Respondents described the stigma as a particularly important factor. Work outside the home was considered not respectable because it forced women to transgress religious and social norms of segregation, which could lead to reputational damage. Reputation was considered especially important to maintain for extremely poor women, as they felt they could become physically vulnerable, socially excluded, or harassed if socially stigmatized or considered of ill repute.</p><p xml:id="_uFjHY9g">Similarly, while quantitative impacts on decisionmaking suggested that the program significantly reduced women's voices in several tangible dimensions, the qualitative work indicated that female beneficiaries felt greater empowerment in many intangible dimensions. Many reported that they had gained confidence and social status, both in communities and in households, by helping to improve the economic conditions of their households. A specific way in which women described gaining confidence is in fact consistent with the quantitative finding that the program increased household ownership of consumer durables, which could be "used" by women even if owned by mensome women reported that having access to improved clothing made them more likely to be included in community activities and no longer uncomfortable to go places where they used to feel humiliated because of torn clothes. Beneficiary women also reported being less ashamed of their homes and now being able to use their own sanitary latrines rather than having to ask a neighbor. They also reported now having enough confidence to participate in local mediation hearings. In summary, while the quantitative analysis showed decreases in several tangible domains associated with empowerment (such as having a voice in decisionmaking), the qualitative showed increases in several intangible domains (such as feeling self-confident and gaining social capital).</p><p xml:id="_BgEykmp">In fact, very few of the program impacts that women themselves cited were focused on individual rights or explicitly on material gains. Rather, they framed perceptions of impact more in terms of intangibles: social capital, self-confidence, satisfaction in contributing to the household, etc. These observations highlight the importance of considering what outcomes are valued by beneficiaries themselves given their context, in addition to considering outcomes perceived as important more generally.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="6." xml:id="_rAQfp5S">Summary and conclusions</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="6.1." xml:id="_cW5PHxu">Summary of findings</head><p xml:id="_2ddzWfY">Overall the quantitative findings, complemented with the qualitative study, suggest two key points. First, consistent with the findings of Bandiera et al (2013), the program significantly increased household-level well being as measured by ownership of various assets; however, as measured by both quantitative and qualitative work, the program's impacts in terms of "tangible" outcomes on targeted women are quite ambiguous. While women's ownership and control over the transferred livestock are significantly increased (including over high-value assets such as cattle, typically thought to be a "men's asset"), there appears to be a greater increase in men's sole ownership over new investment in other assets (agricultural and non-agricultural productive assets, land, consumer durables). Moreover, the program tends to shift women's work inside the home (likely because the transferred livestock requires maintenance on the homestead), which combined with the increased workload, appears to reduce women's mobility outside the homestead. Consistent with reduced mobility, the program also significantly reduces women's voice in a range of decisions, both related to purchases for themselves and related to household savings and expenditure.</p><p xml:id="_9RXfFC9">Second, nonetheless, when "intangibles" and context are taken into account based on qualitative analysis, the overall program impacts on targeted women appear far more favorable (if still mixed). Beneficiary women themselves frame project impacts more in terms of intangibles (such as social capital, self-confidence, satisfaction in contributing to the household, etc.) than in terms of individual rights or material gains.</p><p xml:id="_FXq7sDb">Their reports indicate that the program increased their social capital and self-confidence in ways that are in fact consistent with the quantitative findingsfor example, having access to improved clothing (even if owned by men) that made them more likely to be included in community activities and less likely to feel humiliated and uncomfortable going to certain places. They also report that their contribution to the economic improvement of their households (not necessarily their own individual rights over the economic gains) increased their confidence and social status within their households and communities. Additionally, the qualitative work indicates a consensus among beneficiary women that, given the numerous hardships associated with work outside the home for extremely poor rural women (most notably the social stigma given norms of female segregation as well as the generally hostile and unsafe external labor market environment for women), they prefer work inside the home even with the tradeoff of limited mobility. Thus, beneficiary women's perceptions indicate they value intangible outcomes in addition to tangible outcomes, and also frame certain tangible outcomes more favorably given the local context than might be perceived from an external viewpoint.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="6.2." xml:id="_XtbjRd5">Conclusions</head><p xml:id="_DVShFyK">A number of compelling implications emerge from this study. First, we find strong evidence that asset transfers targeted to women can increase women's ownership and control over the transferred asset. This outcome may occur even in contexts where the transferred asset is not typically thought of as a "woman's asset," as was the case for highvalue livestock in this study. This finding in itself represents a small transformation of gender norms. A caveat, however, is that we do not know whether this finding would be sustained over the long term. Given that beneficiary focus groups cited the intensive support from BRAC as supporting women's ownership and control over the transferred livestock, it is possible that women's retention of the asset would fade somewhat as program support was eventually withdrawn.</p><p xml:id="_bmbC6Qr">Second, however, an increase in a woman's ownership and control over a transferred asset may not necessarily increase her overall control over resources or bargaining position in the household. In this study, only the assets directly transferred to the targeted woman appeared to remain in her control, while control over assets purchased from the generated income appeared to follow prevailing gender norms. Specifically, the program appeared to cause greater increases in men's sole ownership and control over new investments across several categories of non-livestock assets (agricultural and non-agricultural productive assets, consumer durables, and land) than in women's ownership and control. It also reduced women's mobility (potentially reducing ability to physically control resources) and their voice in a range of decisions concerning themselves and their households. Consistent with theoretical models in economics that relate control over resources to decision making power, it appears that women's overall control over resources decreased relative to men's, along with their relative intrahousehold decision making power.</p><p xml:id="_j9nE7eA">Third, in the context of asset transfer, if the transferred asset requires maintenance at home, targeting the asset to women may shift women's work inside the home. The desirability of working inside the home may depend on the local context (as highlighted in this study), but if it reduces mobility outside the home, it may also reduce women's decisionmaking power over the use of resources.</p><p xml:id="_8xwHfW6">Fourth, individuals may value both tangible and intangible outcomes. While tangible measures are more readily captured in quantitative analysis, it is important to also account for intangible factors (such as selfesteem and social capital) when studying benefits and costs of a program.</p><p xml:id="_wkSa9a9">Fifth, in a broad sense, nuance is required in assessing whether interventions improve "women's empowerment." The study highlights that even if a program's "household-level" impacts are quite unambiguously positive, effects on individuals within the household (such as the targeted women in this study) may be more ambiguous and complex. Additionally, some outcomes valued by individuals may be "intangible," and some that seem negative from an external viewpoint may be seen more favorably in the local context. These findings are consistent with other work in Bangladesh (e.g. Becker, 2012) suggesting the possibility that women in rural Bangladesh may in fact value contributing to the household more than having individual rights within the household. One possible dimension to this preference relates to women facing a potential tradeoff between asserting individual rights and maintaining family support. In sociocultural contexts where women's potential to function in society is limited without the support and protection of their husbands or other male household members, benefits of creating conflict within the household to assert individual rights may be outweighed by costs of losing family support. For example, Brule  (2012) finds, in the context of rural India, that land inheritance laws do not increase women's inheritance because women forgo claiming their legal rights in favor of retaining their family safety net. In effect, due to the need for both daily-life and old-age support systems from family, women may not find it worthwhile to assert individual rights at the cost of household relations, finding instead that contributing to the household serves them better. A second dimension however is that, for sociocultural or other reasons, women's perception of benefits in rural South Asia may simply differ from prototypical Western norms.</p><p xml:id="_xhAfmxe">Lastly, nonetheless, if increasing women's asset ownership and decision making power are explicit goals of a program, a focused intervention such as a targeted asset transfer may not be sufficient. In a context such as rural Bangladesh, interventions aimed at increasing women's decision-making power may need to engage not only women, but also other household members (including men) and communities, in an effort to fundamentally transform sociocultural norms.</p><p xml:id="_TK5r3t3">Table A.3 Control group intrahousehold livestock ownership, by asset type. Number of livestock Livestock Total owned in household Owned solely by female Owned in any part by female Owned jointly by male and female Owned solely by male Cows/buffalo 0.23 0.13 0.18 0.04 0.04 Goats/sheep 0.34 0.26 0.30 0.03 0.04 Chickens/ducks 1.44 1.21 1.39 0.11 0.03 Source: Authors' computations based on BRAC STUP evaluation data, 2007 and 2012. Notes: Control group means, accounting for attrition weights. N = 2599.</p><p xml:id="_XQsRwht">Table A.2 Probit estimation of probability of staying in sample between 2007 and 2012 rounds. Baseline characteristic Coeff Baseline characteristic Coeff Baseline characteristic Coeff Treatment indicator -1.412** Male head's years of education -0.021 Household's number of goats/sheep 0.017** (0.656) (0.013) (0.009) Whether household's residence is dilapidated -0.101* Whether male head has completed secondary school 0.690 Household's number of power pumps -2.044* (0.054) (0.487) (1.133) Household's wealth rank -0.033 Whether main female works as homemaker -0.143 Household's number of plows -0.165 (0.051) (0.121) (0.489) Whether household owns land -0.766** Main female's years of education -0.017 Household's number of cowsheds 0.066 (0.375) (0.013) (0.089) Household's area of cultivated land -0.009 Whether main female has completed secondary school -0.257 Household's number of shop premises 0.085 (0.006) (0.684) (0.327) Household's value of cultivated land 0.000 Household's number of radios/cassette players -0.116 Household's number of boats -0.055 (0.000) (0.089) (0.320) Household's area of pond land 5.522 Household's number of electric fans -0.080 Household's number of fishnets 0.070 (245.559) (0.202) (0.131) Household's value of pond land -0.001 Household's number of bicycles 0.062 Household's number of rickshaws/vans 0.102 (0.049) (0.163) (0.179) Household's area of mortgaged land 0.010 Household's number of chairs 0.033 Household's number of trees 0.010 (0.011) (0.050) (0.012) Household's value of mortgaged land 0.000 Household's number of tables -0.003 (0.000) (0.073) Observations 7392 Household's total savings 0.000 Household's number of choukis 0.017 (0.000) (0.041) Household's total loans -0.047 Household's number of sofas 0.123 (0.059) (0.257) Whether household owns home 0.162*** Household's number of mosquito nets 0.060 (0.059) (0.043) Whether household has a latrine 0.663* Household's number of jewelry items 0.478 (0.349) (0.482) Whether household has a tube well 0.112 Household's number of saris -0.088** (0.342) (0.035) Whether household has a kitchen 0.139 Household's number of cows 0.128 (0.122) (0.087) Household's food deficit -0.030 Household's number of chickens and ducks -0.006 (0.055) (0.040) Source: Authors' computations based on BRAC STUP evaluation data, 2007 and 2012. Notes: Estimation also includes branch dummies, interviewer code dummies, and dummies for missing values of indicators, as well as characteristics of the main female's predictions for her sons' and daughters' futures. Standard errors are shown in parentheses. * p b 0.10, ** p b 0.05, *** p b 0.01.</p><p xml:id="_nJvYmza">Table A.4 Control group intrahousehold ownership of agricultural assets, by asset type. Number of agricultural assets Asset Total owned in household Owned solely by female Owned in any part by female Owned solely by male Owned jointly by male and female Choppers 0.63 0.33 0.47 0.16 0.10 Stored crops (kg) 4.24 1.12 2.83 1.40 1.37 Cowsheds 0.29 0.16 0.22 0.07 0.04 Deep tube wells 0.01 0.00 0.00 0.00 0.00 Ladders 0.03 0.01 0.02 0.01 0.01 Mowing machines 1.32 0.58 0.87 0.44 0.20 Plows 0.01 0.00 0.00 0.01 0.00 Axes 0.38 0.09 0.18 0.19 0.05 Pumps 0.00 0.00 0.00 0.00 0.00 Source: Authors' computations based on BRAC STUP evaluation data, 2007 and 2012. Notes: Control group means, accounting for attrition weights. N = 2599.</p><p xml:id="_A28Qzde">Table A.9 Impacts on intrahousehold ownership of agricultural assets, by asset type. Treatment impact on number of agricultural assets Asset Total owned in household Owned solely by female Owned in any part by female Owned jointly by male and female Owned solely by male Choppers 0.121*** -0.007 0.006 0.018 0.114*** (0.028) (0.022) (0.027) (0.013) (0.017) Stored crops (kg) 4.905*** 1.440* 2.590** 0.018 2.238*** (1.246) (0.832) (1.069) (0.475) (0.589) Cowsheds 0.258*** 0.075*** 0.121*** 0.036*** 0.138*** (0.023) (0.015) (0.019) (0.009) (0.012) Deep tube wells 0.006 0.001 0.005 0.003 0.001 (0.004) (0.002) (0.003) (0.003) (0.003) Ladders 0.009 0.003 -0.001 -0.006*** 0.009** (0.007) (0.004) (0.005) (0.002) (0.004) Mowing machines 0.069 -0.017 0.025 0.023 0.038 (0.057) (0.032) (0.048) (0.027) (0.034) Plows 0.020*** 0.002 0.007** 0.001 0.012** (0.007) (0.002) (0.003) (0.001) (0.006) Axes 0.162*** 0.039*** 0.073*** 0.025** 0.088*** (0.022) (0.011) (0.016) (0.010) (0.017) Pumps 0.010*** 0.002* 0.004*** 0.001 0.005*** (0.002) (0.001) (0.002) (0.001) (0.002) Source: Authors' computations based on BRAC STUP evaluation data, 2007 and 2012. Notes: Single-difference estimates with attrition weights; robust standard errors adjusted for survey design and clustering in parentheses. Each cell represents a separate regression. *** p b 0.01, ** p b 0.05, * p b 0.1. N = 6066.</p><p xml:id="_pQyjApR">Table A.10 Intrahousehold ownership of nonagricultural assets, by asset type. Treatment impact on number of nonagricultural assets Asset Total owned in household Owned solely by female Owned in any part by female Owned jointly by male and female Owned solely by male Bicycles 0.026*** -0.002 0.008 0.002 0.020*** (0.009) (0.002) (0.006) (0.001) (0.007) Mobile phones 0.076*** -0.005 0.018 0.000 0.053*** (0.014) (0.005) (0.011) (0.003) (0.008) Bamboo materials -0.089 -0.111** -0.164*** -0.055* 0.073*** (0.059) (0.044) (0.056) (0.029) (0.022) Trees 1.768*** 0.461* 0.878*** 0.364*** 0.887* (0.563) (0.274) (0.300) (0.085) (0.476) Rickshaws 0.018*** -0.001 0.001 0.001 0.016*** (0.006) (0.001) (0.003) (0.001) (0.005) Fishnets 0.025* -0.017** -0.009 0.003 0.033*** (0.013) (0.007) (0.009) (0.002) (0.009) Cottage materials 0.041** 0.033*** 0.031** -0.002 0.009* (0.017) (0.010) (0.015) (0.008) (0.005) Source: Author's computations based on BRAC STUP evaluation data, 2007 and 2012. Notes: Single-difference estimates with attrition weights; robust standard errors adjusted for survey design and clustering in parentheses. Each cell represents a separate regression. *** p b 0.01, ** p b 0.05, * p b 0.1. N = 6066.</p><p xml:id="_kjMgAqv">Table A.11 Intrahousehold ownership of consumer durables, by asset type. Treatment impact on number of consumer durables Asset Total owned in household Owned solely by female Owned in any part by female Owned jointly by male and female Owned solely by male Chairs 0.244*** 0.051*** 0.096*** 0.023 0.149*** (0.035) (0.018) (0.030) (0.019) (0.024) Beds 0.180*** -0.025 -0.009 0.025 0.204*** (0.033) (0.023) (0.036) (0.026) (0.029) Almirahs 0.104*** 0.011 0.024 0.001 0.076*** (0.021) (0.015) (0.018) (0.008) (0.012) Tube wells 0.136*** 0.054*** 0.061*** 0.004 0.074*** (0.017) (0.010) (0.013) (0.008) (0.013) Cooking instruments 0.278*** 0.063 -0.079 -0.115* 0.357*** (0.103) (0.098) (0.113) (0.063) (0.058) Men's clothing items 1.461*** 0.021 0.805*** -0.028* 0.636*** (0.196) (0.022) (0.146) (0.017) (0.091) Women's clothing items 0.734*** 0.076 0.554** -0.078*** 0.176*** (0.239) (0.126) (0.252) (0.024) (0.051) Silver jewelry items -1.379 -1.176 -1.365 -0.208 -0.032 (1.094) (0.950) (1.086) (0.177) (0.034) Gold jewelry items 0.538* 0.054 0.319 -0.003 0.035*** (0.324) (0.216) (0.296) (0.004) (0.009) Source: Authors' computations based on BRAC STUP evaluation data, 2007 and 2012. Notes: Single-difference estimates with attrition weights; robust standard errors adjusted for survey design and clustering in parentheses. Each cell represents a separate regression. *** p b 0.01, ** p b 0.05, * p b 0.1. N = 6066.</p><p xml:id="_MZS4N5m">Table A.12 Intrahousehold ownership of land, by asset type. Treatment impact on area of land Land Total owned in household Owned solely by female Owned in any part by female Owned jointly by male and female Owned solely by male Homestead land 0.539*** 0.060 0.108 0.028* 0.420*** (0.120) (0.053) (0.072) (0.016) (0.092) Cultivable land 0.542** 0.134* 0.072 -0.001 0.519*** (0.217) (0.071) (0.140) (0.006) (0.149) Source: Authors' computations based on BRAC STUP evaluation data, 2007 and 2012. Notes: Single-difference estimates with attrition weights; robust standard errors adjusted for survey design and clustering in parentheses. Each cell represents a separate regression. *** p b 0.01, ** p b 0.05, * p b 0.1. N = 6066.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>8 Fig. 1 .</head><label>81</label><figDesc xml:id="_Y5UzyVG">Fig. 1. Map showing STUP evaluation locations. Source: Adapted from Bandiera et al, 2012.</figDesc><graphic coords="4,136.74,53.18,312.95,406.21" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc xml:id="_qePeZyA">Balancing of baseline mean characteristics between nonattrited treatment and control groups, accounting for attrition weights.</figDesc><table><row><cell>Baseline characteristic</cell><cell cols="3">Control Treatment P-value of</cell></row><row><cell></cell><cell></cell><cell></cell><cell>difference</cell></row><row><cell>Household's wealth rank (6 = lowest)</cell><cell>4.81</cell><cell>4.79</cell><cell>0.60</cell></row><row><cell>Whether household owns</cell><cell>0.83</cell><cell>0.84</cell><cell>0.47</cell></row><row><cell>house (1 = yes, 0 = no)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Whether household owns</cell><cell>0.06</cell><cell>0.06</cell><cell>0.77</cell></row><row><cell>land (1 = yes, 0 = no)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Area of household's owned land</cell><cell>0.94</cell><cell>0.82</cell><cell>0.65</cell></row><row><cell>that is cultivated (decimals)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Value of household's owned land</cell><cell cols="2">2239.22 1824.64</cell><cell>0.52</cell></row><row><cell>that is cultivated (taka)</cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Area of household's owned pond land (decimals) 0.02</cell><cell>0.03</cell><cell>0.39</cell></row><row><cell>Value of household's owned pond land (taka)</cell><cell>64.36</cell><cell>76.02</cell><cell>0.81</cell></row><row><cell>Area of household's owned land that is</cell><cell>0.39</cell><cell>0.34</cell><cell>0.74</cell></row><row><cell>mortgaged out (decimals)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Value of household's owned land</cell><cell cols="2">1529.78 737.46</cell><cell>0.17</cell></row><row><cell>that is mortgaged out (taka)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Number of cows owned by household</cell><cell>0.07</cell><cell>0.08</cell><cell>0.49</cell></row><row><cell>Number of goats/sheep owned by household</cell><cell>1.78</cell><cell>1.79</cell><cell>0.95</cell></row><row><cell cols="2">Number of power pumps owned by household b0.01</cell><cell>b0.01</cell><cell>-</cell></row><row><cell>Number of plows owned by household</cell><cell>b0.01</cell><cell>b0.01</cell><cell>-</cell></row><row><cell>Number of cowsheds owned by household</cell><cell>0.09</cell><cell>0.11</cell><cell>0.12</cell></row><row><cell>Number of fishnets owned by household</cell><cell>0.02</cell><cell>0.03</cell><cell>0.59</cell></row><row><cell>Number of rickshaws owned by household</cell><cell>0.01</cell><cell>0.02</cell><cell>0.22</cell></row><row><cell>Number of trees owned by household</cell><cell>0.95</cell><cell>0.64</cell><cell>0.21</cell></row><row><cell>Number of radios owned by household</cell><cell>0.03</cell><cell>0.01</cell><cell>0.16</cell></row><row><cell>Number of electric fans owned by household</cell><cell>0.01</cell><cell>0.01</cell><cell>0.25</cell></row><row><cell>Number of bicycles owned by household</cell><cell>0.03</cell><cell>0.02</cell><cell>0.23</cell></row><row><cell>Number of chairs owned by household</cell><cell>0.23</cell><cell>0.21</cell><cell>0.34</cell></row><row><cell>Number of tables owned by household</cell><cell>0.16</cell><cell>0.14</cell><cell>0.15</cell></row><row><cell cols="2">Number of choukis (cots) owned by household 0.85</cell><cell>0.86</cell><cell>0.77</cell></row><row><cell>Number of sofas owned by household</cell><cell>0.01</cell><cell>0.01</cell><cell>0.83</cell></row><row><cell cols="2">Number of jewelry items owned by household b0.01</cell><cell>b0.01</cell><cell>-</cell></row><row><cell>Number of saris owned by household</cell><cell>0.31</cell><cell>0.33</cell><cell>0.36</cell></row><row><cell>Whether main female works as a homemaker</cell><cell>0.96</cell><cell>0.97</cell><cell>0.11</cell></row><row><cell>only (1 = yes, 0 = no)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Main female's years of education</cell><cell>0.55</cell><cell>0.60</cell><cell>0.25</cell></row><row><cell>Main male's years of education</cell><cell>0.56</cell><cell>0.60</cell><cell>0.42</cell></row></table><note xml:id="_jBCTekb"><p>Appendix</p><p>Table A.2. Source: Authors' computations based on BRAC STUP evaluation data, 2007 and 2012.</p><p>Note: All differences are statistically insignificant at the 10 percent level. "Main female" refers to female head or female spouse of head. "Main male" refers to male head or male spouse of head.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 3</head><label>3</label><figDesc xml:id="_YdTTJuj">Impacts on intrahousehold livestock ownership, by asset type.</figDesc><table><row><cell cols="3">Treatment impact on number of livestock</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Livestock</cell><cell>Total</cell><cell>Owned</cell><cell>Owned in</cell><cell>Owned jointly</cell><cell>Owned</cell></row><row><cell></cell><cell>owned in</cell><cell>solely by</cell><cell>any part by</cell><cell>by male and</cell><cell>solely by</cell></row><row><cell></cell><cell>household</cell><cell>female</cell><cell>female</cell><cell>female</cell><cell>male</cell></row><row><cell>Cows/buffalo</cell><cell>1.036***</cell><cell cols="2">0.817*** 0.958***</cell><cell>0.129***</cell><cell>0.076***</cell></row><row><cell></cell><cell>(0.031)</cell><cell>(0.031)</cell><cell>(0.032)</cell><cell>(0.014)</cell><cell>(0.013)</cell></row><row><cell>Goats/sheep</cell><cell>0.220***</cell><cell cols="2">0.159*** 0.192***</cell><cell>0.026**</cell><cell>0.026***</cell></row><row><cell></cell><cell>(0.037)</cell><cell>(0.033)</cell><cell>(0.036)</cell><cell>(0.011)</cell><cell>(0.010)</cell></row><row><cell cols="2">Chickens/ducks 0.883***</cell><cell cols="2">0.779*** 0.803***</cell><cell>0.027</cell><cell>0.079***</cell></row><row><cell></cell><cell>(0.123)</cell><cell>(0.116)</cell><cell>(0.121)</cell><cell>(0.029)</cell><cell>(0.023)</cell></row><row><cell cols="6">Source: Authors' computations based on BRAC STUP evaluation data, 2007 and 2012.</cell></row><row><cell cols="6">Notes: Single-difference estimates with attrition weights; robust standard errors adjusted</cell></row><row><cell cols="6">for survey design and clustering in parentheses. Each cell represents a separate regression.</cell></row><row><cell cols="3">*** p b 0.01, ** p b 0.05, * p b 0.1. N = 6066.</cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 2</head><label>2</label><figDesc xml:id="_UfYxx66">Transferred assets received by TUP, self-reported recall of treatment households in 2012.</figDesc><table><row><cell cols="2">Availability of self-reported</cell><cell cols="2">Conditional on non-missing report, %</cell></row><row><cell cols="2">recall on transferred assets</cell><cell cols="2">of HH reporting that they received any…</cell></row><row><cell>Missing reports of</cell><cell>15% (521)</cell><cell>Cows</cell><cell>92% (2703)</cell></row><row><cell>transferred assets</cell><cell></cell><cell>Goats/sheep</cell><cell>33% (963)</cell></row><row><cell></cell><cell></cell><cell>Chickens/ducks</cell><cell>21% (622)</cell></row><row><cell>Non-missing reports</cell><cell>85% (2946)</cell><cell>Nursery</cell><cell>b1% (3)</cell></row><row><cell>of transferred assets</cell><cell></cell><cell>Vegetable cultivation</cell><cell>b1% (9)</cell></row><row><cell></cell><cell></cell><cell>Small business</cell><cell>b1% (25)</cell></row><row><cell></cell><cell></cell><cell>Other assets</cell><cell>b1% (11)</cell></row><row><cell cols="3">Source: Authors' computations based on BRAC STUP evaluation data, 2012.</cell><cell></cell></row><row><cell cols="3">Notes: Number of relevant observations in parentheses. N = 3467.</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4</head><label>4</label><figDesc xml:id="_dBpQCSS">Impacts on intrahousehold asset ownership by asset categories, in terms of aggregate value (Taka).</figDesc><table><row><cell>Treatment</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 5</head><label>5</label><figDesc xml:id="_Ju5DCaW">Women's rights over livestock assets, conditional on ownership, by treatment status, 2012.</figDesc><table><row><cell>Livestock</cell><cell></cell><cell>% of HH that</cell><cell cols="2">Conditional on HH owning, % of HH</cell><cell>% of HH in which woman</cell><cell cols="2">Conditional on woman owning in any part, %</cell></row><row><cell></cell><cell></cell><cell>own any</cell><cell cols="2">in which woman has the right to (…)</cell><cell>owns in any part</cell><cell cols="2">of HH in which woman has the right to (…)</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Sell</cell><cell>Decide how to spend money generated</cell><cell></cell><cell>Sell</cell><cell>Decide how to spend money generated</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>from</cell><cell></cell><cell></cell><cell>from</cell></row><row><cell>Cows/buffalo</cell><cell>C</cell><cell>17</cell><cell>54</cell><cell>78</cell><cell>13</cell><cell>62</cell><cell>85</cell></row><row><cell></cell><cell>T</cell><cell>7 0</cell><cell>6 5</cell><cell>7 3</cell><cell>6 2</cell><cell>7 1</cell><cell>7 9</cell></row><row><cell>Goats/sheep</cell><cell>C</cell><cell>13</cell><cell>69</cell><cell>85</cell><cell>11</cell><cell>76</cell><cell>92</cell></row><row><cell></cell><cell>T</cell><cell>2 5</cell><cell>6 7</cell><cell>7 2</cell><cell>2 2</cell><cell>7 6</cell><cell>8 1</cell></row><row><cell>Chickens/ducks</cell><cell>C</cell><cell>34</cell><cell>84</cell><cell>90</cell><cell>33</cell><cell>85</cell><cell>91</cell></row><row><cell></cell><cell>T</cell><cell>4 7</cell><cell>7 6</cell><cell>7 8</cell><cell>4 4</cell><cell>8 1</cell><cell>8 2</cell></row><row><cell cols="5">Source: Authors' computations based on BRAC STUP evaluation data, 2007 and 2012.</cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="8">Notes: Includes all livestock assets asked about in 2012 survey, except those which few households in either intervention arm reported owning (horses, pigeons, other; these are included</cell></row><row><cell cols="5">in the aggregate measure in Table 4). N = 6066 (2599 control [C] and 3467 treatment [T]).</cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Table 6</head><label>6</label><figDesc xml:id="_Fauq3We">Women's rights over agricultural assets, conditional on ownership, by treatment status, 2012.</figDesc><table><row><cell></cell><cell cols="4">% of HH that own any Conditional on HH owning, % of HH in</cell><cell>% of HH in which woman</cell><cell cols="3">Conditional on woman owning in any part,</cell></row><row><cell></cell><cell></cell><cell cols="3">which woman has the right to (…)</cell><cell>owns in any part</cell><cell cols="3">% of HH in which woman has the right to (…)</cell></row><row><cell></cell><cell></cell><cell>Use</cell><cell>Sell</cell><cell>Decide how to spend money</cell><cell></cell><cell>Use</cell><cell>Sell</cell><cell>Decide how to spend money</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>generated from</cell><cell></cell><cell></cell><cell></cell><cell>generated from</cell></row><row><cell>Choppers</cell><cell>C 57</cell><cell>99</cell><cell>59</cell><cell>81</cell><cell>43</cell><cell>99</cell><cell>76</cell><cell>89</cell></row><row><cell></cell><cell>T 6 7</cell><cell>9 9</cell><cell>4 3</cell><cell>6 0</cell><cell>4 2</cell><cell>9 9</cell><cell>6 6</cell><cell>8 0</cell></row><row><cell>Stored crops (kg)</cell><cell>C 4</cell><cell>100</cell><cell>55</cell><cell>77</cell><cell>3</cell><cell>100</cell><cell>72</cell><cell>92</cell></row><row><cell></cell><cell>T 12</cell><cell>100</cell><cell>37</cell><cell>52</cell><cell>6</cell><cell>100</cell><cell>71</cell><cell>85</cell></row><row><cell>Cowsheds</cell><cell>C 27</cell><cell>99</cell><cell>54</cell><cell>81</cell><cell>20</cell><cell>99</cell><cell>69</cell><cell>88</cell></row><row><cell></cell><cell>T 4 8</cell><cell>9 9</cell><cell>4 1</cell><cell>6 0</cell><cell>2 9</cell><cell>9 9</cell><cell>6 5</cell><cell>8 1</cell></row><row><cell>Ladders</cell><cell>C 3</cell><cell>100</cell><cell>42</cell><cell>55</cell><cell>2</cell><cell>100</cell><cell>66</cell><cell>72</cell></row><row><cell></cell><cell>T 4</cell><cell>97</cell><cell>37</cell><cell>60</cell><cell>2</cell><cell>100</cell><cell>72</cell><cell>81</cell></row><row><cell cols="2">Mowing machines C 78</cell><cell>99</cell><cell>60</cell><cell>82</cell><cell>56</cell><cell>99</cell><cell>76</cell><cell>91</cell></row><row><cell></cell><cell>T 7 5</cell><cell>9 9</cell><cell>5 1</cell><cell>7 0</cell><cell>5 1</cell><cell>9 9</cell><cell>7 2</cell><cell>8 6</cell></row><row><cell>Plows</cell><cell>C 1</cell><cell>86</cell><cell>17</cell><cell>60</cell><cell>b1</cell><cell>100</cell><cell>42</cell><cell>85</cell></row><row><cell></cell><cell>T 2</cell><cell>86</cell><cell>14</cell><cell>55</cell><cell>b1</cell><cell>9 5</cell><cell>3 6</cell><cell>6 8</cell></row><row><cell>Axes</cell><cell>C 31</cell><cell>99</cell><cell>39</cell><cell>71</cell><cell>15</cell><cell>99</cell><cell>67</cell><cell>87</cell></row><row><cell></cell><cell>T 4 3</cell><cell>9 9</cell><cell>3 1</cell><cell>5 6</cell><cell>2 0</cell><cell>9 9</cell><cell>5 9</cell><cell>8 0</cell></row><row><cell cols="5">Source: Authors' computations based on BRAC STUP evaluation data, 2007 and 2012.</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6"><head>Table 7</head><label>7</label><figDesc xml:id="_QA4hkxg">Women's rights over non-agricultural assets, conditional on ownership, by treatment status, 2012.Includes all non-agricultural assets asked about in 2012 survey, except those which few households in either intervention arm reported owning (motorcycles, CNGs, sewing machines, computers, small business materials, boats, husking equipment, cottage materials, other; these are included in the aggregate measure in Table4). N = 6066 (2599 control [C] and 3467 treatment [T]).</figDesc><table><row><cell></cell><cell></cell><cell>% of HH</cell><cell cols="3">Conditional on HH owning, % of HH in</cell><cell>% of HH in which woman</cell><cell cols="3">Conditional on woman owning in any part, %</cell></row><row><cell></cell><cell></cell><cell>that own any</cell><cell cols="3">which woman has the right to (…)</cell><cell>owns in any part</cell><cell cols="3">of HH in which woman has the right to (…)</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Use</cell><cell>Sell</cell><cell>Decide how to spend money</cell><cell></cell><cell>Use</cell><cell>Sell</cell><cell>Decide how to spend money</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>generated from</cell><cell></cell><cell></cell><cell></cell><cell>generated from</cell></row><row><cell>Bicycles</cell><cell>C</cell><cell>9</cell><cell>92</cell><cell>15</cell><cell>52</cell><cell>3</cell><cell>90</cell><cell>25</cell><cell>47</cell></row><row><cell></cell><cell>T</cell><cell>11</cell><cell>75</cell><cell>7</cell><cell>27</cell><cell>4</cell><cell>70</cell><cell>13</cell><cell>32</cell></row><row><cell>Mobile phones</cell><cell>C</cell><cell>17</cell><cell>98</cell><cell>26</cell><cell>56</cell><cell>12</cell><cell>98</cell><cell>33</cell><cell>61</cell></row><row><cell></cell><cell>T</cell><cell>2 4</cell><cell>9 8</cell><cell>1 2</cell><cell>3 7</cell><cell>1 3</cell><cell>9 7</cell><cell>1 9</cell><cell>4 5</cell></row><row><cell>Bamboo materials</cell><cell>C</cell><cell>68</cell><cell>99</cell><cell>74</cell><cell>88</cell><cell>59</cell><cell>99</cell><cell>83</cell><cell>92</cell></row><row><cell></cell><cell>T</cell><cell>6 0</cell><cell>9 9</cell><cell>6 1</cell><cell>7 6</cell><cell>4 8</cell><cell>9 9</cell><cell>7 3</cell><cell>8 5</cell></row><row><cell>Trees</cell><cell>C</cell><cell>30</cell><cell>99</cell><cell>45</cell><cell>74</cell><cell>17</cell><cell>99</cell><cell>71</cell><cell>87</cell></row><row><cell></cell><cell>T</cell><cell>3 8</cell><cell>9 8</cell><cell>3 4</cell><cell>5 7</cell><cell>1 9</cell><cell>9 8</cell><cell>6 5</cell><cell>8 3</cell></row><row><cell>Rickshaws</cell><cell>C</cell><cell>4</cell><cell>90</cell><cell>14</cell><cell>57</cell><cell>1</cell><cell>77</cell><cell>22</cell><cell>66</cell></row><row><cell></cell><cell>T</cell><cell>5</cell><cell>75</cell><cell>5</cell><cell>34</cell><cell>1</cell><cell>68</cell><cell>13</cell><cell>50</cell></row><row><cell>Fishnets</cell><cell>C</cell><cell>3</cell><cell>89</cell><cell>40</cell><cell>63</cell><cell>1</cell><cell>89</cell><cell>68</cell><cell>72</cell></row><row><cell></cell><cell>T</cell><cell>6</cell><cell>87</cell><cell>18</cell><cell>46</cell><cell>1</cell><cell>91</cell><cell>46</cell><cell>56</cell></row><row><cell cols="6">Source: Authors' computations based on BRAC STUP evaluation data, 2007 and 2012.</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Notes:</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_7"><head>Table 8</head><label>8</label><figDesc xml:id="_uDg3Ee2">Women's rights over consumer durables, conditional on ownership, by treatment status, 2012.</figDesc><table><row><cell></cell><cell></cell><cell>% of HH that</cell><cell>Conditional on HH</cell><cell></cell><cell>% of HH in</cell><cell cols="2">Conditional on woman</cell></row><row><cell></cell><cell></cell><cell>own any</cell><cell>owning, % of HH in</cell><cell></cell><cell>which woman</cell><cell cols="2">owning in any part, % of</cell></row><row><cell></cell><cell></cell><cell></cell><cell cols="2">which woman has the</cell><cell>owns in any part</cell><cell cols="2">HH in which woman</cell></row><row><cell></cell><cell></cell><cell></cell><cell>right to (…)</cell><cell></cell><cell></cell><cell cols="2">has the right to (…)</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Use</cell><cell>Sell</cell><cell></cell><cell>Use</cell><cell>Sell</cell></row><row><cell>Chairs</cell><cell>C</cell><cell>34</cell><cell>99</cell><cell>41</cell><cell>21</cell><cell>99</cell><cell>60</cell></row><row><cell></cell><cell>T</cell><cell>4 3</cell><cell>9 9</cell><cell>3 3</cell><cell>2 4</cell><cell>9 9</cell><cell>5 4</cell></row><row><cell>Beds</cell><cell>C</cell><cell>85</cell><cell>99</cell><cell>53</cell><cell>57</cell><cell>99</cell><cell>66</cell></row><row><cell></cell><cell>T</cell><cell>8 9</cell><cell>9 9</cell><cell>4 1</cell><cell>5 2</cell><cell>9 9</cell><cell>6 1</cell></row><row><cell>Almirahs</cell><cell>C</cell><cell>31</cell><cell>99</cell><cell>54</cell><cell>24</cell><cell>99</cell><cell>66</cell></row><row><cell></cell><cell>T</cell><cell>4 0</cell><cell>9 8</cell><cell>4 0</cell><cell>2 6</cell><cell>9 8</cell><cell>5 9</cell></row><row><cell>Tube wells</cell><cell>C</cell><cell>33</cell><cell>99</cell><cell>32</cell><cell>18</cell><cell>98</cell><cell>53</cell></row><row><cell></cell><cell>T</cell><cell>4 6</cell><cell>9 9</cell><cell>3 1</cell><cell>2 4</cell><cell>9 9</cell><cell>5 6</cell></row><row><cell>Cooking instruments</cell><cell>C</cell><cell>99</cell><cell>99</cell><cell>74</cell><cell>92</cell><cell>99</cell><cell>78</cell></row><row><cell></cell><cell>T</cell><cell>9 9</cell><cell>9 9</cell><cell>6 2</cell><cell>8 4</cell><cell>9 9</cell><cell>7 2</cell></row><row><cell>Men's clothing items</cell><cell>C</cell><cell>68</cell><cell>-</cell><cell>27</cell><cell>52</cell><cell>-</cell><cell>30</cell></row><row><cell></cell><cell>T</cell><cell>7 9</cell><cell>-</cell><cell>11</cell><cell>59</cell><cell>-</cell><cell>13</cell></row><row><cell>Women's clothing items</cell><cell>C</cell><cell>99</cell><cell>99</cell><cell>77</cell><cell>98</cell><cell>99</cell><cell>78</cell></row><row><cell></cell><cell>T</cell><cell>9 9</cell><cell>9 8</cell><cell>6 7</cell><cell>9 5</cell><cell>9 8</cell><cell>7 0</cell></row><row><cell>Silver jewelry items</cell><cell>C</cell><cell>11</cell><cell>98</cell><cell>77</cell><cell>10</cell><cell>98</cell><cell>77</cell></row><row><cell></cell><cell>T</cell><cell>9</cell><cell>92</cell><cell>58</cell><cell>9</cell><cell>92</cell><cell>58</cell></row><row><cell>Gold jewelry items</cell><cell>C</cell><cell>39</cell><cell>96</cell><cell>58</cell><cell>38</cell><cell>96</cell><cell>58</cell></row><row><cell></cell><cell>T</cell><cell>5 0</cell><cell>9 2</cell><cell>5 1</cell><cell>4 7</cell><cell>9 2</cell><cell>5 4</cell></row><row><cell cols="3">Source: Authors' computations based on BRAC STUP evaluation data, 2007 and 2012.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_8"><head>Table 9</head><label>9</label><figDesc xml:id="_SJEmcsJ">Women's rights over land assets, conditional on household ownership, by treatment status, 2012.</figDesc><table><row><cell>Land</cell><cell></cell><cell>% of HH that</cell><cell cols="3">Conditional on HH owning, % of HH in</cell><cell>% of HH in which woman</cell><cell cols="3">Conditional on woman owning in any part, %</cell></row><row><cell></cell><cell></cell><cell>own any</cell><cell cols="3">which woman has the right to (…)</cell><cell>owns in any part</cell><cell cols="3">of HH in which woman has the right to (…)</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Use</cell><cell>Sell</cell><cell>Decide how to spend</cell><cell></cell><cell>Use</cell><cell>Sell</cell><cell>Decide how to spend</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>money generated from</cell><cell></cell><cell></cell><cell></cell><cell>money generated from</cell></row><row><cell>Homestead land</cell><cell>C</cell><cell>51</cell><cell>99</cell><cell>37</cell><cell>69</cell><cell>26</cell><cell>99</cell><cell>69</cell><cell>84</cell></row><row><cell></cell><cell>T</cell><cell>5 9</cell><cell>9 9</cell><cell>2 8</cell><cell>4 7</cell><cell>2 4</cell><cell>9 9</cell><cell>6 6</cell><cell>7 6</cell></row><row><cell>Cultivable land</cell><cell>C</cell><cell>4</cell><cell>98</cell><cell>33</cell><cell>75</cell><cell>2</cell><cell>98</cell><cell>63</cell><cell>85</cell></row><row><cell></cell><cell>T</cell><cell>8</cell><cell>98</cell><cell>26</cell><cell>47</cell><cell>3</cell><cell>98</cell><cell>66</cell><cell>73</cell></row><row><cell cols="6">Source: Authors' computations based on BRAC STUP evaluation data, 2007 and 2012.</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_9"><head>Table 10</head><label>10</label><figDesc xml:id="_vfZRsN7">Intrahousehold decisionmaking regarding livestock.</figDesc><table><row><cell cols="3">Treatment impact on women's decisionmaking</cell><cell></cell></row><row><cell></cell><cell>Woman</cell><cell>She has any</cell><cell>She and her</cell><cell>Her husband</cell></row><row><cell></cell><cell>solely</cell><cell>voice in</cell><cell>husband</cell><cell>solely</cell></row><row><cell></cell><cell>decides</cell><cell>deciding</cell><cell>jointly decide</cell><cell>decides</cell></row><row><cell>Whether to buy a cow</cell><cell cols="2">0.046*** 0.182***</cell><cell>0.124***</cell><cell>0.002</cell></row><row><cell></cell><cell cols="2">(0.009) (0.024)</cell><cell>(0.016)</cell><cell>(0.003)</cell></row><row><cell>Whether to sell a cow</cell><cell cols="2">0.082*** 0.242***</cell><cell>0.132***</cell><cell>0.011***</cell></row><row><cell></cell><cell cols="2">(0.008) (0.016)</cell><cell>(0.011)</cell><cell>(0.003)</cell></row><row><cell>Whether to lease a cow</cell><cell cols="2">0.069*** 0.210***</cell><cell>0.121***</cell><cell>0.004</cell></row><row><cell></cell><cell cols="2">(0.008) (0.017)</cell><cell>(0.011)</cell><cell>(0.003)</cell></row><row><cell>Dairy maintenance expenses</cell><cell cols="2">0.145*** 0.424***</cell><cell>0.233***</cell><cell>0.024***</cell></row><row><cell>(buying feed, medicine, etc)</cell><cell cols="2">(0.009) (0.017)</cell><cell>(0.012)</cell><cell>(0.005)</cell></row><row><cell>Selling milk</cell><cell cols="2">0.131*** 0.365***</cell><cell>0.201***</cell><cell>0.009***</cell></row><row><cell></cell><cell cols="2">(0.008) (0.016)</cell><cell>(0.011)</cell><cell>(0.003)</cell></row><row><cell>Giving milk to children</cell><cell cols="2">-0.006 0.031***</cell><cell>0.034***</cell><cell>0.000</cell></row><row><cell></cell><cell cols="2">(0.006) (0.009)</cell><cell>(0.007)</cell><cell>(0.002)</cell></row><row><cell>Giving milk to other</cell><cell cols="2">-0.017 0.117***</cell><cell>0.137***</cell><cell>0.002</cell></row><row><cell>members of the household</cell><cell cols="2">(0.017) (0.013)</cell><cell>(0.018)</cell><cell>(0.005)</cell></row></table><note xml:id="_KBWb2zm"><p>Source: Authors' computations based on BRAC STUP evaluation data, 2007 and 2012. Notes: Single-difference estimates with attrition weights; robust standard errors adjusted for survey design and clustering in parentheses. Each cell represents a separate regression. *** p b 0.01, ** p b 0.05, * p b 0.1. N = 6066.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_10"><head>Table 11</head><label>11</label><figDesc xml:id="_BrW7FxN">Decisions regarding women's work, location of work, and control of earnings from women's work.</figDesc><table><row><cell>Decision</cell><cell>Impact</cell></row><row><cell></cell><cell>estimate</cell></row><row><cell>Panel A: Women's work and location of work</cell><cell></cell></row><row><cell>Treatment impact on</cell><cell></cell></row><row><cell>Whether the main female works</cell><cell>0.009</cell></row><row><cell></cell><cell>(0.015)</cell></row><row><cell>Whether the main female works inside the home</cell><cell>0.167***</cell></row><row><cell></cell><cell>(0.024)</cell></row><row><cell>Whether the main female works outside the home</cell><cell>-0.080***</cell></row><row><cell></cell><cell>(0.017)</cell></row><row><cell></cell><cell>6066</cell></row><row><cell>Panel B: Control over earnings of women who work</cell><cell></cell></row><row><cell>Treatment impact on whether the main female works and</cell><cell></cell></row><row><cell>Keeps all of the income earned</cell><cell>-0.077***</cell></row><row><cell></cell><cell>(0.015)</cell></row><row><cell>Keeps any of the income earned</cell><cell>-0.044**</cell></row><row><cell></cell><cell>(0.019)</cell></row><row><cell>Keeps none of the income earned</cell><cell>0.053***</cell></row><row><cell></cell><cell>(0.014)</cell></row><row><cell>Panel C: Decisionmaking over earnings of women who work</cell><cell></cell></row><row><cell>Treatment impact on whether main female works and</cell><cell></cell></row><row><cell>She solely decides how to spend the money she earns</cell><cell>-0.092***</cell></row><row><cell></cell><cell>(0.015)</cell></row><row><cell>She has any voice in deciding how to spend the money she earns</cell><cell>0.006</cell></row><row><cell></cell><cell>(0.015)</cell></row><row><cell>She and her husband jointly decide how to spend the money she earns</cell><cell>0.105***</cell></row><row><cell></cell><cell>(0.016)</cell></row><row><cell>Her husband solely decides how to spend the money she earns</cell><cell>0.003</cell></row><row><cell></cell><cell>(0.006)</cell></row><row><cell cols="2">Source: Authors' computations based on BRAC STUP evaluation data, 2007 and 2012.</cell></row><row><cell cols="2">Notes: Single-difference estimates with attrition weights; robust standard errors adjusted</cell></row><row><cell cols="2">for survey design and clustering in parentheses. Each cell represents a separate regression.</cell></row><row><cell>*** p b 0.01, ** p b 0.05, * p b 0.1. N = 6066.</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_11"><head>Table 13</head><label>13</label><figDesc xml:id="_jXNQuQG">Whether women control the money needed for purchases of food or items for themselves.</figDesc><table><row><cell cols="2">Treatment impact on whether the woman herself controls the money needed to</cell></row><row><cell>buy …</cell><cell></cell></row><row><cell>Food from the market</cell><cell>-0.151***</cell></row><row><cell></cell><cell>(0.017)</cell></row><row><cell>Clothes for herself</cell><cell>-0.120***</cell></row><row><cell></cell><cell>(0.018)</cell></row><row><cell>Medicine for herself</cell><cell>-0.153***</cell></row><row><cell></cell><cell>(0.017)</cell></row><row><cell>Cosmetics for herself</cell><cell>-0.068***</cell></row><row><cell></cell><cell>(0.019)</cell></row></table><note xml:id="_TUrFGM6"><p>Source: Authors' computations based on BRAC STUP evaluation data, 2007 and 2012. Notes: Single-difference estimates with attrition weights; robust standard errors adjusted for survey design and clustering in parentheses. Each cell represents a separate regression. *** p b 0.01, ** p b 0.05, * p b 0.1. N = 6066.</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="3" xml:id="foot_0"><p xml:id="_9HYPJsn">Early evidence in the agricultural commercialization literature<ref type="bibr" target="#b27">(Jones, 1983;</ref><ref type="bibr" target="#b40">von Braun and Webb, 1989)</ref> suggests that, when new crops were introduced to women in Cameroon and Gambia, men took control of those crops once they became profitable. Recent evidence from conditional cash transfer programs inMexico and Brazil (de Brauw  et al., 2014;<ref type="bibr" target="#b25">Handa et al, 2009)</ref> suggests that cash transfers given to women may not be fully controlled by women, particularly in rural areas. Studies of the impact of microfinance in Bangladesh have also found that loans targeted to women, although taken out by women NGO members and increasing resources available to them, are often controlled by their husbands<ref type="bibr" target="#b23">(Goetz and Gupta, 1996;</ref><ref type="bibr" target="#b26">Hashemi et al., 1996)</ref>.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p xml:id="_dq5J8DY">S. Roy et al. / Journal of Development Economics 117 (2015) 1-19</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_2"><p xml:id="_6b9SGey">For example, although microcredit programs are widespread in rural Bangladesh, extremely poor households often cannot participate due to lack of collateral.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="5" xml:id="foot_3"><p xml:id="_NykX8Kv">Indicators of women's empowerment in the<ref type="bibr" target="#b20">Emran et al. (2014)</ref> study included the ratio of saris to lungis, the presence of female children working, whether female children were able to read and write a letter, and the years of schooling of female children.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="6" xml:id="foot_4"><p xml:id="_uTPNUE2">Each subdistrict typically includes more than two BRAC branch offices. These branch offices cover an area of about 6-7 km in radius.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="7" xml:id="foot_5"><p xml:id="_PWfrDvU">To our knowledge, "productive assets" was understood in practice to include cows, goats, poultry, rickshaws, boats, vans, or cars.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="8" xml:id="foot_6"><p xml:id="_c9cwj7R">A back-of-the-envelope calculation based on samples described by<ref type="bibr" target="#b4">Bandiera et al (2012)</ref> indicates that eligible households likely constituted about 6% of their communities, on average.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="12" xml:id="foot_7"><p xml:id="_r5UfKPA">The survey also included 19,012 non-eligible households in the sample, to assess spillover effects on other wealth classes. This paper focuses on analyzing direct impacts on only the eligible households.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="15" xml:id="foot_8"><p xml:id="_75Gak3E">We note that although treatment is random, the specific type of asset provided conditional on treatment is not random. As described in Section 2, both the household and the program had some role in choosing which package of assets the household received. For this reason we do not present impacts disaggregated by asset type, since asset type may be endogenous. Instead in our main results we present impacts on only the pooled treatment (over all asset types). In estimation over the pooled treatment and control, the fact that asset type was not random does not create any bias.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="16" xml:id="foot_9"><p xml:id="_TacEj56">Athough the reports of "which" assets were received are generally plausible and consistent with what we know about the program, the recalled reports of numbers received are considerably less plausible. For example, some beneficiaries report receiving 7 cows, which is not consistent with the program's protocol. We suspect these issues might be due in part to the long (though unavoidable for us) recall period.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="23" xml:id="foot_10"><p xml:id="_3U8mJQP">Here we focus on associations rather than impacts. The survey asked only about rights</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="24" xml:id="foot_11"><p xml:id="_n8JytpF">The questions on rights are not as directly relevant to cash (e.g., there is no clear counterpart to "using" cash without depleting it or to "selling" cash), so we do not show similar tables. However, the analysis of impacts on control over earnings and expenditures shown later in Sections 5.3.5 and 5.3.6 gives some indication that women's perceived ownership over cash may translate to limited rights over it.</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head xml:id="_yu4WQ4b">Acknowledgments</head><p xml:id="_dpGp3Xs">This paper was supported through the <rs type="funder">Gender, Agriculture</rs>, and Assets Project (GAAP), funded by the <rs type="funder">Bill and Melinda Gates Foundation</rs>, and built on the existing impact evaluation of <rs type="projectName">CFPR TUP</rs> undertaken by <rs type="institution">BRAC's Research and Evaluation Department</rs>. We gratefully acknowledge <rs type="person">Mahabub Hossain</rs>, <rs type="person">Ahmed Mushtaque Raza Chowdhury</rs>, and <rs type="person">J.M. H. Jain</rs> at <rs type="affiliation">BRAC</rs> for their overall support and guidance for this work; <rs type="person">Rabeya Yasmin</rs> and <rs type="person">Rozina Haque</rs> for insights into the program's operations; and <rs type="person">Md. Kamruzzaman</rs>, <rs type="person">Peter Davis</rs>, and <rs type="person">Julia Behrman</rs> for leading and providing insights from the qualitative component of the larger study. We also thank <rs type="person">Anirudh Krishna</rs>, <rs type="person">Shelly Feldman</rs>, <rs type="person">Jere Behrman</rs>, GAAP colleagues, and <rs type="institution">BRAC RED</rs> colleagues for numerous helpful discussions. All errors and omissions are our own.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funded-project" xml:id="_TRSePgk">
+					<orgName type="project" subtype="full">CFPR TUP</orgName>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_4bJkSFG"><p xml:id="_Y4mTqhw">Appendix A Appendix B. Supplementary data Supplementary data to this article can be found online at <ref type="url" target="http://creativecommons.org/licenses/by/4.0/">http://dx.  doi.org/10.1016/j.jdeveco.2015.06.004</ref>.</p><p xml:id="_esv5gTa">Table A.1 Attrition of households eligible for gender analysis between 2007 and 2012 rounds. Total Treatment Control Total households eligible in 2007 sample 7392 4493 2899 Lost from sample by 2012 round 1326 1026 22.9% 300 10.4% Stayed in sample through 2012 round 6066 3467 77.1% 2599 89.6% Source: Authors' computations based on BRAC STUP evaluation data, 2007 and 2012. Notes: Eligible households refers to households that were eligible for the Specially Targeted Ultra Poor (STUP) program and were headed by a male-female partnership (i.e., either a male head with female spouse, or female head with male spouse).</p><p xml:id="_cm7G2pd">Table A.5 Control group intrahousehold ownership of nonagricultural assets, by asset type. Number of nonagricultural assets Asset Total owned in household Owned solely by female Owned in any part by female Owned solely by male Owned jointly by male and female Bicycles 0.09 0.01 0.03 0.05 0.00 Mobile phones 0.18 0.03 0.12 0.05 0.01 Sewing machines 0.00 0.00 0.00 0.00 0.00 Bamboo materials 1.19 0.77 1.05 0.14 0.22 Trees 1.68 0.53 0.93 0.76 0.17 Cash (taka) 447.43 264.33 337.93 30.21 51.47 Rickshaws 0.03 0.00 0.01 0.02 0.00 Fishnets 0.06 0.02 0.03 0.02 0.00 Cottage materials 0.02 0.01 0.02 0.00 0.01 Source: Authors' computations based on BRAC STUP evaluation data, 2007 and 2012. Notes: Control group means, accounting for attrition weights. N = 2599.</p><p xml:id="_dtHnQ4M">Table A.6 Control group intrahousehold ownership of consumer durables, by asset type. Number of consumer durables Asset Total owned in household Owned solely by female Owned in any part by female Owned solely by male Owned jointly by male and female Chairs 0.61 0.17 0.40 0.21 0.14 Beds 1.27 0.46 0.85 0.35 0.25 Almirahs 0.33 0.17 0.26 0.07 0.06 TVs 0.01 0.00 0.00 0.00 0.00 Tube wells 0.32 0.09 0.18 0.14 0.06 Cooking instruments 3.78 2.67 3.52 0.25 0.60 Men's clothing items 5.46 0.12 3.40 2.04 0.06 Women's clothing items 6.81 3.64 6.71 0.08 0.10 Silver jewelry items 8.38 6.82 8.23 0.03 0.21 Gold jewelry items 1.75 1.29 1.73 0.01 0.01 Source: Authors' computations based on BRAC STUP evaluation data, 2007 and 2012. Notes: Control group means, accounting for attrition weights. N = 2599.</p><p xml:id="_xsPFYEz">Table A.7 Control group intrahousehold ownership of land, by asset type. Area of land Land Total owned in household Owned solely by female Owned in any part by female Owned solely by male Owned jointly by male and female Homestead land 2.06 0.56 0.93 1.12 0.02 Cultivable land 1.01 0.19 0.51 0.45 0.01 Pond 0.02 0.00 0.01 0.01 0.00 Source: Authors' computations based on BRAC STUP evaluation data, 2007 and 2012. Notes: Control group means, accounting for attrition weights. N = 2599.</p><p xml:id="_xGAYwJ6">Table A.8 Control group decisions regarding women's work, location of work, and control of earnings from women's work. Decision Control group mean Panel A: Women's work and location of work Whether the main female works 0.82 Whether the main female works inside the home 0.50 Whether the main female works outside the home 0.71 Panel B: Control over earnings of women who work Proportion of households in which main female works and Keeps all of the income earned 0.38 Keeps any of the income earned 0.65 Keeps none of the income earned 0.17 Panel C: Decisionmaking over earnings of women who work Proportion of households in which main female works and She solely decides how to spend the money she earns 0.42 She has any voice in deciding how to spend the money she earns 0.80 Her husband solely decides how to spend the money she earns 0.03 She and her husband jointly decide how to spend the money she earns 0.31 Source: Authors' computations based on BRAC STUP evaluation data, 2007 and 2012. Notes: Control group means, accounting for attrition weights. N = 2599.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted"  xml:id="b0">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><surname>Adato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Coady</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ruel</surname></persName>
+		</author>
+		<title level="m" xml:id="_cGS5y7A">An Operations Evaluation of PROGRESA at the Level of Beneficiaries, Communities, and Institutions. Report submitted to PROGRESA</title>
+		<meeting><address><addrLine>Washington, DC</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+		<respStmt>
+			<orgName>Policy Research Institute</orgName>
+		</respStmt>
+	</monogr>
+	<note>International Food</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b1">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><surname>Adato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>De La Briere</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Mindek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Quisumbing</surname></persName>
+		</author>
+		<title level="m" xml:id="_FM3fzb4">Final Report: The Impact of PROGRESA on Women&apos;s Status and Intrahousehold Relations</title>
+		<meeting><address><addrLine>Washington, DC</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2000">2000b</date>
+		</imprint>
+		<respStmt>
+			<orgName>International Food Policy Research Institute, Food Consumption and Nutrition Division</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main" xml:id="_TFsRyrC">Spousal Control and Intra-Household Decision Making: An Experimental Study in the Philippines</title>
+		<author>
+			<persName><forename type="first">Nava</forename><surname>Ashraf</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/aer.99.4.1245</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Dwv7aGd">American Economic Review</title>
+		<title level="j" type="abbrev">American Economic Review</title>
+		<idno type="ISSN">0002-8282</idno>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1245" to="1277" />
+			<date type="published" when="2009-08-01">2009</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main" xml:id="_KvfC7zE">Tests of Income Pooling in Household Decisions</title>
+		<author>
+			<persName><forename type="first">Orazio</forename><surname>Attanasio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Valérie</forename><surname>Lechene</surname></persName>
+		</author>
+		<idno type="DOI">10.1006/redy.2002.0191</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_5J4ecGq">Review of Economic Dynamics</title>
+		<title level="j" type="abbrev">Review of Economic Dynamics</title>
+		<idno type="ISSN">1094-2025</idno>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="720" to="748" />
+			<date type="published" when="2002-10">2002</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b4">
+	<monogr>
+		<title level="m" type="main" xml:id="_pSDVvfJ">Empowering Adolescent Girls</title>
+		<author>
+			<persName><forename type="first">Oriana</forename><surname>Bandiera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Niklas</forename><surname>Buehren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robin</forename><surname>Burgess</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Markus</forename><surname>Goldstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Selim</forename><surname>Gulesci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Imran</forename><surname>Rasul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Munshi</forename><surname>Sulaiman</surname></persName>
+		</author>
+		<idno type="DOI">10.1596/25529</idno>
+		<idno>No. 22</idno>
+		<imprint>
+			<date type="published" when="2012-12">2012</date>
+			<publisher>World Bank, Washington, DC</publisher>
+			<pubPlace>Dhaka, Bangladesh</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>BRAC Research and Development Division</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">CFPR Working Paper</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main" xml:id="_fXtteFV">Can Basic Entrepreneurship Transform the Economic Lives of the Poor?</title>
+		<author>
+			<persName><forename type="first">Oriana</forename><surname>Bandiera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robin</forename><surname>Burgess</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Narayan</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Selim</forename><surname>Gulesci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Imran</forename><surname>Rasul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Munshi</forename><surname>Sulaiman</surname></persName>
+		</author>
+		<idno type="DOI">10.2139/ssrn.2266813</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_mGD6U3M">SSRN Electronic Journal</title>
+		<title level="j" type="abbrev">SSRN Journal</title>
+		<idno type="ISSNe">1556-5068</idno>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main" xml:id="_EFNJPtH">Supplementary feeding programs for young children in developing countries</title>
+		<author>
+			<persName><forename type="first">George</forename><forename type="middle">H</forename><surname>Beaton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hossein</forename><surname>Ghassemi</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/ajcn/35.4.864a</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_g2cq35Q">The American Journal of Clinical Nutrition</title>
+		<title level="j" type="abbrev">The American Journal of Clinical Nutrition</title>
+		<idno type="ISSN">0002-9165</idno>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="864" to="916" />
+			<date type="published" when="1982-04">1982</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b7">
+	<monogr>
+		<author>
+			<persName><forename type="first">E</forename><surname>Becker</surname></persName>
+		</author>
+		<title level="m" xml:id="_hyVC4KX">Themes from feed the future women&apos;s empowerment in agriculture index: report from qualitative case studies in Bangladesh, Guatemala and Uganda</title>
+		<meeting><address><addrLine>Washington, DC</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note>ternational Food Policy Research Institute</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main" xml:id="_J3JZY2C">Chapter 4 Intrahousehold distribution and the family</title>
+		<author>
+			<persName><forename type="first">Jere</forename><forename type="middle">R</forename><surname>Behrman</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s1574-003x(97)80021-9</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_GcuHx9y">Handbook of Population and Family Economics</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Rosenzweig</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">O</forename><surname>Stark</surname></persName>
+		</editor>
+		<meeting><address><addrLine>North-Holland, Amsterdam</addrLine></address></meeting>
+		<imprint>
+			<publisher>Elsevier</publisher>
+			<date type="published" when="1997">1997</date>
+			<biblScope unit="page" from="125" to="187" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main" xml:id="_ru7WDvT">A Matched Case-Control Study to Identify Risk Determinants of Tuberculosis in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Malabika</forename><surname>Sarker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fahmida</forename><surname>Homayra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mrittika</forename><surname>Barua</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sukanta</forename><surname>Paul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Avijit</forename><surname>Saha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rahima</forename><surname>Akter James P Grant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H M</forename><surname>Mahbub Latif</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shayela</forename><surname>Islam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Akramul</forename><surname>Lslam</surname></persName>
+		</author>
+		<idno type="DOI">10.5176/2251-3833_ghc17.05</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_YTA778n">Annual Global Healthcare Conference (GHC)</title>
+		<meeting><address><addrLine>Dhaka, Bangladesh</addrLine></address></meeting>
+		<imprint>
+			<publisher>Global Science &amp; Technology Forum (GSTF)</publisher>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="page" from="11" to="16" />
+		</imprint>
+		<respStmt>
+			<orgName>BRAC Research and Evaluation Division</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main" xml:id="_b76bC5Q">Diagnosis and Management of Spontaneous Pneumothorax in the Emergency Department: A Review of the Most Current Clinical Evidence for Diagnosis and Treatment</title>
+		<author>
+			<persName><forename type="first">Ian</forename><forename type="middle">D</forename><surname>Chong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alice</forename><surname>Chao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michelle</forename><surname>Hunter-Behrend</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Laleh</forename><surname>Gharahbaghian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tsuyoshi</forename><surname>Mitarai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sarah</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Phillips</forename><surname>Perera</surname></persName>
+		</author>
+		<idno type="DOI">10.17140/prrmoj-3-127</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_VG7qq9j">Pulmonary Research and Respiratory Medicine - Open Journal</title>
+		<title level="j" type="abbrev">Pulm Res Respir Med Open J</title>
+		<idno type="ISSNe">2377-1658</idno>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="23" to="29" />
+			<date type="published" when="2012">2012</date>
+			<publisher>Openventio Publishers</publisher>
+			<pubPlace>Stanford, CA, US</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Mimeo, Department of Political Science, Stanford University</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main" xml:id="_22rNuSf">Is Ignorance Bliss? The Effect of Asymmetric Information between Spouses on Intra-Household Allocations</title>
+		<author>
+			<persName><forename type="first">Carolina</forename><surname>Castilla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Thomas</forename><surname>Walker</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/aer.103.3.263</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_ubZ7bKp">American Economic Review</title>
+		<title level="j" type="abbrev">American Economic Review</title>
+		<idno type="ISSN">0002-8282</idno>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="263" to="268" />
+			<date type="published" when="2013-05-01">2013</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main" xml:id="_RG6h8ts">Participatory rural appraisal (PRA): Analysis of experience</title>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Chambers</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0305-750x(94)90003-5</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Sm2X57K">World Development</title>
+		<title level="j" type="abbrev">World Development</title>
+		<idno type="ISSN">0305-750X</idno>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="1253" to="1268" />
+			<date type="published" when="1994-09">1994</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b13">
+	<monogr>
+		<title level="m" type="main" xml:id="_NdHmmzg">Addressing extreme poverty in a sustainable manner: evidence from CFPR programme</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">C</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Misha</surname></persName>
+		</author>
+		<idno>No. 19</idno>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<pubPlace>Dhaka, Bangladesh</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>BRAC Research and Development Division</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">CFPR Working Paper</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main" xml:id="_X3xD7sH">Perspectives of students and parents about mainstreaming education for children with special needs in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Utpal</forename><surname>Mallick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kazi</forename><surname>Sameeo Sheesh</surname></persName>
+		</author>
+		<idno type="DOI">10.59595/ajie.01.1.3</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_awmMsnA">Asian Journal of Inclusive Education</title>
+		<title level="j" type="abbrev">AJIE</title>
+		<idno type="ISSN">2304-1188</idno>
+		<idno type="ISSNe">2307-1087</idno>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="17" to="30" />
+			<date type="published" when="2010">2010</date>
+			<publisher>Asian Centre for Inclusive Education, Bangladesh</publisher>
+			<pubPlace>Dhaka, Bangladesh</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>BRAC Research and Development Division</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">CFPR Working Paper</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main" xml:id="_ZP9vZCZ">How Do Intrahousehold Dynamics Change When Assets Are Transferred to Women? Evidence from BRACCs Challenging the Frontiers of Poverty Reduction Targeting the Ultra Poor Program in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Narayan</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rabeya</forename><surname>Yasmin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jinnat</forename><surname>Ara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Md</forename><forename type="middle">. </forename><surname>Kamruzzaman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Peter</forename><surname>Davis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Julia</forename><surname>Behrman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shalini</forename><surname>Roy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Agnes</forename><forename type="middle">R</forename><surname>Quisumbing</surname></persName>
+		</author>
+		<idno type="DOI">10.2139/ssrn.2405712</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_wSCzQSV">SSRN Electronic Journal</title>
+		<title level="j" type="abbrev">SSRN Journal</title>
+		<idno type="ISSNe">1556-5068</idno>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<publisher>Elsevier BV</publisher>
+			<pubPlace>Washington, DC</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>International Food Policy Research Institute</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main" xml:id="_9Pkd5Mh">The Impact of Bolsa Família on Women’s Decision-Making Power</title>
+		<author>
+			<persName><forename type="first">Alan</forename><surname>De Brauw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Daniel</forename><forename type="middle">O</forename><surname>Gilligan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><surname>Hoddinott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shalini</forename><surname>Roy</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.worlddev.2013.02.003</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_9FcqvDX">World Development</title>
+		<title level="j" type="abbrev">World Development</title>
+		<idno type="ISSN">0305-750X</idno>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page" from="487" to="504" />
+			<date type="published" when="2014-07">2014</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main" xml:id="_3GGyMh7">Intra-household Resource Allocation in Ghana: The Impact of the Distribution of Asset Ownership within the Household</title>
+		<author>
+			<persName><forename type="first">Cheryl</forename><forename type="middle">R</forename><surname>Doss</surname></persName>
+		</author>
+		<idno type="DOI">10.4324/9780429457326-20</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_4cGfYnz">Food Security, Diversification and Resource Management: Refocusing the Role of Agriculture?</title>
+		<editor>
+			<persName><forename type="first">G</forename><forename type="middle">H</forename><surname>Peters</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Braun</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Aldershot, UK</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="1999">1999</date>
+			<biblScope unit="page" from="309" to="316" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b18">
+	<analytic>
+		<title level="a" type="main" xml:id="_qYMwQHQ">Child Health and Household Resources in South Africa: Evidence from the Old Age Pension Program</title>
+		<author>
+			<persName><forename type="first">Esther</forename><surname>Duflo</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/aer.90.2.393</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_PKBdNg2">American Economic Review</title>
+		<title level="j" type="abbrev">American Economic Review</title>
+		<idno type="ISSN">0002-8282</idno>
+		<imprint>
+			<biblScope unit="volume">90</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="393" to="398" />
+			<date type="published" when="2000-05-01">2000</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main" xml:id="_KvbGtpB">Grandmothers and granddaughters: old-age pensions and intrahousehold allocation in South Africa</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Duflo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_K4V7FXP">World Bank Econ. Rev</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="25" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main" xml:id="_Duy5D4y">Assessing the Frontiers of Ultrapoverty Reduction: Evidence from Challenging the Frontiers of Poverty Reduction/Targeting the Ultra-poor, an Innovative Program in Bangladesh</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Shahe</forename><surname>Emran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Virginia</forename><surname>Robano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stephen</forename><forename type="middle">C</forename><surname>Smith</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/674110</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_xh7mYDa">Economic Development and Cultural Change</title>
+		<title level="j" type="abbrev">Economic Development and Cultural Change</title>
+		<idno type="ISSN">0013-0079</idno>
+		<idno type="ISSNe">1539-2988</idno>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="339" to="380" />
+			<date type="published" when="2014-01">2014</date>
+			<publisher>University of Chicago Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main" xml:id="_wpD8CMZ">Intrahousehold welfare in rural Ethiopia</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Fafchamps</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Kebede</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Quisumbing</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_teE56nM">Oxf. Bull. Econ. Stat</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="567" to="599" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main" xml:id="_RwYRRUh">An Analysis of Sample Attrition in Panel Data: The Michigan Panel Study of Income Dynamics</title>
+		<author>
+			<persName><forename type="first">John</forename><surname>Fitzgerald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Peter</forename><surname>Gottschalk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Moffitt</surname></persName>
+		</author>
+		<idno type="DOI">10.3386/t0220</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_hrryzaA">J. Hum. Resour</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="251" to="299" />
+			<date type="published" when="1998-02">1998</date>
+			<publisher>National Bureau of Economic Research</publisher>
+		</imprint>
+	</monogr>
+	<note>Attrition in Longitudinal Surveys special issue</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main" xml:id="_7JFsVUS">Who takes the credit? Gender, power, and control over loan use in rural credit programs in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Anne</forename><forename type="middle">Marie</forename><surname>Goetz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rina</forename><forename type="middle">Sen</forename><surname>Gupta</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0305-750x(95)00124-u</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_aWaPpKr">World Development</title>
+		<title level="j" type="abbrev">World Development</title>
+		<idno type="ISSN">0305-750X</idno>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="45" to="63" />
+			<date type="published" when="1996-01">1996</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b24">
+	<monogr>
+		<title level="m" type="main" xml:id="_qHgHYxe">Intrahousehold Resource Allocation in Developing Countries: Methods, Models, and Policy</title>
+		<editor>Haddad, L., Hoddinott, J., Alderman, H.</editor>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<pubPlace>Baltimore</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Johns Hopkins University Press for the International Food Policy Research Institute</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b25">
+	<analytic>
+		<title level="a" type="main" xml:id="_2d6Panp">Opening up Pandora&apos;s box: the effect of gender targeting and conditionality on household spending behavior in Mexico&apos;s PROGRESA program</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Handa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Peterman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Davis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Stampini</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_nVP975X">World Dev</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page">14</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b26">
+	<analytic>
+		<title level="a" type="main" xml:id="_MRDNHKT">Rural credit programs and women&apos;s empowerment in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Syed</forename><forename type="middle">M</forename><surname>Hashemi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sidney</forename><forename type="middle">Ruth</forename><surname>Schuler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ann</forename><forename type="middle">P</forename><surname>Riley</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0305-750x(95)00159-a</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_NMvEzfH">World Development</title>
+		<title level="j" type="abbrev">World Development</title>
+		<idno type="ISSN">0305-750X</idno>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="635" to="653" />
+			<date type="published" when="1996-04">1996</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b27">
+	<analytic>
+		<title level="a" type="main" xml:id="_vDtJgAV">The mobilization of women&apos;s labor for cash crop production: a game theoretic approach</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Jones</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_73zPMVa">Am. J. Agric. Econ</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="1049" to="1054" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b28">
+	<analytic>
+		<title level="a" type="main" xml:id="_aHeFmNs">How much can asset transfers help the poorest? Evaluating the results of BRAC&apos;s ultra-poor programme (2002-2008)</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Krishna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Poghosyan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Das</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_eBTTZJ6">J. Dev. Stud</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="184" to="197" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b29">
+	<analytic>
+		<title level="a" type="main" xml:id="_p4yS2SN">Training, Wages, and Sample Selection: Estimating Sharp Bounds on Treatment Effects</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_WeFgJ2t">Rev. Econ. Stud</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page" from="1071" to="1102" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b30">
+	<analytic>
+		<title level="a" type="main" xml:id="_vgY4eEj">Separate spheres bargaining and the marriage market</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lundberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Pollak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_gme58be">J. Polit. Econ</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="988" to="1010" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b31">
+	<analytic>
+		<title level="a" type="main" xml:id="_Cgpefbg">Marriage and household decisionmaking: a bargaining analysis</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Manser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Brown</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_d5Ac4YU">Int. Econ. Rev</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="31" to="44" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b32">
+	<analytic>
+		<title level="a" type="main" xml:id="_fNCkJ3Q">The empirical content of Nash-bargained household decisions</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mcelroy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_jRNNdVa">J. Hum. Resour</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="559" to="583" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b33">
+	<analytic>
+		<title level="a" type="main" xml:id="_b8zFhhQ">Nash-Bargained Household Decisions: Toward a Generalization of the Theory of Demand</title>
+		<author>
+			<persName><forename type="first">Marjorie</forename><forename type="middle">B</forename><surname>Mcelroy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mary</forename><forename type="middle">Jean</forename><surname>Horney</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/2526280</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_qkvKtxv">International Economic Review</title>
+		<title level="j" type="abbrev">International Economic Review</title>
+		<idno type="ISSN">0020-6598</idno>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">333</biblScope>
+			<date type="published" when="1981-06">1981</date>
+			<publisher>JSTOR</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b34">
+	<analytic>
+		<title level="a" type="main" xml:id="_k8V5BrW">Classification-Aware Neural Topic Model CombinedWith Interpretable Analysis - For Conflict Classification</title>
+		<author>
+			<persName><forename type="first">Tianyu</forename><surname>Liang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yida</forename><surname>Mu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Soonho</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Darline</forename><forename type="middle">Larissa</forename><surname>Kengne Kuate</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Julie</forename><surname>Lang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rob</forename><surname>Vos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xingyi</forename><surname>Song</surname></persName>
+		</author>
+		<idno type="DOI">10.26615/978-954-452-092-2_072</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_h3NnF5m">Proceedings of the Conference Recent Advances in Natural Language Processing - Large Language Models for Natural Language Processings</title>
+		<meeting>the Conference Recent Advances in Natural Language Processing - Large Language Models for Natural Language Processings<address><addrLine>Washington, DC</addrLine></address></meeting>
+		<imprint>
+			<publisher>INCOMA Ltd., Shoumen, BULGARIA</publisher>
+			<date type="published" when="2003">2003</date>
+			<biblScope unit="page" from="666" to="672" />
+		</imprint>
+		<respStmt>
+			<orgName>International Food Policy Research Institute</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b35">
+	<analytic>
+		<title level="a" type="main" xml:id="_Sn2DGua">Resources at Marriage and Intrahousehold Allocation: Evidence from Bangladesh, Ethiopia, Indonesia, and South Africa*</title>
+		<author>
+			<persName><forename type="first">Agnes</forename><forename type="middle">R</forename><surname>Quisumbing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><forename type="middle">A</forename><surname>Maluccio</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/1468-0084.t01-1-00052</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_RS3jR4Z">Oxford Bulletin of Economics and Statistics</title>
+		<title level="j" type="abbrev">Oxf Bull Econ Stat</title>
+		<idno type="ISSN">0305-9049</idno>
+		<idno type="ISSNe">1468-0084</idno>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="283" to="327" />
+			<date type="published" when="2003-06-04">2003</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b36">
+	<analytic>
+		<title level="a" type="main" xml:id="_sT6xUXJ">Property-Rights Regimes and Natural Resources: A Conceptual Analysis</title>
+		<author>
+			<persName><forename type="first">Edella</forename><surname>Schlager</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Elinor</forename><surname>Ostrom</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/3146375</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_qK7rUNS">Land Economics</title>
+		<title level="j" type="abbrev">Land Economics</title>
+		<idno type="ISSN">0023-7639</idno>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">249</biblScope>
+			<date type="published" when="1992-08">1992</date>
+			<publisher>University of Wisconsin Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b37">
+	<analytic>
+		<title level="a" type="main" xml:id="_ReFwWjW">Women&apos;s roles in the agricultural household: bargaining and human capital investments</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">P</forename><surname>Schultz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s" xml:id="_ZKmmsxR">Handbook of Agricultural Economics</title>
+		<editor>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Gardner</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">G</forename><forename type="middle">C</forename><surname>Rausser</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="383" to="456" />
+			<date type="published" when="2001">2001</date>
+			<publisher>Agricultural Production</publisher>
+			<pubPlace>North-Holland, Amsterdam</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b38">
+	<analytic>
+		<title level="a" type="main" xml:id="_XhMszt2">Chapter 34 Human resources: Empirical modeling of household and family decisions</title>
+		<author>
+			<persName><forename type="first">John</forename><surname>Strauss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Duncan</forename><surname>Thomas</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s1573-4471(05)80006-3</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_d2SHQbK">Handbook of Development Economics</title>
+		<title level="s" xml:id="_3M8f2G3">Handbook of Development Economics</title>
+		<editor>
+			<persName><forename type="first">T</forename><forename type="middle">N</forename><surname>Srinivasan</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Behrman</surname></persName>
+		</editor>
+		<meeting><address><addrLine>North-Holland, Amsterdam</addrLine></address></meeting>
+		<imprint>
+			<publisher>Elsevier</publisher>
+			<date type="published" when="1995">1995</date>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="1883" to="2023" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b39">
+	<analytic>
+		<title level="a" type="main" xml:id="_C9hC4mV">Solar Thermal Small Power Systems Study. Inventory of US industrial small electric power generating systems. [Less than 10 MW]</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Contreras</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Frankenberg</surname></persName>
+		</author>
+		<idno type="DOI">10.2172/5557902</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_NrYUWES">Child Health and the Distribution of Household Resources at Marriage</title>
+		<meeting><address><addrLine>Los Angeles, CA, US</addrLine></address></meeting>
+		<imprint>
+			<publisher>Office of Scientific and Technical Information (OSTI)</publisher>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b40">
+	<analytic>
+		<title level="a" type="main" xml:id="_qZNuemx">The impact of new crop technology on the agricultural division of labor in a West African setting</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Von Braun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Webb</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_YYyvUHN">Econ. Dev. Cult. Chang</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="513" to="534" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b41">
+	<monogr>
+		<title level="m" type="main" xml:id="_qqRsWnU">Phoenix, Prof. Ann, Professor of Education, and Co-Director, Thomas Coram Research Unit, UCL Institute of Education, University College London (formerly Institute of Education, University of London), since 2007</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Yoong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Rabinovich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Diepeveen</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/ww/9780199540884.013.282257</idno>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>Oxford University Press</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>EPPI-Centre, Social Science Research Unit, Institute of Education, University of London</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Technical Report</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

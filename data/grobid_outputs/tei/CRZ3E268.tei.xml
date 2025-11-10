@@ -1,0 +1,1646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" xml:id="_TDp2Aky">Subjective Well-Being and Domestic Violence Among Ultra-Poor Women in Rural Bangladesh: Findings from a Multifaceted Poverty Alleviation Program</title>
+				<funder>
+					<orgName type="full">European Commission, NOVIB</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">World Food Programme through BRAC</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">United Kingdom Department for International Development</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Canadian International Development Agency</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Springer Science and Business Media LLC</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2021-09-28">28 September 2021</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Chowdhury</forename><forename type="middle">S B</forename><surname>Jalal</surname></persName>
+							<idno type="ORCID">0000-0002-1925-9923</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Nutrition International</orgName>
+								<address>
+									<addrLine>180 Elgin Street Suite 1000</addrLine>
+									<postCode>K2P 2K3</postCode>
+									<settlement>Ottawa</settlement>
+									<region>ON</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Edward</forename><forename type="middle">A</forename><surname>Frongillo</surname></persName>
+							<email>efrongil@mailbox.sc.edu</email>
+							<idno type="ORCID">0000-0002-8265-9815</idno>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Health Promotion, Education, and Behavior</orgName>
+								<orgName type="institution">University of South Carolina</orgName>
+								<address>
+									<addrLine>915 Greene St. Room 529</addrLine>
+									<postCode>29208</postCode>
+									<settlement>Columbia</settlement>
+									<region>SC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Andrea</forename><forename type="middle">M</forename><surname>Warren</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Health Promotion, Education, and Behavior</orgName>
+								<orgName type="institution">University of South Carolina</orgName>
+								<address>
+									<addrLine>915 Greene St. Room 529</addrLine>
+									<postCode>29208</postCode>
+									<settlement>Columbia</settlement>
+									<region>SC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Shibani</forename><surname>Kulkarni</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Health Promotion, Education, and Behavior</orgName>
+								<orgName type="institution">University of South Carolina</orgName>
+								<address>
+									<addrLine>915 Greene St. Room 529</addrLine>
+									<postCode>29208</postCode>
+									<settlement>Columbia</settlement>
+									<region>SC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main" xml:id="_SUEynfb">Subjective Well-Being and Domestic Violence Among Ultra-Poor Women in Rural Bangladesh: Findings from a Multifaceted Poverty Alleviation Program</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main" xml:id="_6Z7UmzS">Journal of Family and Economic Issues</title>
+						<title level="j" type="abbrev">J Fam Econ Iss</title>
+						<idno type="ISSN">1058-0476</idno>
+						<idno type="eISSN">1573-3475</idno>
+						<imprint>
+							<publisher>Springer Science and Business Media LLC</publisher>
+							<biblScope unit="volume">43</biblScope>
+							<biblScope unit="issue">4</biblScope>
+							<biblScope unit="page" from="843" to="853"/>
+							<date type="published" when="2021-09-28">28 September 2021</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">8B46BFE12ACC6C5241BD77A9B0F6DE44</idno>
+					<idno type="DOI">10.1007/s10834-021-09801-4</idno>
+					<note type="submission">Accepted: 15 September 2021 /</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2025-11-04T23:26+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a292bac</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=1, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=true, generateTeiCoordinates=[true], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term xml:id="_hJYjaaz">Ultra-poor</term>
+					<term xml:id="_ge2j6R2">Empowerment</term>
+					<term xml:id="_RptVMNh">Subjective well-being</term>
+					<term xml:id="_evTDaar">Poverty-reduction</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_zrdhXUu"><p xml:id="_enTeW88">We evaluated a poverty-reduction program that targeted ultra-poor women in rural Bangladesh to promote economic and social improvement through income-generating activities and strengthening socio-political awareness. We hypothesized that ultra-poor women participating in the program would have lower domestic violence and depressive symptoms and higher subjective well-being, household economic status, and food security than non-participants. A quasi-experimental design with program and comparison arms and assessments at two times (i.e., baseline and end-line) was used. Analysis of covariance with linear multilevel random-intercept models adjusted for available baseline variables was used to estimate programcomparison differences at end-line for economic status, perceived economy, food insecurity, domestic violence, depressive symptoms, and subjective well-being. We also estimated the benefits attributable to the program for subjective well-being, food insecurity, and domestic violence. Women in the program arm had greater subjective well-being with a decrease in negative affect of life by 33.5% and dissatisfaction with life by 42.5%. The women in the program arm encountered 12% or fewer incidences of domestic violence than did the women in the comparison arm. Food insecurity reduced by an average of 14% due to the program. This poverty-reduction program helped in improving women's access to and control of resources and their social awareness, thus empowering them and promoting economic, social, and psychological well-being. Povertyreduction programs that acknowledge and address the social complexity of extreme poverty have the potential to effectively reach the ultra-poor who otherwise are often missed by traditional microcredit programs.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="595.276" lry="790.866"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="595.276" lry="790.866"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="595.276" lry="790.866"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="595.276" lry="790.866"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="595.276" lry="790.866"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="595.276" lry="790.866"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="595.276" lry="790.866"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="595.276" lry="790.866"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="595.276" lry="790.866"/>
+		<surface n="10" ulx="0.0" uly="0.0" lrx="595.276" lry="790.866"/>
+		<surface n="11" ulx="0.0" uly="0.0" lrx="595.276" lry="790.866"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_qAeSwSB">Introduction</head><p xml:id="_rTjGYst">Microcredit programs are a proven strategy to alleviate poverty in South Asia <ref type="bibr" target="#b2">(Asadullah &amp; Ara, 2016;</ref><ref type="bibr" target="#b15">Emran et al., 2014;</ref><ref type="bibr" target="#b24">Imai et al., 2010;</ref><ref type="bibr">Kabeer, 2005a)</ref>. Microcredit programs follow a group-lending model and use target peer groups, in which small loans are disbursed within the group and rely on the social pressure initialized within that group to ensure loan repayment. Microcredit programs also support women's empowerment by increasing women's access to and control of resources and catalyzing collective action that can challenge social norms, increase awareness, and improve women's status within the household and the community <ref type="bibr" target="#b9">(Brody et al., 2015;</ref><ref type="bibr">Kabeer, 2005a;</ref><ref type="bibr" target="#b30">Kumar et al., 2017)</ref>.</p><p xml:id="_7StUPSa">Microcredit programs rely on the existence of strong and extensive social networks <ref type="bibr" target="#b41">(Rankin, 2002)</ref>. Households that comprise the poorest of the poor are typically headed by females, single or with a disabled male partner, with few assets and little or no access to land or livestock and without regular income resources <ref type="bibr" target="#b1">(Ahmed et al., 2014;</ref><ref type="bibr" target="#b2">Asadullah &amp; Ara, 2016)</ref>. Women from these households are often excluded from participation in conventional microcredit groups due to a lack of social and financial capital <ref type="bibr" target="#b7">(Blattman et al., 2016;</ref><ref type="bibr" target="#b15">Emran et al., 2014;</ref><ref type="bibr" target="#b19">Garikipati, 2008;</ref><ref type="bibr" target="#b21">Gobin et al., 2017;</ref><ref type="bibr" target="#b31">Matin et al., 2008)</ref>. Microcredit programs are designed such that peer groups targeted for lending are often responsible for bringing others into the lending group that they think they can trust to pull their weight; the most vulnerable rarely have enough social capital of their own to use as leverage to gain membership into these groups, which results in further perpetuating and reinforcing social exclusion of poor and vulnerable populations <ref type="bibr" target="#b31">(Matin et al., 2008;</ref><ref type="bibr" target="#b46">Schurmann &amp; Johnston, 2009)</ref>.</p><p xml:id="_GN3B5pX">Challenging the Frontiers of Poverty Reduction-Targeting the Ultra-Poor (CFPR-TUP) program in Bangladesh was designed to overcome the barriers of poor social capital and lack of economic resources among the ultra-poor, the lower half of the population that live in extreme poverty. This poverty-reduction program is implemented by BRAC, the large non-governmental organization formerly known as Bangladesh Rural Advancement Committee, and targets the most vulnerable female-headed households in need of skills and services. Once identified and inducted into the program, women from ultra-poor household undergo an intensive and supervised 18-month period where multiple strategies such as productive asset transfer for building an enterprise (e.g., such as cow, goat, poultry, or non-farm assets worth on average 6000 Bangladeshi taka or 70 U.S. dollars per beneficiary), weekly stipends, skills training for enterprise development, income savings, health care education, and social integration (e.g., awareness-raising campaign and mobilization of support from elites) are implemented with the aim of improving material and social living conditions. After the 18-month period, participants are expected to graduate to BRAC's conventional microcredit program. Participation in this program is intended to promote women's empowerment through increased access to and control of economic resources and increased social capital.</p><p xml:id="_m5wjWgy">The CFPR-TUP program reduced extreme poverty by 30% as compared to 13% decline in the comparison households during its initial implementation from 2002 to 2006 <ref type="bibr" target="#b31">(Matin et al., 2008)</ref>. One third of the program households participated in the conventional microcredit program after graduation. Positive medium-term effects of the program have been reported on social capital, economic well-being, health, and nutrition <ref type="bibr" target="#b0">(Ahmed &amp; Rana, 2005;</ref><ref type="bibr" target="#b9">Brody et al., 2015;</ref><ref type="bibr" target="#b25">Jalal &amp; Frongillo, 2013;</ref><ref type="bibr" target="#b40">Prakash &amp; Rana, 2006)</ref>, food security, cash savings, livestock, and participation in microfinance <ref type="bibr" target="#b2">(Asadullah &amp; Ara, 2016;</ref><ref type="bibr" target="#b15">Emran et al., 2014;</ref><ref type="bibr" target="#b23">Hashemi &amp; De Montesquiou, 2011)</ref>. The program showed a long-term benefit over a period of 9 years (i.e., 2002 to 2011) on food security, household savings, assets, and participation in microfinance <ref type="bibr" target="#b2">(Asadullah &amp; Ara, 2016)</ref>. Similar programs were implemented under the CGAP-Ford Foundation Graduation program in several countries in South Asia, Africa, and South and Central America <ref type="bibr" target="#b6">(Banerjee et al., 2015;</ref><ref type="bibr" target="#b23">Hashemi &amp; De Montesquiou, 2011)</ref>. These programs had positive impacts on participant's household consumption, self-employment income, mental health, and women's empowerment that were sustained at least 1 year after the program ended <ref type="bibr" target="#b6">(Banerjee et al., 2015)</ref>.</p><p xml:id="_PTCNZ6D">Given that less is known about the effects of ultra-poor programs on the psychological well-being of women, this study aimed to evaluate the medium-term effect of the CFPR-TUP program on the psychological well-being and material conditions of the ultra-poor women in Bangladesh. Psychological well-being was assessed as the domestic violence experience of women, depressive symptoms, and subjective well-being <ref type="bibr" target="#b18">(Frongillo et al., 2017)</ref>. Material conditions was assessed as household economic status and food insecurity. We hypothesized that ultra-poor women participating in the CFPR-TUP program would have lower domestic violence and depressive symptoms and higher subjective wellbeing, household economic status, and food security than non-participants. These hypotheses were derived from the theory of change for the program that improving social and economic capital and empowering women would together lead to improved household economic status and in turn to greater food security, reduced violence, reduced depressive symptoms, and greater subjective well-being.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_whZWRmk">Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_YyXjpkX">Study Setting and Sampling</head><p xml:id="_d2rfNY6">The study was conducted in Nilphamari, Kurigram, and Rangpur, the three first-phase districts covered by the CFPR-TUP program. In 2002, the BRAC Research and Evaluation Division collected baseline data from 446 randomly selected villages (i.e., one-third of all villages) within 38 BRAC Area Offices in these districts. All program households and an approximately equal number of comparison households from these villages were included in the survey. All households under the same Area Offices that were initially selected by BRAC but not included in the program arm because of being comparatively better-off served as the comparison arm. For this study, in 2006, 261 villages were randomly selected from the 446 baseline villages, and data were collected from all households in these villages (i.e., 1678, 640 program and 978 comparison). Respondents of our study were women living in the selected households in the program and comparison arms. Informed consent was obtained from each respondent prior to the survey interview.</p><p xml:id="_AmK6J6f">Both program and comparison households were initially considered for inclusion in the program based on a participatory process in each village. The comparison households were later excluded from the program based on BRAC's criteria for households most in need. The comparison households were, therefore, better-off than the households selected for the program.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_8DA2Aay">Design</head><p xml:id="_qxNuTQP">Our study used a quasi-experimental design with two arms (i.e., program and comparison) and assessments at two times (i.e., baseline and end-line) and used analysis of covariance that adjusted the differences at end-line for available baseline variables <ref type="bibr" target="#b20">(Gertler et al., 2016;</ref><ref type="bibr" target="#b34">McKenzie, 2012;</ref><ref type="bibr" target="#b43">Rossi et al., 2019)</ref>. In this design, the outcomes at end-line in the comparison arm, controlled for the covariates available at baseline, estimates the counterfactual for the difference in outcomes at end-line of the program arm. All but two outcomes were assessed only at end-line because the outcome measures for violence, depressive symptoms, and subjective well-being were added to the end-line to be able to test program impact on these outcomes. For two outcomes (i.e., household economic status and food insecurity), measures were available at both baseline and end-line, and the difference between arms in changes in these outcomes from baseline to end-line could be estimated. Analysis of covariance accommodated changes in the way these two outcomes were measured from baseline to end-line <ref type="bibr" target="#b35">(McKenzie, 2015)</ref>. Because not all outcomes were assessed at both baseline and end-line, we controlled for additional individual-and household-level covariates measured at baseline <ref type="bibr">(i.e., 2002)</ref> to strengthen that the comparison arm provided a valid counterfactual.</p><p xml:id="_XCevrxH">An advantage of this design is that program and comparison arms do not necessarily need to have the same conditions before the program is introduced <ref type="bibr" target="#b20">(Gertler et al., 2016)</ref>. Given that the program households were selected by BRAC to be the poorest, it is likely that they would have continued to accumulate disparities relative to the comparison households in the absence of the program <ref type="bibr" target="#b16">(Ferraro &amp; Shippee, 2009)</ref>. Although regression to the mean was theoretically possible because the program households were extremely poor, regression to the mean cannot explain the findings if the program arm has better outcomes than the comparison arm at end-line.</p><p xml:id="_hCxSPhG">The design assumes that, in the absence of the program, the two arms would have changed similarly over time <ref type="bibr" target="#b20">(Gertler et al., 2016)</ref>, i.e., no events concurrent with the program affected the outcomes differently than in the comparison arm <ref type="bibr" target="#b43">(Rossi et al., 2019)</ref>. No concurring events were reported during the intervention period in either the program or comparison arms that could explain the findings.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_DGBvwGb">Data Collection</head><p xml:id="_bAjv6cz">Details of baseline (i.e., 2002) data collection are available elsewhere <ref type="bibr">(BRAC, 2004)</ref>. In 2006, 24 trained female university graduates collected data using five pre-tested survey forms. Field supervisors, a field manager, and the principal investigator monitored all field activities. A BRAC data entry specialist did data entry and preliminary cleaning.</p><p xml:id="_2Fmb9NU">All questionnaires were tested for applicability in rural Bangladesh prior to data collection. Each questionnaire was administered on a sub-sample of 30 program participants to test for reliability and validity. Questionnaires were finalized with inputs from the interviewer training and field test.</p><p xml:id="_Ey3PTKf">Data on household demography, food insecurity, and perceived economy were collected from all households at endline during July-September 2006. Subjective well-being, violence against women, and depressive symptoms were also measured concurrently using a different set of forms on representative sub-samples. Baseline (i.e., 2002) measures included household demographic characteristics, economic status, and food insecurity.</p><p xml:id="_xwCM6yM">Sample size needed for adequate power was calculated based on mean and standard deviation or prevalence of the outcome variables found in other relevant studies and national data. Power (1-β) of 90% with two-tailed α of 0.05 was used to determine the adequacy of sampling for each outcome.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_Hn3SvyR">Measures</head><p xml:id="_h3vmZdw">Subjective well-being is defined as a broad domain involving a number of separable components such as life satisfaction, satisfaction with important domains of life, positive affect, i.e., experiencing many pleasant emotion and moods, and low levels of negative affect, i.e., experiencing unpleasant emotion and moods <ref type="bibr" target="#b13">(Diener, 2000)</ref>.The affective components of subjective well-being were measured using the 20-item Positive Affect and Negative Affect Schedule (PANAS), each having a 5-point Likert scale <ref type="bibr" target="#b51">(Watson et al., 1988)</ref>. The 10 Negative Affect (NA) items were reverse coded and added to the 10 Positive Affect (PA) items to make a composite subjective well-being scale ranging from 1 to 100. Cronbach's alpha coefficient for reliability of PANAS was 0.79. The alpha for the PA and NA were 0.81 and 0.70, respectively.</p><p xml:id="_hphQ8vY">Four items of the Satisfaction with Life Scales (SWLS) were used to measure the cognitive component of subjective well-being <ref type="bibr" target="#b14">(Diener et al., 1985)</ref>. Cronbach's alpha was 0.81. All items were standardized and added to form a final variable representing SWLS. Women were also asked to rank themselves on a five-point Likert scale based on the global judgment of their well-being, i.e., goals and achievement of satisfaction, resources to pursue goals.</p><p xml:id="_qDqpWX6">Depressive symptoms were measured using the World Health Organization Self Reporting Questionnaire, which had been previously tested and applied in rural Bangladesh <ref type="bibr" target="#b37">(Naved &amp; Persson, 2005)</ref>. The 20 yes-no items ask about symptoms of depression and anxiety such as headache and stomach-ache, difficulty thinking and working, feeling worthless and tired, difficulty making decisions, and suicidal thoughts. A higher score referred to more depressive symptoms.</p><p xml:id="_9ABeZwA">The Multiple Indicator Cluster Survey 2005 manual of The United Nations Children's Fund (UNICEF) was used to create composite economic status scales out of baseline and 2005 data (UNICEF, 2006).Variables were used in sets or as single items depending on the type and weight, and availability of data. The final variables that constructed the economic status score were social status (2 items), healthy and hygienic practices (3 items), physical condition of household (3 items), non-productive household assets (9 items), productive household assets (9 items), food security (2 items in 2002 and 5 items in 2005), per capita household income, total area of land owned, and access to drinking water. Once prepared, the subscales were also standardized before adding them up to form the final economic status variable. Standardized values of the items were added to form the sets of variables. The resultant variables were further standardized and added to form the final economic status variable. Perceived economy was measured in 2006 with a single item asking the respondents to rate their economic status in the previous year on a four-point scale that ranged from always deficit to surplus. Higher values of all measures of economic status represented economically better off households.</p><p xml:id="_S4j2Sb6">Household food insecurity in 2006 was measured using an 11-item module developed in rural Bangladesh based on understanding from qualitative in-depth interviews in a prior study <ref type="bibr" target="#b17">(Frongillo et al., 2003)</ref>. Items asked about purchase of rice and perishable foods (e.g., vegetables, fish, and meat), daily cooking, lending and borrowing food, fulfilling meals per day, having snacks and fish, and having to eat rice with only chili and salt, Responses were standardized and added to form a household food-insecurity score. A higher score indicated more food insecurity. Food insecurity at baseline was measured using two items asking women to rate their food deficit in the last year and whether the household could ensure at least two meals a day.</p><p xml:id="_yzQbeJg">World Health Organization guidelines were used to measure violence against women. An 18-item questionnaire that included five different categories of violence, i.e., restriction of mobility or socialization or both, psychological oppression, moderate physical assault, severe physical assault, and sexual abuse <ref type="bibr" target="#b37">(Naved &amp; Persson, 2005)</ref>. Women were asked if they had experienced specific types of violence within the last year. All items representing a specific category of violence were added to form a scale for that category. Cronbach's alpha for the scale of all 18 items was 0.87. A similar procedure was followed to construct the scale representing violence during pregnancy, with Cronbach's alpha of 0.90. For both scales, a higher score indicated experiencing more violence.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_SSkkqsQ">Statistical Analysis</head><p xml:id="_CFx3Qne">All analyses were performed using SPSS for Windows version 15. The economic status variables at baseline and in 2005 had positive skew distributions; to make these distributions symmetric for multivariable regression analyses, these two variables were transformed using the natural logarithm after first shifting the scales to have a minimum value of 1. Means and standard deviations were reported on the original scales for bivariate analyses. Analysis of covariance adjusting for baseline variables <ref type="bibr" target="#b20">(Gertler et al., 2016;</ref><ref type="bibr" target="#b34">McKenzie, 2012;</ref><ref type="bibr" target="#b43">Rossi et al., 2019)</ref> was implemented with the data in the wide form using linear mixed models with random intercepts to account for clustering. Area Office and village were modelled as random effects. Program arm, district, and covariates were modelled as fixed effects. Covariates assessed at baseline were number of children under age 5 years, household size, food insecurity, household economic status, and age. These covariates were used as continuous variables. The linear mixed model was specified as follows:</p><p xml:id="_ST5ndvU">where i, j, and k refer to individual, village, and Area Office, respectively; Y ijk is the outcome at end-line; A ijk is a binary indicator for program vs. comparison; and X ijk is a vector of district indicators and baseline covariates, with β 3 being a corresponding vector of regression coefficients. The terms γ V k and δ Z jk are the random effects for Area Offices and villages, respectively, and e ijk is the residual error for households. The parameter of interest, β 1 , is the adjusted difference in the outcome between program and comparison arms at end-line for all outcomes except household economic status and food insecurity. For these two outcomes, this parameter is the adjusted difference in changes in the outcome between program and comparison arms because the covariates include these two outcomes at baseline <ref type="bibr" target="#b20">(Gertler et al., 2016;</ref><ref type="bibr" target="#b34">McKenzie, 2012;</ref><ref type="bibr" target="#b43">Rossi et al., 2019)</ref>. As a sensitivity check, we re-ran the models also including the end-line household characteristics of marital status, women's and husband's education, and occupation (i.e., manual labor as a major source of household income) that were unlikely to have been affected by the program; regression results were essentially the same with slightly smaller magnitudes of estimated program effect.</p><p xml:id="_bDFpkK8">Effect size was calculated by dividing the between-arm mean difference by the pooled standard deviation; an effect size of one is interpreted as a difference of one standard deviation. An effect size is considered small, medium, and large for values of 0.2, 0.5, and 0.8 respectively <ref type="bibr" target="#b12">(Cohen, 1992)</ref>.</p><formula xml:id="formula_0">Y ijk = β 0 + β 1 A ijk + β 3 X ijk + γ V k + δ Z jk + e ijk</formula><p xml:id="_hSWTa7x">To help interpret the importance of the effects of CFPR-TUP program on well-being, food insecurity, and violence against women, the benefit attributable to the program (BAP) and proportional benefit attributable to the program (PBAP) was estimated as follows:</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_TfRNFr7">Results</head><p xml:id="_uyY7GSt">As expected, comparison households at baseline were better off than the program households in measures of household food insecurity (0.86 standardized deviations, p &lt; 0.001) and economic status (-2.67 standardized deviations, p &lt; 0.001) (Table <ref type="table" target="#tab_0">1</ref>). Program women were about 2 years older (p &lt; 0.001). In 2006, women of the comparison households were more likely to be married (by 6.5% points), and they and their husbands were also better educated (by 6.8% points). The other socio-demographic measures indicated no program-comparison difference at baseline or in 2006.</p><p xml:id="_fbm7Nbp">The program women had greater improvements in household economic status from 2002 to 2005 (by 0.643 standardized deviations) and greater reductions in food insecurity from 2002 to 2006 (by 0.632 standardized deviations) than did the comparison women (Table <ref type="table" target="#tab_1">2</ref>). These results are interpretable as improvements because both outcomes in 2002 were controlled in the analysis of covariance.  <ref type="table" target="#tab_1">2</ref>). The program-comparison differences in 2006 for specific measures of subjective wellbeing had large effect sizes for positive and negative affect (1.15), positive affect (1.10), and satisfaction with life (1.44) and a medium effect size for negative affect (0.672). The program-comparison differences in 2006 for specific forms of violence against women were 0.340, 0.362, 0.401, 0.149, and 0286 standard deviations for restricted movement, psychological oppression, moderate physical assault, severe physical assault, and violence during pregnancy, respectively. The program had no effect on depressive symptoms. The Appendix Table <ref type="table" target="#tab_3">4</ref> shows the regression results for economic status in 2005, food insecurity, positive affect, and all forms of violence against women.</p><p xml:id="_kHjSjBg">The program averted women's experience of negative affect of life by 33.5% and dissatisfaction with life by 42.5% (Table <ref type="table" target="#tab_2">3</ref>). An average of 14% difference between program and comparison households in food insecurity items indicates that the program women had fewer experiences of lacking two fulfilling meals in a day, having to eat rice without anything else, or borrowing rice from someone than did comparison women. The program women encountered fewer incidences of violence than did the comparison women (i.e., 12% or less). The estimated proportional benefit attributable to the program was more than one-third (0.34-0.44) for poor </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_skV6n42">Discussion</head><p xml:id="_tBgXuqJ">The CFPR-TUP program had improved measured household economic status and reduced household food insecurity of the ultra-poor. Those in the program arm at end-line had higher perceived economy and subjective well-being and lower domestic violence than those in the comparison arm, Prior studies have shown that participation in conventional microcredit programs is associated with increased economic well-being of the participants <ref type="bibr" target="#b5">(Bandiera et al., 2017;</ref><ref type="bibr" target="#b9">Brody et al., 2015</ref><ref type="bibr" target="#b10">Brody et al., , 2017))</ref>. Women's control of household income is positively associated with household social and economic status as well as health and nutrition outcomes <ref type="bibr" target="#b39">(Quisumbing &amp; De La Brière, 2000)</ref>. The CFPR-TUP program directly facilitated women's ownership and control of productive assets, which may explain the improvements in household economic status observed in the program households <ref type="bibr" target="#b42">(Richards et al., 2013;</ref><ref type="bibr" target="#b49">Swamy, 2014)</ref>.</p><p xml:id="_7qmeZfb">Households participating in the programs sustained their improved food security status in 2006, 2 years after graduating from the program. <ref type="bibr" target="#b2">Asadullah and Ara (2016)</ref> previously reported that food security improved in the short-to-medium term <ref type="bibr">(2002-2005 and 2002-2008)</ref>, with the improvement declining in the long term <ref type="bibr">(2002)</ref><ref type="bibr">(2003)</ref><ref type="bibr">(2004)</ref><ref type="bibr">(2005)</ref><ref type="bibr">(2006)</ref><ref type="bibr">(2007)</ref><ref type="bibr">(2008)</ref><ref type="bibr">(2009)</ref><ref type="bibr">(2010)</ref><ref type="bibr">(2011)</ref>. Improved food security likely results from the increase in household social and economic status <ref type="bibr" target="#b7">(Blattman et al., 2016;</ref><ref type="bibr" target="#b33">McIntyre et al., 2011)</ref>. Prior studies also strongly suggest that women's economic empowerment is associated with greater food security through improved household food allocation, increased share of income and other economic resources, and greater involvement in food production diversity <ref type="bibr" target="#b22">(Harris-Fry et al., 2015;</ref><ref type="bibr" target="#b48">Sraboni et al., 2014)</ref>. Given the CFPR-TUP program's emphasis on strengthening women's economic status as well as facilitating opportunities for their long-term engagement with supportive financial institutions, it is plausible that this program contributed to the sustained improvements in food security observed among program participants. Domestic violence was lower among those who participated in the CFPR-TUP program. The relationship between women's economic empowerment programs and domestic violence is complex, and evidence on effect of participation in microcredit programs on domestic violence is mixed <ref type="bibr" target="#b9">(Brody et al., 2015;</ref><ref type="bibr">Kabeer, 2005a)</ref>. Some programs have been associated with a short-term increase in domestic violence, although long-term effects of program participation tend to be reduced domestic violence <ref type="bibr" target="#b28">(Kabeer, 2005b;</ref><ref type="bibr" target="#b36">Murshid et al., 2016)</ref>. Norms around gender and economic roles evolve over time, particularly as women's economic empowerment becomes more widespread and discourses around violence against women begin to shift at the communitylevel and higher <ref type="bibr" target="#b45">(Schuler &amp; Nazneen, 2018)</ref>. Contradictory findings with respect to violence and women's economic empowerment should therefore be understood with respect to the specific communities and when programs took place.</p><p xml:id="_7PFmyaA">In this study, two mechanisms may help explain the reduction in domestic violence. First, improvement in household economic status may ameliorate stressful events that could lead to spousal abuse <ref type="bibr" target="#b29">(Kabeer, 2017)</ref>. Consistent with this mechanism, in this sample, the indirect path through improvement in household economic status explained 62% of the total program effect on reducing domestic violence <ref type="bibr" target="#b26">(Jalal et al., 2015)</ref>. Second, household and community engagement, as promoted by the program's group-based and skills components may increase social capital and consequently increase social pressure to reduce acts of violence by men <ref type="bibr" target="#b44">(Roy et al., 2019)</ref>. The reduction in domestic violence is likely to be sustained with decreasing social acceptance of domestic violence coupled with reduction in poverty-related stress in households <ref type="bibr" target="#b44">(Roy et al., 2019)</ref>.</p><p xml:id="_Jhsvgbj">The women in the CFPR-TUP program had higher subjective well-being, likely reflecting improvements in living conditions and reduction in domestic violence <ref type="bibr" target="#b26">(Jalal et al., 2015)</ref>. Improvement in income is a determinant of subjective well-being in Bangladesh <ref type="bibr" target="#b3">(Asadullah &amp; Chaudhury, 2012)</ref>. Food insecurity is associated with lower subjective wellbeing, based on a multi-country analysis <ref type="bibr" target="#b18">(Frongillo et al., 2017)</ref>. The higher subjective well-being also can be a result of the underlying process of empowerment experienced by the participants through participatory methods of the program and related community development <ref type="bibr" target="#b11">(Christens, 2012)</ref>.</p><p xml:id="_FJNAWzX">The design of this study had a longitudinal follow-up of households which allowed examination of differences between program and comparison arms in improvements from baseline to end-line for two of the outcomes, household economic status and food insecurity. The sample provided adequate power. The analysis of covariance adjusted for variables at baseline to strengthen interval validity. The timeframe for the evaluation was modest, 4 years, and so we could not observe long-term effects.</p><p xml:id="_8RwUH7z">Although this study was conducted in three districts in northwestern Bangladesh, BRAC considered the results generalizable to the entire country and expanded the program country-wide by 2008. Replication of programs within a somewhat homogenous population in Bangladesh may be easier than in countries with heterogeneous populations. BRAC has since successfully implemented an ultra-poor program (called ultra-poor graduation) in Uganda. Doing so requires appropriate and effective targeting, building capacity of the management and service providers, building agencies, and providing opportunity to beneficiaries to promote to a well-established economic development program such as microfinance. In most countries, the ultra-poor face similar disadvantages and share many of the same enablers needed to graduate out of ultra-poverty. Therefore, the potential to gain similar benefits as found in our study exists in other countries.</p><p xml:id="_8FBSTH3">While the data were from early-to-mid 2000s, the study provides support for targeting ultra-poor women for improving livelihoods, empowering women, and alleviating poverty in the current development scenario in which participatory programs are a mainstay <ref type="bibr" target="#b9">(Brody et al., 2015;</ref><ref type="bibr" target="#b38">Omalley &amp; Burke, 2017)</ref>. We provide evidence for the medium-term impact of the CFPR TUP program, about two and a half years after graduation, on improving psychological wellbeing. The impact demonstrated is regardless of the households joining microcredit program after graduation from the CFPR-TUP program. Although the effectiveness of the CFPR TUP program had been reported in terms of economic well-being, gender, agency, health, nutrition, food security, and other outcomes, this study adds evidence of the program's success in improving subjective well-being and reducing violence against women.</p><p xml:id="_xwucwWT">Women's empowerment through asset transfer was shown previously to be important for gaining access to markets, improve household and village income, reduce involvement in wage work, and gain more control over their income <ref type="bibr" target="#b4">(Bandiera et al., 2012)</ref>. Program participation increased social awareness about legal rights, land rights, and public institutions, which in turn determined participation in formal credit markets including other microfinance institutions, thereby gaining greater access to financial resources <ref type="bibr" target="#b32">(McIlvaine et al., 2015;</ref><ref type="bibr" target="#b47">Shams et al., 2010)</ref>.</p><p xml:id="_YrBCcyM">The ultra-poor program's targeted strategy to specifically identify the most vulnerable could be considered as key for other microfinance programs to improve social inclusion of those most marginalized. Social awareness was a critical component of the program and could be replicated in other programs to improve awareness of public rights and promote change in attitudes and norms to increase community participation and improve intra-household bargaining to prevent domestic violence, thus promoting women's empowerment at household and community level.</p><p xml:id="_ZhPKuTm">The ultra-poor are frequently excluded from conventional peer-group microcredit programs because they lack social and financial capital and have limited means to establish or maintain livelihoods. Targeting the ultra-poor with a stepwise strategy, as was done with the CFPR-TUP program, to build multiple forms of capital, along with providing material assets, can lead to economic empowerment and other benefits such as improved subjective well-being. Furthermore, social campaigns to improve awareness of public rights, promote change in attitudes and norms among community elites, and improve intra-household bargaining to prevent domestic violence were key to the success of the program and could be replicated in other programs. The higher subjective well-being of program participants underscores the importance of evaluating programs for their psychological as well as material and social benefits. Recognizing gains in perceived life satisfaction can improve our understanding of how future poverty alleviation programs can be developed to foster economic, social, and psychological well-being and improve overall quality of life of the ultra-poor.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_DJDejXS">Appendix</head><p xml:id="_YhbRD3C">See Table <ref type="table" target="#tab_3">4</ref>. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><figDesc xml:id="_VNAD3px">BAP = % adverse incidence in comparison -% adverse incidence in program PBAP = BAP ∕ % adverse incidence in comparison The program women had higher subjective well-being in 2006 (by 0.672 to 1.44 standardized deviations), higher perceived economy in 2006 (by 0.468 standardized deviations), and lower violence against women in 2006 (by 0.421 standardized deviations for all forms of violence) than the comparison women (Table</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc xml:id="_eBsgw7S">Differences in household characteristics between program and comparison arms</figDesc><table><row><cell>Variables</cell><cell>Program</cell><cell></cell><cell cols="2">Comparison</cell><cell>Mean difference</cell><cell>p-values</cell></row><row><cell></cell><cell>N</cell><cell>Mean ± SD</cell><cell>N</cell><cell>Mean ± SD</cell><cell></cell><cell></cell></row><row><cell>Assessed in 2002 (baseline)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Number of children &lt; age 5 years</cell><cell>589</cell><cell>0.87 ± 0.74</cell><cell>715</cell><cell>0.84 ± 0.76</cell><cell>0.03</cell><cell>0.47</cell></row><row><cell>Household size (count)</cell><cell>636</cell><cell>4.09 ± 1.59</cell><cell>978</cell><cell>4.05 ± 1.51</cell><cell>0.04</cell><cell>0.61</cell></row><row><cell>Food insecurity (standardized score)</cell><cell>548</cell><cell>0.48 ± 1.59</cell><cell>684</cell><cell>-0.38 ± 1.64</cell><cell>0.86</cell><cell>&lt; 0.001</cell></row><row><cell>Economic status (standardized score)</cell><cell>543</cell><cell>-1.49 ± 3.20</cell><cell>689</cell><cell>1.18 ± 5.21</cell><cell>-2.67</cell><cell>&lt; 0.001</cell></row><row><cell>Age (years)</cell><cell>640</cell><cell>25.25 ± 8.17</cell><cell>978</cell><cell>23.26 ± 7.85</cell><cell>1.99</cell><cell>&lt; 0.001</cell></row><row><cell></cell><cell>N</cell><cell>(%)</cell><cell>N</cell><cell>(%)</cell><cell></cell><cell></cell></row><row><cell>Assessed in 2006 (end-line)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Marital status (married)</cell><cell>640</cell><cell>89.4</cell><cell>978</cell><cell>95.9</cell><cell>-6.5</cell><cell>&lt; 0.001</cell></row><row><cell>Women with no education</cell><cell>525</cell><cell>82.0</cell><cell>711</cell><cell>72.7</cell><cell>9.3</cell><cell>&lt; 0.001</cell></row><row><cell>Husbands with no education</cell><cell>518</cell><cell>86.0</cell><cell>756</cell><cell>79.2</cell><cell>6.8</cell><cell>&lt; 0.002</cell></row><row><cell>Manual labor (agricultural/non-agricul-</cell><cell>448</cell><cell>70.0</cell><cell>676</cell><cell>69.1</cell><cell>0.9</cell><cell>0.72</cell></row><row><cell>tural) as major source of HH income</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc xml:id="_6Cd9cVp">Program-comparison differences in outcomes *p &lt;0.05, ** p &lt;0.01, *** p &lt;0.001 a Single item with a binary response b Adjusted for district and baselines measures of age, number of children under age 5 years, household size, economic status, and food insecurity status and accounting for area office and village as random effects</figDesc><table><row><cell>Outcome variables</cell><cell>Program (Mean ± SD)</cell><cell>Comparison (Mean ± SD)</cell><cell>Unadjusted mean dif-ference</cell><cell>Adjusted mean difference b</cell><cell>Effect size</cell></row><row><cell></cell><cell>N = 110</cell><cell>N = 99</cell><cell></cell><cell>N = 205</cell><cell></cell></row><row><cell>Subjective well-being</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Positive &amp; negative affect</cell><cell>65.73 ± 11.16</cell><cell>55.53 ± 7.54</cell><cell>10.2</cell><cell>11.6***</cell><cell>1.15</cell></row><row><cell>Sum of positive affect</cell><cell>30.48 ± 7.79</cell><cell>23.68 ± 5.22</cell><cell>6.8</cell><cell>6.56***</cell><cell>1.10</cell></row><row><cell>Sum of negative affect</cell><cell>24.76 ± 5.78</cell><cell>28.15 ± 5.16</cell><cell>-3.39</cell><cell>-5.13***</cell><cell>0.672</cell></row><row><cell>Satisfaction with life scales</cell><cell>1.66 ± 3.07</cell><cell>-1.84 ± 2.19</cell><cell>3.5</cell><cell>3.65***</cell><cell>1.44</cell></row><row><cell>Single response measure</cell><cell>2.46 ± 0.83</cell><cell>1.54 ± 0.72</cell><cell>0.92</cell><cell>1.10***</cell><cell>1.29</cell></row><row><cell></cell><cell>N = 529</cell><cell>N = 669</cell><cell></cell><cell>N = 1192</cell><cell></cell></row><row><cell>Economic status in 2005</cell><cell>2.33 ± 4.67</cell><cell>-0.96 ± 6.17</cell><cell>3.29</cell><cell>0.150***</cell><cell>0.643</cell></row><row><cell></cell><cell>N = 640</cell><cell>N = 978</cell><cell></cell><cell>N = 1614</cell><cell></cell></row><row><cell>Perceived economy in 2006</cell><cell>2.16 ± 0.84</cell><cell>1.82 ± 0.78</cell><cell>0.34</cell><cell>0.468***</cell><cell>0.468</cell></row><row><cell>Food insecurity</cell><cell>-2.85 ± 7.58</cell><cell>0.85 ± 6.43</cell><cell>-3.7</cell><cell>-4.52***</cell><cell>0.632</cell></row><row><cell></cell><cell>N = 560</cell><cell>N = 767</cell><cell></cell><cell>N = 1269</cell><cell></cell></row><row><cell>Violence against women</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Restricted movement</cell><cell>1.45 ± 1.59</cell><cell>1.98 ± 1.73</cell><cell>-0.53</cell><cell>-0.406***</cell><cell>0.340</cell></row><row><cell>Psychological oppression</cell><cell>2.95 ± 1.69</cell><cell>3.36 ± 1.64</cell><cell>-0.41</cell><cell>-0.296*</cell><cell>0.362</cell></row><row><cell>Physical assault (moderate)</cell><cell>1.40 ± 1.32</cell><cell>1.76 ± 1.30</cell><cell>-0.36</cell><cell>-0.301**</cell><cell>0.401</cell></row><row><cell>Physical assault (severe)</cell><cell>0.35 ± 0.72</cell><cell>0.40 ± 0.75</cell><cell>-0.05</cell><cell>-0.0496</cell><cell>0.149</cell></row><row><cell>Sexual abuse (%) a</cell><cell>73.4</cell><cell>83.8</cell><cell>-10.4</cell><cell>-</cell><cell>-</cell></row><row><cell>All forms of violence</cell><cell>6.39 ± 4.38</cell><cell>7.75 ± 4.39</cell><cell>-1.36</cell><cell>-1.10***</cell><cell>0.421</cell></row><row><cell>Violence during pregnancy</cell><cell>5.42 ± 4.53</cell><cell>6.14 ± 4.72</cell><cell>-0.72</cell><cell>-0.447</cell><cell>0.286</cell></row><row><cell>Depression</cell><cell>13.82 ± 4.11</cell><cell>13.32 ± 4.48</cell><cell>0.5</cell><cell>-0.0227</cell><cell>0.0151</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc xml:id="_Ew4FBVj">Estimated benefits attributable to program</figDesc><table><row><cell>Outcome variables</cell><cell>Comparison</cell><cell>Program</cell><cell>Benefit attributable to</cell><cell>Proportional benefit</cell></row><row><cell></cell><cell>(%)</cell><cell>(%)</cell><cell>program (%)</cell><cell>attributable to program</cell></row><row><cell></cell><cell>A</cell><cell>B</cell><cell>A-B</cell><cell>(A-B)/A</cell></row><row><cell>Subjective well-being</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Experiencing negative affect of life a</cell><cell>98.0</cell><cell>64.5</cell><cell>33.5</cell><cell>0.34</cell></row><row><cell>Dissatisfaction with life</cell><cell>97.0</cell><cell>54.5</cell><cell>42.5</cell><cell>0.44</cell></row><row><cell>Food insecurity b</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Could not eat two fulfilling meals in a day</cell><cell>75.1</cell><cell>61.3</cell><cell>13.8</cell><cell>0.18</cell></row><row><cell>Ate rice without anything else</cell><cell>84.8</cell><cell>71.3</cell><cell>13.5</cell><cell>0.16</cell></row><row><cell>Had to borrow rice</cell><cell>80.5</cell><cell>66.5</cell><cell>14.0</cell><cell>0.17</cell></row><row><cell>Violence against women a</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Restricted movement</cell><cell>45.7</cell><cell>35.3</cell><cell>10.3</cell><cell>0.23</cell></row><row><cell>Psychological oppression</cell><cell>47.8</cell><cell>41.2</cell><cell>6.6</cell><cell>0.14</cell></row><row><cell>Moderate physical assault</cell><cell>58.7</cell><cell>46.5</cell><cell>12.2</cell><cell>0.21</cell></row><row><cell>Severe physical assault</cell><cell>13.1</cell><cell>11.7</cell><cell>1.5</cell><cell>0.12</cell></row><row><cell>Sexual abuse/harassment</cell><cell>83.8</cell><cell>73.4</cell><cell>10.4</cell><cell>0.12</cell></row><row><cell>a Question refers to the previous year</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>b Question refer to the previous month</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4</head><label>4</label><figDesc xml:id="_hYV9gtN">Regression estimates for subjective well-being as measured by positive affect, economic status, food insecurity, and all forms of violence</figDesc><table><row><cell></cell><cell cols="2">Economic status</cell><cell>Food insecurity</cell><cell></cell><cell>Positive affect</cell><cell></cell><cell cols="2">Violence (all forms)</cell></row><row><cell></cell><cell>Coefficient</cell><cell>p-value</cell><cell>Coefficient</cell><cell>p-value</cell><cell>Coefficient</cell><cell>p-value</cell><cell>Coefficient</cell><cell>p-value</cell></row><row><cell>Program (ref. comparison)</cell><cell>0.150</cell><cell>&lt; 0.001</cell><cell>6.56</cell><cell>&lt; 0.001</cell><cell>-4.52</cell><cell>&lt; 0.001</cell><cell>-1.10</cell><cell>&lt; 0.001</cell></row><row><cell>District 2 (ref. district 1)</cell><cell>-0.0564</cell><cell>0.005</cell><cell>-4.14</cell><cell>0.016</cell><cell>0.457</cell><cell>0.636</cell><cell>0.367</cell><cell>0.503</cell></row><row><cell>District 3 (ref. district 1)</cell><cell>0.0118</cell><cell>0.552</cell><cell>-4.30</cell><cell>0.037</cell><cell>1.15</cell><cell>0.232</cell><cell>3.35</cell><cell>&lt; 0.001</cell></row><row><cell>Age (years)</cell><cell>0.000164</cell><cell>0.795</cell><cell>-0.0270</cell><cell>0.543</cell><cell>0.0141</cell><cell>0.577</cell><cell>-0.0647</cell><cell>&lt; 0.001</cell></row><row><cell>Household size (number)</cell><cell>0.0159</cell><cell>&lt; 0.001</cell><cell>0.429</cell><cell>0.217</cell><cell>0.379</cell><cell>0.012</cell><cell>-0.199</cell><cell>0.035</cell></row><row><cell>Children &lt; 5 (number)</cell><cell>-0.0117</cell><cell>0.113</cell><cell>-0.846</cell><cell>0.322</cell><cell>0.300</cell><cell>0.321</cell><cell>0.700</cell><cell>&lt; 0.001</cell></row><row><cell>Food insecurity</cell><cell>-0.00282</cell><cell>0.428</cell><cell>0.302</cell><cell>0.419</cell><cell>0.174</cell><cell>0.236</cell><cell>0.000722</cell><cell>0.994</cell></row><row><cell>Economic status</cell><cell>0.152</cell><cell>&lt; 0.001</cell><cell>0.494</cell><cell>0.867</cell><cell>-1.92</cell><cell>0.111</cell><cell>-1.66</cell><cell>0.028</cell></row><row><cell>Constant</cell><cell>0.844</cell><cell>&lt; 0.001</cell><cell>26.1</cell><cell>&lt; 0.001</cell><cell>0.369</cell><cell>0.815</cell><cell>9.63</cell><cell>&lt; 0.001</cell></row><row><cell>Variance (area office)</cell><cell>0.00115</cell><cell>-</cell><cell>2.88</cell><cell>-</cell><cell>3.38</cell><cell>-</cell><cell>0.751</cell><cell>-</cell></row><row><cell>Variance (village)</cell><cell>0.000678</cell><cell>-</cell><cell>1.58</cell><cell>-</cell><cell>1.08</cell><cell>-</cell><cell>0.871</cell><cell>-</cell></row><row><cell>Variance (household)</cell><cell>0.0237</cell><cell>-</cell><cell>33.3</cell><cell>-</cell><cell>41.3</cell><cell>-</cell><cell>14.2</cell><cell>-</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="funding">
+<div xml:id="_pmUM3Tr"><p xml:id="_ea4q9PK">Funding This study was supported by funding from the <rs type="funder">Canadian International Development Agency</rs>, the <rs type="funder">United Kingdom Department for International Development</rs>, the <rs type="funder">European Commission, NOVIB</rs>, and the <rs type="funder">World Food Programme through BRAC</rs>. These organizations did not have any role in the conceptualization, design, analysis, or interpretation of the study, in the writing of the report, or the decision to submit for publication.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_JTMGtUT">Data Availability</head><p xml:id="_KJe4dJp">Data available on request from the authors.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_KfujQX9">Declarations</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_hnF6YA8">Conflict of interest</head><p xml:id="_jYVqmYe">The authors declare that they have no conflict of interest.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_zGtDZ7q">Research Involving Human and Animal Participants</head><p xml:id="_UgcBtSM">All procedures performed in this study that involved human participants were in accordance with the ethical standards of the Bangladesh Medical Research Council, Dhaka, Bangladesh and the University Committee on Human Subjects, Cornell University, USA, both of which approved the study, and with the 1964 Helsinki declaration and its later amendments or comparable ethical standards.</p><p xml:id="_gZZdewx">Publisher's Note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted"  xml:id="b0">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Ahmed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K M M</forename><surname>Rana</surname></persName>
+		</author>
+		<title level="m" xml:id="_hU9pzhH">Customized development interventions for the ultra poor: Preliminary change assessments of health and health-seeking behaviour (CFPR/TUP 2002 to</title>
+		<imprint>
+			<publisher>BRAC Research and Evaluation Division and Aga Khan Foundation Canada</publisher>
+			<date type="published" when="2004">2005. 2004</date>
+			<biblScope unit="volume">7</biblScope>
+		</imprint>
+	</monogr>
+	<note>CFPR/TUP working paper series</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b1">
+	<monogr>
+		<title level="m" type="main" xml:id="_unKcb5T">The poorest: Who and where they are? Marginality</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">U</forename><surname>Ahmed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">V</forename><surname>Hill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Naeem</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>Springer</publisher>
+			<biblScope unit="page" from="85" to="99" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main" xml:id="_RbveYEg">Evaluating the long-run impact of an innovative anti-poverty programme: evidence using household panel data</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Niaz</forename><surname>Asadullah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jinnat</forename><surname>Ara</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00036846.2015.1073846</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_KSdvrgB">Applied Economics</title>
+		<title level="j" type="abbrev">Applied Economics</title>
+		<idno type="ISSN">0003-6846</idno>
+		<idno type="ISSNe">1466-4283</idno>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="107" to="120" />
+			<date type="published" when="2016">2016</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main" xml:id="_32yKNaz">Subjective well-being and relative poverty in rural Bangladesh</title>
+		<author>
+			<persName><forename type="first">Mohammad</forename><forename type="middle">Niaz</forename><surname>Asadullah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nazmul</forename><surname>Chaudhury</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.joep.2012.05.003</idno>
+		<ptr target="https://doi.org/10.1016/J.JOEP.2012.05.003" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_XU52KEB">Journal of Economic Psychology</title>
+		<title level="j" type="abbrev">Journal of Economic Psychology</title>
+		<idno type="ISSN">0167-4870</idno>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="940" to="950" />
+			<date type="published" when="2012-10">2012</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main" xml:id="_UNk3CsQ">Empowering Adolescent Girls</title>
+		<author>
+			<persName><forename type="first">Oriana</forename><surname>Bandiera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Niklas</forename><surname>Buehren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robin</forename><surname>Burgess</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Markus</forename><surname>Goldstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Selim</forename><surname>Gulesci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Imran</forename><surname>Rasul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Munshi</forename><surname>Sulaiman</surname></persName>
+		</author>
+		<idno type="DOI">10.1596/25529</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_VHqeHhC">Asset transfer programme for the ultra poor: A randomized control trial evaluation BRAC/CFPR</title>
+		<imprint>
+			<publisher>World Bank, Washington, DC</publisher>
+			<date type="published" when="2012-12">2012</date>
+		</imprint>
+		<respStmt>
+			<orgName>BRAC Research and Development Division</orgName>
+		</respStmt>
+	</monogr>
+	<note>working paper no</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main" xml:id="_F3B6TGF">Labor Markets and Poverty in Village Economies*</title>
+		<author>
+			<persName><forename type="first">Oriana</forename><surname>Bandiera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robin</forename><surname>Burgess</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Narayan</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Selim</forename><surname>Gulesci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Imran</forename><surname>Rasul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Munshi</forename><surname>Sulaiman</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/qje/qjx003</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_eWyEfms">The Quarterly Journal of Economics</title>
+		<idno type="ISSN">0033-5533</idno>
+		<idno type="ISSNe">1531-4650</idno>
+		<imprint>
+			<biblScope unit="volume">132</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="811" to="870" />
+			<date type="published" when="2017-03-20">2017</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main" xml:id="_SYQpjUj">A multifaceted program causes lasting progress for the very poor: Evidence from six countries</title>
+		<author>
+			<persName><forename type="first">Abhijit</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Esther</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nathanael</forename><surname>Goldberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dean</forename><surname>Karlan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Osei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">William</forename><surname>Parienté</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeremy</forename><surname>Shapiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bram</forename><surname>Thuysbaert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Udry</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.1260799</idno>
+		<ptr target="https://doi.org/10.1126/science.1260799" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_NduSts6">Science</title>
+		<title level="j" type="abbrev">Science</title>
+		<idno type="ISSN">0036-8075</idno>
+		<idno type="ISSNe">1095-9203</idno>
+		<imprint>
+			<biblScope unit="volume">348</biblScope>
+			<biblScope unit="issue">6236</biblScope>
+			<biblScope unit="page">1260799</biblScope>
+			<date type="published" when="2015-05-15">2015</date>
+			<publisher>American Association for the Advancement of Science (AAAS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main" xml:id="_G3wXJCS">The Returns to Microenterprise Support among the Ultrapoor: A Field Experiment in Postwar Uganda</title>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Blattman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eric</forename><forename type="middle">P</forename><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Julian</forename><surname>Jamison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Christian</forename><surname>Lehmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeannie</forename><surname>Annan</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/app.20150023</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_MKHyjAU">American Economic Journal: Applied Economics</title>
+		<title level="j" type="abbrev">American Economic Journal: Applied Economics</title>
+		<idno type="ISSN">1945-7782</idno>
+		<idno type="ISSNe">1945-7790</idno>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="35" to="64" />
+			<date type="published" when="2016-04-01">2016</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main" xml:id="_Z9GBXZS">A Matched Case-Control Study to Identify Risk Determinants of Tuberculosis in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Malabika</forename><surname>Sarker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fahmida</forename><surname>Homayra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mrittika</forename><surname>Barua</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sukanta</forename><surname>Paul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Avijit</forename><surname>Saha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rahima</forename><surname>Akter James P Grant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H M</forename><surname>Mahbub Latif</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shayela</forename><surname>Islam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Akramul</forename><surname>Lslam</surname></persName>
+		</author>
+		<idno type="DOI">10.5176/2251-3833_ghc17.05</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_TdfbZpe">Annual Global Healthcare Conference (GHC)</title>
+		<meeting><address><addrLine>Dhaka, Bangladesh</addrLine></address></meeting>
+		<imprint>
+			<publisher>Global Science &amp; Technology Forum (GSTF)</publisher>
+			<date type="published" when="2004">2004</date>
+			<biblScope unit="page" from="11" to="16" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main" xml:id="_GKaR8HV">Economic Self‐Help group Programs for Improving Women&apos;s Empowerment: A Systematic Review</title>
+		<author>
+			<persName><forename type="first">Carinne</forename><surname>Brody</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Thomas</forename><surname>De Hoop</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Martina</forename><surname>Vojtkova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ruby</forename><surname>Warnock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Megan</forename><surname>Dunbar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Padmini</forename><surname>Murthy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shari</forename><forename type="middle">L</forename><surname>Dworkin</surname></persName>
+		</author>
+		<idno type="DOI">10.4073/csr.2015.19</idno>
+		<ptr target="https://doi.org/10.4073/csr.2015" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_NaXscMP">Campbell Systematic Reviews</title>
+		<title level="j" type="abbrev">Campbell Systematic Reviews</title>
+		<idno type="ISSN">1891-1803</idno>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="182" />
+			<date type="published" when="2015-01">2015</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main" xml:id="_KQTxuw5">Can self-help group programs improve women’s empowerment? A systematic review</title>
+		<author>
+			<persName><forename type="first">Carinne</forename><surname>Brody</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Thomas</forename><forename type="middle">De</forename><surname>Hoop</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Martina</forename><surname>Vojtkova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ruby</forename><surname>Warnock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Megan</forename><surname>Dunbar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Padmini</forename><surname>Murthy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shari</forename><forename type="middle">L</forename><surname>Dworkin</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/19439342.2016.1206607</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_TFRKJDP">Journal of Development Effectiveness</title>
+		<title level="j" type="abbrev">Journal of Development Effectiveness</title>
+		<idno type="ISSN">1943-9342</idno>
+		<idno type="ISSNe">1943-9407</idno>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="15" to="40" />
+			<date type="published" when="2017">2017</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main" xml:id="_TyUeNkc">Targeting empowerment in community development: a community psychology approach to enhancing local power and well-being</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">D</forename><surname>Christens</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/cdj/bss031</idno>
+		<ptr target="https://doi.org/10.1093/cdj/bss031" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Bg425us">Community Development Journal</title>
+		<title level="j" type="abbrev">Community Development Journal</title>
+		<idno type="ISSN">0010-3802</idno>
+		<idno type="ISSNe">1468-2656</idno>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="538" to="554" />
+			<date type="published" when="2012-08-29">2012</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main" xml:id="_kahBTHb">A power primer.</title>
+		<author>
+			<persName><forename type="first">Jacob</forename><surname>Cohen</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0033-2909.112.1.155</idno>
+		<ptr target="https://doi.org/10.1037/0033-2909.112.1.155" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_xArhPvp">Psychological Bulletin</title>
+		<title level="j" type="abbrev">Psychological Bulletin</title>
+		<idno type="ISSN">0033-2909</idno>
+		<idno type="ISSNe">1939-1455</idno>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="155" to="159" />
+			<date type="published" when="1992">1992</date>
+			<publisher>American Psychological Association (APA)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main" xml:id="_vGZQEvg">Subjective well-being: The science of happiness and a proposal for a national index.</title>
+		<author>
+			<persName><forename type="first">Ed</forename><surname>Diener</surname></persName>
+		</author>
+		<idno type="DOI">10.1037//0003-066x.55.1.34</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_VP9KD7p">American Psychologist</title>
+		<title level="j" type="abbrev">American Psychologist</title>
+		<idno type="ISSN">0003-066X</idno>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="34" to="43" />
+			<date type="published" when="2000">2000</date>
+			<publisher>American Psychological Association (APA)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main" xml:id="_56MspF3">The Satisfaction With Life Scale</title>
+		<author>
+			<persName><forename type="first">Ed</forename><surname>Diener</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><forename type="middle">A</forename><surname>Emmons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Randy</forename><forename type="middle">J</forename><surname>Larsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sharon</forename><surname>Griffin</surname></persName>
+		</author>
+		<idno type="DOI">10.1207/s15327752jpa4901_13</idno>
+		<ptr target="https://doi.org/10.1207/s15327752jpa4901_13" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_qSCRnAf">Journal of Personality Assessment</title>
+		<title level="j" type="abbrev">Journal of Personality Assessment</title>
+		<idno type="ISSN">0022-3891</idno>
+		<idno type="ISSNe">1532-7752</idno>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="71" to="75" />
+			<date type="published" when="1985-02">1985</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main" xml:id="_4Tdjmq9">Assessing the Frontiers of Ultrapoverty Reduction: Evidence from Challenging the Frontiers of Poverty Reduction/Targeting the Ultra-poor, an Innovative Program in Bangladesh</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Shahe</forename><surname>Emran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Virginia</forename><surname>Robano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stephen</forename><forename type="middle">C</forename><surname>Smith</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/674110</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Szc2drd">Economic Development and Cultural Change</title>
+		<title level="j" type="abbrev">Economic Development and Cultural Change</title>
+		<idno type="ISSN">0013-0079</idno>
+		<idno type="ISSNe">1539-2988</idno>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="339" to="380" />
+			<date type="published" when="2014-01">2014</date>
+			<publisher>University of Chicago Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main" xml:id="_VWTdAjm">Aging and Cumulative Inequality: How Does Inequality Get Under the Skin?</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">F</forename><surname>Ferraro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">P</forename><surname>Shippee</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/geront/gnp034</idno>
+		<ptr target="https://doi.org/10.1093/geront/gnp034" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_6jeRBgH">The Gerontologist</title>
+		<title level="j" type="abbrev">The Gerontologist</title>
+		<idno type="ISSN">0016-9013</idno>
+		<idno type="ISSNe">1758-5341</idno>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="333" to="343" />
+			<date type="published" when="2009-04-17">2009</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main" xml:id="_UfM2zGC">Understanding the Experience of Household Food Insecurity in Rural Bangladesh Leads to a Measure Different from That Used in Other Countries</title>
+		<author>
+			<persName><forename type="first">Edward</forename><forename type="middle">A</forename><surname>Frongillo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nusrat</forename><surname>Chowdhury</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eva-Charlotte</forename><surname>Ekström</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ruchira</forename><forename type="middle">T</forename><surname>Naved</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/jn/133.12.4158</idno>
+		<ptr target="https://doi.org/10.1093/jn/133.12.4158" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_she6kbR">The Journal of Nutrition</title>
+		<title level="j" type="abbrev">The Journal of Nutrition</title>
+		<idno type="ISSN">0022-3166</idno>
+		<imprint>
+			<biblScope unit="volume">133</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="4158" to="4162" />
+			<date type="published" when="2003-12">2003</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b18">
+	<analytic>
+		<title level="a" type="main" xml:id="_52rPC3U">Food Insecurity Is Associated with Subjective Well-Being among Individuals from 138 Countries in the 2014 Gallup World Poll</title>
+		<author>
+			<persName><forename type="first">Edward</forename><forename type="middle">A</forename><surname>Frongillo</surname></persName>
+			<idno type="ORCID">0000-0002-8265-9815</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Hoa</forename><forename type="middle">T</forename><surname>Nguyen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><forename type="middle">D</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alisha</forename><surname>Coleman-Jensen</surname></persName>
+		</author>
+		<idno type="DOI">10.3945/jn.116.243642</idno>
+		<ptr target="https://doi.org/10.3945/jn.116.243642" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_GTNs2fc">The Journal of Nutrition</title>
+		<title level="j" type="abbrev">The Journal of Nutrition</title>
+		<idno type="ISSN">0022-3166</idno>
+		<imprint>
+			<biblScope unit="volume">147</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="680" to="687" />
+			<date type="published" when="2017-04">2017</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main" xml:id="_hSsm28V">The Impact of Lending to Women on Household Vulnerability and Women’s Empowerment: Evidence from India</title>
+		<author>
+			<persName><forename type="first">Supriya</forename><surname>Garikipati</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.worlddev.2007.11.008</idno>
+		<ptr target="https://doi.org/10.1016/j.worlddev.2007.11.008" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_9curBtv">World Development</title>
+		<title level="j" type="abbrev">World Development</title>
+		<idno type="ISSN">0305-750X</idno>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="2620" to="2642" />
+			<date type="published" when="2008-12">2008</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main" xml:id="_7t92Thx">Impact Evaluation in Practice, Second Edition</title>
+		<author>
+			<persName><forename type="first">Paul</forename><forename type="middle">J</forename><surname>Gertler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sebastian</forename><surname>Martinez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Patrick</forename><surname>Premand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Laura</forename><forename type="middle">B</forename><surname>Rawlings</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christel</forename><forename type="middle">M J</forename><surname>Vermeersch</surname></persName>
+		</author>
+		<idno type="DOI">10.1596/978-1-4648-0779-4</idno>
+		<ptr target="https://doi.org/10.1596/978-1-4648-0779-4" />
+	</analytic>
+	<monogr>
+		<title level="s" xml:id="_xuMA8rV">Inter-American Development Bank and World Bank</title>
+		<imprint>
+			<date type="published" when="2016-09-12">2016</date>
+			<publisher>Washington, DC: Inter-American Development Bank and World Bank</publisher>
+		</imprint>
+	</monogr>
+	<note>2nd ed.</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main" xml:id="_eMcFEyc">No Longer Trapped? Promoting Entrepreneurship Through Cash Transfers to Ultra‐Poor Women in Northern Kenya</title>
+		<author>
+			<persName><forename type="first">Vilas</forename><forename type="middle">J</forename><surname>Gobin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Paulo</forename><surname>Santos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Russell</forename><surname>Toth</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/ajae/aax037</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_wCHmE8Y">American Journal of Agricultural Economics</title>
+		<title level="j" type="abbrev">American J Agri Economics</title>
+		<idno type="ISSN">0002-9092</idno>
+		<idno type="ISSNe">1467-8276</idno>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1362" to="1383" />
+			<date type="published" when="2017-07-25">2017</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main" xml:id="_sgAuDjA">Socio-economic determinants of household food security and women&apos;s dietary diversity in rural Bangladesh: A cross-sectional study</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Harris-Fry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Azad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kuddus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Shaha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Nahar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hossen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Younes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Costello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Fottrell</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/s41043-015-0022-0</idno>
+		<ptr target="https://doi.org/10.1186/s41043-015-0022-0" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_sWXZ6nd">Journal of Health Population and Nutrition</title>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main" xml:id="_ms8ApyM">Reaching the poorest: Lessons from the graduation model</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Hashemi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>De Montesquiou</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_SvUwDVs">Focus Note</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="15" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b24">
+	<analytic>
+		<title level="a" type="main" xml:id="_SHNV7f7">Microfinance and Household Poverty Reduction: New Evidence from India</title>
+		<author>
+			<persName><forename type="first">Katsushi</forename><forename type="middle">S</forename><surname>Imai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Thankom</forename><surname>Arun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Samuel</forename><forename type="middle">Kobina</forename><surname>Annim</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.worlddev.2010.04.006</idno>
+		<ptr target="https://doi.org/10.1016/J.WORLDDEV.2010.04.006" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_vtMKWZu">World Development</title>
+		<title level="j" type="abbrev">World Development</title>
+		<idno type="ISSN">0305-750X</idno>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1760" to="1774" />
+			<date type="published" when="2010-12">2010</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b25">
+	<analytic>
+		<title level="a" type="main" xml:id="_MURSSyY">Effect of Poverty Reduction Program on Nutritional Status of the Extreme Poor in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Chowdhury</forename><forename type="middle">S B</forename><surname>Jalal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Edward</forename><forename type="middle">A</forename><surname>Frongillo</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/156482651303400405</idno>
+		<ptr target="https://doi.org/10.1177/156482651303400405" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_VpMQgpH">Food and Nutrition Bulletin</title>
+		<title level="j" type="abbrev">Food Nutr Bull</title>
+		<idno type="ISSN">0379-5721</idno>
+		<idno type="ISSNe">1564-8265</idno>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="402" to="411" />
+			<date type="published" when="2013-12">2013</date>
+			<publisher>SAGE Publications</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b26">
+	<analytic>
+		<title level="a" type="main" xml:id="_dNYUzQ8">Food Insecurity Mediates the Effect of a Poverty-Alleviation Program on Psychosocial Health among the Ultra-Poor in Bangladesh,</title>
+		<author>
+			<persName><forename type="first">Chowdhury</forename><forename type="middle">Sb</forename><surname>Jalal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Edward</forename><forename type="middle">A</forename><surname>Frongillo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andrea</forename><forename type="middle">M</forename><surname>Warren</surname></persName>
+		</author>
+		<idno type="DOI">10.3945/jn.115.210799</idno>
+		<ptr target="https://doi.org/10.3945/jn.115.210799" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_EzeTcEh">The Journal of Nutrition</title>
+		<title level="j" type="abbrev">The Journal of Nutrition</title>
+		<idno type="ISSN">0022-3166</idno>
+		<imprint>
+			<biblScope unit="volume">145</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1934" to="1941" />
+			<date type="published" when="2015-08">2015</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b27">
+	<analytic>
+		<title level="a" type="main" xml:id="_FjsVpt4">Economic Outcomes of Microfinance</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Kabeer</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/9781108291286.007</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_ra73zGr">Women and Microfinance in the Global South</title>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="volume">4045</biblScope>
+			<biblScope unit="page" from="79" to="106" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b28">
+	<analytic>
+		<title level="a" type="main" xml:id="_Yx58Mbv">Gender equality and women&apos;s empowerment: A critical analysis of the third millennium development goal 1</title>
+		<author>
+			<persName><forename type="first">Naila</forename><surname>Kabeer</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/13552070512331332273</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_xZsy8Nz">Gender &amp; Development</title>
+		<title level="j" type="abbrev">Gender &amp; Development</title>
+		<idno type="ISSN">1355-2074</idno>
+		<idno type="ISSNe">1364-9221</idno>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="13" to="24" />
+			<date type="published" when="2005-03">2005b</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b29">
+	<analytic>
+		<title level="a" type="main" xml:id="_EvJnfdK">Economic Pathways to Women’s Empowerment and Active Citizenship: What Does The Evidence From Bangladesh Tell Us?</title>
+		<author>
+			<persName><forename type="first">Naila</forename><surname>Kabeer</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00220388.2016.1205730</idno>
+		<ptr target="https://doi.org/10.1080/00220388.2016.12057" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_gwyyF5x">The Journal of Development Studies</title>
+		<title level="j" type="abbrev">The Journal of Development Studies</title>
+		<idno type="ISSN">0022-0388</idno>
+		<idno type="ISSNe">1743-9140</idno>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="649" to="663" />
+			<date type="published" when="2017">2017</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b30">
+	<analytic>
+		<title level="a" type="main" xml:id="_jX6R2Px">Pathways from women&apos;s group-based programs to nutrition change in South Asia: A conceptual framework and literature review</title>
+		<author>
+			<persName><forename type="first">Neha</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Samuel</forename><surname>Scott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Purnima</forename><surname>Menon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Samyuktha</forename><surname>Kannan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kenda</forename><surname>Cunningham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Parul</forename><surname>Tyagi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gargi</forename><surname>Wable</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kalyani</forename><surname>Raghunathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Agnes</forename><surname>Quisumbing</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.gfs.2017.11.002</idno>
+		<ptr target="https://doi.org/10.1016/j.gfs.2017.11.002" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_DV9tWWC">Global Food Security</title>
+		<title level="j" type="abbrev">Global Food Security</title>
+		<idno type="ISSN">2211-9124</idno>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="172" to="185" />
+			<date type="published" when="2017">2017</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b31">
+	<monogr>
+		<title level="m" type="main" xml:id="_e3U62GK">Crafting a graduation pathway for the ultra-poor: Lessons and evidence from a BRAC programme</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Matin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sulaiman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rabbani</surname></persName>
+		</author>
+		<ptr target="http://www.albacharia.ma/xmlui/bitstream/handle/123456789/31508/1307CraftingaGraduationPathwayfortheUltraPoor" />
+		<imprint>
+			<date type="published" when="2008-09-06">2008. September 6, 2021</date>
+		</imprint>
+	</monogr>
+	<note>Lesso nsand Evide ncefr omaBR ACpro gramm e2008. pdf? seque nce=1</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b32">
+	<analytic>
+		<title level="a" type="main" xml:id="_2aXKhEg">Confidence, Capacity Building and Cash: Achieving Sustained Impact for Ultra-poor Women</title>
+		<author>
+			<persName><forename type="first">Kassie</forename><surname>Mcilvaine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Corey</forename><surname>Oser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Julianna</forename><surname>Lindsey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Maia</forename><surname>Blume</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/1759-5436.12131</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_wVMGTtJ">IDS Bulletin</title>
+		<title level="j" type="abbrev">IDS Bulletin</title>
+		<idno type="ISSN">0265-5012</idno>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="83" to="92" />
+			<date type="published" when="2015-03">2015</date>
+			<publisher>Institute of Development Studies</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b33">
+	<analytic>
+		<title level="a" type="main" xml:id="_ujwmMsx">Food provisioning experiences of ultra poor female heads of household living in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Lynn</forename><surname>Mcintyre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Krista</forename><surname>Rondeau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sharon</forename><surname>Kirkpatrick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jennifer</forename><surname>Hatfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Khaled</forename><forename type="middle">Shamsul</forename><surname>Islam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Syed</forename><forename type="middle">Nazmul</forename><surname>Huda</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.socscimed.2011.01.011</idno>
+		<ptr target="https://doi.org/10.1016/j.socscimed.2011.01.011" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_j7AwvMP">Social Science &amp; Medicine</title>
+		<title level="j" type="abbrev">Social Science &amp; Medicine</title>
+		<idno type="ISSN">0277-9536</idno>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="969" to="976" />
+			<date type="published" when="2011-03">2011</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b34">
+	<analytic>
+		<title level="a" type="main" xml:id="_qXGPE3G">Beyond baseline and follow-up: The case for more T in experiments</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Mckenzie</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jdeveco.2012.01.002</idno>
+		<ptr target="https://doi.org/10.1016/j.jdeveco.2012.01.002" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_phnahNx">Journal of Development Economics</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="page" from="210" to="221" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b35">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><surname>Mckenzie</surname></persName>
+		</author>
+		<ptr target="https://blogs.worldbank.org/impactevaluations/another-reason-prefer-ancova-dealing-changes-measurement-between-baseline-and-follow" />
+		<title level="m" xml:id="_E7bGeWc">Another reason to prefer Ancova: Delaing with changes in measurement between baseline and follow-up. Developmental Impact</title>
+		<imprint>
+			<publisher>World Bank</publisher>
+			<date type="published" when="2015-09-06">2015. September 6, 2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b36">
+	<analytic>
+		<title level="a" type="main" xml:id="_9aVuEUw">Microfinance participation and domestic violence in Bangladesh</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">S</forename><surname>Murshid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Akincigil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Zippay</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0886260515569065</idno>
+		<ptr target="https://doi.org/10.1177/0886260515569065" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_zHFbNgW">Journal of Interpersonal Violence</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="1579" to="1596" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b37">
+	<analytic>
+		<title level="a" type="main" xml:id="_SFQdvN6">Factors Associated with Spousal Physical Violence Against Women in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Ruchira</forename><forename type="middle">Tabassum</forename><surname>Naved</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lars</forename><forename type="middle">Ake</forename><surname>Persson</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1728-4465.2005.00071.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1728-4465.2005.00071.x" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_p4aDa39">Studies in Family Planning</title>
+		<title level="j" type="abbrev">Studies in Family Planning</title>
+		<idno type="ISSN">0039-3665</idno>
+		<idno type="ISSNe">1728-4465</idno>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="289" to="300" />
+			<date type="published" when="2005-12">2005</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b38">
+	<analytic>
+		<title level="a" type="main" xml:id="_jh7MFmj">A systematic review of microfinance and women&apos;s health literature: Directions for future research</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Omalley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Burke</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/17441692.2016.1170181</idno>
+		<ptr target="https://doi.org/10.1080/17441692.2016.11701" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_sRs5kw4">Global Public Health</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="1433" to="1460" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b39">
+	<monogr>
+		<title level="m" type="main" xml:id="_DMTvgUE">Women&apos;s assets and intra-household allocation in rural Bangladesh: Testing measures of bargaining power</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Quisumbing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>De La Brière</surname></persName>
+		</author>
+		<ptr target="https://www.ifpri.org/publication/womens-assets-and-intrahousehold-allocation-rural-bangladesh-0" />
+		<imprint>
+			<date type="published" when="2000-09-06">2000. September 6, 2021</date>
+		</imprint>
+		<respStmt>
+			<orgName>International Food Policy Research Institute</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">FCND Discussion Paper</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b40">
+	<analytic>
+		<title level="a" type="main" xml:id="_KDrTtdj">Self-perceived health of ultra poor women: The effect of an inclusive development intervention</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">A</forename><surname>Prakash</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K M M</forename><surname>Rana</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_g2aP8Dn">CFPR/TUP working paper series</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<date type="published" when="2006">2006</date>
+			<publisher>BRAC Research and Evaluation Division and Aga Khan Foundation Canada</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b41">
+	<analytic>
+		<title level="a" type="main" xml:id="_SrbMS9z">Social capital, microfinance, and the politics of development</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">N</forename><surname>Rankin</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/13545700210125167</idno>
+		<ptr target="https://doi.org/10.1080/135457002101251" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_jX6wPyA">Feminist Economics</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="24" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b42">
+	<analytic>
+		<title level="a" type="main" xml:id="_z5vnYMP">Going beyond the surface: Gendered intra-household bargaining as a social determinant of child health and nutrition in low and middle income countries</title>
+		<author>
+			<persName><forename type="first">Esther</forename><surname>Richards</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sally</forename><surname>Theobald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Asha</forename><surname>George</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Julia</forename><forename type="middle">C</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christiane</forename><surname>Rudert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kate</forename><surname>Jehan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rachel</forename><surname>Tolhurst</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.socscimed.2012.06.015</idno>
+		<ptr target="https://doi.org/10.1016/j.socscimed.2012.06.015" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_YtmJ5Rw">Social Science &amp; Medicine</title>
+		<title level="j" type="abbrev">Social Science &amp; Medicine</title>
+		<idno type="ISSN">0277-9536</idno>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="page" from="24" to="33" />
+			<date type="published" when="2013-10">2013</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b43">
+	<monogr>
+		<title level="m" type="main" xml:id="_requvBV">Evaluation: A systematic approach</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Rossi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Lipsey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">T</forename><surname>Henry</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<publisher>Sage Publications</publisher>
+		</imprint>
+	</monogr>
+	<note>8th ed.</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b44">
+	<analytic>
+		<title level="a" type="main" xml:id="_nnDn9sa">Transfers, Behavior Change Communication, and Intimate Partner Violence: Postprogram Evidence from Rural Bangladesh</title>
+		<author>
+			<persName><forename type="first">Shalini</forename><surname>Roy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Melissa</forename><surname>Hidrobo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><surname>Hoddinott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Akhter</forename><surname>Ahmed</surname></persName>
+		</author>
+		<idno type="DOI">10.1162/rest_a_00791</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_26XYGDS">The Review of Economics and Statistics</title>
+		<idno type="ISSN">0034-6535</idno>
+		<idno type="ISSNe">1530-9142</idno>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="865" to="877" />
+			<date type="published" when="2019-12-01">2019</date>
+			<publisher>MIT Press - Journals</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b45">
+	<analytic>
+		<title level="a" type="main" xml:id="_d8bcamJ">Does Intimate Partner Violence Decline as Women’s Empowerment Becomes Normative? Perspectives of Bangladeshi Women</title>
+		<author>
+			<persName><forename type="first">Sidney</forename><forename type="middle">Ruth</forename><surname>Schuler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sohela</forename><surname>Nazneen</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.worlddev.2017.09.005</idno>
+		<ptr target="https://doi.org/10.1016/J.WORLDDEV.2017.09.005" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_juSehVe">World Development</title>
+		<title level="j" type="abbrev">World Development</title>
+		<idno type="ISSN">0305-750X</idno>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="page" from="284" to="292" />
+			<date type="published" when="2018-01">2018</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b46">
+	<analytic>
+		<title level="a" type="main" xml:id="_nJYznsP">The Group-lending Model and Social Closure: Microcredit, Exclusion, and Health in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Anna</forename><forename type="middle">T</forename><surname>Schurmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Heidi</forename><forename type="middle">Bart</forename><surname>Johnston</surname></persName>
+		</author>
+		<idno type="DOI">10.3329/jhpn.v27i4.3398</idno>
+		<ptr target="https://doi.org/10.3329/jhpn.v27i4.3398" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_kD2PnXC">Journal of Health, Population and Nutrition</title>
+		<title level="j" type="abbrev">J Health Popul Nutr</title>
+		<idno type="ISSN">1606-0997</idno>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="518" to="527" />
+			<date type="published" when="2009-09-16">2009</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b47">
+	<analytic>
+		<title level="a" type="main" xml:id="_fBtBQcg">The development of the re-integration programme</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Shams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mahmud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">C</forename><surname>Das</surname></persName>
+		</author>
+		<idno type="DOI">10.4324/9780203065310-8</idno>
+		<ptr target="http://research.brac.net/new/publications/effectivecfpr" />
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_k2Q9Jbq">Challenging Behaviour in Mainstream Schools</title>
+		<imprint>
+			<publisher>David Fulton Publishers</publisher>
+			<date type="published" when="2010-09-06">2010. September 6, 2021</date>
+			<biblScope unit="page" from="21" to="28" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b48">
+	<analytic>
+		<title level="a" type="main" xml:id="_DmVGbTw">Women&apos;s empowerment in agriculture: What role for food security in Bangladesh</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Sraboni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Malapit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Quisumbing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">U</forename><surname>Ahmed</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.worlddev.2014.03.025</idno>
+		<ptr target="https://doi.org/10.1016/j.worlddev.2014.03.025" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_AGRar48">World Development</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="11" to="52" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b49">
+	<analytic>
+		<title level="a" type="main" xml:id="_cnK4VaS">Financial Inclusion, Gender Dimension, and Economic Impact on Poor Households</title>
+		<author>
+			<persName><forename type="first">Vighneswara</forename><surname>Swamy</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.worlddev.2013.10.019</idno>
+		<ptr target="https://doi.org/10.1016/J.WORLDDEV.2013.10.019" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_AZdZfa4">World Development</title>
+		<title level="j" type="abbrev">World Development</title>
+		<idno type="ISSN">0305-750X</idno>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="1" to="15" />
+			<date type="published" when="2014-04">2014</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b50">
+	<monogr>
+		<title level="m" type="main" xml:id="_Xhj7kqa">Situation analysis of afghan children and women, UNICEF 1992</title>
+		<idno type="DOI">10.2458/azu_acku_pamphlet_hq792_a3_s58_1992</idno>
+		<imprint>
+			<date type="published" when="2005">2006. 2005</date>
+			<publisher>University of Arizona Libraries</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b51">
+	<analytic>
+		<title level="a" type="main" xml:id="_nECwGVp">Development and validation of brief measures of positive and negative affect: The PANAS scales.</title>
+		<author>
+			<persName><forename type="first">David</forename><surname>Watson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lee</forename><forename type="middle">Anna</forename><surname>Clark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Auke</forename><surname>Tellegen</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0022-3514.54.6.1063</idno>
+		<ptr target="https://doi.org/10.1037/0022-3514.54.6.1063" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_ZPw6r9H">Journal of Personality and Social Psychology</title>
+		<title level="j" type="abbrev">Journal of Personality and Social Psychology</title>
+		<idno type="ISSN">0022-3514</idno>
+		<idno type="ISSNe">1939-1315</idno>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1063" to="1070" />
+			<date type="published" when="1988">1988</date>
+			<publisher>American Psychological Association (APA)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

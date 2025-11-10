@@ -1,0 +1,963 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" xml:id="_sv4ADFF">Graduation approach to poverty reduction in the humanitarian context: Evidence from Bangladesh</title>
+				<funder ref="#_SCMc3fj">
+					<orgName type="full">United Nations High Commissioner for Refugees</orgName>
+					<orgName type="abbreviated">UNHCR</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Wiley</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2023-01-18">2023-01-18</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Atiya</forename><surname>Rahman</surname></persName>
+							<email>rahman.atiya2014@gmail.com</email>
+							<idno type="ORCID">0000-0002-8560-8335</idno>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Economics Cluster</orgName>
+								<orgName type="department" key="dep2">BRAC Institute of Governance and Development (BIGD)</orgName>
+								<orgName type="institution">Brac University</orgName>
+								<address>
+									<settlement>Dhaka</settlement>
+									<country key="BD">Bangladesh</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Anindita</forename><surname>Bhattacharjee</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Research, Learning, and Knowledge, Evidence &amp; Learning (E&amp;L)</orgName>
+								<orgName type="department" key="dep2">Programme Development and Quality</orgName>
+								<orgName type="institution">Save the Children International</orgName>
+								<address>
+									<settlement>Dhaka</settlement>
+									<country key="BD">Bangladesh</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Rafia</forename><surname>Nisat</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Economics Cluster</orgName>
+								<orgName type="department" key="dep2">BRAC Institute of Governance and Development (BIGD)</orgName>
+								<orgName type="institution">Brac University</orgName>
+								<address>
+									<settlement>Dhaka</settlement>
+									<country key="BD">Bangladesh</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Narayan</forename><surname>Das</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Economics Cluster</orgName>
+								<orgName type="department" key="dep2">BRAC Institute of Governance and Development (BIGD)</orgName>
+								<orgName type="institution">Brac University</orgName>
+								<address>
+									<settlement>Dhaka</settlement>
+									<country key="BD">Bangladesh</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">BRAC Institute of Governance and Development (BIGD)</orgName>
+								<orgName type="department" key="dep2">SK Centre</orgName>
+								<orgName type="institution">Brac University</orgName>
+								<address>
+									<addrLine>GP Ja-4 TB Gate</addrLine>
+									<postCode>1212</postCode>
+									<settlement>Mohakhali Dhaka BRAC</settlement>
+									<country>Bangladesh United</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main" xml:id="_UZfVUJY">Graduation approach to poverty reduction in the humanitarian context: Evidence from Bangladesh</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main" xml:id="_UpufYKB">Journal of International Development</title>
+						<title level="j" type="abbrev">J of Intl Development</title>
+						<idno type="ISSN">0954-1748</idno>
+						<idno type="eISSN">1099-1328</idno>
+						<imprint>
+							<publisher>Wiley</publisher>
+							<biblScope unit="volume">35</biblScope>
+							<biblScope unit="issue">6</biblScope>
+							<biblScope unit="page" from="1287" to="1317"/>
+							<date type="published" when="2023-01-18" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">C001CB0CC946E5BF358598A0D5800D9E</idno>
+					<idno type="DOI">10.1002/jid.3728</idno>
+					<note type="submission">Received: 16 June 2021 Revised: 5 November 2022 Accepted: 11 November 2022</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2025-11-04T18:05+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a292bac</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=1, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=true, generateTeiCoordinates=[true], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term xml:id="_Gxj9aEs">community</term>
+					<term xml:id="_e9S6bkd">livelihood programme</term>
+					<term xml:id="_uNxeC46">Rohingya</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_tS6zNze"><p xml:id="_WgUes6H">Increasing forcibly displaced populations worldwide are adversely affecting the poorest host communities' livelihoods. Livelihood programmes can reduce this tension by addressing host communities' skills and capital constraints.</p><p xml:id="_m97qdn5">In this paper, we examine the effect of a customised version of BRAC's Ultra-Poor Graduation (UPG) programme on the livelihoods of the host communities of Rohingya refugees.</p><p xml:id="_7JgUfxZ">We find that the programme increases labour supply in self-employment of working-age men and women, household income, food expenditure and productive asset. Further, we find some weak evidence that the programme decreases the tension between hosts and Rohingya refugees.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="484.724" lry="697.323"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="484.724" lry="697.323"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="484.724" lry="697.323"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="484.724" lry="697.323"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="484.724" lry="697.323"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="484.724" lry="697.323"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="484.724" lry="697.323"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="484.724" lry="697.323"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="484.724" lry="697.323"/>
+		<surface n="10" ulx="0.0" uly="0.0" lrx="484.724" lry="697.323"/>
+		<surface n="11" ulx="0.0" uly="0.0" lrx="484.724" lry="697.323"/>
+		<surface n="12" ulx="0.0" uly="0.0" lrx="484.724" lry="697.323"/>
+		<surface n="13" ulx="0.0" uly="0.0" lrx="484.724" lry="697.323"/>
+		<surface n="14" ulx="0.0" uly="0.0" lrx="484.724" lry="697.323"/>
+		<surface n="15" ulx="0.0" uly="0.0" lrx="484.724" lry="697.323"/>
+		<surface n="16" ulx="0.0" uly="0.0" lrx="484.724" lry="697.323"/>
+		<surface n="17" ulx="0.0" uly="0.0" lrx="484.724" lry="697.323"/>
+		<surface n="18" ulx="0.0" uly="0.0" lrx="484.724" lry="697.323"/>
+		<surface n="19" ulx="0.0" uly="0.0" lrx="484.724" lry="697.323"/>
+		<surface n="20" ulx="0.0" uly="0.0" lrx="484.724" lry="697.323"/>
+		<surface n="21" ulx="0.0" uly="0.0" lrx="484.724" lry="697.323"/>
+		<surface n="22" ulx="0.0" uly="0.0" lrx="484.724" lry="697.323"/>
+		<surface n="23" ulx="0.0" uly="0.0" lrx="484.724" lry="697.323"/>
+		<surface n="24" ulx="0.0" uly="0.0" lrx="484.724" lry="697.323"/>
+		<surface n="25" ulx="0.0" uly="0.0" lrx="484.724" lry="697.323"/>
+		<surface n="26" ulx="0.0" uly="0.0" lrx="484.724" lry="697.323"/>
+		<surface n="27" ulx="0.0" uly="0.0" lrx="484.724" lry="697.323"/>
+		<surface n="28" ulx="0.0" uly="0.0" lrx="484.724" lry="697.323"/>
+		<surface n="29" ulx="0.0" uly="0.0" lrx="484.724" lry="697.323"/>
+		<surface n="30" ulx="0.0" uly="0.0" lrx="484.724" lry="697.323"/>
+		<surface n="31" ulx="0.0" uly="0.0" lrx="484.724" lry="697.323"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_SVQaRsM"><p xml:id="_9RkqGfV">They also find that food and rent prices increase in the short term, but other prices decrease. A quasi-experimental evaluation of Syrian refugee inflows in Turkey shows that the likelihood of having an informal job declined by 2.26 percentage points for the natives, while formal employment increased by 0.46 percentage points, indicating a net decline in employment (Tumen, 2016).</p><p xml:id="_HxCzn2M">Rigorous evidence on the effect of the Rohingya refugee influx in the Cox's Bazar district of Bangladesh is not available. <ref type="bibr" target="#b16">1</ref> However, as discussed in detail in Section 2 of this paper, several descriptive studies provide evidence of a significant reduction in the earnings of host communities. They also show that the Rohingya influx has decreased the wage rate and increased poverty among the hosts. In this paper, we study a livelihood programme for the ultra-poor from Rohingya refugees' host communities in Cox's Bazar, Bangladesh. It is a customised version of BRAC's Ultra-Poor Graduation (UPG) programme, which was first piloted in rural Bangladesh in 2002 and has since been scaled up in 45 countries. <ref type="bibr">2</ref> Several studies evaluating this programme in Bangladesh and other countries document its positive effects on the livelihoods of ultra-poor households (Bandiera et al., 2017; Banerjee et al., 2015). <ref type="bibr">3</ref> Although these studies find large impacts of the programme, results vary across contexts. <ref type="bibr">4</ref> We estimate the effects of the customised version of the programme on employment, income, expenditure and physical and financial assets of ultra-poor households in host communities.</p><p xml:id="_9dTJ2dK">Evidence shows that the host community's attitude towards refugees is mainly determined by the effects of the refugee influx on the opportunities available to hosts. For example, Aukot (2003) describes that host communities' grievances result from perceived inequalities of treatment in resource-constrained settings where refugees receive free shelter, firewood, food and healthcare, while the hosts do not. <ref type="bibr">5</ref> Hence, it is expected that due to the programme implemented for Rohingya hosts by BRAC, treatment households are likely to report more opportunities available to them after the influx, thereby having a positive attitude towards Rohingya refugees. As such, we have also attempted to examine the effects of the programme on the participants' attitude towards Rohingya refugees using indicators related to opportunities and constraints faced by them.</p><p xml:id="_wCbzZa3">The results of this paper potentially have implications for other contexts as these findings can inform policy responses for host communities in a similar humanitarian context elsewhere. In addition to being one of the largest host communities in the world, the host community in Cox's Bazar is also relatively less affluent. Given the economic and social realities, the host could easily generate negative attitudes towards the refugees that could make the political challenges of host countries more difficult. The findings of this paper can potentially be informative for other contexts.</p><p xml:id="_QX7yb4E">Our paper contributes to the literature on poverty alleviation programmes. First, it extends the existing literature on livelihood programmes for host communities of refugee populations (International Labour Organization [ILO], 2019; Regional Development Consultants [RDC], 2018; Valli et al., 2019). Unlike the previous studies, our study is based on quantitative data and examines the effects on livelihoods (employment, income and consumption).</p><p xml:id="_xgwSwbg">Second, this paper extends the existing literature on the graduation programme by examining its effect in the humanitarian context (Bandiera et al., 2017; Banerjee et al., 2015). Existing literature shows that the graduation approach is highly effective for the general rural ultra-poor with a relatively stable labour market. Whether it is effective in the humanitarian context is a question worth exploring that we attempt to answer in our study. We also compare the effectiveness of the UPG programme across the host community and the general context of Bangladesh. Further, we examine whether the UPG programme reduces the tension between hosts and refugees. Hence we contribute to the literature on the tension between hosts and refugees (Aukot, 2003; Nielsen, 2016).</p><p xml:id="_PBkgzaW">We use a quasi-experimental approach on the 2018 cohort selected from five unions of Ukhiya and Teknaf subdistricts of Cox's Bazar, where the Rohingya refugees are living. Programme participants, selected using criteria such as income, asset and demographic characteristics, were divided into two groups. Group 1 was poorer than Group 2 in terms of observable characteristics. Thus, Group 1 received product assets as grants, training and other supports (hereafter grants-only intervention), while Group 2 received partial grants, training and other supports (hereafter hybrid intervention). This paper employs two rounds of data collected in 2018 (baseline) and 2020 (follow-up) on programme participants and nonparticipants. The nonparticipant group represents near-eligible households from the same community. We use a difference-in-difference (DiD) estimator to examine programme impacts. Results show that the programme increases the working-age population's labour supply in poultry and livestock rearing. Due to the programme support, the per capita real income of participant households of the grantsonly and hybrid interventions increases by 29% and 27%, respectively. The programme significantly increases the productive asset accumulation of both groups of participants. Results also show that the programme has positive effects on savings and rented land. The benefit-cost ratio (BCR) is estimated at 2.72 for the grants-only intervention, indicating that an investment of BDT 1.00 yields BDT 2.72. For the hybrid intervention, the BCR is estimated at 2.76.</p><p xml:id="_EjcBD3N">We find that compared to nonparticipants, the participants of the grants-only intervention are more likely to report that their income has increased due to the Rohingya refugee influx. This result suggests that they may be more likely to have positive attitudes towards the refugees as a result of the intervention. This may reduce the tension between the participants of this intervention and refugees. By contrast, the participants of the hybrid intervention are more likely to report theft, insecurity and less government support along with income increases. Hence, the effects of the hybrid intervention on the tension between the two communities are ambiguous. Overall, our results suggest that there is some weak evidence that the UPG programme decreases the tension between hosts and refugees.</p><p xml:id="_KYyeqwW">We have compared the results of our study with those from previous papers on the UPG programme studied in the general rural areas of Bangladesh. We find that the UPG programme is relatively less effective (particularly in terms of cost-effectiveness) in the humanitarian context. This is mainly due to the fact that the target population in the humanitarian context are more vulnerable.</p><p xml:id="_hvVXZQP">The rest of the paper is organised as follows. Section 2 reviews related literature, while Section 3 discusses the context of the study. The intervention details are provided in Section 4. Section 5 discusses evaluation design, data collection and descriptive statistics. In Section 6, we present estimating equations, while Section 7 discusses the results. Section 8 provides a cost-benefit analysis and compares the results of this study with previous studies on similar interventions. Finally, Section 9 concludes the paper.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2" xml:id="_JRTV3zp">| LITERATURE REVIEW</head><p xml:id="_Jd9Dtcb">A large number of literature has documented the effects of the Rohingya influx on the host communities' livelihoods, but most of them are based on descriptive statistics. The United Nations Development Programme (UNDP, 2018) finds that the average daily labour wage was BDT 417 pre-influx and came down to BDT 357 after the influx-a 14% decline. The poverty rate also increased by about 3 percentage points in Teknaf and Ukhiya-shelters of most Rohingya refugees (UNDP, 2018). Another study finds that wage deterioration is more likely to induce short-term negative economic impacts than price increases (World Bank, 2019). A simulation exercise by Filipski et al. (2019)   shows that without any mitigating interventions, a rise of 800 000 Rohingya refugees-roughly the number of refugees entering Cox's Bazar between 2015 and 2018-causes a 31% drop in local wages. However, a study by IPA (2019) contrasts the above results. It shows that employment increased by 5 percentage points among the male population in host communities during pre-and post-influx. <ref type="bibr">6</ref> There is evidence of price increases in essentials due to the Rohingya influx. For example, Alam et al. (2020) show that overall food prices increased by 9%, and protein and vegetable prices increased by 8% and 36%, respectively, in the host region relative to other areas.</p><p xml:id="_aJHaQWp">A recent study, conducted on the impact of the Rohingya influx on host communities using data from 35 villages located nearby Rohingya camps, shows that between 2015 and 2020, the mean income of the sample households declined by 11% (Ullah et al., 2021). The study does not consider the counterfactual. Bangladesh's economy grew at a rate of more than 5% per year over the last decade. Assuming that the economy of the sample villages covered by Ullah et al. (2021) would have experienced the same growth (or at least, there would be no negative growth) if there was no refugee influx, these statistics indicate substantial negative effects of Rohingya refugee influx on the income of households in host communities. Further, as discussed in detail in Section 5 of this study, data from a nationally representative survey conducted in January 2021 by the BRAC Institute of Governance and Development (BIGD), BRAC University, show that in February 2020, 69% and 30% of working-age men and women, respectively, in the Cox's Bazar district were employed compared to 87% and 52% of men and women, respectively, in nearby Chattogram District. In other regions of the country, by contrast, 88% and 65% of men and women, respectively, were employed. These statistics also indicate substantial negative effects of the Rohingya refugee influx on the employment of host communities.</p><p xml:id="_smPE5dE">The theory regarding the reduction in wage and employment of host communities is as follows. If the refugees are not allowed to work formally, they may supply inexpensive labour in the informal market (Balkan &amp; Tumen, 2016).</p><p xml:id="_TFCuEQZ">In such a situation, informal native workers may be partly substituted by the refugees; Ceritoglu et al. (2015) document evidence of this for Syrian refugees. The native workers may then migrate to other parts of the country where the wage is likely to be higher, but market failures such as credit and informational constraints may constrain this (Byran et al., 2014). Consequently, the native informal workers may end up with lower earnings. Another channel is that because of the large refugee influx, native households may not be able to undertake activities such as fishing, foresting and so forth due to government restrictions. As a result of the Rohingya refugee influx, for example, an opportunity such as fishing declined because the government banned fishing in the nearby Naf River due to security reasons (International Organization for Migration [IOM], 2021).</p><p xml:id="_C4EDFzh">Rigorous evaluation of livelihood programmes for host communities is limited. Most of the existing studies use qualitative approaches. For example, the ILO (2019) evaluates a training programme for refugees and host communities in Ethiopia, focusing on improving the livestock herders' access to market information, regional trader networks and new local slaughterhouse and enhancing their entrepreneurial and business skills. The study finds that the intervention improved linkages between refugee and host community livestock herders and regional traders, thereby enhancing access to better economic opportunities. Another qualitative and descriptive assessment of a livelihood programme for host and displaced communities in Nigeria reports positive impacts (RDC, 2018). Using a randomised controlled trial (RCT), Valli et al. (2019) examined the effects of transfers, including cash, food and food vouchers, to Colombian refugees and poor Ecuadorians on social cohesion. They find that the intervention contributed to integrating Colombians into the hosting community through increases in personal agency, attitudes accepting diversity, confidence in institutions and social participation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3" xml:id="_TfmQF7V">| THE CONTEXT</head><p xml:id="_8hqet4r">Bangladesh is one of the most densely populated countries in the world, with about 1200 people living per square kilometre. The Cox's Bazar district, where the Rohingya refugees have taken shelter, is also densely populated. In August 2017, 641 000 Rohingya refugees entered Cox's Bazar, Bangladesh, from the neighbouring Rakhine state of Myanmar to flee from the unrest and attacks directed towards them (UNDP, 2018). This number added to some 278 000 existing Rohingya refugees left previously in 1978 and 1992 (UNDP, 2018). Within a few months, Bangladesh became one of the major nations to host refugees, with 4.7% of the total refugee population in the world.</p><p xml:id="_ZJdW5ZW">Teknaf and Ukhiya-the two southern subdistricts of Cox's Bazar-are bearing the highest burden, with Rohingya refugees constituting more than a third of the local population (UNDP, 2018). Currently, there are two government-run refugee camps-Kutupalong in Ukhiya and Nayapara in Teknaf. Additionally, there also exist 25 smaller camps.</p><p xml:id="_4TgAva3">Bangladesh Government attempted to resettle the refugees in Bhashan Char's island, and so far (November 2021), only 20 000 refugees have relocated. <ref type="bibr">7</ref> According to UNDP (2018), the Government of Bangladesh (GoB) refers to Rohingya who entered Bangladesh since August 2017 as Forcibly Displaced Myanmar Nationals (FDMNs). Further, they are not recognised as 'registered refugees', but the United Nations (UN) system is mobilising humanitarian aid for these displaced persons. However, in this paper, we refer to them as refugees.</p><p xml:id="_FnU4RVV">When the influx occurred during August-October 2017, the Cox's Bazar District Administration bore the brunt of the emergency operation, providing land, food, shelter and other settlement logistics. As UNDP (2018) mentions, at the initial stage of the crisis, most initiatives were related to immediate crisis response, but the enormity and complexity of the need to provide immediate food and shelter to so many people required joint efforts. Thus, the humanitarian community worked closely with the GoB to draw up its Joint Response Plan (JRP) for 2018 (March-December). The JRP covers strengthening government institutions and systems in the area of health, nutrition, water, sanitation, hygiene, education, agriculture, forestry and the environment.</p><p xml:id="_V7JNhxp">As mentioned previously, the Rohingya influx has negative effects on the livelihoods of host communities, but evidence shows that the support for the host communities is little. An assessment conducted by Save the Children, BRAC, World Vision, World Food Programme (WFP) and UNHCR (2018) shows that the impact of the influx of refugees on the host communities has been substantial, but to date, they have received very minimum support from the international humanitarian community or local government.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4" xml:id="_MekkzAt">| THE INTERVENTION</head><p xml:id="_569T6sH">Since 2002, BRAC's UPG programme 8 has been working for the poorest to create a sustainable livelihood pathway for them. It is implemented through BRAC's local offices known as 'branch offices' across Bangladesh. The programme has gained notable popularity over the years <ref type="bibr">9</ref> and has gone through many iterations and modifications over time, following careful and continuous research on the ultra-poor and changing surroundings. <ref type="bibr">10</ref> To tackle the humanitarian crisis of Rohingya refugees, BRAC, in collaboration with UNHCR, implemented a customised version of the UPG programme for the host communities. The main objective was to support the vulnerable host communities cope with the ongoing challenges and ensure self-sustainable livelihoods. The programme design was modified to a unique set of targeting criteria and support to address their unique vulnerabilities. The participant selection process, however, was done following the usual rigorous and multistaged process (Bandiera   et al., 2017). The process involves participatory wealth ranking (PWR), household survey and further verification 7 <ref type="url" target="https://www.thedailystar.net/rohingya-influx/news/bhashan-char-relocation-un-looking-plug-the-gaps-2902956">https://www.thedailystar.net/rohingya-influx/news/bhashan-char-relocation-un-looking-plug-the-gaps-2902956</ref> 8 Formerly the programme was known as the Targeting the Ultra-Poor (TUP) programme.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_kptBbN7">9</head><p xml:id="_dyCJVN5">The UPG programme implemented in rural areas across the country is found to be very effective in improving the economic and social lives of the participant households (Ara et al., 2017; Bandiera et al., 2017; Das &amp; Misha, 2010).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_2X8qjsd">10</head><p xml:id="_myWSAZM">For example, with the realisation that not all the ultra-poor required a grant-based intervention (due to heterogeneity among them), from 2007, the programme started offering a credit-plus-grant intervention as well.</p><p xml:id="_hy5FYUB">through household visits. The programme planned to cover 2 000 ultra-poor households in Teknaf and Ukhiya subdistricts in Cox's Bazar.</p><p xml:id="_VDYqGwC">As mentioned previously, the programme was implemented for two groups of participant households in Cox's Bazar. These households must fulfil the following prerequisites:</p><p xml:id="_4nAxSxB">• Per capita daily income is less than USD 1.90 at the purchasing power parity (PPP) exchange rate.</p><p xml:id="_G3hNH9t">• There is at least one physically active 11 female member in the household.</p><p xml:id="_uGNwS5B">• Any household member is not a current borrower of any formal financial/microfinance institution. Besides these, a set of other criteria is also used (Table <ref type="table">1</ref>). To be eligible for the grants-only intervention, a household must fulfil Criterion 1.1 and either of the remaining two criteria. By contrast, to be eligible for the hybrid intervention, a household must meet any two out of the four criteria. Hence, as per the targeting criteria, the participants of the grants-only intervention are more vulnerable than those of the hybrid intervention. This distinction was made because the former group received assets as grants, while the latter received partial loans, that is, some credit and some grants (towards purchasing a productive asset or initiating a small business venture).</p><p xml:id="_wj3ySZH">The complete support package offered to the programme participants includes the following components (a summary of the support components is provided in Table <ref type="table">2</ref>).</p><p xml:id="_8AbzumT">i. Enterprise development training Selected participants of both interventions choose suitable enterprises from a set of options selected by the programme based on their surroundings, enterprise management experience, household members' physical fitness, availability of relevant services and the scope of marketing outputs/assets. The options include cow rearing, goat rearing, poultry rearing, land cultivation and nonfarm business. To help the participants select an enterprise, the programme staff also discussed several issues with them. These include potential income and expenditure, the pros and cons of managing the enterprise, loan repayment details (if selected for the hybrid intervention) and supporting services provided by the programme.</p><p xml:id="_QgnCTZy">Upon selecting enterprises, participants receive enterprise development training to learn how to properly maintain assets, develop business strategies, improve enterprise management skills, build confidence and plan for the future. During the 3-day-long training, separate sessions are organised for both groups of participants, with no more than 25 participants per batch. Later, during the programme cycle, which is usually two calendar years-11 'Active' refers to being physically capable of maintaining the enterprise offered by the UPG programme.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_63SQGya">RAHMAN et Al.</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_Nb9mr9c">T A B L E 1 Selection criteria for the grants-only and hybrid intervention</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_TJ9HpDn">Slno Grants-only intervention Slno Hybrid intervention</head><p xml:id="_sY3PZR8">1.1 No active male member in the household. Even if there is an active male member, the female household member still needs to work due to conditions of extreme poverty.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_ggqqjec">2.1</head><p xml:id="_cqsjBQr">The household is dependent on the male member's income. A female household member might work to maintain the household further.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_KtKq2kC">1.2</head><p xml:id="_PyvDtSY">The household owns a maximum of 15 decimals of land, including the homestead.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_YrTqHGC">2.2</head><p xml:id="_25uce7q">The household owns a maximum of 30 decimals of land, including the homestead.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_TX4jpc3">1.3</head><p xml:id="_nVNmSTK">The household owns a maximum of BDT 5000 worth of productive assets.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_BtRZWqy">2.3</head><p xml:id="_A4JWrFu">The household owns a maximum of BDT 12 000 worth of productive assets.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_ScYtrMY">2.4</head><p xml:id="_WdQzCjz">Borrowed money from a moneylender in the last 6 months due to the crisis of Rohingya refugee influx.</p><p xml:id="_rkJtmrp">including, among others, the time required to select beneficiaries-the participants received another 7 days of enterprise-specific training.</p><p xml:id="_wcSUCqn">ii. Asset transfer After completing the training, the participants of the grants-only intervention received assets as grants from the programme (i.e., purchased by the programme staff). The assets included mostly livestock and poultry. For the participants of the hybrid intervention, the programme disbursed cash for buying assets (mostly livestock and poultry) on which they received training. They had to repay 50% of the cash disbursed. <ref type="bibr">12</ref> iii. Hands-on coaching</p><p xml:id="_MRZKc2T">The participants of both interventions receive hands-on coaching biweekly throughout the programme cycle (about 2 years), through group meetings and one-on-one home visits.</p><p xml:id="_sqkEs7K">iv. Matched savings Each participant of both interventions opened a savings account with the programme, where they could save as per their ability. The programme offered savings matching to all to motivate them to develop the habit of saving.</p><p xml:id="_HEpYWZj">Under this component, the programme deposited double the amount of money the participant saved in her savings account at the end of the month. The maximum ceiling of savings eligible for this facility was BDT 100 (for which the programme deposited BDT 200 in their account). Thus, a participant received maximum matched savings worth BDT 3 000 during the programme cycle (15 months). 13</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_juxbfsm">12</head><p xml:id="_vwfGEXr">The asset value depends on the type of asset transferred. The value of livestock (i.e., bulls, calves or goats) varies from BDT 14 500 to BDT 22 000 at 2018 constant prices, while the value of microbusiness and land lease for cultivation is BDT 14 000 and BDT 20 000 at 2018 constant prices.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_vSP7bc6">13</head><p xml:id="_j8KqjYx">In case of emergencies or for increasing assets, participants can withdraw their savings (as well as the amount provided by the programme as matched savings) as per their needs with the Regional Manager's approval.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_vfz7ft8">RAHMAN et Al.</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_AmcVme4">T A B L E 2 Details of programme supports</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_chvp62G">Support type Grants-only intervention Hybrid intervention</head><p xml:id="_UEZqMZb">Enterprise development training Training in enterprises such as livestock and poultry rearing</p><p xml:id="_hApaXmU">Training in enterprises such as livestock and poultry rearing Asset transfer (in the form of productive assets, mostly, livestock)</p><p xml:id="_pkTBce5">The programme staff purchased assets for the participants as grants</p><p xml:id="_vfGdbqp">The programme staff disbursed loans to purchase the assets. The participants repaid 50% of the loans (no interest on the loans).</p><p xml:id="_ex8DH3V">Hands-on coaching through regular group and home visits Biweekly coaching throughout the programme cycle Biweekly coaching throughout the programme cycle Matched savings The programme deposited double the amount of money participants saved each month. The maximum ceiling of savings is BDT 100 (for which the programme deposits BDT 200 in their account) The programme deposited double the amount of money participants saved each month. The maximum ceiling of savings is BDT 100 (for which the programme deposits BDT 200 in their account). Healthcare service Referral or financial assistance if needed Referral or financial assistance if needed Community mobilisation Support from village social solidarity committee (VSSC) Support from village social solidarity committee (VSSC)</p><p xml:id="_AgkSBDM">v. Healthcare service</p><p xml:id="_sKg9QDR">The programme provided healthcare facilities to participants and their household members of both groups. For severe morbidity, BRAC provided financial assistance; for mild illness, the patients were referred to nearby health centres.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_63Tjh7j">vi. Community resource mobilisation</head><p xml:id="_hCAdbyZ">Community resources were mobilised for both groups of participants by forming a committee called the village social solidarity committee (VSSC). The elite people (teachers, local elected members, etc.) of the community come forward to form this committee. They were supposed to communicate with the programme participants even after the programme cycle and mobilise resources to meet their emergency needs.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5" xml:id="_JTUbYT3">| EVALUATION DESIGN, DATA COLLECTION AND DESCRIPTIVE STATISTICS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.1" xml:id="_RkDuHUd">| Evaluation design</head><p xml:id="_QaRFvqf">This study uses a quasi-experimental design to estimate the effects of the programme. We compare ultra-poor households selected for the programme with near-eligible households from the same community. The near-eligible households were primarily selected for the programme but failed to pass the final selection. Specifically, the near-eligible households (hereafter nonparticipants) are those who were ranked in the bottom two wealth groups in the PWR and then were surveyed through household visits by the programme staff but were found to be ineligible. Since BRAC and UNHCR selected five unions (two from Ukhiya and three from Teknaf) near the Rohingya refugee camps for implementing the intervention, the research team selected the study sample from these unions.</p><p xml:id="_b5ERr3K">We planned to survey randomly selected 400 households from those selected for the grants-only intervention, 400 households from those selected for the hybrid intervention and another 800 near-eligible households.</p><p xml:id="_H8vcGwC">The sample households were proportionally divided across the five unions. In the case of union-wise sample distribution within the two participant groups, we followed the approximate ratio of households selected by the programme for the two types of interventions in each union (40:60). <ref type="bibr">14</ref> The number of nonparticipant households surveyed from each union is equal to the total number of participants for both treatments in the respective union.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.2" xml:id="_z3dpsC2">| Data collection</head><p xml:id="_887EhdS">We conducted a baseline survey in July-August 2018. As the UPG programme delivers support to the selected households' main female members, they were our survey respondents. <ref type="bibr">15</ref> However, she may or may not be an earning member or be involved with household decision-making.</p><p xml:id="_Qwf5eWd">The baseline survey successfully visited 402 and 401 households eligible for the grants-only and hybrid interventions, respectively, and 802 nonparticipant households. The follow-up survey conducted in March 2020 could successfully revisit 1 562 of the 1 605 households surveyed at baseline. Among them, 394 and 392 households were eligible for the grants-only and hybrid interventions, respectively, and the remaining 776 were from the nonparticipant group. Of the 394 households (eligible for the grants-only intervention) successfully revisited, finally 324 received the grants-only intervention, 66 households did not receive assets and four received the hybrid intervention. Of the 392 households (eligible for the hybrid intervention) successfully revisited, finally 289 received the</p><formula xml:id="formula_0">14</formula><p xml:id="_TRwJUtM">The ratio is calculated based on the number of finally selected households in the BRAC branch offices of the mentioned unions till 8 July 2018.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_QefuVyW">15</head><p xml:id="_y5Z4A9M">The female who is knowledgeable about the household's daily affairs is referred to as the main female member.</p><p xml:id="_Ef7Agkp">hybrid intervention, 98 households did not receive any intervention and five received the grants-only intervention.</p><p xml:id="_xR9yjdT">Finally, of the 776 nonparticipant households successfully revisited, 12 participated in the programme (three households received the grants-only intervention and nine the hybrid intervention). Therefore, this study uses data on 332 households of the grants-only intervention, 302 households of the hybrid intervention and 928 nonparticipant households. We use the same nonparticipant group as the comparison group for assessing the effects of both grantsonly and hybrid interventions.</p><p xml:id="_VPPY9rk">Table <ref type="table">3</ref> shows the attrition rate in the follow-up survey, along with the reasons for attrition. The attrition rate is relatively low (2%-3%). In Appendix Table <ref type="table">A1</ref>, we also verify that the attrition is not correlated with treatment status and baseline covariates.</p><p xml:id="_sVXxfNb">The surveys collected detailed information on labour market participation and earnings of all members aged 6 years and above; food and non-food consumption and expenditures; natural, physical and financial asset holding;</p><p xml:id="_VUygYYS">self-reported food security; and social inclusion. Additionally, the surveys collected information on self-perceived changes in the host communities' economic and social lives after the Rohingya refugees' arrival. Appendix C (see the online supplementary) provides the endline survey questionnaire. We administered a similar questionnaire for the baseline survey.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.3" xml:id="_6hWRfnJ">| Descriptive statistics</head><p xml:id="_4jQaEmr">In Appendix Table <ref type="table">A2</ref>, we report the basic baseline characteristics of programme participants and nonparticipants.</p><p xml:id="_tQ2BaFs">We find statistically significant differences for most of the outcomes reported between participants and nonparticipants. Such differences happen because the intervention was not randomly assigned. The average age of respondents from households of the grants-only intervention is higher compared to nonparticipants. About 60% and 3% of women respondents from households selected for the grants-only and hybrid interventions, respectively, were divorced/separated/widows, while this ratio is 22% among nonparticipants. However, both participant groups were asset-poor at baseline. For example, at baseline, households of both interventions owned only two decimals of land on average. According to Quasem (2011), per capita cultivable land in Bangladesh is 12.5 decimals. Information reported in Table <ref type="table">A2</ref> also shows that at baseline, the participants of the grants-only intervention were poorer than the participants of the hybrid intervention. For example, the per capita monthly income of households of the grants-only intervention was BDT 1 126 compared to BDT 1 325 of households selected for the hybrid intervention.</p><p xml:id="_q5WkBsY">RAHMAN et Al.</p><p xml:id="_4K2uctF">T A B L E 3 Attrition in the follow-up survey Attrition rate and reasons Grants-only intervention Hybrid intervention Nonparticipant Grants-only vs. nonparticipant Hybrid vs. nonparticipant (1) (2) (3) (4 = 1-3) (5 = 2-3) Attrition rate (%) 1.99 2.24 3.24 -1.25 -0.98 Number of observations 402 401 802 Reason for attrition (% of attrited households) Migration (%) 62.5 66.67 53.85 8.65 12.82 The respondent was unavailable (%) 25.00 0 3.85 21.15* -3.85 The respondent was dead (%) 12.50 0 15.38 -2.89 -15.38 The respondent went to visit friends/family (%) 0 11.11 7.69 -7.69 3.42 The household was not found (%) 0 0 3.85 -3.85 -3.85 Others (%) 0 22.22 15.38 -15.38 6.84 Number of observations 8 9 26 *denotes statistical significance at 10% level.</p><p xml:id="_qcBZq95">As mentioned previously, we also asked our survey respondents regarding the Rohingya influx's impacts on economic opportunities in their communities (see module R of the questionnare in Appendix C (see the online supplementary)). In Table <ref type="table">4</ref>, we report the questions specifically asked to the respondents for analysing the impacts. Around 70% of respondents reported that food prices increased last year (Table <ref type="table">4</ref>), and about 50% reported a decline in income. Though small in proportion, some households reported income increases due to the influx. Most importantly, around 20% of respondents reported a decline in government support.</p><p xml:id="_aAsVx7B">As mentioned earlier, BRAC is also implementing the UPG programme in other parts of the country. A 2017 baseline survey conducted on ultra-poor households from outside of Cox's Bazar district shows that 90% and 82% of working-age men and women are engaged in income-generating activities (IGAs) at baseline. <ref type="bibr">16</ref> In our baseline survey in Cox's Bazar conducted in 2018, the corresponding proportions are 85% and 60%, perhaps indicating that due to the Rohingya influx, the host communities' working-age population was less likely to be employed. To verify this, we further analyse the employment of working-age women and men in Cox's Bazar district, nearby Chattogram District, and the rest of the country. The data used in this analysis were collected by BIGD, BRAC University, for the purpose of evaluating different programmes implemented by BRAC, an international development organisation. <ref type="bibr">17</ref> The results are reported in Table <ref type="table">5</ref>. We find that the employment rate among working-age women and men was significantly lower in the Cox's Bazar district compared to the nearby Chattogram District and the rest of the country, indicating that the Rohingya refugee influx has a negative effect on hosts.</p><p xml:id="_vk9MYRH">T A B L E 4 Self-perceived impacts of Rohingya influx (% of households) Indicator (baseline) Grants-only intervention Hybrid intervention Nonparticipants Difference (grants-only vs. nonparticipants) Difference (hybrid vs. nonparticipants) (1) (2) (3) (4 = 1-3) (5 = 2-3) Rise in prices in the last year compared to before 71.39 73.17 68.1 3.29 5.07* Increase in monthly income in the last year compared to before 12.05 14.57 13.9 -1.85 0.67 Increase in food expenditure in the last year compared to before 45.18 45.36 45.47 -0.29 -0.11 Decrease in transport expenses in the last year compared to before 0.6 0.33 0.75 -0.15 -0.42 Decrease in income opportunities 49.1 53.97 47.41 1.69 6.56** Increase in income opportunities 7.83 5.63 8.84 -1.01 -3.21* Decrease in government/ non-government aid opportunities 22.29 15.89 16.06 6.23** -0.17 Increase in theft 11.45 9.93 13.9 -2.45 -3.97* Lack of security 7.53 9.27 11.96 -4.43** -2.69 Number of observations 332 302 928 **denotes statistical significance at 5 level. *denotes statistical significance at 10% level.</p><p xml:id="_T8UvVpT">This section presents the regression equation used to estimate the treatment effects. Although our comparison group consists of near-eligible households, we find that they were well-off than both groups of participants in terms of various observable baseline characteristics. Thus, one may question if this group can be an appropriate counterfactual for estimating the impact of the interventions. However, we know that if the parallel trend assumption holds, DiD estimator can identify the unbiased estimates of treatment impacts. This assumption, sometimes referred to as the 'common trends' assumption (Angrist &amp; Pischke, 2009), states that the average outcomes for treatment and comparison groups would have moved in parallel had the treatment not occurred.</p><p xml:id="_5hjBpkJ">The baseline survey collected data on the amount of land, poultry and livestock for the 2 years before the baseline, using a recall method. We use these data to test if there is indeed any common trend in these outcomes across our treatment and comparison groups during the 3 years (2016-2018) prior to the intervention. Figure <ref type="figure">b1</ref> in the Appendix shows the trends of the three asset items for three groups of households. It appears that for land and poultry, there is a parallel trend for participants of the grants-only intervention (Group 1) and its comparison group and also for the participants of the hybrid intervention (Group 2) and its comparison group. For livestock, the trends are slightly less parallel. However, to formally test for parallel trend, we estimate the following DiD regression using pre-intervention panel data (2016-2018):</p><formula xml:id="formula_1">y it = α + β 1 Grants i + β 2 YEAR2 t + β 3 YEAR3 t + β 4 YEAR2 t * Grants i + β 5 YEAR3 t * Grants i + ϵ it (<label>1</label></formula><formula xml:id="formula_2">)</formula><p xml:id="_GBxkMDt">where A y it is the outcome variable of interest (land, poultry and livestock) for household i in year t (2016, 2017 and 2018); A YEAR2 t is an indicator variable taking the value of 1 if t refers to 2017 and 0 if otherwise; A YEAR3 t is an indicator variable taking the value of 1 if t refers to 2018 and 0 if otherwise; A Grants i is an indicator variable taking the value of 1 if household i was exposed to the grants-only intervention and 0 if nonparticipant; and A ϵ it is an error term. A similar equation is estimated for examining parallel trends among households selected for the hybrid intervention and comparison group. If the estimates of A β 4 and A β 5 are not statistically significant, they will indicate a parallel trend in the outcome between treatment and comparison groups. Regression results reported in Tables <ref type="table">A3</ref> and <ref type="table">A4</ref> in the Appendix show that the estimates of A β 4 and A β 5 are not statistically significant, indicating that there is a parallel trend among treatment and comparison groups in the pre-intervention period.</p><p xml:id="_7U47Vpm">Finally, using 2018-2020 panel data, we estimate DiD regression to examine the impacts of the programme on the outcome variables of interest. We also control for individual/household fixed effects. These controls are likely to improve the precision of the estimate. Specifically, we estimate the following regression equation:</p><formula xml:id="formula_3">y it = α i + β 1 YEAR t + β 2 Grants i * YEAR t + β 3 Hybrid i * YEAR t + ϵ it (<label>2</label></formula><p xml:id="_xsu4Fa6">) Here, A α i is the individual/household fixed effects; A y it is the outcome variable of interest for individual/household i in year t; A Grants i is a binary variable taking the value of 1 if the individual/household i received the grants-only intervention and 0 otherwise; A Hybrid i is also a binary variable taking the value of 1 if the individual/household received the hybrid intervention and 0 otherwise; A YEAR t is a dummy variable taking the value of 1 if t refers to follow-up (2020) T A B L E 5 Employment rate among working-age men and women in Cox's Bazar, Chattogram and other regions in February 2020 Cox's Bazar Chattogram Other districts Male 68.5% 86.5% 87.6% Female 30.3% 51.8% 65.2% Source: Authors' calculation based on data collected by BRAC Institute of Governance and Development (BIGD), Brac University. and 0 if t refers to baseline (2018); and A ϵ it is an error term. If the parallel trend holds, cov ( A ϵ it , A Grants i * YEAR t ) = 0 and cov ( A ϵ it , A Hybrid i * YEAR t ) = 0 (Khandker et al., 2009). Since our data show that the parallel trend assumption is likely to hold, we assume that cov ( A ϵ it , A Grants i * YEAR t ) = 0 and cov ( A ϵ it , A Hybrid i * YEAR t ) = 0. Thus, A β 2 and A β 3 in Equation ( <ref type="formula" target="#formula_3">2</ref>) identify the causal effects of the grants-only and hybrid interventions, respectively.</p><p xml:id="_4ANgMgG">Our estimates are likely to be biased if there are spillover effects as the comparison and treatment households are from the same communities. Existing evidence, however, shows that the UPG programme has no spillover effects on livestock assets, land, time devoted to livestock rearing, earnings and food expenditures of ineligible households (Bandiera   et al., 2017). They, however, find that the programme increases the value of other business assets (pumps, livestock sheds, trees and rickshaws), agricultural labour and work as housemaids of ineligible households. These results indicate that our estimates of the effects of main outcomes, such as time devoted to livestock rearing, income, food expenditure and productive assets (cow, goat, chicken and land), are unlikely to be biased due to the spillover effect of the programme.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="7" xml:id="_QkRRGjg">| RESULTS AND DISCUSSIONS</head><p xml:id="_tNSPnF8">In this section, we present and discuss results estimated using Equation (2).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="7.1" xml:id="_HMqAb2N">| Impact on employment and income</head><p xml:id="_fp76sEd">Table <ref type="table">6</ref> presents the estimated impacts on working-age males' and females' labour supply using Equation ( <ref type="formula" target="#formula_3">2</ref>). Panel A of Table <ref type="table">6</ref> shows the effects on male members' labour supply and Panel B that of females. In Appendix Table <ref type="table">A5</ref>, we report the same results as those reported in Table <ref type="table">6</ref>, but they are estimated without controlling for individual fixed effects. Comparing the results reported in Tables <ref type="table">6</ref> and <ref type="table">A5</ref>, we find that standard errors decline after controlling for individual fixed effects. Hence, in the rest of the paper, we report and discuss the results estimated after controlling for individual/household fixed effects.</p><p xml:id="_3kqDNb8">Results show that the programme increases working-age males' labour supply in poultry and livestock rearing (Table <ref type="table">6</ref>). The magnitude of the effects is large and economically meaningful. For the grants-only intervention, it is equal to 216% of the nonparticipant group's mean at the follow-up, and for the hybrid intervention, the proportion is 289%. These results are quite expected since the grants-only intervention provided households with grants in the form of mainly poultry and livestock and the hybrid intervention provided households with partial loans to purchase similar assets. The magnitude of the effect on labour supply in poultry and livestock seems higher for the hybrid intervention. Time devoted to vegetable/fish cultivation also significantly increases for both groups of participants.</p><p xml:id="_2bdKxKc">Further, the hybrid intervention increases the time devoted to agriculture.</p><p xml:id="_HfhZy7b">The programme also increases working-age females' time devoted to poultry and livestock rearing. The effect on this outcome for the grants-only intervention is about 142% of the nonparticipant group's mean at the follow-up, and the corresponding proportion for the hybrid intervention is 132%. The intervention increases working-age females' time devoted to agricultural work and vegetable/fish cultivation as well. This rise is mainly due to increased access to cultivable land through the rental market (discussed later). But the magnitudes of the effects for both groups are low compared to the impact on the time devoted to poultry and livestock rearing. The grants-only intervention has reduced the time devoted to domestic help/begging significantly. The hybrid intervention, on the other hand, reduces the labour supply in household chores. Both interventions significantly increase working-age females' total time devoted to earning activities. This finding indicates that they had idle labour capacity at baseline that they could use for a productive purpose due to the programme. The large impact of the programme on female employment is remarkable because Cox's Bazar is one of the poorest districts with low female labour market participation (Khondker   &amp; Mahzab, 2015).</p><p xml:id="_q2XcSrP">Since the programme increases the labour supply of working-age members of both groups of participants, though not all the effects are statistically significant, we expect that it might positively affect the household income of both</p><p xml:id="_3JKAxKa">T A B L E 6 Impact on employment Poultry/livestock rearing Agriculture Agricultural day labour (work at other's field) Housemaid/ Begging Vegetables/fish cultivation Others Total time devoted to earning activities Household chores (1) (2) (3) (4) (5) (6) (7) (8) Panel A: Impacts on labor supply of 15-64-year-old males (hours worked per day) Impact of the grants-only intervention 0.13*** (0.037) 0.03 (0.079) 0.02 (0.174) -0.08 (0.049) 0.35*** (0.112) 0.27 (0.249) 0.73** (0.287) -Impact of the hybrid intervention 0.18*** (0.033) 0.38*** (0.081) (-0.12) (0.158) 0.02 (0.035) 0.22** (0.108) (-0.31) (0.227) 0.35 (0.265) -Year fixed effect Yes Yes Yes Yes Yes Yes Yes -Individual fixed effect Yes Yes Yes Yes Yes Yes Yes -Number of observations 5 508 5 508 5 508 5 508 5 508 5 508 5 508 -Follow-up nonparticipant mean 0.06 0.35 1.48 0 0.60 4.91 7.43 -Impact as % of nonparticipant mean (grants-only intervention) 215.69 7.84 1.48 -1647.24 57.70 5.44 9.80 -Impact as % of nonparticipant mean (hybrid intervention) 289.35 106.27 -8.17 488.11 35.60 -6.36 4.69 -Panel B: Impacts on labour supply of 15-64-year-old females (hours worked per day) Impact of grants-only intervention 0.93*** (0.059) 0.09** (0.043) 0.12 (0.083) (-0.76***) (0.102) 0.07* (0.041) (-0.14) (0.132) 0.34* (0.193) 0.02 (0.071) Impact of hybrid intervention 0.87*** (0.059) 0.08* (0.043) (-0.08) (0.073) 0.04 (0.084) 0.17*** (0.042) 0.12 (0.126) 0.98*** (0.183) (-0.22***) (0.073) Year fixed effect Yes Yes Yes Yes Yes Yes Yes Yes Individual fixed effects Yes Yes Yes Yes Yes Yes Yes Yes (Continues) T A B L E 6 (Continued) Poultry/livestock rearing Agriculture Agricultural day labour (work at other's field) Housemaid/ Begging Vegetables/fish cultivation Others Total time devoted to earning activities Household chores (1) (2) (3) (4) (5) (6) (7) (8) Number of observations 6,018 6,018 6,018 6 018 6 018 6 018 6 018 6 018 Follow-up nonparticipant mean 0.66 0.17 0.28 0.29 0.20 2.16 5.82 2.06 Impact as % of nonparticipant mean (grants-only intervention) 141.65 53.81 42.10 -260.63 34.93 -6.26 5.80 0.86 Impact as % of nonparticipant mean (hybrid intervention) 132.09 48.7 -27.36 13.72 83.72 5.73 16.87 -10.78 Note: Figures in the parentheses are standard errors. ***denotes statistical significance at 1% level. **denotes statistical significance at 5% level. *denotes statistical significance at 10% level.</p><p xml:id="_WYqMjmx">groups. Results reported in Table <ref type="table">7</ref> confirm that it is indeed so. In terms of the magnitude of the effect, the grantsonly and hybrid interventions increased income by 29% and 27%, respectively.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="7.2" xml:id="_8T9Yz8r">| Impact on productive assets</head><p xml:id="_pRUgq22">Table <ref type="table">8</ref> reports the impacts of the interventions on selected productive assets. Results show that the programme significantly increases livestock and poultry ownership of both groups of households. This result is expected because, as discussed earlier, both groups received training mostly on these assets. Moreover, the participants of the grantsonly intervention received these assets as grants, while the participants of the hybrid intervention were disbursed loans and cash grants to buy these assets. Consequently, the programme significantly increases the total value of households' productive assets 18 among both groups of households. The magnitude of the increase is more than twice the average grants/credit-plus-grants provided by the programme to the participants. <ref type="bibr">19</ref> Land is an important productive asset in rural Bangladesh, as the agriculture sector provides employment opportunities for about 40% of the employed population aged 15 or above (BBS, 2018). But ultra-poor households have minimal access to cultivable land compared to other wealth groups (Bandiera et al., 2017). We do not find any statistically significant effect on cultivable land ownership (Table <ref type="table">9</ref>). This finding is perhaps not surprising, as it is too early to enable the ultra-poor to purchase land. Evaluating the UPG programme in rural Bangladesh, Bandiera et al. (2017)   find no significant impact on owned land 2 years after the programme. However, they find a significant impact on it 4 years after the programme.</p><p xml:id="_dvwy36V">The programme, however, increases cultivable land taken on lease/mortgaged/sharecropped for both groups of participants. This finding resonates with the reported increases in working-age members' time devoted to agricultural work and vegetable/fish cultivation for both groups. Moreover, both interventions increase homestead land.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="7.3" xml:id="_UwUhSbS">| Impact on expenditures</head><p xml:id="_nSy5WpT">Table <ref type="table">10</ref> presents the programme impacts on food, non-food and total consumption expenditures, reported at 2018 constant prices using CPI. We find a significant positive impact on per capita food expenditures of both groups of participants. The magnitude of the effect of the grants-only intervention is about 21% of the nonparticipant group's 18 Household productive assets include livestock, poultry, different types of vehicles, agricultural machineries, sewing machines, trees and so forth.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_azxgzNb">19</head><p xml:id="_F3v6Kzd">The average value of the assets transferred was BDT 18 000.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_gsvNVq4">RAHMAN et Al.</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_3qaRyX8">T A B L E 7 Impact on income</head><p xml:id="_3V6JPR9">Per capita monthly income (BDT, at 2018 constant prices) Impact of grants-only intervention 432.83*** (-76.95) Impact of hybrid intervention 405.86*** (-79.72) Year fixed effect Yes Individual fixed effects Yes Number of observations 3 124 Follow-up nonparticipant mean 1528.37 Impact as % of nonparticipant mean (grants-only intervention) 28.91 Impact as % of nonparticipant mean (hybrid intervention) 27.11 Note: Figures in the parentheses are standard errors. ***denotes statistical significance at 1% level.</p><p xml:id="_cgKmVXh">mean at follow-up, compared to 11% for the hybrid intervention. The difference in the effects between the two groups is perhaps because the participants of the hybrid intervention had to use some of their income for repaying the loans provided by the programme. The effect on the total consumption expenditures is positive for both groups but statistically significant only for the grants-only intervention. However, we do not find any statistically significant effect on non-food expenditure.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="7.4" xml:id="_8nn6Gds">| Impact on savings and credit</head><p xml:id="_t567PCr">One of the components of the hybrid intervention is credit. After repaying the credit, participants were eligible for further loans from BRAC's Microfinance programme. Hence, we expect the hybrid intervention may increase</p><p xml:id="_KNQWj7M">RAHMAN et Al.</p><p xml:id="_hkrCXTk">T A B L E 8 Impact on productive asset ownership Cow/buffalo (number) Goat/sheep (number) Chicken/duck (number) Total value of productive assets (in BDT) (1) (2) (3) (4) Impact of grants-only intervention 1.06*** (0.06) 1.04*** (0.08) 7.36*** (0.53) 39351.41*** (4005.44) Impact of hybrid intervention 0.97*** (0.05) 0.82*** (0.08) (9.29***) (0.55) 46579.48*** (4149.38) Year fixed effect Yes Yes Yes Yes Individual fixed effect Yes Yes Yes Yes Number of observations 3 124 3 124 3 124 3 124 Follow-up nonparticipant mean 0.24 0.25 4.52 17849.11 Impact as % of nonparticipant mean (grants-only intervention) 440.47 410.54 162.96 220.47 Impact as % of nonparticipant mean (hybrid intervention) 403.24 322.30 205.66 260.96 Note: Figures in the parentheses are standard errors. ***denotes statistical significance at 1% level. T A B L E 9 Impact on land Owned homestead land (decimals) Owned cultivable land (decimals) Cultivable land taken on lease/mortgaged/ sharecropping (decimals) (1) (2) (3) Impact of grants-only intervention 1.46*** (0.46) 0.30 (0.37) 3.61* (2.12) Impact of hybrid intervention 1.19** (0.48) -0.34 (0.39) 12.01*** (2.20) Year fixed effect Yes Yes Yes Individual fixed effect Yes Yes Yes Number of observations 3 124 3 124 3 124 Follow-up nonparticipant mean 4.00 0.60 8.26 Impact as % of nonparticipant mean (grants-only intervention) 36.40 49.33 43.67 Impact as % of nonparticipant mean (hybrid intervention) 29.79 -56.14 145.35 Notes: Figures in the parentheses are standard errors. ***denotes statistical significance at 1% level. **denotes statistical significance at 5% level. *denotes statistical significance at 10% level.</p><p xml:id="_5ypqQrc">loans. It may also increase savings, as there is a positive effect on income. Thus, we examine the impact on the outstanding amount of loans (i.e., currently due loans) and savings at the time of the follow-up (i.e., 2 years after the intervention). We find statistically significant impacts on savings (Table <ref type="table">11</ref>). The participants of the grants-only and hybrid interventions were 43 and 46 percentage points, respectively, more likely to have savings than nonparticipants. Consequently, the amount of savings is also higher for both participant groups compared to their nonparticipant counterparts. The intervention increases institutional savings, that is, savings at banks/post offices/insurance, BRAC and other non-governmental organisations (NGOs) for both groups.</p><p xml:id="_QdB9Nhb">We see an increase in total outstanding loans for both groups of participants (Table <ref type="table">12</ref>). There is also a positive and statistically significant effect on the outstanding amount of loans taken from BRAC by the participants of the hybrid intervention. These results suggest that the programme is likely to craft a sustainable graduation pathway for ultra-poor households through increasing financial assets.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="7.5" xml:id="_5yjaUua">| The impact of the programme on the attitude towards Rohingya refugees</head><p xml:id="_4Puhufv">In this section, we assess the impact of the programme on host communities' attitude towards refugees. For this purpose, in the survey, we asked respondents several questions related to increases/decreases in income, food prices, food expenses, transport costs and government aid opportunities after the Rohingya refugee influx (see module R of the questionnaire in Appendix C (see the online supplementary)). If the effects of the programme on these outcomes are statistically significant, they are likely to indicate that the programme has changed the programme participants' perception of the impacts of the refugee settlement.</p><p xml:id="_FbTfcYH">Table <ref type="table">13</ref> reports the estimated effects on these outcomes. We find that the participants of the grants-only intervention are more likely to report that their income has increased due to the Rohingya refugee influx compared to nonparticipants. For other indicators, we do not find significant effects for this intervention. This indicates that the participants of the grants-only intervention may be more likely to have positive attitudes towards the refugees as a result of the intervention, suggesting that the tension between the participants of the grants-only intervention and refugees may decrease. On the other hand, we find that the participants of the hybrid intervention are more likely to report theft, insecurity and less government support. Due to this intervention, however, participants are more</p><p xml:id="_fK6TcYD">RAHMAN et Al.</p><p xml:id="_eVYJJqw">T A B L E 1 0 Impact on expenditures Total per capita monthly food expenditure (BDT) Total per capita monthly non-food expenditure (BDT) Total per capita monthly consumption expenditure (BDT) (1) (2) (3) Impact of grants-only intervention 312.11*** (54.12) 104.02 (69.13) 416.13*** (96.75) Impact of hybrid intervention 160.58*** (56.12) -15.31 (71.61) 145.27 (100.22) Year fixed effect Yes Yes Yes Individual fixed effect Yes Yes Yes Number of observations 3 124 3 124 3 124 Follow-up nonparticipant mean 1491.77 780.44 2272.21 Impact as % of nonparticipant mean (grants-only intervention) 20.92 13.33 18.31 Impact as % of nonparticipant mean (hybrid intervention) 10.76 -1.96 6.39 Notes: Figures in the parentheses are standard errors. ***denotes statistical significance at 1% level.</p><p xml:id="_46t8jDz">likely to report an increase in income and a decrease in transport costs. Hence, the effects of the hybrid intervention on the tension between the two communities are ambiguous. Overall, our results suggest that there is some weak evidence that the programme has decreased the tension between hosts and refugees.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="8" xml:id="_KN435nv">| COST-BENEFIT ANALYSIS AND COMPARISON OF RESULTS OF THIS STUDY WITH PREVIOUS STUDIES ON SIMILAR INTERVENTIONS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="8.1" xml:id="_GqUdUGN">| Cost-benefit analysis</head><p xml:id="_ACUXJw8">This section analyses the UPG programme's cost-effectiveness. Following Banerjee et al. (2015) and Bandiera   et al. (2017), we use household consumption expenditure change 20 as a key measure of the programme's benefits.</p><p xml:id="_XMVAM62">We also include a one-time change in household assets 21 as measured in year two.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_JwtBEkg">20</head><p xml:id="_w6HGP4b">Household consumption expenditure includes total expenditure on food and non-food items.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_kzzTBrA">21</head><p xml:id="_fzYA7HH">Household assets include televisions, radios, mobile phones, jewellery, clothing, furniture and so forth.</p><p xml:id="_7UQCfYh">RAHMAN et Al.</p><p xml:id="_hFFstKJ">T A B L E 1 1 Impact on savings Having savings (yes = 1, no = 0) Total savings (BDT) Savings at home (BDT) Savings at bank/post office/life insurance (BDT) Savings at BRAC (BDT) Savings at other NGO (BDT) Savings at other places (BDT) (1) (2) (3) (4) (5) (6) (7) Impact of grants-only intervention 0.43*** (0.04) 1760.92*** (511.01) 300.31 (226.25) 638.82* (335.59) 614.63*** (91.92) 197.30*** (71.63) 9.85 (96.42) Impact of hybrid intervention 0.46*** (0.04) 1432.64*** (529.38) 832.89*** (234.38) -126.84 (347.65) 664.10*** (95.22) 96.84 (74.20) -34.34 (99.88) Year fixed effect Yes Yes Yes Yes Yes Yes Yes Individual fixed effect Yes Yes Yes Yes Yes Yes Yes Number of observations 3 124 3 124 3 124 3 124 3 124 3 124 3 124 Follow-up nonparticipant mean 0.26 1124.88 464.47 343.43 139.46 83.14 94.40 Impact as % of nonparticipant mean (grants-only intervention) 167.00 156.54 64.66 186.01 440.74 237.32 10.44 Impact as % of nonparticipant mean (hybrid intervention) 176.08 127.36 179.32 -36.93 476.21 116.48 -36.38 Note: Figures in the parentheses are standard errors. ***denotes statistical significance at 1% level. *denotes statistical significance at 10% levels. Panel A of Table 14 reports the cost per household; the programme spent USD 604.4/per household and USD 486.1/per household for the grants-only and hybrid interventions, respectively. We convert the cost using the exchange rate 22 of 2018 published by Bangladesh Bank at the year zero. Then we impute the cost of BDT 56 119 and BDT 45 134 for the grants-only and hybrid interventions, respectively, at year two, using a 6% annual inflation rate, since we calculate the benefits at year two. The first two rows under Panel B of Table 14 report the DiD estimates for</p><p xml:id="_hX7fsjk">household consumption expenditure at years one and two. We estimate the programme impact at year two 23 using our baseline and follow-up surveys. We compute the impact at year one, assuming that it is slightly higher than half of that in year two. <ref type="bibr">24</ref> We report the net present value of future consumption changes from year three onward in the third row of Table <ref type="table">14</ref>. For choosing social discount rates and time horizons, we follow Bandiera et al. (2017). Here, we assume that year two changes are repeated for 20 years from the transfer date (so 18 more years after year two). We report the change in household assets at year two.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_HzURjAr">22</head><p xml:id="_4UXkSdb">On average, USD 1 was equal to BDT 82.9 during February 2018.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_ddJA6fg">23</head><p xml:id="_MkUHVvB">In</p><p xml:id="_j7pfCuG">Table 10, we report DiD with fixed effects estimate on per capita monthly consumption expenditure. Based on this estimate, we calculate the annual impact (416.13*12*4 = 19 974) for Group 1; for Group 2, it is (145.27*12*5 = 8 716). 24 We only have impact at year two. So, we cannot estimate the impact at year one using interpolation as Bandiera et al. (2017) did. However, we find that the impact at year one is 58% of the impact at year two in Bandiera et al. (2017) paper; we use this rate to compute the year one change in our paper. RAHMAN et Al.</p><p xml:id="_p8BeG2n">T A B L E 1 2 Impact on loans Having outstanding loans from any sources (yes = 1, no = 0) Total outstanding loan from any sources (BDT) Loan from BRAC (BDT) Loan from other NGOs (BDT) Loan from moneylender (BDT) Loan from relatives/ friends/ neighbours (BDT) (1) (2) (3) (4) (5) (6) Impact of grants-only intervention 0.13*** (0.04) 1461.99** (743.68) 301.02 (191.41) 146.55 (179.08) -51.26 (217.81) 646.44 (623.68) Impact of hybrid intervention 0.09*** (0.04) 2549.34*** (770.40) 733.77*** (198.29) 179.11 (185.51) 270.01 (225.64) 1423.98** (646.10) Year fixed effect Yes Yes Yes Yes Yes Yes Individual fixed effects Yes Yes Yes Yes Yes Yes Number of observations 3 124 3 124 3 124 3 124 3 124 3 124 Follow-up nonparticipant mean 0.29 2180.93 245.11 77.67 236.05 1334.40 Impact as % of nonparticipant mean (grants-only intervention) 36.67 46.64 67.04 122.81 188.68 -21.71 Impact as % of nonparticipant mean (hybrid intervention) 13.33 30.07 116.89 299.37 230.59 114.39 Note: Figures in the parentheses are standard errors. ***denotes statistical significance at 1% level. **denotes statistical significance at 5% level.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_pCksdJQ">T A B L E 1 3 Impact on the perceived changes of livelihoods due to Rohingya refugee influx</head><p xml:id="_xeEJC8S">Rise in prices compared to past 1 year (Yes = 1, No = 0) Decrease in income opportunities (Yes = 1, No = 0) Increase in income opportunities (Yes = 1, No = 0) Decrease in govt./ not govt. aid opportunities (Yes = 1, No = 0) Increase in theft (Yes = 1, No = 0) Lack of security (Yes = 1, No = 0) Monthly income increased (Yes = 1, No = 0) Food expenses increased (Yes = 1, No = 0) Transport cost decreased (Yes = 1, No = 0)</p><p xml:id="_TNSrVBr">(2)</p><p xml:id="_3PvRnQM">(4) (5) (6) (7) (8) (9) Impact of grants-only intervention 0.017 (0.04) -0.05 (0.04) 0.03 (0.02) 0.02 (0.03) 0.03 (0.03) 0.04 (0.04) 0.12*** (0.03) -0.002 (0.04) 0.01 (0.01) Impact of hybrid intervention -0.01 (0.04) -0.04 (0.04) 0.05** (0.02) 0.06* (0.03) 0.11*** (0.04) 0.07* (0.0004) 0.08** (0.03) 0.06 (0.05) 0.01* (0.01) Year fixed effect Yes Yes Yes Yes Yes Yes Yes Yes Yes Individual fixed effect Yes Yes Yes Yes Yes Yes Yes Yes Yes Number of observations 3 124 3 124 3 124 3 124 3 124 3 124 3 124 3 124 3 124 Follow-up nonparticipant mean 0.81 0.73 0.06 0.16 0.35 0.49 0.17 0.65 0.002 Impact as % of nonparticipant mean (grants-only intervention) 2.10 -6.85 50.00 12.50 8.57 8.16 70.59 -0.31 500.00 Impact as % of nonparticipant mean (hybrid intervention) -1.23 -5.48 83.33 37.50 31.43 14.29 47.06 9.23 500.00 Note: Figures in the parentheses are standard errors. ***denotes statistical significance at 1% level. **denotes statistical significance at 5% level. *denotes statistical significance at 10% level.</p><p xml:id="_E4UXpc3">The fifth row of the table adds up all benefits from rows one through four to compute the total benefits. Finally, the sixth row shows the BCR, calculated by dividing total benefit (fifth row of Panel B of Table <ref type="table">14</ref>) by cost at year two (Panel A of Table <ref type="table">14</ref>). The BCR shows how much return an investment of BDT 1.00 can yield. For example, for the grants-only intervention studied here, the average BCR is 2.72. That means that an investment of BDT 1.00 yields BDT 2.72 for participants of this intervention. The average BCR is 2.76 for the hybrid intervention. The difference between the grants-only and hybrid interventions in terms of average BCR is trivial. Thus, this finding indicates that the latter intervention for comparatively better-off ultra-poor in host communities is as efficient as the former for the worse-off ultra-poor.</p><p xml:id="_UZKgStV">The seventh row of Panel B of Table <ref type="table">14</ref> reports the BCR at different social discount rates and time horizons.</p><p xml:id="_Sn2QUDW">Using the social discount rate of 10%, we start with the lowest time horizon of 5 years and end with 25 years with a 10-year interval. We again start with the highest time horizon of 30 years and end with 15 years with a 5-year interval and use the social discount rate of 12%, lining up with the World Bank. <ref type="bibr">25 Bandiera et al. (2017)</ref> also used the same discount rates to analyse sensitivity in BCRs.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_8aVRU2E">25</head><p xml:id="_dHrXP8D">More information is available at <ref type="url" target="http://documents.worldbank.org/curated/en/175851529346335395/pdf/ICR00004433-06132018.pdf">http://documents.worldbank.org/curated/en/175851529346335395/pdf/ICR00004433-06132018.pdf</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_ed2DenW">T A B L E 1 4 Cost-benefit analysis</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_zXKRqeZ">Grants-only intervention Hybrid intervention</head><p xml:id="_xrvAsYB">Panel A: External parameters</p><p xml:id="_vpYJN2q">Cost per household at year 0 50 106 40 298 Cost per household discounted at year 2 at 6% annual inflation rate 56 119 45 134 Social discount rate = 5% Panel B: Estimated consumption benefits 1 Change in household consumption expenditure at year 1 11 495 50 16 2 Change in household consumption expenditure at year 2 19 974 87 16 3 NPV change in household consumption expenditure from year 3 for 20 years 120 013 109 291 4 Change in household asset at year 2 1 245 1 398 5 Total benefits (1 + 2 + 3 + 4) 152 726 124 421 6 Benefits/cost ratio (assuming benefits last 20 years from transfer date) 2.72 2.76 7 Sensitivity to different discount rates/time horizons Benefits/cost ratio (assuming benefits last 30 years from transfer date) 3.26 3.43 Social discount rate = 10% Benefits/cost ratio (assuming benefits last 5 years from transfer date) 1.17 0.84 Benefits/cost ratio (assuming benefits last 15 years from transfer date) 1.94 1.80 Benefits/cost ratio (assuming benefits last 25 years from transfer date) 2.35 2.31 Social discount rate = 12% Benefits/cost ratio (assuming benefits last 30 years from transfer date) 2.09 1.99 Benefits/cost ratio (assuming benefits last 25 years from transfer date) 2.04 1.93 Benefits/cost ratio (assuming benefits last 20 years from transfer date) 1.97 1.83 Benefits/cost ratio (assuming benefits last 15 years from transfer date) 1.83 1.66</p><p xml:id="_agsjvsJ">Developing and poor countries host a large share of the growing displaced people. Within a country, refugees tend to be located in relatively poorer and marginalised areas, making the tension between the host and refugee communities much more acute. Livelihood programmes are thus essential to eliminate the tension among host communities.</p><p xml:id="_dqKGXnx">Global evidence on the livelihood programmes' evaluation for the host communities is, however, limited. Thus, we evaluate BRAC's graduation programme for host communities in Cox's Bazar, Bangladesh-the current residence of about 1 million Rohingya refugees.</p><p xml:id="_mcHkeBv">In assessing our findings from the perspective of graduation from extreme poverty, it is worth noting that participants are expected to have access to better livelihood options through self-employment upon graduation from the UPG programme (and hence out of extreme poverty). They are also likely to experience improved financial inclusion through access to formal/semiformal financial products, enhanced social integration with the knowledge of various social and health issues and access to mainstream social and financial services. Considering all these aspects, overall, our results imply that the UPG programme targeted towards the ultra-poor from the host communities in Cox's Bazar is highly effective.</p><p xml:id="_8PDEKFW">At a broader level, our findings indicate that this programme is effective for ultra-poor households in the context where the opportunity for wage employment is scarce and prices of essentials are higher due to shocks such as a large influx of migrants or refugees. Such adverse effects on the local labour market, especially for the poorest who rely on casual wage labour, due to a sudden and large-scale refugee influx are the reality in many refugee humanitarian contexts. These adverse impacts generate economic turmoil and add to the host-refugee high tension dynamics, which adversely affect the broader humanitarian action.</p><p xml:id="_sb2hN6K">Therefore, the graduation approach's success in such a context is promising and should be considered a part of humanitarian-development nexus programming (Zetter, 2019). As our evidence indicates, such an approach can also provide an effective and practical basis for improving the host-refugee tension and pave the way for better humanitarian action.</p><p xml:id="_CtRQePQ">The main limitation of this study is that the BCR is calculated using only one round of follow-up survey data. Thus, we cannot say with certainty the extent to which the benefits will change in the near future. Bandiera et al. (2017)   show that such graduation intervention's impacts are even higher in the long run than in the short run. Since our cost-benefit analysis is based on only one follow-up survey data, there remains the possibility of reporting lower than actual benefits that the programme produces.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><figDesc xml:id="_7uz7D5X">Further, the net cropped area of Cox's Bazar (35%) is lower than the national rate (54%) (Bangladesh Bureau of 6 IPA (2019) also shows that while female employment increased substantially (20%), the overall low female employment (29% prior to the refugee influx) suggests the increase in female employment has little effect on the total household income. Statistics [BBS], 2021). The situation of this district is also worsened by the high prevalence of natural disasters and climatic change-related shocks.</figDesc></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="17" xml:id="foot_0"><p xml:id="_xPvKN2c">The survey covered both BRAC programme participants and nonparticipants from all districts of the country. BRAC participants were overrepresented in the survey, but we have used appropriate sampling weight to make it nationally representative (rural).</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p xml:id="_EZr6RuT">10991328, 2023, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jid.3728 by Helmholtz-Zentrum Potsdam GFZ, Wiley Online Library on [21/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head xml:id="_vHKehQ4">ACKNOWLEDGEMENTS</head><p xml:id="_qCJuprS">We are grateful to <rs type="institution">BRAC</rs>, and the <rs type="funder">United Nations High Commissioner for Refugees (UNHCR)</rs> for giving us the opportunity and providing fund to conduct the evaluation research on the customised version of BRAC's Ultra-Poor Graduation (<rs type="programName">UPG) Programme</rs> for the host communities of <rs type="institution">Cox's Bazar, Bangladesh</rs>. We would also like to express our deepest gratitude to <rs type="person">Dr. Imran Matin</rs>, Executive Director of <rs type="affiliation">BIGD, Brac University</rs> and <rs type="person">Ms Rozina Haque</rs>, Associate Director, Ultra-Poor Graduation and Livelihood <rs type="institution">Programme Development and Innovation, BRAC and BRAC International</rs> for their valuable suggestions.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_SCMc3fj">
+					<orgName type="program" subtype="full">UPG) Programme</orgName>
+				</org>
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_cX8qg2s">DATA AVAILABILITY STATEMENT</head><p xml:id="_2ammKwB">The datasets used and/or analyzed during the current study are available from the corresponding author upon reasonable request.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="8.2" xml:id="_w2v5bS6">| Comparison of results of this study with previous studies on similar interventions</head><p xml:id="_spZk5Vn">Columns 1 and 2 of Table <ref type="table">15</ref> show the estimated effects of the grants-only and hybrid interventions studied in this paper on selected outcomes. Column 3 reports the effects of the grants-only intervention studied by Bandiera et al. (2017).</p><p xml:id="_jnQnxxn">Note that Bandiera et al. (2017) cover households from 13 of the poorest districts. In Column 4, on the other hand, we report results from a hybrid intervention studied by Rahman et al. (2021). This study uses RCT and covers 11 districts of Bangladesh. Results show that the grants-only intervention studied in this paper is more effective compared to the similar intervention studied for the general context of Bangladesh (Columns 1 and 3). The former is, however, less effective in terms of cost-effectiveness. This is mainly because the grants-only intervention studied by Bandiera   et al. (2017) is found to generate larger impacts in the long run (4 years). For example, while there is no statistically significant effect on consumption expenditure in the short run, the long-run effect is large and statistically significant.</p><p xml:id="_RatPqB8">The hybrid intervention studied in this paper is less effective compared to a similar intervention studied in the general context of Bangladesh (Columns 2 and 4). This intervention is also less effective in terms of cost-effectiveness.</p><p xml:id="_2A82RN3">These results suggest that the UPG programme implemented in the humanitarian context is less effective. The reason for the less effectiveness of the programme implemented for the host communities in Cox's Bazar is perhaps contextual issues. The households covered by the hybrid intervention in our study are poorer than those covered by the hybrid intervention studied by Rahman et al. (2021). For example, at baseline, per capita income of the participant households of the hybrid intervention studied in this paper was BDT 1 188 compared to BDT 1 510 of the participants of the hybrid intervention studied by Rahman et al. (2021). <ref type="bibr">26</ref> Further, Rahman et al. (2021) show that the intervention is less effective for poorer households. This perhaps explains why the hybrid intervention studied in the context of Cox's Bazar, where Rohingya refugees took shelter, is less effective.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_6GPguWT">26</head><p xml:id="_tXc6en5">The baseline survey of our study was conducted in 2016, while that of Rahman et  <ref type="formula">al. (2021) was conducted in 2018</ref>. We have reported income at 2016 constant prices. RAHMAN et Al. T A B L E 1 5 Comparison of findings from this study with those of previous studies on similar programmes in Bangladesh Current study Previous study Outcome Grants-only model (effects after two years) Hybrid model (effects after two years) Grants-only model (Bandiera et al., 2017) (effects after two years) Hybrid model (Rahman et al., 2021) (effects after 2 years) (1) (2) (3) (4) Having savings 0.43*** (0.04) 0.46*** (0.04) N/A 0.218*** (0.0414) Cash savings (BDT) 1760.92*** (511.01) 1432.64*** (529.38) 1006.8*** (84.9) 2873.3*** (731.0) Total per capita monthly expenditure 416.13*** (96.75) 145.27 (100.22) 46.44 (38.98) 447.9*** (101.67) Having loans 0.13*** (0.04) 0.09** (0.04) 0.123*** (0.03) N/A Cost-benefit ratio 2.72 2.76 3.21 8.47 Notes: Columns 1 and 2 report average treatment effect on the treated (ATT), Column 3 intent-to-treat (ITT) and Column 4 treatment-on-the-treated (TOT)/local average treatment effect (LATE). ITT results are very close to TOT/LATE as the compliance rate is very high (87%). Bandiera et al. (2017) reported results (savings and consumption expenditures) in USD using the PPP exchange rate, but we have converted them to BDT using the same exchange rate. ***denotes statistical significance at 1% level. **denotes statistical significance at 5% level.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_YsHPBGB">SUPPORTING INFORMATION</head><p xml:id="_qMq2UZG">Additional supporting information can be found online in the Supporting Information section at the end of this article.</p><p xml:id="_E9NzezC">How to cite this article: Rahman, A., Bhattacharjee, A., Nisat, R., &amp; Das, N. (2023). Graduation approach to poverty reduction in the humanitarian context: Evidence from Bangladesh. Journal of International Development, <ref type="url" target="https://doi.org/10.1002/jid.3728">https://doi.org/10.1002/jid.3728</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_MmfyA84">APPENDIX TABLES A</head><p xml:id="_gVJ27C4">RAHMAN et Al.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_HeZvNt4">T A B L E A 1</head><p xml:id="_Twbbgyg">Correlates of attrition</p><p xml:id="_nwFafSF">(1) (2) Successfully interviewed during endline or not (Yes = 1 No = 0) Successfully interviewed during endline or not (Yes = 1 No = 0) Grants-only intervention (Yes = 1 No = 0) -0.0125 (0.010) -0.0129 (0.010) Hybrid intervention (Yes = 1 No = 0) -0.00998 (0.010) -0.0119 (0.010) Total members in the HH 0.00163 (0.003) Age of the respondent (Year) -0.000482 (0.000) The household has outstanding loan (Yes = 1 No = 0) -0.000753 (0.009) The household has savings (Yes = 1 No = 0) -0.00979 (0.011)</p><p xml:id="_PR3dqXD">Total land owned by the HH in decimals -0.000364 (0.000) HH owns livestock or not (Yes = 1 No = 0) -0.0118 (0.014) Per capita monthly income of the HH (BDT at 2018's constant prices) -0.00000571 (0.000) Per capita monthly food expenditure by the household (BDT at 2018's constant price) 0.0000223** (0.000) Per capita monthly non-food expenditure by the HH (BDT at 2018's constant prices) 0.0000162 (0.000) (Continues) 35(6), 1287-1317. T A B L E A 1 (Continued) (1) (2) Successfully interviewed during endline or not (Yes = 1 No = 0) Successfully interviewed during endline or not (Yes = 1 No = 0) HH could afford at least two meals per day or not (Yes = 1 No = 0) -0.000999 (0.011) Constant 0.0324*** (0.006) 0.0232 (0.023) Observations 1 605 1 605 R-squared 0.001 0.009 Adjusted R-squared -0.000 0.002 ***denotes statistical significance at 1% level. **denotes statistical significance at 5% level. T A B L E A 2 Baseline characteristics of surveyed households Indicator Grants-only intervention Hybrid intervention Nonparticipants Difference (Grants-only intervention vs. nonparticipants) Difference (Hybrid intervention vs. nonparticipants) (1) (2) (3) (4 = 1-3) (5 = 2-3) Respondent's age (years) 38.61 30.77 35.75 2.86*** -4.99*** Respondent's marital statusdivorced/separated/widow (%) 59.63 2.65 22.20 37.44*** -19.55*** Household has outstanding loans from any sources (%) 18.37 24.83 29.53 -11.15*** -4.69* Household has savings (%) 10.24 16.23 18.75 -8.50*** -2.52 Land ownership (decimal) 2.00 2.44 3.17 -1.17 -0.73 Livestock ownership (%) 5.12 3.97 14.12 -10.14*** -10.31*** Poultry ownership (%) 33.43 39.74 33.08 0.35 6.65* Per capita monthly income (BDT, at 2018 constant prices) 1125.52 1325.50 1506.63 -381.10*** -181.13*** Per capita monthly food expenditure (BDT, at 2018 constant prices) 972.49 976.94 1075.07 -102.58*** -98.13*** Per capita monthly non-food expenditure (BDT, at 2018 constant prices) 511.38 503.24 573.88 -62.49** -70.64*** (Continues) T A B L E A 2 (Continued) Indicator Grants-only intervention Hybrid intervention Nonparticipants Difference (Grants-only intervention vs. nonparticipants) Difference (Hybrid intervention vs. nonparticipants) (1) (2) (3) (4 = 1-3) (5 = 2-3) HH could afford at least two meals a day (%) 69.88 86.75 84.70 -14.82*** 2.06 HH could afford fish/meat/ eggs in at least 2 out of last 3 days (%) 47.89 59.60 61.64 -13.75*** -2.04 Received support from government (% of HH) 32.83 27.81 26.19 6.64** 1.63 Received support from non-government organisation (% of HH) 15.66 17.88 14.12 1.54 3.76 Number of observations 332 302 928 ***denotes statistical significance at 1% level. **denotes statistical significance at 5% level. *denotes statistical significance at 10% level. T A B L E A 3 DiD regression results for pre-intervention periods (grants-only intervention group vs. comparison group) Land ownership (decimal) Number of poultry owned Number of livestock owned (1) (2) (3) Year2017 XGrants dummy 0.0206 (0.316) 0.352 (0.537) 0.0598 (0.077) Year2018 X Grants dummy 0.0507 (0.316) 0.424 (0.537) 0.0762 (0.077) Grants dummy (participants of grants intervention = 1 nonparticipant = 0) -0.643*** (0.223) -0.147 (0.380) -0.206*** (0.054) Year2017 (1 if 2017 and 0 otherwise) -0.0657 (0.162) 1.329*** (0.276) -0.00862 (0.040) -0.0959 (0.162) 1.865*** (0.276) -0.0431 (0.040) Constant 1.968*** (0.115) 1.698*** (0.195) 0.290*** (0.028) Observations 3 780 3 780 3 780 R-squared 0.006 0.020 0.007 Adjusted R-squared 0.005 0.018 0.006 Note: Figures in the parentheses are standard errors. ***denotes statistical significance at 1% level. Land ownership (decimal) Number of poultry owned Number of livestock owned (1) (2) (3) Year2017 Xhybrid dummy -0.130 (0.347) 0.377 (0.528) 0.0417 (0.077) Year2018 Xhybrid dummy -0.106 (0.347) 0.366 (0.528) 0.0630 (0.077) Hybrid dummy (participants of the hybrid intervention = 1, nonparticipant = 0) 0.146 (0.245) -0.0195 (0.373) -0.237*** (0.054) Year2017 (1 if 2017 and 0 if otherwise) -0.0657 (0.172) 1.329*** (0.262) -0.00862 (0.038) Year2018 (1 if 2018 and 0 if otherwise) -0.0959 (0.172) 1.865*** (0.262) -0.0431 (0.038) Constant 1.968*** (0.122) 1.698*** (0.185) 0.290*** (0.027) Observations 3 690 3 690 3 690 R-squared 0.000 0.021 0.012 Adjusted R-squared -0.001 0.020 0.010 Note: Figures in the parentheses are standard errors. ***denotes statistical significance at 1% level. T A B L E A 4 DiD regression results for pre-intervention periods (hybrid intervention group vs. comparison group) T A B L E A 5 Impact on employment (without individual fixed effect) Poultry/livestock rearing Agriculture Agricultural day labour (work at other's field) Maid/beggar Vegetables/fish cultivation Others Total time devoted to earning activities Household chores (1) (2) (3) (4) (5) (6) (7) (8) Panel A: Impacts on labour supply of 15-64-year-old males (hours worked per day) Impact of grants-only intervention 0.13*** (0.038) 0.03 (0.092) 0.02 (0.224) -0.08 (0.048) 0.35*** (0.171) 0.27 (0.288) 0.73** (0.372) -Impact of hybrid intervention 0.18*** (0.034) 0.38*** (0.084) (-0.12) (0.204) 0.02 (0.044) 0.22** (0.156) (-0.31) (0.263) 0.35 (0.339) -Year fixed effect Yes Yes Yes Yes Yes Yes Yes -Individual fixed effect No No No No No No No -Number of observations 5 508 5 508 5 508 5 508 5 508 5 508 5 508 -Follow-up nonparticipant mean 0.06 0.35 1.48 0 0.60 4.91 7.43 -Impact as % of nonparticipant mean (grants-only intervention) 215.69 7.84 1.48 -1647.24 57.70 5.44 9.80 -Impact as % of nonparticipant mean (hybrid intervention) 289.35 106.27 -8.17 488.11 35.60 -6.36 4.69 -T A B L E A 5 (Continued) Poultry/livestock rearing Agriculture Agricultural day labour (work at other's field) Maid/beggar Vegetables/fish cultivation Others Total time devoted to earning activities Household chores (1) (2) (3) (4) (5) (6) (7) (8) Panel B: Impacts on labour supply of 15-64-year-old females (hours worked per day) Impact of grants-only intervention 0.93*** (0.070) 0.09** (0.046) 0.12 (0.088) -0.76*** (0.117) 0.07* (0.043) -0.14 (0.192) 0.34* (0.242) 0.02 (0.123) Impact of hybrid intervention 0.87*** (0.073) 0.08* (0.048) (-0.08) (0.091) 0.04 (0.121) 0.17*** (0.045) 0.12 (0.200) 0.98*** (0.252) (-0.22***) (0.128) Year fixed effect Yes Yes Yes Yes Yes Yes Yes Yes Individual fixed effects No No No No No No No No Number of observations 6 018 6 018 6 018 6 018 6 018 6 018 6 018 6 018 Follow-up nonparticipant mean 0.66 0.17 0.28 0.29 0.20 2.16 5.82 2.06 Impact as % of nonparticipant mean (grants-only intervention) 141.65 53.81 42.10 -260.63 34.93 -6.26 5.80 0.86 Impact as % of nonparticipant mean (hybrid intervention) 132.09 48.7 -27.36 13.72 83.72 5.73 16.87 -10.78 Note: Figures in the parentheses are standard errors. ***denotes statistical significance at 1% level. **denotes statistical significance at 5% level. *denotes statistical significance at 10% level. APPENDIX B 1317 [Colour figure can be viewed at wileyonlinelibrary.com]</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="consolidated"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main" xml:id="_SaDeBGw">Impact of Rohingya refugees on food prices in Bangladesh: Evidence from a natural experiment</title>
+		<author>
+			<persName><forename type="first">Ashraful</forename><surname>Alam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Indranil</forename><surname>Dutta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Emranul</forename><surname>Haque</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ricardo</forename><surname>Nogales</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.worlddev.2022.105873</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_tFGdGcZ">World Development</title>
+		<title level="j" type="abbrev">World Development</title>
+		<idno type="ISSN">0305-750X</idno>
+		<imprint>
+			<biblScope unit="volume">154</biblScope>
+			<biblScope unit="page">105873</biblScope>
+			<date type="published" when="2007">2020. 2007</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main" xml:id="_Q3hrYWH">Mostly Harmless Econometrics</title>
+		<author>
+			<persName><forename type="first">Joshua</forename><forename type="middle">D</forename><surname>Angrist</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jörn-Steffen</forename><surname>Pischke</surname></persName>
+		</author>
+		<idno type="DOI">10.1515/9781400829828</idno>
+		<ptr target="https://press.princeton.edu/books/paperback/9780691120355/mostly-harmless-econometrics" />
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_kHpe44b">Mostly harmless econometrics: An empiricist&apos;s companion</title>
+		<imprint>
+			<publisher>Princeton University Press</publisher>
+			<date type="published" when="2009-12-31">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<monogr>
+		<title level="m" type="main" xml:id="_rpJbMgV">Walking on two legs: Credit plus grant approach to poverty reduction</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">C</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kamruzzaman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Quayyum</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="volume">25</biblScope>
+		</imprint>
+	</monogr>
+	<note type="report_type">CFPR-TUP Working Paper</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main" xml:id="_6VGEMKA">“It Is Better to Be a Refugee Than a Turkana in Kakuma”: Revisiting the Relationship between Hosts and Refugees in Kenya</title>
+		<author>
+			<persName><forename type="first">Ekuru</forename><surname>Aukot</surname></persName>
+		</author>
+		<idno type="DOI">10.25071/1920-7336.23482</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_NTruNCM">Refuge: Canada&apos;s Journal on Refugees</title>
+		<title level="j" type="abbrev">Refuge</title>
+		<idno type="ISSN">0229-5113</idno>
+		<idno type="ISSNe">1920-7336</idno>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="73" to="83" />
+			<date type="published" when="2003">2003</date>
+			<publisher>York University Libraries</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main" xml:id="_c6fv5CN">Immigration and prices: quasi-experimental evidence from Syrian refugees in Turkey</title>
+		<author>
+			<persName><forename type="first">Binnur</forename><surname>Balkan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Semih</forename><surname>Tumen</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00148-016-0583-2</idno>
+		<ptr target="https://doi.org/10.1007/s00148-016-0583-2" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_akvyR84">Journal of Population Economics</title>
+		<title level="j" type="abbrev">J Popul Econ</title>
+		<idno type="ISSN">0933-1433</idno>
+		<idno type="ISSNe">1432-1475</idno>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="657" to="686" />
+			<date type="published" when="2016-02-15">2016</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main" xml:id="_yF4UpdP">Labor Markets and Poverty in Village Economies*</title>
+		<author>
+			<persName><forename type="first">Oriana</forename><surname>Bandiera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robin</forename><surname>Burgess</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Narayan</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Selim</forename><surname>Gulesci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Imran</forename><surname>Rasul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Munshi</forename><surname>Sulaiman</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/qje/qjx003</idno>
+		<ptr target="https://doi.org/10.1093/qje/qjx003" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_pTWYNbt">The Quarterly Journal of Economics</title>
+		<idno type="ISSN">0033-5533</idno>
+		<idno type="ISSNe">1531-4650</idno>
+		<imprint>
+			<biblScope unit="volume">132</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="811" to="870" />
+			<date type="published" when="2017-03-20">2017</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main" xml:id="_EY6C8Qx">A multifaceted program causes lasting progress for the very poor: Evidence from six countries</title>
+		<author>
+			<persName><forename type="first">Abhijit</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Esther</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nathanael</forename><surname>Goldberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dean</forename><surname>Karlan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Osei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">William</forename><surname>Parienté</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeremy</forename><surname>Shapiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bram</forename><surname>Thuysbaert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Udry</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.1260799</idno>
+		<ptr target="https://doi.org/10.1126/science.1260799" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_eyt3Pb8">Science</title>
+		<title level="j" type="abbrev">Science</title>
+		<idno type="ISSN">0036-8075</idno>
+		<idno type="ISSNe">1095-9203</idno>
+		<imprint>
+			<biblScope unit="volume">348</biblScope>
+			<biblScope unit="issue">6236</biblScope>
+			<biblScope unit="page">1260799</biblScope>
+			<date type="published" when="2015-05-15">2015</date>
+			<publisher>American Association for the Advancement of Science (AAAS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main" xml:id="_3Pvtmxc">Changing of Asian Outlooks and New Travel Demands are the Emerging Factors for Expanding Tourism Markets Globally</title>
+		<author>
+			<persName><forename type="first">Dilip</forename><forename type="middle">Kumar</forename><surname>Bhadra</surname></persName>
+		</author>
+		<idno type="DOI">10.5176/2251-3426_thor16.20</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_AZsv5Bc">4th Annual International Conference on Tourism and Hospitality Research (THoR 2016)</title>
+		<imprint>
+			<publisher>Global Science &amp; Technology Forum (GSTF)</publisher>
+			<date type="published" when="2018">2018. 2021</date>
+		</imprint>
+	</monogr>
+	<note>Labour Force Survey 2016-17</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main" xml:id="_Tg5W5RE">Underinvestment in a Profitable Technology: The Case of Seasonal Migration in Bangladesh</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Byran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Chowdhury</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Mobarak</surname></persName>
+		</author>
+		<idno type="DOI">10.3982/ecta10489</idno>
+		<ptr target="https://doi.org/10.3982/ECTA10489" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_uAK7rfk">Econometrica</title>
+		<title level="j" type="abbrev">Econometrica</title>
+		<idno type="ISSN">0012-9682</idno>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1671" to="1748" />
+			<date type="published" when="2014">2014</date>
+			<publisher>The Econometric Society</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main" xml:id="_tBskQYb">The impact of Syrian refugees on natives’ labor market outcomes in Turkey: evidence from a quasi-experimental design</title>
+		<author>
+			<persName><forename type="first">Evren</forename><surname>Ceritoglu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">Burcu Gurcihan</forename><surname>Yunculer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Huzeyfe</forename><surname>Torun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Semih</forename><surname>Tumen</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/s40173-017-0082-4</idno>
+		<idno>IZA DP No. 9348</idno>
+		<ptr target="https://ftp.iza.org/dp9348.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_AYa5xf2">IZA Journal of Labor Policy</title>
+		<title level="j" type="abbrev">IZA J Labor Policy</title>
+		<idno type="ISSNe">2193-9004</idno>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2015">2015</date>
+			<publisher>Walter de Gruyter GmbH</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main" xml:id="_gCcy9zp">Addressing extreme poverty in a sustainable manner: Evidence from CFPR programme</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Misha</surname></persName>
+		</author>
+		<ptr target="https://bigd.bracu.ac.bd/wp-content/uploads/2020/03/Addressing-Extreme-Pover-ty-in-a-Sustainable-Manner-Evidence-from-CFPR-Program.pdf" />
+	</analytic>
+	<monogr>
+		<title level="s" xml:id="_hVTCRt8">CFPR-TUP Working Paper</title>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main" xml:id="_mejr3wJ">Modelling the economic impact of the Rohingya influx in Southern Bangladesh</title>
+		<author>
+			<persName><forename type="first">Mateusz</forename><forename type="middle">J</forename><surname>Filipski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ernesto</forename><surname>Tiburcio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Paul</forename><forename type="middle">A</forename><surname>Dorosh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><forename type="middle">F</forename><surname>Hoddinott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gracie</forename><surname>Rosenbach</surname></persName>
+		</author>
+		<idno type="DOI">10.2499/p15738coll2.133397</idno>
+		<idno>1862</idno>
+		<ptr target="https://www.ilo.org/wcmsp5/groups/public/---ed_emp/documents/publication/wcms_713611.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_FqyKm3b">The impact of large-scale forced displacement on Rohingya refugees and host communities in Cox&apos;s Bazar, Bangladesh</title>
+		<imprint>
+			<publisher>International Food Policy Research Institute</publisher>
+			<date type="published" when="2019">2019. 2019. 2019. 2021</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">IFPRI Discussion Paper</note>
+	<note>Evaluation of market systems development interventions for refugee and host communities in Jijiga, Ethiopia Rohingya humanitarian crisis response Monthly situation report</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main" xml:id="_x28sTyy">Handbook on Impact Evaluation</title>
+		<author>
+			<persName><forename type="first">Shahidur</forename><surname>Khandker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gayatri</forename><surname>B. Koolwal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hussain</forename><surname>Samad</surname></persName>
+		</author>
+		<idno type="DOI">10.1596/978-0-8213-8028-4</idno>
+		<ptr target="https://doi.org/10.1596/978-0-8213-8028-4" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Jjr8dKR">World Bank</title>
+		<imprint>
+			<date type="published" when="2009-10-13">2009</date>
+			<publisher>The World Bank</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b13">
+	<analytic>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">H</forename><surname>Khondker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Mahzab</surname></persName>
+		</author>
+		<ptr target="https://www.researchgate.net/publication/332567169_Lagging_Districts_Develop-ment_Background_Study_Paper_for_Preparation_of_the_Seventh_Five-Year_Plan" />
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_Fc3dGzm">Lagging districts development. Background Paper for the Seventh Five Year Plan</title>
+		<title level="s" xml:id="_jRCBvFK">Bangladesh Planning Commission</title>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main" xml:id="_we2NP2y">Perceptions between Syrian refugees and their host community</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">Y</forename><surname>Nielsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_YzCMh6t">Turkish Policy Quarterly</title>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main" xml:id="_BY7XfGU">Conversion of Agricultural Land to Non-agricultural Uses in Bangladesh:Extent and Determinants</title>
+		<author>
+			<persName><forename type="first">Md</forename><forename type="middle">Abul</forename><surname>Quasem</surname></persName>
+		</author>
+		<idno type="DOI">10.57138/sxlv7477</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_DNJBTWA">The Bangladesh Development Studies</title>
+		<title level="j" type="abbrev">BDS</title>
+		<idno type="ISSN">0304-095X</idno>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="59" to="85" />
+			<date type="published" when="2011-03-01">2011. March 2011</date>
+			<publisher>Bangladesh Institute of Development Studies</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main" xml:id="_hBkqtZH">Impact assessment of credit programme for the tenant farmers in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Mohammad</forename><forename type="middle">Abdul</forename><surname>Malek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Abu</forename><surname>Ahasan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Md.</forename><forename type="middle">Amzad</forename><surname>Hossain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Md.</forename><forename type="middle">Shakil</forename><surname>Ahmed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marup</forename><surname>Hossain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Md.</forename><forename type="middle">Hasib</forename><surname>Reza</surname></persName>
+		</author>
+		<idno type="DOI">10.23846/ow31222</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_qg6esQZ">Impact evaluation of UPG programme&apos;s new model</title>
+		<imprint>
+			<publisher>International Initiative for Impact Evaluation</publisher>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+		<respStmt>
+			<orgName>BRAC Institute of Governance and Development ; BRAC University</orgName>
+		</respStmt>
+	</monogr>
+	<note>Unpublished manuscript</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main" xml:id="_F2uRYvS">A good mix against ultra‐poverty? Evidence from a Randomized Controlled Trial (RCT) in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Atiya</forename><surname>Rahman</surname></persName>
+			<idno type="ORCID">0000-0002-8560-8335</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Anindita</forename><surname>Bhattacharjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Narayan</forename><surname>Das</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/rode.12809</idno>
+		<ptr target="https://doi.org/10.1111/rode.12809" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_zAEvxN4">Review of Development Economics</title>
+		<title level="j" type="abbrev">Review Development Economics</title>
+		<idno type="ISSN">1363-6669</idno>
+		<idno type="ISSNe">1467-9361</idno>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="2052" to="2083" />
+			<date type="published" when="2021-07-13">2021</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b18">
+	<analytic>
+		<title level="a" type="main" xml:id="_mk8sMS9">Evaluation of the project “Support to agricultural livelihoods of rural and peri-urban communities in Nineveh Governorate, Iraq”</title>
+		<idno type="DOI">10.4060/cd2150en</idno>
+		<ptr target="https://www.nrc.no/globalassets/pdf/reports/targeted-protection-and-livelihoods-support/sdc-evaluation---targeted-protection-and-livelihoods-sup-port-to-most-vulnerable-idp-and-host-communities.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_Bkpc4hE">Targeted protection and livelihoods support to most vulnerable IDP and host communities project in Borno State of Nigeria</title>
+		<imprint>
+			<publisher>FAO</publisher>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Final evaluation report</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main" xml:id="_ynZFQNM">Assistance to refugees, returnees, displaced persons, and other vulnerable groups : situation report No. 3 / World Food Programme, the Food Aid Organization of the United Nations, 1995.</title>
+		<idno type="DOI">10.2458/azu_acku_pamphlet_hv640_5_a28_a875_1995</idno>
+		<ptr target="https://fscluster.org/sites/default/files/documents/self_reli-ance_assessment_report-final.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_dy7C2SN">Self-reliance situation of host communities in Cox&apos;s Bazar</title>
+		<imprint>
+			<publisher>University of Arizona Libraries</publisher>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note>Save the Children, BRAC, World Vision</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main" xml:id="_3ppbvgy">The Economic Impact of Syrian Refugees on Host Countries: Quasi-Experimental Evidence from Turkey</title>
+		<author>
+			<persName><forename type="first">Semih</forename><surname>Tumen</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/aer.p20161065</idno>
+		<ptr target="https://doi.org/10.1257/aer.p20161065" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_DYVxvfb">American Economic Review</title>
+		<title level="j" type="abbrev">American Economic Review</title>
+		<idno type="ISSN">0002-8282</idno>
+		<imprint>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="456" to="460" />
+			<date type="published" when="2016-05-01">2016</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main" xml:id="_9TnaKTd">Socioeconomic Status Changes of the Host Communities after the Rohingya Refugee Influx in the Southern Coastal Area of Bangladesh</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M Asik</forename><surname>Ullah</surname></persName>
+			<idno type="ORCID">0000-0001-9411-1542</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Kazuo</forename><surname>Asahiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Masao</forename><surname>Moriyama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Masakazu</forename><surname>Tani</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/su13084240</idno>
+		<ptr target="https://doi.org/10.3390/su13084240" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_PZT6axT">Sustainability</title>
+		<title level="j" type="abbrev">Sustainability</title>
+		<idno type="ISSNe">2071-1050</idno>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page">4240</biblScope>
+			<date type="published" when="2021-04-11">2021</date>
+			<publisher>MDPI AG</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b22">
+	<monogr>
+		<title level="m" type="main" xml:id="_6PsWVfN">Rohingya Influx</title>
+		<author>
+			<persName><forename type="first">Mrittika</forename><surname>Kamal</surname></persName>
+		</author>
+		<idno type="DOI">10.5040/9781978729551-ch-5</idno>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<publisher>The Rowman &amp; Littlefield Publishing Group</publisher>
+			<biblScope unit="page" from="87" to="104" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main" xml:id="_e5ygvdG">Global forced displacement</title>
+		<idno type="DOI">10.18356/9789211066005c002</idno>
+		<ptr target="https://www.unhcr.org/5943e8a34" />
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_EHDFtVw">UNHCR Global Trends</title>
+		<imprint>
+			<publisher>United Nations</publisher>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="page" from="5" to="11" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b24">
+	<analytic>
+		<title level="a" type="main" xml:id="_KeQCwUz">Global forced displacement</title>
+		<idno type="DOI">10.18356/9789211066005c002</idno>
+		<ptr target="https://www.unhcr.org/5d08d7ee7.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_ZvMhjWp">UNHCR Global Trends</title>
+		<imprint>
+			<publisher>United Nations</publisher>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page" from="5" to="11" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b25">
+	<analytic>
+		<title level="a" type="main" xml:id="_qvx4NxM">Economic Transfers and Social Cohesion in a Refugee-Hosting Setting</title>
+		<author>
+			<persName><forename type="first">Elsa</forename><surname>Valli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Amber</forename><surname>Peterman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Melissa</forename><surname>Hidrobo</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00220388.2019.1687879</idno>
+		<ptr target="https://doi.org/10.1080/00220388.2019.1687879" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Qe8sghS">The Journal of Development Studies</title>
+		<title level="j" type="abbrev">The Journal of Development Studies</title>
+		<idno type="ISSN">0022-0388</idno>
+		<idno type="ISSNe">1743-9140</idno>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="issue">sup1</biblScope>
+			<biblScope unit="page" from="128" to="146" />
+			<date type="published" when="2019-12-06">2019</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b26">
+	<analytic>
+		<title level="a" type="main" xml:id="_nthBnMD">The impact of forced displacement on host communities: A review of the empirical literature in economics</title>
+		<author>
+			<persName><forename type="first">Paolo</forename><surname>Verme</surname></persName>
+			<idno type="ORCID">0000-0002-8754-1138</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Kirsten</forename><surname>Schuettler</surname></persName>
+			<idno type="ORCID">0000-0003-2799-2284</idno>
+		</author>
+		<idno type="DOI">10.1016/j.jdeveco.2020.102606</idno>
+		<ptr target="https://doi.org/10.1016/j.jdeveco.2020.102606" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_wEzxSFG">Journal of Development Economics</title>
+		<title level="j" type="abbrev">Journal of Development Economics</title>
+		<idno type="ISSN">0304-3878</idno>
+		<imprint>
+			<biblScope unit="volume">150</biblScope>
+			<biblScope unit="page">102606</biblScope>
+			<date type="published" when="2021-05">2021. 2021</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b27">
+	<analytic>
+		<title level="a" type="main" xml:id="_D7Qjp7b">Bangladesh Poverty Assessment: Facing Old and New Frontiers in Poverty Reduction, Volume 2 Background Papers</title>
+		<idno type="DOI">10.1596/32755</idno>
+		<ptr target="https://openknowledge.worldbank.org/handle/10986/32755" />
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_PzruQyB">Bangladesh poverty assessment: Facing old and new frontiers in poverty reduction</title>
+		<imprint>
+			<publisher>World Bank, Washington, DC</publisher>
+			<date type="published" when="2019-10-31">2019</date>
+			<biblScope unit="volume">2</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b28">
+	<analytic>
+		<title level="a" type="main" xml:id="_sHfGhPY">Theorizing the Refugee Humanitarian-development Nexus: A Political-economy Analysis</title>
+		<author>
+			<persName><forename type="first">Roger</forename><surname>Zetter</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/jrs/fez070</idno>
+		<ptr target="https://doi.org/10.1093/jrs/fez070" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_NhzASDm">Journal of Refugee Studies</title>
+		<idno type="ISSN">0951-6328</idno>
+		<idno type="ISSNe">1471-6925</idno>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="1766" to="1786" />
+			<date type="published" when="2019-08-23">2019</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

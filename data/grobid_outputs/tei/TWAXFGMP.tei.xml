@@ -1,0 +1,856 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" xml:id="_96S4gTt">Enabling graduation for whom? Identifying and explaining heterogeneity in livelihood trajectories post‐cash transfer exposure</title>
+				<funder>
+					<orgName type="full">Concern Worldwide</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Wiley</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2018-08-03">2018-08-03</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Rachel</forename><surname>Sabates‐wheeler</surname></persName>
+							<idno type="ORCID">0000-0002-3173-212X</idno>
+						</author>
+						<author>
+							<persName><forename type="first">Ricardo</forename><surname>Sabates</surname></persName>
+							<idno type="ORCID">0000-0002-1433-5667</idno>
+							<affiliation key="aff1">
+								<orgName type="department">Faculty of Education</orgName>
+								<orgName type="institution">University of Cambridge</orgName>
+								<address>
+									<settlement>Cambridge</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Stephen</forename><surname>Devereux</surname></persName>
+							<idno type="ORCID">0000-0002-4885-0085</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Development Studies</orgName>
+								<orgName type="institution">University of Sussex</orgName>
+								<address>
+									<settlement>Sussex</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Professorial Fellow</orgName>
+								<orgName type="department" key="dep2">IDS</orgName>
+								<orgName type="department" key="dep3">Institute of Development Studies</orgName>
+								<orgName type="institution">University of Sussex</orgName>
+								<address>
+									<postCode>BN1 9RE</postCode>
+									<settlement>Falmer</settlement>
+									<region>Sussex</region>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main" xml:id="_qrSeFTF">Enabling graduation for whom? Identifying and explaining heterogeneity in livelihood trajectories post‐cash transfer exposure</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main" xml:id="_4CwPmjs">Journal of International Development</title>
+						<title level="j" type="abbrev">J of Intl Development</title>
+						<idno type="ISSN">0954-1748</idno>
+						<idno type="eISSN">1099-1328</idno>
+						<imprint>
+							<publisher>Wiley</publisher>
+							<biblScope unit="volume">30</biblScope>
+							<biblScope unit="issue">7</biblScope>
+							<biblScope unit="page" from="1071" to="1095"/>
+							<date type="published" when="2018-08-03" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">D4307C4A1347C329A8A777274BC051E1</idno>
+					<idno type="DOI">10.1002/jid.3369</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2025-11-05T00:29+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a292bac</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=1, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=true, generateTeiCoordinates=[true], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term xml:id="_dgecNrt">social protection</term>
+					<term xml:id="_vemGCka">heterogeneity</term>
+					<term xml:id="_W2CtfdM">livelihoods</term>
+					<term xml:id="_KDcVd6G">graduation</term>
+					<term xml:id="_ET5Vvhb">poverty</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_sF8Kt7V"><p xml:id="_3ggmwUC">We use a data set from a graduation programme in Rwanda to explore the heterogeneous livelihood pathways that programme participants follow during and after the programme period. We show that household characteristics, such as gender of household head and labour availability, will affect trajectories of change; yet, the impact of initial resources will depend on what outcomes are being measured and possible complementarities between them. This reinforces the importance of a multi-sectoral strategy for supporting livelihoods. We conclude that certain types of households need longer on a programme, as well as additional support to local enabling factors to support graduation.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="467.716" lry="702.992"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="467.716" lry="702.992"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="467.716" lry="702.992"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="467.716" lry="702.992"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="467.716" lry="702.992"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="467.716" lry="702.992"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="467.716" lry="702.992"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="467.716" lry="702.992"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="467.716" lry="702.992"/>
+		<surface n="10" ulx="0.0" uly="0.0" lrx="467.716" lry="702.992"/>
+		<surface n="11" ulx="0.0" uly="0.0" lrx="467.716" lry="702.992"/>
+		<surface n="12" ulx="0.0" uly="0.0" lrx="467.716" lry="702.992"/>
+		<surface n="13" ulx="0.0" uly="0.0" lrx="467.716" lry="702.992"/>
+		<surface n="14" ulx="0.0" uly="0.0" lrx="467.716" lry="702.992"/>
+		<surface n="15" ulx="0.0" uly="0.0" lrx="467.716" lry="702.992"/>
+		<surface n="16" ulx="0.0" uly="0.0" lrx="467.716" lry="702.992"/>
+		<surface n="17" ulx="0.0" uly="0.0" lrx="467.716" lry="702.992"/>
+		<surface n="18" ulx="0.0" uly="0.0" lrx="467.716" lry="702.992"/>
+		<surface n="19" ulx="0.0" uly="0.0" lrx="467.716" lry="702.992"/>
+		<surface n="20" ulx="0.0" uly="0.0" lrx="467.716" lry="702.992"/>
+		<surface n="21" ulx="0.0" uly="0.0" lrx="467.716" lry="702.992"/>
+		<surface n="22" ulx="0.0" uly="0.0" lrx="467.716" lry="702.992"/>
+		<surface n="23" ulx="0.0" uly="0.0" lrx="467.716" lry="702.992"/>
+		<surface n="24" ulx="0.0" uly="0.0" lrx="467.716" lry="702.992"/>
+		<surface n="25" ulx="0.0" uly="0.0" lrx="467.716" lry="702.992"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1" xml:id="_26gG9RE">INTRODUCTION</head><p xml:id="_JxRttv9">This paper is concerned with the measurement of sustainable livelihood change post-cash transfer exposure. We deviate from a standard 'average effect' analysis by conceptualising and analysing reasons for observed heterogeneity in livelihood trajectories of beneficiaries. Many social protection programmes (frequently labelled as graduation programmes) that rely on a combination of cash transfers, savings and training for the protection and promotion of poor people's lives and livelihoods assume that, under the right conditions of design and implementation, beneficiaries will embark on virtuous livelihood paths that will be maintained even after programme exit. Here we rehearse this argument, we then critique it using Sabates-Wheeler and Devereux's earlier 'enablers and constrainers' work, showing how livelihood trajectories can be highly heterogeneous even for what programme implementers assume to be 'similar' beneficiaries. Heterogeneity in programme participants' circumstances is usually not catered for during targeting, implementation or removal from the programme, potentially leading to muted effects on anticipated programme outcomes.</p><p xml:id="_5UpRtpU">The paper moves on to discuss how graduation or positive livelihood change is typically measured in social protection programmes and some challenges that this poses. Using novel panel survey data from a NGO-implemented graduation model programme in Rwanda, we test some hypotheses around enablers and constrainers that predict different livelihood pathways. Findings from our statistical analysis show that household characteristics, location, shock type and specific resource complementarities matter a great deal for determining and enabling different livelihood trajectories, measured across different indicators. In conclusion, we draw implications from our findings for the broader literature and evaluation efforts of social protection programmes that aspire to move vulnerable households into independent and positive livelihood trajectories. We show that there is a need to develop empirical research into the sustainability of impacts over time as this research indicates that only 28 per cent of beneficiaries managed to sustain the benefits 2 years post programme across all three outcome indicators. We conclude that 'graduation' or 'building resilient rural livelihoods' requires a full understanding of both the context in which people live and work as well as the heterogeneity of beneficiaries being provided for in different programmes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2" xml:id="_N4jrmsX">THE VISION FOR LIVELIHOOD STRENGTHENING WITHIN SOCIAL PROTECTION INTERVENTIONS</head><p xml:id="_EBSzMxh">In the past 5-10 years the social protection agenda has increasingly moved towards programming for 'graduation', where 'graduation' has often been defined as exit from a classic social protection/safety net programme resulting from an improvement in some measureable indicator (asset or income) or a change in an observable characteristic (for instance, the loss of a child benefit once a child turns 18). Other programmes provide time-bound support to beneficiaries under the assumption that 1 or 2 years of support will enable households to improve their lives to a level where they are able to sustain independent livelihoods without programme support. Current literature questions the simplicity of equating 'graduation' with programme exit, insisting that any notion of graduation from a social protection programme should not be simply an end in itself, but, must be linked to a sustainable change in a person's or household's livelihood such that the livelihood is resilient to a moderate and 'normally expected' level of shock or fluctuation <ref type="bibr">(FSCB, 2007;</ref><ref type="bibr" target="#b22">Sabates-Wheeler &amp; Devereux, 2013;</ref><ref type="bibr" target="#b24">Samson, 2015)</ref>.</p><p xml:id="_PrY5mST">In line with previous work on graduation, in this paper we refer to graduation as a situation where a livelihood has been strengthened so that the household or recipient is able to maintain themselves out of extreme poverty for the medium to long term without the support of a core social protection programme. In other words, simply exiting a social protection programme does not imply that a household's situation has improved. Improvements in livelihoods need to be maintained and sustained above a defined level R. <ref type="bibr">Sabates-Wheeler et al.</ref> for some time post-programme exit. Of course, the length of time and the level at which the positive change is sustained is a somewhat subjective question, yet for the purposes of this paper we operationalise it in a practical way, and in line with the programme evaluation at hand (this is detailed in the 'measuring outcomes' section below).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1" xml:id="_TUwUyrX">Laying out the Concepts: Trajectories and Sustainability</head><p xml:id="_s8HqyjH">Graduation is increasingly stated as an objective of social protection programmes and related interventions. 'Threshold' graduation (an administrative benchmark that signals the point at which a beneficiary is no longer eligible for the programme) can be distinguished from 'sustainable' graduation (a state in which livelihoods have been fundamentally transformed through social protection interventions) <ref type="bibr" target="#b7">(Devereux, 2010;</ref><ref type="bibr" target="#b22">Sabates-Wheeler &amp; Devereux, 2013)</ref>. An example of an operational definition of sustainable graduation comes from the Productive Safety Net Programme (PSNP) in Ethiopia: 'A household has graduated when, in the absence of receiving PSNP transfers, it can meet its food needs for all 12 months and is able to withstand modest shocks' <ref type="bibr">(FSCB, 2007, p1)</ref>. In Rwanda national policy 'graduation describes a situation where a livelihood has been strengthened so that the households or recipients are able to maintain themselves out of extreme poverty for the medium to long term without VUP support' (2013). 1  Both of the above understandings of graduation include an implicit reference to 'resilience' of livelihoods. In fact, the concept and measurement of resilience has a long history (much more so than 'graduation') in disciplines of human ecology, climate change and physics. It is a relatively new concept in the policy arena of social protection, with different agencies having slightly different definitions, but all containing the notion of the ability to cope or 'bounce back' after a shock or stresses in a sustainable way.</p><p xml:id="_gHXgVPa">The theory of change underpinning the now popular graduation programmes emerged primarily from asset-based approaches to poverty reduction and growth in the 1990s that challenged conventional measurements of poverty (based on consumption aggregates). The debate, and accompanying empirical research, redefined the meaning of poverty by placing assets, entitlements and livelihood systems at the centre of analysis (Sen, 1997; see also <ref type="bibr" target="#b9">Ellis, 2000)</ref>. From this, we saw the growth of asset accumulation models <ref type="bibr" target="#b11">(Gordon, 2002;</ref><ref type="bibr" target="#b17">Moser, 1998)</ref>, poverty traps and asset threshold models <ref type="bibr" target="#b5">(Carter, Little, Mogues, &amp; Negatu, 2008;</ref><ref type="bibr" target="#b15">Lybbert, Barrett, Desta, &amp; Coppock, 2004;</ref><ref type="bibr" target="#b16">McPeak, 2004)</ref>, and dynamic asset accumulation theories <ref type="bibr" target="#b3">(Barrett &amp; Swallow, 2006)</ref>, all attempting to theorise and empirically validate the importance of asset accumulation to wellbeing and livelihood outcomes.</p><p xml:id="_kmYBsU8">The notion that a threshold (asset or income) exists, below which one is in poverty and above which one is non-poor, has also been related to 'poverty traps'. A poverty trap exists when a household/individual is unable to use the resources available to them to pull themselves above a threshold. This typically means that a household is both consumption and asset poor. This might be because of structural barriers (such as lack of access to labour markets, educational or health opportunities), exclusion, environmental hazards and shocks, etc. The objective of a graduation programme is to move the structurally poor to a structurally non-poor position. This means moving them onto a positive and sustained livelihood trajectory. Because of the existence of poverty traps, many poor people, communities and nations have a difficult time rising beyond thresholds without assistance.</p><p xml:id="_hC8S2rP">The core idea in graduation programmes is to use short-term asset/cash/food transfers in combination with support for asset creation, savings, training and mentoring as a vehicle for providing sustained economic empowerment for economically insecure and marginal households. This theory of change is illustrated in the simplified Figure <ref type="figure" target="#fig_0">1</ref> below, where A * refers to the threshold or benchmark above which households or individuals are no longer considered in need of social protection support. A np denotes the resource base of a non-poor household, A p and A vp the resource base of a poor and very poor household, respectively. Once above threshold A * , there may be a dynamic accumulation of assets such that a household will move on an upwards trajectory <ref type="bibr" target="#b3">(Barrett &amp; Swallow, 2006;</ref><ref type="bibr" target="#b4">Carter &amp; Barrett, 2006)</ref>. Below A * , and a downward trajectory is dominant. Thus, moving a household from A VP to A p through a cash or asset transfer will not move the household into a positive, dynamic accumulation path, but over time the household will return to a low-level equilibrium point.</p><p xml:id="_897efHr">This type of reasoning provides the rationale for numerous social protection programmes around the world. Even the most basic social transfer programmes that use only the predictable and sustained transfer of cash or assets (sometime with conditions) appeal to the idea that a household will be able to move into a positive trajectory with enough support. The predictability of support is critical as an insurance function; the sustainability of the support provides the 'required' amount to move above a threshold. More complex graduation programmes, such as the Productive Safety net Programme (PSNP) in Ethiopia, LEAP in Ghana or the Vision 2020 Umurenge Programme (VUP) in Rwanda, rely on this same reasoning, with social transfers as the main household transfer, yet with additional and complementary support from a variety of sectors including agriculture and nutrition.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2" xml:id="_4k9pXan">Enablers and Constrainers</head><p xml:id="_wwkKSsQ">While we recognise the importance of these graduation models for safety net provisioning and livelihood support, we argue-along with others (see <ref type="bibr" target="#b13">Kidd, 2013;</ref><ref type="bibr" target="#b24">Samson, 2015)</ref>- R. Sabates-Wheeler et al.</p><p xml:id="_hT933zY">that it is too simplistic to expect a simple cash or asset transfer alone to enable a household to become 'resilient.' Much more is needed in the form of structural transformation of the context/environment to support such a transition. Furthermore, it is obvious that there are various factors that will affect whether one household or another will improve their position (in relation to a specific indicator), if at all, and the pace at which they do so. Drawing on Sabates-Wheeler and Devereux's framework we frame our discussion of differentiated livelihood trajectories around an adapted version of the factors that are likely to enable or constrain the process by which any one household can move along a productivity-enhancing pathway. These are: i. Household-level characteristics, such as, whether the household head is female, or how many children and older persons live in the household. We anticipate that the higher the household dependency ratio, the less able the household is to be able to convert additional resources (i.e. cash) into productive opportunities and investments. This is because the resources are likely to be shared (or 'diluted') across more household members, and used primarily on food expenditure. Labour constraints, often proxied by the number of working-age members in the household, will also determine the ability of the household to experience positive change. Female headedness of very poor families is also well known to correlate with intensified disadvantage. ii. The initial resources available to the household. We anticipate that the higher level of assets a household has the more effectively the household will be able to productively absorb additional resources, for instance in the form of a cash/social transfers. If a household has some land or a small business then the cash transfer can be used to accentuate the return to that capital, as compared to similar households without land.</p><p xml:id="_CFQMby2">Of course, the ability of a household to effectively convert cash into better livelihood opportunities will also depend on the required bundle of assets (or lumpiness of the assets), and the complementarities between them. iii. External and enabling context. Becoming more resilient, or experiencing a change in a livelihood, will in large part depend on the enabling context within which that livelihood is located and is dependent. For instance, shocks and stresses can undermine a positive change in a livelihood trajectory. Furthermore, the market or institutional context of a political or physical location will be critical determining factors of the pathway out of poverty. We investigate the impact of a variety of shocks as well as the local context on livelihood outcomes.</p><p xml:id="_bEdDRAQ">In summary, initial conditions, household latent capacity to absorb change and external context matter. When we take these factors into account, it is obvious that households will not all follow similar paths, even if this is the assumption and desired outcome. Some households may be in a strong initial situation where they are able to quickly absorb extra income, converting it into small investments or using it to support education or health expenditures. Other households will be in desperate need and use all of the transferred cash on food needs. Other households will be living in contexts where input and output markets are strong and they may be able to reap gains quickly from small business investments, whereas others will have no access to inputs for their land and no one to sell to. Moreover, some households or communities may face shocks that wipe out the minimal investments they have made in the prior period, whereas others may be able to cope with the shocks, depending on the type and the scale of the shock. These various enablers and constrainers set households on distinct pathways, which are illustrated below (see Figure <ref type="figure" target="#fig_1">2</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_3VAuEab">Enabling graduation for whom?</head><p xml:id="_PwnDmvu">For purpose of presentation and for practical means of testing, we identify each households' starting point as the baseline targeting threshold value of any given outcome (e.g. assets, consumption, food security, livestock). Assuming that a social protection programme is interested in identifying (and is able to efficiently identify) the most poor and vulnerable we can assume that the baseline values represent a group of households with similar values of that outcome. The targeting threshold, shown on the figure as the double horizontal line, represents the point below which households are eligible for programme support. <ref type="foot" target="#foot_0">2</ref> The left-hand side of the figure indicates the period in which the household received (or did not receive, if it is a control household) the cash transfer and any other programme support. The right-hand side, after the thick dashed vertical line, shows the trajectories of change after leaving the programme. It is clear that there are multiple trajectories during the period of programme support, as well as post-programme. We would expect that households that receive support will improve on any specified programme outcome indicator during the programme support. Ideally, a programme implementer intends that beneficiaries, because of programme support, would reach a level of 'resilience' (shown as a resilience threshold) such that they can then leave the programme. However, not all households will experience positive change even with programme support, because of the range of factors identified above, that might counter the extra cash they are receiving. Below we identify four broad trajectories that are possible over the period that spans the cash transfer receipt (12 months in our case) and then a substantial period post programme (24 months in our case): Improvers those who have sustained any positive change post-exit or even improved on positive change post-exit; Decliners those who experienced positive change while on the transfer but have fallen back post-transfer, but not below the targeting threshold level; Crashing out those who either never rose above the targeting threshold (during the transfer) and have declined in welfare indicator since leaving, and those who improved but have, since the end of the transfer, declined below baseline threshold levels; Late improvers those who stayed at targeting threshold level or below during the transfer period but have risen above this level post-transfer exposure. R. Sabates-Wheeler et al.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3" xml:id="_7P48MTb">HOW DO PROGRAMMES MEASURE GRADUATION?</head><p xml:id="_xKTzBUU">Intuitively these multiple pathways make sense, and resonate with qualitative interviews from a range of social protection programme evaluations that show differentiated experiences of beneficiaries (for evidence from the PSNP-Ethiopia programme see <ref type="bibr" target="#b12">Hoddinott et al., 2013;</ref><ref type="bibr">Tafesse et al., 2016)</ref>. Quantitatively, however, it is difficult to measure and define this change, due mainly to the lack of adequate long-runs of data. Different countries and programmes use different measures of graduation and resilience. Sometimes these are developed from the ground-up and other times as an objective, standardised measure. As yet, we do not have robust evidence on the best way to measure graduation. The typical way that graduation is measured involves specifying a threshold, typically based on an index of assets. Once defined, either through a proxy means test methodology that relies on a large scale secondary dataset being available, or upon a politically defined threshold, then any household that passes the threshold can be identified as ready to move off programme support. This type of measure is, of course, inappropriate for measuring trajectories of change, as it simply measures a one-off indicator for purposes of deciding whether a beneficiary remains on or exits a programme. Asset bundles/indices or total asset values indicators are often used for programme management purposes. Some graduation programmes define an asset or income threshold as an indicator of whether a household's/individual's livelihood has improved enough to warrant coming off programme support. In Ethiopia, within the FSP/ PSNP, the Graduation Guidance Note (2007) as well as the Programme Implementation Manuals are key documents detailing graduation measurement. The Note identified seven core principles for the introduction and use of benchmarks as well as 16 steps that the decentralised levels of Government (regions, woredas, kebeles, and communities) should undertake in identifying graduates. Graduation benchmarks are differentiated by region-with specific levels of assets for graduation identified that reflects price differentials. A Graduation Prediction System aims to predict the number of households graduating from the PSNP and the FSP each year. This prediction uses the region-specific benchmarks in combination with monitoring data from a livelihoods database.</p><p xml:id="_PjZBkAh">In a programme of evolving support, such indicators could also be used by programme managers to decide when and how the nature of support provided to households should change. These asset measures usually require creating an objective measure of assets or income. However, there are some challenges involved in this. Asset thresholds are very difficult to pin down as they are highly context specific. For instance, if a programme is serving rural farmers, then an appropriate asset bundle would include land and productive assets (such as farm instruments or machinery); but, in a peri-urban area where residents are farming very fertile land within a diversified activity portfolio, a much smaller land area might be enough for a sustainable livelihood. Furthermore, setting a specific threshold, in terms of a number of assets, or the value of assets (or income), above which a participant no longer qualifies for programme support is often somewhat ad hoc, or programme resource dependent. And, of course, in many national programmes the specific threshold is politically defined.</p><p xml:id="_HqCJugm">These types of indicators have been refined as graduation programmes have continued to evolve, and thresholds are increasingly incorporating multiple other indicators of wellbeing and livelihood into composite indices, or into various algorithms that determine Enabling graduation for whom? whether a household exits from a programme. This is because other things besides assets have been found to be important for graduation, such as, nutrition, health, education, clean water, provision of services and participation in associations/social networks <ref type="bibr" target="#b0">(Ahmed et al., 2016;</ref><ref type="bibr" target="#b2">Banerjee et al., 2015)</ref>.</p><p xml:id="_9UgWSRa">Once indicators for programme exit have been defined, then exit rates can be calculated -that is, the number or percentage of beneficiaries leaving a programme. However, it is important to note that graduation rates are very sensitive to the indicators selected and the benchmarks. For instance, 85 per cent of households on the Chars Livelihoods Programme (CLP-2) were assessed as having graduated after receiving 18-20 months of support. A sensitivity analysis reveals how this figure changes if the graduation threshold is adjusted: 65 per cent of households achieved 7/10 criteria, 37 per cent achieved 8/10 criteria, but only 2 per cent of 1640 households surveyed achieved all 10 criteria <ref type="bibr" target="#b18">(Pritchard, Kenward, &amp; Hannan, 2015)</ref>.</p><p xml:id="_qp2q7B8">Even the most sophisticated of the above measures have limitations, as they only tell us about a household's circumstances at a single point in time. They might be intended to measure the likelihood of a household managing to sustain its livelihood over the longer term, but they can only ever be proxies for this. Robust measurement of sustained change in livelihoods because of a graduation programme takes us into the arena of impact evaluation, and preferably a mixed-method impact evaluation. For a rigorous analysis that allows causal inference, an evaluation must be designed as an experiment with a treatment group (beneficiary), a control group (households that are the same in characteristic as the treatment, but without the programme), and the collection of impact indicators over multiple points in time, including prior to the programme, from the same households. Ideally, the impact evaluation will continue to track the same households for at least 2 years post-programme to see if any benefits are sustained and are attributable to the programme. Qualitative analysis alongside such a survey can also help to unpack the pathways through which people are exiting extreme poverty. Few graduation programmes set up such robust impact evaluation systems, and this is a weakness in measuring graduation.</p><p xml:id="_rmZzqqn">We advocate strongly that this latter method-a robust impact evaluation that monitors change during and at least 2 years after an intervention-provides a superior method for measuring livelihood change. Fortunately, we have the data from an intervention in Rwanda, to allow us to use this method. Furthermore, we explicitly choose not to refer to programme exit as 'graduation' as this is simply a point in time that does not provide any sense of direction or shape of the trajectory. Instead, we talk of graduation as a dynamic process that can only be evaluated in retrospect and with longitudinal data. Instead of measuring thresholds at one point in time, our approach to 'graduation' is based on tracking livelihood trajectories over time. The following sections propose a new way of 'measuring' or monitoring graduation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4" xml:id="_UXdymRB">TESTING THE IDEAS-A CASE IN RWANDA</head><p xml:id="_epA28Yv">Drawing on a survey that was co-designed and co-managed by the authors to evaluate a project funded and implemented by Concern Worldwide in Rwanda, we investigate reasons for the heterogeneity in livelihood trajectories. The Concern Worldwide programme was designed to enable extremely poor households to sustainably exit poverty. The programme aims to 'unleash the productive capacity' of poor households and increase R. Sabates-Wheeler et al.</p><p xml:id="_YZCv4UR">their resilience to shocks 3 by providing support to meet their basic needs and enable them to increase their productivity and develop livelihood strategies that enable them to generate sufficient income to exit and remain out of poverty. It also aims to build confidence and enable the participants to plan for their future. The programme has adapted the Graduation Model 4 to the Rwandan context, combining protection and promotion aspects and including cash transfers to meet basic needs. Other elements of the programme include sensitisation and reinforcement of savings promotion activities, skills development and the provision of resources to enable the development of productive income generating activities, facilitating of community-based support mechanisms to enhance non-farm employment and capacity development to graduate into access to credit.</p><p xml:id="_bJdNVQk">The programme provides support to all beneficiary households and this support is removed between 12 to 18 months regardless of the household situation. In other words, the programme was not defined with a specific exit threshold in mind, but was instead built on a theory of change that stated that the time-limited programme support would improve the livelihoods of beneficiaries and that this positive change would be sustained postprogramme. Essentially, the support would be sufficient to kick-start households into a virtuous upward trend. The research component of the programme was designed in order to capture, empirically, different outcomes and changes over time on a number of key indicators which could the help to evaluate whether the support led to a sustained improvement in households' livelihoods. Hence, thresholds emerge from the empirical work, they are not established a priori.</p><p xml:id="_yXkx7Vh">The project was implemented in two rural sectors, Kibeho and Rusatira, in the Districts of Nyaruguru and Huye in South Province. Kibeho is a remote rural area but Rusatira is less remote and located near to the main road between Kigali and Huye. The sectors were selected based on an analysis of the poverty and vulnerability profiles of the two districts, taking into account the opinion of local government leaders and under the condition that the sector had not benefitted previously from the Government's social protection programme (VUP). Three sectors within each district were selected for the implementation of the programme and two sectors for the selection of control group households.</p><p xml:id="_9NupYwJ">The selection of beneficiary and control group households was undertaken through a participatory process called Ubudehe, that is used in communities throughout rural Rwanda to assess poverty rates and eligibility for government programmes such as VUP and mutual health insurance <ref type="bibr" target="#b23">(Sabates-Wheeler, Yates, Wylde, &amp; Gatsinzi, 2015)</ref>. Using a form of participatory wealth ranking, community leaders and trained volunteers placed all households in each village (the smallest administrative unit in Rwanda) into one of six poverty categories, from destitute to wealthy. 5 The classification was agreed by all adults in the village. Eligible households were defined as those assigned to one of the bottom two Ubudehe categories. Concern Worldwide staff then validated the selection using their own targeting criteria, to ensure that the poorest and most vulnerable households were identified. These households had to have at least one adult member who was able to work, were landless or had small land holdings (less than 0.25 of hectare), had no cattle, were not supported by other programmes, were not engaged in any income generating activity and did not have a technical or a vocational school diploma.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.1" xml:id="_7PkPNEs">Data</head><p xml:id="_rnN7u2j">Following this selection procedure, 800 beneficiaries were identified from 31 villages (19 villages in Rusatira District and 12 villages in Kibeho District) and 200 control group households from 23 villages (15 villages in Rusatira District and eight villages in Kibeho District). A household questionnaire was designed and piloted by the authors in consultation with staff from the Concern Rwanda office. The aim of the survey was to capture socioeconomic background information for programme participants and nonparticipants as well as relevant outcome indicators which were the focus of the Graduation programme. Data was collected by a team of enumerators trained by one of the authors using digital devices. Baseline data was collected for all beneficiaries (800) and control group (200) households in August 2012, just before the programme started. After 12 months of receiving cash support, in August 2013, data was collected again but this time for a random selection of 50 per cent of the beneficiaries and for all control group households. The aim of this second survey was to measure changes in socioeconomic circumstances of programme beneficiaries that were likely to be the result of the support received. Finally, in August 2015, 2 years after the last disbursement of the cash transfer (or 3 years after the start of the programme) another survey was implemented with the same 400 selected beneficiaries and all control group households in order to measure sustainability of changes in different outcomes. This paper uses data from three survey rounds in order to operationalise the concept of graduation trajectories. <ref type="foot" target="#foot_1">6</ref>The household surveys were supplemented with qualitative research that had two main objectives: to identify characteristics of households that enabled or constrained their potential for graduation, and to capture social impacts of the programme that were not amenable to quantification. A total of 38 focus group discussions were conducted with over 300 programme participants, who were classified as either 'fast movers' or 'slow movers'. In-depth case study interviews were also conducted with four purposively selected 'fast movers' and four 'slow movers'. Finally, key informant interviews were conducted with stakeholders ranging from programme staff to national and local government officials, as well as traders, business owners and microfinance institutions, to review how effectively the programme promoted livelihood activities and access to financial services.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.2" xml:id="_cXYBeD3">Measuring Outcomes</head><p xml:id="_Xb5cjsK">For this analysis, we specify three outcome indicators that we believe represent two important aims of social protection and of the specific programme in question. We include indicators which are operationalised as follows:</p><p xml:id="_xPvmJub">First, cash transfers aim to protect the most poor and vulnerable against hunger and destitution, therefore we construct a measure of Food Security and Basic Needs (FS&amp;BN). We generate an additive compound variable, obtained from the number of meals that adults ate within the day previous to the survey, the diversity in the diet that adults eat in the household, affordability of medicines when a member of the family was ill, and the tenure and quality of housing. Each of these indicators have possible values ranging from 0 to 3. In the case of meals per day 3 represents the maximum number of meals, whereas in the case of the dietary diversity variable, 0 reflects low diversity (only eat food from one category) while 3 shows high diversity (eat food from four or more different categories). In the case of affordability of medicines: never (0) to always (3), and in the case of housing we combined rental, government provision and own housing with whether the house is built with bricks. A rental house built with trees is considered the lowest quality and most vulnerable tenure (0) whereas own housing built with bricks is considered a more secure tenure and better quality (3). Having an equal value and range means that our additive index provides the same weight to each of the factors composing the new variable. During baseline, the average level of this index for control group households was 4.4 and for beneficiaries it was 4.2. The range of this measure is 0 to 11. Second, social protection aims to build up productive household assets, and by consequence, household ability to be resilient to shocks and stresses. The main productive assets for which data was collected relate to livestock. We construct a tropical livestock units (TLUs) variable that is additive across different internationally agreed weights given to different categories of livestock. 7  Third, we create an asset index using information provided by households in terms of the goods owned at home. These include casseroles, basins, jerrycans, spoons, chairs/benches, plates, hoes and radios. For each item, respondents provided the number owned by the household. This asset index, while arguably not representatives of investment assets, nonetheless provides a measure of wealth. A set of prices for these items were collected in the local market in 2012 and are used to estimate the monetary value of the assets. An exchange rate of 800 Franc per 1 USD is used to present results in USD. Exchange rates and local prices are fixed in the paper as we are interested to value the change over time in the asset index which is because of changes in quantities owned by households. During baseline, the average value of these goods was 11.8 USD for control group households and 14.3 USD for beneficiaries (point estimates not statistically significant at standard p-value of 0.05).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.3" xml:id="_bPe4jWP">Establishing a programme effect</head><p xml:id="_5reFquc">Before we explore the possible trajectories over time for these three indicators, we establish the programme effect 36 months after the baseline (or 24 months after the end of the cash transfers). In order to do this, we use difference-in-differences estimation techniques including controls for baseline differences in household characteristics, including whether the household head is a single female, highest educational attainment of the adults in the household, family size, number of rooms in the house, whether the 7 Tropical Livestock Units are livestock numbers converted to a common unit (in 2005). Conversion factors are: cattle = 0.7, sheep = 0.1, goats = 0.1, pigs = 0.2, chicken = 0.01. Factors taken mostly from <ref type="url" target="http://www.lrrd.org/lrrd18/8/chil18117.htm">http://www.lrrd.  org/lrrd18/8/chil18117.htm</ref>, except for cattle.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_XvpqV4Z">Enabling graduation for whom?</head><p xml:id="_cQRwGcV">house had floors made of packed earth, whether the house had tiled roofs, whether the household owned their kitchen and if the kitchen was inside the house, outside the house, and whether it was a good quality kitchen. We also include regional controls to account for differences between the two sector locations.</p><p xml:id="_Hz7sn4Y">Results from the difference-in-differences are shown in Table <ref type="table" target="#tab_0">1</ref>. For our indicator of Food Security and Basic Needs (FS&amp;BN) we show that the average differences in baseline level of this indicator between treatment and control group households is not statistically significant (Diff = 0.18, p-value = 0.34). After 36 months, the relative difference between treatment and control group over time is 1.97 and is statistically significant at 1 per cent level. This indicates that beneficiaries achieved, on average, higher levels of the FS&amp;BN index over time than control group households. In terms of the value of assets, our results indicate again that there are no average differences in the baseline value of assets once we account for controls in the multinomial model. Over time, beneficiaries increased the value of assets by over 9 dollars relative to the control group. Finally, TLUs also show a similar trend, with no average differences during baseline but a significant estimated impact of 0.26 TLUs in favour of beneficiaries relative to control group over time. While there is a clear programme effect, the results show that the control group experienced a substantial increase in the number of livestock owned over the evaluation period, from 0.08 TLU to an average of 0.24 TLU (this is a threefold increase). This is because of an increase in livestock among very poor households (control and beneficiary) in general, owing to the Girinka (one cow per family) programme and other NGO programmes, but also to the overall improvement in economic growth and welfare of the entire population.</p><p xml:id="_xf5Az5E">Overall, these are positive results in terms of average programme effects. Participants became more food secure and owned more assets and livestock, thanks to their participation in the programme. These results are consistent across other outcomes not shown here, such as the proportion of households who owned their dwelling, and dietary diversity for adults <ref type="bibr">(Sabates, Devereux, &amp; Sabates-Wheeler, 2015a</ref><ref type="bibr">, 2015b)</ref>.</p><p xml:id="_WqrMpn2">From these 'average effect' analyses we can conclude that the programme has been a resounding success; but the important aspect of this paper is to move beyond average </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_nUjJmFq">R. Sabates-Wheeler et al.</head><p xml:id="_eGMtRSk">programme effects from baseline to endline (or even beyond endline) and to operationalise livelihood pathways after the end of the cash transfer.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.4" xml:id="_yd5yT4g">Operationalisation of Trajectories in Outcomes for Programme Clients</head><p xml:id="_nuQVcBJ">Four broad trajectories are described above in order to conceptualise sustained improvement in livelihoods over time: improvers, decliners, crashing out and late improvers. Using each of the three outcome indicators we operationalise these livelihood trajectories for the case of the Graduation Programme in Rwanda as follows. First, we obtain the value of the indicator that will allow for less than 15 per cent inclusion targeting error during baseline. 8 For the case of food security and basic needs, 21.1 per cent of all participants had a value of 5 or higher on this indicator during baseline, 7.6 per cent had a value of 6 or higher and 2.4 per cent had a value of 7 or higher. Therefore, we select the value of 6 or higher for the food security and basic needs indicator. For the case of the value of assets, 12 per cent of the households had a value of assets at baseline which was equivalent to less than the median of the value of assets at the end of the cash transfer period. Similarly, for TLU, 5.8 per cent of households had a value of livestock which was equivalent to less than the median of the value of livestock at the end of the cash transfer period. Both the 12 per cent of households according to assets and the 5.8 per cent of households according to livestock are considered to be targeting errors.</p><p xml:id="_Tk6assB">Having defined the value of the indicator at baseline, we then estimate the proportion of households that had crossed this value at the end of the cash transfer period. For the food security and basic needs indicator, 41.8 per cent of beneficiaries had a value of 6 or higher at the end of cash transfer period (up from only 7.6 per cent during baseline). For the value of assets and TLU, the baseline indicator was anchored to the median of the value of assets and TLU during end of cash transfer period. Hence, 50 per cent of beneficiaries crossed the value of assets threshold at the end of the cash transfers (up from 12 per cent during baseline) and 50 per cent of beneficiaries also crossed the value of the TLU threshold (up from 5.8 per cent during baseline).</p><p xml:id="_GXySt5M">So, the 'resilience' thresholds are defined as: a value of 6 or above for the food security and basic needs indicator; median value of assets at the end of cash transfer period; and median value of TLU at the end of cash transfer period. We obtain the value of the indicator at endline (2 years after the last cash transfer disbursement) to estimate if the trajectories have been sustained or not. These results are shown in Table <ref type="table" target="#tab_1">2</ref>, which demonstrates the proportion of households in each of the categories that define the trajectories. The results reveal large differences in the proportion of improvers between beneficiaries and control group households, with more than one-third of beneficiaries falling into this category but less than 1 per cent of control group households, in particular for value of assets and TLU. At the other end of the spectrum, there are clear differences on those described as crashing out. These were households for whom the value of the outcome was either always below the targeting level at baseline, or had dropped below the targeting level since exit. For the control group, a larger proportion reported this trajectory relative to beneficiaries for all three outcomes. The opposite direction of change for the decliners and late improvers shows some convergence. In other words, a larger proportion of beneficiary households than control households experienced a decline post-transfer. This is not that surprising, as a substantial number of beneficiary households may have come off the programme too early or were just not able to sustain the high levels of wellbeing that the regular transfers had provided to them. For the late improvers, we see that beneficiaries and control households are as likely to be on this path. In this sense, given that the control group are less likely to be on a declining path and equally likely to be late improvers, there may be some convergence of these groups over time, with any benefits from past programme participation being eroded for one group of households.</p><p xml:id="_PHup73d">There is another important observation from Table <ref type="table" target="#tab_1">2</ref>. The value of the outcome indicator at 36 months is indicative not only of the construction of the categories, but also of the differences between treatment and control groups. For all values of the outcome indicator (except one), clients had, on average, a higher position. For the value of the FS&amp;BN index, beneficiaries who were improvers achieved, on average, 7.66 compared with 7.00 for the control group. In addition, improvers were, on average, at a higher level on FS&amp;BN than other beneficiaries on different trajectories. The question is, therefore, which factors determine why some beneficiaries were able to maintain their position 24 months after the end of the cash transfer while others saw their welfare decline towards, and sometimes below, baseline targeting levels? Why did some beneficiaries not manage to achieve any improvement? Are there any factors associated with the likelihood of beneficiaries achieving positive impacts after leaving the programme?</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.5" xml:id="_QGJjvSQ">Findings and Regression Models</head><p xml:id="_aywzW56">In the tables below, we present the descriptive statistics of a range of factors that may affect livelihood trajectories. In line with the enablers and constrainers framework presented earlier, the factors are grouped by 'household characteristics', 'initial asset/resource availability' and 'shocks experienced during programme participation'. While our theory of change determines what our variable choice should be to provide some insights into various enablers and constrainers to livelihood change, we are constrained by the survey data in the variables we can actually include.</p><p xml:id="_sC2PT89">In terms of household characteristics, we include an indicator for whether the household was female-headed, the number of adults aged between 18 and 65 in the household (as a proxy for labour capacity), the dependency ratio (as measured by the number of children (under 7) and elderly (over 70) over the total working-age population), and the proportion of household heads who had some formal schooling. For initial assets and resources available in the household we include the proportion of households that cultivated land for farming, the proportion who owned livestock, the proportion with savings, initial baseline asset values and the percentage of households who were members of a cooperative. These baseline variables are indicators of resources available to households. To proxy for external environmental factors, we include indicators for self-reported shocks that affected the households between the end of the cash transfer and the two-year period post the cash transfer. Households reported the kind of shock: whether this was from climatic events such as droughts, excessive rainfall, floods or fires (climate shocks); whether it was from illnesses to Enabling graduation for whom? family members, crops, or livestock (which we denote as household shocks); or whether it was from increased prices or violence (which we denote covariate shocks). We also include a sector variable.</p><p xml:id="_rAWNF6T">The most obvious and straightforward comparison can be made between the improvers (those who were always on a positive trajectory since baseline) and the crashing outs (those who never experienced a positive change, and in fact fell below baseline levels). Table <ref type="table">3a</ref> presents statistics for food security and basic needs trajectories for these two categories. We see that 56 percent of those households categorised as 'crashing out' are female-headed, whereas only 37 percent of households that experienced sustained improvement are female-headed. We see also, as expected, that improvers have more working-age adults (2.44), as compared to crashing out households (2.08). Dependency ratios and level of formal education of the household, however, are similar for improvers and crashing out households.</p><p xml:id="_qPVjZNC">Results for value of assets and TLUs are similar to those found for the food security and basic needs indicator (see Table <ref type="table">3b</ref> and <ref type="table">3c</ref>), in that households in the improvers category have, on average, more working-age adults. For the case of livestock trajectories, however, the proportion of female-headed households is similar between improvers (42 per cent) and crashing outs (45 per cent). This may be because females take primary responsibility for</p><p xml:id="_XuBAcyZ">Table 3a. Measure of heterogeneity: trajectories based on food security and basic needs index a Measures of heterogeneity Trajectories based on nutrition and inclusion Improvers Crashing out Decliners Late improvers Wald test MNV test Household level % of female HH 0.37 0.56 0.39 0.42 5.61 5.46* # adults in hld (16 to 64) 2.44 2.08 2.11 2.16 9.62* 5.49* Dependency ratio 0.81 0.85 0.77 0.75 0.61 0.07 % HH with some formal education 0.48 0.52 0.40 0.37 1.91 0.09 Resources available @ baseline % who cultivate land 0.85 0.78 0.82 0.84 1.39 1.25 Proportion who owned livestock 0.29 0.24 0.28 0.24 0.90 0.47 % who saved at baseline 0.15 0.22 0.12 0.15 2.28 1.05 Asset value at baseline (in USD) 14.93 13.04 14.47 13.50 2.51 1.71 % member of cooperatives baseline 0.27 0.20 0.26 0.30 2.81 1.22 Shocks between 12 and 36 month survey Climate shock 0.40 0.38 0.33 0.27 4.28 0.06 Household shock 0.52 0.46 0.50 0.39 3.55 0.51 Covariate shock 0.29 0.32 0.26 0.25 0.88 0.18</p><p xml:id="_YZdDfYJ">Notes: Wald test is based on multivariate test for group differences in means across all groups. The statistic presented in the Wald test follows a Chi(2) distribution. Comparison between 'improvers' and 'dropping out' groups is shown by the MNV test which follows a Fisher's distribution (see <ref type="bibr" target="#b14">Krishnamoorthy &amp; Yu, 2004)</ref>. Asterisks *, ** indicate statistical significance at 5 and 1%, respectively.</p><p xml:id="_sW4MtWZ">a</p><p xml:id="_TdZzMcq">We do not have a variable for exposure to training since all beneficiaries were exposed to training and hence we are not able to differentiate between the training component in the estimate of impact.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_fRbxeBQ">R. Sabates-Wheeler et al.</head><p xml:id="_TnMswjf">small livestock or that more female-headed households chose rearing livestock as their micro-enterprise activity, given that livestock rearing was one of the most popular income-generating activities supported by the Graduation Programme. Still, for the case of assets trajectories, the proportion of female-headed households is lower from those in the improvers category (36 per cent) as compared to those in the crashing out category (56 per cent). Qualitative fieldwork, conducted as part of the same project, supports some of these statistical trends. Respondents identified several household-level enablers of improvers or 'fast movers', including a favourable household composition (two or more adults, low dependency ratio), home ownership (rather than being landless or renting), and market linkages (notably access to credit through joining cooperatives and tontines) <ref type="bibr" target="#b8">(Devereux &amp; Sabates, 2016)</ref>. Improver households also highlighted the importance of the training they received from the programme on topics ranging from business skills to family planning, conflict resolution and HIV/AIDS awareness. One man said: 'I had never been trained before on anything.'</p><p xml:id="_nXTpt5Z">Most households classified as decliners or drop-outs faced a series of unpredictable personal, health, or livelihood shocks that were typically beyond their control and overwhelmed their capacity to cope. For example, during her 2 years of participation in the programme, one female-headed household had her house destroyed under the</p><p xml:id="_vqmMHUv">Table 3b. Measure of heterogeneity: trajectories based on value of assets Measures of heterogeneity Trajectories based on value of assets Improvers Crashing out Decliners Late improvers Wald test MNV test Household level % of Female HH 0.36 0.56 0.29 0.48 16.97** 8,74** # adults in hld (16 to 64) 2.49 1.99 2.41 1.92 26.06** 14.22** Dependency ratio 0.77 0.84 0.79 0.78 0.41 0.36 % HH with some formal education 0.46 0.43 0.53 0.44 2.25 0.22 Resources available @ baseline % who cultivate land 0.90 0.76 0.85 0.78 9.80* 7.73** Proportion who owned livestock 0.30 0.19 0.32 0.23 6.09 3.97* % who saved at baseline 0.16 0.15 0.16 0.13 0.55 0.05 Asset value at baseline (in USD) 16.74 9.80 17.28 11.17 71.50** 45.58** % member of cooperatives baseline 0.24 0.23 0.30 0.30 1.87 0.03 Shocks between 12 and 36-month survey Climate shock 0.40 0.39 0.33 0.31 4.20 3.01 Household shock 0.53 0.51 0.47 0.42 1.96 1.03 Covariate shock 0.31 0.32 0.25 0.24 6.70 0.55 Notes: Wald test is based on multivariate test for group differences in means across all groups. The statistic presented in the Wald test follows a Chi(2) distribution. Comparison between 'improvers' and 'dropping out' groups is shown by the MNV test which follows a Fisher's distribution (see Krishnamoorthy &amp; Yu, 2004). Asterisks *, ** indicate statistical significance at 5 and 1%, respectively.</p><p xml:id="_eRVtUvy">Enabling graduation for whom?</p><p xml:id="_9drV4rD">government's 'thatch eradication' campaign, her goat and pigs died, and her neighbours accused her of being a thief. As a result, she lost her confidence and self-respect, and her programme-supported income-generating activity collapsed (Ajambo Akaliza, Ignatieva, Martin, &amp; Swatton, 2016: 13). Another typical decliner pathway is illustrated in Box 1 below, where multiple, compounding shocks in the context of high vulnerability appear to cause the decline in livelihood trajectory.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_mu7yjxM">Box 1. Case study: 'Decliners'</head><p xml:id="_ENkspKz">Chantal Kaburanga and Beltilda Nawunyangira were selected into the Graduation Programme because of their adverse initial conditions. Chantal was an HIV-positive single mother with 3 young daughters, while Beltilda was a widow with 4 children, one of whom had a mental health disability. Both Chantal and Beltilda were homeless when they joined the programme, and both allocated a significant proportion of their cash transfers to building houses. However, they never completed their new homes, so they remained homeless after the cash transfers phase ended. Both women bought health insurance, clothes, more and better food, and sent their children to school while they were receiving cash transfers.</p><p xml:id="_VkRRGMC">Chantal bought some rabbits and a pig to rear, but she had no space for the pig so she gave it to a friend to rear instead. Her rabbits were stolen, and she was often too sick to work. Beltilda also faced severe health issues: she was diagnosed with</p><p xml:id="_9QDQeUx">Table 3c. Measure of heterogeneity: trajectories based on tropical livestock units (TLU) Improvers Crashing out Decliners Late improvers Wald test MNV test Household level % of Female HH 0.42 0.45 0.40 0.37 1.36 0.15 # adults in hld (16 to 64) 2.54 2.03 2.19 2.20 14.12** 14.11** Dependency ratio 0.72 0.77 0.97 0.73 4.39 0.24 % HH with some formal education 0.44 0.44 0.43 0.58 2.09 1.59 Resources available @ baseline % who cultivate land 0.92 0.84 0.74 0.81 14.24** 3.12 Proportion who owned livestock 0.33 0.18 0.33 0.23 9.33* 6.53* % who saved at baseline 0.13 0.18 0.14 0.16 1.13 0.93 Asset value at baseline (in USD) 15.79 12.37 14.65 14.17 8.51* 8.36** % member of cooperatives baseline 0.38 0.21 0.25 0.20 9.27* 6.73** Shocks between 12 and 36-month survey Climate shock 0.32 0.37 0.38 0.35 0.90 0.51 Household shock 0.51 0.49 0.46 0.47 0.60 0.08 Covariate shock 0.30 0.29 0.29 0.24 1.17 0.03 Notes: Wald test is based on multivariate test for group differences in means across all groups. The statistic presented in the Wald test follows a Chi(2) distribution. Comparison between 'improvers' and 'dropping out' groups is shown by the MNV test which follows a Fisher's distribution (see Krishnamoorthy &amp; Yu, 2004). Asterisks *, ** indicate statistical significance at 5 &amp; 1%, respectively.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_3ehJ6Rz">R. Sabates-Wheeler et al.</head><p xml:id="_peHmAZt">tuberculosis, was hospitalised and subsequently spent much of her cash transfers on medical bills, drugs and recommended foods.</p><p xml:id="_WHYsXeF">Both Chantal and Beltilda experienced a loss of social capital after they joined the Graduation Programme. They found it more difficult to get help from neighbours and other community members than before, because they were perceived as being better off thanks to the support they received from the NGO. For these reasons, there was little evidence of sustainable improvements in the wellbeing of either household. <ref type="bibr" target="#b19">Sabates, Devereux, and Abbott (2013)</ref> concluded that these household should probably be considered for inclusion on a permanent social assistance programme, rather than a graduation-oriented livelihood programme.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_fg6fqFg">Source: Sabates et al. (2013).</head><p xml:id="_qeaA9s5">Looking at initial assets as a possible predictor of livelihood trajectory, no obvious differences emerge between the different trajectories for the FS&amp;BN indicator. However, for the TLU and assets indicators a higher percent of the improvers cultivated land at baseline, and they also had much larger land holdings than those who dropped out as well as those who witnessed a decline in TLUs post-transfer (only for TLU). The complementary relationship between land and livestock is the likely explanation for this improvement. Tenure security is also higher for the improvers as compared to those who dropped out. Ownership of land, per se, appears not to have a strong relationship with trajectories. Cooperative membership among the Improvers households at baseline was 38 per cent as compared to 21 per cent among the crashing out households using the TLU trajectories, but no differences in cooperative membership emerge when using trajectories based on assets.</p><p xml:id="_qWcFWbv">The information on shocks, in the lower parts of the tables, suggests little variation in the way in which shocks are affecting households and whether these shocks had any significant impact on livelihood trajectories (see Tables <ref type="table">3a</ref>, <ref type="table">3b</ref> and <ref type="table">3c</ref>). If anything, we may see that late improvers experienced, on average, less shocks (although there is no statistical difference when using a chi-squared test for independence between these variables).</p><p xml:id="_sZsdpNr">In order to test econometrically for the relationship between these variables and outcome trajectories, we specify a multinomial logit model. The intention is to model the probability that the beneficiaries belong to each of the trajectories and whether the probabilities depend on the value of household factors, initial resources and shocks (described in Table <ref type="table">3a</ref>, 3b and 3c). In order to simplify the interpretation of parameters, we estimate the relative risk ratio for each of the variables in predicting the observed trajectory. Table <ref type="table" target="#tab_2">4</ref> shows the results from these estimations.</p><p xml:id="_efwkhkb">The signs and significance of key variables are consistent and as expected. In terms of household level constrainers/enablers, we see that the odds of being on an improver livelihood trajectory for FS&amp;BN, relative to a crashing out trajectory, are approximately half for female-headed households than for male-headed households holding all other variables constant. That is, the trajectories are obviously gendered-male-headed households are better placed to take advantage of opportunities provided by the programme. The same pattern holds for the value of assets, but not for livestock. As suggested in the qualitative work, the amount of effective labour available in the household (as proxied by Num Adults (16-64)) is positive and significant for the improvers and Enabling graduation for whom? [0.311]</p><p xml:id="_tTfnuE9">[0.719]</p><p xml:id="_mbnvGhb">[0.454]</p><p xml:id="_pCP7Xt8">[0.254]</p><p xml:id="_aqA7PUf">[0.334]</p><p xml:id="_b2YN77x">[0.425]</p><p xml:id="_vGNDaPW">[0.360]</p><p xml:id="_VFF6Wz4">[0.252] Kibeho (vs Rusatira) 1.200 1.010 0.898 4.039*** 1.664* 1.016 4.543*** 2.173*** 1.139 [0.313]</p><p xml:id="_FnzsM4V">[0.273]</p><p xml:id="_T7GmHr2">[0.270]</p><p xml:id="_esSUfPb">[1.121]</p><p xml:id="_T7MdqbY">[0.471]</p><p xml:id="_xceNhfK">[0.296]</p><p xml:id="_4Jvevbg">[1.326]</p><p xml:id="_yhuX7sg">[0.613]</p><p xml:id="_ncFM8Ny">[0.296] Constant 0.208*** 0.488 0.572 0.0113*** 0.0300*** 0.324** 0.0219*** 0.210** 0.250** [0.121]</p><p xml:id="_XPW6JJt">[0.292]</p><p xml:id="_My3aBjk">[0.386]</p><p xml:id="_fu5uFCQ">[0.00720]</p><p xml:id="_yp99Vng">[0.0186]</p><p xml:id="_keGtVwa">[0.177]</p><p xml:id="_tVM2bXq">[0.0176]</p><p xml:id="_662kY2F">[0.152] </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_ZRnJxS2">R. Sabates-Wheeler et al.</head><p xml:id="_xfB3Ahx">decliners in comparison to those crashing out, across all outcome indicators. This can be interpreted as, for an increase by one adult in labour availability, the odds of being on an improver trajectory relative to crashing out is expected to increase by 1.7 times for the FS&amp;BN outcome, by 1.97 times for the asset outcome and by 1.94 times for the livestock outcome. The same pattern holds for the decliners relative to crashing out for assets and livestock outcomes, but the actual values are less, across the board, than for the improvers, implying that overtime those with more labour capacity are more likely to derive sustained improvement from the Graduation programme. The dependency ratio variable results are also as expected, with a unit increase in the dependency ratio reducing the odds of a household being on an improver trajectory across the outcome indicators. Female headedness, labour availability and dependency ratios therefore matter in how households are able to take advantage of livelihood support over time from social protection programmes.</p><p xml:id="_ZewKEYN">For the 'initial conditions' constrainers and enablers, we see that baseline levels have no significant effects on FS&amp;BN trajectories. This is perhaps not surprising, as the FS&amp;BN indicator is constructed with a number of factors, such as number of meals eaten and dietary diversity, that require less influence from a strong initial position in assets or livestock to maintain a sustained trajectory. That is, you do not need assets or livestock to be able to improve your basic needs. It is perhaps the first thing that households will try to secure, regardless of assets.</p><p xml:id="_d3P64rn">For the asset and livestock outcome indicators, the initial levels are as expected. The initial amount of land cultivated and initial levels of assets owned by the household are significant and positively related to an improver pathway for asset outcomes. Initial ownership of livestock is also significant and positively related to improvers for the livestock outcome.</p><p xml:id="_gRWsXEb">Finally, enablers and constrainers related to external environment were proxied through self-reported shock exposure and a fixed effect dummy for sector. These findings seem counter-intuitive. Most of the shock variables are not significant. The one that is indicates that the odds of being on an improver trajectory relative to crashing out are twice as high if the household has experienced a climate shock.</p><p xml:id="_38PjsSv">A striking result comes from the strongly significant parameter on the sector variable for the assets and livestock outcomes. There is a large context effect, indicating that improving households are much more likely to come from Kibeho than Rusatira. Kibeho is a remote rural sector, very different from Rusatira which is less remote and located near to the main road between Kigali and Huye. The sector dummy variable is clearly proxying for a range of factors that have not been specifically identified in the survey data, such as limited market linkages, poorer service delivery and physical remoteness. One would expect that a remote sector would be more likely to put households at risk of following a crashing out path, yet we find the opposite. Perhaps this is because of the fact that remoteness actually serves to protect households from market and price fluctuations, or perhaps the graduation programme alleviated binding income and asset constraints that did indeed 'unleash the productive capacity' of the poor. Without more information on the sites and the specific context it is difficult to understand this significant relationship.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5" xml:id="_4cS5Esq">IMPLICATIONS FOR GRADUATION PROGRAMME AMBITIONS</head><p xml:id="_yC8k7vg">In this paper, we have used a novel data set from a graduation programme in Rwanda to explore the heterogeneous livelihood pathways that programme participants follow during Enabling graduation for whom?</p><p xml:id="_xzKHEC5">the programme period as well as after they leave the programme. Heterogeneity in programme participants' households and circumstances is typically not catered for during targeting, implementation or beneficiary removal from social protection programmes. This is largely because: (i) indicators of poverty for targeting do not differentiate well between different needs (i.e. structurally poor versus transient poor), and; (ii) the blue print approach of many smaller programmes mean that support is time-limited resulting in a large proportion of households being moved off a programme before they have reached an adequate threshold. In this latter case, there is simply not enough time or resources to differentiate between the different needs of different households. Ignoring, or overlooking, heterogeneity of pathways and impacts in the evaluations of cash transfer programmes could severely undermine intended programme results.</p><p xml:id="_yghwTan">In this paper we show that understanding and measuring livelihood trajectories and change will be sensitive to the outcome being measured as well as the type of households and context being considered. In our analysis it is clear that some household characteristics, such as gender of household head and labour availability, will affect trajectories of change; yet, the impact of initial resources will depend on what outcomes are being measured and whether there are complementarities between them, for instance, between livestock, labour and land assets. Furthermore, our findings show that location is a critical factor for enabling households to effectively use any social protection to their advantage. Context is an obvious determinant and influencer of livelihood trajectories; thus, reinforcing the importance of a multi-sectoral strategy for supporting livelihoods. In our case, and in the context of rural livelihoods, this would require a rural investment strategy that builds linkages to social protection interventions. While our quantitative analysis did not shed light on the effects of shocks on livelihood trajectories, the qualitative work suggests that the external shock environment as well as the nature of, and frequency of, the shocks can set some households on declining livelihood pathways. More attention must be paid to this when designing livelihood packages.</p><p xml:id="_6vaZhev">Recognising the multiple pathways of livelihood change and determinants of these pathways has implications for deciding how and when a household should exit from a cash transfer or graduation programme. Where is the appropriate threshold and when is the best moment to decide to remove a household from a social protection programme? Our multiple survey rounds reveal that the number of beneficiaries who exceeded the 'resilience' thresholds of different indicators varied from one point in time to the next-endline and follow-up. Taking the long-view of trajectories (at 36 months) we see that both improvers and decliners looked very similar, on average, at endline (the point of programme exit), with both groups benefitting significantly from the Concern-Worldwide support, yet at follow up a large proportion have declined in welfare to less than the endline levels. Does this imply that they had been prematurely moved off the programme? Our analysis suggests that it probably does, mainly because these households, on average, have different characteristics-a specific gender profile, less adult working labour and living in an environment less conducive to livelihood improvements. Therefore, we would suggest that certain types of households need longer on a programme, as well as additional support to local context and enabling factors for graduation. Our research shows that an empirical 'trajectory' approach that tracks progress on alternative indicators over time is a more appropriate measure of sustainability of impacts overtime (or graduation outcomes) than a 'threshold' approach based on a single indicator at a point in time. Our research has made the case for this approach in future evaluations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_JmZPKcG">R. Sabates-Wheeler et al.</head><p xml:id="_cYFFFNR">What does this all mean for future programming and policy? Implications have to do with: (i) targeting effectiveness; (ii) appropriate support and duration of support to different groups; (iii) effective monitoring and evaluation, and; (iv) the potential of sustained livelihood change for, and thus the required support required by, different groups. In other words, there is little point making broad generalisations about how a programme will achieve specific outcomes if heterogeneity exists on multiple levels. Dominant narratives from evaluations of graduation programmes-based on simplified enabling contexts-that previously identified gender, dependency ratios and prior asset ownership as explanations for the discrepancies in the sustainability of outcomes, can no longer be taken as sufficient. In our case, it is clear that if a graduation threshold had been identified as the end of programme threshold that we empirically identified, then all but the 'improvers' would have been removed from the programme prematurely. In other words, different households need different types of support for different lengths of time. In all contexts, social protection programmes form part of a multiplicity of interventions aimed at enhancing peoples' ability to sustain improvements in their lives and livelihoods. A 'leave-no-one-behind' agenda urges us to aspire to coordinating and delivering the appropriate combination of interventions to different population groups in different contexts.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc xml:id="_awsaDvZ">Figure 1. A livelihood trajectory when supported by adequate cash and/or asset transfers [Colour figure can be viewed at wileyonlinelibrary.com]</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 .</head><label>2</label><figDesc xml:id="_xqW2kun">Figure 2. Livelihood trajectories during and post cash transfer [Colour figure can be viewed at wileyonlinelibrary.com]</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><figDesc xml:id="_ZKsXugZ">Worldwide Graduation Data. Relative Risk Ration and [SE in brackets]. Asterisks indicate ***p &lt; 0.01, **p &lt; 0.05, *p &lt; 0.1.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc xml:id="_T5awywz">Difference-in-difference estimate of programme impact for different outcomes</figDesc><table><row><cell></cell><cell>Baseline</cell><cell>12 Months</cell><cell>36 Months</cell><cell>Trend</cell></row><row><cell cols="2">Food security and basic needs</cell><cell></cell><cell></cell></row><row><cell>Control</cell><cell>4.40</cell><cell>4.15</cell><cell>4.30</cell></row><row><cell>Beneficiary</cell><cell>4.21</cell><cell>6.42</cell><cell>6.19</cell></row><row><cell>Baseline diff:</cell><cell>0.18 [0.19]</cell><cell></cell><cell>D-in-D 36 months</cell><cell>1.97 [0.18]**</cell></row><row><cell>Value of assets</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Control</cell><cell>$ 11.76</cell><cell>$ 15.06</cell><cell>$ 14.19</cell></row><row><cell>Beneficiary</cell><cell>$ 14.32</cell><cell>$ 27.36</cell><cell>$ 25.63</cell></row><row><cell>Baseline diff:</cell><cell>À0.16 [0.91]</cell><cell></cell><cell>D-in-D 36 months</cell><cell>9.43 [0.82]**</cell></row><row><cell>TLU</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Control</cell><cell>0.08</cell><cell>0.09</cell><cell>0.24</cell></row><row><cell>Beneficiary</cell><cell>0.08</cell><cell>0.37</cell><cell>0.46</cell></row><row><cell>Baseline diff:</cell><cell>À0.01 [0.02]</cell><cell></cell><cell>D-in-D 36 months</cell><cell>0.26 [0.02]**</cell></row></table><note xml:id="_wF7mq8v"><p>Source: Impact Evaluation Data-Concern Worldwide Rwanda Notes. Asterisk *, **, represent statistical significant at 5% and 1% respectively. TLU uses subsample.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc xml:id="_MgABAse">Percent of households on different trajectories, by outcome at 36 months</figDesc><table><row><cell></cell><cell></cell><cell>%</cell><cell></cell><cell>1.37</cell><cell>3.42</cell><cell>81.51</cell><cell>13.7</cell><cell></cell><cell>119.7</cell></row><row><cell>TLU</cell><cell>Control</cell><cell>Value %</cell><cell>36 months</cell><cell>0.63 28.86</cell><cell>0.04 23.8</cell><cell>0.08 23.8</cell><cell>0.66 23.54</cell><cell></cell><cell>323.9</cell></row><row><cell></cell><cell>Clients</cell><cell>Value</cell><cell>36 months</cell><cell>0.74</cell><cell>0.08</cell><cell>0.10</cell><cell>0.61</cell><cell></cell></row><row><cell></cell><cell></cell><cell>%</cell><cell></cell><cell>0.68</cell><cell>9.59</cell><cell>76.71</cell><cell>13.01</cell><cell></cell><cell>146</cell></row><row><cell>Value of assets</cell><cell>Control</cell><cell>Value %</cell><cell>36 months</cell><cell>25 34.94</cell><cell>11 25.06</cell><cell>11 23.8</cell><cell>33 16.2</cell><cell></cell><cell>395</cell></row><row><cell></cell><cell>Clients</cell><cell>Value</cell><cell>36 months</cell><cell>36</cell><cell>16</cell><cell>15</cell><cell>33</cell><cell></cell></row><row><cell></cell><cell></cell><cell>%</cell><cell></cell><cell>6.85</cell><cell>19.18</cell><cell>56.85</cell><cell>17.12</cell><cell></cell><cell>146</cell></row><row><cell>Food security and basic needs</cell><cell>Clients Control</cell><cell>Value Value %</cell><cell>36 months 36 months</cell><cell>7.66 7.00 43.04</cell><cell>3.89 3.57 27.34</cell><cell>3.98 3.39 12.66</cell><cell>7.82 7.08 16.96</cell><cell></cell><cell>395</cell></row><row><cell></cell><cell>Category</cell><cell></cell><cell></cell><cell>Improvers</cell><cell>Decliners</cell><cell>Crashing out</cell><cell>Late</cell><cell>improvers</cell><cell>Total</cell></row></table><note xml:id="_3cbbUm8"><p>R.Sabates-Wheeler et al.   </p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 4 .</head><label>4</label><figDesc xml:id="_qGTbraA">Regression estimates from a multinomial specification, by trajectory and outcome</figDesc><table><row><cell>Tropical livestock units</cell><cell>Improvers Decliners L. improvers</cell><cell>1.112 0.919 0.828</cell><cell>[0.311] [0.255] [0.208]</cell><cell>1.940*** 1.560*** 1.388**</cell><cell>[0.293] [0.247] [0.199]</cell><cell>0.724 0.641** 0.880</cell><cell>[0.147] [0.116] [0.159]</cell><cell>0.685 0.722 0.881</cell><cell>[0.190] [0.198] [0.218]</cell><cell>2.730** 0.804 1.139</cell><cell>[1.153] [0.262] [0.351]</cell><cell>3.017*** 2.908*** 1.543</cell><cell>[1.038] [0.988] [0.512]</cell><cell>0.687 1.272 1.302</cell><cell>[0.287] [0.509] [0.492]</cell><cell>1.017 1.011 1.020</cell><cell>[0.0185] [0.0181] [0.0168]</cell><cell>1.876** 1.222 0.697</cell><cell>[0.588] [0.402] [0.223]</cell><cell>1.167 1.633 1.261</cell><cell>[0.458] [0.634] [0.433]</cell><cell>1.184 0.861 1.171</cell><cell>[0.409] [0.301] [0.355]</cell><cell>1.092 0.922 0.724</cell><cell></cell></row><row><cell></cell><cell>L. improvers</cell><cell>0.799</cell><cell>[0.220]</cell><cell>0.997</cell><cell>[0.165]</cell><cell>0.966</cell><cell>[0.180]</cell><cell>1.068</cell><cell>[0.295]</cell><cell>1.184</cell><cell>[0.393]</cell><cell>1.273</cell><cell>[0.468]</cell><cell>0.738</cell><cell>[0.334]</cell><cell>1.016</cell><cell>[0.0208]</cell><cell>1.148</cell><cell>[0.379]</cell><cell>0.725</cell><cell>[0.275]</cell><cell>1.223</cell><cell>[0.412]</cell><cell>0.875</cell><cell></cell></row><row><cell>Value of assets</cell><cell>Improvers Decliners</cell><cell>0.662 0.444***</cell><cell>[0.179] [0.127]</cell><cell>1.973*** 1.771***</cell><cell>[0.303] [0.287]</cell><cell>0.739* 0.798</cell><cell>[0.135] [0.154]</cell><cell>0.940 1.223</cell><cell>[0.251] [0.337]</cell><cell>2.410** 1.187</cell><cell>[0.900] [0.418]</cell><cell>1.315 1.172</cell><cell>[0.443] [0.398]</cell><cell>1.318 1.058</cell><cell>[0.534] [0.437]</cell><cell>1.092*** 1.117***</cell><cell>[0.0205] [0.0214]</cell><cell>0.585 0.772</cell><cell>[0.191] [0.255]</cell><cell>1.077 1.808</cell><cell>[0.414] [0.719]</cell><cell>0.809 0.657</cell><cell>[0.272] [0.229]</cell><cell>1.199 0.636</cell><cell></cell></row><row><cell>Food security and basic needs</cell><cell>Decliners L. improvers Improvers</cell><cell>0.656 0.668 0.554**</cell><cell>[0.174] [0.197] [0.142]</cell><cell>1.114 1.097 1.708***</cell><cell>[0.164] [0.178] [0.241]</cell><cell>0.950 0.929 0.694**</cell><cell>[0.173] [0.187] [0.120]</cell><cell>1.082 0.895 0.791</cell><cell>[0.283] [0.260] [0.201]</cell><cell>1.007 1.172 1.126</cell><cell>[0.325] [0.433] [0.357]</cell><cell>1.396 1.384 1.665</cell><cell>[0.485] [0.530] [0.554]</cell><cell>0.621 0.985 0.822</cell><cell>[0.254] [0.425] [0.314]</cell><cell>1.025 1.013 1.020</cell><cell>[0.0182] [0.0201] [0.0174]</cell><cell>1.598 1.387 1.345</cell><cell>[0.515] [0.495] [0.424]</cell><cell>1.213 0.713 2.014**</cell><cell>[0.441] [0.305] [0.719]</cell><cell>1.167 0.688 0.917</cell><cell>[0.377] [0.253] [0.291]</cell><cell>0.853 1.704 0.769</cell><cell>[0.275]</cell></row><row><cell></cell><cell>VARIABLES</cell><cell>Female HH</cell><cell></cell><cell># adults in hld (16 to 64)</cell><cell></cell><cell>Dependency ratio</cell><cell></cell><cell>HH formal education</cell><cell></cell><cell>Cultivate land</cell><cell></cell><cell>Owned livestock</cell><cell></cell><cell>Saved at baseline</cell><cell></cell><cell>Asset value at baseline (in USD)</cell><cell></cell><cell>Cooperative member baseline</cell><cell></cell><cell>Climate shock</cell><cell></cell><cell>Household shock</cell><cell></cell><cell>Covariate shock</cell><cell></cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_0"><p xml:id="_58TEqBd">Of course, there will always be some targeting error-both inclusions and exclusion. We account for this in our empirical analysis later in the paper.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="6" xml:id="foot_1"><p xml:id="_bwEkwhF">We are working with the second cohort for which we only have three rounds of data. For the first cohort, we have four rounds of data, but we are not including this cohort information here (as the indicators and controls to explain trajectories were absent in that data).</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xml:id="_jRDNYXp"> 8  <p xml:id="_rQnUvCS">We choose a value of 15 per cent as a conservative level based on the review findings by <ref type="bibr" target="#b6">Coady, Grosh, and Hoddinott (2003)</ref>: 64) that a 20 per cent targeting error is acceptable for the bottom two quintiles.</p></div>
+<div><head xml:id="_gWSekZ6">Enabling graduation for whom? ACKNOWLEDGMENTS</head><p xml:id="_gJj2qZ9">This paper is based on research that was commissioned by <rs type="funder">Concern Worldwide</rs>. The authors would like to thank <rs type="person">Alice Simington</rs>, <rs type="person">Odette Kampirwa Kweli</rs> and <rs type="person">Chris Pain</rs> for their support, as well as the <rs type="institution">Graduation Programme participants in Rwanda</rs> for their time in responding to the surveys.</p></div>
+<div><head xml:id="_Av66zu9">FUNDER</head><p xml:id="_hHBYUta">Funding for this study was provided by <rs type="funder">Concern Worldwide</rs>. The findings, interpretations and conclusions expressed in this paper are those of the authors and do not necessarily reflect the policies or views of Concern Worldwide.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="consolidated"  xml:id="b0">
+	<monogr>
+		<title level="m" type="main" xml:id="_6XTW7Rv">Transfer Modality Research Initiative: Impacts of combining social protection and nutrition in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Akhter</forename><surname>Ahmed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><forename type="middle">F</forename><surname>Hoddinott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shalini</forename><surname>Roy</surname></persName>
+		</author>
+		<idno type="DOI">10.2499/p15738coll2.134479</idno>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<publisher>International Food Policy Research Institute</publisher>
+			<pubPlace>Dhaka</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b1">
+	<monogr>
+		<author>
+			<persName><forename type="first">Ajambo</forename><surname>Akaliza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ignatieva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Martin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Swatton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+		<title level="m" xml:id="_v2Ym5CK">Graduation Programme, Rwanda: Adding to the Evidence: A Summary of Qualitative Research</title>
+		<meeting><address><addrLine>Kigali</addrLine></address></meeting>
+		<imprint>
+			<publisher>Concern Worldwide Rwanda</publisher>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main" xml:id="_Jma6Hqr">A multifaceted program causes lasting progress for the very poor: Evidence from six countries</title>
+		<author>
+			<persName><forename type="first">Abhijit</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Esther</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nathanael</forename><surname>Goldberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dean</forename><surname>Karlan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Osei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">William</forename><surname>Parienté</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeremy</forename><surname>Shapiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bram</forename><surname>Thuysbaert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Udry</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.1260799</idno>
+		<ptr target="https://doi.org/10.1126/science.1260799,1260799" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_R6DpVnu">Science</title>
+		<title level="j" type="abbrev">Science</title>
+		<idno type="ISSN">0036-8075</idno>
+		<idno type="ISSNe">1095-9203</idno>
+		<imprint>
+			<biblScope unit="volume">348</biblScope>
+			<biblScope unit="issue">6236</biblScope>
+			<date type="published" when="2015-05-15">2015</date>
+			<publisher>American Association for the Advancement of Science (AAAS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main" xml:id="_KdabrgE">Fractal poverty traps</title>
+		<author>
+			<persName><forename type="first">Christopher</forename><forename type="middle">B</forename><surname>Barrett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Brent</forename><forename type="middle">M</forename><surname>Swallow</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.worlddev.2005.06.008</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_r5BaDEy">World Development</title>
+		<title level="j" type="abbrev">World Development</title>
+		<idno type="ISSN">0305-750X</idno>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="15" />
+			<date type="published" when="2006-01">2006</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main" xml:id="_r6377j8">The economics of poverty traps and persistent poverty: An asset-based approach</title>
+		<author>
+			<persName><forename type="first">Michael</forename><forename type="middle">R</forename><surname>Carter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christopher</forename><forename type="middle">B</forename><surname>Barrett</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00220380500405261</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_WaUjh2W">Journal of Development Studies</title>
+		<title level="j" type="abbrev">Journal of Development Studies</title>
+		<idno type="ISSN">0022-0388</idno>
+		<idno type="ISSNe">1743-9140</idno>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="178" to="199" />
+			<date type="published" when="2006-02">2006</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main" xml:id="_23UGWPW">Poverty Traps and Natural Disasters in Ethiopia and Honduras</title>
+		<author>
+			<persName><forename type="first">Michael</forename><forename type="middle">R</forename><surname>Carter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Peter</forename><forename type="middle">D</forename><surname>Little</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tewodaj</forename><surname>Mogues</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Workneh</forename><surname>Negatu</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.worlddev.2006.09.010</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_3KapSfV">World Development</title>
+		<title level="j" type="abbrev">World Development</title>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Barrientos</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Hulme</surname></persName>
+		</editor>
+		<idno type="ISSN">0305-750X</idno>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="835" to="856" />
+			<date type="published" when="2008">2008</date>
+			<publisher>Elsevier BV</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main" xml:id="_KVbS92p">Targeting of Transfers in Developing Countries</title>
+		<author>
+			<persName><forename type="first">David</forename><surname>Coady</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Margaret</forename><surname>Grosh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><surname>Hoddinott</surname></persName>
+		</author>
+		<idno type="DOI">10.1596/0-8213-5769-7</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_y22umAV">The Targeting of Transfers in Developing Countries: Review of Experience and Lessons</title>
+		<meeting><address><addrLine>Washington DC</addrLine></address></meeting>
+		<imprint>
+			<publisher>The World Bank</publisher>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main" xml:id="_8S7vNmS">Dependency and graduation</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Devereux</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_cftdtpW">Frontiers of Social Protection Brief</title>
+		<meeting><address><addrLine>Johannesburg</addrLine></address></meeting>
+		<imprint>
+			<publisher>Regional Hunger and Vulnerability Programme</publisher>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="volume">5</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b8">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><surname>Devereux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sabates</surname></persName>
+		</author>
+		<title level="m" xml:id="_e9yJBV3">Enhancing the productive capacity of extremely poor people in rwanda: final evaluation report</title>
+		<imprint>
+			<publisher>Institute of Development Studies and Kigali</publisher>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note>Brighton: Centre for Social Protection</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main" xml:id="_JaaRqqN">Rural Livelihoods and Diversity in Developing Countries</title>
+		<author>
+			<persName><forename type="first">Frank</forename><surname>Ellis</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/oso/9780198296959.001.0001</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_mrYVdEG">Rural Livelihoods and Diversity in Developing Countries</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University PressOxford</publisher>
+			<date type="published" when="2000-06-29">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main" xml:id="_NWGqPpa">The effect of the productive safety net programme on household food consumption and dietary diversity in Ethiopia</title>
+		<author>
+			<persName><forename type="first">Mebratu</forename><surname>Feyisa</surname></persName>
+		</author>
+		<idno type="DOI">10.53936/afjare.2021.16(4).19</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_jsTAWY8">African Journal of Agricultural and Resource Economics</title>
+		<title level="j" type="abbrev">AfJARE</title>
+		<idno type="ISSN">1993-3738</idno>
+		<idno type="ISSNe">2521-9871</idno>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="283" to="289" />
+			<date type="published" when="2007">2007</date>
+			<publisher>African Association of Agricultural Economists</publisher>
+			<pubPlace>Addis Ababa</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main" xml:id="_XaHW7x9">The international measurement of poverty and anti-poverty policies</title>
+		<author>
+			<persName><forename type="first">David</forename><surname>Gordon</surname></persName>
+		</author>
+		<idno type="DOI">10.46692/9781847425560.004</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_UzGM3HV">World Poverty: New Policies to Defeat an Old Enemy</title>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Townsend</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Gordon</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Bristol</addrLine></address></meeting>
+		<imprint>
+			<publisher>Bristol University Press</publisher>
+			<date type="published" when="2002-09-25">2002</date>
+			<biblScope unit="page" from="53" to="80" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main" xml:id="_UTDjES8">Securing food, building livelihoods? A 15-year appraisal of Ethiopia&apos;s Productive Safety Net Programme</title>
+		<author>
+			<persName><forename type="first">John</forename><surname>Hoddinott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Guush</forename><surname>Berhane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Daniel</forename><forename type="middle">O</forename><surname>Gilligan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kalle</forename><surname>Hirvonen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Neha</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeremy</forename><surname>Lind</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rachel</forename><surname>Sabates-Wheeler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alemayehu</forename><forename type="middle">Seyoum</forename><surname>Taffesse</surname></persName>
+		</author>
+		<idno type="DOI">10.35188/unu-wider/2024/539-4</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_6zyhbq6">Food Security, Safety Nets and Social Protection in Ethiopia</title>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Pankhurst</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Rahmato</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>UNU-WIDER</publisher>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+		<respStmt>
+			<orgName>Forum for Social Studies and Wageningen University Disaster Studies</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main" xml:id="_cNFM2aY">Jack&apos;s blog</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kidd</surname></persName>
+		</author>
+		<idno type="DOI">10.1049/et.2013.0238</idno>
+		<ptr target="www.developmentpathways.co.uk/resource-centre/blog/main/6" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_VM2KRps">Engineering &amp; Technology</title>
+		<title level="j" type="abbrev">Eng. Technol. (UK)</title>
+		<idno type="ISSN">1750-9637</idno>
+		<idno type="ISSNe">1750-9645</idno>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">102</biblScope>
+			<date type="published" when="2013-12-18">2013. 18 December 2013</date>
+			<publisher>Institution of Engineering and Technology (IET)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main" xml:id="_Qptww2Q">Modified Nel and Van der Merwe test for the multivariate Behrens–Fisher problem</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Krishnamoorthy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jianqi</forename><surname>Yu</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.spl.2003.10.012</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_YSSwW4K">Statistics &amp; Probability Letters</title>
+		<title level="j" type="abbrev">Statistics &amp; Probability Letters</title>
+		<idno type="ISSN">0167-7152</idno>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="161" to="169" />
+			<date type="published" when="2004-01">2004</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main" xml:id="_cUxXPmw">Stochastic Wealth Dynamics and Risk Management among a Poor Population</title>
+		<author>
+			<persName><forename type="first">Travis</forename><forename type="middle">J</forename><surname>Lybbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christopher</forename><forename type="middle">B</forename><surname>Barrett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Solomon</forename><surname>Desta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Layne Coppock</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1468-0297.2004.00242.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_FrW8SDT">The Economic Journal</title>
+		<idno type="ISSN">0013-0133</idno>
+		<idno type="ISSNe">1468-0297</idno>
+		<imprint>
+			<biblScope unit="volume">114</biblScope>
+			<biblScope unit="issue">498</biblScope>
+			<biblScope unit="page" from="750" to="777" />
+			<date type="published" when="2004-09-28">2004</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main" xml:id="_3FgTu95">Contrasting income shocks with asset shocks: livestock sales in northern Kenya</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mcpeak</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/oep/gpf040</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_JwUsmeD">Oxford Economic Papers</title>
+		<title level="j" type="abbrev">Oxford Economic Papers</title>
+		<idno type="ISSNe">1464-3812</idno>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="263" to="284" />
+			<date type="published" when="2004-04-01">2004</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main" xml:id="_xJZ7PsJ">The asset vulnerability framework: Reassessing urban poverty reduction strategies</title>
+		<author>
+			<persName><forename type="first">Caroline</forename><forename type="middle">O N</forename><surname>Moser</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0305-750x(97)10015-8</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_QW4FYUX">World Development</title>
+		<title level="j" type="abbrev">World Development</title>
+		<idno type="ISSN">0305-750X</idno>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="19" />
+			<date type="published" when="1998-01">1998</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b18">
+	<analytic>
+		<title level="a" type="main" xml:id="_krc3UTw">The Chars Livelihoods Programme in Bangladesh: Factors that Enable, Constrain and Sustain Graduation</title>
+		<author>
+			<persName><forename type="first">Matthew</forename><surname>Pritchard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stuart</forename><surname>Kenward</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Maksudul</forename><surname>Hannan</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/1759-5436.12127</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_zdGcscX">IDS Bulletin</title>
+		<title level="j" type="abbrev">IDS Bulletin</title>
+		<idno type="ISSN">0265-5012</idno>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="35" to="47" />
+			<date type="published" when="2015-03">2015</date>
+			<publisher>Institute of Development Studies</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main" xml:id="_KaxtYY4">Evidence on Graduation in Practice: Concern Worldwide&apos;s Graduation Programme in Rwanda</title>
+		<author>
+			<persName><forename type="first">Ricardo</forename><surname>Sabates</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stephen</forename><surname>Devereux</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/1759-5436.12129</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_5H2qaNP">IDS Bulletin</title>
+		<title level="j" type="abbrev">IDS Bulletin</title>
+		<idno type="ISSN">0265-5012</idno>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="64" to="73" />
+			<date type="published" when="2013">2013</date>
+			<publisher>Institute of Development Studies</publisher>
+			<pubPlace>Kigali</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Concern Worldwide Rwanda</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b20">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sabates</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Devereux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sabates-Wheeler</surname></persName>
+		</author>
+		<title level="m" xml:id="_UcBaXxx">Concern Graduation 1st Cohort 36-month Consolidated Report</title>
+		<meeting><address><addrLine>Kigali</addrLine></address></meeting>
+		<imprint>
+			<publisher>Concern Worldwide Rwanda</publisher>
+			<date type="published" when="2015-02">2015. February</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main" xml:id="_kV4ugzx">Evidence on Graduation in Practice: Concern Worldwide&apos;s Graduation Programme in Rwanda</title>
+		<author>
+			<persName><forename type="first">Ricardo</forename><surname>Sabates</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stephen</forename><surname>Devereux</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/1759-5436.12129</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_FFgHUtU">IDS Bulletin</title>
+		<title level="j" type="abbrev">IDS Bulletin</title>
+		<idno type="ISSN">0265-5012</idno>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="64" to="73" />
+			<date type="published" when="2015-10">2015. October</date>
+			<publisher>Institute of Development Studies</publisher>
+			<pubPlace>Kigali</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main" xml:id="_bUw54bB">Sustainable Graduation from Social Protection Programmes</title>
+		<author>
+			<persName><forename type="first">Rachel</forename><surname>Sabates‐wheeler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stephen</forename><surname>Devereux</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/dech.12047</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_GS3j4C5">Development and Change</title>
+		<title level="j" type="abbrev">Development and Change</title>
+		<idno type="ISSN">0012-155X</idno>
+		<idno type="ISSNe">1467-7660</idno>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="911" to="938" />
+			<date type="published" when="2013-07">2013</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main" xml:id="_xjkEeNQ">Challenges of Measuring Graduation in Rwanda</title>
+		<author>
+			<persName><forename type="first">Rachel</forename><surname>Sabates-Wheeler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Samantha</forename><surname>Yates</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Emily</forename><surname>Wylde</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Justine</forename><surname>Gatsinzi</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/1759-5436.12133</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_96WyEwZ">IDS Bulletin</title>
+		<title level="j" type="abbrev">IDS Bulletin</title>
+		<idno type="ISSN">0265-5012</idno>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="103" to="114" />
+			<date type="published" when="2015-03">2015</date>
+			<publisher>Institute of Development Studies</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b24">
+	<analytic>
+		<title level="a" type="main" xml:id="_T7HMuH6">Exit or Developmental Impact? The Role of ‘Graduation’ in Social Protection Programmes</title>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Samson</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/1759-5436.12125</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_jTqNP5c">IDS Bulletin</title>
+		<title level="j" type="abbrev">IDS Bulletin</title>
+		<idno type="ISSN">0265-5012</idno>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="13" to="24" />
+			<date type="published" when="2015-03">2015</date>
+			<publisher>Institute of Development Studies</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b25">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sabates-Wheeler</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

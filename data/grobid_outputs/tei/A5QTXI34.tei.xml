@@ -1,0 +1,892 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" xml:id="_8gCMf28">Implementation of graduation programs for alleviating rural poverty: an impact analysis in Paraguay</title>
+				<funder ref="#_APXszsk">
+					<orgName type="full">unknown</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">International Development Research Centre</orgName>
+					<orgName type="abbreviated">IDRC</orgName>
+				</funder>
+				<funder ref="#_mkFZt2J">
+					<orgName type="full">Capital Foundation</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">International Development Research Centre [NA]</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Ford Foundation [NA]</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Fundacion Capital</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Ford Foundation</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Informa UK Limited</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2022-12-11">2022-12-11</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Jorge</forename><forename type="middle">H</forename><surname>Maldonado</surname></persName>
+							<email>jmaldona@uniandes.edu.co</email>
+						</author>
+						<author>
+							<persName><forename type="first">John</forename><surname>Gomez-Mahecha</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Economics</orgName>
+								<orgName type="institution">Universidad de los Andes</orgName>
+								<address>
+									<settlement>Bogotá</settlement>
+									<country>Colombia;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Viviana</forename><surname>León-Jurado</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Laura</forename><surname>Villa</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Daniel</forename><forename type="middle">A</forename><surname>Rodríguez</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Economics</orgName>
+								<orgName type="institution">Georgia State University</orgName>
+								<address>
+									<settlement>Atlanta</settlement>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Economics</orgName>
+								<orgName type="institution">Universidad de los Andes</orgName>
+								<address>
+									<addrLine>Calle 19A #1-37E Bloque W Piso 8</addrLine>
+									<postCode>111711</postCode>
+									<settlement>Bogotá</settlement>
+									<country key="CO">Colombia</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main" xml:id="_FKFkUrF">Implementation of graduation programs for alleviating rural poverty: an impact analysis in Paraguay</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main" xml:id="_4b7wzaR">Journal of Development Effectiveness</title>
+						<title level="j" type="abbrev">Journal of Development Effectiveness</title>
+						<idno type="ISSN">1943-9342</idno>
+						<idno type="eISSN">1943-9407</idno>
+						<imprint>
+							<publisher>Informa UK Limited</publisher>
+							<biblScope unit="volume">16</biblScope>
+							<biblScope unit="issue">1</biblScope>
+							<biblScope unit="page" from="77" to="100"/>
+							<date type="published" when="2022-12-11" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">756AB68F1DA2DD3664FCA268B0D2A838</idno>
+					<idno type="DOI">10.1080/19439342.2022.2153379</idno>
+					<note type="submission">Received 17 September 2021 Accepted 25 November 2022</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2025-11-04T23:10+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a292bac</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=1, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=true, generateTeiCoordinates=[true], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term xml:id="_HgV2TXQ">Integrated approaches</term>
+					<term xml:id="_qREBZsa">extreme poverty</term>
+					<term xml:id="_CmD9USY">Latin America</term>
+					<term xml:id="_zm8x8s4">income</term>
+					<term xml:id="_r6VYFV5">assets</term>
+					<term xml:id="_65Hjft7">psychosocial variables</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_r5kzm2B"><p xml:id="_6tyF42V">Rural poverty in Paraguay led to the implementation of the 'Sembrando Oportunidades Familia por Familia' program (SOF), an initiative based on the graduation approach and one of the few government-run implementations of this kind of program. We evaluate the intervention outcomes in poverty. There are positive changes in the participants' income, productive capacity, savings behavior, and perception of well-being, but discrete consumption effects. These might suggest the need to complement the intervention in rural communities with other targeted interventions. The paper informs the scaling of graduation programs, so they help overcome extreme poverty in this and other developing countries.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="634.32" lry="833.04"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="10" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="11" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="12" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="13" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="14" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="15" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="16" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="17" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="18" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="19" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="20" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="21" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="22" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="23" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="24" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+		<surface n="25" ulx="0.0" uly="0.0" lrx="493.228" lry="702.992"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1." xml:id="_K4rSzHa">Introduction</head><p xml:id="_zCn6b2C">According to recent FAO (2020) data, of the 734 million people living in extreme poverty before the COVID-19 crisis, 80% lived in rural areas. This number may have increased following the pandemic and finding strategies to decrease rural poverty has become a priority for many countries. The graduation approach has emerged as a result of experiences from BRAC (Building Resources Across Communities), the Ford Foundation, and the Consultative Group to Assist the Poor (CGAP) to reduce poverty, and has proven to be an effective alternative to combat this phenomenon. Specifically, the graduation approach is an integrated intervention that focuses on five elements: asset transfer, consumption support, savings, technical training, and life skills development. This approach has been assessed in Asian, African, and Latin American countries and has shown positive and longlasting impacts. <ref type="bibr" target="#b7">Banerjee et al. (2015)</ref> evaluated this program in six countries (Ethiopia, Ghana, Honduras, India, Pakistan, and Peru), using randomised control trials (RCT), and found sustainable improvements in living conditions one year after the implementation of the program. Its effects have also been identified in participants' work decisions, their expenditure, and their households' overall income <ref type="bibr" target="#b3">(Bandiera et al. 2012;</ref><ref type="bibr" target="#b6">Banerjee et al. 2011;</ref><ref type="bibr">Banerjee and Duflo 2012)</ref>.</p><p xml:id="_xU3AkYC">By 2022, such programs have been implemented in Colombia, Mexico, Paraguay, and Honduras. Governments' inclusion of these programs in their public policy constitutes an important difference with respect to the first generation of graduation programs, run mainly by NGOs, and its evaluation can contribute to a better understanding of the new challenges associated with implementing them at large scales and with public resources and administration.</p><p xml:id="_9CdFKM2">The purpose of this document is to present the main results of the impact evaluation of a government-run graduation-type program in Paraguay named 'Sembrando Oportunidades Familia por Familia' (SOF, or Sowing Opportunities Family by Family), and to discuss these results within the framework of this approach.</p><p xml:id="_Ryxwq6B">The original program evaluation was intended as a randomised controlled trial design. However, the government's commitment and engagement in assisting all the rural households meant that the methodology had to be adjusted. We exploit the original random assignment to run an impact evaluation through the instrumental variable (IV) methodology. The main results show positive impacts on the households' conditions (income increases and poverty reduction) through changes in productive assets, savings, and perceptions of well-being. However, changes in consumption are not as evident as previously reported by <ref type="bibr" target="#b7">Banerjee et al. (2015)</ref>.</p><p xml:id="_b8PsUtX">These results are based on a household survey administered before (May-June 2016) and after (November 2017) program implementation. Assessing this intervention is critical to provide policymakers with information on its achievements and performance, and is an opportunity to evaluate the upscaling potential of the graduation approach. This document is one of the few impact evaluations of an adaptation of the graduation approach to a government-run program.</p><p xml:id="_qUEuVSb">Given that the graduation approach is an integrated intervention, to capture the changes induced by the program, the evaluation measured different dimensions: per-capita and independent work income, savings, expenditure, food security, productive assets, subjective welfare, and daily hours dedicated to work. We present the corrected p-values by multiple-hypothesis testing of the set of variables for discussion.</p><p xml:id="_TQB44v3">The document is organised as follows: Section 2 describes the SOF pilot program components, Section 3 explains the methodological design, Section 4 presents the results, and Section 5 discusses these results.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2." xml:id="_EF9cCpj">The SOF program</head><p xml:id="_2RGcPGV">Poverty levels in Paraguay had steadily decreased (See Figure <ref type="figure" target="#fig_0">1</ref>) throughout this century, and up to before the pandemic (DGEEC 2018). However, extreme poverty had not decreased as quickly as expected. Extreme poverty concentrates mainly in rural areas, with almost 10% of the population in this category, while in urban areas, this value is 1.55%. To address this situation, the Paraguayan government started a project to reduce extreme poverty with social and productive inclusion, whose primary strategy was the 'Sembrando Oportunidades Familia por Familia (SOF)' [Sowing Opportunities Family by Family] pilot program, run between 2016 and 2017.</p><p xml:id="_VDpWrQC">11.52 16.21 12.58 9.06 9.08 15.15 13.93 10.47 11.27 11.77 11.76 7.38 5.69 5.47 5.42 5.73 4.41 45.12 57.72 51.43 48.78 44.86 48.85 45.33 43.19 41.61 38.96 37.03 31.37 28 27.18 26.58 28.86 26.4 3.38 6.22 5.73 4.5 4.41 7.24 6.24 3.38 3.99 3.79 4.86 1.74 2.2 2 1.64 1.63 1.55 21.05 28.23 20.97 14.76 15 25.5 24.12 19.47 21.3 22.95 21.64 15.62 10.86 10.72 11.24 12.17 8.97 0 10 20 30 40 50 60 70 Extreme poverty Poverty Urban extreme poverty Rural extreme poverty The SOF program was a government adaptation of the graduation approach, designed to combat extreme poverty, mainly in rural areas. Once the pilot was consolidated, the government would seek to upscale the intervention. The overall goal of the program was to reduce extreme poverty by 'promoting a process of social and economic inclusion of families in extreme poverty based on improved public policies that help families start a process of accumulation of productive, human, social, and financial assets' (Fundación Capital -FK 2016; Secretaría Técnica de Planificación del desarrollo Económico y Social -STP n.d.).</p><p xml:id="_eVjMnYa">Following the graduation approach, the SOF pilot included the five typical components of consumption support, savings, life, and technical skills building, asset transfer, and periodic checkups. The government also included two additional components: community building fairs and strategic alliances. Table <ref type="table">1</ref> shows the justification, benefits, and conditions associated to each of the components.</p><p xml:id="_ZqkW3WU">According to recent literature, poverty can be caused by external or internal constraints. The former refers to traditional constraints such as market failures, liquidity and credit constraints, and a low level of education. The latter include behavioural bias, lack of aspirations, and absence of agency that can be decisive in individuals' capacity to overcome poverty <ref type="bibr" target="#b12">(Dalton, Ghosal, and Mani 2015;</ref><ref type="bibr" target="#b19">Lybbert and Wydick 2018)</ref>. The SOF program may have the capacity to alleviate these constraints by increasing households' savings, improving their management skills, alleviating liquidity constraints, raising self-esteem and self-confidence, and changing household members' mentality. The combination of all these components is intended to help households to overcome their internal and external restrictions and move them onto a path out of extreme poverty; that is, to graduate them from poverty.</p><p xml:id="_NrNtYaW">As a targeting tool, the SOF program uses a form managed by the Secretaría Técnica De Planificación (STP), which records the families' socioeconomic situation, specifying the living conditions and unfulfilled rights of each of its members. This information is used to calculate a multidimensional poverty index to classify families into four groups: extreme poverty, moderate poverty, not poor but vulnerable, and not poor and not vulnerable.</p><p xml:id="_2JqHjhk">To define SOF eligibility, this form was used to identify and select families living in extreme poverty. It was used along with a geographic targeting criterion to prioritise those districts with more than 100 families living in extreme poverty. Among these, three districts were selected based on their geographic proximity, the existence of acceptable road infrastructure and proximity to an important regional market. The Program was implemented in two districts in the Department of San Pedro (Capiibary and Chore) and in one district in the Department of Caaguazú (Carayao) (Figure <ref type="figure" target="#fig_1">2</ref>). These two departments are among those with the highest incidence of poverty in Paraguay.</p><p xml:id="_JZ6Qywf">Subsequently, families living in extreme poverty were selected based on a multidimensional criterion and information collection, and those interested in participating were enrolled on the program. Finally, the list of selected families was checked against records of other programs (those families belonging to Paraguay's assistance program Tenonderá -were excluded since a family cannot receive two transfers at the same time) and a new field visit. The final list of program participants was defined once the families had been invited to participate and given their consent by signing a written agreement.</p><p xml:id="_bX9Q2QF">Given the program's relevance in terms of government plans to manage extreme rural poverty, the need to evaluate its impact was a priority. An evaluation design was prepared jointly by the government, Fundación Capital (the organisation in charge of implementing the program), and the evaluation group. A randomised controlled trial (RCT) was proposed as the best approach and was designed based on cluster randomisation. Of 123 localities identified by the program implementation team, 72 were selected for treatment. In total, the program was supposed to treat 1,084 households across all the treated localities. The 51 remaining localities with 942 households were assigned to the control group. Based on the above, the selection process for each geographical level is represented in Figure <ref type="figure" target="#fig_2">3</ref>. The first two levels, corresponding to departments and districts, were selected by prioritising districts with enough critical mass of targeted households and locations.</p><p xml:id="_cjJTZT8">Table 1. Components of a graduation approach, rationale, benefits, and conditions in the case of Paraguay.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_MVGNCqe">Component</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_fhu3Qfh">Justification Benefit Conditions Consumption support</head><p xml:id="_VfZYPaK">An effective strategy against poverty must enable the participant to reduce the stress derived from searching for a minimum subsistence income.</p><p xml:id="_fR3QHvf">Delivery of monetary stipends to provide 'breathing space', reduce daily stress, and ensure the purchase of food in the household. This allows participants to focus on an exit strategy from poverty by investing in a productive, income-generating activity.</p><p xml:id="_ffW7ZQQ">The program incorporated this component by working together with the Ministry of Agriculture (MAG) to enrol the families in the conditional cash transfer program (Tekoporá) and the food security program (Seguridad Alimentaria), according to their needs. Savings promotion Saving money allows families to smooth their consumption across time as they engage in activities in which their income is periodical, and to avoid cutbacks on their consumption or to have to sell their productive capital. It was noted that, before the program, the level of economic vulnerability did not allow the SOF population to make decisions about their savings.</p><p xml:id="_brqzdnS">The program intended to give those families the necessary knowledge and tools to promote their saving behaviour by providing financial education and promoting access to financial services such as savings groups, savings accounts, mobile banking, and other financial services.</p><p xml:id="_wcBD2zM">Home visits to understand the types of formal and nonformal savings and calculate the monthly savings goal. Participate in the group activity: Savings promotion workshop. Technical and life skills training This component refers to a broader approach to the construction and strengthening of human capital for the people participating in the graduation approach. The program considers a vast array of topics, including technical workshops (basic business abilities and financial services), and personal development workshops (selfconfidence, self-worth, empowerment, communication skills, and teamwork). Strengthen capacities for personal development based on basic skills for planning, communication, and teamwork and personal development (self-esteem, empowerment). The objective of these workshops in the context of the program was to create a life plan and a business plan in which the participants could identify their strengths and goals and create a business strategy. One of FK's adaptations for the Latin-American context was the implementation of digital technologies. Home visits to familiarise with the technological tool used (tablet). Carry out group activities: Life Plan Workshop and build the 'Picture of my life', and Business Profile Workshop.</p><p xml:id="_AGAfBnv">In Paraguay, electronic tablets were used, with a specially designed app to be used in the country's context, with the information delivered in the Guarani language.</p><p xml:id="_JxM3dAw">Asset transfer The transfers work as a start-up option for the household to start building on the enterprise that generates income for self-sustenance.</p><p xml:id="_T2G2wRF">The money transfer, which amounted to nearly 500 USD (1,141.70 USD-PPA) or 2'913,143 Guaranies, is intended to help finance the business plan developed by the participant during the program. This money is transferred through the national bank and its expenditure is monitored by the program to ensure the family's commitment to invest it in its proposed activity.</p><p xml:id="_h8DQZWP">Prepare the business profile that includes the definition of the product, the main actors, costs, etc.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_Rr7rwZk">Participate in the socialisation and training sessions of the National Professional Promotion Service (SNPP).</head><p xml:id="_kmXX7qp">Have a bank account to receive the disbursement.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_5qR9mWd">Permanent monitoring and coaching</head><p xml:id="_k8kV6FF">Just as in other graduation programs, each of the households was accompanied by a coach (promotor) with whom they would perform the different activities contemplated in the program.</p><p xml:id="_NHEsXjt">The coach would perform periodical check-ups with the families 'to advise them in the management of their business and provide them with support, companionship, and motivation' <ref type="bibr">(STP et al 2016)</ref>.</p><p xml:id="_BTXfURT">Home visits for support and coaching. Each promoter was in charge of a maximum of 100 households, which they visited between once and twice a month during the course of the program.</p><p xml:id="_ySCMvpS">Localities, on the other hand, were randomly assigned as either treated or not. Finally, households that satisfy the program's focalisation condition in each of the localities were invited to participate in the program. The methodology was selected according to its political approval, its feasibility, and a robust design that could account for spillover effects. However, the RCT methodology was not implemented in the end. Several reasons might explain this decision, however, two of these were particularly important for the evaluation group. First, although the government and the field executers provided the evaluation team with all their support, the program's scheduling was very limiting. As discussed previously, the SOF program included an important component of cooperation among public agencies, making the schedule highly inflexible. Although randomisation was considered from the beginning to invite households to participate, there was not much time left to design the protocols and disseminate them with the on-field staff. A second reason was also related to the strategic alliances of the SOF's design. As mentioned earlier, these alliances were the contribution of the Paraguayan government to the graduation scheme. Through them, participants would get further assistance coming from private and public institutions to complement the five typical components of the scheme (consumption support, savings, life and technical skills building, asset transfer, and periodical check-ups). However, there was no guarantee that these additional benefits would be distributed homogeneously among the participants in all geographic locations. Having decided to use a cluster design, the evaluating group feared that this would increase variability in the outcome variables in a statistical power-constrained design.</p><p xml:id="_CfPnSbd">Nevertheless, the interest in an impact evaluation that would provide more robust evidence of the program remains. Having assessed different alternatives, the evaluation group concluded that there was enough evidence suggesting that most of the participant households came from the localities assigned to the treatment category in the initial randomisation. When the evaluation team and government agreed on pausing RCT implementation, most of the households in the treatment group were already enrolled in the program. However, the family quotas had not been met. Figure <ref type="figure" target="#fig_3">4</ref> illustrates participants' enrolment based on the initial randomisation. All households that were assigned to the treatment group (490 hh) received the pilot version of the program, as did 80 other households originally assigned to the control group (labelled as Pilot). Other households</p><p xml:id="_StRp7av">Table 1. (Continued).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_Jrr54Nc">Component Justification Benefit Conditions</head><p xml:id="_DRZPKgG">Community fairs This component was designed to promote the development and construction of social capital amongst the participants. This corresponds to one of the original components implemented by BRAC in graduation interventions <ref type="bibr">(BRAC 2015)</ref> and it was present in some of the pilots led by the CGAP <ref type="bibr" target="#b16">(Hashemi and de Montesquiou 2011)</ref>.</p><p xml:id="_6SggwGj">In this case, the plan was to organise community fairs in which the participants could share ideas about their productive projects, sell their products, and take part in cultural events. All these elements were supported by the National Culture Bureau (Secretaría Nacional de Cultura). In the end, only one of these activities was implemented.</p><p xml:id="_yNZhewB">Participation in the suppliers' fair of each district, where local companies brought their products to be used as inputs in the business plans.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_ShHGbcf">Interinstitutional network and strategic alliances</head><p xml:id="_kyG3Yfq">This component is one of the Paraguayan government's adaptations to the graduation model and is designed to help build alliances with different institutions, including other public entities, universities, businesses and guilds, and financial entities.</p><p xml:id="_pPz2CJt">Ideally, the development of effective alliances would magnify and maintain the results of program interventions.</p><p xml:id="_jZkrgHB">Create investment funds (trusts) to mobilise risk capital in certain production chains in which entrepreneurs and companies assume a large part of the risk (e.g., STP 2016.</p><p xml:id="_ar2psRs">assigned to the control group were treated, but they received different versions of the program. These other versions started after the pilot intervention, and although they followed the standard sketch of the graduation program, their structure and timing were significantly different. The first of these versions is known as the 'Extended Pilot' (EP). This version enrolled households in the same zone as the pilot program, but they started the program later than the pilot households, and,  therefore, received a shorter version of the intervention. A second version was the upscaling proposal developed by the Ministry of Agriculture and the 'Proyecto de Desarrollo Rural Sostenible' (PRODERS, Sustainable Rural Development Project). As shown in Figure <ref type="figure" target="#fig_3">4</ref>, these versions enrolled households living in the control-group localities, and some of the households (though not all) were part of the original control group for the RCT. Following these new enrolments, 286 households of the original 515 assigned to the control, did not receive any version of the program.</p><p xml:id="_ayA56cK">For the evaluation group, the original randomisation would still allow identification if used as an instrumental variable for program reception. This is mainly due to the solid relationship between receiving the program and its random assignment. The data, our conversations with the in-field staff, and our qualitative work supported this. A further discussion about the proposed evaluation design is presented in the next section. However, it is important to mention that the problems surrounding the initial RCT are not alleviated with the proposed strategy. Rather, the latter provides an identification despite these problems. The following section also discusses the limitations and costs of passing from the RCT design to a design that depends on an instrumental variable.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3." xml:id="_etXcHeV">Methodology</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1." xml:id="_NdENkVA">Identification strategy</head><p xml:id="_6UAbwg7">As introduced in the previous section, this document relies on the original stratified randomisation design to identify the program's effect on its participants, which was finally not used. As such, it is close in spirit to the analysis of a standard RCT with imperfect compliance. The evaluation of the SOF program was implemented through an Instrumental-Variable impact evaluation (IV) method that required a comparison between people who received the pilot (treated) and those that did not receive it but were eligible for the program (controls). The main challenge of impact evaluation for this program was that the assignment of treatments was not exogenous to beneficiaries' decisions. This problem can be solved with an endogeneity correction method, such as the IV approach. In this case, the original 'randomisation variable' is proposed as the instrument. This variable assigned the treatment group for the initial RCT design; however, given all the adjustments in the implementation, this selection was not fully followed. This means that, although correlated with the effective treatment of the households, the randomisation variable does not explain it completely. Given that the randomisation is, by design, not correlated with the household's characteristics, while it is correlated with the treatment, the randomisation variable meets the criteria for a good instrument.</p><p xml:id="_5PM9q85">Original randomization Control group 515 hh Remained as controls? Yes 286 hh No 229 hh PRODERS 94 hh Extended pilot 55 hh Pilot 80 hh Treatment group 490 hh Remained as treated? Yes 490 hh Originally treated 490 hh A similar approach is used in <ref type="bibr">Glennerster et al. (2013)</ref> to analyse an RCT design with failures in randomisation.</p><p xml:id="_5yzF4Vj">The IV approach was evaluated with a two-stage model for every outcome variable (Y). In the first stage, the probability of receiving SOF given the randomisation is estimated following the model described below.</p><p xml:id="_TdAewJD">In the second stage, the model of interest is estimated for every outcome, using the probability estimation of receiving the program calculated in the first stage to solve the endogeneity problem.</p><p xml:id="_6gpadd4">Where X is a vector of controls associated with the outcome Y, and λ is the vector of coefficients associated with the controls. Which variables are included in vector X i depends on the dependent variable analysed; however, they include basic exogenous characteristics of the participant or the household, such as sex, age, and the proportion of workers and of men in the household. We also estimated all the regressions with fixed effects for the district (the stratification variable), and robust errors by locality.</p><p xml:id="_gUnXxc8">Following <ref type="bibr" target="#b1">Angrist, Imbens, and Rubin (1996)</ref>, in order to identify a non-constant program effect through instrumental variables, four conditions should be satisfied: 1) relevance, 2) independence, 3) exclusion, and 4) monotonicity, in addition to the stable unit assumption (SUTVA). The first assumption is that of the correlation between the instrumental variable and the probability of being targeted. According to program implementation data, a household assigned to the treated group has a 70% probability of being a program participant. For the control group, this probability is reduced to 40%. Furthermore, the F-statistic for the significance test of the excluded instruments (that is the Wald test of the γ 1 coefficient in Equation <ref type="formula">1</ref>) is above 10 for all the regressions in our main results, suggesting that this relationship is also statistically significant, even after controlling for other covariates.</p><p xml:id="_EdvQgyR">The strong relationship between the treatment and the randomisation is not merely a coincidence. It is mainly due to the conjunction of the dates when the RCT was paused and the program's enrolment stage. As discussed in the previous section, although the RCT was paused, the randomised assignments were kept in the field. There are at least three reasons for this. First, a significant set of participants assigned to the treatment group were already in contact or enrolled. Second, following the decision made regarding the RCT, it was easier for the in-field personnel to keep enrolling people from the same localities where they had already been doing so. As the RCT followed a clustered design by locality, these missing households were likely already assigned to the treatment group. Control locations, and therefore control households, were included in the selection only after exhausting households in the treatment localities. Finally, the randomisation lists have a significant amount of contact information on the households assigned to the treatment group, reducing the enrolment costs and time for the in-field team.</p><p xml:id="_7G46ygy">As has been discussed in this literature, the independence condition (also known as ignorability or random assignment assumption) is satisfied by the randomisation of the RCT design <ref type="bibr" target="#b1">(Angrist, Imbens, and Rubin 1996;</ref><ref type="bibr" target="#b17">Imbens 2014)</ref>. Formally, the randomisation is exogenous to the potential outcomes, with and without receiving the program, as households' localities were assigned to the treatment independently of their outcome variables. On the other hand, the exclusion assumption requires more careful consideration with the treatment effect being the same regardless of the original allocation to the control or treatment group. That is, if</p><formula xml:id="formula_1">Y i Z ¼ z; D ¼ d ð Þ</formula><p xml:id="_39u5KR8">is the potential outcome of individual i when randomly assigned to the treatment group z but received treatment d, exclusion requires that This assumption might be more problematic in this situation. As mentioned earlier, the program has three different treatment versions. However, participants were more likely to receive some of them (the PRODERS and the extended pilot versions) if they were part of the control. In this sense, the outcome of an individual when treated might be different if assigned to the control or the treatment group. Intuitively, when ignoring the possible differences between versions, we assume that all of them were equivalent. Nevertheless, the PRODERS and the extended pilot were shorter versions of the program, with higher restrictions on timing and resources. Thus, our primary estimations (that is those discussed in the Results section) may underestimate the real effect of the program as we are counting households that received a less intensive version of the program as treated. An alternative strategy can be to treat these households as non-treated, such that the indicator variable TREATED i is equal to one only if household i received the complete version of the program (that is those in the pilot version). We found no significant differences in the results under this specification; however, results are included for the reader in Appendix Section A1. Both strategies should underestimate the effect as they are artificially closing the gap between treated households and controls.</p><p xml:id="_6rxuYSh">The fourth assumption is required in the case of heterogenous treatment effects. The monotonicity assumption requires for invited households to have a greater probability of participating in the program than those not invited (that is</p><formula xml:id="formula_2">E TREATED i jRANDOMIZATION i ¼ 1 ½ � � E½TREATED i jRANDOMIZATION i ¼ 0� for all i).</formula><p xml:id="_WUtUTGh">In the case of SOF, where the households require an invitation to participate in the program, and the intervention includes a cash transfer, this is not likely to fail. Almost none of the households that were offered the intervention rejected it, and the households that did not continue with the program, only withdrew because they stopped complying with the program requirements.</p><p xml:id="_vRRZPgE">It is important to highlight, however, that being able to keep generating causal results even when the RCT assignments were not respected comes at a cost. As discussed in the literature, the estimated effects will be more restricted than those of RCT implementation, since the estimates will represent a local average treatment effect (LATE). Thus, the impacts will correspond only to the households that participate in the program only because they were invited to do so. However, it provides the second-best strategy for estimating a policy-relevant treatment effect. According to <ref type="bibr" target="#b2">Angrist and Pischke (2008)</ref>, in the situations where the randomisation is not complete (that is imperfect compliance) the LATE theorem emerges, confirming the IV approach as an alternative that can be applied. The most significant advantage of the IV approach is that we can use all the information available from the RCT to estimate the program's impact. This advantage, among others, makes the IV approach the best option for this evaluation. Furthermore, it is important to highlight that the strategy is still susceptible to the limitations of the RCT, which are part of the reasons why it was paused. Of the concerns discussed in the previous section, one is particularly relevant. When using an IV estimation, we are also affecting the estimator's precision as it relies on the variation of a population subgroup. However, the variability in treatments (discussed in the previous section), and the clustered design, had already mined the design's statistical power. This means that we would have more limitations in statistically validating more of our results.</p><p xml:id="_xEFWM7w">The outcome variables were defined following the expected results of the graduation approach (see Table <ref type="table" target="#tab_0">2</ref>). The selection criteria emphasised previous works on graduation program evaluation, and it was based on the theory of change developed for this type of intervention by different authors including <ref type="bibr" target="#b18">León-Jurado and Maldonado (2017)</ref> and <ref type="bibr" target="#b21">Montesquieu and Sheldon (2014)</ref>.</p><p xml:id="_xDQKzK3">Given that we are testing multiple outcome variables with the same data, we need to make some corrections to the testing. As highlighted in the literature, the standard statistical techniques will lead to an over-rejection of the null hypothesis. That is, some tests might show program significance even when there is none. For example, under a set of s independent outcome variables using a significance level α, the probability of rejecting at least one null hypothesis even when all null hypotheses are true is 1 À 1 À α ð Þ s , larger than the accepted error α for any s &gt; 1. The corrections rely on considering this error when estimating the significance of the results. There are several alternatives; however, one of the most popular is the correction of the False Discovery Rate (FDR) through q-values (McKenzie 2020), which has previously been used in the graduation literature <ref type="bibr" target="#b7">(Banerjee et al. 2015)</ref>. The FDR is defined as the expected proportion of true null hypotheses rejected among all hypotheses rejected. It was introduced by <ref type="bibr" target="#b9">Benjamini, Krieger, and Yekutieli (2006)</ref>, and an example of its implementation is shown in <ref type="bibr" target="#b0">Anderson (2008)</ref>. Our estimations show the uncorrected p-value as well as the q-value estimated by thematic groups. The p-values corrected by Romano Wolf, following Clarke, Romano, and Wolf (2020), are also reported. However, this might be over-conservative for our particular design.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2." xml:id="_GWrKXnv">Survey design</head><p xml:id="_R834QRn">To implement the evaluation exercises, we used the information gathered in the baseline and endline surveys. In the baseline, 502 SOF beneficiary treated households were surveyed. The endline was applied in October 2017 to 1,005 households, which were assigned to the control and treated groups with the original randomisation design.</p><p xml:id="_ka9PFuE">As explained earlier, a total of 570 households were recipients of the SOF program, with 490 households belonging to the original treatment group and 80 to the original control group (Pilot in Figure <ref type="figure" target="#fig_3">4</ref>). There were also 94 households that received treatment from the PRODERS program and 55 from the extended pilot, which were originally assigned to the control group. In order to exploit the advantages of the IV estimation, all of these groups are included in the treated cohort. The figure also highlights that only 286 households from the sample did not receive any treatment, and they are included in the control group.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3." xml:id="_Vq5rs4r">Data</head><p xml:id="_2hjAmNK">Having defined the information collected by the survey and the definition of the groups for the evaluation, the next step was to test the comparability of the different groups. To do this, mean tests were conducted for the socioeconomic variables that are not supposed to be affected by the program. Table <ref type="table" target="#tab_1">3</ref> shows the results of this comparison for the impact evaluation group. The exercise shows that the households are similar when it comes to socioeconomic characteristics, with no statistically significant differences between the control and treated groups, except for the proportions of male participants and male household heads, which are higher in the control group than in the treated groups. However, this difference can be accounted for in the evaluation. These tests also help to characterise the households in this study; in general, the households treated by the program consist of little more than six members, with 2 or 3 members of the household providing for the rest. These households also have low levels of education, with an average of 5 years of education for each member, and slightly less (4.9) for the head of household. Moreover, the poverty levels in these households are staggeringly high, with 80% living under extreme poverty conditions, and an additional 18% living under poverty conditions. This characterisation also serves as an indicator of the effectiveness of the program's household selection process, as it is designed specifically to help poor rural households exit poverty.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4." xml:id="_hSFSUXd">Results</head><p xml:id="_FJPtZrc">To better understand and discuss the specific effects of the program, the following subsections detail the outcomes for the program's effect on the selected variables: households' poverty level, assets, income, working hours, savings, expenditure, food security, well-being perception, and empowerment. For each of the outcome variables, we provide both the Ordinary Least Square (OLS) and the IV (IV) regression results. Although not reported, Hausman's tests suggest that there are no statistical differences between these two estimators. However, as regressions must be clustered, the Hausman test might be less reliable. In contrast, when comparing only the value of the estimators, we can see that the coefficients of OLS are generally lower, suggesting that households treated after the RCT was cancelled were more vulnerable than those under the pilot version of the program. 1</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.1." xml:id="_kf765yu">Poverty</head><p xml:id="_bsdGJyA">One of the main goals of the graduation programs, in general, is to set the different households on a path to overcome poverty by their own means. This goal was explored in-depth by <ref type="bibr" target="#b8">Banerjee et al. (2016)</ref> in their evaluation of a graduation program. They found that seven years after program implementation, the assets, consumption, work hours, and other variables improved, suggesting that the program can guide the households onto a path towards overcoming their poverty conditions.</p><p xml:id="_aayWjJv">In the case of SOF, poverty was measured using two methodologies: the first measurement was the national poverty line, which amounted to 185.61 USD ppp (G 473,601) per month and 91.94 USD ppp (G 234,592) per month for extreme poverty. The second is the Probability Poverty Index (PPI), which captures the probability of falling into conditions of extreme poverty. According to the measurement relating to the poverty line, 55 households out of 354 (15.5%) improved their condition, migrating out of extreme poverty and (mainly) into poverty. According to the PPI measurement, 99 of 146 households (68%) migrated out of extreme poverty, also mainly into poverty, and 58 of 190 (31%) migrated from the poor to the non-poor category (Table <ref type="table" target="#tab_2">4</ref>).</p><p xml:id="_YRNYaW3">When measuring poverty using the national poverty line, the IV evaluation shows a significant reduction of 9 percentage points on the proportion of households living under the poverty line (Table <ref type="table" target="#tab_3">5</ref>). If the estimation does not consider the correction by the instrumental variable, the result is not significant, as shown in the column labelled OLS in the table. When the regression is adjusted by the multiple-hypothesis test (RW and q-value), the coefficient becomes non-significant also. This suggests that although poverty does seem to have reduced, the result is not as robust as expected. Thus, although the treated households did improve their poverty situation, this improvement was only marginal when compared to the control households.</p><p xml:id="_DvvfKNF">When poverty is measured by using the PPI index or the multidimensional poverty index (MPI), the impact evaluation does not show any effect of the program on the probability of falling into poverty conditions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.2." xml:id="_m23t7me">Assets</head><p xml:id="_Bjffsmq">One of the other areas affected by the program is the households' value of assets. Table <ref type="table" target="#tab_4">6</ref> shows the results of the different variables for this dimension: the most important result is a marginally significant increase in the households' total value of assets, which amounts to 634 USD-PPP. When we decompose the different types of assets that drive this increase, we find that most of it comes from the acquisition of animals, followed by the construction of productive infrastructure. These results are to be expected given the nature of the program, as treatment in any scenario requires the households to spend the cash transfer on the purchase of productive assets. These results advocate for the effectiveness of the program since the goal of the monetary transfer was mainly to purchase animals and build the infrastructure necessary to raise them, so that the animals could become a stable source of income for the households. The results are also consistent with the body of literature on the topic, which finds statistically significant increases in the total value of the assets in the short and medium terms.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.3." xml:id="_VkpUarV">Income</head><p xml:id="_5wtywgt">Given the increase in the households' productive assets, it stands to reason that the program should correlate with an increase in the income that comes from the productive activity that uses those assets. Table <ref type="table" target="#tab_5">7</ref> presents the effects of the program on the households' income, revealing an increase in the households' farming income 4.57 USD-ppp per month. On the other hand, there is a reduction in the non-farming income, although this decrease does not translate into a statistically significant decrease in the households' total income.</p><p xml:id="_w6dRHwJ">Given these changes in the households' income, it is pertinent to analyse the impact of the program on the participants, who are the direct recipients of the intervention. Table <ref type="table" target="#tab_5">7</ref> shows that the program had a significant effect of 31.89 USD ppp per month on the participants' income (more than one dolar per day), which is accounted for mainly from independent activities, probably related to  the new activities promoted by the program. This effect is significant under the different specifications of multiple-hypothesis testing.</p><p xml:id="_HhtkpVC">Another important aspect to recognise is a significant shift in the composition of income in the household, where the relative importance of non-agricultural jobs decreases as the income from agricultural activities is positively affected by the program. This could indicate that the households are becoming more self-reliant and economically independent as a result of the program increasing their production possibilities.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.4." xml:id="_n2EFhZx">Working hours</head><p xml:id="_hKdCsr2">One of the main effects of graduation programs is the increase in working hours for the participants, which is strongly associated with their increased income <ref type="bibr" target="#b6">(Banerjee et al. 2011</ref><ref type="bibr" target="#b7">(Banerjee et al. , 2015;;</ref><ref type="bibr">Fundación Capital -FK 2016)</ref>. When it comes to the SOF pilot, the IV evaluation finds that program participants increased their daily working time by 0.84 hours, which is equal to an increase of 27% in their daily working time (Table <ref type="table" target="#tab_6">8</ref>). This increase in the participants' working time is enough to increase the average working time of the full household.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.5." xml:id="_eCKKqey">Savings</head><p xml:id="_yqD6W8W">One of the emphases of the graduation approach is financial education and the encouragement to save, with former literature finding significant increases in the amount of money saved by the households because of the programs <ref type="bibr" target="#b6">(Banerjee et al. 2011</ref><ref type="bibr" target="#b7">(Banerjee et al. , 2015))</ref>. For this case, the results of the intervention on savings are shown in Table <ref type="table" target="#tab_7">9</ref> for three types of savings: (1) formal savings, (2) informal savings in cash, and (3) informal savings in kind (not including animals).</p><p xml:id="_ks5pgya">The impact evaluation shows an increase of 14% in the probability of saving informally, which in turn, is probably driven by an increase in the probability of saving by cash. This result can be associated with the promotion of saving groups among the activities planned in the graduation approach. The probability of saving formally, however, does not appear to be impacted by the program. When it comes to saving in kind, there is a slightly negative effect on the impact evaluation. It is worth noting that this effect would be positive and significant if animals were included in this category, but to avoid confusion with the measurement of the assets, animals were not included. When it comes to the total value of the savings, the impact evaluation did not reveal any statistically significant results for any of the modalities.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.6." xml:id="_qhgZf9j">Consumption</head><p xml:id="_FZFhsVT">In this topic, <ref type="bibr" target="#b7">Banerjee et al. (2015)</ref>, evaluating six graduation programs, find that there are positive effects in expenditure both at the end of the program and one year after implementation. <ref type="bibr" target="#b8">Banerjee et al. (2016)</ref> also found that positive effects on consumption continue seven years after the implementation of the graduation program in West Bengal. In the Paraguayan case, the impact evaluation exercises did not reveal any statically significant effects of the program on expenditure, and when studied closely, there are no statistically significant effects on expenditure for almost any category except for slight negative effects on transportation and clothing (Table <ref type="table" target="#tab_8">10</ref>). A possible explanation for this behaviour lies in the households' spending decisions, where the money received from the productive incentive could be allocated to reinvestments in productive assets, to savings, or to consumption. The program's lack of impact on consumption, coupled with the effects on assets and savings suggests that the households are deciding to invest their money on strengthening their projects, rather than on short term expenditure. In addition, the significant negative effects found for transportation and clothing no longer stand under any of the corrected p-values for multiple testing.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.7." xml:id="_nTabMMT">Food security</head><p xml:id="_BBKJFdw">Given the nature of the program and the focus on the creation of small rural businesses, the SOF program might affect the food situation of the families it treats, which directly affects the living conditions of poor and extremely poor families. The scale used to measure the nutritional situation of the households in the sample is the Food Security and Nutrition Scale for Latin America and the Caribbean (ELCSA), developed by FAO to measure food insecurity across the region. It is relevant to point out that in its assessment of food insecurity, this scale considers both the availability of food and the variety of the diet.</p><p xml:id="_XBze2Pv">The evaluation shows a 10% decrease in the number of households with food security as a result of the program, although this significance is partially lost under the multiple testing correction. Studying this result more closely, the component of the scale that drove this difference was the one that considers food variety (Table <ref type="table" target="#tab_9">11</ref>). This means that households from the treated group either had less diverse diets or higher expectations for variety in their diet. These results are consistent with the idea expressed by Duflo and <ref type="bibr">Banerjee (2012)</ref> who state that, when given a choice, poor households prefer to improve the quality of their meals rather than the number of calories consumed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.8." xml:id="_96cc466">Well-being</head><p xml:id="_ASb64rw">This program was also intended to affect the psychological or internal constraints of poverty for the treated individuals. This section studies the perception of well-being both as perceived by the participants when the survey was applied and their expectations of well-being in the short and medium term.</p><p xml:id="_942Ykdv">Expectations are defined as the goals and the standard of living an individual believes that he or she is going to reach in each stage of life. They are measured using the ladder of life (Cantril ladder), following the design of <ref type="bibr" target="#b22">Moya and Carter (2014)</ref>, originally proposed by the World Bank <ref type="bibr" target="#b23">(Narayan and Petesch 2007)</ref>. This ladder consists of 6 steps, where the highest step represents the highest level of well-being the respondent believes a person can reach in his or her community. In this sense, the individuals were asked to think about what they consider well-being to be and think about the people in their community who had the lowest and highest levels of well-being (steps one and six on the ladder, respectively), as they perceived it. Then, they were asked to grade themselves on the ladder, and then state their expectations for two and five years into the future. The respondents' level of satisfaction with life was also used as a measure for well-being as an effort to contextualise the results of the expectations. Table <ref type="table" target="#tab_10">12</ref> shows the results of the evaluation exercises for the perception of well-being, and expectations of well-being at 2 and 5 years in the future. The results show a significant difference of 0.28 between the treated and the control groups. This suggests that the program was able to affect households' perceptions of their living conditions.  With regard to expectations of well-being, the evaluation shows a slight increase but nonstatistically significant effect of the program with respect to any of the expectation variables. This suggests that, although the perception of well-being increased, the program did not significantly affect the households' expectations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.9." xml:id="_hMaV8qG">Empowerment</head><p xml:id="_NEk6J8A">The final aspect to evaluate is participant empowerment. Given the program's emphasis on entrepreneurship, and the different workshops and monetary transfer it provides, the program is expected to empower the participant to make decisions in his or her life in an effective manner. To measure this expected empowerment, three indicators were used: (1) an empowerment scale based on a section of the scale to measure personal agency and empowerment (Escala para medir Agencia Personal y Empoderamiento, ESAGE), designed by <ref type="bibr" target="#b24">Pick et al. (2007)</ref>, (2) an index of the participants' capacity and independence, in decision making in the household, and (3) a gender role scale. The first indicator measures the respondents' level of involvement in different aspects of their community, the second provides a measure of the participants' authority inside their family environment, and the third reflects the respondents' attitudes regarding gender roles. All these measurements are scaled from 0 to 100, with 100 being the best result possible.</p><p xml:id="_Q6mVFtx">The IV evaluation shows an improvement in the gender role indicator of 3.88 points (see Table <ref type="table" target="#tab_11">13</ref>). This shows that the program was able to change the participants' perception of the equality of the different genders' household roles.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5." xml:id="_3M5tuQt">Discussion</head><p xml:id="_RsupxcW">The SOF graduation program implemented in Paraguay was intended to strengthen the productive capacity of the treated households by strengthening both human and physical capital and the households' empowerment in their activities. This study shows that the program was effective in this goal, improving some, although not all, the dimensions. The program's positive impacts on the number of hours worked by participants, and the increased income from their work show that the program can empower the participants to work  and earn an income for their families. The fact that this increased income does not directly translate into increased expenditure can be attributed to the positive effect on the households' assets (mainly livestock) and savings. This suggests that the program had the double effect of boosting the participants' ability to increase their earnings and the likelihood of increasing their capital and productive assets instead of using these earnings in short-term consumption.</p><p xml:id="_tAznynY">Another aspect worth noting is the change in the structure of the income. Although no significant effect was found in the households' total income, farming-related income increased while nonfarming income decreased, suggesting a shift towards self-sustainability and independence in their production process. This shift towards owning their productive capital and managing their source of income is in line with the SOF goal of providing the households with the means to move out of poverty in their own right. This change is consistent with the impact found in the participants' perception of well-being since a greater sense of independence could lead to a higher perception of well-being.</p><p xml:id="_WWuxk7H">There are some consistent effects when this program is compared with previous interventions in other countries in the region. For instance, when compared with the graduation program in Peru and with an aggregate of the results of different graduation programs in Ethiopia, Honduras, Ghana, India, Pakistan, and Peru, evaluated by <ref type="bibr" target="#b7">Banerjee et al. (2015)</ref>, the effects of the program on assets and savings are similar both in magnitude and significance. For well-being perception and daily work hours, the effects in Paraguay are greater than those reported in Peru and the aggregation of countries. As discussed earlier, there is no significant effect for Paraguay in the case of expenditure, while <ref type="bibr" target="#b7">Banerjee et al. (2015)</ref> found a positive effect on consumption (see Figure <ref type="figure" target="#fig_4">5</ref>). The effects and the number of variables affected found in this evaluation tend to be consistently higher than those found in the evaluation of the Peruvian case.</p><p xml:id="_rdHVV5k">Ultimately, the effectiveness of this program must be measured by evaluating its capacity to alleviate both the external and internal constraints that poor households face when trying to improve their standard of living (León-Jurado and Maldonado 2017). In general, the effects found in this study suggest that, by engendering, among the households, a mindset of starting their own productive projects and providing them with the means to do this, the program can remove the internal constraints that usually hamper the poverty relief efforts of interventions that only provide financial support.</p><p xml:id="_4faAscQ">As mentioned earlier, this is one of the first cases where governments are in charge of implementing the program. This brings several challenges that can affect the outcome of the intervention. On the one hand, the graduation approach requires much effort in terms of monetary and human resources, and governments have to show a consistent effect that justifies such an effort. This type of intervention could cost around US$1,500 per participant, including the cash transfer, coaching, and logistics. At first, this figure might seem quite high. However, overcoming internal restrictions and directing households in extreme poverty towards productive paths can pay off. Unfortunately, as far as we know, there are very few studies analysing the program's long-term productivity. <ref type="bibr" target="#b8">Banerjee et al. (2016)</ref> have shown that the positive effects remain even after several years of program implementation, suggesting that the benefits should be summed up during all of these years and the net present value of the intervention estimated. This is a pending task that would demonstrate the relevance of such interventions.</p><p xml:id="_6Abzxef">On the other hand, governments face several restrictions when implementing the program: the distribution and monitoring of the money provided, the need to align the timing of the program with the budgets tied to the fiscal year, and the hiring of a large number of coachers and supervisors are tasks that tend to be more complicated in public institutions. In a scaling scenario, these difficulties might increase rapidly.</p><p xml:id="_S23XNSC">However, one of the main challenges that governments face, as happened in this study, is the conciliation between having perfectly designed programs to evaluate rigorously and leaving unattended important fractions of the population -such as control groups-that need immediate attention. This is even more important following the pandemic that affected the socioeconomic conditions of a vast proportion of the population. The call for flexible evaluation techniques or a combined mixture of these needs to become part of the agenda for effectiveness analysis in the future.</p><p xml:id="_Ch29urG">Finally, this paper opens the door to other questions about the dynamics of the different graduation programs in Latin America. The context of the Paraguayan program and the extended pilot raises the question of whether the duration of the program affects the outcome variables it intends to treat, a question that, if pertinent, could underestimate the effects captured in this work. This is a question to be answered in the future. Whether there is a differentiated effect between male and female participants of the different outcome variables, especially the ones related to empowerment, could also help direct the resources of the policymakers more efficiently, given that most of the program beneficiaries are female. In our case, more than 90% of the participants were women, making it difficult to isolate the effect by gender. However, positive results are mainly associated with women. scientific committee, several professors from the Economics Department at 'Universidad de Los Andes', and our anonymous reviewers, which provide several insights into the analysis and help us improve the article. Nevertheless, all errors are the sole responsibility of the authors. Gomez-Mahecha also acknowledges support from the Colombian government's program 'Pasaporte a la Ciencia -Bioeconomía' (Passport to Science -Bioeconomy track).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_Pz9sdsj">Note</head><p xml:id="_Jcs2KpV">1. We thank one of our anonymous reviewers for pointing this out.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_GHRheV9">Disclosure statement</head><p xml:id="_3k69m4Q">No potential conflict of interest was reported by the author(s).</p><p xml:id="_6RdNxVR">(Continued). OLS IV Effect Effect Effect as SD Probability of saving-Formal (%) -0.00530 -0.00871 -0.07 (0.011) (0.015) Probability of saving-Informal (%) 0.150*** 0.0949*** 0.50*** (0.030) (0.032) Probability of saving-in-kind (%) -0.0112 -0.0181* -0.11* (0.011) (0.011) Probability of saving-Cash (%) 0.144*** 0.0893*** 0.42*** (0.031) (0.034) Probability of saving -Total (%) 0.128*** 0.0702** 0.26** (0.032) (0.035) Expenditure variables Total household per capita expenditure (USD ppp) -0.817 -2.011 -0.06 (2.538) (3.206) Total per capita expenditure on financial services (USD ppp) -0.456 -0.553 -0.06 (0.594) (0.689) Total per capita expenditure on housing (USD ppp) 0.0349 -0.0294 -0.05 (0.056) (0.062) Total per capita expenditure on cleaning items (USD ppp) -0.701* -0.622 -0.16 (0.412) (0.392) Total per capita expenditure on clothing (USD ppp) -0.515** -0.575** -0.23** (0.217) (0.273) Total per capita monthly expenditure on entertainment and leisure (USD ppp) 0.589* 0.676 0.16 (0.352) (0.459) Total per capita expenditure on transportation (USD ppp) -1.425* -1.518* -0.13* (0.732) (0.855) Total per capita expenditure on education (USD ppp) 0.0862 0.123 0.02 (0.470) (0.584) Total per capita expenditure on public services (USD ppp) -0.349 -0.352 -0.07 (0.423) (0.472) Total per capita expenditure on health (USD ppp) 0.316 0.173 0.02 (0.722) (0.855) Total per capita expenditure on food (USD ppp) -2.186 -2.599 -0.14 (1.515) (1.782) Food security Food insecurity scale 0.0277 0.0398* 0.15* (0.022) (0.023) Food security -0.0571** -0.0688** -0.19** (0.024) (0.028) Slight security 0.00712 0.00751 0.02 (0.036) (0.041) Moderate insecurity 0.0458 0.0434 0.10 (0.032) (0.039) Severe insecurity 0.00415 0.0180 0.06 (0.024) (0.026) Wellbeing Wellbeing perception 0.230** 0.188* 0.19* (0.095) (0.097) 5-year expectations 0.122 0.0435 0.04 (0.092) (0.111) (Continued) (Continued). OLS IV Effect Effect Effect as SD 2-year expectations 0.189* 0.136 0.13 (0.101) (0.101) Empowerment Empowerment scale-ESAGE 1.608 2.818* 0.18* (1.493) (1.689) Decision-making index 1.684 2.957 0.12 (1.974) (2.348) Gender roles scale 1.549 2.437* 0.21* (1.035) (1.261)</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc xml:id="_HjA7vyV">Figure 1. Evolution of poverty in Paraguay.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 .</head><label>2</label><figDesc xml:id="_2ytA5Rj">Figure 2. Geographical localisation of SOF pilot in Paraguay.</figDesc><graphic coords="7,66.73,53.19,359.76,273.36" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 3 .</head><label>3</label><figDesc xml:id="_VTcSqsA">Figure 3. Selection process by geographical level.</figDesc><graphic coords="7,66.61,378.92,360.00,171.12" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 4 .</head><label>4</label><figDesc xml:id="_qfQzEmW">Figure 4. Evolution of control and treatment groups.</figDesc><graphic coords="8,66.59,53.17,360.05,161.57" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 5 .</head><label>5</label><figDesc xml:id="_EB8hSjJ">Figure 5. Comparison between SOF and other countries where graduation approach was implemented.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 2 .</head><label>2</label><figDesc xml:id="_ynaa5uZ">Outcome variables for the SOF evaluation.</figDesc><table><row><cell>Dimension</cell><cell>Outcome variable</cell><cell>Description</cell></row><row><cell>Income</cell><cell>Monthly and daily per capita</cell><cell>The monetary value reported by the household, divided by the number of</cell></row><row><cell></cell><cell>income</cell><cell>household members</cell></row><row><cell>Consumption</cell><cell>Monthly and daily per capita</cell><cell>Quantities and values for different types of expenditure on goods and</cell></row><row><cell></cell><cell>expenditures</cell><cell>services reported by the households divided by the number of members</cell></row><row><cell>Food security</cell><cell>Food security</cell><cell>Food Security Score by the ELCSA index for last 30 days</cell></row><row><cell>Assets</cell><cell>Household asset monetary</cell><cell>Household asset monetary value reported by the household head</cell></row><row><cell></cell><cell>value</cell><cell></cell></row><row><cell>Savings</cell><cell>Adoption of savings</cell><cell>Household savings in kind or cash (formal and informal).</cell></row><row><cell></cell><cell>practices in the</cell><cell>Household savings monetary value. The value reported by the household</cell></row><row><cell></cell><cell>household.</cell><cell>head (cash or in kind) for different savings types.</cell></row><row><cell></cell><cell>Household savings</cell><cell></cell></row><row><cell></cell><cell>monetary value</cell><cell></cell></row><row><cell>Productive</cell><cell>Work hours</cell><cell>Average work hours per participant per week.</cell></row><row><cell>activity</cell><cell></cell><cell></cell></row><row><cell>Expectations and</cell><cell>Well-being expectations</cell><cell>Measurement of the current participant's well-being and the expected well-</cell></row><row><cell>aspirations</cell><cell></cell><cell>being in two and five years.</cell></row><row><cell></cell><cell></cell><cell>The gap between expected and current well-being.</cell></row><row><cell></cell><cell>Well-being aspirations</cell><cell>Measurement of the current participant's desired well-being in 2 and five</cell></row><row><cell></cell><cell></cell><cell>years.</cell></row><row><cell></cell><cell></cell><cell>The gap between well-being aspirations and current well-being.</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 3 .</head><label>3</label><figDesc xml:id="_wfFnKhs">Socioeconomic differences between control and treatment groups.</figDesc><table><row><cell></cell><cell>Controls</cell><cell>Treated</cell><cell>Difference</cell></row><row><cell>Average age of the household members</cell><cell>22.31 [7.450]</cell><cell>22.30 [7.158]</cell><cell>-0.01 (0.526)</cell></row><row><cell>SOF participant age</cell><cell>41.35 [10.34]</cell><cell>41.71 [10.69]</cell><cell>0.36 (0.766)</cell></row><row><cell>Age of the HH</cell><cell>44.77 [11.28]</cell><cell>45.24 [12.16]</cell><cell>0.47 (0.816)</cell></row><row><cell>Proportion of male HH</cell><cell>0.654 [0.477]</cell><cell>0.547 [0.498]</cell><cell>-0.107 (0.036) ***</cell></row><row><cell>Proportion of male participants</cell><cell>0.217 [0.413]</cell><cell>0.100 [0.300]</cell><cell>-0.117 (0.025) ***</cell></row><row><cell>Household size</cell><cell>6.038 [1.834]</cell><cell>6.195 [1.931]</cell><cell>0.156 (0.138)</cell></row><row><cell>Total men in the household</cell><cell>3.136 [1.376]</cell><cell>3.107 [1.493]</cell><cell>-0.029 (0.105)</cell></row><row><cell>Total women in the household</cell><cell>2.899 [1.364]</cell><cell>3.088 [1.450]</cell><cell>0.189 (0.103) *</cell></row><row><cell>Average years of education of the HH</cell><cell>5.021 [2.604]</cell><cell>4.932 [2.636]</cell><cell>-0.089 (0.190)</cell></row><row><cell>Participants' average years of education</cell><cell>4.930 [2.480]</cell><cell>4.839 [2.724]</cell><cell>-0.091 (0.192)</cell></row><row><cell>Number of working household members</cell><cell>2.465 [1.386]</cell><cell>2.467 [1.413]</cell><cell>0.002 (0.102)</cell></row><row><cell>Number of unemployed household members</cell><cell>0 [0]</cell><cell>0.007 [0.0835]</cell><cell>0.007 (0.005)</cell></row><row><cell>Proportion of poor households</cell><cell>0.179 [0.384]</cell><cell>0.184 [0.388]</cell><cell>0.005 (0.028)</cell></row><row><cell>Proportion of households in extreme poverty</cell><cell>0.807 [0.395]</cell><cell>0.801 [0.399]</cell><cell>-0.006 (0.029)</cell></row><row><cell>Observations</cell><cell>1,005</cell><cell></cell><cell></cell></row><row><cell cols="4">Mean coefficients, standard deviations in brackets. P-values in parentheses ***p &lt; 0.01, ** p &lt; 0.05 * p &lt; 0.1.</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 4 .</head><label>4</label><figDesc xml:id="_6xRnGgw">Proportion of poor and extremely poor households in the sample.</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell>End line</cell><cell></cell></row><row><cell>Baseline</cell><cell></cell><cell>Extreme poverty</cell><cell>Poverty</cell><cell>Non-poor</cell></row><row><cell cols="2">A. Households living under the poverty line</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Extreme poverty</cell><cell>354</cell><cell>299</cell><cell>52</cell><cell>3</cell></row><row><cell>Poverty</cell><cell>53</cell><cell>31</cell><cell>21</cell><cell>1</cell></row><row><cell>Non-poor</cell><cell>4</cell><cell>2</cell><cell>2</cell><cell>0</cell></row><row><cell>B. Poverty by PPI</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Extreme poverty</cell><cell>146</cell><cell>47</cell><cell>77</cell><cell>22</cell></row><row><cell>Poverty</cell><cell>190</cell><cell>23</cell><cell>109</cell><cell>58</cell></row><row><cell>Non-poor</cell><cell>82</cell><cell>3</cell><cell>22</cell><cell>57</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 5 .</head><label>5</label><figDesc xml:id="_BmMHjD9">Effects of SOF on poverty variables.</figDesc><table><row><cell></cell><cell>OLS</cell><cell>IV</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Variables</cell><cell>Effect</cell><cell>Effect</cell><cell>Effect as SD</cell><cell>p-value</cell><cell>RW</cell><cell>q-value</cell></row><row><cell>Poverty measured by the poverty line</cell><cell>-0.0127</cell><cell>-0.0864*</cell><cell>-0.23*</cell><cell>0.0971</cell><cell>0.2772</cell><cell>0.3500</cell></row><row><cell></cell><cell>(0.028)</cell><cell>(0.052)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Extreme poverty measured by poverty line</cell><cell>0.0108</cell><cell>0.0887</cell><cell>0.22</cell><cell>0.1053</cell><cell>0.2772</cell><cell>0.3500</cell></row><row><cell></cell><cell>(0.028)</cell><cell>(0.055)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Poverty by PPI</cell><cell>-0.0538</cell><cell>-0.0064</cell><cell>-0.01</cell><cell>0.9241</cell><cell>0.9208</cell><cell>0.3610</cell></row><row><cell></cell><cell>(0.035)</cell><cell>(0.067)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Extreme poverty by PPI</cell><cell>0.0340</cell><cell>0.0516</cell><cell>0.15</cell><cell>0.2121</cell><cell>0.3267</cell><cell>0.3500</cell></row><row><cell></cell><cell>(0.026)</cell><cell>(0.041)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Poverty measured by MPI</cell><cell>-0.0023</cell><cell>0.0394</cell><cell>0.20</cell><cell>0.1553</cell><cell>0.2970</cell><cell>0.3500</cell></row><row><cell></cell><cell>(0.014)</cell><cell>(0.028)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Observations</cell><cell>1005</cell><cell>1005</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note xml:id="_jJFE7Cd"><p>All regressions include dummies for districts. Standard errors are presented in parenthesis, ***p &lt; 0.01, ** p &lt; 0.05 * p &lt; 0.1.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 6 .</head><label>6</label><figDesc xml:id="_5Y4yRs7">Effects of SOF on the households' assets (USD ppp).</figDesc><table><row><cell>Variables</cell><cell>OLS Effect</cell><cell>IV Effect</cell><cell>Effect as SD</cell><cell>p-value</cell><cell>RW</cell><cell>q-value</cell></row><row><cell>Value of non-perishable good</cell><cell>-26.69</cell><cell>22.78</cell><cell>0.03</cell><cell>0.8419</cell><cell>0.9802</cell><cell>0.5080</cell></row><row><cell></cell><cell>(64.439)</cell><cell>(114.179)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Value of households' assets</cell><cell>240.6</cell><cell>633.6*</cell><cell>0.31*</cell><cell>0.0640</cell><cell>0.3069</cell><cell>0.1130</cell></row><row><cell></cell><cell>(209.750)</cell><cell>(342.106)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Value of animals</cell><cell>182.7</cell><cell>412.6*</cell><cell>0.28*</cell><cell>0.0759</cell><cell>0.3267</cell><cell>0.1130</cell></row><row><cell></cell><cell>(173.773)</cell><cell>(232.433)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Value of productive assets</cell><cell>-3.684</cell><cell>14.54</cell><cell>0.05</cell><cell>0.7573</cell><cell>0.9802</cell><cell>0.5080</cell></row><row><cell></cell><cell>(27.021)</cell><cell>(47.064)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Value of productive infrastructure</cell><cell>88.22***</cell><cell>183.7***</cell><cell>1.38***</cell><cell>0.0000</cell><cell>0.0099</cell><cell>0.0010</cell></row><row><cell></cell><cell>(15.615)</cell><cell>(37.893)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Observations</cell><cell>1005</cell><cell>1005</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="7">All regressions include dummies for districts, a dummy for participant's sex and one for their age. Standard errors are presented in</cell></row><row><cell cols="2">parenthesis, ***p &lt; 0.01, ** p &lt; 0.05 * p &lt; 0.1.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Table 7 .</head><label>7</label><figDesc xml:id="_68TaD6Z">SOF effects on income (all values in USD ppp).</figDesc><table><row><cell></cell><cell cols="4">OLS Effect IV Effect Effect as SD p-value</cell><cell>RW</cell><cell>q-value</cell></row><row><cell>Households' per capita total monthly income</cell><cell>0.363</cell><cell>-5.207</cell><cell>-0.13</cell><cell cols="2">0.2950 0.2871 0.1070</cell></row><row><cell></cell><cell>(2.725)</cell><cell>(4.973)</cell><cell></cell><cell></cell></row><row><cell>Non-farming per capita monthly income</cell><cell>-2.949</cell><cell>-10.73**</cell><cell>-0.31**</cell><cell cols="2">0.0160 0.1287 0.0390</cell></row><row><cell></cell><cell>(2.199)</cell><cell>(4.453)</cell><cell></cell><cell></cell></row><row><cell>Farming related per capita monthly income</cell><cell>3.469**</cell><cell>4.573*</cell><cell>0.24*</cell><cell cols="2">0.0722 0.1881 0.0510</cell></row><row><cell></cell><cell>(1.361)</cell><cell>(2.543)</cell><cell></cell><cell></cell></row><row><cell>Social aid related monthly per capita income</cell><cell>1.617*</cell><cell>4.288**</cell><cell>0.30**</cell><cell cols="2">0.0186 0.1287 0.0390</cell></row><row><cell></cell><cell>(0.950)</cell><cell>(1.823)</cell><cell></cell><cell></cell></row><row><cell>Participants' total monthly labour income</cell><cell>28.96***</cell><cell>31.89**</cell><cell>0.29**</cell><cell cols="2">0.0261 0.0990 0.0850</cell></row><row><cell></cell><cell>(8.230)</cell><cell>(14.333)</cell><cell></cell><cell></cell></row><row><cell>Participants' monthly labour income from paid work</cell><cell>38.74</cell><cell>77.30</cell><cell>0.37</cell><cell cols="2">0.2506 0.3069 0.1380</cell></row><row><cell></cell><cell>(38.081)</cell><cell>(67.286)</cell><cell></cell><cell></cell></row><row><cell>Participants' monthly income from independent work</cell><cell>18.44***</cell><cell>17.93*</cell><cell>0.23*</cell><cell cols="2">0.0805 0.1386 0.0880</cell></row><row><cell></cell><cell>(5.312)</cell><cell>(10.260)</cell><cell></cell><cell></cell></row><row><cell>Observations</cell><cell>582</cell><cell>582</cell><cell></cell><cell></cell></row></table><note xml:id="_FPAZn6a"><p>All regressions include dummies for districts. Regressions of households' income include head of household sociodemographic (age, sex, formal education), and household composition (proportion of males and of working age members). Regressions of participants' income include their age and sex as covariates. Standard errors are presented in parenthesis, ***p &lt; 0.01, ** p &lt; 0.05 * p &lt; 0.1.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6"><head>Table 8 .</head><label>8</label><figDesc xml:id="_JESvysu">SOF effects on working hours.</figDesc><table><row><cell></cell><cell>OLS Effect</cell><cell>IV Effect</cell><cell>Effect as SD</cell><cell>p-value</cell><cell>RW</cell><cell>q-value</cell></row><row><cell>Participants' daily working hours</cell><cell>0.529**</cell><cell>0.844**</cell><cell>0.29**</cell><cell>0.0494</cell><cell>0.2079</cell><cell>0.1020</cell></row><row><cell></cell><cell>(0.226)</cell><cell>(0.430)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Head of household daily working hours</cell><cell>0.260</cell><cell>0.322</cell><cell>0.11</cell><cell>0.4596</cell><cell>0.4554</cell><cell>0.1810</cell></row><row><cell></cell><cell>(0.227)</cell><cell>(0.435)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Average daily working hours per household</cell><cell>0.184</cell><cell>0.577*</cell><cell>0.24*</cell><cell>0.0613</cell><cell>0.2079</cell><cell>0.1020</cell></row><row><cell></cell><cell>(0.193)</cell><cell>(0.308)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Observations</cell><cell>979</cell><cell>979</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="7">All regressions include dummies for districts, as well as variables for participants' sex and age. Standard errors are presented in</cell></row><row><cell>parenthesis, ***p &lt; 0.01, ** p &lt; 0.05 * p &lt; 0.1.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_7"><head>Table 9 .</head><label>9</label><figDesc xml:id="_YcxWMU4">SOF effects on savings.</figDesc><table><row><cell></cell><cell>OLS Effect</cell><cell>IV Effect</cell><cell>Effect as SD</cell><cell>p-value</cell><cell>RW</cell><cell>q-value</cell></row><row><cell>Probability of saving-Formal (%)</cell><cell>0.00272</cell><cell>-0.0128</cell><cell>-0.13</cell><cell>0.5620</cell><cell>0.5050</cell><cell>0.1290</cell></row><row><cell></cell><cell>(0.008)</cell><cell>(0.022)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Probability of saving-Informal (%)</cell><cell>0.123***</cell><cell>0.139***</cell><cell>0.80***</cell><cell>0.0030</cell><cell>0.0990</cell><cell>0.0160</cell></row><row><cell></cell><cell>(0.026)</cell><cell>(0.047)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Probability of saving-in-kind (%)</cell><cell>-0.0251*</cell><cell>-0.0266*</cell><cell>-0.14*</cell><cell>0.0908</cell><cell>0.2178</cell><cell>0.0740</cell></row><row><cell></cell><cell>(0.014)</cell><cell>(0.016)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Probability of saving-Cash (%)</cell><cell>0.126***</cell><cell>0.131***</cell><cell>0.68***</cell><cell>0.0089</cell><cell>0.1188</cell><cell>0.0190</cell></row><row><cell></cell><cell>(0.027)</cell><cell>(0.050)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Probability of saving -Total (%)</cell><cell>0.0979***</cell><cell>0.103**</cell><cell>0.39**</cell><cell>0.0460</cell><cell>0.2178</cell><cell>0.0490</cell></row><row><cell></cell><cell>(0.028)</cell><cell>(0.052)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Observations</cell><cell>1005</cell><cell>1005</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="7">All regressions include dummies for districts, heads of households' variables for sex and age, and households' composition</cell></row><row><cell cols="7">variables for household composition (proportion of men and working age members). Standard errors are presented in</cell></row><row><cell cols="2">parenthesis, ***p &lt; 0.01, ** p &lt; 0.05 * p &lt; 0.1.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_8"><head>Table 10 .</head><label>10</label><figDesc xml:id="_ffVMgKt">SOF effects on expenditures.</figDesc><table><row><cell>OLS</cell><cell>Effect as</cell><cell></cell></row><row><cell>Effect IV Effect</cell><cell>SD</cell><cell>p-value RW q-value</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_9"><head>Table 11 .</head><label>11</label><figDesc xml:id="_mNUgtBX">SOF effects on food security.</figDesc><table><row><cell></cell><cell>OLS Effect</cell><cell>IV Effect</cell><cell>Effect as SD</cell><cell>p-value</cell><cell>RW</cell><cell>q-value</cell></row><row><cell>Food insecurity</cell><cell>0.00782</cell><cell>0.0582*</cell><cell>0.22*</cell><cell>0.0881</cell><cell>0.3168</cell><cell>0.2140</cell></row><row><cell></cell><cell>(0.020)</cell><cell>(0.034)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Food security</cell><cell>-0.00797</cell><cell>-0.101**</cell><cell>-0.30**</cell><cell>0.0186</cell><cell>0.0693</cell><cell>0.1030</cell></row><row><cell></cell><cell>(0.025)</cell><cell>(0.043)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Slight security</cell><cell>0.0125</cell><cell>0.011</cell><cell>0.02</cell><cell>0.8530</cell><cell>0.8614</cell><cell>0.8540</cell></row><row><cell></cell><cell>(0.036)</cell><cell>(0.059)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Moderate insecurity</cell><cell>-0.0128</cell><cell>0.0636</cell><cell>0.14</cell><cell>0.2763</cell><cell>0.7228</cell><cell>0.3820</cell></row><row><cell></cell><cell>(0.036)</cell><cell>(0.058)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Severe insecurity</cell><cell>0.00823</cell><cell>0.0263</cell><cell>0.08</cell><cell>0.4919</cell><cell>0.8119</cell><cell>0.5850</cell></row><row><cell></cell><cell>(0.026)</cell><cell>(0.038)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Observations</cell><cell>1005</cell><cell>1005</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="7">All regressions include dummies for districts. Standard errors are presented in parenthesis, ***p &lt; 0.01, ** p &lt; 0.05 * p &lt; 0.1.</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_10"><head>Table 12 .</head><label>12</label><figDesc xml:id="_JQ29Pda">SOF effects on wellbeing.</figDesc><table><row><cell></cell><cell>OLS Effect</cell><cell>IV Effect</cell><cell>Effect as SD</cell><cell>p-value</cell><cell>RW</cell><cell>q-value</cell></row><row><cell>Wellbeing perception</cell><cell>0.264***</cell><cell>0.275*</cell><cell>0.30*</cell><cell>0.0558</cell><cell>0.1485</cell><cell>0.2010</cell></row><row><cell></cell><cell>(0.089)</cell><cell>(0.144)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>5-year expectations</cell><cell>0.133</cell><cell>0.0637</cell><cell>0.05</cell><cell>0.6967</cell><cell>0.6634</cell><cell>0.3790</cell></row><row><cell></cell><cell>(0.097)</cell><cell>(0.164)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>2-year expectations</cell><cell>0.147</cell><cell>0.199</cell><cell>0.20</cell><cell>0.1830</cell><cell>0.3366</cell><cell>0.2240</cell></row><row><cell></cell><cell>(0.093)</cell><cell>(0.150)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Observations</cell><cell>1002</cell><cell>1002</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="7">All regressions include dummies for districts. Standard errors are presented in parenthesis, ***p &lt; 0.01, ** p &lt; 0.05 * p &lt; 0.1.</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_11"><head>Table 13 .</head><label>13</label><figDesc xml:id="_2UECUs4">SOF effects on empowerment.</figDesc><table><row><cell></cell><cell>OLS Effect</cell><cell>IV Effect</cell><cell>Effect as SD</cell><cell>p-value</cell><cell>RW</cell><cell>q-value</cell></row><row><cell>Empowerment scale -ESAGE</cell><cell>-0.910</cell><cell>-0.540</cell><cell>-0.03</cell><cell>0.7898</cell><cell>0.7822</cell><cell>1.000</cell></row><row><cell></cell><cell>(1.265)</cell><cell>(2.028)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Decision-making index</cell><cell>1.226</cell><cell>2.407</cell><cell>0.10</cell><cell>0.4756</cell><cell>0.7822</cell><cell>0.908</cell></row><row><cell></cell><cell>(1.900)</cell><cell>(3.374)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Gender roles scale</cell><cell>1.336</cell><cell>3.880**</cell><cell>0.34*</cell><cell>0.0309</cell><cell>0.1485</cell><cell>0.103</cell></row><row><cell></cell><cell>(0.958)</cell><cell>(1.797)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Observations</cell><cell>1005</cell><cell>1005</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="7">All regressions include dummies for districts and participants' sex. Standard errors are presented in parenthesis, ***p &lt; 0.01, ** p</cell></row><row><cell>&lt; 0.05 * p &lt; 0.1.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head xml:id="_84xzEpp">Acknowledgments</head><p xml:id="_7wCUAX5">We want to express our gratitude to the <rs type="funder">International Development Research Centre (IDRC)</rs>, the <rs type="funder">Ford Foundation</rs>, and the <rs type="funder">Capital Foundation</rs>, which, as donors through the <rs type="programName">Platform for Evaluation and Learning of the Graduation Program in Latin America</rs> (<ref type="url" target="https://plataformagraduacionla.info">https://plataformagraduacionla.info</ref>), made it possible to assess the '<rs type="programName">Sembrando Oportunidades Familia por Familia' program</rs>. Special thanks also go to all SOF participants who opened the doors of their homes to us. Without their willingness and commitment, this study would have been impossible. We also thank the in-filed team of the program who oversaw the participants and who made a great effort to support us. We also acknowledge the participation of the '<rs type="institution">Secretaría Técnica de Planificación' (STP)</rs> of the <rs type="institution">Paraguayan government</rs>, whose work, participation, and kind comments allow the successful completion of the evaluation. We also are grateful for the comments of <rs type="person">José Molinas</rs>, <rs type="person">Rocío Moreno Sánchez</rs>, the members of the Platform's</p></div>
+			</div>
+			<div type="funding">
+<div><head xml:id="_nuha4aW">Funding</head><p xml:id="_A9pVhDj">The work was supported by the <rs type="funder">Ford Foundation [NA]</rs>; <rs type="funder">International Development Research Centre [NA]</rs>; <rs type="funder">Fundacion Capital</rs> [NA]   </p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_mkFZt2J">
+					<orgName type="program" subtype="full">Platform for Evaluation and Learning of the Graduation Program in Latin America</orgName>
+				</org>
+				<org type="funding" xml:id="_APXszsk">
+					<orgName type="program" subtype="full">Sembrando Oportunidades Familia por Familia&apos; program</orgName>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_knF3uXd"><p xml:id="_R73UuFY">Appendix Appendix A1. Alternative results re-assigning treated households under the PRODERS and the Extended Pilot versions of the program to the control group OLS IV Effect Effect Effect as SD Poverty variables Poverty measured by the poverty line -0.0328 -0.0595* -0.15* (0.028) (0.035) Extreme poverty measured by poverty line 0.0347 0.0611* 0.15* (0.030) (0.036) Poverty by PPI -0.0223 -0.00436 -0.01 (0.038) (0.046) Extreme poverty by PPI 0.0296 0.0351 0.10 (0.024) (0.028) Poverty measured by MPI 0.0127 0.0269 0.13 (0.014) (0.019) Households' assets variables Value of non-perishable goods -19.19 15.50 0.02 (62.221) (77.595) Value of household's assets 247.5 431.0* 0.20* (195.683) (234.720) Value of animals 159.3 280.7* 0.19* (135.881) (161.166) Value of productive assets -10.71 9.894 0.03 (27.426) (32.149) Value of productive infrastructure 118.1*** 124.9*** 0.83*** (19.809) (22.047) Income variables Households' per capita total monthly income -1.087 -3.578 -0.08 (2.853) (3.365) Non-farming per capita monthly income -6.255** -7.357** -0.19** (2.972) (2.970) Farming related per capita monthly income 4.003** 3.136* 0.16* (1.588) (1.790) Social aid related monthly per capita income 2.709*** 2.920** 0.23** (0.987) (1.235) Participants' total monthly labour income 22.54** 21.18** 0.18** (9.686) (9.497) Participants' monthly labour income from paid work 31.06 41.59 0.20 (33.680) (33.375) Participants' monthly income from independent work 11.39* 12.31* 0.14* (6.470) (7.245) Working hours variables Daily working hours participant 0.636*** 0.561** 0.19** (0.234) (0.276) Daily working hours head household 0.299 0.217 0.07 (0.279) (0.293) Daily working hours household average 0.401** 0.393* 0.17* (0.185) (0.204) Savings (Continued)</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="consolidated"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main" xml:id="_dwp3mHq">Multiple Inference and Gender Differences in the Effects of Early Intervention: A Reevaluation of the Abecedarian, Perry Preschool, and Early Training Projects</title>
+		<author>
+			<persName><forename type="first">Michael</forename><forename type="middle">L</forename><surname>Anderson</surname></persName>
+		</author>
+		<idno type="DOI">10.1198/016214508000000841</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_QEMsZAx">Journal of the American Statistical Association</title>
+		<title level="j" type="abbrev">Journal of the American Statistical Association</title>
+		<idno type="ISSN">0162-1459</idno>
+		<idno type="ISSNe">1537-274X</idno>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="issue">484</biblScope>
+			<biblScope unit="page" from="1481" to="1495" />
+			<date type="published" when="2008-12-01">2008</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main" xml:id="_WkC2jnu">Identification of Causal Effects Using Instrumental Variables</title>
+		<author>
+			<persName><forename type="first">Joshua</forename><forename type="middle">D</forename><surname>Angrist</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Guido</forename><forename type="middle">W</forename><surname>Imbens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Donald</forename><forename type="middle">B</forename><surname>Rubin</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01621459.1996.10476902</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_KRW9zGb">Journal of the American Statistical Association</title>
+		<title level="j" type="abbrev">Journal of the American Statistical Association</title>
+		<idno type="ISSN">0162-1459</idno>
+		<idno type="ISSNe">1537-274X</idno>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="issue">434</biblScope>
+			<biblScope unit="page" from="444" to="455" />
+			<date type="published" when="1996-06">1996</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main" xml:id="_kbMcXRy">Mostly Harmless Econometrics</title>
+		<author>
+			<persName><forename type="first">Joshua</forename><forename type="middle">D</forename><surname>Angrist</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jörn-Steffen</forename><surname>Pischke</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/j.ctvcm4j72</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_ZsUAW24">Mostly Harmless Econometrics: An Empiricist&apos;s Companion</title>
+		<meeting><address><addrLine>Princeton</addrLine></address></meeting>
+		<imprint>
+			<publisher>Princeton University Press</publisher>
+			<date type="published" when="2008-12-15">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main" xml:id="_Sgd4M84">Empowering Adolescent Girls</title>
+		<author>
+			<persName><forename type="first">Oriana</forename><surname>Bandiera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Niklas</forename><surname>Buehren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robin</forename><surname>Burgess</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Markus</forename><surname>Goldstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Selim</forename><surname>Gulesci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Imran</forename><surname>Rasul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Munshi</forename><surname>Sulaiman</surname></persName>
+		</author>
+		<idno type="DOI">10.1596/25529</idno>
+		<ptr target="http://dspace.bracu.ac.bd/xmlui/handle/10361/15931" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_xeWkBab">BRAC, Research and Evaluation Division</title>
+		<imprint>
+			<date type="published" when="2012-12">2012</date>
+			<publisher>World Bank, Washington, DC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b4">
+	<analytic>
+		<author>
+			<persName><forename type="first">Abhijit</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Esther</forename><surname>Duflo</surname></persName>
+		</author>
+		<ptr target="https://ebookcentral.proquest.com/lib/gatech/detail.action?docID=876489" />
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_bk57TDz">A Billion Hungry People? Poor economics: A radical rethinking of the way to fight global poverty</title>
+		<title level="s" xml:id="_ButSwaz">ProQuest Ebook Central</title>
+		<imprint>
+			<publisher>PublicAffairs</publisher>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b5">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">V</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Duflo</surname></persName>
+		</author>
+		<title level="m" xml:id="_a42uEqd">Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>PublicAffairs</publisher>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main" xml:id="_PCc3H57">IDS Working Paper Research Summary 360: Does Research Reduce Poverty? Assessing the Welfare Impacts of Policy‐oriented Research in Agriculture</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Chattopadhyay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shapiro</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.2040-0209.2011.00360_1.x</idno>
+		<ptr target="https://www.povertyactionlab.org/sites/default/files/research-paper/110-%20November%202011.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_jFaZBcb">IDS Working Papers</title>
+		<title level="j" type="abbrev">IDS Working Papers</title>
+		<idno type="ISSN">1353-6141</idno>
+		<idno type="ISSNe">2040-0209</idno>
+		<imprint>
+			<biblScope unit="volume">2011</biblScope>
+			<biblScope unit="issue">360</biblScope>
+			<date type="published" when="2011-03">2011</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+	<note>Poverty Action Lab Working paper</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main" xml:id="_9QHnNnH">A multifaceted program causes lasting progress for the very poor: Evidence from six countries</title>
+		<author>
+			<persName><forename type="first">Abhijit</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Esther</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nathanael</forename><surname>Goldberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dean</forename><surname>Karlan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Osei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">William</forename><surname>Parienté</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeremy</forename><surname>Shapiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bram</forename><surname>Thuysbaert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Udry</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.1260799</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_CNUNW7w">Science</title>
+		<title level="j" type="abbrev">Science</title>
+		<idno type="ISSN">0036-8075</idno>
+		<idno type="ISSNe">1095-9203</idno>
+		<imprint>
+			<biblScope unit="volume">348</biblScope>
+			<biblScope unit="issue">6236</biblScope>
+			<biblScope unit="page">1260799</biblScope>
+			<date type="published" when="2015-05-15">2015</date>
+			<publisher>American Association for the Advancement of Science (AAAS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main" xml:id="_ZrN6jq8">2. Arbeiten mit Do-Files</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Raghabendra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shapiro</surname></persName>
+		</author>
+		<idno type="DOI">10.1515/9783110469509-004</idno>
+		<ptr target="https://economics.mit.edu/files/12031" />
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_CNX6pd6">Datenanalyse mit Stata</title>
+		<imprint>
+			<publisher>De Gruyter</publisher>
+			<date type="published" when="2016-11-21">2016</date>
+			<biblScope unit="page" from="34" to="51" />
+		</imprint>
+	</monogr>
+	<note type="report_type">MIT files</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main" xml:id="_zx5p4aG">Adaptive linear step-up procedures that control the false discovery rate</title>
+		<author>
+			<persName><forename type="first">Yoav</forename><surname>Benjamini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Abba</forename><forename type="middle">M</forename><surname>Krieger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Daniel</forename><surname>Yekutieli</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/biomet/93.3.491</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_2RprqPw">Biometrika</title>
+		<idno type="ISSN">0006-3444</idno>
+		<idno type="ISSNe">1464-3510</idno>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="491" to="507" />
+			<date type="published" when="2006-09-01">2006</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main" xml:id="_qgwXfFy">Index</title>
+		<idno type="DOI">10.1515/9781565493155-027</idno>
+		<ptr target="http://www.ilo.org/global/docs/WCMS_494535/lang-en/index.htm" />
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_YeJ2KTx">Freedom From Want</title>
+		<imprint>
+			<publisher>Lynne Rienner Publishers</publisher>
+			<date type="published" when="2015-01">2015. January 2016</date>
+			<biblScope unit="page" from="269" to="284" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main" xml:id="_ZepcWGN">The Romano–Wolf multiple-hypothesis correction in Stata</title>
+		<author>
+			<persName><forename type="first">Damian</forename><surname>Clarke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Joseph</forename><forename type="middle">P</forename><surname>Romano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Wolf</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1536867x20976314</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Kffnn23">The Stata Journal: Promoting communications on statistics and Stata</title>
+		<title level="j" type="abbrev">The Stata Journal: Promoting communications on statistics and Stata</title>
+		<idno type="ISSN">1536-867X</idno>
+		<idno type="ISSNe">1536-8734</idno>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="812" to="843" />
+			<date type="published" when="2020-12">2020</date>
+			<publisher>SAGE Publications</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main" xml:id="_VFTYS3q">Poverty and Aspirations Failure</title>
+		<author>
+			<persName><forename type="first">Patricio</forename><forename type="middle">S</forename><surname>Dalton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sayantan</forename><surname>Ghosal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anandi</forename><surname>Mani</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/ecoj.12210</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_thBWMjf">The Economic Journal</title>
+		<idno type="ISSN">0013-0133</idno>
+		<idno type="ISSNe">1468-0297</idno>
+		<imprint>
+			<biblScope unit="volume">126</biblScope>
+			<biblScope unit="issue">590</biblScope>
+			<biblScope unit="page" from="165" to="188" />
+			<date type="published" when="2015-07-02">2015</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main" xml:id="_9JS4qvR">FAO COVID-19 Response and Recovery Programme - Economic inclusion and social protection to reduce poverty</title>
+		<idno type="DOI">10.4060/cb0282en</idno>
+		<ptr target="https://doi.org/10.4060/cb0282en" />
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_xMxjez6">FAO COVID-19 Response and Recovery Programme -Economic inclusion and social protection to reduce poverty: Pro-poor COVID-19 responses for an inclusive post-pandemic economic recovery</title>
+		<meeting><address><addrLine>Rome</addrLine></address></meeting>
+		<imprint>
+			<publisher>FAO</publisher>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b14">
+	<monogr>
+		<title level="m" type="main" xml:id="_bU4Crtq">La gobernanza de las alianzas público-privadas: Un análisis comparado de América Latina</title>
+		<author>
+			<persName><forename type="first">Joan</forename><forename type="middle">Oriol</forename><surname>Prats Cabrera</surname></persName>
+		</author>
+		<idno type="DOI">10.18235/0000572</idno>
+		<ptr target="http://fundacioncapital.org/2016/05/nuevas-alianzas-nuevos-enfoques-graduacion/" />
+		<imprint>
+			<date type="published" when="2016-06">2016. June 2016</date>
+			<publisher>Inter-American Development Bank</publisher>
+			<pubPlace>Asunción, Paraguay</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b15">
+	<monogr>
+		<title level="m" type="main" xml:id="_eAEYBMk">Running Randomized Evaluations</title>
+		<author>
+			<persName><forename type="first">Rachel</forename><surname>Glennerster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kudzai</forename><surname>Takavarasha</surname></persName>
+		</author>
+		<idno type="DOI">10.1515/9781400848447</idno>
+		<imprint>
+			<date type="published" when="2014-12-31">2014</date>
+			<publisher>Princeton University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b16">
+	<analytic>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hashemi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>De Montesquiou</surname></persName>
+		</author>
+		<ptr target="https://www.cgap.org/sites/default/files/CGAP-Focus-Note-Reaching-the-Poorest-Lessons-from-the-Graduation-Model-Mar-2011.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_3fzzbKx">Reaching the Poorest: Lessons from the Graduation Model</title>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="volume">69</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main" xml:id="_DznSkUj">Instrumental Variables: An Econometrician’s Perspective</title>
+		<author>
+			<persName><forename type="first">Guido</forename><forename type="middle">W</forename><surname>Imbens</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/14-sts480</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_yKrq3w3">Statistical Science</title>
+		<title level="j" type="abbrev">Statist. Sci.</title>
+		<idno type="ISSN">0883-4237</idno>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="323" to="358" />
+			<date type="published" when="2014-08-01">2014</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b18">
+	<analytic>
+		<title level="a" type="main" xml:id="_D4EhZZ6">LA GRADUACIÓN: UN RETO PARA LOS ESTUDIANTES UNIVERSITARIOS DE PRIMERA GENERACIÓN</title>
+		<author>
+			<persName><forename type="first">Ana</forename><surname>Fanelli</surname></persName>
+		</author>
+		<idno type="DOI">10.14482/esal.1.9069</idno>
+		<ptr target="http://plataformagraduacionla.info/phocadownload/Boletines/Boletin2.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_F2xTwwb">Revista de Educación Superior en América Latina</title>
+		<title level="j" type="abbrev">esal</title>
+		<idno type="ISSN">2539-2522</idno>
+		<imprint>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="14" to="15" />
+			<date type="published" when="2017-01-15">2017</date>
+			<publisher>Universidad del Norte</publisher>
+			<pubPlace>Bogotá, Colombia; Universidad de los Andes</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main" xml:id="_XVSw3RJ">Hope as Aspirations, Agency, and Pathways: Poverty Dynamics and Microfinance in Oaxaca, Mexico</title>
+		<author>
+			<persName><forename type="first">Travis</forename><surname>Lybbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bruce</forename><surname>Wydick</surname></persName>
+		</author>
+		<idno type="DOI">10.3386/w22661</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_zB9BCt3">The Economics of Poverty Traps</title>
+		<editor>
+			<persName><forename type="first">C</forename><forename type="middle">B</forename><surname>Barret</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Carter</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Chavas</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Chicago</addrLine></address></meeting>
+		<imprint>
+			<publisher>National Bureau of Economic Research</publisher>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page" from="153" to="177" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main" xml:id="_5DgunUQ">An Overview of Multiple Hypothesis Testing Commands in Stata</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Mckenzie</surname></persName>
+		</author>
+		<ptr target="https://blogs.worldbank.org/impactevaluations/overview-multiple-hypothesis-testing-commands-stata" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_YmdC5rr">World Bank Blogs</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main" xml:id="_3Y7rtYG">Writer`s guide for technical procedures</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Montesquieu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Sheldon</surname></persName>
+		</author>
+		<idno type="DOI">10.2172/308015</idno>
+		<ptr target="http://www.cgap.org/sites/default/files/graduation_guide_final.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_9XW9V3N">From Extreme Poverty to Sustainable Livelihoods</title>
+		<meeting><address><addrLine>Washington, DC</addrLine></address></meeting>
+		<imprint>
+			<publisher>Office of Scientific and Technical Information (OSTI)</publisher>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b22">
+	<monogr>
+		<title level="m" type="main" xml:id="_N8VN7Pc">Violence and the Formation of Hopelessness and Pessimistic Prospects of Upward Mobility in Colombia</title>
+		<author>
+			<persName><forename type="first">Andrés</forename><surname>Moya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Carter</surname></persName>
+		</author>
+		<idno type="DOI">10.3386/w20463</idno>
+		<ptr target="https://www.nber.org/papers/w20463.pdf" />
+		<imprint>
+			<date type="published" when="2014-09">2014. 20463</date>
+			<publisher>National Bureau of Economic Research</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">NBER. Working Paper</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main" xml:id="_54Kx3hM">Moving Out of Poverty (Volume 1)</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Narayan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Petesch</surname></persName>
+		</author>
+		<idno type="DOI">10.1596/978-0-8213-6991-3</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_cqkGR6s">Moving Out of Poverty: Cross-Disciplinary Perspectives on Mobility</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>The World Bank</publisher>
+			<date type="published" when="2007-10">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b24">
+	<analytic>
+		<title level="a" type="main" xml:id="_G4KK2ah">Escala para medir agencia personal y empoderamiento (ESAGE)</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sirkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Ortega</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Osorio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Martínez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Xocolotzin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Givaudan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_FJReGGv">Interamerican Journal of Psychology</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="295" to="304" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b25">
+	<analytic>
+		<title level="a" type="main" xml:id="_7zN7S4V">Gobernanza de la prospectiva del proceso de planificación y gestión del desarrollo económico social en micro regiones</title>
+		<author>
+			<persName><forename type="first">Rafael</forename><surname>Espinoza Rodríguez</surname></persName>
+		</author>
+		<idno type="DOI">10.29344/07184670.39.989</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_FzAngNG">Oikos</title>
+		<title level="j" type="abbrev">Oikos</title>
+		<idno type="ISSNe">0718-4670</idno>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">39</biblScope>
+			<biblScope unit="page">113</biblScope>
+			<date type="published" when="2016-06-15">June 15, 2016. June 2016</date>
+			<publisher>Universidad Catolica Silva Henriquez</publisher>
+			<pubPlace>Asunción, Paraguay</pubPlace>
+		</imprint>
+	</monogr>
+	<note>del Desarrollo Económico y Social -STP 2016</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b26">
+	<analytic>
+		<title level="a" type="main" xml:id="_wwrYqDm">Revisión de la cuenta pública 2013 - 2014 (Secretaría de Desarrollo Social, hoy Secretaría del Bienestar): interrelaciones entre el (des)control de recursos públicos, corrupción político - administrativa e institucionalismo económico</title>
+		<author>
+			<persName><forename type="first">Santiago</forename><surname>Lechuga Suazo</surname></persName>
+			<idno type="ORCID">0009-0006-0850-0706</idno>
+		</author>
+		<idno type="DOI">10.24275/uama.7008.12636</idno>
+		<ptr target="http://www.stp.gov.py/v1/programa-sembrando-oportunidades/SecretaríaTécnica" />
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_MzbNqAd">Técnica de Planificación del Desarrollo Económico y Social -STP n.d. &quot;Sembrando Oportunidades</title>
+		<meeting><address><addrLine>Asunción, Paraguay; Asunción, Paraguay</addrLine></address></meeting>
+		<imprint>
+			<publisher>Universidad Autonoma Metropolitana</publisher>
+			<date type="published" when="2015-03">Accessed March 2015. 2016</date>
+		</imprint>
+	</monogr>
+	<note>Planificación del Desarrollo Económico y Social Manual operativo programa Sembrando Oportunidades</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

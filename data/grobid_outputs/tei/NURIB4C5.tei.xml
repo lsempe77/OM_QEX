@@ -1,0 +1,1264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" xml:id="_t29HnSp">Would You Rather? Household Choice between Cash Transfers or an Economic Inclusion Program</title>
+				<funder ref="#_kBghjEB">
+					<orgName type="full">USAID</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">United Kingdom Foreign, Commonwealth &amp; Development Office</orgName>
+					<orgName type="abbreviated">FCDO</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">CGIAR Initiative on National Policies and Strategies</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">IFPRI</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">World Bank</orgName>
+				</funder>
+				<funder ref="#_QaPv6eW">
+					<orgName type="full">CGIAR Initiative on Gender Equality (HER+)</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2024-12-18">December 18, 2024</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">James</forename><forename type="middle">Allen</forename><surname>Iv</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Daniel</forename><forename type="middle">O</forename><surname>Gilligan</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Sikandra</forename><surname>Kurdi</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Basma</forename><surname>Yassa</surname></persName>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">James</forename><surname>Allen</surname></persName>
+							<email>j.allen@cgiar.org</email>
+						</author>
+						<author>
+							<persName><roleName>Dr</roleName><forename type="first">Mr</forename><forename type="middle">Raafat</forename><surname>Shafeek</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Mona</forename><forename type="middle">Amin</forename><surname>Wahba</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Mr</forename><surname>Medhat</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Mr</forename><forename type="middle">Mohamed</forename><surname>Samy</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Eng</forename><forename type="middle">Amal</forename><surname>Helmy</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Naureen</forename><surname>Karachiwalla</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">GPRL- IPA Researcher Gathering</orgName>
+								<orgName type="institution" key="instit1">International Food Policy Research Institute (IFPRI</orgName>
+								<orgName type="institution" key="instit2">University of Michigan&apos;s MDev Conference</orgName>
+								<address>
+									<postCode>2024</postCode>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department">the Global Economy and Development Seminar</orgName>
+								<orgName type="institution" key="instit1">Northwestern University</orgName>
+								<orgName type="institution" key="instit2">American University</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main" xml:id="_Yses8tV">Would You Rather? Household Choice between Cash Transfers or an Economic Inclusion Program</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2024-12-18">December 18, 2024</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">690D176090C07A33B87110E188B04ABB</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2025-11-04T21:02+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a292bac</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=1, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=true, generateTeiCoordinates=[true], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_CrmMYs9"><p xml:id="_Esj9Vtx">We study households' choice between continued cash transfers and a new economic inclusion program-two global prevalent social protection programs-offered by the Egyptian government. Lower-than-expected early adoption of the new program is correlated with differing perceptions on its design. We randomize official messaging to households describing the new program's (i) consumption support duration and (ii) income-earning potential. Both treatments increase respondents' likelihood of recommending the new program. A theoretical model estimated using households' perceptions of program design predicts interest in the new program, and how it diminishes with increasing effort costs, asset loss probability, risk aversion and loss aversion.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="10" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="11" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="12" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="13" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="14" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="15" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="16" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="17" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="18" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="19" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="20" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="21" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="22" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="23" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="24" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="25" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="26" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="27" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="28" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="29" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="30" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="31" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="32" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="33" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="34" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="35" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="36" ulx="0.0" uly="0.0" lrx="792.0" lry="612.0"/>
+		<surface n="37" ulx="0.0" uly="0.0" lrx="792.0" lry="612.0"/>
+		<surface n="38" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="39" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1" xml:id="_KndPtvV">Introduction</head><p xml:id="_HvG3Fzd">Cash transfer programs are the most common form of social protection worldwide, planned or implemented in 186 countries and outnumbering the combined number of pension, social security, and unemployment programs (Gentilini   et al. 2021). However, their persistent fiscal burden due to limited long-term impacts on poverty reduction (Hidrobo   et al. 2018; Millán et al. 2019), low turnover (Ceratti 2014; Villa and Niño-Zarazúa 2014), and reliance on external funding (Bossuroy and Coudouel 2018) raises policymakers' concerns about their sustainability. Economic inclusion programs are an alternative policy option that typically provide one-time asset transfers, financial inclusion interventions, skills training, and consumption support to facilitate a "big push" out of poverty (Banerjee et al. 2015; Balboni   et al. 2022; Bandiera et al. 2017; Brune et al. 2022; Bossuroy et al. 2022). Such economic inclusion programs, including so-called "poverty graduation" approaches, have experienced a nearly 50 percent increase in coverage in the last four years and are now active in 88 countries (Andrews et al. 2021; Arévalo-Sánchez et al. 2024).</p><p xml:id="_AEhTPfy">One such country is Egypt, where the government is piloting an economic inclusion program that aims to directly support exit from its popular but fiscally constrained national cash transfer program (Breisinger et al. 2018). To garner support for the new option, the government provided cash transfer recipient households with a choice: would you rather remain eligible for the monthly cash transfer or opt into the economic inclusion program? Despite high rates of self-reported interest, only 32 percent of eligible households had signed up for the economic inclusion program midway through recruitment. This setup provides a novel opportunity in a real-world setting to study the following research question: What factors affect household choice between existing cash transfers and a new economic inclusion program? Understanding their decision has significant implications for how best to design and scale up national social safety net programs in Egypt and globally.</p><p xml:id="_D3mhz3t">We start with a simple theoretical model in which households choose between the cash transfer program and the economic inclusion program based on which offers a higher present discounted value (PDV) of future income. Return from cash transfers are set by the transfer size, frequency and duration in the existing cash transfer program. In Egypt, monthly cash transfers represent about 17 percent of household expenditures for the average beneficiary (Kurdi et   al. 2018), and many recipients expect to receive transfers indefinitely (though their eligibility is formally reassessed about every three years). In contrast, returns from the economic inclusion program are a function of the size, frequency and duration of any consumption support and the expected income from the income-generating activity provided by the program. Since the Egyptian government decided early on that the economic inclusion program's consumption support would be equivalent to current monthly cash transfers, the model predicts that two design parameters of the economic inclusion program should positively influence its take-up: 1) the duration of consumption-support transfers and 2) monthly income resulting from the income-generating activity supported by the program.</p><p xml:id="_rwfaBsZ">To test the model, we conduct a household survey during the period of recruitment for the economic inclusion program to capture respondent beliefs about their decision while the choice is still salient and consequential. First, we collect data on demographics and current program participation to characterize early adopters of the economic inclusion program-that is, those who had already signed up for the program midway through the recruitment process.</p><p xml:id="_wDJh27x">Then, we embed an experiment that randomizes the delivery of video messages, produced by the government, that provide a credible updating on key design features of the economic inclusion program. In addition to a control video providing only basic information,<ref type="foot" target="#foot_0">foot_0</ref> the two treatment videos share 1) an announcement of a new official policy on the duration of consumption support in the economic inclusion program or 2) testimonies highlighting monthly income earned by current program participants. Following the video message, we ask respondents about their own interest in the economic inclusion program, whether they would recommend it to a friend or neighbor, and their expectations about how the program would be implemented if they were to join. Finally, we match respondent expectations to design parameters in order to estimate the predictive power of the theoretical model and to understand how decisions vary due to effort costs, risk preferences, and other factors.</p><p xml:id="_RqSVdsC">This study reveals multiple sets of findings on household choice between social protection programs, including descriptive statistics on determinants of their choices, experimental evidence on the importance of design parameters, and results on the role of preferences from estimation of the theoretical model. First, we observe that 32 percent of sample households report having already signed up for the economic inclusion program at the time of the survey, midway through program recruitment, which fell far below policymaker expectations. Those households quick to sign up for the economic inclusion program are significantly larger in size, more likely to nominate a woman as the likely beneficiary, and more likely to report a recent shock. Additionally, both attending a program informational meeting or hearing information about it from an official source are positively correlated with signing up for the program.</p><p xml:id="_PKuUpKq">However, we observe no significant difference in signing up for the economic inclusion program between current cash transfer recipients and nearly eligible non-recipients, countering researcher expectations that non-recipients have less to lose by joining the economic inclusion program but consistent with outreach being logistically easier for current cash transfer beneficiaries.</p><p xml:id="_cRapbFG">Second, we assess perceptions of program design for the economic inclusion program among experiment's control group, where 81 percent reported that they would recommend the economic inclusion program to a friend or neighbor; the difference between actual sign-ups and willingness to recommend possibly possibly reflects latent interest held back by uncertainty regarding the program's design and payoffs. Indeed, these respondents report uncertain and wide-ranging perceptions regarding the economic inclusion program design. When asked about the duration of consumption support in the economic inclusion program as an open-ended question, 36 percent could not provide a numerical response-for those that did, the mean was 10.3 months with a standard deviation of 11.5 and a rightskewed distribution capping at 120 months (i.e., 10 years). When asked about monthly income one could earn from the program-provided asset, 18 percent could not provide an open-ended response-for those that did, the mean response was 1,750 Egyptian pounds (EGP) with a standard deviation of 1,498 EGP and a maximum of 12,000 EGP. <ref type="bibr">2</ref> Further, perceptions of these two design parameters differed by whether respondents had already signed up for the new program,<ref type="foot" target="#foot_2">foot_2</ref> motivating the need for experimental evidence.</p><p xml:id="_WzSajc8">Third, the randomized messaging experiment finds causal evidence that updating expectations on the design parameters of the economic inclusion program affects interest in the program, as predicted by the model. Our main finding is that both the official policy announcement on the duration of consumption support and the participant testimonies on income earned exhibit a positive effect on the likelihood of recommending the program to a friend or neighbor in the full sample. <ref type="bibr">4</ref> Moreover, a mechanism analysis reveals that the positive effect of each video corresponds with updating beliefs on their respective topics. Specifically, the positive effect of the transfer duration video is concentrated among those who had not yet signed up for the economic inclusion program, where it raised expectations on how long transfers would last to similar levels observed among those who had already signed up, suggesting that this might be an important determinant of early adoption. In contrast, the positive effect of participant testimonies generates higher point estimates among those who had already signed up for the economic inclusion program, similar to its treatment effects on expectations of monthly income that could be earned from the program-provided asset. Thus, the mechanism analysis provides support of the theoretical model and suggests that transfer support duration may be most salient factors among those who have not yet switched into the economic inclusion program.</p><p xml:id="_wVt6v8T">Fourth, we estimate the theoretical model using data of respondents' perceptions of program design from the recruitment-period survey and behavioral preferences from a baseline survey conducted before the program began.</p><p xml:id="_rHKRcuM">Predictions from the simple theoretical model where households choose based only on the present discounted value of expected future income are positively correlated with self-interest in the economic inclusion program. However, subsequent models that incorporate asset loss probability, risk aversion and loss aversion obtain strong predictive power and maintain accurate predictions of preference for the economic inclusion program, suggesting that these other factors may play an important role in the household decision as well.</p><p xml:id="_WXTn5tN">To the best of our knowledge, this paper is the first study of household choice between two prevalent types of social protection programs: cash transfers and economic inclusion programs. Thus far, side-by-side evaluations of these two programs compare impacts (Chowdhury et al. 2017; Sedlmayr, Shah, and Sulaiman 2020). Other studies compare recipient's stated preferences across different modalities of social protection (Muralidharan, Niehaus, and   Sukhtankar 2017; Hirvonen and Hoddinott 2021; Kansikas, Mani, and Niehaus 2023), but not revealed preferences of choices with real-world consequences. Bridging these literatures, this study analyzes household preference between these two common social protection strategies as revealed through a consequential decision about their participation in a new economic inclusion program that affects their eligibility for existing cash transfers. Specifically, we contribute a theoretical model that articulates how households compare these programs to choose between them. Our experimental results estimate that updating perceptions of program design parameters can increase respondent interest in choosing a new program. Meanwhile, the estimation of the theoretical model highlights how effort costs, asset loss probability, risk preferences, and loss aversion can each deter interest in a new economic inclusion program. As the number of these programs continues to grow worldwide, researchers and policymakers should be careful to consider these factors when designing social inclusion programs under similar circumstances.</p><p xml:id="_GsPMNE7">Second, we contribute to the literature on low take-up of social programs in developing countries. Existing research highlights the deterring effect of arduous applications process and the limited impact of sign-up assistance (Gupta   2017; Carneiro, Galasso, and Ginja 2019; Banerjee et al. 2021). Consistent with Currie (2004)'s review of research on social program take-up in high-income countries, we find causal evidence that target beneficiaries' perceptions of program design also play an important role, particularly when a new social program is a potential substitute for an existing one. In addition, given our descriptive evidence of lower-than-expected take-up in a setting where there is large variation in beliefs about program design, our research shows that low take-up of the economic inclusion program is due, in part, to misperceptions and uncertainty regarding the costs and benefits of the program-common issues when scaling up social programs in real-world settings.</p><p xml:id="_t76Zafq">Third, the paper contributes to the literature on targeting social protection programs using self-selection. Whereas most social protection programs in developing countries use geographic targeting, proxy-means testing (PMT), or community-led targeting (see Berhane, Hirvonen, et al. (2018) and Banerjee et al. (2024) for reviews), a lesser studied alternative is self-selection. In theory, self-selection gives people more agency and, conditional on having perfect information, the ability to select programs that increase expected household utility. Moreover, where participation in programs incurs some cost, self-selection improves targeting to those for whom the cost is lower (Nichols and   Zeckhauser 1982). <ref type="bibr">5</ref> In this study, we also see that self-selection is affected by expectations of program design relative to potential outside options in the form of alternative social programs as well as behavioral preferences. Thus, these results highlight the importance to researchers and policymakers of communicating the specific design features of new 5. For example, workfare programs that provide benefits in exchange for work lead to substantial self-selection of unemployed households but at a high cost (Ravallion 1991; Besley and Coate 1992; Dutta et al. 2014). Smaller costs can also induce self-selection: Alatas et al. (2016) finds that a government's conditional cash transfer program targeted poorer households when requiring an application before verifying eligibility using a PMT, relative to automatic enrollment, by reducing applications among less poor households for whom their time was more costly and eligibility less certain. social protection programs before and during participant recruitment to optimize households' ability to self-select into the program that is best for them.</p><p xml:id="_jRVycE9">The paper proceeds as follows. Section 2 presents the theoretical model that motivates the study design. Section 3 describes the cash transfer program (Takaful) and the economic inclusion program (Forsa). Section 4 provides details on data collection, the sample and pre-intervention descriptive statistics. Section 5 describes the messaging intervention, regression specification, and falsification tests. Section 6 presents the empirical results. Section 7 presents the model estimation exercise. Section 8 concludes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2" xml:id="_kFE8VQg">Theoretical Framework</head><p xml:id="_3XYbvjE">We develop a theoretical model where households choose between participation in either the cash transfer or economic inclusion program. First, we present a simple model where households choose the option that is expected to deliver the highest present discounted value of future income, which we later test with an experiment described in Section 5 and tested in Section 6. Then, we present a more complex model that hypothesizes the role of select behavior preferences, which we explore further by estimating the theoretical model in Section 7.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1" xml:id="_Yx47fSu">Simple Model Comparing Returns to Future Income</head><p xml:id="_WYmkPZY">In the simple model, households compare the expected present discounted value (PDV) of future income between programs, given discount factor β . Suppose that households have the following choice: remain with the cash transfer program and receive monthly payment τ for δ periods, or switch to the economic inclusion program beginning at t = 0 that continues monthly payments τ for d periods and leads to an average monthly income of y net effort costs c(e). <ref type="bibr">6</ref> Then the household problem is as follows:</p><formula xml:id="formula_0">max δ ∑ t=0 β t τ Cash Trans f er , d ∑ t=0 β t τ + ∞ ∑ t=0 β t y -c(e) Economic Inclusion</formula><p xml:id="_gA4URVM">(1) This simple model highlights how two key design features of the economic inclusion program will have fundamental implications for whether the program appeals to those already receiving a steady cash transfer:</p><p xml:id="_grSg6Qd">• d: duration of the cash transfers after joining the economic inclusion program, and • y: monthly income resulting from the income-generating activity supported by the economic inclusion program. 6. While not required for the model in the paper, one might imagine that c(e) is convex in effort.</p><p xml:id="_Kny6qgm">Households choose between the cash transfer program and the economic inclusion program based on which offers a higher PDV of future income, which can be determined by comparing expectations of these design features to the other parameters in the model. Households will compare d to δ , the transfer duration in the cash transfer program.</p><p xml:id="_TvCwbuv">Since it is politically and logistically difficult to enforce time limitations on cash transfer programs and economic inclusion programs are typically designed with only short-term consumption support, one might expect ex ante that d &lt; δ . If so, the difference in the present discounted value of lifetime transfers alone would favor the cash transfer program. Households will also compare y to c(e), the cost of effort, and only be willing to work in the programsupported income-generating activity if the income is greater than the perceived cost of effort. Then, assuming d &lt; δ , households will prefer the economic inclusion program over the cash transfer program if the net benefit from the income-generating activity exceeds the loss in lifetime value of cash transfers. Further, uncertainty over these design parameters may also influence the household's decision, particularly given the risk averse nature of many low-income households.</p><p xml:id="_grnWmcZ">This simple model yields the following predictions: 1) an increase in a household's expected value of d (the duration of the cash transfers after joining the economic inclusion program) will increase the likelihood of household preference for the economic inclusion program; and 2) an increase in the average household's expected value of y (monthly income resulting from participation in the economic inclusion program) will increase the likelihood of household preference for the economic inclusion program. We later test these predictions using a video messaging experiment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2" xml:id="_uYPDVDr">Complex Model Incorporating Behavior Preferences</head><p xml:id="_De3KP9Z">While the simple model above best articulates what we test in our video messaging experiment, it does so by abstracting from the role of important behavior preferences that likely affect households' decision. Thus, building on the simple model in Equation 1, we now present a more complex model that incorporates risk preferences and loss aversion, which we later estimate in Section 7. Now suppose that households have expectations about the probability of asset loss ρ for the asset provided by the economic inclusion program, which may reflect doubts about whether it is delivered in workable condition or is feasibly lucrative. Then, with probability 1ρ, the asset is successful and the household receives net income yc(e) and, with probability ρ, the asset is lost and costs effort -c(e) but does not deliver income y. The uncertainty over this outcome is then incorporated into a constant relative risk aversion (CRRA) utility function U(x) = x (1-γ)</p><p xml:id="_uYC55hv">1-γ with risk preference γ. Finally, there exists a loss aversion function V (x) that penalizes utility losses relative to the cash transfer with loss aversion adjustment λ . Then the household problem is as follows:</p><formula xml:id="formula_1">max U δ ∑ t=0 β t τ Cash Trans f er , (1 -ρ) •V d ∑ t=0 β t τ + ∞ ∑ t=0 β t y -c(e) Economic Inclusion: Asset Success + ρ •V d ∑ t=0 β t τ + ∞ ∑ t=0 β t -c(e) Economic Inclusion: Asset Loss (2) where V (x) =        U(x) if U(x) ≥ U(Cash Trans f er) (gains) U(x) -(λ -1)[U(Cash Trans f er) -U(x)] if U(x) &lt; U(Cash Trans f er) (losses)</formula><p xml:id="_qX3zMMR">Households choose the program that is expected to deliver the highest expected utility. For the new behavioral preferences, the model predicts the higher cost of effort c(e), probability of asset loss ρ, risk aversion γ, and loss aversion λ -all of which plausibly exist given its novelty-should all reduce preference for the economic inclusion program. We acknowledge that other behavior preferences, not modeled here, may also play a significant role, though we have no way to test or estimate them, so we leave their study to future work.</p><p xml:id="_J2Hpr8A">Finally, note that the predictions of the simple model remain the same, albeit mediated by the behavior preferences.</p><p xml:id="_yZSD9h8">In Equation 2, increases in either durations of the cash transfers after joining the economic inclusion program d and the expected monthly income from program participation y will still increase the likelihood of household preference for the economic inclusion program.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3" xml:id="_RxQzfa4">Context</head><p xml:id="_gPtAWQ5">We empirically test these predictions in the context of Egypt's national safety net programs: a national cash transfer </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1" xml:id="_UqpkFtM">Cash Transfer Program</head><p xml:id="_XTjA3b7">Egypt launched the Takaful (Arabic for "solidarity") cash transfer program in March 2015 to provide income support to poor families with children. To be eligible, Takaful requires that households have children under age 18 and qualify based on a proxy means test (PMT) that relies on 85 different variables in a formula kept confidential by the MoSS.</p><p xml:id="_TMGuUH8">Exclusion factors include owning a car or more than 1.038 acres (i.e., a feddan) of land, or having a household member who is a government employee, benefits from another government pension, is enrolled in social insurance, or receives transfers from abroad.</p><p xml:id="_bUyAMGW">The average transfer for participating households is approximately 460 EGP (Egyptian pounds) or about US$15 per month. <ref type="bibr">7</ref> Takaful transfers start from a basic amount of 325 EGP per household, per month, which increases depending on the number of children in the households and their educational level, though households can receive benefits for the oldest three children in the household. The mother or caretaker of the registered children for Takaful is entitled to receive the cash transfers (Kurdi et al. 2018).</p><p xml:id="_M7BPYYR">Takaful is very popular, but it only covers about 17 percent of households while poverty rate is over 30 percent.</p><p xml:id="_XxU2QT9">The ability to register other eligible poor households depends on the potential to graduate current beneficiaries. Therefore, policymakers are concerned that the program is not fiscally feasible as a permanent social safety net and would eventually displace more growth-enhancing investments (Breisinger et al. 2018).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2" xml:id="_gDcMxAH">Economic Inclusion Program</head><p xml:id="_cHjActF">The Forsa economic inclusion program was started in 2022 as a pilot initiative that aimed to engage 50,000 participants across eight governorates: Fayoum, Beni Suef, Assiut, Sohag, Luxor, Al-Minyah, Al-Minufiyah, and Al-Qalyoubia.</p><p xml:id="_b5EuyjW">The overarching objective of the Forsa program is to foster economic inclusion by facilitating the integration of Takaful beneficiaries and individuals with limited income into the economy. The program aims to propel these individuals from poverty to prosperity by engaging them in new economic activities through sustainable partnerships with NGOs, the public sector, and private enterprises via two separate modalities: (1) an asset transfer approach providing significant productive assets to initiate income-generating activities (IGAs), coupled with financial literacy and business/technical training, and (2) a wage employment modality, which entails job matching and training for private sector employment.</p><p xml:id="_BddRJqS">Both modalities incorporate behavioral change sessions, ongoing mentoring, and a comprehensive curriculum covering financial literacy and technical skills.</p><p xml:id="_uWcNyVn">For a household to be eligible to participate in the Forsa, it must have at least one member of working age (19 to 55 years), have a household head without formal employment and, if present, a spouse also without formal employment.</p><p xml:id="_qBYFWkN">Additionally, it must own less than 0.5 feddan (0.52 acres) of agricultural land, no more than four medium-sized livestock or one large animal, and a house with no more than one floor. The household must also not participate in any other transfer or asset program of the Ministry of Social Solidarity (MoSS) or other local or international non-governmental organization (NGO) and not have access to remittance income from a household member working outside of Egypt, ruling out both of these possible confounding factors in our analysis.</p><p xml:id="_gDSqXhX">Importantly, a household does not have to be a current Takaful beneficiary to be eligible for Forsa. Rather, the household must either be a Takaful beneficiary household starting their second or third year in the program (at least 80 percent of targeted households) or an unsuccessful Takaful applicant household with a score on the proxy means test that falls within 2000 points of the cutoff for Takaful eligibility. The mixture of Takaful and non-Takaful beneficiaries 7. Exchange rate of 1 EGP = 0.032 USD from August-December 2023.</p><p xml:id="_ZX2MBU8">in the sample present an opportunity to compare decisions and treatment effects by current participation in the cash transfer program.</p><p xml:id="_A9k7TUr">Recruitment into Forsa was carried out by subcontracted NGOs, which were asked to recruit a target number of participants from a list of MoSS-identified eligible households. These NGOs usually started with the list of households that had attended a Forsa informational meeting and then sought out other eligible households. Reports that NGOs eventually moved outside target areas to reach recruitment quotes suggest that NGOs made reasonable efforts to locate listed households but faced low sign-up rates. Additionally, during the recruitment period, messaging on Forsa came from MoSS's community-level offices and some door-to-door campaigning, but anecdotal evidence suggests that messaging on details of the economic inclusion program was vague and inconsistent.</p><p xml:id="_dECdUcW">While implementation of the Forsa pilot program technically started in the first quarter of 2022, the program did not start to recruit in earnest until the second half of 2023. Implementation delays were largely due to challenges often seen in programs piloted at scale, including global economic challenges, local demand and supply issues, administrative issues between ministries, NGO payment delays, and prolonged vendor contracting. From August to end of November of 2023, MoSS reported an increase in households that received assets through the Forsa program-from around 3,000 to 10,302 (of a target of 35,000 households-through 49 contracted NGOs and two private hiring firms. For the wage employment modality, the number of participants receiving a job increased from 3,324 in August to 5,392 by end of November of 2023, out of a target of 14,314 households, through 22 NGOs and two private firms in 83 villages. The distribution of Forsa assets and job placements ended in March 2024, reaching in total 26,000 households out of the initially targeted 50,000 households.</p><p xml:id="_TBZVZCY">Additional useful context comes from data collected from sample households by our recruitment-period survey described in the next section. Of those who signed up for Forsa at the time of the recruitment-period survey, 71 percent were assigned under the asset transfer modality, 9.5 percent were assigned in the wage employment modality, and the remaining 9.5 percent were unaware of their assigned modality type. Further, of Forsa benefits received at the time of the recruitment-period survey, 98 percent were under the asset transfer modality-84 percent of whom reported receiving sheep and/or goats as an asset-whereas only six households reported having received a job through the wage-employment modality (and four of these had already quit). Thus, in practice, the Forsa is effectively a sheep-and-goats asset transfer program, where the value of the transfer is roughly 10 times the amount of the average monthly cash transfer. <ref type="bibr">8</ref> Consequently, our subsequent analysis focuses on expectations about the Forsa asset and looks for balance in the baseline-measured number of sheep and goats owned by a household.</p><p xml:id="_aN63JQH">8. The average Takaful recipient household reports an average monthly transfer of 544 Egyptian Pounds (EGP), and the average value of the Forsa sheep-and-goats of about 5,000 EGP.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4" xml:id="_bnYE7uv">Data</head><p xml:id="_uQxP856">Data for this study come from household surveys conducted as part of an ongoing impact evaluation of the Forsa program. Some data from the baseline survey, which defined the sample, and most data come from the recruitmentperiod survey. The sample for this study are 3,730 households interviewed in the recruitment-period survey that are eligible for and able to participate in Forsa. We present pre-intervention descriptive statistics from the recruitmentperiod survey that describe the sample including their participation in Takaful and Forsa.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.1" xml:id="_dujyTnT">Baseline Survey</head><p xml:id="_tjTUvGK">The baseline survey was conducted from January 11 to March 3, 2022 across 323 sub-villages in eight governorates.</p><p xml:id="_ruCApgh">In each sub-village, 24 households were selected for inclusion in the study using simple random sampling in each of two main strata: 16 households from the list of current Takaful beneficiaries and 8 households from the list of Takaful registrants rejected from the program. This resulted in a total sample size of 7,754 households at baseline.</p><p xml:id="_nd2NG9D">The baseline survey included modules on household demographics, employment history, assets, savings and financial inclusion, consumption, and economic and behavioral preferences. 9</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.2" xml:id="_DWkkcRe">Recruitment-period Survey</head><p xml:id="_vzG4crj">The recruitment-period survey was implemented from October 22 to November 14, 2023, one and a half years post baseline data collection. <ref type="bibr">10</ref> Of the households interviewed at baseline, the recruitment-period survey successfully reached 97.3 percent of households in our target sample, so we we are not concerned about attrition bias. The recruitment-period survey included the following modules in the listed order: 1) updating household and nominee demographics from baseline, 2) awareness of and participation in the Forsa program, 3) a randomized video message (described more in Section 5.2), and 4) perceptions of Forsa. This latter modules included questions about interest in Forsa and expectations of Forsa program design, which are described further in later sections. Because recruitment for the Forsa pilot program did not start in earnest until August 2023, the recruitment-period survey was implemented in the middle of the recruitment period.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.3" xml:id="_pAanPTg">Sample</head><p xml:id="_aJHXVYp">The sample for this study are 3,730 households interviewed in the recruitment-period survey that are located in the 160 sub-villages where the Forsa pilot program is being implemented-that is, "treatment communities" in the Forsa impact evaluation. Thus all households in this study are eligible for and able to participate in Forsa. In the sample, 9. See Gilligan et al. (2022) for more details on study design and baseline survey for the Forsa impact evaluation. 10. The four-day enumerator training started two weeks prior to the start date of data collection, from October 9 to October 12. Different teams of 88 enumerators were used in each governorate as the data collection plan was based on an in-parallel roll-out approach across the eight governorates.</p><p xml:id="_26Kqex7">the average household has 5.5 members, with 68 percent of households reporting employment for the household head, and 94 percent of households reporting a shock in the last year. At baseline, households only owned 0.1 sheep or goats-equivalent to one in 10 households owning one goat. Additionally, 56 percent of sample households report being a current Takaful recipients. Table <ref type="table" target="#tab_0">1</ref> presents summary statistics of these household characteristics in columns (1) and ( <ref type="formula">2</ref>) along with additional characteristics discussed in the next sub-section.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.4" xml:id="_BrQyq6H">Pre-Intervention Descriptives</head><p xml:id="_xUm3ZCZ">Table 1 presents summary statistics and t-tests across Takaful and Forsa participation of sample characteristics collected before the randomized intervention, including household characteristics, Forsa nominee characteristics, awareness of the Forsa program, and household behavioral preferences. Columns (1) and ( <ref type="formula">2</ref>) present the full sample mean and standard deviation. Columns (3)-( <ref type="formula">5</ref>) compare means across Takaful recipient status. Columns (6)-( <ref type="formula">8</ref>) compare means across Forsa sign-up status. Columns ( <ref type="formula">5</ref>) and ( <ref type="formula">8</ref>) present the p-values of unbalanced t-tests of the two preceding means allowing for unequal variances in samples. Summary statistics of household characteristics were already discussed in Section 4.3 to shed light on the sample.</p><p xml:id="_nJPGjyh">Among the 3,730 sample households, 32 percent report having already signed up for Forsa, indeed suggesting lower than expected interest in the new economic inclusion program, and 10 percent (or 30 percent of those who signed up) report having already received a Forsa asset or job, the vast majority of which belonged to the asset transfer modality. <ref type="bibr">11</ref> Further, of Forsa nominees selected by the household, 75 percent are female, most have completed primary school but not secondary school, with an average age of 37 years. That women were more likely to show interest in the economic inclusion program is consistent with other evidence from Egypt (Assad et al. 2024) and likely reflects that households seek ways for women to earn income while remaining inside the household (Shokry, Yassa, and Kurdi   2023; Zeitoun et al. 2023). With regards to awareness of the Forsa program, 66 percent of households reported having heard of Forsa in a question that preceded any mention or reminder of what the program was, 41 percent reported attending a Forsa informational meeting, and 50 percent reported hearing information about Forsa from a source other than community talk and our own survey enumerators. Finally, concerning behavioral preferences, 67 percent of respondents reported preferring one-time payment next month versus smaller monthly payments over five years totaling the same amount. This is interesting as one might frame an economic inclusion program and a cash transfer program in these terms, though only 32 percent had signed up for Forsa. Further, from the baseline survey, the average respondent reported a high discount rate (i.e., prefers income sooner rather than later), a low preference for risk, a relatively low level of grit, and middling values of self-efficacy and ability to manage money well.</p><p xml:id="_r3TVfhR">How these characteristics vary between Takaful recipient and non-recipient households is revealed in columns (3)-11. A breakdown of these results by modality was described as part of the study context in the last paragraph of Section 3.2.  <ref type="formula">1</ref>) and ( <ref type="formula">2</ref>) and comparison of means of descriptive variables across current cash transfer (Takaful) recipient status in columns (3)-( <ref type="formula">5</ref>) and whether a household reported having already signed up for the economic inclusion program (Forsa) in columns ( <ref type="formula">6</ref>)-( <ref type="formula">8</ref>). Specifically, columns ( <ref type="formula">5</ref>) and ( <ref type="formula">8</ref>) present the p-values of unbalanced t-tests of the two preceding means, allowing for unequal variances in these samples. Variables are categorized as household characteristics, nominee characteristics, those describing awareness of the Forsa program, and household behavioral preferences. Variables marked with an asterisk come from the evaluation's baseline survey but otherwise come from the more recent recruitment-period survey. Sample size is 3,730 households, expect baseline measures of Forsa awareness and behavioral preferences come from the sub-sample of 2,666 individuals nominated to Forsa at baseline. Significance levels: *** p&lt;0.01, ** p&lt;0.05, * p&lt;0.1.</p><p xml:id="_s48hTD5">(5). First, we observe no significant difference in signing up for Forsa between Takaful recipients and non-recipients:</p><p xml:id="_tc3JJZs">the proportion of Takaful non-recipients who signed up for Forsa is around 33 percent compared to 31 percent of Takaful recipients. The similar early sign-up rate is somewhat surprising given that, at first glance, it would seem that non-recipients have less to lose by joining the Forsa program. One possible explanation is that recruitment was logistically easier for or even targeted toward current Takaful beneficiaries. However, there are significant differences between Takaful non-recipients and recipients in other characteristics. It is important to interpret these differences with caution as such patterns may be determined by other factors (i.e., omitted variable bias) or, in some cases, could be partly due to Takaful participation itself (i.e., reverse causality), and thus should not imply causality. Takaful recipients are more likely to be larger households, less likely to have an employed household head, and are more likely to select a Forsa nominee who is older and less educated. Moreover, Takaful recipients are more likely to report having attended a Forsa informational meeting and heard Forsa information from an official source. This is most likely because Forsa community organizers targeted efforts at current Takaful recipients-consistent with the strategic goal of the program to transition households off of cash transfers-which, in turn, may have increased early sign ups for Forsa among this group. Finally, Takaful recipients report being less likely to prefer one time versus monthly payments of the same value, less risky (i.e., more risk averse), and lower levels of self-efficacy and good money management.</p><p xml:id="_zTdgHZK">How these characteristics vary by whether households had already signed up for Forsa at the time of the recruitmentperiod survey is shown in columns ( <ref type="formula">6</ref>)-( <ref type="formula">8</ref>). Again, bear in mind that patterns do not imply causality but are useful for understanding the sample and hypothesizing possible explanations. The first row repeats the finding that Takaful recipients and non-recipients signed up for Forsa at similar rates. However, those more likely to have signed up for Forsa already include households that are larger, reported a recent shock, nominated a woman who is slightly younger and perhaps more likely to have completed primary school but not secondary school. Moreover, all variables describing Forsa awareness are positively related to signing up. Finally, respondents who signed up for Forsa are more likely to report a preference for one time versus monthly payments of the same value and a greater appetite for risk (i.e., less risk aversion) too.</p><p xml:id="_M3rrdSv">5 Experimental Design</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.1" xml:id="_HvS3Xsx">Outcomes</head><p xml:id="_4ewVGKM">We are interested in testing the model's predictions on the likelihood of opting into the Forsa economic inclusion program. Since we were not permitted to enroll households in Forsa as part of the recruitment-period survey, we instead ask for self-reported measures of interest in the program for oneself and others. Outcomes for the video messaging experiment were collected in a post-intervention module at the end of the midline survey, immediately following the video message intervention. The two primary outcomes measure interest in the Forsa program.</p><p xml:id="_DxEfTuX">1. "Interest in Joining Forsa" is an indicator equal to one if a respondent answers "Yes" to either of "Are you or someone from your household interested in joining Forsa's self-employment modality?" or "Are you or someone from your household interested in joining Forsa's wage-employment modality?", and zero otherwise. Thus, the first primary outcome is the household's self-interest in joining Forsa through either modality. This outcome was only asked to the sub-sample of households who had not yet signed up for Forsa. This was pre-specified as the primary outcome.</p><p xml:id="_hhXEh8n">2. "Recommend Forsa to Friend or Neighbor" is an indicator equal to one if a respondent answers "Yes" to "Are you likely to recommend Forsa to a friend or neighbor?", and zero otherwise. Thus, the second primary outcome is the household's interest in recommending the program to others. This outcome was asked of all households regardless of Forsa status. This was pre-specified as a key secondary outcome.</p><p xml:id="_VvBhVUa">The mean of "Interest in Joining Forsa" in the control group is 0.65, meaning that 65 percent of those who had not yet signed up for Forsa reported potential interest in joining. Additionally, "Recommend Forsa to Friend or Neighbor" has a control group mean of 0.81, meaning that 81 percent of the full sample reported that they would recommend Forsa to others: 78 percent among those who had not signed up, and 88 percent among those who had. While they apply to different samples, these rates are clearly higher than the revealed 32 percent of the full sample that had already signed up for Forsa at the time of the survey. The difference may reflect social desirability bias, which we assume is evenly distributed across the sample and treatment arms. The difference may also reflect latent interest in joining Forsa, held back by low expectations or uncertainty regarding its design and payoffs. Thus, the difference between actual sign-ups and self-reported interest motivates studying factors affecting why these high levels of interest are not resulting in sign-up behavior.</p><p xml:id="_DavJbsf">Outcomes the mechanism analyses include beliefs about the implementation of Forsa and its relationship to Takaful. Namely, we test the predictions of the theoretical model from Section 2 by testing for effects on the household's expectation of the duration (in months) of the cash transfers after joining the economic inclusion program using the</p><p xml:id="_EmtMQtC">question "According to what you've heard, for how many months can a household continue to receive Takaful transfers after starting to receive income from their Forsa program?" and the expected net monthly income they could earned from the Forsa asset in Egyptian Pounds (EGP) using the question "Given the number of hours that you would plan to work with the asset, what monthly income do you think you could earn from the asset that you would receive through the Forsa program?".</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.2" xml:id="_DvrD6FP">Messaging Intervention</head><p xml:id="_kUeeqcb">We implement a stratified randomized controlled trial (RCT) to identify the causal effect of new messaging strategies on interest in joining the Forsa program and on the likelihood of recommending it to others. These messages inform eligible Forsa participants of the design parameters highlighted above: 1) the duration of Forsa cash transfers after joining the Forsa program, and 2) the expected net monthly income from the Forsa asset. The intervention is a video message produced by the Ministry of Social Solidarity (MoSS) providing credible information on these topics.</p><p xml:id="_tWMMajZ">To test the effect of these new messages, households were randomly assigned into one of the following treatment arms, which determined the contents of the video message viewed by the respondent:</p><p xml:id="_EwfEzw4">• Basic Information (Control Group): Brief description of Forsa and confirmation that it maintains all of the non-monetary health and education benefits of Takaful and that "Takaful transfers will continue until you can stand on your feet", all of which was already shared in informational sessions and previously in the survey.</p><p xml:id="_vJvKgzW">Using the BI-only video as a control allows us to rule out possible effects from viewing any official government video.</p><p xml:id="_MT8q9Pb">• Transfer Duration: Basic Information + When we visit and see that the project has succeeded or that you have settled in your work and that you and your family's life have reached stability, remember that the Takaful transfers will last you six months" along with the continuation of Takaful non-monetary benefits. This was the first time that MoSS communicated to eligible program participants their new policy that Takaful beneficiaries who join Forsa will continue to receive cash transfers for 6 months. This treatment was intended to target the model parameter d, the duration of Forsa cash transfers.</p><p xml:id="_zxkC3gY">• Testimonies: Basic Information + four testimonies from Forsa participants: three testimonies featuring all women for the asset modality and one testimony featuring either a man or a woman for the wage-employment modality. Testimonies were of real-life program participants, who described their experience with the Forsa program, support received, and revealed their average monthly income received thus far from the Forsa asset/job.</p><p xml:id="_fqjyqYQ">This treatment was intended to target the model parameters yc(e), the expected net monthly income from the Forsa asset or job.</p><p xml:id="_U3eBXsX">Randomization was stratified by the 160 community designations and baseline Takaful status to ensure balance across these categories. Households had a 25 percent probability of being assigned to the Basic Information or Transfer Duration video and a 50 percent probability of being assigned to a Testimonies video. <ref type="bibr">12</ref> 12. There is a greater probability of assignment to the testimonies video because, within that treatment, there existed a sub-treatment randomly assigned to households with 50 percent probability (creating four treatment groups with equal assignment probability) that had to do with messaging for the wage-employment modality. However, the primary analysis pools together these sub-treatments into one Testimonies treatment, as was prespecified to the AEA RCT registry, due to the secondary nature of this sub-treatment analysis, which is not discussed in this manuscript.</p><p xml:id="_y9RuhEg">By design, there are 24 study households in the typical community, 16 of which were Takaful beneficiaries at baseline and 8 of which were not. Therefore, within most Forsa-treatment communities, this randomization strategy assigned 4 Takaful-beneficiary households and 2 non-beneficiary households to the Basic Information and Transfer Duration treatment arms and assigned 8 Takaful-beneficiary households and 4 non-beneficiary households to the Testimonies treatment arm.</p><p xml:id="_YYtPVUz">Treatment assignment was as follows: 941 households (25.2 percent) were assigned to the Basic Information video (control), including 641 households who had not signed up for Forsa (25.2 percent of that sub-sample). 931 households (25.0 percent) were assigned to the Transfer Duration treatment, including 645 households who had not signed up for Forsa (25.4 percent of that sub-sample). 1,858 households (49.8 percent) were assigned to the Testimonies treatment, including 1,254 households who had not signed up for Forsa (49.4 percent of that sub-sample).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.3" xml:id="_KUBzCDg">Regression Specification</head><p xml:id="_CNrwgPz">In our pre-specified primary specification, we run the following regression:</p><formula xml:id="formula_2">y i = β 0 + β 1 Trans f er Duration i + β 2 Testimonies i + ε<label>(3)</label></formula><p xml:id="_b3afWsH">where y i is the outcome for respondent i, Trans f er Duration i and Testimonies i are indicator variables representing the corresponding treatment arms specified above, and therefore β 1 and β 2 measure the differences in responses relative to the Basic Information (control) group. Specifically, relative to only receiving basic information about Forsa (which is included in all three videos), β 1 will measure the impact of receiving information on the duration of Forsa cash transfers, and β 2 will measure the impact of watching the Forsa testimonies.</p><p xml:id="_qhvhQUS">We will estimate robust (heteroskedasticity-consistent) standard errors. Additionally, we will present results without fixed effects, as pre-specified, and with strata fixed effects as a robustness check.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.4" xml:id="_jmU7yHQ">Balance Test</head><p xml:id="_uJ6HMYM">In Appendix Table <ref type="table">A</ref>.1, we test for balance in treatment assignment across pre-intervention variables. To do this, we run the regression specified in Equation 3 both without and with strata fixed effects, but replace the dependent variable with a pre-intervention characteristic. Each row represents a pre-intervention variable. Columns (1)-(4) are the coefficients and p-values estimated for β 1 and β 2 from a regression without fixed effects, and columns (5)-( <ref type="formula">8</ref>) are those from a regression with strata fixed effects. The results reveal no statistically significant imbalance in treatment assignment.</p><p xml:id="_WQcqnGN">6 Empirical Results</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="6.1" xml:id="_ECmZejX">Perceptions of Program Design in the Control Group</head><p xml:id="_PtmTUWp">Before turning to the experimental results, we assess perceptions of program design in the control group (N=941), who did not receive updated information on the Forsa program in their video message. However, because the control group received a Basic Information video, one cannot rule out that the video reminder provided new information to an uninformed household or at least made some prior knowledge more salient. Therefore, one should think of these perceptions as reflecting household beliefs on Forsa, and its relation to Takaful, after a small reminder of basic program information that was already supposed to have been widely disseminated in these communities.</p><p xml:id="_YajKexP">Table <ref type="table" target="#tab_1">2</ref> presents descriptive statistics on perceptions of eight key Forsa design features. <ref type="bibr">13</ref> Panel A presents summary statistics including the percent of the sample who did not respond or responded "don't know" to the survey question (% NR), and the percent of the sample who only responded via a close-ended ordinal response (% OR) question offered after responding "don't know" to a preceding and prioritized open-ended question on the belief. <ref type="bibr">14</ref> Panel B presents t-tests comparing means between Takaful recipients and non-recipients and whether households already signed up for Forsa or not.</p><p xml:id="_6Maf4dM">Respondents report a very wide range of perceptions of Forsa program design, suggesting widespread lack of knowledge and uncertainty about how the program works. In Panel A, across the eight design features, between 7-14 percent refused to give any answer. Of responses provided, the standard deviation of each is similar in magnitude to the mean, the minimum is always 0, and the maximum is always large, suggesting a widespread upwardly skewed distribution in beliefs (except for the last three indicator variables). The first two rows interestingly show that respondents perceptions of the transfer duration on Forsa and on Takaful are much greater than six months and similar in magnitude, though a paired t-test of these two means suggest that expected duration of cash transfer while participating in Forsa is significantly smaller by about 1.5 months than if not participating (p-value = 0.00). These two variables also have a high rate of respondents who only felt they could answer the question using the ordinal response-22 and 21 percent, respectively-suggesting additional uncertainty. Additionally, respondents have widespread beliefs regarding the Forsa asset with regards to the income it could generate, the time for delivery, and its overall value.</p><p xml:id="_VUyXNyb">Further, despite official messaging prior to the recruitment-period survey and information reiterated in the Basic Information video message, 37 percent and 28 percent of respondents mistakenly think that Forsa beneficiaries will lose 13. They are: 1) Duration of Forsa transfers (in months), 2) Duration of Takaful transfers (in months), 3) Income to earn from Forsa asset, 4) Months to receive Forsa asset, 5) Value of Forsa asset, 6) whether Forsa participants were exempt from school fees, 7) whether Forsa participants were eligible for free health insurance, 8) whether participants could leave Forsa to re-enroll in Takaful.</p><p xml:id="_4BMTeFR">14. For example, for the first variable, we first ask "According to what you've heard, for how many months can a household continue to receive Takaful transfers after starting to receive income from their Forsa program?" Then, if the responds "don't know" or refuses to answer, we ask the respondent to select from the following categories: 0=Expect to immediately lose Takaful benefits, 1=Less than 4 months, 2=4-8 months, 3=8-12 months, 4=12-24 months (1-2 years), 5=More than 24 months (2 years) and use the midpoint of the selected range or, for the top category, the median of continuous responses above that threshold. Overall, the data show little differences in Forsa perceptions by Takaful recipient status. The main difference appears in the Takaful duration dimension as Takaful recipients think that Takaful transfers in the Forsa program will last 1.6 months longer than non-recipients. <ref type="bibr">16</ref> However, there are some significant differences in Forsa perceptions by Forsa sign-up status. Relative to those who have not, respondents who have already signed up for Forsa are more likely to think Forsa beneficiaries are still exempt from school fees, but actually have significantly lower expectations about the value of the Forsa asset and the income they think they could earn from that asset. They also think it will take fewer months to receive a Forsa job though, as discussed, most respondents were themselves not as interested in the wage employment modality. Overall, these results motivate the study's focus on the duration of Forsa transfers and the expected income from the Forsa asset-for both variables, beliefs vary greatly across the sample, suggesting a need for additional messaging, and significantly differ depending on whether respondents had already signed up for Forsa, hinting that each might indeed play a role in the household's decision.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="6.2" xml:id="_RSMRRJ7">Effect of the Video Messaging Intervention</head><p xml:id="_sHpD4yP">We find that the new messaging strategies had a positive impact on interest in Forsa overall and particularly on recommending it to others, as presented in Table <ref type="table" target="#tab_2">3</ref>. Columns (1)-( <ref type="formula">2</ref>) present the treatment effects on "Interest in Joining Forsa", which was only asked to those who had not signed up for Forsa at the time of survey. Columns ( <ref type="formula">4</ref>)-( <ref type="formula">8</ref>) present the treatment effects on a pre-specified secondary outcome "Recommend Forsa to Friend or Neighbor", which was asked of all respondents, and is shown for the full sample in columns ( <ref type="formula" target="#formula_2">3</ref>)-(4), those who had not signed up for Forsa in columns ( <ref type="formula">5</ref>)-( <ref type="formula">6</ref>), and those who had already signed up for Forsa in columns ( <ref type="formula">7</ref>)-( <ref type="formula">8</ref>).</p><p xml:id="_4sR49ma">First, we estimate the treatment effects on a household's self-interest in joining Forsa. We find that neither the Transfer Duration nor the Testimonies video have a statistically significant effect on this outcome. This result was a relief to policymakers that the Transfer Duration video would deter eligible households from joining Forsa by putting specifying any kind of constraint on the duration of consumption support.</p><p xml:id="_fsGWm69">Second, we estimate the treatment effects on interest in recommending Forsa to a friend or neighbor. In the full 15. For example, one's expectations of the Forsa asset might affect whether they sign up for Forsa, but also one who has signed up for Forsa may have received an asset already and updated their perception of its value accordingly.</p><p xml:id="_Typ7HVf">16. Note that these questions ask about a hypothetical household, so it is reasonable that Takaful non-recipients respond with positive values.  <ref type="formula">2</ref>) are "Interest in Joining Forsa", an indicator equal to one if a respondent answers "Yes" to either "Are you or someone from your household interested in joining Forsa's self-employment modality?" or "Are you or someone from your household interested in joining Forsa's wage-employment modality?", and zero otherwise, which was only asked to those who had not signed up for Forsa. Columns (3)-( <ref type="formula">8</ref>) are "Recommend Forsa to Friend or Neighbor", an indicator equal to one if a respondent answers "Yes" to "Are you likely to recommend Forsa to a friend or neighbor?", and zero otherwise, which was asked of all respondents. Results for the full sample in columns ( <ref type="formula" target="#formula_2">3</ref>)-( <ref type="formula">4</ref>), those who had not signed up for Forsa in columns ( <ref type="formula">5</ref>)-( <ref type="formula">6</ref>), and those who had already signed up for Forsa in columns ( <ref type="formula">7</ref>)-( <ref type="formula">8</ref>). Alternate regressions include strata fixed effects. Robust standard errors in parentheses. Significance levels: *** p&lt;0.01, ** p&lt;0.05, * p&lt;0.1.</p><p xml:id="_2yPqt3j">sample, both Transfer Duration and Testimonies videos have significant positive effects. Additionally, the positive effect of the Transfer Duration video seems to be driven by its positive effect among those who had not yet signed up for Forsa, while the positive effect of the Testimonies video is most prominent among those who had already signed up for Forsa, though these differences are not statistically significant. <ref type="bibr">17</ref> Overall, these findings suggest that both messaging strategies-providing clarity on the duration of cash transfers under the Forsa program and using testimonies to show household real-life examples of people succeeding on the Forsa program-do not have a negative impact on self-interest in Forsa and, in fact, exhibit a positive effect on interest in recommending the program to a neighbor. Notably these findings contrasted with the hesitation of the government to provide clear messaging on cash transfer duration within Forsa, highlighting how risk aversion by government implementers can make program design less effective, a potential cause of lower program effectiveness when scaling small-scale interventions to national programs.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="6.3" xml:id="_5Zc6DSC">Mechanism Analysis</head><p xml:id="_dxvue2s">Next we test how these new messages affect beliefs about Forsa implementation and its relationship to Takaful. Specifically, we test that the Transfer Duration video changed perceptions of duration of the cash transfers after joining the  <ref type="formula">4</ref>), and those who had already signed up for Forsa in columns ( <ref type="formula">5</ref>)-( <ref type="formula">6</ref>). Alternate regressions include strata fixed effects. Robust standard errors in parentheses. Significance levels: *** p&lt;0.01, ** p&lt;0.05, * p&lt;0.1.</p><p xml:id="_FDdC2W5">Forsa program (i.e., d in the theoretical model) and the Testimonies video changed perceptions of monthly household income that could be generated from the Forsa asset (i.e., y in the model). We also do so separately for sub-samples defined by Forsa sign-up status to see if the patterns follow those seen in the main results of Table <ref type="table" target="#tab_2">3</ref>. In doing so, we aim to understand the mechanisms through which the new messages increase interest in Forsa, as such insights can aid in the design of future messaging and policy.</p><p xml:id="_TV8zfyt">Table 4 presents how the interventions-particularly the Transfer Duration video-impacted the expected duration of the cash transfers after joining the Forsa program. Results in columns (1) and ( <ref type="formula">2</ref>) indicate that the Transfer Duration video does not have a statistically significant impact on perceptions in the overall sample, as the positive coefficients are estimated with p-values of 0.132 and 0.131, respectively. However, whereas Egyptian policymakers were concerned that video's statement would deter interest, the positive point estimates in columns (1) and ( <ref type="formula">2</ref>) suggest that respondents were not deterred and, if anything, slightly increased their expected duration of Forsa transfers from a control mean of 10.28 months, moving away from the six-month mark. This is likely because the message also gave an indefinite time horizon for when the six-month countdown would begin, stating: "When we visit and see that the project has succeeded or that you have settled in your work and that you and your family's life have reached stability, remember that the Takaful transfers will last you six months".</p><p xml:id="_EnzV49t">Table <ref type="table" target="#tab_3">4</ref> also estimates treatment effects on expected transfer duration for those who had not signed up for Forsa in columns (3)-(4) and those who had already signed up for Forsa in columns ( <ref type="formula">5</ref>)-( <ref type="formula">6</ref>). The results show that the positive effect of the Transfer Duration video is entirely concentrated among those who have not signed up for Forsa, with treatment effects estimates that are significantly different than those estimated among those had already signed up (p-value = 0.081 without fixed effects and p-value = 0.041 with strata fixed effects). This finding corresponds well to the pattern seen in Table <ref type="table" target="#tab_2">3</ref>, where the positive effect of the Transfer Duration video on "Recommend Forsa to Friend or Neighbor" is also larger in the sub-sample that had not yet signed up (though the difference in Table <ref type="table" target="#tab_2">3</ref> is not statistically significant). Further, we observe that the magnitude of the treatment effect on transfer duration for those that had not yet signed up of 1.7-1.9 months more than closes the gap in beliefs about transfer duration of 1.4 months seen in the Control group between those that already signed up and those that had not signed up (comparing "Control Outcome Mean" in columns (3) and ( <ref type="formula">5</ref>) in Table <ref type="table" target="#tab_3">4</ref>). This supports an interpretation where those with beliefs of higher Forsa transfer duration were motivated to sign up early, before the intervention, and then the Transfer Duration video increased the expected transfer duration among those who previously had lower beliefs and had not yet signed up.</p><p xml:id="_dhdYA6E">Overall, the results provide additional empirical evidence that the mechanism behind the Transfer Duration video is indeed, at least in some part, increasing viewers expectations on how long they will continue to receive cash transfers after joining the Forsa program.</p><p xml:id="_CeTVAuJ">Table <ref type="table" target="#tab_4">5</ref> presents how the interventions-particularly the Testimonies video-impacted the expected net monthly household income that could be generated from the Forsa asset. Results from the overall sample in columns ( <ref type="formula">1</ref>) and ( <ref type="formula">2</ref>)</p><p xml:id="_6BKHrD6">show that the Testimonies video indeed increased households' expectations of the income they might earn from a Forsa asset. Specifically, we estimate a significant positive impact in both specifications, with point estimates suggesting that the intervention increased expected monthly income by 160-188 EGP from the control mean of 1750 EGP. We also find a weakly significant positive effect for the Transfer Duration video in column (1) though this video did not contain any mention of the Forsa asset. <ref type="bibr">18</ref> Further, positive coefficients in Table <ref type="table" target="#tab_4">5</ref> columns (3)-(6) suggest that this result likely draws on the video's impact among both sub-samples. In particular, column (5) shows that the Testimonies video had a particularly strong positive impact among those who had already signed up for Forsa, though the estimate is not significantly different than treatment effect among who had not signed up in column (3). Still, the pattern corresponds well to the finding in Table <ref type="table" target="#tab_2">3</ref> that the positive effect of the Testimonies video on "Recommend Forsa to Friend or Neighbor" also appears greater in this sub-sample (though the difference in Table <ref type="table" target="#tab_2">3</ref> is also not statistically significant). We also observe that the magnitude of the treatment effect of 169-307 EGP in columns ( <ref type="formula">5</ref>) and ( <ref type="formula">6</ref>) mostly or fully closes the gap in beliefs about income earned of about 250 EGP in the Control Group between those who already signed up for Forsa and those who had not yet signed up (reported under "Control Outcome Mean" in columns (3) and (5) in Table <ref type="table" target="#tab_4">5</ref>). This is consistent with the idea that respondents developed lower beliefs on Forsa asset income after signing up, perhaps while waiting for their asset to be delivered, but then increased those beliefs and willingness to recommend after viewing the Testimonies video. Overall, the results provide additional empirical evidence that the mechanism behind 18. Possible explanations for this effect are that some respondents included cash transfers in their expected monthly income from the Forsa asset, or that respondents thought that a longer transfer duration under Forsa would help them earn more income from the asset through complementary investments. the Testimonies video is indeed, at least in some part, increasing viewers expectations on the income they might earn from the Forsa asset.</p><p xml:id="_2uJf7zQ">In summary, the mechanism analysis provides strong empirical evidence in support of the predictions of the theoretical model. Specifically, the positive impact of the messaging intervention on interest in Forsa-shown in Table <ref type="table" target="#tab_2">3</ref> columns (3) and (4)-corresponds to the Transfer Duration video's positive effect on expectations surrounding how long cash transfers will last after joining the economic inclusion program and to the Testimonies video's positive effect on expectations regarding monthly income one could earn with a Forsa asset. However, there are likely additional factors at play affecting the household's decision to sign up for the economic inclusion program.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="6.4" xml:id="_2ECrX7z">Heterogeneity Analysis</head><p xml:id="_CEfnr2t">In Appendix Table <ref type="table">A</ref>.2, we present a pre-specified heterogeneity analysis on a household's Forsa nominee's gender and status in the Takaful cash transfer program. Columns (1)-( <ref type="formula">4</ref>) test for a differential treatment effect in households where the Forsa nominee is male, relative to reference group where a household's Forsa nominee is female. Columns (5)-(8) test for a differential treatment effect in households that currently receive a Takaful cash transfer, relative to a reference group that does not currently receive a cash transfer.</p><p xml:id="_fKnVY9E">Overall, the results show mostly negative coefficients on the interaction terms though none are statistically significant. Thus, it does not seem likely that the positive treatment effects in Table <ref type="table" target="#tab_2">3</ref> are driven by impacts on households with female Forsa nominees and non-Takaful beneficiaries. This is consistent with expectations. First, women in Egypt often look for ways to earn income from inside the home, and the Testimonies video featured four women who received Forsa assets and focused on showing how the asset transfer could make this possible. Second, non-Takaful beneficiaries worry less about losing their cash transfer if joining the Forsa program (though they may hope to enroll in Takaful in the future) and so may be more receptive to new information about it.</p><p xml:id="_peVhUaY">Finally, while we do not detect significant heterogeneous treatment effects, we do observe large average differences in interest in Forsa along these dimensions. Households with a male Forsa nominee are significantly more likely to be interested in joining Forsa themselves (but no difference in recommending to others), and households that currently receive Takaful cash transfers are significantly less likely to be interested in joining Forsa themselves or recommending it to others. These large average differences suggest that, if desired, future messaging could likely be tailored more to target these different groups.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="7" xml:id="_xmMKYRX">Model Estimation</head><p xml:id="_YSkTT7a">While the results of the information experiment support the model's predictions that an economic inclusion program's cash transfer duration and expected income positively affect its appeal to households, how well does the model predict whether households choose to stay in Takaful or switch to Forsa? In this section, we estimate the model using household reported data on perceptions of program design parameters and behavioral preferences. We find that, overall, the model does predict interest in the Forsa program, especially in iterations that incorporate time costs, risk preferences and loss aversion.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="7.1" xml:id="_xA5NUNn">Methodology</head><p xml:id="_uzfx65p">We estimate four models across the full sample and compare predictions to our pre-specified primary outcome "Interest in Joining Forsa", an indicator equal to one if a respondent answers "Yes" to either of "Are you or someone from your household interested in joining Forsa's self-employment modality?" or "Are you or someone from your household interested in joining Forsa's wage-employment modality?", and zero otherwise. The sample size is N=2,540 respondents, as this outcome was only asked to the sub-sample of households who had not yet signed up for Forsa. Among the sample, 67.4 percent signified that they were interested in joining Forsa, despite not having signed up already. The outcome and household beliefs on δ , d, y were all asked in the survey module following the messaging intervention.</p><p xml:id="_QqMWSqc">To start, we estimate the Simple Model in Equation 1 as Model 1, which compares the present discounted value of the expected future income from the cash transfer vs. the economic inclusion program. Going from left to right in Equation 1, δ is the household's expectation of the duration of the cash transfers, in months, if one does not join the economic inclusion program; β is a monthly discount factor estimated using stated time preference elicitation in the baseline survey; 19 τ is the value of the household's most recent monthly cash transfer (equal to zero if not a current 19. Specifically, household were asked at baseline to choose between 10,000 EGP today vs 15,500 EGP in one year from now, and then between cash transfer beneficiary); d is household's expectation of the duration of the cash transfers, in months, if one joins the economic inclusion program; y is the household's expectation of the monthly income they could earned from the Forsa asset in Egyptian Pounds (EGP); and monthly effort costs are estimated as c(e) = w resv * e/8, where w resv is baseline monthly reservation wage for full-time local informal work, e is the recruitment-period survey's expected hours per day of work with the Forsa asset, and we divide by eight hours to scale the full-time reservation wage by time spent working the asset.</p><p xml:id="_s3vQsHU">After plugging in these values for each household, we solve the left argument for each household to estimate the household's perceived present discounted value (PDV) on future income through the cash transfer. Likewise, we solve the right argument for each household to estimate the household's perceived present discounted value (PDV) on future income through the economic inclusion program. We then compare these estimates to determine which one the household perceives generates the maximum PDV of future income. Therefore, we predict that a household will select the economic inclusion program if its PDV amount is greater than the PDV amount estimated for the cash transfer, and vice versa.</p><p xml:id="_JKJ5Vwt">Subsequent models iterate on Equation 1, adding complexity to the calculation and further data assumptions to support the estimation. Equations for all subsequent models are provided in Appendix C. For brevity, this section only describes how each model builds on its predecessor and the source of new data required for its estimation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_tP2H8d4">Model 2 builds on Equation 1 by incorporating the probability of asset loss in the economic inclusion program</head><p xml:id="_pXDpdKp">rho. We define "asset loss", in this context, as the probability that a Forsa asset becomes unproductive due to illness or death, as unfortunately 25 percent of sheep, goats, and chickens given out through the program were reported to be ill or dead at the time of the recruitment-period survey. Because of this, a household might worry that joining Forsa is risky and that there is a chance that they earn no income through the asset and only receive some cash transfers for a limited time. Since we did not collect respondents' expectations of asset loss probability, we estimate "asset loss" at the governorate-level as the average share of assets reported ill or dead among those who had already received an asset through the program, which ranges from a minimum of 0 percent (for one governorate only), a median of 23 percent, and a maximum of 56 percent across the eight governorates. Then, in the model, the economic inclusion program estimates a PDV from the transfer and expected net income yc(e) with asset loss probability rho and estimates a PDV from only the transfer minus effort costs -c(e) with probability 1˘rho. As before, predictions derive from a comparison of PDV between the two programs.</p><p xml:id="_C6bN9NP">Model 3 builds on Model 2 by putting the PDV of each program through a constant relative risk aversion (CRRA) utility function, where U(x) = x (1-γ) 1-γ . This allows the probability of asset loss ρ to differentially affect household 10,000 EGP today vs. 20,500 EGP in one year from now. Those choosing 10,000 EGP today over 20,500 EGP in one year were assigned a monthly discount factor of 0.9419 (the 12th root of 10000/20500), those choosing 20,500 EGP but not 15,500 EGP in one year over 10,000 EGP today were assigned a monthly discount factor of 0.9530 (the midpoint between the former and the latter), and those choosing 15,500 EGP in one year over 10,000 EGP today were assigned a monthly discount factor of 0.9641 (the 12th root of 10000/15500).</p><p xml:id="_tXQm6WV">decision-making based on some risk parameter γ. Risk neutral households will simply estimate the expected return to the economic inclusion program given the probability of asset loss or success, but risk averse households might still prefer a cash transfer program with a lower expected return that does not carry the risk of failure. To measure the risk parameter γ, we transform a self-reported measure of risk preference on a scale of 1-10 from the baseline survey into a risk parameter gamma where a stated risk preference of 10 generates γ = 0.1 (slightly more adverse than risk neutral) and a stated risk preference of 1 generates γ = 1 (more risk averse). <ref type="bibr">20</ref> Estimation with a better, incentivized, or more nuanced measure of risk is left to future research. Predictions derive from a comparison of expected utility from the two programs.</p><p xml:id="_kGEG7ee">Finally, Model 4 builds on Model 3 by incorporating loss aversion into the utility function. This is the Complex Model presented in Equation 2. The idea here is individuals do not like losing things that they already have, and thus a decrease in expected income-e.g., due to a failure of the Forsa asset-might decrease utility by more than an equivalent increase in expected income. Unfortunately, there is no available data to measure household-specific loss aversion preferences. However, a recent meta-analysis of 607 empirical estimates of loss aversion from 150 articles estimates a mean loss aversion coefficient is 1.955 with a 95 percent confidence interval between 1.820 and 2.102 (Brown et al. 2024). Therefore, we make a loss aversion adjustment for all current Takaful cash transfer recipients (and not for non-recipients) assuming the equivalent of a loss aversion coefficient λ = 2. For each utility estimated under Forsa-both utility if the Forsa asset is successful and utility if it is lost-we double the difference between the Forsa utility and Takaful utility if the Forsa utility is less. Conversely, if the utility estimated for Forsa is greater than that estimated for Takaful, it remains the same. This effectively penalizes any utility estimated for the economic inclusion program, regardless if a "asset success" or "asset loss", when it falls below the utility estimated for the cash transfer program. As before, predictions derive from a comparison of expected utility from the two programs.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="7.2" xml:id="_zYh9pKk">Results</head><p xml:id="_352hKvj">Model estimation results are summarized in Table <ref type="table" target="#tab_5">6</ref>. Model numbers correspond to descriptions in the main text and formulas in Appendix C. Summary statistics for the observed outcome "Interest in Joining Forsa" are presented in column (1), which shows that 69 percent self-report interest in joining Forsa.</p><p xml:id="_MzW66g4">and for the decision predicted by the model in column (2). Column (3) reports the share of the sample whose observed outcome is correctly predicted by the model. Then, coefficient estimates from regressions of the observed outcome on the predicted decision are shown with no fixed effects in column (4), governorate fixed effects in column (5), and strata fixed effects in column (6).</p><p xml:id="_dWgnfbt">We start by presenting estimates from Model 1, the Simple Model in Section 2, which estimates that 45 percent of households would prefer Forsa. We also find that it is a statistically significant predictor of interest in the economic inclusion program. However, the coefficients are small in magnitude, with the model's prediction toward the economic inclusion program only associated with a 3.3 percentage point higher likelihood that the household expressed interest or signed up for the Forsa program.</p><p xml:id="_mg5Du64">Building on Model 1, subsequent models incorporate asset loss probability and risk preferences, continuing to reduce the share of households predicted to prefer Forsa while also slightly improving the predictive power of the model on the observed outcome. The fact that model fit improves even though estimated decisions fall farther below the observed outcomes indicates that the proxies we chose for asset loss probability and risk aversion effectively capture variance in these parameters within our sample, even if not the true levels. Then, the largest and most statistically significant coefficients come from Model 4, the Complex Model in Section 2, which estimates that 22 percent of households would prefer Forsa. Further, the model's prediction toward the economic inclusion program is associated with a 6.7 percentage point higher likelihood of household interest in Forsa-double the predictive power the Model 1. This exercise suggests that indeed risk preferences and loss aversion are important behavioral factors affecting households decision to opt into a new economic inclusion program.</p><p xml:id="_nvrGdAB">This analysis has several limitations. We use the best behavioral preference data available and acknowledge that, in hindsight, better measures of time and risk preference would improve the model's accuracy. We leave improved estimation of structural models of participation and social protection programs to future research. Still, we find the model estimation important because, while the video messaging experiment finds credible causal evidence that cash transfer duration and expected income are influential design parameters in the economic inclusion program, the model estimation exercise shows that other factors are also likely at play and allows us to speculate as to what those factors may be: asset loss probability, risk parameters, and loss aversion.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="8" xml:id="_HnpjcFw">Conclusion</head><p xml:id="_b4v9jZm">We As for Takaful's Visa, it has not stopped as my wife is getting the monthly Takaful stipends".</p><p xml:id="_9TE6ryJ">Final Message: "The Forsa program offers two tracks: the asset transfer track and the wage employment track.</p><p xml:id="_RvykxHT">Takaful transfers will continue until we make sure that you have already stood on your feet. As for the food, life and health insurance for you and your children, as well as the exemption from school fees, these benefits will always continue. Also remember that you will still benefit from services for the first thousand days of the child's life and the literacy lessons. Keep in mind that the integrated services card for people with disabilities will not be cancelled. You will continue to benefit from all its services."</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_TVYfFeF">T3 Video -Female Wage Employment Testimony:</head><p xml:id="_FJuEACV">...... Final Message: " The Forsa program offers two tracks: the asset transfer track and the wage employment track.</p><p xml:id="_fpqNBem">Takaful transfers will continue until we make sure that you have already stood on your feet. As for the food, life and health insurance for you and your children, as well as the exemption from school fees, these benefits will always continue. Also remember that you will still benefit from services for the first thousand days of the child's life and the literacy lessons. Keep in mind that the integrated services card for people with disabilities will not be canceled. You will continue to benefit from all its services."</p><p xml:id="_yKrkNEU">Table A.2: Treatment Effects by Gender and Takaful Status Interest in Joining Forsa Recommend Forsa Interest in Joining Forsa Recommend Forsa Forsa Sub-Sample: Not Signed Up Full Sample Not Signed Up Full Sample (1) (2) (3) (4) (5) (6) (7) (8) VARIABLES Transfer Duration 0.015 0.007 0.029 0.035* -0.000 -0.007 0.040 0.049** (0.031) (0.029) (0.020) (0.020) (0.035) (0.036) (0.025) (0.025) Testimonies 0.044* 0.041* 0.037** 0.038** 0.038 0.026 0.035 0.038* (0.027) (0.025) (0.017) (0.017) (0.029) (0.029) (0.022) (0.021) Male 0.073* 0.096** -0.008 -0.002 (0.041) (0.042) (0.030) (0.031) Transfer Duration x Male -0.089 -0.074 0.012 0.009 (0.059) (0.059) (0.040) (0.041) Testimonies x Male -0.045 -0.058 -0.036 -0.034 (0.050) (0.050) (0.036) (0.036) Takaful Beneficiary -0.202*** -0.132*** -0.047* -0.048* (0.036) (0.039) (0.025) (0.028) Transfer Duration x Takaful -0.005 -0.005 -0.012 -0.022 (0.050) (0.051) (0.034) (0.035) Testimonies x Takaful -0.008 0.002 -0.014 -0.016 (0.043) (0.043) (0.030) (0.031) Observations 2,540 2,540 3,730 3,730 2,540 2,540 3,730 3,730 R-squared 0.003 0.256 0.003 0.116 0.051 0.263 0.007 0.118 Strata FE NO YES NO YES NO YES NO YES Control Outcome Mean 0.674 0.674 0.813 0.813 0.674 0.674 0.813 0.813 Control Outcome SD 0.469 0.469 0.390 0.390 0.469 0.469 0.390 0.390 Notes: Table presents pre-specified heterogeneity analyses on the two main outcomes by a household's Forsa nominee's gender and status in the Takaful cash transfer program. Both specifications build on Equation 3. Columns (1)-( <ref type="formula">4</ref>) adds an indicator equal to one if the households' Forsa nominee is male, and zero otherwise, and corresponding interactions with treatment variables. Columns (5)-( <ref type="formula">8</ref>) add an indicator equal to one if the household is currently received Takaful cash transfers, and zero otherwise, and corresponding interactions with treatment variables. Alternate regressions include strata fixed effects. Robust standard errors in parentheses. Significance levels: *** p&lt;0.01, ** p&lt;0.05, * p&lt;0.1.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_AgtUA4y">1</head><p xml:id="_yKDPsUR">The Egypt Strategy Support Program (EGSSP) is managed by the International Food Policy Research Institute (IFPRI) and is financially supported by United States Agency for International Development (USAID). This publication has been prepared as an output of Evaluating Impact and Building capacity (EIBC) project and has not been independently peer reviewed. Any opinions expressed here belong to the author(s) and are not necessarily representative of or endorsed by IFPRI.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_gRF4zPj">INTERNATIONAL FOOD POLICY RESEARCH INSTITUTE</head><p xml:id="_jnsCkFq">A world free of hunger and malnutrition IFPRI is a CGIAR Research Center</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><figDesc xml:id="_KEYFKHd">program called Takaful and a pilot economic inclusion program called Forsa implemented by the Government of Egypt's Ministry of Social Solidarity (MoSS).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><figDesc xml:id="_MjrbVuD">study low-income households in Egypt currently being recruited to sign up for a new economic inclusion program, most of whom would have to give up their current participation in the national cash transfer program. Despite high rates of self-reported interest, we document lower-than-expected sign-up rates for the new program midway through recruitment and correlates of this decision, including differing perceptions of program design parameters. To better understand determinants of the decision to join the economic inclusion program, we design an experiment that provides official government messages to respondents about key aspects of program design that were ambiguous: the duration of cash transfers as consumption support after joining the economic inclusion program, and the expected income one might earn after obtaining an asset from the program. Among those watching a video message containing only basic information, perceptions of how the economic inclusion program is implemented are wide-ranging and uncertain. Compared to this control group, we find that the new messaging indeed increases perceptions on these design parameters as well as willingness to recommend the program to friends and neighbors. Further, estimating of the model suggests that other factors like effort costs, asset loss probability, risk aversion, and loss aversion also play a role in households decision by deterring households away from the new program.This study contributes policy insights on how economic inclusion programs are implemented by national governments in practice. At the start of the economic inclusion program, the implementation faced significant challenges in influencing beliefs about transfer duration indirectly via the messaging provided on the ground by local implementing non-governmental organizations (NGOs). It also lacked the detailed economic information needed to target program outreach towards communities where reservation wages were lower or animal health outcomes better. The experiment highlights the importance of communicating transfer duration, asset value, and asset productivity to inform interest in the economic inclusion program. Moreover, the model estimation exercise suggests that policymakers must also consider effort costs, risk preferences and loss aversion when designing and recruiting into the program as each can deter interest. When these factors are considered, self-selection into a new economic inclusion program is a valuable design choice that allows households to decide which social protection program is best for them. Overall, these results highlight the importance of designing and communicating compelling economic incentives to opt into economic inclusion programs when it competes with an existing cash transfer program.vaccination. The Minsitry is also responsible for replacing them, in the case of death. I know that this project will require some perseverance for it to become profitable." Third Testimony: "I'm currently enrolled in the Takaful program, but when I heard of Forsa, I was interested to know more and to learn a new skill. They taught me how to use a sewing machine to make clothes. I also valued the life skills training that was 4 days long. In the training, we discussed several topics such as balancing work and household duties, time management, dealing with colleagues and clients. This project will help me to add a new income source to my family, which will help me to support them, especially my children's school-related needs." Fourth Testimony, Male Wage-Employment Testimony: "I started with a 4-day theoretical and a 15-day technical training at the factory. The theoretical training included what is expected from the employee, how to deal with conflicts at work, how to report to the supervisor. In the technical training, they trained me how to use different sewing machines to make T-shirts and trousers. After the training, I told my supervisor that I have experience in ironing, and I would prefer to be in the ironing team. After testing my ironing skills, they accepted my transfer. My salary has already increased from 1500 to 1700, and my supervisor confirmed that It will increase even more as I stay committed to the job. What I value the most about this job, is having a stable monthly income, which makes me feel safer in general.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 :</head><label>1</label><figDesc xml:id="_nZBuNjn">Summary Statistics and T-Tests by Cash Transfers (Takaful) and Economic Inclusion (Forsa) Status</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell cols="2">Takaful Recipient</cell><cell>ttest</cell><cell cols="2">Signed Up for Forsa</cell><cell>ttest</cell></row><row><cell></cell><cell cols="2">Mean SD</cell><cell>No</cell><cell>Yes</cell><cell>pval</cell><cell>No</cell><cell>Yes</cell><cell>pval</cell></row><row><cell cols="2">HOUSEHOLD CHARACTERISTICS:</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Indicator if signed up for Forsa</cell><cell cols="3">0.32 0.47 0.33</cell><cell>0.31</cell><cell>0.39</cell><cell>0.00</cell><cell>1.00</cell></row><row><cell>Indicator if received Forsa benefit</cell><cell cols="3">0.10 0.29 0.09</cell><cell>0.10</cell><cell>0.29</cell><cell>0.00</cell><cell>0.30</cell><cell>0.00***</cell></row><row><cell>Indicator if Takaful recipient</cell><cell cols="3">0.56 0.50 0.00</cell><cell>1.00</cell><cell></cell><cell>0.56</cell><cell>0.55</cell><cell>0.39</cell></row><row><cell>Household size</cell><cell cols="3">5.43 1.43 5.27</cell><cell>5.55</cell><cell cols="2">0.00*** 5.39</cell><cell>5.50</cell><cell>0.04**</cell></row><row><cell>Household head employment*</cell><cell cols="3">0.68 0.47 0.71</cell><cell>0.65</cell><cell cols="2">0.00*** 0.68</cell><cell>0.68</cell><cell>0.90</cell></row><row><cell cols="4">Number of sheep &amp; goats owned* 0.10 1.67 0.14</cell><cell>0.07*</cell><cell>0.31</cell><cell>0.11</cell><cell>0.09</cell><cell>0.62</cell></row><row><cell>Household reports shock last year</cell><cell cols="3">0.94 0.23 0.94</cell><cell>0.95</cell><cell>0.31</cell><cell>0.93</cell><cell>0.96</cell><cell>0.00***</cell></row><row><cell cols="2">NOMINEE CHARACTERISTICS:</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Indicator if female</cell><cell cols="3">0.75 0.43 0.75</cell><cell>0.75</cell><cell>0.72</cell><cell>0.73</cell><cell>0.79</cell><cell>0.00***</cell></row><row><cell>Age</cell><cell>37.0</cell><cell>8.2</cell><cell>35.9</cell><cell>37.9</cell><cell cols="2">0.00*** 37.1</cell><cell>36.7</cell><cell>0.09*</cell></row><row><cell>Completed primary school</cell><cell cols="3">0.59 0.49 0.65</cell><cell>0.55</cell><cell cols="2">0.00*** 0.58</cell><cell>0.61</cell><cell>0.149</cell></row><row><cell>Completed secondary school</cell><cell cols="3">0.35 0.48 0.41</cell><cell>0.30</cell><cell cols="2">0.00*** 0.36</cell><cell>0.33</cell><cell>0.11</cell></row><row><cell>FORSA AWARENESS:</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Heard of Forsa unprompted</cell><cell cols="3">0.66 0.47 0.66</cell><cell>0.67</cell><cell>0.40</cell><cell>0.55</cell><cell>0.91</cell><cell>0.00***</cell></row><row><cell>Attended Forsa info meeting</cell><cell cols="3">0.41 0.49 0.38</cell><cell>0.43</cell><cell>0.01**</cell><cell>0.26</cell><cell>0.72</cell><cell>0.00***</cell></row><row><cell>Heard official Forsa info</cell><cell cols="3">0.50 0.50 0.48</cell><cell>0.52</cell><cell cols="2">0.00*** 0.42</cell><cell>0.68</cell><cell>0.00***</cell></row><row><cell>BEHAVIORAL PREFERENCES:</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Prefers one-time to monthly cash</cell><cell cols="3">0.67 0.47 0.72</cell><cell>0.62</cell><cell cols="2">0.00*** 0.65</cell><cell>0.71</cell><cell>0.00***</cell></row><row><cell>Indicator if high discount rate*</cell><cell cols="3">0.86 0.35 0.86</cell><cell>0.86</cell><cell>0.58</cell><cell>0.87</cell><cell>0.84</cell><cell>0.06*</cell></row><row><cell>Risk scale 0-10*</cell><cell cols="3">3.50 2.97 3.69</cell><cell>3.36</cell><cell cols="2">0.00*** 3.38</cell><cell>3.71</cell><cell>0.01**</cell></row><row><cell>Grit scale 0-8*</cell><cell cols="3">2.68 1.89 2.64</cell><cell>2.70</cell><cell>0.42</cell><cell>2.67</cell><cell>2.69</cell><cell>0.80</cell></row><row><cell>Self efficacy 0-25*</cell><cell cols="3">14.86 3.51 15.08</cell><cell>14.68</cell><cell cols="2">0.00*** 14.85</cell><cell>14.87</cell><cell>0.87</cell></row><row><cell>Manage money well: 0-4 scale*</cell><cell cols="3">2.02 1.11 2.13</cell><cell>1.94</cell><cell cols="2">0.00*** 2.02</cell><cell>2.03</cell><cell>0.69</cell></row></table><note xml:id="_kuYU6Bm"><p>Notes: Table presents sample summary statistics in columns (</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 :</head><label>2</label><figDesc xml:id="_7qYjwkg">Perceptions of Design Features for the Economic Inclusion Program (Forsa) in Control GroupTable presents descriptive statistics on perceptions of key design features of the economic inclusion program (Forsa) in the control group (N=941). Panel A presents summary statistics including the percent of the sample who did not respond or responded "don't know" to the survey question (% NR), the percent of the sample who only responded via a close-ended ordinal response question (% OR) offered after responding "don't know" to a preceding and prioritized open-ended question ("n/a" indicates the ordinal response was not offered), and the Mean calculated using open-ended responses when available and the midpoint of ranges given in the close-ended ordinal response questions otherwise.schooling and health insurance benefits, respectively, though these benefits continue on Forsa. Further, almost half (48 percent) of respondents think it will be possible to leave the Forsa program and re-enroll in Takaful; while this clearly contradicts the strategic goal of the program, it is also a policy design choice that was not clearly articulated in messaging about the program.Differences in perceptions in Forsa design across participation status in Takaful and Forsa are presented in Panel B. While these differences do not imply causality as such patterns may be determined by omitted variable bias or reverse causality 15 , comparisons are presented to shed light on how perceptions vary more broadly and to hypothesize possible explanations.</figDesc><table><row><cell cols="2">PANEL A: SUMMARY STATISTICS</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>VARIABLES</cell><cell>% NR</cell><cell>% OR</cell><cell>Mean</cell><cell>SD</cell><cell>Min</cell><cell>Max</cell></row><row><cell>Duration of Forsa transfers</cell><cell>0.14</cell><cell>0.22</cell><cell>10.28</cell><cell>11.45</cell><cell>0</cell><cell>120</cell></row><row><cell>Duration of Takaful transfers</cell><cell>0.14</cell><cell>0.21</cell><cell>11.68</cell><cell>11.27</cell><cell>0</cell><cell>120</cell></row><row><cell>Income from Forsa asset</cell><cell>0.14</cell><cell>0.04</cell><cell>1,750</cell><cell>1,498</cell><cell>0</cell><cell>12,000</cell></row><row><cell>Months to receive Forsa asset</cell><cell>0.09</cell><cell>0.02</cell><cell>5.49</cell><cell>8.28</cell><cell>0</cell><cell>120</cell></row><row><cell>Value of Forsa asset</cell><cell>0.09</cell><cell>0.03</cell><cell>21,100</cell><cell>55,683</cell><cell>0</cell><cell>1,500,000</cell></row><row><cell>Exempt from school fees</cell><cell>0.07</cell><cell>n/a</cell><cell>0.63</cell><cell>0.48</cell><cell>0</cell><cell>1</cell></row><row><cell>Eligible for health insurance</cell><cell>0.08</cell><cell>n/a</cell><cell>0.72</cell><cell>0.45</cell><cell>0</cell><cell>1</cell></row><row><cell>Can leave Forsa for Takaful</cell><cell>0.09</cell><cell>n/a</cell><cell>0.48</cell><cell>0.50</cell><cell>0</cell><cell>1</cell></row><row><cell cols="6">PANEL B: PERCEPTIONS OF FORSA DESIGN BY PROGRAM PARTICIPATION</cell><cell></cell></row><row><cell></cell><cell cols="2">Takaful Recipient</cell><cell>ttest</cell><cell cols="2">Signed up for Forsa</cell><cell>ttest</cell></row><row><cell>VARIABLES</cell><cell>No</cell><cell>Yes</cell><cell>pval</cell><cell>No</cell><cell>Yes</cell><cell>pval</cell></row><row><cell>Duration of Forsa transfers</cell><cell>9.38</cell><cell>10.97</cell><cell>0.045**</cell><cell>9.84</cell><cell>11.24</cell><cell>0.117</cell></row><row><cell>Duration of Takaful transfers</cell><cell>11.05</cell><cell>12.15</cell><cell>0.163</cell><cell>11.44</cell><cell>12.17</cell><cell>0.359</cell></row><row><cell>Income from Forsa asset</cell><cell>1,805.03</cell><cell>1,706.37</cell><cell>0.357</cell><cell>1,830.67</cell><cell>1,574.98</cell><cell>0.022**</cell></row><row><cell>Months to receive Forsa asset</cell><cell>5.71</cell><cell>5.32</cell><cell>0.492</cell><cell>5.55</cell><cell>5.37</cell><cell>0.731</cell></row><row><cell>Value of Forsa asset</cell><cell cols="2">23,389.05 19,355.39</cell><cell>0.348</cell><cell cols="2">22,711.35 17,768.14</cell><cell>0.091*</cell></row><row><cell>Exempt from school fees</cell><cell>0.61</cell><cell>0.64</cell><cell>0.279</cell><cell>0.61</cell><cell>0.67</cell><cell>0.095*</cell></row><row><cell>Eligible for health insurance</cell><cell>0.72</cell><cell>0.73</cell><cell>0.843</cell><cell>0.73</cell><cell>0.71</cell><cell>0.446</cell></row><row><cell>Can leave Forsa for Takaful</cell><cell>0.45</cell><cell>0.50</cell><cell>0.126</cell><cell>0.47</cell><cell>0.49</cell><cell>0.561</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Panel B presents</cell></row><row><cell cols="7">t-tests comparing means between Takaful recipients (N=526) and non-recipients (N=405) and then whether households already signed up for Forsa</cell></row><row><cell cols="3">(N=300) or not (N=641). Significance levels: *** p&lt;0.01, ** p&lt;0.05, * p&lt;0.1.</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note xml:id="_DV7phUx"><p>Notes:</p><p>free</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 :</head><label>3</label><figDesc xml:id="_cr4EBgq">Treatment Effects on Interest in the Economic Inclusion Program (Forsa)</figDesc><table><row><cell></cell><cell cols="2">Interest in Joining Forsa</cell><cell></cell><cell cols="4">Recommend Forsa to Friend or Neighbor</cell><cell></cell></row><row><cell>Forsa Sub-Sample:</cell><cell cols="2">Not Signed Up</cell><cell cols="2">Full Sample</cell><cell cols="2">Not Signed Up</cell><cell cols="2">Already Signed Up</cell></row><row><cell>VARIABLES</cell><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell><cell>(4)</cell><cell>(5)</cell><cell>(6)</cell><cell>(7)</cell><cell>(8)</cell></row><row><cell>Transfer Duration</cell><cell>-0.007</cell><cell>-0.012</cell><cell cols="4">0.032* 0.037** 0.046** 0.043*</cell><cell>0.005</cell><cell>-0.003</cell></row><row><cell></cell><cell>0.026</cell><cell>0.025</cell><cell>0.017</cell><cell>0.017</cell><cell>0.022</cell><cell>0.022</cell><cell>0.027</cell><cell>0.028</cell></row><row><cell>Testimonies</cell><cell>0.033</cell><cell>0.027</cell><cell cols="2">0.028* 0.030**</cell><cell>0.017</cell><cell cols="3">0.014 0.049** 0.041*</cell></row><row><cell></cell><cell>0.023</cell><cell>0.021</cell><cell>0.015</cell><cell>0.015</cell><cell>0.020</cell><cell>0.020</cell><cell>0.022</cell><cell>0.023</cell></row><row><cell>Observations</cell><cell>2,540</cell><cell>2,540</cell><cell>3,730</cell><cell>3,730</cell><cell>2,540</cell><cell>2,540</cell><cell>1,190</cell><cell>1,190</cell></row><row><cell>R-squared</cell><cell>0.002</cell><cell>0.254</cell><cell>0.001</cell><cell>0.115</cell><cell>0.002</cell><cell>0.157</cell><cell>0.006</cell><cell>0.304</cell></row><row><cell>Strata FE</cell><cell>NO</cell><cell>YES</cell><cell>NO</cell><cell>YES</cell><cell>NO</cell><cell>YES</cell><cell>NO</cell><cell>YES</cell></row><row><cell cols="2">Control Outcome Mean 0.674</cell><cell>0.674</cell><cell>0.813</cell><cell>0.813</cell><cell>0.782</cell><cell>0.782</cell><cell>0.880</cell><cell>0.880</cell></row><row><cell>Control Outcome SD</cell><cell>0.469</cell><cell>0.469</cell><cell>0.390</cell><cell>0.390</cell><cell>0.413</cell><cell>0.413</cell><cell>0.326</cell><cell>0.326</cell></row></table><note xml:id="_jQtF5sa"><p>Notes: Table presents treatment effect estimates on our main pre-specified outcomes measuring respondent interest in the new economic inclusion program (Forsa). Columns (1)-(</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4 :</head><label>4</label><figDesc xml:id="_Ax7vdQf">Treatment Effects on Expected Transfer Duration in the Economic Inclusion Program (Forsa)Table presents treatment effects on the following outcome: expected number of months that household will receive cash transfers after starting to generate income from the economic inclusion program (Forsa). Results for the full sample in columns (1)-(2), those who had not signed up for Forsa in columns (3)-(</figDesc><table><row><cell></cell><cell></cell><cell cols="4">Mechanism: Months of Takaful with Forsa</cell><cell></cell></row><row><cell>Forsa Sub-Sample:</cell><cell cols="2">Full Sample</cell><cell cols="2">Not Signed Up</cell><cell cols="2">Already Signed Up</cell></row><row><cell>VARIABLES</cell><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell><cell>(4)</cell><cell>(5)</cell><cell>(6)</cell></row><row><cell>Transfer Duration</cell><cell>0.961</cell><cell>0.968</cell><cell cols="3">1.672** 1.887** -0.627</cell><cell>-0.474</cell></row><row><cell></cell><cell cols="3">(0.639) (0.640) (0.794)</cell><cell cols="2">(0.803) (1.049)</cell><cell>(1.286)</cell></row><row><cell>Testimonies</cell><cell>0.147</cell><cell>0.080</cell><cell>0.233</cell><cell>0.319</cell><cell>-0.096</cell><cell>0.542</cell></row><row><cell></cell><cell cols="3">(0.488) (0.490) (0.579)</cell><cell cols="2">(0.599) (0.898)</cell><cell>(1.151)</cell></row><row><cell>Observations</cell><cell>3,264</cell><cell>3,264</cell><cell>2,226</cell><cell>2,226</cell><cell>1,038</cell><cell>1,038</cell></row><row><cell>R-squared</cell><cell>0.001</cell><cell>0.142</cell><cell>0.003</cell><cell>0.196</cell><cell>0.000</cell><cell>0.257</cell></row><row><cell>Strata FE</cell><cell>NO</cell><cell>YES</cell><cell>NO</cell><cell>YES</cell><cell>NO</cell><cell>YES</cell></row><row><cell>Control Outcome Mean</cell><cell>10.28</cell><cell>10.28</cell><cell>9.84</cell><cell>9.84</cell><cell>11.24</cell><cell>11.24</cell></row><row><cell>Control Outcome SD</cell><cell>11.45</cell><cell>11.45</cell><cell>11.18</cell><cell>11.18</cell><cell>11.98</cell><cell>11.98</cell></row></table><note xml:id="_dB2Aq34"><p>Notes:</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 5 :</head><label>5</label><figDesc xml:id="_FaMaqxG">Treatment Effects on Expected Income from Economic Inclusion Program (Forsa) AssetTable presents treatment effects on the following outcome: expected monthly income that a household thinks it could earn from the asset received through the economic inclusion program (Forsa). Results for the full sample in columns (1)-(2), those who had not signed up for Forsa in columns (3)-(4), and those who had already signed up for Forsa in columns (5)-(6). Alternate regressions include strata fixed effects. Robust standard errors in parentheses. Significance levels: *** p&lt;0.01, ** p&lt;0.05, * p&lt;0.1.</figDesc><table><row><cell>Mechanism: Income from Forsa asset</cell></row></table><note xml:id="_f4kjjpS"><p>Notes:</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Table 6 :</head><label>6</label><figDesc xml:id="_MuWfbK2">Model Estimation on Interest in Joining the Economic Inclusion Program (Forsa)Table presents estimation results for sequential iterations of the theoretical model. Model numbers correspond to descriptions in the main text and formulas in Appendix C. Column (1) is summary statistics for the observed outcome: an indicator equal to one if the respondent reports self-interest in signing up for the Forsa program, and zero otherwise. Column (2) is summary statistics for the decision predicted by the model: an indicator equal to one if the model predicts the respondent will choose Forsa, and zero otherwise. Column (3) presents summary statistics for the share of the sample whose observed outcome is correctly predicted by the model. Columns (4)-(5) present regressions of the observed outcome on the predicted decision with no fixed effects in (4) and strata fixed effects in (5). N=2,540, the number of respondents who were asked the outcome because they had not yet signed up for Forsa. For regressions, robust standard errors are in parentheses and significance levels: *** p&lt;0.01, ** p&lt;0.05, * p&lt;0.1.</figDesc><table><row><cell></cell><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell><cell>(4)</cell><cell>(5)</cell></row><row><cell></cell><cell cols="5">Observed Predicted % Observed Reg Observed on Predicted</cell></row><row><cell></cell><cell cols="2">Outcome Decision</cell><cell>=Predicted</cell><cell>No FE</cell><cell>Strata FE</cell></row><row><cell>Model</cell><cell cols="2">Mean/SD Mean/SD</cell><cell>Mean/SD</cell><cell>Coef/SE</cell><cell>Coef/SE</cell></row><row><cell>1) PDV comparison</cell><cell>0.69</cell><cell>0.45</cell><cell>0.50</cell><cell>0.043**</cell><cell>0.033*</cell></row><row><cell>(Simple Model)</cell><cell>(0.46)</cell><cell>(0.50)</cell><cell>(0.50)</cell><cell>(0.018)</cell><cell>(0.020)</cell></row><row><cell>2) + success probability</cell><cell>0.69</cell><cell>0.33</cell><cell>0.46</cell><cell>0.051***</cell><cell>0.054**</cell></row><row><cell></cell><cell>(0.46)</cell><cell>(0.47)</cell><cell>(0.50)</cell><cell>(0.019)</cell><cell>(0.021)</cell></row><row><cell>3) + CRRA risk preferences</cell><cell>0.69</cell><cell>0.26</cell><cell>0.43</cell><cell>0.057***</cell><cell>0.043*</cell></row><row><cell></cell><cell>(0.46)</cell><cell>(0.44)</cell><cell>(0.50)</cell><cell>(0.020)</cell><cell>(0.024)</cell></row><row><cell>4) + loss aversion</cell><cell>0.69</cell><cell>0.22</cell><cell>0.42</cell><cell>0.080***</cell><cell>0.067***</cell></row><row><cell>(Complex Model)</cell><cell>(0.46)</cell><cell>(0.41)</cell><cell>(0.49)</cell><cell>(0.021)</cell><cell>(0.026)</cell></row></table><note xml:id="_x8RkzQr"><p>Notes:</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_0"><p xml:id="_C5Sk98s">The basic information video included a brief description of economic inclusion program, confirmation that it kept the same non-monetary benefits as the cash transfer program, and a statement that "transfers will continue until you can stand on your feet". This was consistent with messaging from the program's informational meetings, official information from media outlets, and previous descriptions of the program in our surveys.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_1"><p xml:id="_VkGbs4a">Mean response is equivalent to US$56 following exchange rate of 1 EGP = 0.032 USD from August-December 2023.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="3" xml:id="foot_2"><p xml:id="_zkzjyqJ">Duration of consumption support is almost significantly greater by 1.4 months among those already signed up (p-value = 0.12), while income from the asset is significantly greater by about 250 EGP among those did not yet sign up (p-value = 0.02)</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_3"><p xml:id="_kGBVxuw">This outcome is independent of the household's own choice and was asked of everyone, both those who did and did not yet sign up for the economic inclusion program. While potentially vulnerable to social desirability bias, we assume this is even across treatment arms and thus does not bias our results. This outcome was pre-specified as a key secondary outcome. We also present null results on our pre-specified primary measure, self-reported interest in joining the economic inclusion program, which was only collected for those who had not yet signed up. Administrative data on actual sign-up behavior were not available to the researchers.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="17" xml:id="foot_4"><p xml:id="_CvPhRw8">This and subsequent tests for treatment effect heterogeneity between Forsa sign-up sub-samples were implemented by adding to regression equation 3 an indicator if the household signed up for Forsa (row 1, Table1) and its interactions with the two treatment indicators with and without fixed effects.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="20" xml:id="foot_5"><p xml:id="_ChCAgvH">The transformation is done by subtracting 11 from the 1-10 risk preference measure and taking the absolute value to reverse the ordering, and dividing by 10 to scale it to standard measures of γ in a CRRA model.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1201" xml:id="foot_6"><p xml:id="_9rhNbEb">Eye Street, NW, Washington, DC 20005 USA | T. +1-202-862-5600 | F. +1-202-862-5606 | Email: ifpri@cgiar.org | www.ifpri.org | www.ifpri.info © 2024, copyright remains with the author(s). All rights reserved.</p></note>
+		</body>
+		<back>
+
+			<div type="funding">
+<div xml:id="_aHCxG6W"><p xml:id="_p37rNph">We gratefully acknowledge the active collaboration on the design and conduct of the evaluation with the <rs type="institution">Ministry of Social Solidarity of the Government of Egypt</rs>. and colleagues at the <rs type="institution">International Food Policy Research Institute (IFPRI)</rs>. This research was funded by <rs type="funder">USAID</rs> under the "<rs type="projectName">Evaluating Impact and Building Capacity" (EIBC)</rs> project implemented by <rs type="funder">IFPRI</rs>, through the <rs type="funder">World Bank</rs> by the <rs type="funder">United Kingdom Foreign, Commonwealth &amp; Development Office (FCDO)</rs>, the <rs type="funder">CGIAR Initiative on National Policies and Strategies</rs>, and the <rs type="funder">CGIAR Initiative on Gender Equality (HER+)</rs>. We are grateful to <rs type="person">Mr. Mohamad Azab</rs> and the research firm Gawab for their role in collecting the household survey data. We registered a pre-analysis plan (PAP) for this study to the AEA <rs type="programName">RCT Registry</rs> (<rs type="grantNumber">ID AEARCTR-0012342</rs>): <ref type="url" target="https://www.socialscienceregistry.org/trials/12342">https://www.socialscienceregistry.org/trials/12342</ref>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funded-project" xml:id="_kBghjEB">
+					<orgName type="project" subtype="full">Evaluating Impact and Building Capacity&quot; (EIBC)</orgName>
+				</org>
+				<org type="funding" xml:id="_QaPv6eW">
+					<idno type="grant-number">ID AEARCTR-0012342</idno>
+					<orgName type="program" subtype="full">RCT Registry</orgName>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_z4kD3VR">Online Appendix</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_XPHYc4V">A Treatment Scripts</head><p xml:id="_CqMr6zZ">The following are the English translations of the voiceover script heard during the video messages:</p><p xml:id="_Z4wqPzR">Basic Information (BI): "The Ministry of Social Solidarity offers you the Forsa program, which provides you with small projects or job opportunities. Keep in mind that your Takaful transfers will continue until you can stand on your feet. You will also continue to be a beneficiary of food, livelihood, and health insurance for you and your children, as well as exemption from school fees. And remember also that you will still be a beneficiary of services."</p><p xml:id="_QtSe4wY">The first thousand days of a child's life and literacy lessons, and keep in mind that the integrated services card for people with disabilities will not be canceled, and you will remain a beneficiary of all its services."</p><p xml:id="_U2KqdZn">Transfer Duration: The Basic Information script above + ... "The Ministry of Social Solidarity offers you the Forsa program, which offers small projects or job opportunities so that you have a stable income that you can rely on to build your future and the future of your family. When we visit and see that the project has succeeded or that you have settled in your work and that you and your family's life have reached stability, remember that the Takaful transfers will last you six months, but you will still benefit from food, living and health insurance for you and your children, as well as exemption from school fees. Also remember that you will still benefit from services for the first thousand days of the child's life and literacy lessons. Keep in mind that the integrated services card for people with disabilities will not be canceled. You will continue to benefit from all its services."</p><p xml:id="_4w2JDms">Testimonies: The Basic Information script above + four unscripted testimonies from Forsa participants: three testimonies featuring all women for the asset modality and one testimony featuring either a man or a woman for the wage-employment modality. Testimonies were of real-life program participants, who described their experience with the Forsa program, support received, and revealed their average monthly income received thus far from the Forsa asset/job.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_qHry5AM">T2 Video -Male Wage Employment Testimony:</head><p xml:id="_RGgf7dg">First Testimony: "The Ministry of Social Solidarity offers you the opportunity of having an asset under the Forsa program, which could increase your income. They communicated the different asset types, and I chose poultry project, as i have some background in raising poultry. The ministry gave me 100 chicks, and there was a veterinarian to advise us on how to treat them and the medicine type we should give them. The chicks I received were 15 days old, and after 1 month, I was able to generate around 6000 EGP. From the 6000 EGP, I was able to buy more chicks to start a new cycle." Second Testimony: "I chose the goats project, and I received two goats with their health/vaccination certificates.</p><p xml:id="_VYY84aH">They told me to go to the Ministry in case anything happens to them, as they will provide all the necessary care and B Additional Tables</p><p xml:id="_qcWQQxq">Table A.1: Balance Tests with Randomized Treatments OUTCOME VARIABLES Balance Test -No FE Balance Test -Strata FE T1 Coef. T1 pval T2 Coef. T2 pval T1 Coef. T1 pval T2 Coef. T2 pval Indicator if Forsa Participant -0.012 0.588 0.006 0.737 -0.012 0.543 0.004 0.830 Indicator if Female -0.001 0.980 -0.002 0.902 0.002 0.900 -0.002 0.920 Individual Age -0.061 0.870 -0.227 0.486 -0.139 0.706 -0.231 0.471 Indicator if Completed Primary Educ 0.035 0.122 0.022 0.255 0.035 0.107 0.023 0.223 Indicator if Completed Secondary Educ 0.013 0.545 0.026 0.173 0.014 0.522 0.026 0.154 Household Size -0.043 0.505 -0.040 0.472 -0.050 0.426 -0.039 0.455 Household head employment at baseline -0.005 0.831 0.025 0.178 -0.005 0.821 0.025 0.169 Number of sheeps and goats owned at baseline 0.071 0.509 -0.028 0.268 0.061 0.544 -0.035 0.251 Hh Reports Shock Last Year 0.002 0.884 -0.004 0.630 0.002 0.847 -0.005 0.572 Indicator if Takaful Participant 0.004 0.862 -0.023 0.240 -0.003 0.854 -0.019 0.205 Most recent Takaful transfer in 100 EGP 0.002 0.987 -0.124 0.264 -0.039 0.691 -0.100 0.241 Notes: Table presents balance tests of pre-intervention variables on treatment assignment estimated by regressing Equation 3. Each row represents a pre-intervention characteristic that serves as the dependent variable. Columns (1)-( <ref type="formula">4</ref>) are the coefficients and p-values estimated for β 1 and β 2 from a regression without fixed effects, and columns (5)-( <ref type="formula">8</ref>) are those from a regression with strata fixed effects.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_RAAzgK2">C Equations for Model Estimations</head><p xml:id="_GzqEeMf">Model 1: Simple PDV comparison:</p><formula xml:id="formula_3">max δ ∑ t=0 β t τ Cash Trans f er , d ∑ t=0 β t τ + ∞ ∑ t=0 β t y -c(e) Economic Inclusion<label>(1)</label></formula><p xml:id="_6Fwp2m9">Model 2: PDV comparison with adding probability of Forsa asset loss ρ:</p><formula xml:id="formula_4">max δ ∑ t=0 β t τ Cash Trans f er , (1 -ρ) • [ d ∑ t=0 β t τ + ∞ ∑ t=0 β t y -c(e) Economic Inclusion: Asset Success + ρ • [ d ∑ t=0 β t τ + ∞ ∑ t=0 β t -c(e) Economic Inclusion: Asset Loss<label>(2)</label></formula><p xml:id="_jYsYdCV">Model 3: Utility comparison with a constant relative risk aversion (CRRA) utility function U(x) = x (1-γ) 1-γ with risk parameter γ and probability of Forsa asset loss ρ:</p><formula xml:id="formula_5">max U δ ∑ t=0 β t τ Cash Trans f er , (1 -ρ) •U d ∑ t=0 β t τ + ∞ ∑ t=0 β t y -c(e) Economic Inclusion: Asset Success + ρ •U d ∑ t=0 β t τ + ∞ ∑ t=0 β t -c(e)</formula></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_p5hx2BH">Economic Inclusion: Asset Loss</head><p xml:id="_HryrkPk">(3) Model 4: Utility comparison with a constant relative risk aversion (CRRA) utility function adding the loss aversion adjustment λ . At λ = 2, the loss aversion adjustment doubles the difference in utility estimated for Gradation Program under either scenario ("Asset Success" or "Asset Loss") if that utility is less than the utility estimated for Cash Transfer.</p><formula xml:id="formula_6">max U δ ∑ t=0 β t τ Cash Trans f er , (1 -ρ) •V d ∑ t=0 β t τ + ∞ ∑ t=0 β t y -c(e) Economic Inclusion: Asset Success + ρ •V d ∑ t=0 β t τ + ∞ ∑ t=0 β t -c(e) Economic Inclusion: Asset Loss (4) where V (x) =        U(x) if U(x) ≥ U(Cash Trans f er) (gains) U(x) -(λ -1)[U(Cash Trans f erl) -U(x)] if U(x) &lt; U(Cash Trans f er) (losses)</formula></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="consolidated"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main" xml:id="_297buEe">Self-Targeting: Evidence from a Field Experiment in Indonesia</title>
+		<author>
+			<persName><forename type="first">Vivi</forename><surname>Alatas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Abhijit</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rema</forename><surname>Hanna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Benjamin</forename><forename type="middle">A</forename><surname>Olken</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ririn</forename><surname>Purnamasari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Matthew</forename><surname>Wai-Poi</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/685299</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_2RwagZG">Journal of Political Economy</title>
+		<title level="j" type="abbrev">Journal of Political Economy</title>
+		<idno type="ISSN">0022-3808</idno>
+		<idno type="ISSNe">1537-534X</idno>
+		<imprint>
+			<biblScope unit="volume">124</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="371" to="427" />
+			<date type="published" when="2016-04">2016</date>
+			<publisher>University of Chicago Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main" xml:id="_TjnbS3G">The State of Economic Inclusion Report 2021</title>
+		<author>
+			<persName><forename type="first">Colin</forename><surname>Andrews</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aude</forename><surname>De Montesquiou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ines</forename><surname>Arevalo Sanchez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Puja</forename><forename type="middle">Vasudeva</forename><surname>Dutta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Boban</forename><forename type="middle">Varghese</forename><surname>Paul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sadna</forename><surname>Samaranayake</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Janet</forename><surname>Heisey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Timothy</forename><surname>Clay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sarang</forename><surname>Chaudhary</surname></persName>
+		</author>
+		<idno type="DOI">10.1596/978-1-4648-1598-0</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_6vFpKsz">The State of Economic Inclusion Report 2021: The Potential to Scale</title>
+		<imprint>
+			<publisher>The World Bank</publisher>
+			<date type="published" when="2021-01-19">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<monogr>
+		<title level="m" type="main" xml:id="_4psGGTU">The State of Economic Inclusion Report 2024: Pathways to Scale</title>
+		<author>
+			<persName><surname>Arévalo-Sánchez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Janet</forename><surname>Inés</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sarang</forename><surname>Heisey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Timothy</forename><surname>Chaudhary</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Victoria</forename><surname>Clay</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Strokova</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main" xml:id="_62gqush">How Big Does a Big Push Need to Be?</title>
+		<author>
+			<persName><forename type="first">Ragui</forename><surname>Assad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Adam</forename><surname>Osman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">William</forename><surname>Pariente Pariente</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christine</forename><surname>Valente</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_HXjAS2r">Presented at the Innovations for Poverty Action (IPA) and the Global Poverty Research Lab</title>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+		<respStmt>
+			<orgName>GPRL) Researcher Gathering at Northwestern University</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main" xml:id="_3GBcvEy">Why Do People Stay Poor?</title>
+		<author>
+			<persName><forename type="first">Clare</forename><surname>Balboni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Oriana</forename><surname>Bandiera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robin</forename><surname>Burgess</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Maitreesh</forename><surname>Ghatak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anton</forename><surname>Heil</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/qje/qjab045</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_7jYSmCN">The Quarterly Journal of Economics</title>
+		<idno type="ISSN">0033-5533</idno>
+		<idno type="ISSNe">1531-4650</idno>
+		<imprint>
+			<biblScope unit="volume">137</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="785" to="844" />
+			<date type="published" when="2022">2022</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main" xml:id="_2wuqX6Y">Labor Markets and Poverty in Village Economies*</title>
+		<author>
+			<persName><forename type="first">Oriana</forename><surname>Bandiera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robin</forename><surname>Burgess</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Narayan</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Selim</forename><surname>Gulesci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Imran</forename><surname>Rasul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Munshi</forename><surname>Sulaiman</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/qje/qjx003</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_XssM4Sh">The Quarterly Journal of Economics</title>
+		<idno type="ISSN">0033-5533</idno>
+		<idno type="ISSNe">1531-4650</idno>
+		<imprint>
+			<biblScope unit="volume">132</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="811" to="870" />
+			<date type="published" when="2017-03-20">2017</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main" xml:id="_28bXQ4v">A multifaceted program causes lasting progress for the very poor: Evidence from six countries</title>
+		<author>
+			<persName><forename type="first">Abhijit</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Esther</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nathanael</forename><surname>Goldberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dean</forename><surname>Karlan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Osei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">William</forename><surname>Parienté</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeremy</forename><surname>Shapiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bram</forename><surname>Thuysbaert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Udry</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.1260799</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_ANTugSj">Science</title>
+		<title level="j" type="abbrev">Science</title>
+		<idno type="ISSN">0036-8075</idno>
+		<idno type="ISSNe">1095-9203</idno>
+		<imprint>
+			<biblScope unit="volume">348</biblScope>
+			<biblScope unit="issue">6236</biblScope>
+			<biblScope unit="page">1260799</biblScope>
+			<date type="published" when="2015-05-15">2015</date>
+			<publisher>American Association for the Advancement of Science (AAAS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main" xml:id="_dyDhNHQ">The Challenges of Universal Health Insurance in Developing Countries: Experimental Evidence from Indonesia’s National Health Insurance</title>
+		<author>
+			<persName><forename type="first">Abhijit</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Amy</forename><surname>Finkelstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rema</forename><surname>Hanna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Benjamin</forename><forename type="middle">A</forename><surname>Olken</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Arianna</forename><surname>Ornaghi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sudarno</forename><surname>Sumarto</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/aer.20200523</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_SsM5EKB">American Economic Review</title>
+		<title level="j" type="abbrev">American Economic Review</title>
+		<idno type="ISSN">0002-8282</idno>
+		<imprint>
+			<biblScope unit="volume">111</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="3035" to="3063" />
+			<date type="published" when="2021-09-01">2021</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b8">
+	<monogr>
+		<title level="m" type="main" xml:id="_WKqVmJX">Social protection in the developing world</title>
+		<author>
+			<persName><forename type="first">Abhijit</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rema</forename><surname>Hanna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Benjamin</forename><forename type="middle">A</forename><surname>Olken</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Diana</forename><forename type="middle">Sverdlin</forename><surname>Lisker</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b9">
+	<monogr>
+		<title level="m" type="main" xml:id="_Dm754pA">Designing social protection programs</title>
+		<author>
+			<persName><forename type="first">Guush</forename><surname>Berhane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kalle</forename><surname>Hirvonen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<pubPlace>Washington, DC</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>International Food Policy Research Institute (IFPRI)</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main" xml:id="_qHCn8uq">Lobbying and Welfare in a Representative Democracy</title>
+		<author>
+			<persName><forename type="first">Timothy</forename><surname>Besley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stephen</forename><surname>Coate</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/1467-937x.00160</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_9ZQxZPp">The Review of Economic Studies</title>
+		<title level="j" type="abbrev">The Review of Economic Studies</title>
+		<idno type="ISSN">0034-6527</idno>
+		<idno type="ISSNe">1467-937X</idno>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="67" to="82" />
+			<date type="published" when="1992">1992</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main" xml:id="_tKBJtVX">Recognizing and Leveraging Politics to Expand and Sustain Social Safety Nets</title>
+		<author>
+			<persName><forename type="first">Thomas</forename><surname>Bossuroy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aline</forename><surname>Coudouel</surname></persName>
+		</author>
+		<idno type="DOI">10.1596/978-1-4648-1164-7_ch3</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_xWbvFxv">Realizing the Full Potential of Social Safety Nets in Africa</title>
+		<imprint>
+			<publisher>The World Bank</publisher>
+			<date type="published" when="2018-07-02">2018</date>
+			<biblScope unit="page" from="139" to="182" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main" xml:id="_rurPEBP">Tackling psychosocial and capital constraints to alleviate poverty</title>
+		<author>
+			<persName><forename type="first">Thomas</forename><surname>Bossuroy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Markus</forename><surname>Goldstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bassirou</forename><surname>Karimou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dean</forename><surname>Karlan</surname></persName>
+			<idno type="ORCID">0000-0003-0164-1398</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Harounan</forename><surname>Kazianga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">William</forename><surname>Parienté</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Patrick</forename><surname>Premand</surname></persName>
+			<idno type="ORCID">0000-0002-7447-5995</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Catherine</forename><forename type="middle">C</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Udry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Julia</forename><surname>Vaillant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kelsey</forename><forename type="middle">A</forename><surname>Wright</surname></persName>
+			<idno type="ORCID">0000-0003-4156-3814</idno>
+		</author>
+		<idno type="DOI">10.1038/s41586-022-04647-8</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_vZAvrdz">Nature</title>
+		<title level="j" type="abbrev">Nature</title>
+		<idno type="ISSN">0028-0836</idno>
+		<idno type="ISSNe">1476-4687</idno>
+		<imprint>
+			<biblScope unit="volume">605</biblScope>
+			<biblScope unit="issue">7909</biblScope>
+			<biblScope unit="page" from="291" to="297" />
+			<date type="published" when="2022-04-27">2022. 7909</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main" xml:id="_7jT4WJp">Impact evaluation study for Egypt&apos;s Takaful and Karama cash transfer program: Part</title>
+		<author>
+			<persName><forename type="first">Clemens</forename><surname>Breisinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Daniel</forename><surname>Gilligan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Naureen</forename><surname>Karachiwalla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sikandra</forename><surname>Kurdi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hoda</forename><surname>El-Enbaby</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Amir</forename><surname>Jilani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Giang</forename><surname>Thai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s" xml:id="_gwzxdtU">Quantitative Report</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+		<respStmt>
+			<orgName>International Food Policy Research Institute</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main" xml:id="_DtPNzW8">Meta-analysis of Empirical Estimates of Loss Aversion</title>
+		<author>
+			<persName><forename type="first">Alexander</forename><forename type="middle">L</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Taisuke</forename><surname>Imai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ferdinand</forename><forename type="middle">M</forename><surname>Vieider</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Colin</forename><forename type="middle">F</forename><surname>Camerer</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/jel.20221698</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_bXrND36">Journal of Economic Literature</title>
+		<title level="j" type="abbrev">Journal of Economic Literature</title>
+		<idno type="ISSN">0022-0515</idno>
+		<idno type="ISSNe">2328-8175</idno>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="485" to="516" />
+			<date type="published" when="2024-06-01">2024</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main" xml:id="_kWc6Hvw">Social protection amidst social upheaval: Examining the impact of a multi-faceted program for ultra-poor households in Yemen</title>
+		<author>
+			<persName><forename type="first">Lasse</forename><surname>Brune</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dean</forename><surname>Karlan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sikandra</forename><surname>Kurdi</surname></persName>
+			<idno type="ORCID">0000-0001-7399-6003</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Udry</surname></persName>
+			<idno type="ORCID">0000-0002-1605-1916</idno>
+		</author>
+		<idno type="DOI">10.1016/j.jdeveco.2021.102780</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_JSAtXt5">Journal of Development Economics</title>
+		<title level="j" type="abbrev">Journal of Development Economics</title>
+		<idno type="ISSN">0304-3878</idno>
+		<imprint>
+			<biblScope unit="volume">155</biblScope>
+			<biblScope unit="page">102780</biblScope>
+			<date type="published" when="2022-03">2022</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main" xml:id="_XyPcm22">Tackling Social Exclusion: Evidence from Chile</title>
+		<author>
+			<persName><forename type="first">Pedro</forename><surname>Carneiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Emanuela</forename><surname>Galasso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rita</forename><surname>Ginja</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/ecoj.12594</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_hgthbNT">The Economic Journal</title>
+		<idno type="ISSN">0013-0133</idno>
+		<idno type="ISSNe">1468-0297</idno>
+		<imprint>
+			<biblScope unit="volume">129</biblScope>
+			<biblScope unit="issue">617</biblScope>
+			<biblScope unit="page" from="172" to="208" />
+			<date type="published" when="2019">2019</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main" xml:id="_t2FWCNp">Medidas no arancelarias</title>
+		<author>
+			<persName><forename type="first">Mariana</forename><surname>Ceratti</surname></persName>
+		</author>
+		<idno type="DOI">10.30875/9789287076595-005.zhtml</idno>
+		<ptr target="https://www.worldbank.org/en/news/feature/2014/03/22/mundo-sin-pobreza-leccion-brasil-mundo-bolsa-familia" />
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_mr9aTMU">Perfiles Arancelarios en el Mundo</title>
+		<imprint>
+			<publisher>WTO</publisher>
+			<date type="published" when="2014-03">2014. March</date>
+			<biblScope unit="page" from="9" to="10" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b18">
+	<monogr>
+		<title level="m" type="main" xml:id="_qNUAtCg">Valuing Assets Provided to Low-Income Households in South Sudan</title>
+		<author>
+			<persName><forename type="first">Reajul</forename><surname>Chowdhury</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Elliott</forename><surname>Collins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ethan</forename><surname>Ligon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Munshi</forename><surname>Sulaiman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b19">
+	<monogr>
+		<title level="m" type="main" xml:id="_zwJ3TGg">The Take Up of Social Benefits</title>
+		<author>
+			<persName><forename type="first">Janet</forename><surname>Currie</surname></persName>
+		</author>
+		<idno type="DOI">10.3386/w10488</idno>
+		<imprint>
+			<date type="published" when="2004-05">2004</date>
+			<publisher>National Bureau of Economic Research</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b20">
+	<monogr>
+		<title level="m" type="main" xml:id="_CxS8usA">Right to Work?: Assessing India&apos;s Employment Guarantee Scheme in Bihar</title>
+		<author>
+			<persName><forename type="first">Puja</forename><surname>Dutta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rinku</forename><surname>Murgai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Martin</forename><surname>Ravallion</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dominique</forename><surname>Van De Walle</surname></persName>
+		</author>
+		<idno type="DOI">10.1596/978-1-4648-0130-3</idno>
+		<imprint>
+			<date type="published" when="2014-02-27">2014</date>
+			<publisher>The World Bank</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b21">
+	<monogr>
+		<author>
+			<persName><forename type="first">Ugo</forename><surname>Gentilini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mohamed</forename><surname>Almenfi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><surname>Blomquist</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pamela</forename><surname>Dale</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Luciana</forename><surname>De La</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Flor</forename><surname>Giuffra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Vyjayanti</forename><surname>Desai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Maria</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Belen</forename><surname>Fontenez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Guillermo</forename><surname>Galicia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Veronica</forename><surname>Lopez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Georgina</forename><surname>Marin</surname></persName>
+		</author>
+		<title level="m" xml:id="_TH5QFED">Social Protection and Jobs Responses to COVID-19: A Real-Time Review of Country Measures</title>
+		<imprint>
+			<publisher>The World Bank Group</publisher>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Technical report</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b22">
+	<monogr>
+		<title level="m" type="main" xml:id="_fcaCjfy">Impact evaluation report: Egypt’s forsa graduation program</title>
+		<author>
+			<persName><forename type="first">Daniel</forename><forename type="middle">O</forename><surname>Gilligan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sikandra</forename><surname>Kurdi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Martin</forename><forename type="middle">Paul Jr. </forename><surname>Tabe-Ojong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Basma</forename><surname>Yassa</surname></persName>
+		</author>
+		<idno type="DOI">10.2499/p15738coll2.136469</idno>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<publisher>International Food Policy Research Institute</publisher>
+		</imprint>
+		<respStmt>
+			<orgName>International Food Policy Research Institute</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">MENA Working Paper 41</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b23">
+	<monogr>
+		<title level="m" type="main" xml:id="_FUeZh6G">Perils of the paperwork: The impact of information and application assistance on welfare program take-up in India</title>
+		<author>
+			<persName><forename type="first">Sarika</forename><surname>Gupta</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Job Market Paper</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b24">
+	<analytic>
+		<title level="a" type="main" xml:id="_ghuXk8s">Social protection, food security, and asset formation</title>
+		<author>
+			<persName><forename type="first">Melissa</forename><surname>Hidrobo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><surname>Hoddinott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Neha</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Meghan</forename><surname>Olivier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_fS6x5MB">World Development</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="page" from="88" to="103" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b25">
+	<analytic>
+		<title level="a" type="main" xml:id="_hNZrYCk">Beneficiary Views on Cash and In-Kind Payments: Evidence from Ethiopia&apos;s Productive Safety Net Programme</title>
+		<author>
+			<persName><forename type="first">Kalle</forename><surname>Hirvonen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><surname>Hoddinott</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/wber/lhaa002</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_ghqvjUe">The World Bank Economic Review</title>
+		<idno type="ISSN">0258-6770</idno>
+		<idno type="ISSNe">1564-698X</idno>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="398" to="413" />
+			<date type="published" when="2021">2021</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b26">
+	<monogr>
+		<title level="m" type="main" xml:id="_rEfZmUK">Customized Cash Transfers: Financial Lives and Cash-flow Preferences in Rural Kenya</title>
+		<author>
+			<persName><forename type="first">Carolina</forename><surname>Kansikas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anandi</forename><surname>Mani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Niehaus</surname></persName>
+		</author>
+		<idno type="DOI">10.3386/w30930</idno>
+		<imprint>
+			<date type="published" when="2023-02">2023</date>
+			<publisher>National Bureau of Economic Research</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">Technical report</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b27">
+	<analytic>
+		<title level="a" type="main" xml:id="_66dV5MS">Targeting social safety nets using proxy means tests: Evidence from Egypt&apos;s Takaful and Karama program</title>
+		<author>
+			<persName><forename type="first">Sikandra</forename><surname>Kurdi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Clemens</forename><surname>Breisinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hagar</forename><surname>Eldidi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hoda</forename><surname>El-Enbaby</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Naureen</forename><surname>Daniel O Gilligan</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Karachiwalla</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_awMZfBj">ReSAKSS Annual Trends and Outlook Report</title>
+		<imprint>
+			<biblScope unit="page" from="135" to="153" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b28">
+	<analytic>
+		<title level="a" type="main" xml:id="_zumhdpv">Long-term impacts of conditional cash transfers: Review of the evidence</title>
+		<author>
+			<persName><forename type="first">Teresa</forename><surname>Millán</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tania</forename><surname>Molina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Karen</forename><surname>Barham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><forename type="middle">A</forename><surname>Macours</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marco</forename><surname>Maluccio</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Stampini</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_SVAXc9E">The World Bank Research Observer</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="119" to="159" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b29">
+	<monogr>
+		<title level="m" type="main" xml:id="_MfjT8MY">General Equilibrium Effects of (Improving) Public Employment Programs: Experimental Evidence from India</title>
+		<author>
+			<persName><forename type="first">Karthik</forename><surname>Muralidharan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Niehaus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sandip</forename><surname>Sukhtankar</surname></persName>
+		</author>
+		<idno type="DOI">10.3386/w23838</idno>
+		<imprint>
+			<date type="published" when="2017-09">2017</date>
+			<publisher>National Bureau of Economic Research</publisher>
+		</imprint>
+		<respStmt>
+			<orgName>UC San Diego</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b30">
+	<analytic>
+		<title level="a" type="main" xml:id="_E8pK8ps">Interlude 1. “This unknown body of Amer icana”: Alan Lomax’s List of Amer ican Folk Songs on Commercial Records and the Anthology of Amer ican Folk Music</title>
+		<author>
+			<persName><forename type="first">Albert</forename><forename type="middle">L</forename><surname>Nichols</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Richard</forename><forename type="middle">J</forename><surname>Zeckhauser</surname></persName>
+		</author>
+		<idno type="DOI">10.4324/9781315586250-11</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_Fus4C5z">Harry Smith&apos;s Anthology of American Folk Music</title>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="1982">1982</date>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="page" from="67" to="72" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b31">
+	<analytic>
+		<title level="a" type="main" xml:id="_ndEZ8BU">REACHING THE RURAL POOR THROUGH PUBLIC EMPLOYMENT: Arguments, Evidence, and Lessons from South Asia</title>
+		<author>
+			<persName><forename type="first">Martin</forename><surname>Ravallion</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/wbro/6.2.153</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_8T3cH5Q">The World Bank Research Observer</title>
+		<title level="j" type="abbrev">World Bank Res Obs</title>
+		<idno type="ISSN">0257-3032</idno>
+		<idno type="ISSNe">1564-6971</idno>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="153" to="175" />
+			<date type="published" when="1991">1991</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b32">
+	<analytic>
+		<title level="a" type="main" xml:id="_TwzguRW">Cash-plus: Poverty impacts of alternative transfer-based approaches</title>
+		<author>
+			<persName><forename type="first">Richard</forename><surname>Sedlmayr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anuj</forename><surname>Shah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Munshi</forename><surname>Sulaiman</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jdeveco.2019.102418</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_g7NpWqQ">Journal of Development Economics</title>
+		<title level="j" type="abbrev">Journal of Development Economics</title>
+		<idno type="ISSN">0304-3878</idno>
+		<imprint>
+			<biblScope unit="volume">144</biblScope>
+			<biblScope unit="page">102418</biblScope>
+			<date type="published" when="2020-05">2020</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b33">
+	<monogr>
+		<title level="m" type="main" xml:id="_dG5GN4m">Challenges for private sector job matching in rural Egypt: Results from a survey of forsa employers</title>
+		<author>
+			<persName><forename type="first">Nada</forename><surname>Shokry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Basma</forename><surname>Yassa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sikandra</forename><surname>Kurdi</surname></persName>
+		</author>
+		<idno type="DOI">10.2499/p15738coll2.137062</idno>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<publisher>International Food Policy Research Institute</publisher>
+		</imprint>
+		<respStmt>
+			<orgName>International Food Policy Research Institute (IFPRI)</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Technical report</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b34">
+	<monogr>
+		<author>
+			<persName><forename type="first">Juan</forename><surname>Villa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Miguel</forename><surname>Miguel</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Niño-Zarazúa</surname></persName>
+		</author>
+		<title level="m" xml:id="_p5NgSjz">Poverty Dynamics and Programme Graduation from Social Protection. A Transitional Model for Mexico&apos;s Oportunidades Programme</title>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b35">
+	<monogr>
+		<title level="m" type="main" xml:id="_5uA48VQ">Social Norms and Female Labor Force Participation in Egypt</title>
+		<author>
+			<persName><forename type="first">Nahla</forename><surname>Zeitoun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mohamed</forename><surname>Ahmed</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Salaheldin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mahmoud</forename><forename type="middle">Moustafa</forename><surname>Souraya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tasmia</forename><surname>Elassiouty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Magued</forename><surname>Rahman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ibrahim</forename><surname>Osman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hanan</forename><surname>Girgis</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<publisher>World Bank Group</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">Technical report</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

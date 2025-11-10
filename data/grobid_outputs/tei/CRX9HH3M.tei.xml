@@ -1,0 +1,1310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" xml:id="_9gseERm">Food Insecurity Mediates the Effect of a Poverty-Alleviation Program on Psychosocial Health among the Ultra-Poor in Bangladesh,</title>
+				<funder>
+					<orgName type="full">EAF</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2016-06-23">June 23, 2016</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Chowdhury</forename><forename type="middle">Sb</forename><surname>Jalal</surname></persName>
+							<email>cjalal@micronutrient.org.</email>
+							<affiliation key="aff0">
+								<orgName type="department">Research and Evaluation Unit</orgName>
+								<orgName type="institution">Micronutrient Initiative</orgName>
+								<address>
+									<settlement>Ottawa</settlement>
+									<country>Canada;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Edward</forename><forename type="middle">A</forename><surname>Frongillo</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Health Promotion, Education, and Behavior</orgName>
+								<orgName type="department" key="dep2">Arnold School of Public Health</orgName>
+								<orgName type="institution">University of South Carolina</orgName>
+								<address>
+									<settlement>Columbia</settlement>
+									<region>SC</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Andrea</forename><forename type="middle">M</forename><surname>Warren</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Health Promotion, Education, and Behavior</orgName>
+								<orgName type="department" key="dep2">Arnold School of Public Health</orgName>
+								<orgName type="institution">University of South Carolina</orgName>
+								<address>
+									<settlement>Columbia</settlement>
+									<region>SC</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Supported</orgName>
+								<orgName type="department" key="dep2">Department of Foreign Affairs</orgName>
+								<orgName type="institution">Trade and Development</orgName>
+								<address>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="department">Department for International Development</orgName>
+								<address>
+									<country>United Kingdom European</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main" xml:id="_aXV4NNR">Food Insecurity Mediates the Effect of a Poverty-Alleviation Program on Psychosocial Health among the Ultra-Poor in Bangladesh,</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main" xml:id="_SpSabMN">The Journal of Nutrition</title>
+						<title level="j" type="abbrev">The Journal of Nutrition</title>
+						<idno type="ISSN">0022-3166</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">145</biblScope>
+							<biblScope unit="issue">8</biblScope>
+							<biblScope unit="page" from="1934" to="1941"/>
+							<date type="published" when="2016-06-23">June 23, 2016</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">DCD59584A00E171BAEAD5DF9FEA577AA</idno>
+					<idno type="DOI">10.3945/jn.115.210799</idno>
+					<note type="submission">Manuscript received January 20, 2015. Initial review completed April 2, 2015. Revision accepted May 28, 2015.</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2025-11-04T23:26+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a292bac</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=1, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=true, generateTeiCoordinates=[true], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term xml:id="_zyNaJqP">food insecurity</term>
+					<term xml:id="_pExx5hf">psychosocial health</term>
+					<term xml:id="_tEMaHaP">ultra-poor</term>
+					<term xml:id="_75traXE">poverty alleviation</term>
+					<term xml:id="_S7PXEUq">mediation</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_swGD4EH"><p xml:id="_ydwyR2U">Background: Poor psychosocial health is a major global burden. A challenge to improving psychosocial health is that its associations with risk factors are complicated, inadequately understood, and difficult to modify, and/or require action outside the health sector.</p><p xml:id="_9pcSsfu">Objective: We capitalized on the quasi-experimental assignment of a poverty-alleviation program for the ultra-poor in Bangladesh to investigate how this program affected 2 aspects of psychosocial health; distress, (i.e., the negative cognitive appraisal of stress) and subjective well-being (i.e., satisfaction with domains of life), and the importance of food insecurity as a mediator relative to other stressors and economic status.</p><p xml:id="_dtCDRTR">Methods: The study was conducted in 3 northern districts of Bangladesh where the program operated. The ultra-poor households were selected through a multistage selection process. The economically better-off households were excluded during the process and included as study controls. The program supported women by providing income-earning opportunities, strengthening sociopolitical livelihood, and building self-awareness and self-confidence. Data were collected in 2006 from 209 women on demography, psychosocial health, and stressors (i.e., domestic violence, food insecurity, economic status, perceived economy, and emotional social constraints). Data collected in 2002 from the same individuals were used to control for the baseline differences between groups. By using path analysis we showed the direct and indirect effects of the program on distress and well-being.</p><p xml:id="_NRfgKDU">Results: The program positively affected psychosocial health by alleviating stressors. The indirect effect of the program contributed 74% in reducing distress and 30% in improving well-being. Food insecurity was by far the most important mediator, explaining 50% of indirect effect on distress and 66% of the indirect effect on well-being.</p><p xml:id="_S84BHW8">Conclusion: Food insecurity is modifiable and an appropriate target for poverty-alleviation and agricultural programs. These findings suggest programmatic and policy attention to the social dimensions of poor psychosocial health, particularly to food insecurity as a central cause.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="584.957" lry="782.986"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="584.957" lry="782.986"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="584.957" lry="782.986"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="584.957" lry="782.986"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="584.957" lry="782.986"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="584.957" lry="782.986"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="584.957" lry="782.986"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="584.957" lry="782.986"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_SnAmCmZ">Introduction</head><p xml:id="_hZ7V7ve">Programs that aim to alleviate poverty often fail to reach the poorest of the poor, henceforth called ultra-poor, because of weak targeting mechanism or because of self-exclusion of the potential beneficiaries or both <ref type="bibr" target="#b0">(1,</ref><ref type="bibr" target="#b1">2)</ref>. Challenging the Frontiers of Poverty Reduction-Targeting the Ultra Poor (CFPR-TUP) is an initiative of BRAC, formerly known as Bangladesh Rural Advancement Committee, that directly intervenes on extreme poverty in rural Bangladesh. The program supports the women of ultra-poor households by providing income-earning opportunities, strengthening sociopolitical livelihood, and building selfawareness and self-confidence. To account for the known pattern of expenditure among ultra-poor households, which shows that the largest portion of household income is spent on food, this program offered several pathways to lessen the concerns of acquiring food. These include the provision of a daily subsistence allowance, grant-based asset transfers, and participation in income-generating activities. Health care is also provided <ref type="bibr" target="#b2">(3)</ref>.</p><p xml:id="_rJ8PyQZ">CFPR-TUP has shown considerable success in effectively reaching the ultra-poor and improving their economic wellbeing <ref type="bibr" target="#b3">(4)</ref><ref type="bibr" target="#b4">(5)</ref><ref type="bibr" target="#b5">(6)</ref><ref type="bibr" target="#b6">(7)</ref>. In addition to substantially alleviating poverty, the program benefited participantsÕ overall quality of life as indicated by significantly reducing food insecurity and domestic violence and improving psychosocial health <ref type="bibr" target="#b7">(8)</ref>.</p><p xml:id="_5qCDzyD">Psychosocial health is as integral to overall health as physical health, and there is convincing evidence of the large global burden of poor psychosocial health <ref type="bibr" target="#b8">(9,</ref><ref type="bibr" target="#b9">10)</ref>. In rural Bangladesh, for example, the prevalence of psychiatric disorders is reported at 16.5%, with depressive and anxiety disorders together accounting for about four-fifths of the cases and with higher prevalence in the economically poor, persons &gt;45 y of age, and women from large families <ref type="bibr" target="#b10">(11)</ref>. Nevertheless, political commitment and resource allocation for psychosocial health are inadequate to prevent and respond to the burden <ref type="bibr" target="#b8">(9,</ref><ref type="bibr" target="#b9">10)</ref>. In the absence of programmatic and policy attention for psychosocial health in low-income countries, poor psychosocial health and its associated effects will continue to inhibit achieving the Millennium Development Goals and meeting full developmental potential <ref type="bibr" target="#b11">(12,</ref><ref type="bibr" target="#b12">13)</ref>.</p><p xml:id="_9rbDYen">One of the challenges to improving psychosocial health is that associations between risk factors and psychosocial health problems are complicated, and more information is needed to identify risk factors and understand their associations with psychosocial health to better develop primary prevention <ref type="bibr" target="#b8">(9,</ref><ref type="bibr" target="#b9">10)</ref>. Furthermore, most risk factors that are already identified for common psychosocial health problems (e.g., violence, poverty, and poor housing conditions) are not easy to modify or require action outside the health sector. In this regard, the effectiveness of the CFPR-TUP poverty alleviation program in improving psychosocial health is particularly important.</p><p xml:id="_rN2Y7MU">Several issues have arisen in the literature about the associations of poverty and food insecurity with psychosocial health. A systematic review of the effect of poverty alleviation interventions on psychosocial health found inconclusive results and recommended efforts to understand the pathways through which poverty affects psychosocial health <ref type="bibr" target="#b13">(14)</ref>. A review of the literature on food insecurity and psychosocial health highlighted the need to understand the extent to which food insecurity damages psychosocial health compared with other forms of insecurity <ref type="bibr" target="#b14">(15)</ref>. A related, persistent issue is differentiating the effects of economic status and food insecurity on nonnutritional outcomes such as psychosocial health.</p><p xml:id="_8CtpPzs">This study aimed to shed light on these issues in the context of the ultra-poor population in Bangladesh. We took advantage of the quasi-experimental assignment of the CFPR-TUP program to investigate how it exerted effects on 2 aspects of psychosocial health, distress and subjective well-being <ref type="bibr" target="#b7">(8)</ref>. We addressed the following 3 research questions. 1) Through which pathways did the CFPR-TUP program affect psychosocial health? 2) What was the importance for psychosocial health of pathways through food insecurity relative to pathways through the other identified stressors? 3) How did economic status and food insecurity differentially affect psychosocial health?</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_76A8WX3">Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_8ukMQQz">Conceptual framework</head><p xml:id="_3GYb7YK">Multiple pathways were posited to lead from the CFPR-TUP program to distress and well-being (Figure <ref type="figure" target="#fig_0">1</ref>). Distress is the negative cognitive appraisal of acute or chronic stress <ref type="bibr" target="#b15">(16)</ref>. Subjective well-being is the scientific name for how people evaluate their lives <ref type="bibr" target="#b16">(17)</ref>. The hypothesis that the program could improve psychosocial health is theoretically consistent with a stress-suppressing model <ref type="bibr" target="#b17">(18)</ref>. In this model, distress is the outcome of exposure to stressful conditions and an individualÕs appraisal of those conditions. The program could theoretically act as a resource to alleviate the stressors and thereby reduce distress. Long-term (i.e., chronic) stressors also affect well-being by increasing negative affect <ref type="bibr" target="#b15">(16,</ref><ref type="bibr" target="#b18">(19)</ref><ref type="bibr" target="#b19">(20)</ref><ref type="bibr" target="#b20">(21)</ref>. Stressors in this framework are domestic violence, food insecurity, measured and perceived economic status, and social constraints.</p><p xml:id="_hbuU7Dz">Five sets of pathways are possible through which the program could affect well-being. The set of pathways A 3 B (also A 2 3 B) show the effect of the program on well-being through the stressors. Pathway C is the direct effect of the program. The set of pathways A 3 Y 3 Z, A 2 3 X 3 Y 3 Z, and D 3 Z involve distress as a mediator. The effect of program on distress can also be estimated from the last 2 pathways, leaving out pathway Z. Pathway D shows the direct effect of the program on distress.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_UFzkukz">Study design</head><p xml:id="_K42hsxP">The study was conducted in Rangpur, Nilphamari, and Kurigram, 3 northern districts of Bangladesh where the CFPR-TUP program began operating through its 38 area offices in 2002. The program selected the ultra-poor households through a multistage selection process that included participatory wealth ranking, questionnaire surveys, and inspection by BRAC higher management. Given the programÕs focus on women, only ultra-poor households that had a woman eligible to earn income were included in the selection process. The women of the selected households received income-earning assets, subsistence allowance, and Food insecurity, psychosocial health, and poverty 1935 at Viet Nam: ASNA Sponsored on June 23, 2016 <ref type="url" target="http://jn.nutrition.org/">jn.nutrition.org</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_GfwxMDb">Downloaded from</head><p xml:id="_KTc98y3">training on basic entrepreneurial skills. The program closely supervised the income-generating activities of each woman for a grant phase of 18 mo, after which time the participant women expected to have graduated from the CFPR-TUP program and joined the conventional BRAC micro-credit program. More than one-half of the women did join the regular BRAC program while all of them continued with their savings with BRAC that they started since joining the program.</p><p xml:id="_9DFFqBS">In 2002 (i.e., baseline) BRAC collected data on demographic, socioeconomic, and multiple other sets of variables from one-third of randomly selected villages from each of its 38 area offices in the 3 districts. Respondents of our study (i.e., 209 women surveyed in 2006) were women from 27 villages of 16 area offices, randomly selected from the baseline village list of 446 villages. Both at baseline and in 2006, all women who participated in the program and an approximately equal number of women from the control households of the selected villages were included in the study. The control households were among those selected initially by the program in 2002 but later were excluded during the final selection process. The control (i.e., nonselected) households were therefore economically better off than the selected households on the basis of the selection criteria. After the programÕs grant phase was over, the program households remained different from the control households in that &gt;70% of the women were likely to have participated in the regular BRAC program <ref type="bibr" target="#b21">(22)</ref>. Because of this difference between groups and the availability of baseline data, our study is a nonequivalent control group, pretest and posttest, quasi-experimental design.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_C63acnf">Data collection</head><p xml:id="_uddjdcB">A total of 209 women were surveyed both in 2002 (i.e., baseline) and in 2006, of which 110 were from the program households (i.e., program participant) and 99 from the control households. The women from the control households were selected to be the wives of the household heads or the most influential women of the household. Data were collected on household demography, subjective well-being, domestic violence, food insecurity, perceived economy, emotional social constraints, and distress during July-September 2006. The demographic variables included age, number of children, household size, marital status, respondentÕs education status, major source of household income, and respondentÕs involvement in income-generating activities. Baseline demographic, economic, and food insecurity data from 2002 were merged with 2006 data to include in the linear mixed (random-intercept) model analyses. Furthermore, we merged data on household economic status that were collected during a program evaluation survey in 2005.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_CPXq6C4">Data collection procedure</head><p xml:id="_bKyjRuV">Data from 2006 for this study were collected as part of a data collection for a larger survey. Twenty-five interviewers were selected to collect data by using pretested survey forms. Training was provided for 5 wk by a team of 3 field research experts led by the principal investigator. The interviewers were required to be able to build rapport with interviewees, for which they were further trained by a specialist from International Centre for Diarrheal Disease Research, Bangladesh.</p><p xml:id="_QEFuzrr">The training was designed to have 2 field tests sandwiched between 3 classroom sessions. A day-long refresher training was also provided at a field office after the interviewers were sent to test data collection for a day on the actual program households that were not participating in the research.</p><p xml:id="_NyRst5S">The training and data collection were performed in 2 groups. The first group of 18 interviewers was responsible for surveying forms on demography, perceived economy, food insecurity, and emotional social constraints. The second group consisted of 6 anthropologists, specially trained to collect sensitive data on domestic violence and distress. The subjective well-being form was surveyed by an individual anthropologist. The demographic survey questionnaire preceded the domestic violence and subjective well-being questionnaire so that the anthropologists could review and then carry them to the households during their interviews.</p><p xml:id="_8nzbMR6">Three supervisors and a field manager, highly experienced in conducting surveys, monitored all field activities. The interviewers were in frequent communication with the field manager, and, if required, the first author (CSBJ) through cellular telephones instantly to resolve any fieldrelated issues.</p><p xml:id="_KQYJgr6">Informed consent was obtained from each respondent before interviews. The study protocol was approved by Bangladesh Medical Research Council, Dhaka, Bangladesh, and University Committee on Human Subjects, Cornell University.</p><p xml:id="_tyVP8Ce">Data entry and preliminary cleaning were done by a data entry specialist at the Research and Evaluation Division of BRAC. Further cleaning was done by the investigators.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_WVFybTa">Measurement of variables</head><p xml:id="_xVKp4D9">Surveys were conducted in Bengali. Questionnaires of most domains were pretested in Bangladesh by other teams. We adapted the reminder by pretesting the questionnaire after translation and back-translation of the English questionnaire. We tested for reliability and validity of items on a subsample of 30 program participants <ref type="bibr" target="#b22">(23)</ref>. A preliminary questionnaire was drafted after making necessary changes. Further inputs were incorporated during training of the interviewers.</p><p xml:id="_F2ugc2X">Subjective well-being. We included the affective components of subjective well-being by using the Positive Affect (i.e., experiencing pleasant emotion and moods) and Negative Affect (i.e., experiencing unpleasant emotion and moods) Schedule for several reasons <ref type="bibr" target="#b23">(24)</ref>. Positive and negative affects are 2 dominant and relatively independent dimensions. The scales are internally consistent, uncorrelated, and simple and easy to translate and administer <ref type="bibr" target="#b24">(25,</ref><ref type="bibr" target="#b25">26)</ref>. Respondents were asked to rank their status in a 5-point Likert scale that ranged from 1 to 5. We reverse coded the 10 Negative Affects items and added them to 10 Positive Affects items to make a composite scale that ranged from 1 to 100. The CronbachÕs a coefficient for reliability of the Positive Affect and Negative Affect Schedule was 0.79 in our data.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_PwmBRPE">Economic status.</head><p xml:id="_TzdVwRc">Items from the Multiple Indicator Cluster Survey of The United Nations ChildrenÕs Fund were used to create a composite economic-status score from the baseline and 2005 data <ref type="bibr" target="#b26">(27,</ref><ref type="bibr" target="#b27">28)</ref>. Items were used in sets or singly, depending on the type and weight and availability of data. Standardized values of the items were added to form the sets. The resultant variables were further standardized and added to form the final economic-status score.</p><p xml:id="_CHsWd5z">Perceived economy was measured in 2006 with a single response measure that asked the respondents to rank their economic status the past year on a 4-point scale that ranged from always deficit to surplus. Higher values of all measures of economic status represented economically better off households. We included perceived economy as an appraisal of respondentÕs own condition because appraisal is central to understanding the outcome of exposure to stressors.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_TjkJxYq">Food insecurity.</head><p xml:id="_mSBaHC8">Food insecurity is the limited or uncertain availability of nutritionally adequate and safe foods or limited or uncertain ability to acquire food in socially acceptable ways <ref type="bibr" target="#b28">(29)</ref>. A 2-item questionnaire was available from the baseline data to measure household food insecurity whereby women were asked to rate their food deficit in the past year, and whether the household could ensure at least 2 meals a day. Household food insecurity in 2006 was measured with a standard pretested 11-item module that was developed to measure food insecurity in rural Bangladesh <ref type="bibr" target="#b29">(30)</ref>. We standardized the responses for each question and added them to form a composite score of household food insecurity. The z score ranged from 233.20 to 12.90, a higher score indicating more food insecurity.</p><p xml:id="_kYtQSNf">Emotional social constraints. A 3-item tool used to measure emotional social support in rural Burkina Faso was adapted and used in this study <ref type="bibr" target="#b30">(31)</ref>. Women were asked about the likelihood of having someone to share her unhappy feelings with, getting effective emotional support from someone living close to her, and the likelihood of getting advice in crisis. Each item was given a score, reverse coded, then added together to form a scale of emotional social constraints. A higher value represented lower support. Domestic violence. Domestic violence as used in this study refers to ''any act of gender-based violence that results in, or is likely to result in, physical, sexual, or psychological harm or suffering to women, including threats of such acts, coercion, or arbitrary deprivation of liberty, whether occurring in public or private life'' <ref type="bibr" target="#b31">(32)</ref>. We measured domestic violence by using tools similar to other studies that measured domestic violence on rural Bangladeshi women and were developed in accordance to the guideline provided by the World Health Organization <ref type="bibr" target="#b31">(32,</ref><ref type="bibr" target="#b32">33)</ref>. Information was collected on 4 different categories of violence: restriction of mobility or socialization or both, psychological oppression, physical assault with or without visible injury, and sexual abuse. For each category, respondents were asked whether they had experienced certain types of violence within the past year regardless of the person responsible for it. All positive responses were added together to make a scale for that specific category. Summation of all 18 items were also used to make a final scale that represented the magnitude of cumulated experience of violence. The scale in our data had a CronbachÕs a reliability coefficient of 0.87. Similar statistical procedures were followed to construct the variable that represented violence during pregnancy. This scale had a CronbachÕs a reliability coefficient of 0.90. In both scales a higher score indicated experiencing more violence.</p><p xml:id="_9dEefun">Distress. Distress is the negative cognitive appraisal of acute or chronic stress. We measured distress by using the World Health Organization Self-Reporting Questionnaire that was previously tested and applied in the context of rural Bangladesh <ref type="bibr" target="#b33">(34)</ref>. A scale of 0-20 was used in the analysis, whereby a higher score referred to a high level of distress.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_M6nEUuW">Control measures</head><p xml:id="_ZhCTUNA">Analyses were controlled for individual-and household-level covariates measured at baseline and in 2006. Baseline measures used as covariates were number of children, household size, food insecurity, and economic status. Data on age, marital status, respondentsÕ education, husbandÕs education, household main source of income, and involvement in incomegenerating activities were collected in 2006. Age, number of children, household size, measures of food insecurity, and economic status were used as continuous variables, whereas the rest were used as categorical variables. Theoretically, husbandÕs education, income-generating activities, and pregnancy status were important control variables for the relevant outcomes. These items had many missing data, and, when we included in the analysis, they had no influence on the results. These variables were therefore removed from the final analyses.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_aXUzY9v">Statistical analysis</head><p xml:id="_5PJ4RFQ">All outcome variables were tested for normality. Economic status scales made of baseline and 2005 data showed nonnormal distributions. Logarithmic transformations were used to create scales of normal distribution, and these transformed scales were used in analyses.</p><p xml:id="_4Hr7eTt">Linear mixed (random-intercept) models were used to account for the clustering of districts, area offices, and villages in estimating the effect of the program on well-being, distress, and the stressors. Village within area office was used as the random-effect variable in the models. District was used as a fixed-effect variable. All covariates, including baseline food insecurity and economic status, were also included as fixed-effect variables in the models.</p><p xml:id="_FMxbGaC">The regression coefficients from the mixed-model analyses were used to construct a recursive path analyses that assumed uncorrelated errors and no reverse causality. The model that was used to determine estimates of different pathways is shown below with the outcome distress as an example. Economic status at baseline, economic status in 2005, and baseline food insecurity are represented in the model as EC02, EC05, and FI02, respectively.</p><formula xml:id="formula_0">Y iva ¼ b 0i þ b 1i Program iva þ b 2i District þ b 3i covariates iva þ b 4i EC02 iva þ b 5i EC05 iva þ b 6i FI02 iva þ b 7i Stressors iva þ u vja þ e iva<label>ð1Þ</label></formula><p xml:id="_ygmmepy">Y iva refers to the response measures of outcome variables, and subscripts i, v, and a, denote individual, village, and area levels, respectively. The random effect for the intercept for village within area office is represented by u v/a , and the residual is denoted by e iva . Baseline food insecurity and economic status were included in the model for their lag effects, which allowed the use of temporality to get a more-precise estimation of causal relations between them and the outcome variables.</p><p xml:id="_WJ8VHdX">The model estimating the effect of the program on economic status of 2005 excluded EC05 from the right-hand side of the equation. The variables that were controlled in estimating each pathway depicted in Figure <ref type="figure" target="#fig_0">1</ref> are given in Table <ref type="table" target="#tab_0">1</ref>.</p><p xml:id="_uQSGMfM">The magnitude of effect through each path (i.e., indirect effects) was computed by multiplying all regression coefficients along the path <ref type="bibr" target="#b34">(35)</ref>. The resultant coefficients of a set of paths (i.e., programÕs effect through multiple stressors) were added to calculate the cumulative effect of the program through stressors. All analyses were performed with the Statistical Package for Social Sciences for Windows, version 15 (SPSS Inc.).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_uZhcGUW">Results</head><p xml:id="_kC8hxKw">As expected, the economic status of the control households at baseline was significantly (P &lt; 0.001) better than that of the  program households (Table <ref type="table" target="#tab_1">2</ref>). The households were similar in food insecurity at baseline. The CFPR-TUP program, compared with the control group, substantially reduced domestic violence and food insecurity and substantially improved economic status-2005, perceived economy, and subjective well-being (Figure <ref type="figure" target="#fig_0">1</ref>). These results refer to the direct effects (i.e., pathways) from the program, not including the indirect effects of the program through other variables.</p><p xml:id="_e2jb4KG">The indirect effects of the CFPR-TUP program on distress can be considered as following 2 sets of pathways, differentiated by whether these pathways went through economic status-2005 as a predecessor of the other stressors. The aggregate indirect effects of the program through stressors when economic status-2005 was not in the pathways (24.392) was larger than when it was in the pathways (20.436) (Table <ref type="table">3</ref>). Food insecurity was by far the most pronounced mediator, with approximately one-half (52.9%) of the total indirect effect being mediated by food insecurity through a pathway that did not include economic status-2005.</p><p xml:id="_JpRQnTs">Both the direct and indirect pathways from program to distress were negative. Approximately three-quarters (74.3%) of the total program effect on distress was exerted through indirect pathways (Table <ref type="table" target="#tab_2">4</ref>). Approximately two-thirds (67.2%) of the total program effect was exerted through pathways that did not go through economic status-2005. The model for distress explained 29.4% of variance at the village level and 24.8% of the variance at the individual level compared with the null model with no covariates.</p><p xml:id="_XrPwDMb">The effect of the CFPR-TUP program on well-being was mediated through 5 sets of indirect pathways differentiated by whether the pathways were through economic status-2005 and distress. The largest indirect effects on well-being were mediated through the stressors (i.e., with a magnitude of 2.94) when the pathways went through neither economic status-2005 nor distress (Table <ref type="table">5</ref>). As with distress, food insecurity was by far the most pronounced mediator, with approximately two-thirds (65.8%) of the total indirect effect being mediated by food insecurity through the path that included neither economic status-2005 nor distress.</p><p xml:id="_ZbPe3V5">All direct and indirect pathways from program to well-being were positive. In contrast to distress, only 30% the total program effect on well-being was exerted through indirect pathways (Table <ref type="table" target="#tab_3">6</ref>). That is, 70% of the effect was direct from program to well-being. The model for well-being explained 97.5% of variance at the village level and 27.5% of the variance at the individual level compared with the null model with no covariates.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_4e3v2FJ">Discussion</head><p xml:id="_ezJgETS">In a qualitative study of the social construction of psychosocial health and its underlying causes in rural Bangladesh, local informants identified poverty as the main cause of poor psychosocial health <ref type="bibr" target="#b35">(36)</ref>. Poverty was defined as a chronic shortage of everyday necessities and/or the inability to meet daily needs. Our study took advantage of the assignment of ultra-poor villagers to the CFPR-TUP program (a poverty-alleviation program that aimed to help them better meet their needs) to investigate how alleviating poverty affected psychosocial health. We found that the program improved psychosocial health by reducing stressors, in particular by reducing domestic violence and food insecurity and by improving economic status and perceived economy. Food insecurity was by far the most important mediator of program effects on both distress and well-being, more important than measured and perceived economy.</p><p xml:id="_YTbmfyt">These results are consistent with the stress-suppressing model, a deterring model of the life-stress process, whereby the resource (i.e., program) acted to reduce the exposure to stressful conditions and thereby reduces experiencing negative consequences of stress exposure (e.g., distress) <ref type="bibr" target="#b17">(18)</ref>. Disadvantaged ultra-poor women are more likely to be exposed to such stressful life conditions because of the failure of eliminating or modifying conditions leading to stress or because of the lack of ability to cope with the adverse situation because of resource constraints <ref type="bibr" target="#b36">(37)</ref>. Our conceptual framework (Figure <ref type="figure" target="#fig_0">1</ref>) included domestic violence, food insecurity, measured economic status, perceived economy, and social constraints as 5 stressors that we thought were important in the context of ultra-poor households in rural Bangladesh. The program reduced each of these stressors (not substantially for social constraints), and in turn the stressors reduced distress consistent with the stress-suppressing model such that these indirect pathways accounted for 74% of the TABLE <ref type="table">3</ref> Estimates of pathways illustrated in Figure <ref type="figure" target="#fig_0">1</ref>  Domestic violence 20.227 0.215 21.752 1.689 20.383 20.636 Food insecurity 25.274 0.215 20.137 0.487 22.568 20.014 Economic status-2005 0.215 0.215 -22.066 20.444 -Perceived economy-2006 0.520 0.215 20.095 21.516 20.789 0.031 Social constraints 20.217 0.215 0.768 0.958 20.208 0.158 Total indirect effect ----24.392 20.461<ref type="foot" target="#foot_3">foot_3</ref> CFPR-TUP, Challenging the Frontiers of Poverty Reduction-Targeting the Ultra Poor. effect on distress. In contrast, the majority (70%) of the effect of the program on well-being was direct and was therefore not mediated through the hypothesized pathways. The difference between distress and well-being in the explanatory power of the stress-suppressing model is consistent with expectations from the model. Distress, the negative cognitive appraisal of acute or chronic stress, is a close consequence of exposure to stressors. Subjective well-being is a more general evaluation of life that is more distal to exposure to stressors than is distress. The fact that approximately 30% of the programÕs effect on well-being was mediated through stressors indicates that part of the benefit of the program in human terms is through alleviating stressful conditions of life. The larger direct effect (70%) of the program on well-being must be explained outside of the stress-suppressing model. This direct effect was not captured in the given measures. The most likely explanation lies in the economic benefit and in gaining assets for continuing income-generating activities through which the recipients built self-confidence and selfawareness, and program benefits such as health care, legal support, and organizational and elite support in the village, leading to more socialization. Relative to the other identified stressors, food insecurity was by far the most important mediator for both distress and wellbeing. For distress, food insecurity accounted for about one-half (47.9%) of the aggregate indirect effect and more than one-third (35.6%) of the total effect. For well-being, food insecurity accounted for more than one-half (53.7%) of the aggregate indirect effect and 16.1% of the total effect. This importance of food insecurity as a mediator likely reflects that poorer households allocate the largest share of their expenditures in acquiring food, and concerns about securing food predisposes to distress. Participating in the income-generating activities of the CFPR-TUP program lessens concerns about acquiring food. The most likely mechanism to achieve this could be increased access to the local financial markets as part of the income-generating process <ref type="bibr" target="#b37">(38)</ref>.</p><p xml:id="_gAZJgXS">Food insecurity explained more of the relation between the program and its subsequent effects on distress and well-being than did economic status and perceived economy. In poor populations, subjective well-being has a high association with income such that a small rise in income brings a considerable change in their livelihood <ref type="bibr" target="#b38">(39)</ref><ref type="bibr" target="#b39">(40)</ref><ref type="bibr" target="#b40">(41)</ref>. In this ultra-poor population, improvement in economic status had a positive, but small effect on subjective well-being, with reduction in food insecurity TABLE <ref type="table">5</ref> Estimates of pathways illustrated in Figure <ref type="figure" target="#fig_0">1</ref> and magnitude of indirect effect of the CFPR-TUP program on well-being 1 Intermediary variable Paths Indirect effects through mediators Program to stressors (A) Program to economic status-2005 (A 2 ) Economic status-2005 to stressors (X) Stressors to distress (Y) Stressors to well-being (B) Distress to well-being (Z) Pathways not through economic status-2005 and distress (A 3 B) Pathways through economic status-2005 but not distress (A 2 3 X 3 B) Pathways through distress but not economic status-2005 (A 3 Y 3 Z) Pathways through both economic status-2005 and distress (A 2 3 X 3 Y 3 Z) Domestic violence 20.227 0.215 21.752 1.689 20.329 20.081 0.075 0.124 0.031 0.052 Food insecurity 25.274 0.215 20.137 0.487 20.433 20.081 2.284 0.013 0.208 0.001 Economic status-2005 0.215 0.215 -22.066 0.370 20.081 0.080 -0.036 -Perceived economy-2006 0.520 0.215 20.095 21.516 1.015 20.081 0.528 20.021 0.064 20.003 Social constraints 20.217 0.215 0.768 0.958 0.114 20.081 20.025 0.019 0.017 20.013 Total indirect effect ------2.941 0.135 0.356 0.037 1 CFPR-TUP, Challenging the Frontiers of Poverty Reduction-Targeting the Ultra Poor. explaining most of the effect. Conceptually, poverty is characterized by many forms of insecurity, perhaps the most prevalent form of which is food insecurity <ref type="bibr" target="#b41">(42)</ref>. Food insecurity is a relatively constant dimension of poverty, and research has demonstrated a consistent relation between food insecurity and poor psychosocial health <ref type="bibr" target="#b11">(12)</ref>. In the context of a chronically poor and chronically food-insecure population, that reduction of food insecurity had a larger effect on distress and well-being than did economic status and perceived economy illustrates the importance, within the social construction of poverty and psychosocial illness in Bangladesh, of having the ability to consistently meet oneÕs basic food needs <ref type="bibr" target="#b35">(36)</ref>. This study had as an important strength, the quasiexperimental assignment of the CFPR-TUP program to 1 of 2 groups. The quasi-experimental assignment was exogenous to the household, thereby mitigating household selection effects. Furthermore, the quasi-experimental design allowed for plausible causal influence (43) because the exogenous program vs. control differences propagated throughout the stressors identified in the conceptual model, thus overcoming an inherent limitation of an observational design. The control group was similar to the program group in being ultra-poor but was somewhat better off than the program group. Thus, for the program group to show lower distress and higher well-being than the control group meant that the program had to overcome the inherent relative disadvantage of the program group at baseline. This study had as another important strength the use of a well-established conceptual framework (i.e., the stresssuppressing model). The 5 hypothesized pathways were chosen on the basis of the factors understood to be most salient to the program context. The pathways accounted for a large percentage of the variation of distress but not for well-being. Because well-being likely captures important aspects of the programÕs human impact, additional cultural, social, and political measures should be included in future research.</p><p xml:id="_KFhMuyh">Path analysis is useful for examining whether data are consistent with a posited structural model; the data could potentially be equally consistent with &gt;1 path model. The recursive path model assumed that there was no reverse causality and that errors were uncorrelated. The first assumption was reasonable, given that program variable was manipulated, the program was intended to create downstream effects through poverty alleviation, and that stressors precede outcomes of the stress process in the stress-suppressing model. The second assumption could be violated if multiple outcome variables were influenced by the same unmeasured variable or if measurement error in 1 outcome variable was related to measurement error in another (e.g., a given respondent tended to overstate food insecurity, violence, and distress). We did not have access to variables that could be used to identify a non-recursive model that would relax these assumptions.</p><p xml:id="_ybS5yXt">After the review of the link between food insecurity and psychosocial health by <ref type="bibr">Weaver and Hadley (15)</ref> in 2009, studies have emerged from several other countries which further illustrate this link <ref type="bibr" target="#b43">(44,</ref><ref type="bibr" target="#b44">45)</ref>. Food insecurity is considered to be a modifiable factor, thus, an appropriate target for povertyalleviation and agricultural programs. In the context of CFPR-TUP, the finding that food insecurity was a strong mediator of distress and well-being should draw programmatic and policy attention to the social dimensions of poor psychosocial health, particularly to food insecurity as a central cause. Food insecurity and the other stressors identified in this study are all situated within the sociopolitical landscape of ultra-poverty. As such, further research should attempt to illustrate the web of complexity of the lives of the ultra-poor. This includes accounting for the systematic inequalities that place unequal burdens on the ultrapoor in terms of access to resources and thereby create situations of insecurity. Future research should also investigate the possibility that addressing food insecurity explicitly at a programÕs outset can result in substantial improvements in levels of distress and well-being. To reach those living in extreme poverty and to achieve substantial improvements in multiple dimensions of overall well-being, poverty-alleviation programs must approach poverty with a systematic, rather than symptomatic, perspective.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>FIGURE 1</head><label>1</label><figDesc xml:id="_Ts4En42">FIGURE 1 Pathways through which Challenging the Frontiers of Poverty Reduction-Targeting the Ultra Poor program affects distress and well-being, showing regression coefficients and P values (in parentheses). The analysis was controlled for 2006 measures of womenÕs age, marital status, and education, for main source of household income, and for baseline (i.e., 2002) measures of household size, number of children, and food insecurity and economic status.</figDesc><graphic coords="2,41.44,513.24,323.56,217.87" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><figDesc xml:id="_6Njw3Bx">and the magnitude of indirect effects of the CFPR-TUP program on distress 1 status-2005 (A 2 3 X 3 Y) Pathways not through economic status-2005 (A 3 Y)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>TABLE 1</head><label>1</label><figDesc xml:id="_GKx9sRy">Fixed-effect variables used in different models to estimate the pathways</figDesc><table><row><cell>Pathway(s)</cell><cell>Fixed-effect variables</cell></row><row><cell>A and X</cell><cell>Program, district, economic status in 2002, food insecurity in 2002,</cell></row><row><cell></cell><cell>economic status in 2005, covariates</cell></row><row><cell>A 2</cell><cell>Program, district, economic status in 2002, food insecurity in 2002,</cell></row><row><cell></cell><cell>covariates</cell></row><row><cell>B, C, and Z</cell><cell>Program, district, economic status in 2002, food insecurity in 2002,</cell></row><row><cell></cell><cell>economic status in 2005, covariates, all stressors, distress</cell></row><row><cell>D and Y</cell><cell>Program, district, economic status in 2002, food insecurity in 2002,</cell></row><row><cell></cell><cell>economic status in 2005, covariates, all stressors</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>TABLE 2</head><label>2</label><figDesc xml:id="_nhrMMF4">Differences in household characteristics between program and control groups1   </figDesc><table><row><cell></cell><cell></cell><cell>Program</cell><cell></cell><cell>Control</cell><cell></cell></row><row><cell></cell><cell>n</cell><cell>Value</cell><cell>n</cell><cell>Value</cell><cell>P</cell></row><row><cell>Age in 2006, y</cell><cell>640</cell><cell>29.25 6 8.17</cell><cell>978</cell><cell>27.26 6 7.85</cell><cell>,0.001</cell></row><row><cell>Children , 5 y at baseline</cell><cell>589</cell><cell>0.87 6 0.74</cell><cell>715</cell><cell>0.84 6 0.76</cell><cell>0.47</cell></row><row><cell>HH size at baseline</cell><cell>636</cell><cell>4.09 6 1.59</cell><cell>978</cell><cell>4.05 6 1.51</cell><cell>0.61</cell></row><row><cell>Food insecurity at baseline 2</cell><cell>548</cell><cell>0.48 6 1.59</cell><cell>684</cell><cell>20.38 6 1.64</cell><cell>0.86</cell></row><row><cell>Economic status at baseline 2</cell><cell>543</cell><cell>21.49 6 3.20</cell><cell>689</cell><cell>1.18 6 5.21</cell><cell>,0.001</cell></row><row><cell>Marital status (married)</cell><cell>640</cell><cell>89.4</cell><cell>978</cell><cell>95.90</cell><cell>,0.001</cell></row><row><cell>Women with no education</cell><cell>525</cell><cell>82.0</cell><cell>711</cell><cell>72.70</cell><cell>,0.001</cell></row><row><cell>Husbands with no education</cell><cell>518</cell><cell>86.0</cell><cell>756</cell><cell>79.20</cell><cell>,0.002</cell></row><row><cell>Manual labor as major source of HH income</cell><cell>448</cell><cell>70.0</cell><cell>676</cell><cell>69.10</cell><cell>0.72</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>TABLE 4</head><label>4</label><figDesc xml:id="_Jjnr3eV">Magnitude and percentage of contribution of direct and indirect effects of the CFPR-TUP program on distress1   </figDesc><table><row><cell>Effect of the program</cell><cell cols="2">Estimates Contribution, %</cell></row><row><cell>Indirect through mediators</cell><cell></cell><cell></cell></row><row><cell>Pathways not through economic status-2005 (A 3 Y)</cell><cell>24.392</cell><cell>67.2</cell></row><row><cell cols="2">Pathways through economic status-2005 (A 2 3 X 3 Y) 20.461</cell><cell>7.0</cell></row><row><cell>Direct (D)</cell><cell>21.685</cell><cell>25.8</cell></row><row><cell>Total effect</cell><cell>26.538</cell><cell>100</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>TABLE 6</head><label>6</label><figDesc xml:id="_duahfyA">Magnitude and percentage of contribution of direct and indirect effects of the CFPR-TUP program on well-being1   </figDesc><table><row><cell>Effect of the program</cell><cell cols="2">Estimates Contribution, %</cell></row><row><cell>Indirect through mediators</cell><cell></cell><cell></cell></row><row><cell>Pathways not through economic status-2005 and</cell><cell>2.941</cell><cell>24.5</cell></row><row><cell>distress (A 3 B)</cell><cell></cell><cell></cell></row><row><cell>Pathways through economic status 2005 but not</cell><cell>0.135</cell><cell>1.1</cell></row><row><cell>distress (A 2 3 X 3 B)</cell><cell></cell><cell></cell></row><row><cell>Pathways through distress but not economic</cell><cell>0.356</cell><cell>3.0</cell></row><row><cell>status-2005 (A 3 Y 3 Z)</cell><cell></cell><cell></cell></row><row><cell>Pathways through both economic status 2005 and</cell><cell>0.037</cell><cell>0.3</cell></row><row><cell>distress (A 2 3 X 3 Y 3 Z)</cell><cell></cell><cell></cell></row><row><cell>Indirect through distress only (D 3 Z)</cell><cell>0.137</cell><cell>1.1</cell></row><row><cell>Direct (C)</cell><cell>8.421</cell><cell>70.0</cell></row><row><cell>Total effect</cell><cell>12.027</cell><cell>100.00</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p xml:id="_8bAQHkY">at Viet Nam: ASNA Sponsored on June 23, 2016 jn.nutrition.org Downloaded from</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_1"><p xml:id="_H2FQ2Xg">Values are means 6 SD or %. HH, household.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_2"><p xml:id="_mthGvyE">Indicates standardized scores. Food insecurity, psychosocial health, and poverty 1937 at Viet Nam: ASNA Sponsored on June 23, 2016 jn.nutrition.org Downloaded from</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_3"><p xml:id="_wG8J74E">Pathways as illustrated in Figure1are shown in parenthesis. CFPR-TUP, Challenging the Frontiers of Poverty Reduction-Targeting the Ultra Poor.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_4"><p xml:id="_unCuXak">Pathways as illustrated in Figure 1 are shown in parentheses. CFPR-TUP, Challenging the Frontiers of Poverty Reduction-Targeting the Ultra Poor. Food insecurity, psychosocial health, and poverty 1939 at Viet Nam: ASNA Sponsored on June</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_5"><p xml:id="_P63UCJF"><ref type="bibr" target="#b22">23,</ref> 2016    jn.nutrition.org Downloaded from</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_6"><p xml:id="_c96YGA4">Food insecurity, psychosocial health, and poverty 1941 at Viet Nam: ASNA Sponsored on June 23, 2016 jn.nutrition.org Downloaded from</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head xml:id="_eUZZyEX">Acknowledgments</head><p xml:id="_zUbDjv9">CSBJ and <rs type="funder">EAF</rs> designed the research; CSBJ developed the overall research plan, conducted the research, and analyzed data with EAF; CSBJ wrote the first draft; EAF and AMW contributed in further interpretation and writing of the final draft. All authors read and approved the final content.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="consolidated"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main" xml:id="_bznEX8W">Rethinking poverty, household finance, and microfinance</title>
+		<author>
+			<persName><forename type="first">Jonathan</forename><surname>Morduch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Haley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jonathan</forename><surname>Morduch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Haley</surname></persName>
+		</author>
+		<idno type="DOI">10.4337/9781789903874.00008</idno>
+		<idno>Report No.: 1014</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_9wRj3Nw">Handbook of Microfinance, Financial Inclusion and Development</title>
+		<meeting><address><addrLine>New York; New York University</addrLine></address></meeting>
+		<imprint>
+			<publisher>Edward Elgar Publishing</publisher>
+			<date type="published" when="2001-06">2001 June</date>
+			<biblScope unit="page" from="21" to="40" />
+		</imprint>
+		<respStmt>
+			<orgName>NYU Wagner Working Paper</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main" xml:id="_wnjqEdx">Programs for the Poorest: Learning from the IGVGD Program in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Imran</forename><surname>Matin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><surname>Hulme</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0305-750x(02)00223-1</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_YXYR38t">World Development</title>
+		<title level="j" type="abbrev">World Development</title>
+		<idno type="ISSN">0305-750X</idno>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="647" to="665" />
+			<date type="published" when="2003-03">2003</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main" xml:id="_AQ9E8tf">Capability development among the ultra-poor in Bangladesh: a case study</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Ahmed</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_BDRGDVw">J Health Pop Nutr</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="528" to="535" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b3">
+	<monogr>
+		<author>
+			<persName><forename type="first">F</forename><surname>Ameen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sulaiman</surname></persName>
+		</author>
+		<title level="m" xml:id="_ycnwQ3S">Social capital and economic well-being</title>
+		<meeting><address><addrLine>Dhaka and Ottawa</addrLine></address></meeting>
+		<imprint>
+			<publisher>BRAC and Aga Khan Foundation Canada</publisher>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main" xml:id="_VcEEGja">Aga Khan Foundation</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sulaiman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Matin</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/springerreference_75795</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_YkGne6b">Targeting effectiveness of CFPR/TUP in scale-up environment</title>
+		<meeting><address><addrLine>Dhaka and Ottawa</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer-Verlag</publisher>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b5">
+	<monogr>
+		<title level="m" type="main" xml:id="_dchnwkd">Combining methodologies for better targeting of the extreme poor: lessons from BRACÕs CFPR/TUP programme</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Matin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Halder</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<publisher>BRAC and Aga Khan Foundation Canada</publisher>
+			<pubPlace>Dhaka and Ottawa</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b6">
+	<monogr>
+		<title level="m" type="main" xml:id="_5eYPN6W">Impact assessment of credit programme for the tenant farmers in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Mohammad</forename><forename type="middle">Abdul</forename><surname>Malek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Abu</forename><surname>Ahasan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Md.</forename><forename type="middle">Amzad</forename><surname>Hossain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Md.</forename><forename type="middle">Shakil</forename><surname>Ahmed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marup</forename><surname>Hossain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Md.</forename><forename type="middle">Hasib</forename><surname>Reza</surname></persName>
+		</author>
+		<idno type="DOI">10.23846/ow31222</idno>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<publisher>International Initiative for Impact Evaluation</publisher>
+			<pubPlace>Dhaka and Ottawa</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main" xml:id="_RDpJjzv">Poverty reduction program improves subjective wellbeing, parental care, food insecurity, and domestic violence in rural Bangladesh</title>
+		<author>
+			<persName><forename type="first">Chowdhury</forename><forename type="middle">Sb</forename><surname>Jalal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Edward</forename><forename type="middle">A</forename><surname>Frongillo</surname></persName>
+		</author>
+		<idno type="DOI">10.1096/fasebj.22.1_supplement.871.1</idno>
+		<ptr target="http://hdl.handle.net/1813/11053" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_EWXMMPS">The FASEB Journal</title>
+		<title level="j" type="abbrev">The FASEB Journal</title>
+		<idno type="ISSN">0892-6638</idno>
+		<idno type="ISSNe">1530-6860</idno>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">S1</biblScope>
+			<date type="published" when="2008-03">2008</date>
+			<publisher>Wiley</publisher>
+			<pubPlace>Ithaca (NY)</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Cornell University</orgName>
+		</respStmt>
+	</monogr>
+	<note>dissertation</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main" xml:id="_mJygAyA">Mental health challenges and possible solutions</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Yasami</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_CZw44XB">East Mediterr Health J</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="114" to="122" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note>Suppl</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main" xml:id="_9X2BBdQ">Oxford Textbook of Public Health</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Saraceno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Freeman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Funk</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/med/9780199218707.001.0001</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_ZRnhyt3">Oxford Textbook of Public Health</title>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Detels</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Beaglehole</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Lansang</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Gulliford</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University PressOxford</publisher>
+			<date type="published" when="2009-09">2009</date>
+			<biblScope unit="page" from="1081" to="1100" />
+		</imprint>
+	</monogr>
+	<note>5th ed</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main" xml:id="_SsfE6pG">Prevalence, pattern and determinants of mental disorders in rural Bangladesh</title>
+		<author>
+			<persName><forename type="first">Gmm</forename><surname>Hosain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Chatterjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Ara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Islam</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_XesRb5M">Public Health</title>
+		<imprint>
+			<biblScope unit="volume">121</biblScope>
+			<biblScope unit="page" from="18" to="24" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main" xml:id="_BeKaYGz">Poverty and common mental disorders in low and middle income countries: A systematic review</title>
+		<author>
+			<persName><forename type="first">Crick</forename><surname>Lund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alison</forename><surname>Breen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alan</forename><forename type="middle">J</forename><surname>Flisher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ritsuko</forename><surname>Kakuma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Joanne</forename><surname>Corrigall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><forename type="middle">A</forename><surname>Joska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Leslie</forename><surname>Swartz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Vikram</forename><surname>Patel</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.socscimed.2010.04.027</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_chctYSH">Social Science &amp; Medicine</title>
+		<title level="j" type="abbrev">Social Science &amp; Medicine</title>
+		<idno type="ISSN">0277-9536</idno>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="517" to="528" />
+			<date type="published" when="2010-08">2010</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main" xml:id="_YNHUd6c">Meeting the Millennium Development Goals in Sub-Saharan Africa: What about mental health?</title>
+		<author>
+			<persName><forename type="first">Sarah</forename><surname>Skeen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Crick</forename><surname>Lund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sharon</forename><surname>Kleintjes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alan</forename><surname>Flisher</surname></persName>
+		</author>
+		<author>
+			<persName><surname>The Mhapp Research Programme Consor</surname></persName>
+		</author>
+		<idno type="DOI">10.3109/09540261.2010.535509</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_9dcCfhe">International Review of Psychiatry</title>
+		<title level="j" type="abbrev">International Review of Psychiatry</title>
+		<idno type="ISSN">0954-0261</idno>
+		<idno type="ISSNe">1369-1627</idno>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="624" to="631" />
+			<date type="published" when="2010-12">2010</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main" xml:id="_uxueMnU">Poverty and mental disorders: breaking the cycle in low-income and middle-income countries</title>
+		<author>
+			<persName><forename type="first">Crick</forename><surname>Lund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mary</forename><surname>De Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sophie</forename><surname>Plagerson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sara</forename><surname>Cooper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dan</forename><surname>Chisholm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jishnu</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Martin</forename><surname>Knapp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Vikram</forename><surname>Patel</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0140-6736(11)60754-x</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_BfFNNb7">The Lancet</title>
+		<title level="j" type="abbrev">The Lancet</title>
+		<idno type="ISSN">0140-6736</idno>
+		<imprint>
+			<biblScope unit="volume">378</biblScope>
+			<biblScope unit="issue">9801</biblScope>
+			<biblScope unit="page" from="1502" to="1514" />
+			<date type="published" when="2011-10">2011</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main" xml:id="_fKD5TFr">Moving Beyond Hunger and Nutrition: A Systematic Review of the Evidence Linking Food Insecurity and Mental Health in Developing Countries</title>
+		<author>
+			<persName><forename type="first">Lesley</forename><forename type="middle">Jo</forename><surname>Weaver</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Craig</forename><surname>Hadley</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/03670240903001167</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_5Q9nGPZ">Ecology of Food and Nutrition</title>
+		<title level="j" type="abbrev">Ecology of Food and Nutrition</title>
+		<idno type="ISSN">0367-0244</idno>
+		<idno type="ISSNe">1543-5237</idno>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="263" to="284" />
+			<date type="published" when="2009-07-20">2009</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main" xml:id="_Q7Zg2yE">Chronic stressors and daily hassles: unique and interactive relationships with psychological distress</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Serido</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Almeida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Wethington</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_kuUuvnQ">J Health Soc Behav</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="17" to="33" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main" xml:id="_CfzwbP2">The effect of age on positive and negative affect: A developmental perspective on happiness.</title>
+		<author>
+			<persName><forename type="first">Daniel</forename><forename type="middle">K</forename><surname>Mroczek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christian</forename><forename type="middle">M</forename><surname>Kolarz</surname></persName>
+		</author>
+		<idno type="DOI">10.1037//0022-3514.75.5.1333</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_bYfQqMp">Journal of Personality and Social Psychology</title>
+		<title level="j" type="abbrev">Journal of Personality and Social Psychology</title>
+		<idno type="ISSN">0022-3514</idno>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1333" to="1349" />
+			<date type="published" when="1998">1998</date>
+			<publisher>American Psychological Association (APA)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main" xml:id="_7SEPVmA">The Life Stress Paradigm and Psychological Distress</title>
+		<author>
+			<persName><forename type="first">Walter</forename><forename type="middle">M</forename><surname>Ensel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nan</forename><surname>Lin</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/2137101</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_9TqRYyR">Journal of Health and Social Behavior</title>
+		<title level="j" type="abbrev">Journal of Health and Social Behavior</title>
+		<idno type="ISSN">0022-1465</idno>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">321</biblScope>
+			<date type="published" when="1991-12">1991</date>
+			<publisher>SAGE Publications</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b18">
+	<analytic>
+		<title level="a" type="main" xml:id="_spJDJPB">The social context of stress</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">I</forename><surname>Pearlin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_FA6YVS6">Handbook of stress</title>
+		<editor>
+			<persName><forename type="first">L</forename><surname>Goldberger</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Breznitz</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Free Press</publisher>
+			<date type="published" when="1982">1982</date>
+			<biblScope unit="page" from="303" to="315" />
+		</imprint>
+	</monogr>
+	<note>Second ed</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main" xml:id="_gS7xPRS">Stress, Appraisal and Coping. By R. S. Lazarus and S. Folkman. (Pp. 445; illustrated; $31.95.) Springer Publishing: New York. 1984. - Stress (2 volumes). Edited by E. Usdin, R. Kvetnansky and J. Axelrod. (Pp. 605; illustrated; $275.00.) Gordon and Breach: New York. 1985. - Stress in Health and Disease. Edited by M. R. Zales. (Pp. 262; illustrated; $27.50.) Brunner/Mazel: New York. 1985.</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Lazarus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Folkman</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/s0033291700031652</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Z7VMDhY">Psychological Medicine</title>
+		<title level="j" type="abbrev">Psychol. Med.</title>
+		<idno type="ISSN">0033-2917</idno>
+		<idno type="ISSNe">1469-8978</idno>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="705" to="705" />
+			<date type="published" when="1984">1984</date>
+			<publisher>Cambridge University Press (CUP)</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main" xml:id="_q3mKEBP">Families Accommodating to Chronic Stress</title>
+		<author>
+			<persName><forename type="first">Rena</forename><forename type="middle">L</forename><surname>Repetti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jenifer</forename><surname>Wood</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-1-4757-9862-3_7</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_ajnYfAd">Coping with Chronic Stress</title>
+		<editor>
+			<persName><forename type="first">B</forename><forename type="middle">H</forename><surname>Gottlieb</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer US</publisher>
+			<date type="published" when="1997">1997</date>
+			<biblScope unit="page" from="191" to="220" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b21">
+	<monogr>
+		<title level="m" type="main" xml:id="_MvSZW7n">Microfinance engagements of the ÔgraduatedÕ TUP members</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sulaiman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Matin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Msh</forename><surname>Siddiquee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Barua</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Alarakhaia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Iyer</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>BRAC and Aga Khan Foundation Canada</publisher>
+			<pubPlace>Dhaka and Ottawa</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main" xml:id="_XxzZPgq">THE SECOND NATIONAL HEALTH AND NUTRITION EXAMINATION SURVEY 1976%1980</title>
+		<author>
+			<persName><forename type="first">Geoffrey</forename><forename type="middle">C</forename><surname>Marks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jean-Pierre</forename><surname>Habicht</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">William</forename><forename type="middle">H</forename><surname>Mueller</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/oxfordjournals.aje.a115372</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Jrf5mSA">American Journal of Epidemiology</title>
+		<idno type="ISSN">0002-9262</idno>
+		<idno type="ISSNe">1476-6256</idno>
+		<imprint>
+			<biblScope unit="volume">130</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="578" to="587" />
+			<date type="published" when="1989-09">1989</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main" xml:id="_SKVTjE9">Development and validation of brief measures of positive and negative affect: The PANAS scales.</title>
+		<author>
+			<persName><forename type="first">David</forename><surname>Watson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lee</forename><forename type="middle">A</forename><surname>Clark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Auke</forename><surname>Tellegen</surname></persName>
+		</author>
+		<idno type="DOI">10.1037//0022-3514.54.6.1063</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_wPK3FTS">Journal of Personality and Social Psychology</title>
+		<title level="j" type="abbrev">Journal of Personality and Social Psychology</title>
+		<idno type="ISSN">0022-3514</idno>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1063" to="1070" />
+			<date type="published" when="1988">1988</date>
+			<publisher>American Psychological Association (APA)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b24">
+	<analytic>
+		<title level="a" type="main" xml:id="_bgDzE4G">Subjective well-being: The science of happiness and a proposal for a national index.</title>
+		<author>
+			<persName><forename type="first">Ed</forename><surname>Diener</surname></persName>
+		</author>
+		<idno type="DOI">10.1037//0003-066x.55.1.34</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_HXK7wTs">American Psychologist</title>
+		<title level="j" type="abbrev">American Psychologist</title>
+		<idno type="ISSN">0003-066X</idno>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="34" to="43" />
+			<date type="published" when="2000">2000</date>
+			<publisher>American Psychological Association (APA)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b25">
+	<monogr>
+		<author>
+			<persName><forename type="first">E</forename><surname>Diener</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Oishi</surname></persName>
+		</author>
+		<title level="m" xml:id="_e6VKQs2">Subjective wellbeing</title>
+		<editor>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Snyder</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Lopez</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b26">
+	<monogr>
+		<title level="m" type="main" xml:id="_P8Xkusa">Multiple indicator cluster survey manual</title>
+		<imprint>
+			<date type="published" when="2005">2005. 2006</date>
+			<publisher>UNICEF</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b27">
+	<analytic>
+		<title level="a" type="main" xml:id="_5vzNfFv">Monitoring progress toward the goals of the world summit for children: end-decade multiple indicator survey manual</title>
+		<author>
+			<persName><surname>Unicef</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_kC24U9N">Division of Evaluation, Policy and Planning</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2000-02">Feb 2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b28">
+	<monogr>
+		<title level="m" type="main" xml:id="_6rxNQS9">Guide to measuring household food security: revised</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Bickel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nord</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Price</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Hamilton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cook</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000-03">2000. March 2000. 2000</date>
+			<publisher>US Department of Agriculture, Food and Nutrition Service</publisher>
+			<pubPlace>Alexandria (VA)</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b29">
+	<analytic>
+		<title level="a" type="main" xml:id="_kXkgsJg">Understanding the experience of household food insecurity in rural Bangladesh leads to a measure different from that used in other countries</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Frongillo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Chowdhury</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Ekstrom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">T</forename><surname>Naved</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_tKAwXqW">J Nutr</title>
+		<imprint>
+			<biblScope unit="volume">133</biblScope>
+			<biblScope unit="page" from="4158" to="4162" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b30">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><surname>Nanama</surname></persName>
+		</author>
+		<title level="m" xml:id="_4mHB7sj">Experience, trends, and consequences of food insecurity in complex households in rural Burkina Faso</title>
+		<meeting><address><addrLine>Ithaca (NY)</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+		<respStmt>
+			<orgName>Cornell University</orgName>
+		</respStmt>
+	</monogr>
+	<note>dissertation</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b31">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ellsberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Heise</surname></persName>
+		</author>
+		<title level="m" xml:id="_cVeAzbx">Researching violence against women: a practical guide for researchers and activists</title>
+		<meeting><address><addrLine>Washington (DC); PATH</addrLine></address></meeting>
+		<imprint>
+			<publisher>World Health Organization</publisher>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b32">
+	<analytic>
+		<title level="a" type="main" xml:id="_cWmhrEz">Physical violence by husbands: Magnitude, disclosure and help-seeking behavior of women in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Ruchira</forename><forename type="middle">Tabassum</forename><surname>Naved</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Safia</forename><surname>Azim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Abbas</forename><surname>Bhuiya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lars</forename><forename type="middle">Åke</forename><surname>Persson</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.socscimed.2005.12.001</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_qE5BHPH">Social Science &amp; Medicine</title>
+		<title level="j" type="abbrev">Social Science &amp; Medicine</title>
+		<idno type="ISSN">0277-9536</idno>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="2917" to="2929" />
+			<date type="published" when="2006-06">2006</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b33">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><surname>Beusenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Orley</surname></persName>
+		</author>
+		<title level="m" xml:id="_Bx9PCkj">A user&apos;s guide to the Self Reporting Questionnaire (SRQ)</title>
+		<meeting><address><addrLine>Geneva</addrLine></address></meeting>
+		<imprint>
+			<publisher>Division of Mental Health, World Health Organization</publisher>
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b34">
+	<monogr>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">H</forename><surname>Wonnacott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Wonnacott</surname></persName>
+		</author>
+		<title level="m" xml:id="_w8gnsD4">Introductory statistics for business and economics</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>John Wiley and Sons Inc</publisher>
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+	<note>4th ed</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b35">
+	<analytic>
+		<title level="a" type="main" xml:id="_bfhw2ba">Cultural dimensions of depression in Bangladesh: a qualitative study in two villages of Matlab</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Selim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_huvmAQU">J Health Popul Nutr</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="95" to="106" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b36">
+	<monogr>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">I</forename><surname>Pearlin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Aneshensel</surname></persName>
+		</author>
+		<title level="m" xml:id="_NrvSn5D">Coping and social supports: their function and applications</title>
+		<meeting><address><addrLine>New Brunswick (NJ)</addrLine></address></meeting>
+		<imprint>
+			<publisher>Rutgers University Press</publisher>
+			<date type="published" when="1986">1986</date>
+			<biblScope unit="page" from="53" to="74" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b37">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zeller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Schrieder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">V</forename><surname>Braun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Heidhues</surname></persName>
+		</author>
+		<title level="m" xml:id="_CKvK38g">Rural finance for food security of the poor: implications for research and policy</title>
+		<meeting><address><addrLine>Washington (DC)</addrLine></address></meeting>
+		<imprint>
+			<publisher>International Food Policy Research Institute (IFPRI</publisher>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b38">
+	<analytic>
+		<title level="a" type="main" xml:id="_3GYmwQ8">The wealth of nations revisited: income and quality of life</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Diener</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Diener</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_3hzkKgc">Soc Indic Res</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="653" to="663" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b39">
+	<analytic>
+		<title level="a" type="main" xml:id="_sMf596h">The relationship between measures of subjective and economic well-being: A new look</title>
+		<author>
+			<persName><forename type="first">Robin</forename><forename type="middle">A</forename><surname>Douthitt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Maurice</forename><surname>Macdonald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Randolph</forename><surname>Mullis</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/bf00347898</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_s2xMuq4">Social Indicators Research</title>
+		<title level="j" type="abbrev">Social Indicators Research</title>
+		<idno type="ISSN">0303-8300</idno>
+		<idno type="ISSNe">1573-0921</idno>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="407" to="422" />
+			<date type="published" when="1992-06">1992</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b40">
+	<analytic>
+		<title level="a" type="main" xml:id="_GFRErrB">Money and Happiness: Income and Subjective Well-Being Across Nations</title>
+		<author>
+			<persName><forename type="first">Ed</forename><surname>Diener</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shigehiro</forename><surname>Oishi</surname></persName>
+		</author>
+		<idno type="DOI">10.7551/mitpress/2242.003.0013</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_MnU9KZD">Culture and Subjective Well-Being</title>
+		<editor>
+			<persName><forename type="first">E</forename><surname>Diener</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Suh</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge (MA)</addrLine></address></meeting>
+		<imprint>
+			<publisher>The MIT Press</publisher>
+			<date type="published" when="2000-09-15">2000</date>
+			<biblScope unit="page" from="185" to="218" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b41">
+	<analytic>
+		<title level="a" type="main" xml:id="_FbCwwmz">Food insecurity, stressful life events and symptoms of anxiety and depression in east Africa: evidence from the Gilgel Gibe growth and development study</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hadley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tegegn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Tessema</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Cowan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Asefa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Galea</surname></persName>
+		</author>
+		<idno type="DOI">10.1136/jech.2007.068460</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_U64QRME">Journal of Epidemiology and Community Health</title>
+		<title level="j" type="abbrev">J Epidemiol Community Health</title>
+		<idno type="ISSN">0143-005X</idno>
+		<idno type="ISSNe">1470-2738</idno>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="980" to="986" />
+			<date type="published" when="2008-10-14">2008</date>
+			<publisher>BMJ</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b42">
+	<analytic>
+		<title level="a" type="main" xml:id="_hD77CNq">Evaluation designs for adequacy, plausibility and probability of public health programme performance and impact</title>
+		<author>
+			<persName><forename type="first">J-P</forename><surname>Habicht</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Victora</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Vaughan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_GfyUKWy">Int J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="10" to="18" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b43">
+	<analytic>
+		<title level="a" type="main" xml:id="_RAZmfvt">The effect of food insecurity on mental health: Panel evidence from rural Zambia</title>
+		<author>
+			<persName><forename type="first">Steven</forename><forename type="middle">M</forename><surname>Cole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gelson</forename><surname>Tembo</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.socscimed.2011.07.012</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_JkFxMNu">Social Science &amp; Medicine</title>
+		<title level="j" type="abbrev">Social Science &amp; Medicine</title>
+		<idno type="ISSN">0277-9536</idno>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1071" to="1079" />
+			<date type="published" when="2011-10">2011</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b44">
+	<analytic>
+		<title level="a" type="main" xml:id="_5EqpPk7">Food insecurity, depression and the modifying role of social support among people living with HIV/AIDS in rural Uganda</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Tsai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Bangsberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Frongillo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Hunt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Muzoora</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">N</forename><surname>Martin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Weiser</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_TaqysKs">Soc Sci Med</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="page" from="2012" to="2019" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

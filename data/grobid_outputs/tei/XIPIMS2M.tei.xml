@@ -1,0 +1,1344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" xml:id="_EPhnPZG">SUPPORTING WOMEN&apos;S LIVELIHOODS AT SCALE: EVIDENCE FROM A NATIONWIDE MULTI-FACETED PROGRAM</title>
+				<funder>
+					<orgName type="full">World Bank&apos;s Umbrella Facility for Gender Equality</orgName>
+				</funder>
+				<funder ref="#_NmS93UM">
+					<orgName type="full">National Bureau of Economic Research</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Ioana</forename><surname>Botea</surname></persName>
+							<email>ibotea@worldbank.org</email>
+						</author>
+						<author>
+							<persName><forename type="first">Andrew</forename><surname>Brudevold-Newman</surname></persName>
+							<email>abrudevoldnewman@worldbank.org</email>
+						</author>
+						<author>
+							<persName><forename type="first">Markus</forename><surname>Goldstein</surname></persName>
+							<email>markusgold@gmail.com</email>
+						</author>
+						<author>
+							<persName><forename type="first">Corinne</forename><surname>Low</surname></persName>
+							<email>corlow@wharton.upenn.edu</email>
+						</author>
+						<author>
+							<persName><forename type="first">Gareth</forename><surname>Roberts</surname></persName>
+							<email>garethrobertsza@gmail.com</email>
+						</author>
+						<author>
+							<persName><forename type="first">David</forename><surname>Mckenzie</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Chris</forename><surname>Udry</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Dean</forename><forename type="middle">Karlan</forename><surname>Ananda</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Paez</forename><surname>Rodas</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Ambika</forename><surname>Sharma</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Chang</forename><surname>Tang</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="institution">NATIONAL BUREAU OF ECONOMIC RESEARCH</orgName>
+								<address>
+									<addrLine>1050 Massachusetts Avenue</addrLine>
+									<postCode>02138</postCode>
+									<settlement>Cambridge</settlement>
+									<region>MA</region>
+									<country>The World</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="institution">Bank</orgName>
+								<address>
+									<country>The World</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="institution" key="instit1">Bank</orgName>
+								<orgName type="institution" key="instit2">University of Pennsylvania The Wharton School and NBER</orgName>
+								<orgName type="institution" key="instit3">University of the Witwatersrand</orgName>
+								<address>
+									<settlement>Johannesburg</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main" xml:id="_nZ8gKjs">SUPPORTING WOMEN&apos;S LIVELIHOODS AT SCALE: EVIDENCE FROM A NATIONWIDE MULTI-FACETED PROGRAM</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">960E446299D8E481D79CB4B8353F7937</idno>
+					<note type="submission">August 2023, Revised September 2025 August 2023, Revised September 2025</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2025-11-05T18:52+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a292bac</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=1, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=true, generateTeiCoordinates=[true], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_8PPpq2R"><p xml:id="_fMsdd7Z">The success of multi-faceted "graduation" programs in reducing poverty raises three questions: Can their impacts be replicated when implemented by governments at scale? Can these bundled programs be streamlined for broader reach? And, do positive effects risk being offset by negative spillovers?This study examines a nationwide livelihood program implemented by the Zambian government and finds large, sustained increases in consumption and earnings-comparable to those of the most effective multi-faceted programs-without negative economic spillovers on nonbeneficiaries. A treatment arm providing only financial capital achieved similar gains, consistent with evidence on the welfare impacts of direct cash transfers but with the added advantage of persistent income generation effects. These results point to a middle-ground approach between simple capital infusions, which often lack long-term impact, and complex graduation models that may be challenging for governments to implement at scale, offering a scalable and sustainable strategy for poverty alleviation.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="10" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="11" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="12" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="13" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="14" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="15" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="16" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="17" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="18" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="19" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="20" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="21" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="22" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="23" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="24" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="25" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="26" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="27" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="28" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="29" ulx="0.0" uly="0.0" lrx="792.0" lry="612.0"/>
+		<surface n="30" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="31" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="32" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="33" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="34" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="35" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="36" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="37" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="38" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="39" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="40" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="41" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="42" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="43" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="44" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="45" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="46" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="47" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="48" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="49" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="50" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="51" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="52" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="53" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="54" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="55" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="56" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="57" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="58" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1" xml:id="_9jNvgaG">Introduction</head><p xml:id="_gC32cgu">Over 650 million people still live in extreme poverty globally. Multi-faceted, graduation-style interventions, usually implemented by skilled NGOs such as BRAC, have proven effective in lifting households out of extreme poverty by enabling them to grow and diversify their income-generating activities (e.g., Banerjee   et al., 2015; Blattman et al., 2016; Bandiera et al., 2017; Bedoya et al., 2019; Bossuroy et al., 2022). Increasing evidence suggests that the positive impacts on income, consumption, and assets from these programs can persist-and even continue to grow-long after the intervention ends (e.g., Bandiera et al., 2017; Balboni   et al., 2022; Banerjee, Duflo and Sharma, 2021). At the same time, direct unconditional cash grants and transfers have been shown to achieve poverty relief (e.g., Blattman, Fiala and Martinez, 2014; Haushofer   and Shapiro, 2016; Banerjee et al., 2023; Handa et al., 2018), though with more mixed evidence on longterm sustainability (e.g., Haushofer and Shapiro, 2018; Blattman, Fiala and Martinez, 2020; Handa et al.,   2025). This debate has brought renewed attention to several key questions: To what extent is a multi-faceted intervention necessary to achieve meaningful impacts, versus a more streamlined program? Can large-scale, government-led bundled programs replicate the positive outcomes observed in smaller, NGO-supported efforts? And, when scaled up, are positive impacts on participants offset by negative spillovers?</p><p xml:id="_FQXrd7D">To answer these questions, we conducted a multi-arm randomized evaluation of the Government of Zambia's Supporting Women's Livelihoods (SWL) program. Launched in 2015, SWL built on promising evidence from multi-country NGO programs, but was streamlined for nationwide implementation through decentralized government structures. The program targeted extremely poor women in rural areas, offering a package that included: (i) a productive grant equivalent to US$225, (ii) a 21-session life and business skills training, (iii) support to form savings groups, and (iv) six months of group mentoring. <ref type="bibr">1</ref> The impact evaluation was embedded into the first iteration of the program, which reached 75,000 beneficiaries across 51 districts in all 10 Zambian provinces (with an eventual target of 135,000 beneficiaries across all 81 rural districts by 2025).</p><p xml:id="_PG5v8A2">At the community level, eligible participants were randomly assigned to three variations of the SWL program or a control group: (i) the 'full package' with all four activities, (ii) a 'human capital' bundle with only skills training and mentorship, and (iii) a 'financial capital' bundle with only the grant and savings group support. <ref type="bibr">2</ref> To assess spillovers, beneficiaries were also randomly selected from among eligible participants. <ref type="bibr">3</ref> The direct implementation by the government, without NGO assistance, allows us to test how these programs may operate at scale, and whether streamlining for government implementation interferes with efficacy. Multiple arms "unbundling" the components of the graduation model allow us to test whether an even more slimmed down package may achieve comparable impacts. Finally, our two-level randomization <ref type="bibr">1</ref> Productive grants were chosen instead of an asset transfer because of the large geographic differences in preferred livelihoods throughout Zambia and for easier logistics. The savings group support was provided by the community-based volunteers following the weekly group mentorship sessions.</p><p xml:id="_tDVGeuP">2 An additional arm added 3 small consumption support transfers to the full package, which did not have a positive marginal effect.</p><p xml:id="_JyU72mu">3 A separate sample of ineligible women in full package and control communities was used to assess spillover effects on less vulnerable women. 1 design allows us to test for negative equilibrium effects on non-beneficiary community members. To test whether impacts sustain over the long-term, particularly after initial cash-transfer resources are exhausted, we measure outcomes at both the one-year and three-year mark.</p><p xml:id="_EGRGK37">Our results show that assignment to the full package led to wide-ranging improvements in welfare that persisted for over three years after the program ended. Consumption increased by 0.24 standard deviations at 12 months, and 0.44 standard deviations by 38 months. Household income increased by 0.17 standard deviations at 12 months, and 0.29 standard deviations by 38 months, driven by an 80% rise in household business profits and a 126% increase in agricultural income. And, at 38 months when the grant itself would have been exhausted, the full package more than doubled household savings and increased asset values by 25%. The program also increased perceived happiness and self-esteem.</p><p xml:id="_BRphhc6">The fact that household consumption is higher at 38 months than 12 months demonstrates the remarkable success of this government-implemented intervention in achieving not just a one-time boost but a sustainable improvement in beneficiaries' livelihoods. This consumption impact is undergirded by an income effect that actually grows over time. These effects exceed those observed in NGO-implemented graduation programs (Banerjee et al., 2015) and were achieved without the intensity of NGO-provided training and mentorship, and with a cash transfer rather than a more logistically complex livestock or other asset transfer. Moreover, the sustained effects contrast with the strong but often short-lived impacts of direct cash transfers (Haushofer   and Shapiro, 2018; Blattman, Fiala and Martinez, 2020; Handa et al., 2025). These results thus provide the first evidence that the graduation model can be effectively streamlined and scaled by developing country governments.</p><p xml:id="_bVF74Rb">Further insight emerges from comparing implementation variants. The financial capital component, essentially a grant with limited support for forming savings groups, produced impacts that were statistically indistinguishable from those of the full package at 12 months. This finding suggests that developing-country governments could achieve significant "bang for their buck" with cash grants alone. However, at the threeyear follow-up, notable differences emerge: the full package yielded larger consumption impacts and more sustained effects on entrepreneurship. This suggests that the training component may have helped participants better plan their businesses and manage risks over the long term, bolstering the role of complementary training and sensitization.</p><p xml:id="_zwVx74f">In contrast, the human capital arm on its own showed no significant benefits compared to the control group, suggesting that for this group, financial, and not human capital was the most binding constraint. It also suggests that the government training implementation may not have been strong enough to have widespread impacts on its own, something we explore more in Section 3.5.</p><p xml:id="_TAqNPU2">Examining impacts on non-selected eligible community members, we find no evidence of negative economic spillovers, indicating that these large gains were achieved without adverse general equilibrium impacts on prices or employment opportunities for others. We do, however, find suggestive evidence of short-term negative psychological well-being impacts for non-selected women, aligning with previous evidence of relative income mattering for subjective well-being (Clark, Frijters and Shields, 2008; McBride, 2001; Perez-Truglia, 2020). This paper makes three main contributions. First, it addresses a critical gap in the literature on the scalability of graduation-style programming. In contrast to literature that shows complex NGO-implemented programs may not have the same impact at scale (Muralidharan and Niehaus, 2017; Bold et al., 2018; Banerjee, Duflo   and Glennerster, 2008), our results show that in the case of a direct cash transfer combined with other benefits, a transformative and persistent impact is possible from a scaled, government-implemented intervention.</p><p xml:id="_Sy9eYXJ">Second, by unbundling the package, we contribute to both the evolving dialogue on multi-faceted programs (Bossuroy et al., 2022; Sedlmayr, Shah and Sulaiman, 2020) and to the literature on no-strings-attached transfers (e.g., Haushofer and Shapiro, 2016; Banerjee et al., 2023), identifying an effective middle-ground approach. Finally, we speak directly to the literature on within-village spillovers of large social protection and training programs (e.g. Bandiera et al., 2017; Baird, De Hoop and Özler, 2013; Haushofer, Reisinger   and Shapiro, 2019; McKenzie and Puerto, 2021; Egger et al., 2022), finding no evidence that the infusion of funds into village economies created lasting negative economic spillovers on non-participants.</p><p xml:id="_TqQ5vy6">Our study provides evidence that streamlined bundled interventions can be effectively implemented by developing-country governments at scale, and achieve similar impacts to NGO-implemented graduation interventions, without creating negative economic impacts on untreated households. Our results also indicate that in this setting, the government was better able to facilitate expeditious access to financial capital than the large human capital gains that would help increase income generation, although we find some evidence of complementarities from the training for full package recipients. This has important policy implications for scaling up programs to lift households out of poverty.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2" xml:id="_3X7BUyk">Experimental Design and Data</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1" xml:id="_v3WWC8C">Intervention and Treatment Arms</head><p xml:id="_CZT4RXJ">We conducted a randomized evaluation of the multi-faceted Supporting Women's Livelihoods (SWL) initiative implemented by Zambia's Ministry of Community Development and Social Services. The initiative provided selected poor, rural women with a bundled "big push" package comprising a productive grant equivalent to US$225, a 21 session life and business skill training, support to form savings groups, and six months of group mentoring. <ref type="bibr">4</ref> The SWL program is deliberately streamlined compared to other multi-faceted "graduation" packages: it is not layered on top of regular cash transfers, lasts 8-10 months instead of up to 24 months, focuses on grants rather than livestock or other productive assets, and includes group mentoring rather than individual. <ref type="bibr">5</ref> In collaboration with the government, we randomized 298 SWL communities across 10 of the 51 districts Sample: 298 communities (n = 5,613) Control † : 60 communities (n = 1,108) Full Package: 59 communities (n = 1,094) Human Capital Bundle: 60 communities (n = 1,174) Financial Capital Bundle: 59 communities (n = 952) Full Package + Consumption Support † : 60 communities (n = 1,285) Note: † indicates communities with spillover samples. Randomization was conducted at a sub-district geographic block level. Figure includes 1,512 women in 39 communities in the non-compliant district. Figure excludes 945 women in the SWL-eligible spillover group and 1,075 individuals in the ineligible spillover group.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_s2VC7rp">Figure 1: Study design</head><p xml:id="_mM4rh2j">Within the evaluation communities, we built our sampling frame by leveraging a three-step beneficiary se-lection process that culminated in public beneficiary-selection lotteries. <ref type="bibr">7</ref> We use these randomizations to form a spillover sample of eligible but untreated women in the full package with consumption support communities ('eligible spillovers'). Finally, using administrative data, we drew a random sample of ineligible households to assess broader spillovers effects.</p><p xml:id="_kUUr3xS">During the beneficiary selection process and baseline survey, one of the evaluation districts (Petauke) did not adhere to the assigned randomization and sampling frame. Because of this, we focus on the nine remaining evaluation districts, but show our results are robust to using the full sample in Appendix Table <ref type="table" target="#tab_0">B1</ref>. 8</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2" xml:id="_vkbeVwj">Data Collection</head><p xml:id="_HEtJZJg">Our analysis draws on five main data sources: three rounds of in-person household surveys and two rounds of phone surveys-one focusing on a study sub-sample and another targeting a subset of trainers. The baseline survey, conducted from November 2018 to January 2019, collected data on socio-demographic characteristics and a wide range of outcomes, including consumption, income-generating activities, labor supply, and empowerment. The first follow-up survey took place between February and August 2021, an average of one year after the end of all interventions and 16-18 months after the grant disbursement. The second follow-up survey was conducted from May-August 2023, slightly over three years after the end of all interventions. Attrition was low at both follow-ups, with 92 percent of sample members successfully tracked and interviewed, and no differential attrition across any of the evaluation arms. <ref type="bibr">9</ref> We supplemented our main surveys with phone-survey data collected from a sub-sample of study participants, conducted after the training but before the grant disbursement, focusing on skills covered during the training. Additionally, in April 2022, we conducted a phone-based survey of the life and business-skills training community-based volunteer facilitators to better understand their qualifications and experiences.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3" xml:id="_jvNQRBj">Baseline Characteristics</head><p xml:id="_P4FB2aK">Table <ref type="table" target="#tab_0">1</ref> details the baseline characteristics of the 5,046 women in our sample-4,101 in the control and various treatment groups, and 945 in the eligible-spillover sample-showing broad balance across the evaluation arms. <ref type="bibr">10</ref> On average, women selected for the program were 34 years old and lived in households with 4.5 other individuals. While over 80% of the women had attended school, they averaged fewer than 5 years <ref type="bibr">7</ref> First, communities conducted a participatory wealth ranking to identify extremely poor households with economically-active women. The project specifically targeted rural women aged 19-64 years old who had been living in the community for at least 6 months and were living with at least one minor, but who were not participating in the Social Cash Transfer (SCT) program which targeted labor-constrained households at the time. Second, the project validated the households selected, verified their eligibility, and confirmed interest in the program. Third, in 93% of communities, the number of eligible women exceeded program capacity and the program conducted public beneficiary-selection lotteries. <ref type="bibr">8</ref> The randomization was stratified at the sub-district level so the results for the restricted sample are internally valid. <ref type="bibr">9</ref> Regressions testing for differential attrition across treatment arms are reported in Appendix Table <ref type="table" target="#tab_1">B2</ref>. We only administered the full survey to the ineligible spillover sample described in the prior section at endline. <ref type="bibr">10</ref> While most covariates are balanced across the evaluation arms, Appendix Table <ref type="table" target="#tab_2">B3</ref> shows the robustness of our results to using lasso to select a set of baseline covariates that predict treatment status after controlling for the strata fixed effects. We added the ineligible spillover sample at endline, drawing from the administrative participatory wealth ranking data. of education. Consumption among the sample was low, averaging ZMW 1663 annually (∼ $140 US at the time of the baseline), placing 88% of the sample below the 2015 national poverty line. Respondents also faced food insecurity, with 40% reporting that they borrowed food within the previous week. 60% of sample women reported working on household agricultural tasks in the previous week, more than double the share that worked for others (26%), while only about 15% reported self employment. Household business profits of almost ZMW 1400 accounted for about two-thirds of total household income, followed by agricultural sales and labor income of about ZMW 400 and ZMW 300, respectively. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4" xml:id="_K5nZUpU">Compliance with Treatment</head><p xml:id="_AYykZts">As shown in Appendix Table <ref type="table" target="#tab_3">B4</ref>, overall project take-up was high and consistent with the randomly assigned implementation bundles.<ref type="foot" target="#foot_3">foot_3</ref> Administrative implementation data indicate that over 90% of women across the evaluation arms received a cell phone-the control condition-and 90% of assigned women in the full package and financial capital villages received the grant. Self-reported participation in the training was also robust: around 70% of women assigned to the training reported attended at least one day, with intended participants reporting an average of 12-14 training sessions (out of 21).</p><p xml:id="_97sJ8fd">3 Direct Impacts</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1" xml:id="_C4kcsw8">Estimation Strategy</head><p xml:id="_v3DFpqt">In this section, we report intent-to-treat (ITT) estimates of each program bundle. Specifically, as treatment assignment was random within strata, the impacts of each treatment on a given outcome Y i,t can be measured using the ANCOVA regression specification:</p><formula xml:id="formula_0">Y i,t = α + β FP × FP i + β FC × FC i + β HC × HC i + β CS × CS i + γ i ×Y i,t 0 + δ stratum + ε i,t</formula><p xml:id="_R8JWXcb">where y i,t represents outcome y for household i at follow-up t, FP i , FC i , and HC i are indicators equal to 1 if individual i lived in a community assigned to receive the full package, the financial capital bundle, and the human capital bundle, respectively, CS i is an indicator variable equal to 1 if individual i's community was assigned to receive consumption support payments, Y i,t 0 is the baseline value of outcome y for individual i, and δ stratum is a series of strata fixed effects. <ref type="bibr">12</ref> We cluster standard errors at the community level.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2" xml:id="_NeBX3D8">Results of Full Package at 1 and 3 Years</head><p xml:id="_5uBr5U9">We find that the full package achieved sustained poverty alleviation, with positive and significant effects on a range of economic outcomes that persist for at least 3 years post intervention. <ref type="bibr">13</ref> Table 2, Panel A presents 12-month impacts on our key aggregate outcomes measures. Under the full package (column 3), consumption per adult equivalent increased by 0.24 standard deviations, and household income increased by 0.17 standard deviations-equivalent to 1530 ZMW or 61% of the value of the grant). The full package also increased food security (0.43 s.d.), assets (0.33 s.d.), savings (0.66 s.d.), and psychological well-being (0.33 s.d.). Panel B presents equivalent results from the 3-year follow-up, showing that impacts on consumption grew to 0.44 standard deviations and aggregate income to 0.29 standard deviations. Positive impacts on food security (0.30 s.d.) and savings (0.47 s.d.) persist though decrease in magnitude slightly, while assets (0.39 s.d.) and psychological well-being (0.30 s.d.) remained largely the same. Figure 2, Panel A illustrates how full package impacts shift over time.</p><p xml:id="_Kv6XRjd">These results demonstrate that a "graduation"-style intervention can achieve substantial, sustained effects when scaled by a developing country government. They also indicate that a streamlined package-with no ongoing consumption support, a shorter mentoring period, and a cash grant instead of a specific livestock transfer-can be effective. Strikingly, the impact on consumption is twice as large as that observed in the initial NGO-led graduation pilots (Banerjee et al., 2015) and is comparable to the NGO-led productive inclusion interventions layered on top of government safety nets in Niger (Bossuroy et al., 2022). These results represent an important assurance that the graduation model can be effectively streamlined and thus something that developing country governments can scale independently without loss of impact. We return to this argument further in Section 5, where we discuss the cost effectiveness of the interventions.</p><p xml:id="_kQZPKbN">Moreover, the effects on consumption not only persist but grow over time. Treated households maintain significantly higher consumption levels even after the grant would have been exhausted, suggesting that the sustained income boost has led to a lasting shift in their ability to support themselves. These findings align with those of the best-performing graduation pilots, where the impact on consumption continued to rise 7 and 10 years after the initial asset transfer (Bandiera et al., 2017; Banerjee et al., 2016; Banerjee, Duflo and   Sharma, 2021). The fact that the impacts on income and consumption are even larger at the three-year mark suggests that these gains are likely to endure, a key consideration for the cost-benefit analysis in Section 5.</p><p xml:id="_jxCPEGe">This contrasts with the literature on direct cash transfers to recipients in low-and middle-income countries.</p><p xml:id="_PYgX8qf">While the short-term effects of the full SWL package are similar to those of no-strings-attached transfers (Blattman et al., 2016; Banerjee et al., 2023), its impacts appear to be more sustained over time. Studies focused solely on financial capital often show that gains in consumption and earnings tend to fade within two to four years (Haushofer and Shapiro, 2018; Blattman, Fiala and Martinez, 2020), as discussed in the next section.  Panel B: 12-month impacts Panel C: 38-month impacts control group. This suggests that the beneficiary population may have faced significant financial capital constraints, making human capital alone insufficient to boost their income, or that the training itself was mis-targeted or inadequate. We discuss both these possibilities in Section 3.5.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3" xml:id="_SaArhBJ">Comparison to Unbundled Treatment Arms</head><p xml:id="_d78gtYE">The full package distinguishes itself from the financial capital arm at the 3-year mark, suggesting some longer-term benefits of the human capital interventions. After 3 years, the substantial positive impacts of the financial capital bundle remain, but there are indications that the full package performed better. The point estimates across the main indices are consistently higher for the full package than for the financial capital arm, though the difference in treatment effects is only significant at the 10% level for total consumption and at the 5% level for psychological well-being. Additionally, Appendix Table <ref type="table" target="#tab_5">B6</ref> presents a saturated pooled regression that tests for changes over time, showing that the full package's impact on consumption grew from midline to endline, while the financial capital impacts remained constant. We explore the possibility that the training enhanced beneficiaries' ability to manage business risks, which might explain the higher savings and lower income at the one-year mark for full-package recipients, as well as the greater consumption effects observed at the three-year mark, in Section 3.5.</p><p xml:id="_se9c9fg">The results suggest that the significant impacts of the full package were primarily driven by the grant transfer rather than the program's human capital components, although the full package contributed to greater longevity of effects.</p><p xml:id="_Jxn9X73">Notably, even if slightly less long-lasting than the full package, the sustained impacts of the financial capital only arm differ from direct cash transfers. While similar interventions providing lump-sum payments roughly equivalent to the total cost of the SWL package<ref type="foot" target="#foot_6">foot_6</ref> showed comparable short-term gains in IGA participation and monthly earnings (Blattman, Fiala and Martinez, 2014; Haushofer and Shapiro, 2016; Banerjee et al., 2023), these effects often dissipated after a few years (Haushofer and Shapiro, 2018; Blattman,   Fiala and Martinez, 2020). This underscores the potential role of labeling-unlike the 'no strings attached' transfers, SWL framed its grants as 'productive', emphasizing their intended use for investment in IGAs, though our study was not designed to test this explicitly. Moreover, the even stronger long term impacts of the full package suggest that complementary interventions, such as business training, may be helpful for sustaining impacts, particularly for women (De Mel, McKenzie and Woodruff, 2012).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.4" xml:id="_GXZqxac">Disaggregating Outcomes</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.4.1" xml:id="_WGvt5ZS">Consumption and food security</head><p xml:id="_dstKNkP">Table <ref type="table" target="#tab_2">3</ref>, Panel A presents the 12-month and 38-month impact estimates on aggregate consumption, highlighting widespread gains for the full and financial capital bundles. Indeed, the results are significant across all of the sub-components: the full package and financial capital bundle increased short-term food consumption by 17% and non-food consumption by 33%. Over the longer-term, the full package impacts on food consumption and non-food consumption grew to 35% and 52%, respectively, while the financial capital bundle impacts remained relatively stable at 24% and 26%. These large, positive impacts on consumption yield correspondingly large decreases in poverty rates. At 38 months, the full package decreased the share of households living in extreme poverty and moderate poverty by 30% and 20%, respectively, while the financial capital arm decreased both rates by about 15%. In line with the increased consumption, we find significant increases in food security. Table <ref type="table" target="#tab_2">3</ref>, Panel B shows that after one year, the full and financial capital bundles decreased the number of months that households had insufficient food by about 40%, increased the number of meals the prior day by about 10%, and decreased the likelihood that households skipped meals or borrowed food in the last week by about a third. These positive impacts on food security persist through 38 months.</p><p xml:id="_DK3A8Va">Table <ref type="table" target="#tab_3">4</ref> shows that 12 months after the program, households report large increases across a range of household assets: overall cash savings increased by about 180% for the full package and 165% for the financial capital bundle, with mixed but relatively small impacts on borrowing. Both household domestic assets and livestock also increased, by 0.33 and 0.11 standard deviations, respectively, with the value of household assets increasing by about 20-24%. The savings, borrowing, and household asset impacts persist at the 3-year follow-up, with one notable difference: the marginally significant livestock holdings impacts observed at midline grew significantly by endline, with the value of livestock increasing by 50% for the full package (0.15 s.d.) and 80% for the financial capital arm (0.24 s.d.). These persistent asset accumulation impacts suggest that full package and financial capital bundle recipients were able to sustainably increase consumption without consuming savings. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.4.2" xml:id="_8EbACvh">Income generating activities</head><p xml:id="_FtHURzT">Table <ref type="table" target="#tab_4">5</ref> explores changes in occupational choice and earnings, revealing that long-term gains in consumption and food security stemmed from increased household income among grant recipients. In the short term, both the full package and financial capital bundle reduced the likelihood of women engaging in petty wage labor (ganyu) by about 8 percentage points and increased the likelihood of self-employment work by almost the same amount (7 percentage points), without affecting work for other household businesses or agricultural work. Consistent with the rise in self-employment, these bundles increased the likelihood of operating a household business by about 22 percentage points, a 43% increase over the control group.</p><p xml:id="_z8hGj7G">While there was no shift in agricultural labor overall, households shifted towards more market-oriented agricultural activities, with a 20 percentage point rise in crop sales-a 50% increase over the control group.</p><p xml:id="_rS39SXQ">Both treatments also boosted participation in livestock value chains, with a 23 percentage point increase in livestock ownership and a 10 percentage point increase in livestock sales. The 38-month impacts provide some insight into why consumption outcomes diverged between the full package and financial capital arm.</p><p xml:id="_ch5Cwa7">While both treatment arms maintained impacts on self-employment, household business ownership impacts waned for the financial capital arm recipients; The 12-and 38-month point estimates indicate that over 40% of the households induced into entrepreneurship by the financial capital arm shuttered their entrepreneurial activities between midline and endline, while impacts fully persisted for the full package arm.</p><p xml:id="_BURmscJ">The changes in occupation in the full package and financial capital arms are associated with large downstream increases in earnings. Table <ref type="table" target="#tab_4">5</ref>, Panel B shows that, after one year, aggregate household income increased by 28% for the full package and 56% for the financial capital bundle, both driven by large increases in unconditional household business profits (full package 45%, financial capital 75%) and agricultural income (full package 79%, financial capital 117%), which more than offset the drop in wage labor earnings (full package 43%, financial capital 30%). These income impacts persist in the longer-term: after 38 months, aggregate household income increased by 62% for the full package and 45% for the financial capital bundle, again driven by large increases in household business profits (full package 80%, financial capital 55%) and agricultural income (full package 126%, financial capital 113%). While we are unable to reject that each treatment had equivalent midline and endline income impacts, the relative magnitude of the impacts shifts, with statistically-significant larger impacts from the financial capital bundle at midline and larger-though not statistically significant-impacts from the full package at endline.</p><p xml:id="_HpCdrNm">Our occupation and income results reveal several key insights. While the significant short-term drop in petty wage labor would initially suggest an income effect, this decline is almost entirely offset by an increase in household business activities, increasing income overall. This indicates a preference for selfemployment-previously constrained by limited access to credit-in a context where wage employment is not only poorly paid but also carries a social stigma.</p><p xml:id="_b2sGw7z">Beneficiaries, selected based on their poverty status, were not required to have an inherent inclination toward entrepreneurship, as typically targeted by microfinance programs. Rather, they display a more pragmatic 'subsistence entrepreneurship' driven by limited economic opportunities (Schoar, 2010; McKenzie   et al., 2023). Nonetheless, the treated individuals demonstrated the ability to develop productive, incomegenerating activities that improved their living standards. However, while these improvements were possible under a grant program, they may not have been possible through microfinance or micro-entrepreneurship development programs. We discuss the differing characteristics of these programs and the implications for entrepreneur investments in Section 3.5, below.  Sustained, long-term increases in income appear possible with grant transfers alone. At the same time, the full package may have offered additional benefits in income persistence. While income differences between the two treatment arms are rarely statistically significant, their trajectories reveal a striking contrast: at 12 months, the income impact of the full package was just half that of the financial capital arm. Yet, by 38 months, the full package had surged ahead, with an impact estimate nearly 40% higher. This shift is driven by larger gains in the two highest-earning activities-business profits and crop sales-both of which saw a higher rate of exit among the financial capital arm. Specifically, the impact on selling any crops fell by about a third, and the likelihood of maintaining a household business dropped by half, although only the latter was significantly different from the full package. We explore several possible reasons for the higher closure rate of financial capital businesses below, including business sector, time use, and the business skills provided through training.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.4.3" xml:id="_EVBmEj3">Psychological well-being</head><p xml:id="_G2sF7BS">Finally, Table <ref type="table" target="#tab_5">6</ref> shows substantial, sustained improvements in respondents' happiness, self-esteem, as well as longer-term household decision-making. Women in the full package and financial capital bundles report about a third of a point higher perceived happiness on a four-point Likert-style question while also reporting higher self-esteem. The positive impacts observed for the full package largely persist in the longer term while the impacts of the financial capital bundle wane somewhat. Notably, while neither of the treatment arms had a significant impact on decision-making power in the short-term, the estimated impacts are positive and significant for both of the treatments in the longer-term.<ref type="foot" target="#foot_7">foot_7</ref>  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.5" xml:id="_YMqt9QD">Mechanisms</head><p xml:id="_AuATSmx">The strong impacts of the full package and financial capital arm suggest that a streamlined package of support can achieve impacts at scale, and that recipients were able to make use of these grants to yield sustained consumption and income increases. After 3 years, we see some evidence that the full package starts to outperform the financial capital arm, despite the limited impacts from the human capital bundle alone. Our results raise two key questions: What accounts for the particularly large impacts from the full package and financial capital arms, especially when compared with cash transfers and microfinance interventions that also ease binding credit constraints? And why did the human capital arm not yield any measurable impacts?</p><p xml:id="_fg7ddhE">There are several potential explanations for why the full package and financial capital bundles yield larger impacts than either microfinance programs (e.g., Meager, 2019) or cash grants (e.g., Blattman, Fiala and   Martinez, 2014; Haushofer and Shapiro, 2016; Banerjee et al., 2023), which also aim to improve access to capital and help recipients grow their livelihoods. Most prominently, microfinance loans typically include market interest rates with minimal grace periods and short loan tenure, which are likely to limit prospective entrepreneurs to relatively quick return investments. At the time of the study, formal-sector entrepreneurfocused loans in Zambia had no grace period, collateral rates at or near 100%, interest rates of 20-35%, and loan tenures of 12-36 months. In contrast, grants do not require repayment, allowing recipients to make longer, less liquid investments. Avoiding the early loan repayments may have been particularly important here as a loan on the value of the cash grant would have necessitated repayments of almost $120 in the first year, or about 142% of the full package household income impacts. If households had to repay the loan (as in microfinance programs), it may have entailed either disinvestment from their business-with longer-term performance implications-or expenditure reductions within already low-consumption households. This does not rule-out more market-based solutions: As discussed in Section 5 below, the full package has an internal rate of return of 26%-45% under reasonable assumptions, suggesting that the full package could be profitable even at market interest rates under slightly longer loan periods.</p><p xml:id="_wEGvD3a">While the full package and financial capital differ in the inclusion of savings groups, targeting, and labeling relative to studies of lump-sum universal cash grants (Haushofer and Shapiro, 2016; Egger et al., 2022;   Banerjee et al., 2023), we find no evidence of heterogeneous impacts by savings group participation (Appendix Table <ref type="table">B9</ref>). Thus, we believe two potential explanations for the larger impacts should be tested in future research. First, the framing of these transfers as productive grants specifically intended for business investment. Second, the targeting to beneficiaries capable of initiating income generating activities, rather than just those with greatest consumption needs, in line with Haushofer et al. (forthcoming).</p><p xml:id="_gPBS4fD">Next, we explore possible reasons for the small impacts of the human capital components on their own, but complementary effects when paired with financial capital. Of note is that the implementation challenges described below were exactly part of what the study was designed to test-what would happen when a graduation program was implemented by a capacity-constrained government, rather than an experienced NGO? It is notable that sustained impacts were acheived despite these clear shortcomings relative to NGO programs.</p><p xml:id="_g4DM3en">Our results suggest that the training made some small improvements in business skills, which were not sufficient on their own to enhance welfare outcomes but did help participants sustain their new businesses.</p><p xml:id="_qPtfSd3">Specifically, we find that: (1) the at-scale implementation by government relied on facilitators who were poorly positioned to deliver a high-quality training, resulting in impacts on only a handful of business skills-most notably risk mitigation; (2) even improving only a small set of business skills may have helped grant recipients sustain and grow their businesses; but (3) in the absence of a grant, these improved business skills alone were not sufficient to help women improve outcomes. <ref type="bibr">16</ref> Our results also point to specific implementation challenges with a broad-scale, government-implemented training. First, to deliver the training affordably at this scale required required a three-tier cascade training approach with community-based volunteers delivering the end training. <ref type="bibr">17</ref> A survey of 140 of these community-based volunteers in the study regions found that only 53% were able to read a simple sentence without mistakes and only 42% had any teaching experience prior to the program. Further, the survey data indicate that the trainers were generally conducting similar pre-program economic activities as the program participants themselves-with over 70% of the trainers selling home-grown crops, self-caught fish, or livestock as their main income generating activity-suggesting that they had limited experience implementing the entrepreneurial skills they were tasked with teaching. Compounding their limited experience was the training-of-trainers training duration which, at 5 working days, was almost equal in duration to the 21 ninetyminute training sessions delivered to beneficiaries; The short training suggests that the training may not have gone beyond simple content review for the downstream trainers. Trainers could have defaulted to focusing more on agriculture, which they were more familiar with, and not have had the nuanced understanding to set participants on a profitable off-farm business path. <ref type="bibr">18</ref> Despite concerns about the quality of the trainers, Appendix Tables <ref type="table" target="#tab_0">B10-B11</ref> show suggestive evidence that the training affected several key business operation domains. Appendix Table <ref type="table" target="#tab_0">B10</ref> uses data from phone surveys conducted after the training and before the grant disbursement, finding that the training improved participants' risk mitigation skills and may have prevented negative impacts on the consideration of customer needs and competition exhibited by the financial capital only arm. Obviously, the limited significant results among several outcomes mean these results should be interpreted with caution.</p><p xml:id="_bpzRAVz">The downstream business skills impacts from the training for full package recipients bear out across a series of vignettes and business operations questions fielded at the 3-year follow-up. Relative to financial capital bundle participants, full package participants are more than twice as likely to keep business records, more likely to assess sector-and customer-specific knowledge when considering a business, and think it is more important to draft a business plan before starting a business. These improved business skills and risk identification/mitigation may be driving the differential household business impacts observed in Table <ref type="table" target="#tab_4">5</ref> where-in contrast with the persistent impacts from the full package arm-the financial capital arm is not able to sustain the over 20-percentage-point increase in household business ownership observed at midline, with impacts falling by almost half. <ref type="bibr">19</ref> Finally, when assessing the lack of impacts from the human capital arm, it is important to note that the human capital bundle studied here was not layered on regular cash transfers: even a well-implemented training may not be sufficient to spur economic activities if participants also face binding credit or liquidity constraints. Indeed, women in our sample report very little borrowing while also demonstrating returns to capital significantly exceeding market rates. Thus, our results should not be interpreted as implying anything about potential training efficacy in other contexts.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.6" xml:id="_MkBGNVd">Treatment Effect Heterogeneity</head><p xml:id="_4brfSQE">We now examine treatment throughout the outcome distributions, following Banerjee et al. (2015). <ref type="bibr">20</ref> Fig- CDFs for the full package and control groups. Notably, the figures show clear rightward shifts across the entire consumption and income distributions-meaning that the full package increased the likelihood that household consumption was at or above any given consumption or income level. While consumption of the grants could have caused a similar short-term shift, the longer-term shift-after households likely would have exhausted the underlying grant capital-suggests that a broad set of recipient household were able to sustainably capitalize on the grant to increase consumption, decreasing the probability of low consumption and increasing the probability of both moderate and relatively high household consumption. The similar, broad-based rightward shift in the income distribution suggests that recipient households were able to identify and follow through on productive investment opportunities, consistent with the productive-use framing of the grant. Further, the shift across the full distribution shows that it did not only provide subsistence income opportunities, which would have entailed moving a mass of participants from no income to low incomes, but also increased the likelihood of relatively higher incomes, consistent with households shifting towards more profitable activities-from no income to crop sales, livestock sales, and starting businesses.</p><p xml:id="_pwgtM32">Table <ref type="table" target="#tab_6">7</ref> formalizes this analysis using quantile regressions: We find similar distribution-wide impacts at 12 and 38 months, with consumption, assets, and psychological well-being improved throughout their distributions, and aggregate income improved at all tested quantiles except at the 90th percentile regression at the 12 month follow-up. These sustained and broad-based impacts indicate that full package recipients were able to productively leverage the program activities to grow their incomes, boost assets, and increase consumption, with limited evidence that women directly consumed the grant or pursued short-term, unsustainable income generating activities. Notably, for both consumption and income, we observe that the impacts of the full package become more pronounced as we move along the distribution, indicating that the intervention not only shifted the distribution to the right but also increased its positive skew. Additionally, for both consumption and income, impacts are also larger at all quantiles after 38 months than 12 months, with the estimates suggesting that the full package had consistent impacts on low consumption and income but that the program had a catalyzing impact for the upper half of the distribution, with impacts growing significantly over time and with the largest impacts at the top-end of the distributions. In contrast with the broad-based impacts on consumption, income, and assets, food security impacts were concentrated at and below the distribution median, while savings impacts occurred at and above the median of the distribution. Together, our results are consistent with particularly food-insecure women leveraging the broad-based income impacts to boost food security while less-vulnerable women with some household savings were able to increase savings.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.7" xml:id="_REW8dxU">Impact of Consumption Support Arm</head><p xml:id="_ebrW4s9">Appendix Table <ref type="table" target="#tab_4">B5</ref> presents results for the additional consumption support treatment arm, which received three payments of ZMW 180, totaling 22% of the asset transfer. Most impacts are not significantly different from those of the full package. However, somewhat surprisingly, the consumption support arm shows significantly lower impacts on food security and savings at midline. At endline, this arm also has significantly lower assets and psychological well-being than the full package without consumption support, with all other point estimates trending lower.</p><p xml:id="_Jf9Hv4P">This consumption support differed from typical graduation programs, as it involved only three small transfers rather than ongoing support over a year or more. This approach reflected the Zambian government's intention to distinguish between social cash transfer recipients, who required long-term support due to limited household labor, and graduation-eligible recipients, who had available household labor. As shorter cash transfer periods have not been previously tested, we avoid over-speculation about the reasons for the diminished impact. However, one possibility is that recipients may have incorrectly assumed they would receive additional transfers, leading them to spend their grant money on consumption rather than investment, thus reducing its impact.</p><p xml:id="_wbtbZ3G">While these results are not dispositive on their own, we mention them here because the spillover sample was drawn from the full package plus consumption support arm, as it was selected to resemble a traditional Panel B: Income Note: Sample comprises 3,782 women for all 12-month regressions and 3,748 women for all 38-month regressions. All regressions include (absorbed) strata dummies in addition to a control for the additional consumption support in half the full package communities. Baseline lagged controls are included for all indicators, with the exception of the asset index for which comparable baseline data was not available. Standard errors are clustered at the community level. graduation program. Therefore, due to the somewhat lower impacts observed in this arm, any spillover effects should be treated as a lower bound.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4" xml:id="_pXebZZt">Spillover and General Equilibrium Impacts</head><p xml:id="_asPhH4a">In this section, we present the spillover impacts on both eligible village residents who were not selected to receive the program and ineligible residents. It is important to verify that the positive effects on SWL recipients are not canceled out by negative general equilibrium effects when such programs are implemented at scale. Theoretically, there could be a range of spillover impacts on several economic sectors including the labor market, business profits, and prices, with potentially positive or negative impacts on non-treated individuals. In the labor market, the reduced time treatment women spent working for others may yield a higher equilibrium wage, shifting the labor supply of non-recipient households. Similarly, if recipients use the grant to hire labor, it may increase aggregate labor demand and increase wages and income for nonrecipient households. There are also a range of potential impacts on non-beneficiary households' business profits: profits may decrease if grant recipients open competing firms. On the other hand, profits may increase if grant recipients spend their funds at existing village businesses or agglomeration draws new customers to the village. Finally, the grants and increased incomes may lead households to shift their consumption patterns, increasing village-level demand for inputs or food products, potentially resulting in price shifts for both more-and less-demanded items.</p><p xml:id="_q4u9CEh">Our empirical approach uses the random selection of individuals to receive the program within treatment communities, comparing outcomes among eligible women not selected to receive the program to eligible women in the control group. <ref type="bibr">21</ref> These spillover impacts on a given outcome Y i,t 1 can be measured among the control group and spillover women using the following ANCOVA regression specification:</p><formula xml:id="formula_1">Y i,t 1 = α + β FP × FP i + γ i ×Y i,t 0 + δ stratum + ε i,t</formula><p xml:id="_uJaEMpk">where y i,t 1 represents outcome y for household i at follow-up, FP i is an indicator variables equal to 1 if individual i lived in a community assigned to receive the full package but where individual i was not assigned to receive the bundle, Y i,t 0 is the baseline value of outcome y for individual i, and δ stratum is a series of strata fixed effects. We cluster standard errors at the community level.</p><p xml:id="_AbVxRvF">In addition to measuring spillover impacts on eligible women not selected to receive the program, we also examine spillovers on ineligible households by comparing ineligible households in full package communities with ineligible household in control communities. Ineligible households are less vulnerable and impacts among this sample may be more indicative of the broader general equilibrium effects than the impacts on eligible but not selected households. This analysis uses the same specification as above but with the sample restricted to ineligible households.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.1" xml:id="_HXGHPcK">Results</head><p xml:id="_9TAS9ZZ">Figure <ref type="figure" target="#fig_6">4</ref> summarizes our spillover estimates, showing no evidence of aggregate consumption, food security, assets, savings, or household income spillover effects on eligible but not selected women or ineligible women in full package communities, though standard errors are large and we are unable to rule out relatively large impacts. <ref type="bibr">22</ref> Further, we see no evidence that the negative paid work impacts for full package recipients led to improved labor market participation or outcomes for non-recipients (Appendix Table <ref type="table" target="#tab_5">B16</ref>). As cash transfers can shift demand across food types (Filmer et al., 2023), Appendix Table <ref type="table" target="#tab_7">B18</ref> uses household-reported estimated prices for a range of commodity food products to examine the impacts of the different treatments on community prices. While there is scattered evidence of price changes (some positive and some negative), the results do not indicate a consistent pattern, and there is no indication of consumption shifts in treated relative to spillover households.</p><p xml:id="_cpt2gVr">Overall, our results confirm that the positive economic effects on program beneficiaries were not offset by negative effects on non-beneficiaries, which provides promising evidence that such a targeted grant program could be used for poverty alleviation at scale.</p><p xml:id="_3y8sbMq">One exception is psychological well-being. As shown in Figure <ref type="figure" target="#fig_6">4</ref> and Appendix Table <ref type="table" target="#tab_6">B17</ref>, we find fairly pronounced negative spillover impacts on eligible women not selected to receive the program in the short term. However, by 38 months, these effects have evaporated. We see two main explanations for the shortterm spillovers: women may feel worse after losing the within-village lotteries for selection into the program, or they may suffer a relative-income penalty, feeling worse when comparing their consumption and incomes to their now better-off village peers (Clark, Frijters and Shields, 2008; McBride, 2001; Perez-Truglia, 2020). However, the fact that these spillover impacts do not persist at 38 months, despite these women continuing to be economically worse off than their peers, suggests that the negative effects stem primarily from losing the lottery or short-term salience in income differences. Together, these results suggest that program planners may want to consider what can be done to mitigate disappointment for individuals not selected to participate in a program.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5" xml:id="_bcsu5A8">Cost effectiveness of treatment arms</head><p xml:id="_rS8RcsC">We complement our impact estimates with cost-effectiveness comparisons of the multiple treatment arms within the unified study design, showing that both the full package and financial capital bundles are cost effective after 38 months, even when assuming no future impacts.</p><p xml:id="_ZmUarJD">Table <ref type="table" target="#tab_7">8</ref> presents the program costs, economic benefits, and estimated returns. Panel A presents costing details, broken down by package component and administrative costs. The total unit cost for the full package was $384 (or $1049 PPP). This is significantly less than those examined in India, Pakistan, and Afghanistan and slightly larger than the bundled intervention studied in Niger. <ref type="bibr">23</ref> The financial capital only package cost $305 per beneficiary and the human capital only package cost $103. The grant (and associated administrative/transfer costs) represent almost 70% of the cost of the full package and over 87% of the cost of the financial capital bundle.</p><p xml:id="_7DaQxz5">Panel B summarizes the consumption gains attributable to the program, deflated to the beginning of the program. We focus on consumption in these calculations though, given the observed impacts on assets, savings, and any non-monetary social returns, the estimates are likely to be conservative. We model different assumptions for forward-looking consumption impacts, including annual dissipation rates of 100%, 50%, 25%, 15% and that year 3 gains persist in perpetuity. This information allows us to calculate the cost-benefit ratio and the internal rate of return (IRR) under the above assumptions.</p><p xml:id="_dea7vX3">Panel C presents the benefit/cost ratios and associated IRRs, showing that the program is cost-effective even when assuming no future benefits. The 3-year benefit-to-cost ratios for the full package and financial capital only arms are 133% and 123%, respectively. <ref type="bibr">24</ref> Assuming 15% dissipation, the two bundles have benefit-tocost ratios of 354% and 291%, respectively. If year 3 gains persist in perpetuity, the benefit-to-cost ratios (line 11) are 1098% and 879%, respectively, which is on the upper end relative to comparable studies. <ref type="bibr">25</ref> Similarly, the IRR is comparable for the full package and financial capital arms: Both treatment arms yield positive and high IRRs of 45% and 41%, respectively, when assuming persistent impacts.</p><p xml:id="_sqaWTdV">These estimates offer two important insights. First, 'graduation' approach programs are smart investments for poverty reduction. SWL was not only a one-off expense-unlike ongoing support provided through a regular cash transfer program-but also one that quickly generated returns. By striking the right balance between relatively low costs, thanks to the streamlined package, and significant impacts on consumption, the intervention achieved an IRR considerably higher than similar studies (Banerjee et al., 2015) and comparable to the highly cost-effective psychosocial arm in Niger (Bossuroy et al., 2022). Second, the intervention's cost-effectiveness is likely to improve over time. While the dissipation scenarios are useful for benchmarking the impacts to date and assessing potential future trajectories, it is important to highlight that the estimated impacts of the full package increased from 12 to 38 months. Meanwhile, the financial capital bundle impacts declined by only about 3 percent per year. This suggests that the large dissipation scenarios are overly conservative. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="6" xml:id="_rgJ9EgU">Conclusion and Discussion</head><p xml:id="_3FQjsxd">This paper explores the scalability and persistence of graduation-style interventions when implemented nationwide by developing-country governments. It also compares the impacts of a full, bundled package of support to those of its individual components. The implementation studied here was performed by the government as part of a nationwide roll-out, with the evaluation layered on top, offering a clearer picture of potential impacts where governments face constraints in implementing components that require significant capacity, such as a large cadre of facilitators for the skills training.</p><p xml:id="_vfzRzdQ">We find that the multifaceted intervention-evaluated within a program with over 75,000 beneficiaries-yielded large and sustained impacts across a wide range of welfare outcomes, including increases in consumption, food security, assets, household income, and psychological well-being. This suggests that scale-up of more "boutique" graduation-style programs is possible, and that government implementation can still yield large impacts. These effects were sustained and even increased more than 3 years after program implementation, suggesting a permanent improvement in livelihoods for beneficiaries, and constrasting with more rapidly fading effects for UBI-style cash grant programs.</p><p xml:id="_KCZN7Xm">When we examine the different program packages, we find that the full package and financial capital bundle had similar impacts-with some evidence of larger longer-term impacts from the full package-while the human capital arm had limited stand-alone impacts. We find no negative economic spillovers on untreated households through price or labor market effects, but do find negative short-term psychological well-being spillovers on eligible but not selected women. These dissipate over time.</p><p xml:id="_m9VMfux">Our findings offer new insights into how governments can better optimize social protection schemes, suggesting an impactful middle-ground between two promising approaches to poverty alleviation approaches: full graduation programs and cash transfers. While both approaches have been demonstrated to effectively boost income and consumption in the short-term there is growing evidence that the graduation-style intervention impacts may yield more durable impacts that help people escape from poverty traps in the longerrun (e.g., Baird, McIntosh and Özler 2019; Brudevold-Newman et al. 2024; Kondylis and Loeser 2021;   Banerjee, Duflo and Sharma 2021; Bandiera et al. 2017; Balboni et al. 2022). As governments worldwide increasingly adopt this approach, policymakers are confronting the inherent trade-off between the scope of the interventions and the feasible scale of implementation, given technical and budget constraints. Our results provide support for a middle-ground approach, demonstrating that governments can effectively reduce poverty and economically empower beneficiaries by delivering either a streamlined graduation-style package of support or livelihoods-labeled cash transfers. The relative magnitudes of the two interventions highlights the value of the full package approach while the large, positive impacts from financial capital bundle represent a viable alternative, particularly in capacity-constrained contexts that may lack the ability to field large-scale, high-quality trainings.</p><p xml:id="_KfDpgb3">Our results raise the question of why the human capital arm had such limited impact, while other psychoso-cial interventions have been shown to be highly impactful and cost-effective. We see two main explanations.</p><p xml:id="_4SRMJQD">First, in contrast with other programs, the human capital arm was not layered on a monthly cash transfer program, potentially limiting participants' ability to capitalize on their training to start or expand economic activities spurred by the training. The second explanation centers on the delivery of the program across 1,340 program communities by the government, without NGO technical assistance or support. Specifically, the end trainers were community-based volunteer facilitators who had varying levels of literacy, received almost equivalent hours of training as what they were expected to deliver, were given only modest resources to support their work, and had little prior teaching experience. Further, phone survey data indicate that the trainers were conducting similar pre-program economic activities as the program participants, suggesting that they have had limited experience implementing the skills they were tasked with teaching. Thus, our findings do not negate that high impacts are possible when specialized NGOs help implement the training or when governments implement within a small context (Campos et al., 2017; Bossuroy et al., 2022). Rather, the results suggest that-if we are going to rely on human capital alone-further experimentation is needed on how to identify, train, and supervise qualified frontline providers for complex programs at scale.</p><p xml:id="_dHueZZH">In contrast, the large impacts yielded from the productive grant alone demonstrate that, when accompanied by clear labeling around their intended use, productive grants may be a useful substitute to more comprehensive bundles in settings without institutional capacity for wide-scale training. The government was able to perform a highly effective grant delivery, with around 90% of assigned participants receiving the grant, using a digital payments system that required minimal additional human resources and could be expanded easily across the country. Overall, our results demonstrate a promising avenue for capacity-constrained governments interested in poverty alleviation through a more streamlined program. However, while the over 3-year impacts and demonstrated cost-effectiveness from the full package and financial capital bundle arm are encouraging, future research should study their longer-term persistence, particularly in light of the differing impact trajectories over time between the two packages.</p><p xml:id="_wyeSshC">The training was delivered by community-based volunteers (CBVs) to groups of 20 to 30 beneficiaries.</p><p xml:id="_Tf85Tnw">CBVs were recruited from the community itself with the requirement to be literate. Preference was given to women, with men CBVs only hired in a small number of communities where no literate women were available. They were offered a set of incentives, including a daily allowance for the one-week training of trainers (around US$100), a modest monthly stipend for the six months of mentoring (around US$100), and equipment such as a bicycle, rain boots, etc. (around US$175). <ref type="bibr">27</ref> The CBVs were trained by ministry staff following a cascade model. First, there was a master training-of- </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_4bB5CKw">A2 Productive grant</head><p xml:id="_j2daJP5">Upon completion of the training, beneficiaries were asked to choose among five payment service providers, including mobile money operators, commercial banks, and the post office (Zoona, MTN, NatSave, Zampost, UBA), and enrolled in the payment system. <ref type="bibr">28</ref> They were provided with mobile phones and sim cards prior to enrollment so that the choice was based on accessibility, fees, and services.</p><p xml:id="_d73xtnR">The productive grant was disbursed in two installments of ZMW 1,250 (US $112.5), one month apart. In addition, beneficiaries were provided with transportation stipends of ZMW 50 (US $4.5) and transaction fee stipends of ZMW 50 (US $4.5) for each installment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_3wPs3JT">A3 Savings groups</head><p xml:id="_EdTgW7F">Beneficiary groups continued to meet with their CBVs once a week for six months to form savings groups.</p><p xml:id="_nfXG9U2">At the time of the impact evaluation, the ministry adopted a decentralized approach to savings group formation that leverage existing models in each district. While there was a strong emphasis on the importance of savings throughout program implementation, monitoring and standardization of the savings groups component was limited.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_MyX6x9x">A4 Mentoring</head><p xml:id="_xyGCbSn">Weekly savings group meetings were followed by group mentoring sessions with the CBVs. The CBVs were provided with 10 refresher lessons drawing on the life and business skills curriculum, covering topics such as customer relationships, communication, negotiation, and conflict resolution. The lessons were designed to last 25 minutes each and serve to reinforce key messages. Unlike the training curriculum, they were not expected to follow a strict order, but be selected with input from the beneficiaries at the beginning of each meeting. The mentoring sessions also served as a platform for beneficiaries to discuss progress and challenges with their businesses and to receive support and advice from peers and the CBVs.</p><p xml:id="_QTHC6DE">Table B1: Impacts: Aggregate measures (Full sample) (1) (2) (3) (4) (5) Control Full Financial Human p-value Obs. Mean, [s.d.] Package Capital Capital (3)=(4) Panel A: 12-month impacts Total consumption 5193 0.04 0.17 0.11 -0.08 [0.94] (0.05) (0.06) (0.05) [0.00] [0.06] [0.11] [0.29] Food security 5193 0.10 0.27 0.22 0.02 [0.94] (0.08) (0.07) (0.07) [0.00] [0.00] [0.79] [0.43] Assets 5193 0.00 0.27 0.25 -0.05 [1.01] (0.06) (0.06) (0.06) [0.00] [0.00] [0.39] [0.64] Savings 5193 -0.06 0.54 0.37 -0.01 [0.84] (0.09) (0.07) (0.07) [0.00] [0.00] [0.83] [0.07] Aggregate income 5193 -0.05 0.16 0.25 -0.10 [0.98] (0.06) (0.07) (0.06) [0.01] [0.00] [0.09] [0.18] Psyc. well-being 5193 -0.05 0.25 0.21 -0.05 [1.00] (0.06) (0.06) (0.06) [0.00] [0.00] [0.36] [0.42] Panel B: 38-month impacts Total consumption 5139 0.12 0.33 0.13 -0.07 [1.08] (0.08) (0.08) (0.07) [0.00] [0.09] [0.28] [0.01] Food security 5139 0.05 0.23 0.19 -0.06 [0.96] (0.06) (0.07) (0.07) [0.00] [0.01] [0.40] [0.52] Assets 5139 0.01 0.28 0.19 -0.11 [1.01] (0.07) (0.07) (0.07) [0.00] [0.01] [0.14] [0.19] Savings 5139 -0.01 0.35 0.27 0.07 [1.09] (0.08) (0.07) (0.08) [0.00] [0.00] [0.36] [0.34] Aggregate income 5139 -0.04 0.27 0.17 -0.04 [0.90] (0.06) (0.05) (0.05) [0.00] [0.00] [0.51] [0.07] Psyc. well-being 5139 -0.05 0.36 0.21 0.08 [1.01] (0.07) (0.07) (0.07) [0.00] [0.00] [0.27] [0.03] Note: p-values reported in square brackets. All outcomes are annual unless otherwise specified. Consumption outcomes are calculated per adult equivalent. ⋄ indicates variables winsorized at the 1% level. Livestock age not collected and all animals are assumed to be fully grown. All regressions include (absorbed) strata dummies and the baseline outcomes as controls, in addition to a control for the additional consumption support in half the full package communities. Standard errors are clustered at the community level.</p><p xml:id="_PMwg5cM">Table B2: Intent-to-treat estimates: Attrition (1) (2) (3) (4) (5) (6) Control Full Financial Human Cons. p-value of test of equality: Obs. Mean, [s.d.] Package Capital Capital Support (3)=(4) (3)=(5) (4)=(5) Completed midline 5046 0.92 -0.00 -0.01 -0.01 0.00 (0.02) (0.02) (0.01) (0.02) [0.92] [0.64] [0.59] [0.99] [0.72] [0.66] [0.98] Completed endline 5046 0.92 0.01 -0.01 -0.00 -0.01 (0.01) (0.01) (0.01) (0.01) [0.62] [0.49] [0.97] [0.65] [0.24] [0.62] [0.55] Note: p-values reported in square brackets. All outcomes are annual unless otherwise specified. Consumption outcomes are calculated per adult equivalent. ⋄ indicates variables winsorized at the 1% level. Livestock age not collected and all animals are assumed to be fully grown. All regressions include (absorbed) strata dummies and the baseline outcomes as controls, in addition to a control for the additional consumption support in half the full package communities. Standard errors are clustered at the community level.</p><p xml:id="_CXP4rBJ">Table B3: Impacts: Aggregate measures (w/ LASSO-selected covariates) (1) (2) (3) (4) (5) Control Full Financial Human p-value Obs. Mean, [s.d.] Package Capital Capital (3)=(4) Panel A: 12-month impacts Total consumption 3782 -0.00 0.23 0.22 -0.02 0.89 [1.00] (0.06) (0.07) (0.06) Food security 3782 0.00 0.43 0.38 0.12 0.37 [1.00] (0.08) (0.08) (0.09) Assets 3782 0.00 0.32 0.33 -0.00 0.89 [1.00] (0.06) (0.07) (0.07) Savings 3782 -0.00 0.65 0.51 -0.04 0.17 [1.00] (0.11) (0.09) (0.08) Aggregate income 3782 0.00 0.16 0.36 -0.11 0.01 [1.00] (0.06) (0.08) (0.07) Psyc. well-being 3782 0.00 0.33 0.32 -0.00 0.83 [1.00] (0.07) (0.06) (0.06) Panel B: 38-month impacts Total consumption 3748 -0.00 0.42 0.25 -0.00 0.09 [1.00] (0.10) (0.10) (0.09) Food security 3748 0.00 0.28 0.29 -0.02 0.93 [1.00] (0.07) (0.08) (0.07) Assets 3748 0.00 0.38 0.33 -0.04 0.51 [1.00] (0.08) (0.08) (0.07) Savings 3748 -0.00 0.45 0.31 0.11 0.16 [1.00] (0.09) (0.08) (0.10) Aggregate income 3748 0.00 0.28 0.21 -0.04 0.30 [1.00] (0.07) (0.07) (0.07) Psyc. well-being 3748 0.00 0.29 0.16 0.06 0.07 [1.00] (0.07) (0.08) (0.09) Note: Consumption outcomes are calculated per adult equivalent. Appendix C provides additional details on the construction of the key indices. All regressions include (absorbed) strata dummies and-when available-the baseline outcomes as controls, in addition to a control for the additional consumption support in half the full package communities. Standard errors are clustered at the community level.</p><p xml:id="_rjVFX8X">Table B5: Consumption Support Impacts: Aggregate measures (1) (2) (3) (4) Control Full Package p-value Obs. Mean, [s.d.] Only w/ CS (3)=(4) Panel A: 12-month impacts Total consumption 3782 -0.00 0.24 0.24 0.97 [1.00] (0.06) (0.07) Food security 3782 0.00 0.43 0.33 0.07 [1.00] (0.08) (0.08) Assets 3782 0.00 0.33 0.26 0.22 [1.00] (0.07) (0.07) Savings 3782 -0.00 0.66 0.43 0.04 [1.00] (0.11) (0.08) Aggregate income 3782 0.00 0.17 0.28 0.10 [1.00] (0.07) (0.07) Psyc. well-being 3782 0.00 0.33 0.30 0.63 [1.00] (0.06) (0.07) Panel B: 38-month impacts Total consumption 3748 -0.00 0.44 0.27 0.10 [1.00] (0.11) (0.11) Food security 3748 0.00 0.30 0.21 0.14 [1.00] (0.07) (0.07) Assets 3748 0.00 0.39 0.25 0.07 [1.00] (0.08) (0.08) Savings 3748 -0.00 0.47 0.35 0.31 [1.00] (0.09) (0.10) Aggregate income 3748 0.00 0.29 0.19 0.15 [1.00] (0.07) (0.07) Psyc. well-being 3748 0.00 0.30 0.17 0.09 [1.00] (0.07) (0.09) Note: p-values reported in square brackets. Consumption outcomes are calculated per adult equivalent. All regressions include (absorbed) strata dummies and-when available-the baseline outcomes as controls. Standard errors are clustered at the community level.</p><p xml:id="_PaUuuvD">Table B6: Long-Form Pooled Regression 12 months 38 months (1) (2) (3) (4) Full Financial Full Financial p-value p-value Package Capital Package Capital (1)=(3) (2)=(4) Total consumption 0.24 0.22 0.44 0.26 0.03 0.69 (0.06) (0.07) (0.11) (0.10) Food security 0.43 0.37 0.30 0.29 0.13 0.38 (0.08) (0.08) (0.07) (0.09) Assets 0.33 0.33 0.39 0.32 0.37 0.91 (0.07) (0.07) (0.08) (0.08) Savings 0.66 0.50 0.47 0.32 0.06 0.13 (0.12) (0.10) (0.09) (0.08) Aggregate income 0.17 0.35 0.29 0.21 0.17 0.16 (0.07) (0.08) (0.07) (0.07) Psyc. well-being 0.33 0.31 0.30 0.16 0.72 0.11 (0.06) (0.06) (0.07) (0.08) Note: Each regression includes 7,534 surveys, pooled across 12-month and 38-month surveys. ⋄ indicates variables winsorized at the 1% level. All regressions include (absorbed) survey and strata dummies, and the baseline outcomes as controls, in addition to a control for the additional consumption support in half the full package communities. Standard errors are clustered at the community level.</p><p xml:id="_48F7N8g">Table B7: 12-month impacts: Decision making (1) (2) (3) (4) (5) Control Full Financial Human p-value Obs. Mean, [s.d.] Package Capital Capital (3)=(4) DM: Daily HH expenses 3778 0.98 0.01 0.01 0.00 [0.16] (0.01) (0.01) (0.01) [0.31] [0.24] [0.56] [0.89] DM: Major HH purchases 3758 0.98 0.01 0.01 -0.00 [0.16] (0.01) (0.01) (0.01) [0.45] [0.09] [0.89] [0.22] DM: HH IGAs 3680 0.99 0.00 0.00 -0.00 [0.11] (0.00) (0.01) (0.01) [0.51] [0.89] [0.75] [0.76] DM: Savings 3739 0.99 0.00 -0.00 -0.00 [0.12] (0.01) (0.01) (0.00) [0.94] [0.95] [0.96] [0.89] DM: Agric Decisions 3744 0.98 0.00 0.00 -0.00 [0.13] (0.01) (0.01) (0.01) [1.00] [0.48] [0.47] [0.45] DM: Livestock 3378 0.98 0.01 0.00 -0.01 [0.15] (0.01) (0.01) (0.01) [0.06] [0.83] [0.48] [0.17] DM: Personal income 3769 1.00 -0.00 -0.01 -0.01 [0.04] (0.00) (0.00) (0.00) [0.85] [0.05] [0.04] [0.04] DM: Travel 3773 1.00 -0.00 -0.01 -0.01 [0.06] (0.00) (0.00) (0.00) [0.33] [0.12] [0.03] [0.50] DM: Children's educ 3593 0.98 0.01 0.01 0.01 [0.15] (0.01) (0.01) (0.01) [0.08] [0.37] [0.46] [0.46] DM: Condom use 2738 0.98 -0.01 -0.02 -0.02 [0.15] (0.01) (0.01) (0.01) [0.28] [0.21] [0.17] [0.68] DM: Child bearing 3188 0.98 0.01 -0.02 -0.02 [0.14] (0.01) (0.01) (0.01) [0.48] [0.14] [0.08] [0.04] DM: Contracep. access 3084 1.00 -0.01 -0.02 -0.01 [0.04] (0.00) (0.01) (0.00) [0.08] [0.01] [0.00] [0.18] Note: p-values reported in square brackets. The outcome for each domain is an indicator variable equal to one if respondents report at least jointly deciding decisions in the given domain and zero if some else either mostly controls or completely controls the decision. All regressions include (absorbed) strata dummies and-when available-the baseline outcomes as controls. Standard errors are clustered at the community level.</p><p xml:id="_DpZ5Mzv">Table B8: 38-month impacts: Decision making (1) (2) (3) (4) (5) Control Full Financial Human p-value Obs. Mean, [s.d.] Package Capital Capital (3)=(4) DM: Daily HH expenses 3741 0.92 0.02 0.01 0.02 [0.27] (0.01) (0.02) (0.01) [0.08] [0.74] [0.17] [0.29] DM: Major HH purchases 3708 0.91 0.03 0.01 0.02 [0.28] (0.01) (0.02) (0.01) [0.01] [0.41] [0.10] [0.28] DM: HH IGAs 3632 0.93 0.02 0.01 0.02 [0.25] (0.01) (0.02) (0.01) [0.08] [0.70] [0.04] [0.34] DM: Savings 3666 0.94 0.01 0.01 0.02 [0.23] (0.01) (0.01) (0.01) [0.32] [0.69] [0.04] [0.68] DM: Agric Decisions 3721 0.89 0.04 0.03 0.04 [0.32] (0.02) (0.02) (0.02) [0.00] [0.11] [0.00] [0.60] DM: Livestock 3184 0.89 0.05 0.03 0.02 [0.31] (0.02) (0.02) (0.02) [0.01] [0.13] [0.17] [0.46] DM: Personal income 3742 0.98 -0.01 -0.02 0.00 [0.14] (0.01) (0.01) (0.01) [0.24] [0.03] [0.91] [0.25] DM: Travel 3738 0.95 0.01 0.01 0.01 [0.23] (0.01) (0.02) (0.01) [0.31] [0.74] [0.30] [0.58] DM: Children's educ 3621 0.92 0.04 0.02 0.05 [0.27] (0.01) (0.02) (0.01) [0.01] [0.15] [0.00] [0.34] DM: Condom use 2391 0.81 0.03 0.05 0.05 [0.39] (0.03) (0.03) (0.03) [0.28] [0.10] [0.07] [0.46] DM: Child bearing 2865 0.86 0.05 0.02 0.06 [0.35] (0.02) (0.03) (0.02) [0.02] [0.35] [0.00] [0.30] DM: Contracep. access 2789 0.91 0.02 0.03 0.05 [0.29] (0.02) (0.02) (0.02) [0.21] [0.19] [0.01] [0.77] Note: p-values reported in square brackets. The outcome for each domain is an indicator variable equal to one if respondents report at least jointly deciding decisions in the given domain and zero if some else either mostly controls or completely controls the decision. All regressions include (absorbed) strata dummies and-when available-the baseline outcomes as controls. Standard errors are clustered at the community level.</p><p xml:id="_UDvWyTQ">Table B9: Heterogeneous treatment effects: savings group participation (1) (2) (3) (4) (5) (6) Control Full Financial Full Package x Fin Capital x Obs. Mean, [s.d.] Package Capital High VSLA High VSLA Total consumption 2906 -0.00 0.44 0.26 0.25 0.27 [1.00] (0.13) (0.14) (0.24) (0.23) Food security 2906 0.00 0.33 0.18 -0.10 0.16 [1.00] (0.08) (0.09) (0.19) (0.20) Asset index 2906 0.00 0.36 0.32 0.09 0.05 [1.00] (0.10) (0.11) (0.16) (0.17) Savings 2906 -0.00 0.41 0.27 -0.65 -0.63 [1.00] (0.08) (0.10) (0.81) (0.78) Aggregate income 2906 0.00 0.32 0.21 -0.17 -0.11 [1.00] (0.08) (0.09) (0.20) (0.19) Psyc. well-being index 2906 0.00 0.23 0.17 0.17 0.05 [1.00] (0.09) (0.09) (0.16) (0.17) Note: High VSLA set equal to 1 in treatment communities where more women report participating in savings groups at a higher rate than the treatment community median (52%). Columns 5 and 6 present the marginal impacts in these high savings group communities. Sample omits the human capital treatment arm. Consumption outcomes are calculated per adult equivalent. Appendix C provides additional details on the construction of the key indices. All regressions include (absorbed) strata dummies and-when available-the baseline outcomes as controls, in addition to a control for the additional consumption support in half the full package communities. Standard errors are clustered at the community level.</p><p xml:id="_fm4jAup">Table B10: Post-training impacts: Business skills (1) (2) (3) (4) (5) Control Full Financial Human p-value Obs. Mean, [s.d.] Package Capital Capital (3)=(4) Business: Identifying opportunities 482 1.85 -0.02 -0.03 0.03 [0.88] (0.17) (0.14) (0.15) [0.89] [0.84] [0.82] [0.96] Business: Customers and competition 482 2.88 0.04 -0.39 -0.08 [0.98] (0.20) (0.17) (0.18) [0.85] [0.02] [0.63] [0.02] Business: Considered start-up funding 482 0.15 0.08 0.06 0.01 [0.36] (0.08) (0.09) (0.07) [0.30] [0.48] [0.94] [0.81] Business: Assessed access to finance 482 0.08 0.09 0.09 0.04 [0.28] (0.07) (0.06) (0.04) [0.24] [0.15] [0.36] [0.96] Business: Assessed profit opportunity 482 2.15 0.15 0.19 0.21 [1.13] (0.16) (0.17) (0.16) [0.35] [0.28] [0.18] [0.75] Business: Identified potential risks 482 0.68 0.11 0.02 0.10 [0.47] (0.08) (0.10) (0.08) [0.17] [0.85] [0.21] [0.30] Business: Identified risk mitigation 482 0.47 0.16 -0.11 0.15 [0.50] (0.07) (0.10) (0.07) [0.02] [0.24] [0.03] [0.00] Note: p-values reported in square brackets. None of the Human Capital impacts are significantly different from the full package arm at the 5% level. All regressions include (absorbed) strata dummies in addition to a control for the additional consumption support in half the full package communities. Standard errors are clustered at the community level Table B13: 12-month impacts: Time use (1) (2) (3) (4) (5) Control Full Financial Human p-value Obs. Mean, [s.d.] Package Capital Capital (3)=(4) Time use: Leisure ⋄ 3782 857.19 -27.75 -9.70 -6.04 [173.12] (11.45) (13.13) (11.85) [0.02] [0.46] [0.61] [0.15] Time use: Home production ⋄ 3782 275.18 1.89 -13.75 1.49 [140.46] (8.41) (9.21) (7.87) [0.82] [0.14] [0.85] [0.09] Time use: Paid work for others ⋄ 3782 17.07 -13.65 -13.69 -11.98 [71.98] (3.36) (3.21) (3.34) [0.00] [0.00] [0.00] [0.99] Time use: Own business ⋄ 3782 35.34 4.05 10.67 -6.88 [119.75] (8.88) (12.62) (10.05) [0.65] [0.40] [0.49] [0.56] Time use: Farming and fishing ⋄ 3782 166.27 40.94 33.58 25.68 [176.56] (13.28) (12.34) (12.40) [0.00] [0.01] [0.04] [0.57] Time use: Other ⋄ 3782 27.29 -6.27 -2.91 1.75 [94.58] (6.23) (7.30) (6.25) [0.31] [0.69] [0.78] [0.51] Note: p-values reported in square brackets. Minutes reported for the last day. ⋄ indicates variables winsorized at the 1% level. All regressions include (absorbed) strata dummies and the baseline outcomes as controls, in addition to a control for the additional consumption support in half the full package communities. Standard errors are clustered at the community level.</p><p xml:id="_F5vrpK6">Table B18: Impacts on Food Prices (1) (2) (3) (4) (5) (6) Control Full Financial Human Spillover t-test Obs. Mean Package Capital Capital Sample (3)=(4) (3)=(6) Price for standardized unit of maize 4488 17.38 0.04 -0.03 0.08 -0.00 0.89 0.91 [4.99] (0.43) (0.44) (0.44) (0.38) Price for standardized unit of mealie 2991 114.12 -7.17 -0.66 -1.12 -4.98 0.09 0.55 [39.57] (4.79) (4.97) (5.02) (4.85) Price for standardized unit of cassaveFlour 3500 13.53 -0.73 * * -0.88 * * -0.47 -0.85 * * 0.62 0.72 [5.39] (0.36) (0.36) (0.38) (0.36) Price for standardized unit of cassavaTuber 2928 2.62 -0.13 -0.09 0.28 0.08 0.88 0.32 [2.51] (0.25) (0.27) (0.32) (0.27) Price for standardized unit of beans 3677 11.43 0.32 1.16 * -0.02 1.01 * 0.17 0.24 [5.64] (0.47) (0.60) (0.51) (0.57) Price for standardized unit of groundnuts 3627 10.63 0.39 0.99 * -0.27 1.04 * * 0.30 0.21 [4.96] (0.44) (0.55) (0.45) (0.49) Price for standardized unit of tomatoes 4512 3.61 -0.06 0.05 -0.08 -0.13 0.28 0.56 [1.23] (0.10) (0.12) (0.12) (0.12) Price for standardized unit of rape 4431 2.06 -0.15 * -0.16 * -0.13 -0.14 * 0.88 0.88 [1.03] (0.08) (0.08) (0.09) (0.07) Price for standardized unit of onions 4416 3.94 0.01 0.20 0.04 -0.14 0.17 0.19 [1.46] (0.13) (0.14) (0.13) (0.12) Price for standardized unit of pumpkinLeaf 4306 1.72 -0.05 -0.09 -0.08 -0.02 0.36 0.44 [0.66] (0.05) (0.05) (0.07) (0.05) Price for standardized unit of cassavaLeaf 3882 1.65 -0.06 -0.08 -0.09 -0.04 0.68 0.46 [0.64] (0.05) (0.06) (0.07) (0.05) Price for standardized unit of potatoeLeaf 4026 1.70 -0.07 -0.07 -0.07 -0.05 0.98 0.47 [0.64] (0.05) (0.06) (0.07) (0.06) Price for standardized unit of amaranthus 3892 1.70 -0.07 -0.08 -0.06 -0.02 0.88 0.17 [0.65] (0.05) (0.06) (0.07) (0.05) Price for standardized unit of okra 3938 2.56 -0.25 * -0.20 -0.28 * -0.08 0.60 0.35 [1.44] (0.14) (0.14) (0.16) (0.20) Price for standardized unit of fish 3404 23.28 -0.60 -1.45 * -0.35 0.87 0.27 0.07 [11.01] (0.82) (0.82) (0.82) (0.86) Price for standardized unit of cookingOil 4483 32.73 -0.03 -0.53 0.38 -0.02 0.42 0.98 [4.82] (0.49) (0.65) (0.55) (0.47) Price for standardized unit of salt 4538 6.53 -0.20 0.11 -0.01 -0.41 * * 0.19 0.26 [2.43] (0.20) (0.24) (0.21) (0.18) Note: p-values reported in square brackets. All regressions include (absorbed) strata dummies and the baseline outcomes as controls, in addition to a control for the additional consumption support in half the full package communities. Standard errors are clustered at the community level.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><figDesc xml:id="_RyfnGvY">Figure1summarizes this design. The implementation studied here is notable: the graduation program was not layered on top of an at-scale program, such as existing cash transfers, nor was it implemented solely by the evaluating team. Rather, the evaluation was done in the context of a nationwide roll-out of a new government program. This approach best captures the at-scale impacts of the program, especially if governments face binding constraints to the quality implementation of selected components at scale, such as nationwide business trainings requiring a large cadre of trained facilitators.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>3. 3 . 1</head><label>31</label><figDesc xml:id="_VTeefdP">Impact of Financial and Human Capital AloneWe next examine further slimmed down versions of the program-focusing on financial (column 4) and human capital (column 5) interventions-and compare them to the full package in Figure 2, Panels B and C. Strikingly, the financial capital arm shows near identical impacts to the full package at the 1-year mark. The effects of the financial bundle on consumption per adult (0.22 s.d.), food security (0.37 s.d.), assets (0.33 s.d.), savings (0.50 s.d.), and psychological well-being (0.31 s.d.) were statistically indistinguishable from those of the full package. In contrast, the human capital arm did not produce any positive and significant effects, with food security being the only outcome showing a directionally positive impact compared to the</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 2 :</head><label>2</label><figDesc xml:id="_62Jmqwu">Figure 2: Impacts of main standardized outcomes Panel A: Full package impacts over time</figDesc><graphic coords="11,142.88,109.18,326.25,195.75" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><figDesc xml:id="_TpUP6qv">comprises 3,782 women for all 12-month regressions and 3,748 women for all 38-month regressions. Paid work, household business work, and household agricultural work are reported for last 7 days. Sold crops and sold livestock are reported for last year. All human capital impacts are significantly different from the full package arm at at least the 5% level except: any paid work (12 and 38 months), household agricultural work (12 months), and household business work (38 months). Income variables are unconditional, with zeros coded for individuals without income in the given category. ⋄ indicates variables winsorized at the 1% level. All regressions include (absorbed) strata dummies and the baseline outcomes as controls, in addition to a control for the additional consumption support in half the full package communities. Standard errors are clustered at the community level.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><figDesc xml:id="_x9pETp4">ure 3 motivates this analysis by presenting the 38-month consumption (Panel A) and income(Panel B)   </figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Figure 3 :</head><label>3</label><figDesc xml:id="_Gm34XZQ">Figure 3: Full package shifted consumption and income distributions Panel A: Consumption</figDesc><graphic coords="23,113.38,161.31,385.25,231.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Figure 4 :</head><label>4</label><figDesc xml:id="_S5k7Vg2">Figure 4: Spillover impacts: Main standardized outcomes</figDesc><graphic coords="26,72.00,210.32,435.00,261.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><figDesc xml:id="_xMYyNJ2">trainers (TOT) in Lusaka for the core SWL project team and MCDSS Province Community Development Officers (PCDOs). Second, each PCDO trained District Community Development Officers (DCDOs) and their deputies in a province-level TOT. Third, DCDOs trained the CBVs and frontline Community Development Assistants (CDAs) in a district-level TOT. Each training lasted five days.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 :</head><label>1</label><figDesc xml:id="_adkSjkK">Balance across key variables</figDesc><table><row><cell></cell><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell><cell>(4)</cell><cell>(5)</cell><cell>(6)</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>Control</cell><cell>Full</cell><cell cols="2">Financial Human</cell><cell>Eligible</cell><cell cols="3">p-value of test of equality:</cell></row><row><cell></cell><cell>Obs.</cell><cell>Mean</cell><cell>Package</cell><cell>Capital</cell><cell cols="5">Capital Spillovers (3)=(4) (3)=(5) (4)=(5)</cell></row><row><cell>Respondent age</cell><cell>5046</cell><cell>34.39</cell><cell>-0.02</cell><cell>0.29</cell><cell>-0.00</cell><cell>0.34</cell><cell>0.66</cell><cell>0.98</cell><cell>0.66</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(0.61)</cell><cell>(0.68)</cell><cell>(0.58)</cell><cell>(0.59)</cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Respondent is household head 5046</cell><cell>0.45</cell><cell>0.04</cell><cell>0.03</cell><cell>0.03</cell><cell>0.02</cell><cell>0.78</cell><cell>0.83</cell><cell>0.95</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(0.04)</cell><cell>(0.04)</cell><cell>(0.04)</cell><cell>(0.04)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Household size</cell><cell>5046</cell><cell>5.54</cell><cell>-0.01</cell><cell>-0.03</cell><cell>0.09</cell><cell>-0.03</cell><cell>0.92</cell><cell>0.53</cell><cell>0.49</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(0.16)</cell><cell>(0.16)</cell><cell>(0.16)</cell><cell>(0.14)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Household size (adult equiv)</cell><cell>5046</cell><cell>3.58</cell><cell>-0.00</cell><cell>-0.02</cell><cell>0.04</cell><cell>-0.02</cell><cell>0.84</cell><cell>0.66</cell><cell>0.54</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(0.10)</cell><cell>(0.10)</cell><cell>(0.10)</cell><cell>(0.08)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Respondent attended school</cell><cell>5046</cell><cell>0.82</cell><cell>0.02</cell><cell>-0.01</cell><cell>0.02</cell><cell>0.01</cell><cell>0.20</cell><cell>0.84</cell><cell>0.24</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(0.03)</cell><cell>(0.03)</cell><cell>(0.02)</cell><cell>(0.03)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Respondent years of educ</cell><cell>5046</cell><cell>4.74</cell><cell>0.23</cell><cell>-0.20</cell><cell>0.01</cell><cell>0.10</cell><cell>0.08</cell><cell>0.35</cell><cell>0.38</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(0.25)</cell><cell>(0.27)</cell><cell>(0.25)</cell><cell>(0.29)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Total consumption ⋄</cell><cell cols="2">5046 1663.31</cell><cell>10.14</cell><cell>147.18</cell><cell>36.27</cell><cell>-64.36</cell><cell>0.15</cell><cell>0.80</cell><cell>0.28</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(89.86)</cell><cell>(91.95)</cell><cell>(98.46)</cell><cell>(80.96)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Borrowed food</cell><cell>5046</cell><cell>0.39</cell><cell>0.01</cell><cell>0.02</cell><cell>0.01</cell><cell>0.03</cell><cell>0.59</cell><cell>0.99</cell><cell>0.59</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(0.03)</cell><cell>(0.03)</cell><cell>(0.03)</cell><cell>(0.03)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Household agric (last 7 days)</cell><cell>5046</cell><cell>0.60</cell><cell>-0.03</cell><cell>0.04</cell><cell>0.03</cell><cell>-0.00</cell><cell>0.01</cell><cell>0.06</cell><cell>0.62</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(0.03)</cell><cell>(0.03)</cell><cell>(0.03)</cell><cell>(0.03)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Work for others (last 7 days)</cell><cell>5046</cell><cell>0.26</cell><cell>-0.03</cell><cell>0.02</cell><cell>-0.01</cell><cell>0.02</cell><cell>0.03</cell><cell>0.47</cell><cell>0.20</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(0.03)</cell><cell>(0.03)</cell><cell>(0.03)</cell><cell>(0.03)</cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Running business (last 7 days) 5046</cell><cell>0.13</cell><cell>0.04</cell><cell>0.04</cell><cell>0.02</cell><cell>0.05</cell><cell>0.95</cell><cell>0.33</cell><cell>0.36</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(0.03)</cell><cell>(0.03)</cell><cell>(0.03)</cell><cell>(0.03)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Agricultural sales ⋄</cell><cell>5046</cell><cell>402.60</cell><cell>-171.80</cell><cell>13.85</cell><cell>-51.58</cell><cell>-85.19</cell><cell>0.00</cell><cell>0.02</cell><cell>0.32</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(74.46)</cell><cell>(79.60)</cell><cell>(71.15)</cell><cell>(72.66)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Business profits ⋄</cell><cell cols="2">5046 1394.43</cell><cell>-70.41</cell><cell>93.65</cell><cell>-81.39</cell><cell>-87.91</cell><cell>0.50</cell><cell>0.96</cell><cell>0.40</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(249.27)</cell><cell>(206.85)</cell><cell>(204.35)</cell><cell>(193.75)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Labor income ⋄</cell><cell>5046</cell><cell>282.57</cell><cell>8.75</cell><cell>62.22</cell><cell>-22.87</cell><cell>85.73</cell><cell>0.19</cell><cell>0.41</cell><cell>0.03</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(36.21)</cell><cell>(35.54)</cell><cell>(33.86)</cell><cell>(33.93)</cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="10">Note: All regressions include (absorbed) strata dummies as well as a control for the additional consumption support in half the</cell></row><row><cell cols="10">full package communities. Consumption outcomes are calculated per adult equivalent. Total consumption includes imputed</cell></row><row><cell cols="9">value of own production. Standard errors are clustered at the community level. ⋄ indicates variables winsorized at the 1% level.</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 :</head><label>2</label><figDesc xml:id="_vSTRJ3w">Impacts: Aggregate measures</figDesc><table><row><cell></cell><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell><cell>(4)</cell><cell>(5)</cell><cell></cell></row><row><cell></cell><cell></cell><cell>Control</cell><cell>Full</cell><cell cols="3">Financial Human p-value</cell></row><row><cell></cell><cell cols="3">Obs. Mean, [s.d.] Package</cell><cell>Capital</cell><cell cols="2">Capital (3)=(4)</cell></row><row><cell>Panel A: 12-month impacts</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Total consumption</cell><cell>3782</cell><cell>-0.00</cell><cell>0.24</cell><cell>0.22</cell><cell>-0.02</cell><cell>0.79</cell></row><row><cell></cell><cell></cell><cell>[1.00]</cell><cell>(0.06)</cell><cell>(0.07)</cell><cell>(0.06)</cell><cell></cell></row><row><cell>Food security</cell><cell>3782</cell><cell>0.00</cell><cell>0.43</cell><cell>0.37</cell><cell>0.11</cell><cell>0.29</cell></row><row><cell></cell><cell></cell><cell>[1.00]</cell><cell>(0.08)</cell><cell>(0.08)</cell><cell>(0.09)</cell><cell></cell></row><row><cell>Assets</cell><cell>3782</cell><cell>0.00</cell><cell>0.33</cell><cell>0.33</cell><cell>0.00</cell><cell>0.98</cell></row><row><cell></cell><cell></cell><cell>[1.00]</cell><cell>(0.07)</cell><cell>(0.07)</cell><cell>(0.07)</cell><cell></cell></row><row><cell>Savings</cell><cell>3782</cell><cell>-0.00</cell><cell>0.66</cell><cell>0.50</cell><cell>-0.03</cell><cell>0.16</cell></row><row><cell></cell><cell></cell><cell>[1.00]</cell><cell>(0.11)</cell><cell>(0.10)</cell><cell>(0.08)</cell><cell></cell></row><row><cell>Aggregate income</cell><cell>3782</cell><cell>0.00</cell><cell>0.17</cell><cell>0.35</cell><cell>-0.10</cell><cell>0.02</cell></row><row><cell></cell><cell></cell><cell>[1.00]</cell><cell>(0.07)</cell><cell>(0.09)</cell><cell>(0.07)</cell><cell></cell></row><row><cell>Psyc. well-being</cell><cell>3782</cell><cell>0.00</cell><cell>0.33</cell><cell>0.31</cell><cell>0.00</cell><cell>0.73</cell></row><row><cell></cell><cell></cell><cell>[1.00]</cell><cell>(0.06)</cell><cell>(0.06)</cell><cell>(0.07)</cell><cell></cell></row><row><cell>Panel B: 38-month impacts</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Total consumption</cell><cell>3748</cell><cell>-0.00</cell><cell>0.44</cell><cell>0.26</cell><cell>-0.01</cell><cell>0.07</cell></row><row><cell></cell><cell></cell><cell>[1.00]</cell><cell>(0.11)</cell><cell>(0.10)</cell><cell>(0.09)</cell><cell></cell></row><row><cell>Food security</cell><cell>3748</cell><cell>0.00</cell><cell>0.30</cell><cell>0.29</cell><cell>-0.01</cell><cell>0.94</cell></row><row><cell></cell><cell></cell><cell>[1.00]</cell><cell>(0.07)</cell><cell>(0.09)</cell><cell>(0.07)</cell><cell></cell></row><row><cell>Assets</cell><cell>3748</cell><cell>0.00</cell><cell>0.39</cell><cell>0.32</cell><cell>-0.04</cell><cell>0.39</cell></row><row><cell></cell><cell></cell><cell>[1.00]</cell><cell>(0.08)</cell><cell>(0.08)</cell><cell>(0.08)</cell><cell></cell></row><row><cell>Savings</cell><cell>3748</cell><cell>-0.00</cell><cell>0.47</cell><cell>0.32</cell><cell>0.11</cell><cell>0.18</cell></row><row><cell></cell><cell></cell><cell>[1.00]</cell><cell>(0.09)</cell><cell>(0.08)</cell><cell>(0.11)</cell><cell></cell></row><row><cell>Aggregate income</cell><cell>3748</cell><cell>0.00</cell><cell>0.29</cell><cell>0.21</cell><cell>-0.03</cell><cell>0.25</cell></row><row><cell></cell><cell></cell><cell>[1.00]</cell><cell>(0.07)</cell><cell>(0.07)</cell><cell>(0.07)</cell><cell></cell></row><row><cell>Psyc. well-being</cell><cell>3748</cell><cell>0.00</cell><cell>0.30</cell><cell>0.16</cell><cell>0.06</cell><cell>0.05</cell></row><row><cell></cell><cell></cell><cell>[1.00]</cell><cell>(0.07)</cell><cell>(0.08)</cell><cell>(0.09)</cell><cell></cell></row></table><note xml:id="_YyDwJBq"><p>Note: All human capital impacts are significantly different from the full package arm at at least the 5% level. Consumption outcomes are calculated per adult equivalent. Appendix C provides additional details on the construction of the key indices. All regressions include (absorbed) strata dummies and-when available-the baseline outcomes as controls, in addition to a control for the additional consumption support in half the full package communities. Standard errors are clustered at the community level.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 :</head><label>3</label><figDesc xml:id="_xJrh7aZ">Impacts: Consumption and Food Security</figDesc><table><row><cell></cell><cell></cell><cell>12 months</cell><cell></cell><cell></cell><cell></cell><cell>38 months</cell><cell></cell><cell></cell></row><row><cell></cell><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell><cell></cell><cell>(4)</cell><cell>(5)</cell><cell>(6)</cell><cell></cell></row><row><cell></cell><cell>Control</cell><cell>Full</cell><cell cols="2">Financial p-value</cell><cell>Control</cell><cell>Full</cell><cell cols="2">Financial p-value</cell></row><row><cell></cell><cell>mean</cell><cell>Package</cell><cell>Capital</cell><cell>(2)=(3)</cell><cell>mean</cell><cell>Package</cell><cell>Capital</cell><cell>(5)=(6)</cell></row><row><cell>Panel A: Consumption</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Total consumption ⋄</cell><cell cols="2">3809.90 [3082.08] (188.19) 731.87</cell><cell>677.31 (225.01)</cell><cell>0.79</cell><cell cols="2">4714.14 [4065.04] (427.68) 1777.15</cell><cell>1071.03 (393.29)</cell><cell>0.07</cell></row><row><cell>Food consumption ⋄</cell><cell cols="2">3273.70 [2583.67] (156.56) 558.71</cell><cell>517.98 (185.00)</cell><cell>0.81</cell><cell cols="2">3940.93 [3303.39] (343.01) 1370.89</cell><cell>933.77 (311.36)</cell><cell>0.14</cell></row><row><cell>Non-food consumption ⋄</cell><cell>508.60 [616.74]</cell><cell>171.13 (42.85)</cell><cell>180.79 (45.39)</cell><cell>0.83</cell><cell>721.86 [982.43]</cell><cell>377.85 (84.11)</cell><cell>186.81 (94.91)</cell><cell>0.05</cell></row><row><cell>In extreme poverty</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>0.57 [0.50]</cell><cell>-0.17 (0.04)</cell><cell>-0.09 (0.05)</cell><cell>0.06</cell></row><row><cell>In moderate poverty</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>0.78 [0.41]</cell><cell>-0.15 (0.04)</cell><cell>-0.12 (0.04)</cell><cell>0.26</cell></row><row><cell>Below 150% of moder-</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>0.91</cell><cell>-0.09</cell><cell>-0.07</cell><cell>0.38</cell></row><row><cell>ate poverty line</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>[0.28]</cell><cell>(0.02)</cell><cell>(0.02)</cell><cell></cell></row><row><cell>Panel B: Food security</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Months w/o enough</cell><cell>1.76</cell><cell>-0.82</cell><cell>-0.70</cell><cell>0.21</cell><cell>2.17</cell><cell>-0.49</cell><cell>-0.58</cell><cell>0.62</cell></row><row><cell>food</cell><cell>[2.44]</cell><cell>(0.16)</cell><cell>(0.16)</cell><cell></cell><cell>[2.71]</cell><cell>(0.17)</cell><cell>(0.20)</cell><cell></cell></row><row><cell>Meals yesterday</cell><cell>1.85 [0.61]</cell><cell>0.23 (0.04)</cell><cell>0.18 (0.05)</cell><cell>0.19</cell><cell>1.90 [0.72]</cell><cell>0.22 (0.05)</cell><cell>0.14 (0.06)</cell><cell>0.11</cell></row><row><cell>Skipped a meal</cell><cell>0.40 [0.49]</cell><cell>-0.13 (0.04)</cell><cell>-0.13 (0.04)</cell><cell>0.91</cell><cell>0.41 [0.49]</cell><cell>-0.09 (0.03)</cell><cell>-0.11 (0.04)</cell><cell>0.61</cell></row><row><cell>Borrowed food</cell><cell>0.36 [0.48]</cell><cell>-0.11 (0.03)</cell><cell>-0.10 (0.03)</cell><cell>0.84</cell><cell>0.51 [0.50]</cell><cell>-0.08 (0.03)</cell><cell>-0.10 (0.04)</cell><cell>0.62</cell></row></table><note xml:id="_4SM5TJG"><p>Note: Sample comprises 3,782 women for all 12-month regressions and 3,748 women for all 38-month regressions. Consumption outcomes are annual and calculated per adult equivalent. All human capital impacts are significantly different from the full package arm at at least the 1% level. Extreme poverty defined as annual aggregate consumption below the 2022 food poverty line of 336.73 ZMW/month. Moderate poverty defined as annual aggregate consumption below the 2022 food and non-food absolute poverty line of 517.6 ZMW/month. ⋄ indicates variables winsorized at the 1% level. Skipped a meal and borrowed food are reported for the last 7 days. All regressions include (absorbed) strata dummies and the baseline outcomes as controls, in addition to a control for the additional consumption support in half the full package communities. Standard errors are clustered at the community level.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4 :</head><label>4</label><figDesc xml:id="_3eWdJdt">Impacts: Savings and assetsLivestock index calculated using livestock count data converted into tropical livestock units. All regressions include (absorbed) strata dummies and the baseline outcomes as controls, in addition to a control for the additional consumption support in half the full package communities. Standard errors are clustered at the community level.</figDesc><table><row><cell></cell><cell></cell><cell>12 months</cell><cell></cell><cell></cell><cell></cell><cell>38 months</cell><cell></cell><cell></cell></row><row><cell></cell><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell><cell></cell><cell>(4)</cell><cell>(5)</cell><cell>(6)</cell><cell></cell></row><row><cell></cell><cell>Control</cell><cell>Full</cell><cell cols="2">Financial p-value</cell><cell>Control</cell><cell>Full</cell><cell>Financial</cell><cell>p-value</cell></row><row><cell></cell><cell>mean</cell><cell>Package</cell><cell>Capital</cell><cell>(2)=(3)</cell><cell>mean</cell><cell>Package</cell><cell>Capital</cell><cell>(5)=(6)</cell></row><row><cell>Total savings ⋄</cell><cell>178.76 [480.48]</cell><cell>327.65 (41.25)</cell><cell>295.02 (46.50)</cell><cell>0.47</cell><cell>143.33 [463.63]</cell><cell>334.84 (44.23)</cell><cell>266.21 (50.83)</cell><cell>0.25</cell></row><row><cell>Total borrowing ⋄</cell><cell>23.21 [105.68]</cell><cell>20.94 (11.40)</cell><cell>5.69 (7.34)</cell><cell>0.17</cell><cell>78.62 [266.65]</cell><cell>85.47 (26.69)</cell><cell>38.18 (28.32)</cell><cell>0.10</cell></row><row><cell>Household asset index</cell><cell>0.00 [1.00]</cell><cell>0.33 (0.07)</cell><cell>0.33 (0.07)</cell><cell>0.98</cell><cell>0.00 [1.00]</cell><cell>0.39 (0.08)</cell><cell>0.32 (0.08)</cell><cell>0.39</cell></row><row><cell>Household asset value ⋄</cell><cell cols="2">2109.52 [1691.71] (121.95) 450.14</cell><cell>493.42 (142.56)</cell><cell>0.73</cell><cell cols="2">3888.70 [5800.54] (431.58) 978.87</cell><cell>599.62 (455.95)</cell><cell>0.34</cell></row><row><cell>Livestock index</cell><cell>-0.00 [1.00]</cell><cell>0.11 (0.06)</cell><cell>0.13 (0.05)</cell><cell>0.72</cell><cell>-0.00 [1.00]</cell><cell>0.17 (0.05)</cell><cell>0.24 (0.07)</cell><cell>0.25</cell></row><row><cell>Livestock value  †⋄</cell><cell cols="2">1825.34 [5782.84] (312.58) 502.13</cell><cell>623.13 (277.78)</cell><cell>0.68</cell><cell cols="2">2662.45 [8841.58] (485.62) 1306.32</cell><cell>1861.57 (604.02)</cell><cell>0.25</cell></row></table><note xml:id="_E6wne4h"><p>Note: Sample comprises 3,782 women for all 12-month regressions and 3,748 women for all 38-month regressions. All values reported in ZMW. All human capital impacts are significantly different from the full package arm at at least the 5% level. ⋄ indicates variables winsorized at the 1% level. † Livestock age not collected and all animals are assumed to be fully grown.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 5 :</head><label>5</label><figDesc xml:id="_x6P6CJV">Impacts: Income generating activities</figDesc><table><row><cell></cell><cell cols="2">12 months</cell><cell></cell><cell></cell><cell></cell><cell>38 months</cell><cell></cell><cell></cell></row><row><cell></cell><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell><cell></cell><cell>(4)</cell><cell>(5)</cell><cell>(6)</cell><cell></cell></row><row><cell></cell><cell>Control</cell><cell>Full</cell><cell cols="2">Financial p-value</cell><cell>Control</cell><cell>Full</cell><cell>Financial</cell><cell>p-value</cell></row><row><cell></cell><cell>mean</cell><cell>Package</cell><cell>Capital</cell><cell>(2)=(3)</cell><cell>mean</cell><cell>Package</cell><cell>Capital</cell><cell>(5)=(6)</cell></row><row><cell cols="2">Panel A: Income generating activities</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Any paid work</cell><cell>0.35 [0.48]</cell><cell>-0.09 (0.03)</cell><cell>-0.08 (0.03)</cell><cell>0.89</cell><cell>0.32 [0.47]</cell><cell>-0.04 (0.03)</cell><cell>-0.05 (0.03)</cell><cell>0.65</cell></row><row><cell>Household business</cell><cell>0.23</cell><cell>0.06</cell><cell>0.08</cell><cell>0.58</cell><cell>0.21</cell><cell>0.10</cell><cell>0.07</cell><cell>0.41</cell></row><row><cell>work</cell><cell>[0.42]</cell><cell>(0.03)</cell><cell>(0.04)</cell><cell></cell><cell>[0.41]</cell><cell>(0.03)</cell><cell>(0.03)</cell><cell></cell></row><row><cell>Household agricultural</cell><cell>0.71</cell><cell>0.01</cell><cell>-0.01</cell><cell>0.58</cell><cell>0.60</cell><cell>0.08</cell><cell>0.04</cell><cell>0.20</cell></row><row><cell>work</cell><cell>[0.45]</cell><cell>(0.03)</cell><cell>(0.03)</cell><cell></cell><cell>[0.49]</cell><cell>(0.03)</cell><cell>(0.04)</cell><cell></cell></row><row><cell>Has household</cell><cell>0.51</cell><cell>0.22</cell><cell>0.21</cell><cell>0.74</cell><cell>0.50</cell><cell>0.22</cell><cell>0.12</cell><cell>0.00</cell></row><row><cell>business</cell><cell>[0.50]</cell><cell>(0.04)</cell><cell>(0.05)</cell><cell></cell><cell>[0.50]</cell><cell>(0.04)</cell><cell>(0.04)</cell><cell></cell></row><row><cell>Sold crops</cell><cell>0.40 [0.49]</cell><cell>0.19 (0.04)</cell><cell>0.21 (0.04)</cell><cell>0.64</cell><cell>0.41 [0.49]</cell><cell>0.19 (0.04)</cell><cell>0.14 (0.04)</cell><cell>0.24</cell></row><row><cell>Owns livestock</cell><cell>0.53 [0.50]</cell><cell>0.23 (0.04)</cell><cell>0.24 (0.04)</cell><cell>0.88</cell><cell>0.57 [0.50]</cell><cell>0.21 (0.04)</cell><cell>0.17 (0.04)</cell><cell>0.29</cell></row><row><cell>Sold livestock</cell><cell>0.25 [0.43]</cell><cell>0.11 (0.03)</cell><cell>0.07 (0.03)</cell><cell>0.18</cell><cell>0.24 [0.43]</cell><cell>0.19 (0.03)</cell><cell>0.13 (0.04)</cell><cell>0.21</cell></row><row><cell>Panel B: Income</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Total HH income ⋄</cell><cell cols="2">5552.23 [8924.42] (606.53) 1529.89</cell><cell>3137.90 (759.23)</cell><cell>0.02</cell><cell cols="3">8481.51 [18196.58] (1358.18) (1303.23) 5247.10 3795.54</cell><cell>0.25</cell></row><row><cell>Respondent labor</cell><cell>638.81</cell><cell>-276.47</cell><cell>-200.45</cell><cell>0.28</cell><cell>713.12</cell><cell>-101.11</cell><cell>-116.74</cell><cell>0.83</cell></row><row><cell>income ⋄</cell><cell>[1207.77]</cell><cell>(68.91)</cell><cell>(80.73)</cell><cell></cell><cell>[1398.96]</cell><cell>(89.83)</cell><cell>(88.10)</cell><cell></cell></row><row><cell>Other HH member</cell><cell>825.29</cell><cell>-20.44</cell><cell>-71.62</cell><cell>0.72</cell><cell>1463.89</cell><cell>186.95</cell><cell>-279.33</cell><cell>0.06</cell></row><row><cell>labor income ⋄</cell><cell cols="2">[1892.46] (133.86)</cell><cell>(127.96)</cell><cell></cell><cell>[4769.47]</cell><cell>(308.47)</cell><cell>(254.54)</cell><cell></cell></row><row><cell>Household business profits ⋄</cell><cell cols="2">2614.25 [5877.40] (394.03) 1166.66</cell><cell>1958.76 (479.51)</cell><cell>0.07</cell><cell>3385.80 [7637.35]</cell><cell>2702.44 (651.44)</cell><cell>1861.98 (673.94)</cell><cell>0.19</cell></row><row><cell>Income from crop</cell><cell>813.84</cell><cell>640.30</cell><cell>948.71</cell><cell>0.12</cell><cell>1238.92</cell><cell>1566.55</cell><cell>1401.02</cell><cell>0.71</cell></row><row><cell>sales ⋄</cell><cell cols="2">[2420.11] (207.05)</cell><cell>(234.60)</cell><cell></cell><cell>[4289.98]</cell><cell>(342.10)</cell><cell>(411.89)</cell><cell></cell></row><row><cell>Income from livestock</cell><cell>163.90</cell><cell>25.85</cell><cell>30.28</cell><cell>0.90</cell><cell>198.73</cell><cell>121.73</cell><cell>173.30</cell><cell>0.42</cell></row><row><cell>sales ⋄</cell><cell>[601.86]</cell><cell>(36.89)</cell><cell>(35.67)</cell><cell></cell><cell>[750.84]</cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Table 6 :</head><label>6</label><figDesc xml:id="_jVwf7ud">Impacts: Psychological well-being and decision makingSample comprises 3,782 women for all 12-month regressions and 3,748 women for all 38-month regressions. All human capital impacts are significantly different from the full package arm at at least the 5% level except for the decision-making index (12 months). Perceived happiness measured through a 4-point Likert-scale question: 1 = Not at all happy, 2 = Not very happy, 3 = Rather happy, 4 = Very happy. All regressions include (absorbed) strata dummies and the baseline outcomes as controls, in addition to a control for the additional consumption support in half the full package communities. Standard errors are clustered at the community level.</figDesc><table><row><cell></cell><cell></cell><cell>12 months</cell><cell></cell><cell></cell><cell></cell><cell>38 months</cell><cell></cell><cell></cell></row><row><cell></cell><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell><cell></cell><cell>(4)</cell><cell>(5)</cell><cell>(6)</cell><cell></cell></row><row><cell></cell><cell>Control</cell><cell>Full</cell><cell cols="3">Financial p-value Control</cell><cell>Full</cell><cell cols="2">Financial p-value</cell></row><row><cell></cell><cell>mean</cell><cell>Package</cell><cell>Capital</cell><cell>(2)=(3)</cell><cell>mean</cell><cell>Package</cell><cell>Capital</cell><cell>(5)=(6)</cell></row><row><cell>Perceived happiness</cell><cell>2.69 [0.95]</cell><cell>0.29 (0.06)</cell><cell>0.36 (0.07)</cell><cell>0.22</cell><cell>2.88 [0.91]</cell><cell>0.21 (0.05)</cell><cell>0.16 (0.06)</cell><cell>0.33</cell></row><row><cell>Self-esteem index</cell><cell>-0.00 [1.00]</cell><cell>0.24 (0.06)</cell><cell>0.13 (0.06)</cell><cell>0.07</cell><cell>-0.00 [1.00]</cell><cell>0.26 (0.09)</cell><cell>0.09 (0.10)</cell><cell>0.05</cell></row><row><cell>Decision-making index</cell><cell>-0.00 [1.00]</cell><cell>0.10 (0.07)</cell><cell>0.12 (0.08)</cell><cell>0.73</cell><cell>-0.00 [1.00]</cell><cell>0.18 (0.05)</cell><cell>0.16 (0.07)</cell><cell>0.69</cell></row><row><cell>Note:</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6"><head>Table 7 :</head><label>7</label><figDesc xml:id="_B4KRSkP">Quantile Regressions -Full Package</figDesc><table><row><cell></cell><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell><cell>(4)</cell><cell>(5)</cell></row><row><cell></cell><cell>10th</cell><cell>25th</cell><cell>50th</cell><cell>75th</cell><cell>90th</cell></row><row><cell>Panel A: 12-month impacts</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Total consumption</cell><cell>0.140</cell><cell>0.190</cell><cell>0.233</cell><cell>0.265</cell><cell>0.328</cell></row><row><cell></cell><cell cols="5">(0.035) (0.036) (0.059) (0.084) (0.137)</cell></row><row><cell>Food security</cell><cell>0.551</cell><cell>0.512</cell><cell>0.427</cell><cell>-0.000</cell><cell>-0.000</cell></row><row><cell></cell><cell cols="5">(0.124) (0.132) (0.098) (0.056) (0.020)</cell></row><row><cell>Assets</cell><cell>0.173</cell><cell>0.242</cell><cell>0.359</cell><cell>0.546</cell><cell>0.298</cell></row><row><cell></cell><cell cols="5">(0.033) (0.044) (0.069) (0.111) (0.107)</cell></row><row><cell>Savings</cell><cell>0.000</cell><cell>0.000</cell><cell>0.409</cell><cell>0.702</cell><cell>0.982</cell></row><row><cell></cell><cell cols="5">(0.014) (0.012) (0.034) (0.055) (0.137)</cell></row><row><cell>Aggregate income</cell><cell>0.031</cell><cell>0.069</cell><cell>0.141</cell><cell>0.223</cell><cell>0.349</cell></row><row><cell></cell><cell cols="5">(0.014) (0.020) (0.040) (0.060) (0.261)</cell></row><row><cell>Psyc. well-being</cell><cell>0.383</cell><cell>0.366</cell><cell>0.372</cell><cell>0.274</cell><cell>0.201</cell></row><row><cell></cell><cell cols="5">(0.090) (0.093) (0.070) (0.067) (0.079)</cell></row><row><cell>Panel B: 38-month impacts</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Total consumption</cell><cell>0.184</cell><cell>0.211</cell><cell>0.297</cell><cell>0.464</cell><cell>0.794</cell></row><row><cell></cell><cell cols="5">(0.040) (0.057) (0.072) (0.119) (0.225)</cell></row><row><cell>Food security</cell><cell>0.269</cell><cell>0.209</cell><cell>0.376</cell><cell>0.192</cell><cell>0.000</cell></row><row><cell></cell><cell cols="5">(0.101) (0.081) (0.089) (0.078) (0.044)</cell></row><row><cell>Assets</cell><cell>0.147</cell><cell>0.240</cell><cell>0.413</cell><cell>0.569</cell><cell>0.641</cell></row><row><cell></cell><cell cols="5">(0.043) (0.061) (0.094) (0.119) (0.154)</cell></row><row><cell>Savings</cell><cell>0.000</cell><cell>0.000</cell><cell>0.074</cell><cell>0.560</cell><cell>1.036</cell></row><row><cell></cell><cell>(.)</cell><cell>(.)</cell><cell cols="3">(0.088) (0.061) (0.154)</cell></row><row><cell>Aggregate income</cell><cell>0.032</cell><cell>0.071</cell><cell>0.178</cell><cell>0.326</cell><cell>0.608</cell></row><row><cell></cell><cell cols="5">(0.008) (0.013) (0.026) (0.055) (0.237)</cell></row><row><cell>Psyc. well-being</cell><cell>0.418</cell><cell>0.269</cell><cell>0.321</cell><cell>0.267</cell><cell>0.273</cell></row><row><cell></cell><cell cols="5">(0.091) (0.077) (0.091) (0.096) (0.122)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_7"><head>Table 8 :</head><label>8</label><figDesc xml:id="_bJCKgjn">Program Costs and BenefitsYear 2 benefits assume a linear trend from Year 1 to Year 3. All benefits are deflated to year 0 using Zambia CPI published by Zambia Central Statistics Office.</figDesc><table><row><cell>Full package</cell><cell>Financial capital</cell><cell>Human capital</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_0"><p xml:id="_y9uQVcr">Additional implementation details are provided in Appendix A. At baseline, the grant was equivalent to about 18% of per-capita GDP.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="5" xml:id="foot_1"><p xml:id="_7PZvCjt">Additionally, the small consumption support transfers given to a subset of the full package arm were much shorter in duration than the cash transfers typically provided in graduation programs.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="6" xml:id="foot_2"><p xml:id="_qmXeker">The implementing Ministry held public lotteries in the evaluation districts to select communities for inclusion in each of the three phases of the project. Communities selected for the evaluation were told that they would receive one of four variations of SWL. The control arm was considered a variation as all respondents, including those in the control group, received simple cell phones. Evaluation communities were then computer-randomized into arms, stratified at a sub-district, geographic blocks level. Communities were notified of their SWL package after the baseline survey.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="11" xml:id="foot_3"><p xml:id="_wYfWq74">As noted in Section 2.1, we exclude one large district where the sampling was incorrectly conducted. We present results for the full sample in Appendix Tables B1; As expected, the results are substantively consistent with our preferred sample though the effect sizes are smaller.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="12" xml:id="foot_4"><p xml:id="_rMYNEaX">To ease interpretation, we pool the two full package arms and include a control for consumption support. Consumption support effects are shown in Appendix Tables B5.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="13" xml:id="foot_5"><p xml:id="_RKv5y6m">Appendix C provides a detailed description of the construction of our aggregate indices.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="14" xml:id="foot_6"><p xml:id="_5bGMSm7">Lump-sum grants ranged from $300 to $500, compared to the $384 cost of the SWL package.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="15" xml:id="foot_7"><p xml:id="_gHZbNCS">Appendix Tables B7-B8 presents impacts on the separate decision-making domains, showing that longer-term impacts are broad based but stem from the treatment groups maintaining their decision-making power amid declining levels in the control group.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="16" xml:id="foot_8"><p xml:id="_Jes4Myh">A poorly designed curriculum could also account for limited impacts on business skills. However, Appendix A notes that the training curriculum was built on an International Labour Organization structure that has been widely used and evaluated in the region. The training content was similar to the Niger psycho-social package evaluated in<ref type="bibr" target="#b14">Bossuroy et al. (2022)</ref>, though the implementation there was layered on a monthly cash transfer program and also included a community-wide aspirations and social norms sensitization.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="17" xml:id="foot_9"><p xml:id="_z8Rdgy7">The project conducted a master training-of-trainers (TOT) in Lusaka for the core SWL project team and Province Community Development Officers (PCDOs). Each PCDO then trained District Community Development Officers (DCDOs) and their deputies in a province-level TOT. The training culminated with DCDOs training the CBVs and frontline Community Development Assistants (CDAs) in a district-level TOT.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="18" xml:id="foot_10"><p xml:id="_EZXgAG4">The extent to which partnering with NGOs could have yielded more qualified or better trained staff is unclear in this setting, given the large number of facilitators needed for a nationwide implementation. However, environments where trainer stock is able to build up over time or where NGOs are able to work within their current capacity may indeed see differential training impacts.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="19" xml:id="foot_11"><p xml:id="_8daD2fA">We can rule out several other mechanisms driving the differential fade-out of the household businesses from the financial capital bundle: Appendix TablesB12-B13show that, at 12 months, women had opened equivalent enterprises-primarily fish and petty-trading enterprises-and were investing their time similarly.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="20" xml:id="foot_12"><p xml:id="_7bFw934">Appendix TableB14presents equivalent results for the financial capital only arm.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="21" xml:id="foot_13"><p xml:id="_Dqsh2Fw">In the median full package treatment community, about 4.4% of households were selected to receive the bundle.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="22" xml:id="foot_14"><p xml:id="_QkVhqnb">Appendix TablesB15-B17presents detailed spillover results on the sub-component outcomes for consumption, food security, savings, and assets.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="23" xml:id="foot_15"><p xml:id="_7JZUsgZ">The implementation costs in different contexts were: Niger $584 PPP<ref type="bibr" target="#b14">(Bossuroy et al., 2022)</ref>, India $1,455 PPP<ref type="bibr" target="#b5">(Banerjee et al., 2015)</ref>, Pakistan $5,962 PPP (Ibid.), and Afghanistan $6,198 PPP<ref type="bibr" target="#b9">(Bedoya et al., 2019)</ref>.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="24" xml:id="foot_16"><p xml:id="_nHSMeyK">The human capital arm did not have significant consumption effects and therefore is not included in the cost-benefit analysis.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="25" xml:id="foot_17"><p xml:id="_4TXNRdV">The benefit-to-cost ratio for the full package in the multi-country study ranged from -198% to</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_18"><p xml:id="_SV9dnFG">260%<ref type="bibr" target="#b5">(Banerjee et al., 2015)</ref>. It was 232% in Afghanistan<ref type="bibr" target="#b9">(Bedoya et al., 2019)</ref> and 1352% in Niger<ref type="bibr" target="#b14">(Bossuroy et al., 2022)</ref>.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="26" xml:id="foot_19"><p xml:id="_K6Y8Kp5">Since then, SWL has been expanded twice and is now on track to reach 129,400 direct beneficiaries by 2024.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="27" xml:id="foot_20"><p xml:id="_NYSNkAB">In total, CBVs received around US$375, which was slightly higher than the amount offered to beneficiaries. Given that the CBVs were often as poor as the beneficiaries, it was important for the project to ensure not just that they were motivated for the job but also that they do not end up being disadvantaged.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="28" xml:id="foot_21"><p xml:id="_zXxkjeM">Administrative data shows that 77 percent of beneficiaries chose mobile money in Phase 2.</p></note>
+		</body>
+		<back>
+
+			<div type="funding">
+<div xml:id="_vq4u2fA"><p xml:id="_RfCNqxw">provided excellent fieldwork and research assistance. We gratefully acknowledge financial support from the <rs type="funder">World Bank's Umbrella Facility for Gender Equality</rs>. This paper is a product of the <rs type="institution">Gender Innovation Lab, Office of the Chief Economist, Africa Region</rs>. The findings, interpretations, and conclusions expressed in this work do not necessarily reflect the views of The World Bank Group, its Board of Executive Directors, the governments they represent, or the <rs type="funder">National Bureau of Economic Research</rs>. AEA RCT Registry ID: <rs type="grantNumber">AEARCTR-0003498</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_NmS93UM">
+					<idno type="grant-number">AEARCTR-0003498</idno>
+				</org>
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_jgpUkPG"><p xml:id="_msT9ex2">at <ref type="url" target="http://www.nber.org/papers/w31625">http://www.nber.org/papers/w31625</ref> </p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_6XsT8Vc">Online Appendix -Not for publication</head><p xml:id="_wxE7dS5">Appendix A: Intervention details Supporting Women's Livelihoods (SWL) is a comprehensive economic inclusion intervention implemented by the Ministry of Community Development and Social Services (MCDSS) with World Bank funding. It aims to empower extremely poor women from rural areas through a multi-faceted, "big push", package consisting of life and business skills training, a productive grant of ZMW 2,500 (US$225), group mentorship, and support to form savings groups. In a subset of impact evaluation communities, the package also included consumption support in the form of three bi-monthly cash transfers of ZMW 180 (US$15) mimicking the national Social Cash Transfers (SCT) program.</p><p xml:id="_hRdVtks">When it was launched in 2015, SWL aimed to reach 75,000 households in 51 districts in all 10 provinces. <ref type="bibr">26</ref> It was rolled out in three phases: 11 districts in Phase 1 (2017-2018), 20 additional districts in Phase 2 (2018-2019), and another 20 additional districts in Phase 3 (2019-2020). Implementation continued in districts from previous phases, but new communities were selected in each phase. The impact evaluation was conducted in Phase 2 in 10 of the Phase 1 districts, following piloting and refinement during Phase 1. SWL targeted female 'breadwinners' aged 19 to 64 and living in extremely poor households. Beneficiaries were selected through a three-step targeting mechanism: (i) participatory wealth ranking (PWR), where the community identified extremely poor households with female breadwinners, (ii) self-registration to collect basic information about identified female breadwinners and verify eligibility criteria (i.e., aged 19-64, at least one minor living in the household, resident of the community for minimum 6 months, not an SCT beneficiary), and (iii) community validation and, where the number of eligible women exceeds places available, beneficiary-selection lotteries.</p><p xml:id="_AQmCsby">The intervention lasted around nine months, starting with community sensitization meetings to introduce the program and the beneficiary identification process. The components of the package were then delivered in the following sequence.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_9xPeFXS">A1 Life and business skills</head><p xml:id="_aYVVCZt">The life and business skills training was the entry point to the program and a condition for beneficiaries to receive the productive grant and subsequent components. It consisted of 21 sessions lasting 90 minutes each and delivered daily over the course of three weeks.</p><p xml:id="_W6Nye29">The curriculum was designed based on the ILO's Start and Improve Your Business (SIYB) and adapted to the local context and beneficiary profile. It included 12 business skills modules (e.g., money management, identifying business ideas, price setting, record keeping, supply chain management, financial management) and 9 life skills modules (e.g., self-awareness, managing emotions, communication skills, goal setting, cooperation, conflict resolution). The lesson modules were tailored to illiterate or low-literacy adult learners, were participatory and interactive, and used practical, relatable examples.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_UYmWtbJ">Appendix B: Additional Tables and Figures</head><p xml:id="_jVXHd2J">Table B4: Compliance (1) (2) (3) (4) (5) (6) Control Full Financial Human Full p-value Obs. Mean, [s.d.] Package Capital Capital w/ CS (3)=(4) Panel A: Excluding Petauke Selected for SWL 3782 0.46 0.49 0.46 0.17 0.47 [0.50] (0.04) (0.04) (0.05) (0.04) [0.00] [0.00] [0.00] [0.00] [0.27] Attended any SWL training 3782 0.11 0.76 0.42 0.44 0.74 [0.31] (0.03) (0.04) (0.04) (0.03) [0.00] [0.00] [0.00] [0.00] [0.00] Attended more than 5 days of training 3782 0.04 0.77 0.24 0.47 0.75 [0.19] (0.03) (0.04) (0.04) (0.03) [0.00] [0.00] [0.00] [0.00] [0.00] Received SWL grant 3782 0.00 0.90 0.85 -0.01 0.87 [0.04] (0.02) (0.02) (0.01) (0.02) [0.00] [0.00] [0.46] [0.00] [0.07] Received SWL consumption support 3782 0.00 0.01 0.02 -0.01 0.53 [0.00] (0.01) (0.02) (0.01) (0.04) [0.41] [0.17] [0.72] [0.00] [0.44] Participated in SWL saving groups 3782 0.03 0.52 0.48 0.03 0.57 [0.16] (0.03) (0.04) (0.02) (0.03) [0.00] [0.00] [0.25] [0.00] [0.42] Received SWL phone 3782 0.94 0.02 0.03 -0.04 0.00 [0.23] (0.02) (0.01) (0.02) (0.02) [0.16] [0.07] [0.12] [0.96] [0.62] Panel B: Including Petauke Selected for SWL 5193 0.41 0.35 0.34 0.12 0.36 [0.49] (0.04) (0.05) (0.05) (0.04) [0.00] [0.00] [0.01] [0.00] [0.72] Attended any SWL training 5193 0.08 0.60 0.31 0.34 0.58 [0.27] (0.04) (0.04) (0.04) (0.04) [0.00] [0.00] [0.00] [0.00] [0.00] Attended more than 5 days of training 5193 0.03 0.60 0.16 0.36 0.58 [0.17] (0.04) (0.04) (0.04) (0.04) [0.00] [0.00] [0.00] [0.00] [0.00] Received SWL grant 5193 0.00 0.70 0.64 -0.06 0.67 [0.03] (0.04) (0.05) (0.04) (0.04) [0.00] [0.00] [0.19] [0.00] [0.14] Received SWL consumption support 5193 0.00 -0.00 0.01 -0.02 0.42 [0.03] (0.01) (0.02) (0.02) (0.04) [0.87] [0.57] [0.25] [0.00] [0.44] Participated in SWL saving groups 5193 0.02 0.43 0.37 -0.01 0.45 [0.13] (0.03) (0.04) (0.03) (0.04) [0.00] [0.00] [0.70] [0.00] [0.18] Received SWL phone 5193 0.70 0.02 0.01 -0.03 0.01 [0.46] (0.01) (0.02) (0.02) (0.01) [0.19] [0.62] [0.14] [0.63] [0.58] Note: p-values reported in square brackets. All regressions include (absorbed) strata dummies as well as a control for the additional consumption support in half the full package communities. Standard errors are clustered at the community level.</p><p xml:id="_56XuPUr">Table B11: 38-month impacts: Business Practices (1) (2) (3) (4) (5) Control Full Financial Human p-value Obs. Mean, [s.d.] Package Capital Capital (3)=(4) Has a budget 3748 0.46 0.11 0.06 0.06 [0.50] (0.03) (0.04) (0.04) [0.00] [0.15] [0.11] [0.17] Would you separate business funds? 3748 0.87 0.04 -0.02 0.00 [0.34] (0.02) (0.02) (0.02) [0.05] [0.30] [0.84] [0.00] Vignette: sector knowledge 3748 0.71 0.06 -0.01 0.04 [0.46] (0.03) (0.03) (0.03) [0.02] [0.71] [0.19] [0.01] Vignette: customer knowledge 3748 0.50 0.04 -0.06 0.02 [0.50] (0.03) (0.04) (0.04) [0.19] [0.11] [0.55] [0.00] Vignette: understands profits 3748 0.60 0.05 -0.05 -0.01 [0.49] (0.04) (0.05) (0.05) [0.22] [0.31] [0.91] [0.03] Vignette: understands start-up capital 3748 0.56 0.02 -0.03 0.01 [0.50] (0.04) (0.04) (0.03) [0.66] [0.34] [0.80] [0.17] Vignette: understands business sufficiency 3748 0.56 -0.01 -0.11 -0.05 [0.50] (0.05) (0.06) (0.05) [0.77] [0.06] [0.31] [0.06] Vignette: record keeping 3748 0.75 -0.01 -0.06 -0.03 [0.43] (0.03) (0.03) (0.03) [0.82] [0.04] [0.33] [0.07] Vignette: business operations 3748 0.40 0.02 -0.00 0.04 [0.49] (0.03) (0.04) (0.03) [0.57] [0.95] [0.26] [0.57] Importance of business plan 3748 3.19 0.15 0.01 0.07 [0.79] (0.08) (0.08) (0.08) [0.07] [0.87] [0.40] [0.07] Keeps business records 3748 0.05 0.08 0.02 -0.00 [0.22] (0.02) (0.01) (0.01) [0.00] [0.08] [0.89] [0.00] Note: p-values reported in square brackets. For the Human Capital impacts, only Keep Business Records is significantly different from the full package arm at at least the 5% level except. All regressions include (absorbed) strata dummies and the baseline outcomes as controls, in addition to a control for the additional consumption support in half the full package communities. Standard errors are clustered at the community level.</p><p xml:id="_CzUAbW2">Table B12: 12-month impacts: Business types (1) (2) (3) (4) (5) Control Full Financial Human p-value Obs. Mean, [s.d.] Package Capital Capital (3)=(4) Business: Has kantemba enterprise 3782 0.02 0.03 0.04 -0.00 [0.13] (0.01) (0.01) (0.01) [0.00] [0.00] [0.64] [0.67] Business: Has foodPrepSales enterprise 3782 0.04 0.00 -0.01 -0.01 [0.18] (0.01) (0.01) (0.01) [0.79] [0.39] [0.29] [0.27] Business: Has homeBrewery enterprise 3782 0.03 0.02 0.00 0.03 [0.18] (0.01) (0.01) (0.01) [0.13] [0.82] [0.01] [0.34] Business: Has fish enterprise 3782 0.16 0.08 0.08 0.00 [0.37] (0.03) (0.03) (0.03) [0.00] [0.01] [0.92] [0.82] Business: Has charcoal enterprise 3782 0.05 -0.02 -0.02 -0.01 [0.21] (0.01) (0.01) (0.01) [0.13] [0.22] [0.47] [0.63] Business: Has pettyTrader enterprise 3782 0.22 0.08 0.09 -0.00 [0.42] (0.04) (0.04) (0.03) [0.06] [0.03] [0.89] [0.81] Business: Has other enterprise 3782 0.03 0.05 0.05 0.03 [0.16] (0.02) (0.02) (0.01) [0.00] [0.00] [0.03] [0.83] Business profits: kantemba enterprise ⋄ 3782 1.75 8.54 10.22 0.37 [16.86] (1.96) (2.13) (1.23) [0.00] [0.00] [0.76] [0.51] Business profits: foodPrepSales enterprise ⋄ 3782 5.37 0.19 -1.57 -2.40 [33.77] (1.71) (1.66) (1.44) [0.91] [0.35] [0.10] [0.27] Business profits: homeBrewery enterprise ⋄ 3782 4.34 2.79 0.62 3.19 [26.08] (1.78) (1.87) (1.81) [0.12] [0.74] [0.08] [0.33] Business profits: fish enterprise ⋄ 3782 81.27 19.26 38.67 -7.21 [287.65] (19.24) (22.32) (17.17) [0.32] [0.08] [0.67] [0.31] Business profits: charcoal enterprise ⋄ 3782 11.50 -4.50 0.08 0.86 [68.12] (4.33) (4.24) (3.50) [0.30] [0.98] [0.81] [0.29] Business profits: pettyTrader enterprise ⋄ 3782 49.51 29.74 55.43 2.66 [161.89] (11.97) (19.01) (10.68) [0.01] [0.00] [0.80] [0.20] Business profits: other enterprise ⋄ 3782 10.37 8.85 12.27 3.58 [75.95] (5.66) (6.51) (5.88) [0.12] [0.06] [0.54] [0.57] Note: p-values reported in square brackets. ⋄ indicates variables winsorized at the 1% level. All regressions include (absorbed) strata dummies and the baseline outcomes as controls, in addition to a control for the additional consumption support in half the full package communities. Standard errors are clustered at the community level.</p><p xml:id="_FHCpwnH">Table B14: Quantile Regressions -Financial Package (1) (2) (3) (4) (5) 10th 25th 50th 75th 90th Panel A: 12-month impacts Total consumption 0.105 0.141 0.185 0.308 0.350 (0.035) (0.040) (0.066) (0.106) (0.153) Food security 0.401 0.420 0.451 -0.000 -0.000 (0.132) (0.135) (0.099) (0.058) (0.022) Assets 0.173 0.251 0.365 0.481 0.379 (0.034) (0.054) (0.072) (0.112) (0.137) Savings 0.000 0.000 0.277 0.575 1.081 (0.015) (0.011) (0.036) (0.063) (0.154) Aggregate income 0.027 0.085 0.185 0.451 0.913 (0.016) (0.026) (0.050) (0.093) (0.337) Psyc. well-being 0.443 0.420 0.342 0.188 0.137 (0.085) (0.098) (0.069) (0.072) (0.081) Panel B: 38-month impacts Total consumption 0.108 0.095 0.137 0.309 0.587 (0.041) (0.056) (0.080) (0.120) (0.203) Food security 0.246 0.191 0.361 0.223 0.000 (0.103) (0.091) (0.128) (0.090) (0.049) Assets 0.142 0.251 0.320 0.398 0.510 (0.045) (0.064) (0.078) (0.111) (0.170) Savings 0.000 0.000 0.000 0.493 0.789 (.) (.) (0.002) (0.068) (0.251) Aggregate income 0.008 0.034 0.116 0.231 0.309 (0.008) (0.011) (0.028) (0.057) (0.265) Psyc. well-being 0.329 0.179 0.201 0.077 0.189 (0.102) (0.073) (0.094) (0.105) (0.135) Note: Sample comprises 3,782 women for all 12-month regressions and 3,748 women for all 38-month regressions. All regressions include (absorbed) strata dummies in addition to a control for the additional consumption support in half the full package communities. Baseline lagged controls are included for all indicators, with the exception of the asset index for which comparable baseline data was not available. Standard errors are clustered at the community level.</p><p xml:id="_T8ngttn">Table B15: Full Package Spillover Impacts: Consumption and food security 12 months 38 months (1) (2) (3) (4) (5) (6) Control Spillover Control Spillover Obs. Mean Impacts Obs. Mean Impacts Panel A: Consumption Total consumption 1523 3809.90 24.34 1509 4714.14 92.80 [3082.08] (187.25) [4065.04] (364.69) [0.90] [0.80] Food consumption 1523 3273.70 -20.94 1509 3940.93 39.59 [2583.67] (148.89) [3303.39] (290.89) [0.89] [0.89] Non-food consumption 1523 508.60 21.31 1509 721.86 100.27 [616.74] (42.20) [982.43] (78.54) [0.61] [0.20] Panel B: Food Security Months without enough food 1523 1.76 -0.16 1509 2.17 0.06 [2.44] (0.16) [2.71] (0.18) [0.34] [0.72] Number of meals yesterday 1523 1.85 -0.04 1509 1.90 -0.02 [0.61] (0.05) [0.72] (0.04) [0.43] [0.70] Skipped a meal (last 7 days) 1523 0.40 -0.02 1509 0.41 0.03 [0.49] (0.04) [0.49] (0.03) [0.56] [0.26] Borrowed food (last 7 days) 1523 0.36 0.03 1509 0.51 -0.00 [0.48] (0.04) [0.50] (0.03) [0.40] [0.97] Panel C: Savings and assets Total savings (ZMW) 1523 201.75 -63.15 1509 171.61 -21.00 [712.57] (42.35) [810.71] (41.15) [0.14] [0.61] Total borrowing (ZMW) 1523 26.28 -3.56 1509 88.67 3.83 [137.86] (8.20) [375.52] (27.40) [0.67] [0.89] Asset index (Z-score) 1523 0.00 0.02 1509 0.00 -0.04 [1.00] (0.07) [1.00] (0.08) [0.82] [0.61] Livestock index (Z-score) 1523 -0.00 -0.04 1509 -0.00 -0.03 [1.00] (0.04) [1.00] (0.05) [0.30] [0.61] Note: p-values reported in square brackets. All outcomes are annual unless otherwise specified. Consumption outcomes are calculated per adult equivalent. Regression sample comprises control group women and project-eligible women in full package communities that were randomly assigned not to receive the intervention. ⋄ indicates variables winsorized at the 1% level. All regressions include (absorbed) strata dummies and the baseline outcomes as controls, in addition to a control for the additional consumption support in half the full package communities. Standard errors are clustered at the community level.</p><p xml:id="_ruJWjCJ">Table B16: Full Package Spillover Impacts: IGAs 12 months 38 months (1) (2) (3) (4) (5) (6) Control Spillover Control Spillover Obs. Mean Impacts Obs. Mean Impacts Income generating activities Any paid work (last 7 days) 1523 0.35 -0.03 1509 0.32 -0.03 [0.48] (0.03) [0.47] (0.03) [0.32] [0.41] Self-employment work (last 7 days) 1523 0.20 -0.03 1509 0.19 0.02 [0.40] (0.03) [0.40] (0.03) [0.35] [0.59] Household businesss work (last 7 days) 1523 0.12 -0.00 1509 0.09 0.01 [0.33] (0.03) [0.29] (0.02) [0.88] [0.41] Household agricultural work (last 7 days) 1523 0.71 -0.03 1509 0.60 -0.03 [0.45] (0.04) [0.49] (0.03) [0.40] [0.45] Number of household business 1523 0.58 0.00 1509 0.57 0.04 [0.62] (0.06) [0.63] (0.05) [0.98] [0.40] Sold crops in last year 1523 0.40 0.05 1509 0.41 -0.01 [0.49] (0.03) [0.49] (0.04) [0.17] [0.80] Owns any livestock 1523 0.53 0.01 1509 0.57 0.05 [0.50] (0.04) [0.50] (0.03) [0.77] [0.10] Sold any livestock in last year 1523 0.25 0.00 1509 0.24 0.02 [0.43] (0.03) [0.43] (0.03) [0.89] [0.37] Note: p-values reported in square brackets. All outcomes are annual unless otherwise specified. Consumption outcomes are calculated per adult equivalent. Regression sample comprises control group women and projecteligible women in full package communities that were randomly assigned not to receive the intervention. ⋄ indicates variables winsorized at the 1% level. All regressions include (absorbed) strata dummies and the baseline outcomes as controls, in addition to a control for the additional consumption support in half the full package communities. Perceived happiness measured through a 4-point Likert-scale question: 1 = Not at all happy, 2 = Not very happy, 3 = Rather happy, 4 = Very happy. Standard errors are clustered at the community level.</p><p xml:id="_2rEGYGB">Table B17: Full Package Spillover Impacts: Income and psychological well-being 12 months 38 months (1) (2) (3) (4) (5) (6) Control Spillover Control Spillover Obs. Mean Impacts Obs. Mean Impacts Panel A: Income Total HH income 1523 5552.23 -432.26 1509 8481.51 -1110.39 [8924.42] (594.65) [18196.58] (1021.10) [0.47] [0.28] Respondent labor income 1523 638.81 -78.73 1509 713.12 -118.27 [1207.77] (75.11) [1398.96] (86.74) [0.30] [0.18] Other HH member labor income 1523 825.29 4.65 1509 1463.89 -306.42 [1892.46] (96.36) [4769.47] (232.73) [0.96] [0.19] Household business profits 1523 2614.25 -159.51 1509 3385.80 48.69 [5877.40] (376.60) [7637.35] (509.53) [0.67] [0.92] Income from selling crops 1523 813.84 7.46 1509 1238.92 -77.36 [2420.11] (193.87) [4289.98] (240.59) [0.97] [0.75] Income from selling livestock 1523 163.90 -33.50 1509 198.73 -3.28 [601.86] (28.05) [750.84] (46.03) [0.24] [0.94] Panel B: Psychological well-being Perceived happiness 1523 2.69 -0.09 1509 2.88 -0.03 [0.95] (0.07) [0.91] (0.06) [0.19] [0.64] Self-esteem index 1523 -0.00 -0.18 1509 -0.00 0.05 [1.00] (0.06) [1.00] (0.09) [0.00] [0.55] Decision-making index 1523 -0.00 -0.06 1509 -0.00 0.13 [1.00] (0.10) [1.00] (0.04) [0.59] [0.00] Note: p-values reported in square brackets. All outcomes are annual unless otherwise specified. Consumption outcomes are calculated per adult equivalent. Regression sample comprises control group women and project-eligible women in full package communities that were randomly assigned not to receive the intervention. ⋄ indicates variables winsorized at the 1% level. All regressions include (absorbed) strata dummies and the baseline outcomes as controls, in addition to a control for the additional consumption support in half the full package communities. Perceived happiness measured through a 4point Likert-scale question: 1 = Not at all happy, 2 = Not very happy, 3 = Rather happy, 4 = Very happy. Standard errors are clustered at the community level.</p><p xml:id="_vRAaWsG">Appendix C: Construction of key outcomes</p><p xml:id="_gCvRZcA">Table C1: Outcome indices and component questions Outcome Construction Aggregate consumption Sum of value of food and non-food consumption. Individuals report crop-unit combinations (e.g. bushel of maize): We calculate the value of food consumed using median prices for smallest region with at least 10 reported prices for the given crop-unit. Food security First principal component of indicator variables for: (i) reported months without enough food, number of meals yesterday, (iii) whether skipped meal yesterday, and (iv) whether they borrowed food yesterday. Assets First principal component of indicator variables for owning the following assets: clock; radio; bicycle; bed; mattress; sofa; chair; table; oxcart; plough; oxharrow; hammer mill; treadle pump; canoe; boat; fishnet; axe; hoe; scooter; mobile phone; mosquito net; crop sprayer; brazier; iron; house; pick; hammer; and shovel. Savings Aggregate savings across formal, informal, and savings-group accounts. Household income Sum of household business profits, labor income, livestock sales, and crop sales. Psychological well-being First principal component of self-esteem index and self-reported happiness.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main" xml:id="_cnKWTYQ">When the money runs out: Do cash transfers have sustained effects on human capital accumulation?</title>
+		<author>
+			<persName><forename type="first">Sarah</forename><surname>Baird</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Craig</forename><surname>Mcintosh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Berk</forename><surname>Özler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_jCP3nVH">Journal of Development Economics</title>
+		<imprint>
+			<biblScope unit="volume">140</biblScope>
+			<biblScope unit="page" from="169" to="185" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main" xml:id="_wgHRFqW">Income Shocks and Adolescent Mental Health</title>
+		<author>
+			<persName><forename type="first">Sarah</forename><surname>Baird</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jacobus</forename><surname>De Hoop</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Berk</forename><surname>Özler</surname></persName>
+		</author>
+		<idno type="DOI">10.1353/jhr.2013.0014</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_QTBY8K8">Journal of Human Resources</title>
+		<title level="j" type="abbrev">Journal of Human Resources</title>
+		<idno type="ISSNe">1548-8004</idno>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="370" to="403" />
+			<date type="published" when="2013">2013</date>
+			<publisher>University of Wisconsin Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main" xml:id="_mDMspVX">Why do people stay poor?</title>
+		<author>
+			<persName><forename type="first">Clare</forename><surname>Balboni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Oriana</forename><surname>Bandiera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robin</forename><surname>Burgess</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Maitreesh</forename><surname>Ghatak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anton</forename><surname>Heil</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_zxaK2fF">The Quarterly Journal of Economics</title>
+		<imprint>
+			<biblScope unit="volume">137</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="785" to="844" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main" xml:id="_K3RGMHK">Labor Markets and Poverty in Village Economies*</title>
+		<author>
+			<persName><forename type="first">Oriana</forename><surname>Bandiera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robin</forename><surname>Burgess</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Narayan</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Selim</forename><surname>Gulesci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Imran</forename><surname>Rasul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Munshi</forename><surname>Sulaiman</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/qje/qjx003</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_FhTAJnE">The Quarterly Journal of Economics</title>
+		<idno type="ISSN">0033-5533</idno>
+		<idno type="ISSNe">1531-4650</idno>
+		<imprint>
+			<biblScope unit="volume">132</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="811" to="870" />
+			<date type="published" when="2017-03-20">2017</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main" xml:id="_SSWEZnW">Long-Term Effects of the Targeting the Ultra Poor Program</title>
+		<author>
+			<persName><forename type="first">Abhijit</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Esther</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Garima</forename><surname>Sharma</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/aeri.20200667</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_pD5Wyeh">American Economic Review: Insights</title>
+		<title level="j" type="abbrev">American Economic Review: Insights</title>
+		<idno type="ISSN">2640-205X</idno>
+		<idno type="ISSNe">2640-2068</idno>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="471" to="486" />
+			<date type="published" when="2021-12-01">2021</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main" xml:id="_PMMPkFM">A multifaceted program causes lasting progress for the very poor: Evidence from six countries</title>
+		<author>
+			<persName><forename type="first">Abhijit</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Esther</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nathanael</forename><surname>Goldberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dean</forename><surname>Karlan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Osei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">William</forename><surname>Parienté</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeremy</forename><surname>Shapiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bram</forename><surname>Thuysbaert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Udry</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_DTzMhum">Science</title>
+		<imprint>
+			<biblScope unit="volume">348</biblScope>
+			<biblScope unit="issue">6236</biblScope>
+			<biblScope unit="page">1260799</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main" xml:id="_fKWjyKP">Abhijit Banerjee, Esther Duflo and Michael Kremer</title>
+		<author>
+			<persName><forename type="first">Abhijit</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Esther</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Raghabendra</forename><surname>Chattopadhyay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeremy</forename><surname>Shapiro</surname></persName>
+		</author>
+		<idno type="DOI">10.1142/9789811260612_0004</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_fGJHueE">Nobel Lectures in Economic Sciences (2016–2020)</title>
+		<meeting><address><addrLine>Cambridge, MA</addrLine></address></meeting>
+		<imprint>
+			<publisher>WORLD SCIENTIFIC</publisher>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="page" from="197" to="293" />
+		</imprint>
+		<respStmt>
+			<orgName>Massachusetts Institute of Technology</orgName>
+		</respStmt>
+	</monogr>
+	<note>Unpublished paper</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b7">
+	<monogr>
+		<title level="m" type="main" xml:id="_JcNgThV">Universal basic income: Short-term results from a long-term experiment in Kenya</title>
+		<author>
+			<persName><forename type="first">Abhijit</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Faye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alan</forename><surname>Krueger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Niehaus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tavneet</forename><surname>Suri</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main" xml:id="_AbnyA9M">Putting a Band-Aid on a Corpse: Incentives for Nurses in the Indian Public Health Care System</title>
+		<author>
+			<persName><forename type="first">Abhijit</forename><forename type="middle">V</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Esther</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rachel</forename><surname>Glennerster</surname></persName>
+		</author>
+		<idno type="DOI">10.1162/jeea.2008.6.2-3.487</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Crtk3tE">Journal of the European Economic Association</title>
+		<title level="j" type="abbrev">Journal of the European Economic Association</title>
+		<idno type="ISSN">1542-4766</idno>
+		<idno type="ISSNe">1542-4774</idno>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">2-3</biblScope>
+			<biblScope unit="page" from="487" to="500" />
+			<date type="published" when="2008-04">2008</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main" xml:id="_wuSUPFh">No Household Left Behind: Afghanistan Targeting the Ultra Poor Impact Evaluation</title>
+		<author>
+			<persName><forename type="first">Guadalupe</forename><surname>Bedoya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aidan</forename><surname>Coville</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Johannes</forename><surname>Haushofer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mohammad</forename><surname>Isaqzadeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeremy</forename><forename type="middle">P</forename><surname>Shapiro</surname></persName>
+		</author>
+		<idno type="DOI">10.1596/1813-9450-8877</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_7TnYUp9">National Bureau of Economic Research</title>
+		<imprint>
+			<date type="published" when="2019-06">2019</date>
+			<publisher>World Bank, Washington, DC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main" xml:id="_Dmn26K7">The Returns to Microenterprise Support among the Ultrapoor: A Field Experiment in Postwar Uganda</title>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Blattman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eric</forename><forename type="middle">P</forename><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Julian</forename><surname>Jamison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Christian</forename><surname>Lehmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeannie</forename><surname>Annan</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/app.20150023</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_fjRyWG6">American Economic Journal: Applied Economics</title>
+		<title level="j" type="abbrev">American Economic Journal: Applied Economics</title>
+		<idno type="ISSN">1945-7782</idno>
+		<idno type="ISSNe">1945-7790</idno>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="35" to="64" />
+			<date type="published" when="2016-04-01">2016</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main" xml:id="_KpJYQDa">Generating Skilled Self-Employment in Developing Countries: Experimental Evidence from Uganda *</title>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Blattman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nathan</forename><surname>Fiala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sebastian</forename><surname>Martinez</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/qje/qjt057</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_NuzfUBk">The Quarterly Journal of Economics</title>
+		<idno type="ISSN">0033-5533</idno>
+		<idno type="ISSNe">1531-4650</idno>
+		<imprint>
+			<biblScope unit="volume">129</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="697" to="752" />
+			<date type="published" when="2014">2014</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main" xml:id="_3r8UGUw">The Long-Term Impacts of Grants on Poverty: Nine-Year Evidence from Uganda’s Youth Opportunities Program</title>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Blattman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nathan</forename><surname>Fiala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sebastian</forename><surname>Martinez</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/aeri.20190224</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_ajGJjNT">American Economic Review: Insights</title>
+		<title level="j" type="abbrev">American Economic Review: Insights</title>
+		<idno type="ISSN">2640-205X</idno>
+		<idno type="ISSNe">2640-2068</idno>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="287" to="304" />
+			<date type="published" when="2020-09-01">2020</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main" xml:id="_4cTVr6P">Experimental evidence on scaling up education reforms in Kenya</title>
+		<author>
+			<persName><forename type="first">Tessa</forename><surname>Bold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mwangi</forename><surname>Kimenyi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Germano</forename><surname>Mwabu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Justin</forename><surname>Sandefur</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_uT779pq">Journal of Public Economics</title>
+		<imprint>
+			<biblScope unit="volume">168</biblScope>
+			<biblScope unit="page" from="1" to="20" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main" xml:id="_Udyr5hS">Tackling psychosocial and capital constraints to alleviate poverty</title>
+		<author>
+			<persName><forename type="first">Thomas</forename><surname>Bossuroy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Markus</forename><surname>Goldstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bassirou</forename><surname>Karimou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dean</forename><surname>Karlan</surname></persName>
+			<idno type="ORCID">0000-0003-0164-1398</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Harounan</forename><surname>Kazianga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">William</forename><surname>Parienté</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Patrick</forename><surname>Premand</surname></persName>
+			<idno type="ORCID">0000-0002-7447-5995</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Catherine</forename><forename type="middle">C</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Udry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Julia</forename><surname>Vaillant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kelsey</forename><forename type="middle">A</forename><surname>Wright</surname></persName>
+			<idno type="ORCID">0000-0003-4156-3814</idno>
+		</author>
+		<idno type="DOI">10.1038/s41586-022-04647-8</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_5GRp65d">Nature</title>
+		<title level="j" type="abbrev">Nature</title>
+		<idno type="ISSN">0028-0836</idno>
+		<idno type="ISSNe">1476-4687</idno>
+		<imprint>
+			<biblScope unit="volume">605</biblScope>
+			<biblScope unit="issue">7909</biblScope>
+			<biblScope unit="page" from="291" to="297" />
+			<date type="published" when="2022-04-27">2022. 7909</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main" xml:id="_MkYe9j8">A Firm of One&apos;s Own: Experimental Evidence on Credit Constraints and Occupational Choice</title>
+		<author>
+			<persName><forename type="first">Andrew</forename><surname>Brudevold-Newman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Maddalena</forename><surname>Honorati</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gerald</forename><surname>Ipapa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pamela</forename><surname>Jakiela</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Owen</forename><surname>Ozier</surname></persName>
+		</author>
+		<idno type="DOI">10.1162/rest_a_01529</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_cMZ4M9B">Review of Economics and Statistics</title>
+		<idno type="ISSN">0034-6535</idno>
+		<idno type="ISSNe">1530-9142</idno>
+		<imprint>
+			<biblScope unit="page" from="1" to="25" />
+			<date type="published" when="2024-10-29">2024</date>
+			<publisher>MIT Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main" xml:id="_zPGXfpa">Teaching personal initiative beats traditional training in boosting small business in West Africa</title>
+		<author>
+			<persName><forename type="first">Francisco</forename><surname>Campos</surname></persName>
+			<idno type="ORCID">0000-0002-1392-737X</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Frese</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Markus</forename><surname>Goldstein</surname></persName>
+			<idno type="ORCID">0000-0002-6971-7259</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Leonardo</forename><surname>Iacovone</surname></persName>
+			<idno type="ORCID">0000-0002-5659-2370</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Hillary</forename><forename type="middle">C</forename><surname>Johnson</surname></persName>
+			<idno type="ORCID">0000-0003-2044-2466</idno>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><surname>Mckenzie</surname></persName>
+			<idno type="ORCID">0000-0002-1885-2426</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Mona</forename><surname>Mensmann</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.aan5329</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_naAhm5x">Science</title>
+		<title level="j" type="abbrev">Science</title>
+		<idno type="ISSN">0036-8075</idno>
+		<idno type="ISSNe">1095-9203</idno>
+		<imprint>
+			<biblScope unit="volume">357</biblScope>
+			<biblScope unit="issue">6357</biblScope>
+			<biblScope unit="page" from="1287" to="1290" />
+			<date type="published" when="2017-09-22">2017</date>
+			<publisher>American Association for the Advancement of Science (AAAS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main" xml:id="_n9EDHq7">Relative Income, Happiness, and Utility: An Explanation for the Easterlin Paradox and Other Puzzles</title>
+		<author>
+			<persName><forename type="first">Andrew</forename><forename type="middle">E</forename><surname>Clark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Frijters</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><forename type="middle">A</forename><surname>Shields</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/jel.46.1.95</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_8vd4VaQ">Journal of Economic Literature</title>
+		<title level="j" type="abbrev">Journal of Economic Literature</title>
+		<idno type="ISSN">0022-0515</idno>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="95" to="144" />
+			<date type="published" when="2008-02-01">2008</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b18">
+	<analytic>
+		<title level="a" type="main" xml:id="_EcM2BXR">One-Time Transfers of Cash or Capital Have Long-Lasting Effects on Microenterprises in Sri Lanka</title>
+		<author>
+			<persName><forename type="first">De</forename><surname>Mel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><surname>Suresh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Mckenzie</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Woodruff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_dDEbngN">Science</title>
+		<imprint>
+			<biblScope unit="volume">335</biblScope>
+			<biblScope unit="issue">6071</biblScope>
+			<biblScope unit="page" from="962" to="966" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main" xml:id="_Qc4SftS">General Equilibrium Effects of Cash Transfers: Experimental Evidence From Kenya</title>
+		<author>
+			<persName><forename type="first">Dennis</forename><surname>Egger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Johannes</forename><surname>Haushofer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Edward</forename><surname>Miguel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Niehaus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Walker</surname></persName>
+		</author>
+		<idno type="DOI">10.3982/ecta17945</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_aN8A2kp">Econometrica</title>
+		<title level="j" type="abbrev">ECTA</title>
+		<idno type="ISSN">0012-9682</idno>
+		<imprint>
+			<biblScope unit="volume">90</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="2603" to="2643" />
+			<date type="published" when="2022">2022</date>
+			<publisher>The Econometric Society</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main" xml:id="_MgpfCyX">Cash Transfers, Food Prices, and Nutrition Impacts on Ineligible Children</title>
+		<author>
+			<persName><forename type="first">Deon</forename><surname>Filmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jed</forename><surname>Friedman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eeshani</forename><surname>Kandpal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Junko</forename><surname>Onishi</surname></persName>
+		</author>
+		<idno type="DOI">10.1162/rest_a_01061</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_wJgkG35">The Review of Economics and Statistics</title>
+		<idno type="ISSN">0034-6535</idno>
+		<idno type="ISSNe">1530-9142</idno>
+		<imprint>
+			<biblScope unit="volume">105</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="327" to="343" />
+			<date type="published" when="2023-03">2023</date>
+			<publisher>MIT Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main" xml:id="_Gdz9uz2">In search of the holy grail: Post-intervention effects of an unconditional cash transfer program in Zambia</title>
+		<author>
+			<persName><forename type="first">Sudhanshu</forename><surname>Handa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gelson</forename><surname>Tembo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Luisa</forename><surname>Natali</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Averi</forename><surname>Chakrabarti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_vNVsvbw">Journal of Development Economics</title>
+		<imprint>
+			<biblScope unit="volume">174</biblScope>
+			<biblScope unit="page">103454</biblScope>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main" xml:id="_fju4hxw">Can unconditional cash transfers raise long-term living standards? Evidence from Zambia</title>
+		<author>
+			<persName><forename type="first">Sudhanshu</forename><surname>Handa</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">Zambia Cash Transfer Evaluation Study</orgName>
+			</affiliation>
+		</author>
+		<author>
+			<persName><forename type="first">Luisa</forename><surname>Natali</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">Zambia Cash Transfer Evaluation Study</orgName>
+			</affiliation>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><surname>Seidenfeld</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">Zambia Cash Transfer Evaluation Study</orgName>
+			</affiliation>
+		</author>
+		<author>
+			<persName><forename type="first">Gelson</forename><surname>Tembo</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">Zambia Cash Transfer Evaluation Study</orgName>
+			</affiliation>
+		</author>
+		<author>
+			<persName><forename type="first">Benjamin</forename><surname>Davis ; Team</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">Zambia Cash Transfer Evaluation Study</orgName>
+			</affiliation>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Gjztnsv">Journal of Development Economics</title>
+		<imprint>
+			<biblScope unit="volume">133</biblScope>
+			<biblScope unit="page" from="42" to="65" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main" xml:id="_QuQjRn6">The Short-term Impact of Unconditional Cash Transfers to the Poor: Experimental Evidence from Kenya*</title>
+		<author>
+			<persName><forename type="first">Johannes</forename><surname>Haushofer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeremy</forename><surname>Shapiro</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/qje/qjw025</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_mxyJUAS">The Quarterly Journal of Economics</title>
+		<idno type="ISSN">0033-5533</idno>
+		<idno type="ISSNe">1531-4650</idno>
+		<imprint>
+			<biblScope unit="volume">131</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1973" to="2042" />
+			<date type="published" when="2016-07-19">2016</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b24">
+	<analytic>
+		<title level="a" type="main" xml:id="_9jJpv3K">The Short-term Impact of Unconditional Cash Transfers to the Poor: Experimental Evidence from Kenya*</title>
+		<author>
+			<persName><forename type="first">Johannes</forename><surname>Haushofer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeremy</forename><surname>Shapiro</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/qje/qjw025</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_5JwGGQB">The Quarterly Journal of Economics</title>
+		<idno type="ISSN">0033-5533</idno>
+		<idno type="ISSNe">1531-4650</idno>
+		<imprint>
+			<biblScope unit="volume">131</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1973" to="2042" />
+			<date type="published" when="2018">2018</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+			<pubPlace>Nairobi, Kenya</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Busara Center for Behavioral Economics</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b25">
+	<monogr>
+		<title level="m" type="main" xml:id="_FeU2Trh">The Comparative Impact of Cash Transfers and a Psychotherapy Program on Psychological and Economic Well-being</title>
+		<author>
+			<persName><forename type="first">Johannes</forename><surname>Haushofer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Mudida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeremy</forename><surname>Shapiro</surname></persName>
+		</author>
+		<idno type="DOI">10.3386/w28106</idno>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<publisher>National Bureau of Economic Research</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">Working Paper</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b26">
+	<analytic>
+		<title level="a" type="main" xml:id="_xkFpmqA">Targeting Impact versus Deprivation</title>
+		<author>
+			<persName><forename type="first">Johannes</forename><surname>Haushofer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Niehaus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Carlos</forename><surname>Paramo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Edward</forename><surname>Miguel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><forename type="middle">W</forename><surname>Walker</surname></persName>
+		</author>
+		<idno type="DOI">10.3386/w30138</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_9NsRrbj">American Economic Review</title>
+		<imprint>
+			<date type="published" when="2022-06" />
+			<publisher>National Bureau of Economic Research</publisher>
+		</imprint>
+	</monogr>
+	<note>forthcoming</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b27">
+	<monogr>
+		<title level="m" type="main" xml:id="_zzmdX6b">Intervention size and persistence</title>
+		<author>
+			<persName><forename type="first">Florence</forename><surname>Kondylis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><surname>Loeser</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b28">
+	<analytic>
+		<title level="a" type="main" xml:id="_kdM9PVx">Relative-income effects on subjective well-being in the cross-section</title>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Mcbride</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0167-2681(01)00145-7</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_H3wJeuA">Journal of Economic Behavior &amp; Organization</title>
+		<title level="j" type="abbrev">Journal of Economic Behavior &amp; Organization</title>
+		<idno type="ISSN">0167-2681</idno>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="251" to="278" />
+			<date type="published" when="2001-07">2001</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b29">
+	<analytic>
+		<title level="a" type="main" xml:id="_SE2RDWs">Growing Markets through Business Training for Female Entrepreneurs: A Market-Level Randomized Experiment in Kenya</title>
+		<author>
+			<persName><forename type="first">David</forename><surname>Mckenzie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Susana</forename><surname>Puerto</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/app.20180340</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_pJwhBTx">American Economic Journal: Applied Economics</title>
+		<title level="j" type="abbrev">American Economic Journal: Applied Economics</title>
+		<idno type="ISSN">1945-7782</idno>
+		<idno type="ISSNe">1945-7790</idno>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="297" to="332" />
+			<date type="published" when="2021-04-01">2021</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b30">
+	<analytic>
+		<title level="a" type="main" xml:id="_PQuvDZs">Le numéro en bref</title>
+		<author>
+			<persName><forename type="first">David</forename><surname>Mckenzie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Woodruff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kjetil</forename><surname>Bjorvatn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Miriam</forename><surname>Bruhn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jing</forename><surname>Cai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Juanita</forename><surname>Gonzalez-Uribe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Simon</forename><surname>Quinn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tetsushi</forename><surname>Sonobe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Martin</forename><surname>Valdivia</surname></persName>
+		</author>
+		<idno type="DOI">10.4000/insitu.40073</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_NV2ZebQ">In Situ</title>
+		<title level="j" type="abbrev">insitu</title>
+		<idno type="ISSNe">1630-7305</idno>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<date type="published" when="2023">2023</date>
+			<publisher>OpenEdition</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b31">
+	<analytic>
+		<title level="a" type="main" xml:id="_QFq6JQT">Understanding the Average Impact of Microcredit Expansions: A Bayesian Hierarchical Analysis of Seven Randomized Experiments</title>
+		<author>
+			<persName><forename type="first">Rachael</forename><surname>Meager</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_BbdneDX">American Economic Journal: Applied Economics</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="57" to="91" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b32">
+	<analytic>
+		<title level="a" type="main" xml:id="_hzppdkc">Experimentation at Scale</title>
+		<author>
+			<persName><forename type="first">Karthik</forename><surname>Muralidharan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Niehaus</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/jep.31.4.103</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_5hHrda5">Journal of Economic Perspectives</title>
+		<title level="j" type="abbrev">Journal of Economic Perspectives</title>
+		<idno type="ISSN">0895-3309</idno>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="103" to="124" />
+			<date type="published" when="2017-11-01">2017</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b33">
+	<analytic>
+		<title level="a" type="main" xml:id="_Eyz6H5V">The Effects of Income Transparency on Well-Being: Evidence from a Natural Experiment</title>
+		<author>
+			<persName><forename type="first">Ricardo</forename><surname>Perez-Truglia</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/aer.20160256</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_mQkvmEa">American Economic Review</title>
+		<title level="j" type="abbrev">American Economic Review</title>
+		<idno type="ISSN">0002-8282</idno>
+		<imprint>
+			<biblScope unit="volume">110</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1019" to="1054" />
+			<date type="published" when="2020-04-01">2020</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b34">
+	<analytic>
+		<title level="a" type="main" xml:id="_ytAQT4X">The Divide between Subsistence and Transformational Entrepreneurship</title>
+		<author>
+			<persName><forename type="first">Antoinette</forename><surname>Schoar</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/605853</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_yAc9XJy">Innovation Policy and the Economy</title>
+		<title level="j" type="abbrev">Innovation Policy and the Economy</title>
+		<idno type="ISSN">1531-3468</idno>
+		<idno type="ISSNe">1537-2618</idno>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="57" to="81" />
+			<date type="published" when="2010-01">2010</date>
+			<publisher>University of Chicago Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b35">
+	<analytic>
+		<title level="a" type="main" xml:id="_h2PaThr">Cash-plus: Poverty impacts of alternative transfer-based approaches</title>
+		<author>
+			<persName><forename type="first">Richard</forename><surname>Sedlmayr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anuj</forename><surname>Shah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Munshi</forename><surname>Sulaiman</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jdeveco.2019.102418</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_dsMcWQF">Journal of Development Economics</title>
+		<title level="j" type="abbrev">Journal of Development Economics</title>
+		<idno type="ISSN">0304-3878</idno>
+		<imprint>
+			<biblScope unit="volume">144</biblScope>
+			<biblScope unit="page">102418</biblScope>
+			<date type="published" when="2020-05">2020</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

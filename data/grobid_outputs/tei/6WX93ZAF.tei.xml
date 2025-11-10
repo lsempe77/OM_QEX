@@ -1,0 +1,1491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" xml:id="_yXS8K3p">Scalable Nutrition Interventions in a Graduation Model Program: Experimental Evidence from Ethiopia</title>
+				<funder ref="#_YR2JYmT">
+					<orgName type="full">US Agency for International Development under Cooperative Agreement</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>University of Chicago Press</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2025-04-01">2025-04-01</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Harold</forename><surname>Alderman</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Daniel</forename><forename type="middle">O</forename><surname>Gilligan</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Jessica</forename><surname>Leight</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Tigist</forename><surname>Mamo</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Michael</forename><surname>Mulford</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Heleene</forename><surname>Tambet</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">International Food Policy Research Institute</orgName>
+								<orgName type="institution" key="instit2">World Vision Addis</orgName>
+								<address>
+									<settlement>Ababa</settlement>
+									<country key="ET">Ethiopia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="institution">heleene tambet International Food Policy Research Institute</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main" xml:id="_Jzz3ygh">Scalable Nutrition Interventions in a Graduation Model Program: Experimental Evidence from Ethiopia</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main" xml:id="_HqVjf8s">Economic Development and Cultural Change</title>
+						<title level="j" type="abbrev">Economic Development and Cultural Change</title>
+						<idno type="ISSN">0013-0079</idno>
+						<idno type="eISSN">1539-2988</idno>
+						<imprint>
+							<publisher>University of Chicago Press</publisher>
+							<biblScope unit="volume">73</biblScope>
+							<biblScope unit="issue">3</biblScope>
+							<biblScope unit="page" from="1559" to="1604"/>
+							<date type="published" when="2025-04-01" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">E3265EB42E7134FAB3A285CA44D990F1</idno>
+					<idno type="DOI">10.1086/732179</idno>
+					<note type="submission">Electronically published March 18, 2025</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2025-11-04T18:59+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a292bac</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=1, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=true, generateTeiCoordinates=[true], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_utspXtr">I. Introduction</head></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="473.726" lry="689.726"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="473.726" lry="689.726"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="473.726" lry="689.726"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="473.726" lry="689.726"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="473.726" lry="689.726"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="473.726" lry="689.726"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="473.726" lry="689.726"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="473.726" lry="689.726"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="473.726" lry="689.726"/>
+		<surface n="10" ulx="0.0" uly="0.0" lrx="473.726" lry="689.726"/>
+		<surface n="11" ulx="0.0" uly="0.0" lrx="473.726" lry="689.726"/>
+		<surface n="12" ulx="0.0" uly="0.0" lrx="473.726" lry="689.726"/>
+		<surface n="13" ulx="0.0" uly="0.0" lrx="473.726" lry="689.726"/>
+		<surface n="14" ulx="0.0" uly="0.0" lrx="473.726" lry="689.726"/>
+		<surface n="15" ulx="0.0" uly="0.0" lrx="473.726" lry="689.726"/>
+		<surface n="16" ulx="0.0" uly="0.0" lrx="473.726" lry="689.726"/>
+		<surface n="17" ulx="0.0" uly="0.0" lrx="473.726" lry="689.726"/>
+		<surface n="18" ulx="0.0" uly="0.0" lrx="473.726" lry="689.726"/>
+		<surface n="19" ulx="0.0" uly="0.0" lrx="473.726" lry="689.726"/>
+		<surface n="20" ulx="0.0" uly="0.0" lrx="473.726" lry="689.726"/>
+		<surface n="21" ulx="0.0" uly="0.0" lrx="473.726" lry="689.726"/>
+		<surface n="22" ulx="0.0" uly="0.0" lrx="473.726" lry="689.726"/>
+		<surface n="23" ulx="0.0" uly="0.0" lrx="473.726" lry="689.726"/>
+		<surface n="24" ulx="0.0" uly="0.0" lrx="473.726" lry="689.726"/>
+		<surface n="25" ulx="0.0" uly="0.0" lrx="473.726" lry="689.726"/>
+		<surface n="26" ulx="0.0" uly="0.0" lrx="473.726" lry="689.726"/>
+		<surface n="27" ulx="0.0" uly="0.0" lrx="473.726" lry="689.726"/>
+		<surface n="28" ulx="0.0" uly="0.0" lrx="473.726" lry="689.726"/>
+		<surface n="29" ulx="0.0" uly="0.0" lrx="473.726" lry="689.726"/>
+		<surface n="30" ulx="0.0" uly="0.0" lrx="473.726" lry="689.726"/>
+		<surface n="31" ulx="0.0" uly="0.0" lrx="473.726" lry="689.726"/>
+		<surface n="32" ulx="0.0" uly="0.0" lrx="473.726" lry="689.726"/>
+		<surface n="33" ulx="0.0" uly="0.0" lrx="473.726" lry="689.726"/>
+		<surface n="34" ulx="0.0" uly="0.0" lrx="473.726" lry="689.726"/>
+		<surface n="35" ulx="0.0" uly="0.0" lrx="473.726" lry="689.726"/>
+		<surface n="36" ulx="0.0" uly="0.0" lrx="473.726" lry="689.726"/>
+		<surface n="37" ulx="0.0" uly="0.0" lrx="473.726" lry="689.726"/>
+		<surface n="38" ulx="0.0" uly="0.0" lrx="473.726" lry="689.726"/>
+		<surface n="39" ulx="0.0" uly="0.0" lrx="473.726" lry="689.726"/>
+		<surface n="40" ulx="0.0" uly="0.0" lrx="473.726" lry="689.726"/>
+		<surface n="41" ulx="0.0" uly="0.0" lrx="473.726" lry="689.726"/>
+		<surface n="42" ulx="0.0" uly="0.0" lrx="473.726" lry="689.726"/>
+		<surface n="43" ulx="0.0" uly="0.0" lrx="473.726" lry="689.726"/>
+		<surface n="44" ulx="0.0" uly="0.0" lrx="473.726" lry="689.726"/>
+		<surface n="45" ulx="0.0" uly="0.0" lrx="473.726" lry="689.726"/>
+		<surface n="46" ulx="0.0" uly="0.0" lrx="473.726" lry="689.726"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_UVHXJuy"><p xml:id="_frj6Jyq">Graduation model programs expand on the concept of targeted cash or food transfers supporting consumption by providing an additional lump-sum asset or cash transfer designed to promote and sustain poverty alleviation. These graduation programs often include intensive livelihood training to support higher earnings as well as measures to promote financial inclusion (Banerjee et al. 2015; Bandiera  et al. 2017; Bossuroy et al. 2022). Occasionally, they also include explicit measures to increase women's empowerment or reduce stress. Graduation models have been tested in many countries after the publication of results of trials in six countries styled after BRAC's Targeting the Extremely Poor program (Banerjee et al.  2015). Evaluations of these programs have demonstrated their potential to improve economic outcomes. Most of these programs, however, were not designed with nutrition interventions and generally do not report effects on nutrition outcomes.</p><p xml:id="_2jkmm7w">Graduation model programs may be strengthened by including nutrition objectives and explicit nutrition programming for several reasons. Malnutrition is often, but not always, concentrated in poor households that are targeted in graduation programs. Thus, reduction of malnutrition is consistent with the objective of achieving sustainable long-term improvements in well-being for participants and their communities and to address outcomes beyond monetary poverty. There is some evidence that transfers must be accompanied by other design features such as nutrition training and access to health services to be effective in achieving nutrition-related objectives (Manley, Alderman, and Gentilini 2022; Ahmed,  Hoddinott, and Roy 2024). Still, currently little is known about how to design graduation programs in terms of the size of the asset transfer and the approach to nutrition services to successfully achieve improvements in child nutrition.</p><p xml:id="_HSrQ7fY">The current study aims to address this lacuna. It reports the results of a cluster randomized controlled trial to assess the effect on child nutrition of a "lighttouch" graduation program, Strengthen PSNP Institutions and Resilience (SPIR). The program included nutrition interventions of varying intensity provided to beneficiaries of Ethiopia's Productive Safety Net Program (PSNP), one of the largest social protection programs on the continent. <ref type="bibr">1</ref> Implemented at scale, SPIR also provided PSNP beneficiaries with additional livelihood programming including savings-group formation, agricultural and livestock value-chain training, and linkages to financial services. In addition, consistent with the objective of enhancing livelihoods, extremely poor households received a one-time additional transfer, either as cash transfers or in-kind poultry grants. Leight  et al. (2023) compare the size of the lump-sum transfer in the current trial with 10 others reported in the literature; all but Bossuroy et al. (2022) exceeded the value of the current program in 2017 purchasing power parity dollars. The difference is often substantial. For example, transfers in the six programs studied in Banerjee et al. (2015) were up to four times larger and were accompanied by intensive livelihoods training and weekly household-level technical support and coaching.</p><p xml:id="_8mgDTcS">Child stunting and infant and young child feeding (IYCF) practices and knowledge were the primary and secondary nutrition outcomes evaluated by this trial, which was adequately powered to assess a significant difference in these outcomes. This paper makes two main contributions to the literature on graduation. First, it documents the contribution of modestly sized cash and in-kind livelihood support on nutrition. Second, it indicates whether the effect of such grants can be enhanced with the provision of nutritional services of varying intensity. Results show that contact with health-care workers and participation in community health activities increased significantly under the enhanced nutrition model, as did maternal nutritional knowledge. Nevertheless, in the absence of an additional grant, the enhanced nutrition model did not achieve significant improvements in child stunting nor did the core nutrition model with grants have an observable effect on this primary outcome. However, some complementarity of program components was observed. In particular, poultry livelihood grants combined with the enhanced nutrition model increased child dietary diversity, and cash livelihood grants combined with the enhanced nutrition model resulted in significantly reduced childhood stunting.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_ufZGdr6">II. Study Context in Relation to Current Literature</head><p xml:id="_GJjkDc5">Behavioral change communication (BCC) is a regular component of nutrition interventions. Keats et al. (2021) deem the evidence on the contribution of BCC to effective implementation of breast-feeding promotion and to education on complementary feeding in conjunction with food provision to be strong in foodinsecure settings but only moderate without food provision in more food-secure populations. This implies potential program complementarity with transfer programs (Olney et al. 2022). A few programs that include regular grants during the critical years for child growth as well as packages of services along with nutrition-focused BCC have reported significant effects on child nutrition (Cahyadi et al. 2020; Carneiro et al. 2021). Relatively few studies, however, have directly assessed the effect of BCC in conjunction with transfers compared with transfers alone (Field and Maffioli 2021; Little et al. 2021; Ahmed, Hoddinott,  and Roy 2024). Although the ultimate goal of behavioral change is to improve nutritional outcomes, studies often focus on knowledge and behaviors around IYCF, which appear more responsive to interventions than do anthropometric indicators. For example, Han, Kim, and Park (2021) look at BCC combined with food vouchers in Ethiopia and conclude that neither intervention alone influences child feeding practices or chronic child undernutrition, but the combination does.</p><p xml:id="_Ue93Dxu">This is the first study we are aware of to provide systematic evidence on the effectiveness of nutrition BCC delivered at scale as an integral part of a graduation program on child growth for extremely poor households. While the literature on graduation programs regularly examines effects on food security, relatively few studies look at child nutritional status or dietary diversity among transfer recipients. For example, none of the six country studies in the seminal paper by Banerjee et al. (2015) nor those by Bandiera et al. (2017), Blattman,  Fiala, and Martinez (2020), or Bossuroy et al. (2022) include evidence on child stunting or underweight. <ref type="bibr">2</ref>  Haushofer and Shapiro (2016) report results on an overall health index in which nutrition is a component but find no effect from either the monthly or the larger lump-sum transfer on this composite measure. McIntosh and Zeitlin (2024) show the effect of lump-sum transfers on nutritional outcomes and compare the effect with that of an in-kind nutritional and maternal health intervention with cash transfers in Rwanda and find significant effects on anthropometric outcomes in one sub-arm of the cash component in the study. They do not, however, explore the complementarity of cash in health interventions.</p><p xml:id="_AXBXfx2">As well as comparing cash transfers with in-kind services, McIntosh and Zeitlin (2024) include a range of transfer allocations to benchmark the size of transfers that might result in improved nutrition. They find that only the largest transfer, which was more than twice as large as the one in the light-touch graduation program studied here, had an effect of 0.1 standard deviations on anthropometry, significant at the 10% level. <ref type="bibr">3</ref> The current study builds on those findings by investigating whether a considerably smaller transfer than provided in several published graduation programs can enhance child nutritional status by exploiting complementarities in scalable nutrition-focused services.</p><p xml:id="_5XeVhy6">In addition to exploring complementarity within a graduation program, the study's experimental design compares the effect of two models of nutrition investment, an enhanced model of more intensive BCC along with components designed to strengthen male support to investments in child nutrition and support to women's well-being, including mental health, and a less intensive community nutrition program that did not directly support household visits. The goal of the intensive mode of delivery is in keeping with Kim et al. (2020), who report results of trials in Bangladesh, Ethiopia, and Vietnam designed to directly compare intensive interpersonal contact relative to alternate standard nutrition BCC programs. All three of these studies confirmed that the frequency of contact matters for dietary diversity and breast-feeding practices. <ref type="formula">Kim et al. (2019)</ref>also modeled dose response for improved height for age with a combination of platforms in a companion study in Ethiopia. The current study-investigating a program that reached more than one-half million beneficiaries-adds to the literature on nutrition program intensity within the context of an integrated graduation model program.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_rs3Drm2">III. Evaluation Design</head><p xml:id="_4cpyWvy">While the PSNP was initiated in 2005, it did not include a specific nutrition component until the fourth phase (PSNP4) launched in 2015 (Berhane et al.  2020). To date, neither the earlier stages nor the fourth phase of PSNP have shown any acceleration of the national trend in reducing stunting of young children (Berhane et al. 2020; Abay et al. 2023). <ref type="bibr">4</ref> The US Agency for International Development (USAID) Bureau of Humanitarian Assistance supported the PSNP4 in selected woredas (districts) through the SPIR graduation program. In addition to supporting implementation of PSNP4, SPIR also provided additional complementary livelihood, nutrition, gender, and natural resource management activities led by World Vision in partnership with the Organization for Rehabilitation and Development in Amhara and CARE. SPIR targeted more than 500,000 PNSP clients in 15 of the most vulnerable woredas in Amhara and Oromia regions of Ethiopia and provided community-level programming and capacity building of government staff involved in public-service delivery at the woreda (district) and kebele (subdistrict) level.</p><p xml:id="_dCp3MVj">The trial included three treatment arms and a control group. One treatment arm provided a package of enhanced nutrition (EN) services including support for household-level BCC, recuperative feeding for acutely malnourished children, promotion of male engagement in household tasks, and group therapy for mothers screened for depressive symptoms. A subset targeting extremely poor beneficiaries within this arm also received an additional one-time grant either in cash or as a poultry production start-up package as a part of the enhanced livelihood program component. A second treatment arm provided the enhanced livelihood program treatment including the provision of grants to extremely poor households with a less intensive and less costly core nutrition (CN) service. <ref type="bibr">5</ref> A third treatment arm provided the same enhanced package of nutrition services as the first treatment arm but without the enhanced livelihood program. All three treatment arms also provided a set of core services including promotion of savings and access to credit through Village Economic and Social Associations (VESAs).</p><p xml:id="_7SQqs2A">Extremely poor households among the already food-insecure PSNP client households in the two enhanced livelihood program treatment arms received a livelihood transfer equivalent to US$200 in local currency. These grants are not a general component of the PSNP program but mirror the livelihoods transfer provision in the PSNP4 program implementation manual. The kebeles in these arms of the study were randomly selected to provide either a one-time cash transfer or a poultry package of 16 birds as well as feed, equipment, and cash for veterinary services. The poultry package, including services, is equivalent in value to the cash grants. In each of these kebeles, the 10 poorest households out of 18 households in the baseline survey sample, the "extremely poor," were chosen to receive these transfers through a ranking assessment based on an asset index. The asset index included ownership data on more than 30 asset categories, including consumer durables, productive assets, livestock, and land. It was constructed by using principal components analysis, in which the first component maximizes the variation of all variables explained by that component, and therefore gives high weights to variables that are highly correlated with each other (Filmer and  Pritchett 2001). The asset indexes and the rankings were constructed for all arms of the study, including the control arm, in order to have comparable samples. These extremely poor households are the main focus of this study. <ref type="bibr">6</ref> The Consolidated Standards of Reporting Trials (CONSORT) diagram (fig. <ref type="figure" target="#fig_0">1</ref>) summarizes the research design and stratification and indicates sample sizes. As indicated, while the overall trial had three treatment arms, because there were two modalities of livelihood grants, these three arms can be further divided into five subarms for analysis.</p><p xml:id="_qzj9mp3">Across all treatment arms, as well as in the control group, PSNP clients participating in public works were eligible to attend six monthly 2-hour nutrition BCC sessions in place of 4 person-days of work over the 6-month period. This was augmented by IYCF and nutrition BCC discussions in VESAs in both the CN and EN treatments. Topics covered included optimal IYCF practices, adolescent and maternal nutrition, diversified sources of nutritious foods, and utilization of health and nutrition services. Also in all treatment arms, a water, sanitation, and hygiene (WASH) component included implementation of a community-led total sanitation and hygiene activity and open defecation free (ODF) public-education events, as well as the provision of support to village-level WASH management activities and limited support to improving potable water and sanitation infrastructure (water sources and latrines).</p><p xml:id="_wsMm9nn">The EN interventions built upon these core nutrition activities by supporting government health extension staff and volunteers to additionally deliver BCC lessons on IYCF practices and adolescent and maternal nutrition through a timed and targeted counseling (TTC) model at the household level. The TTC model envisions 11 home visits in the first 1,000 days after conception, 4 of which should be during pregnancy, 2 in the first month postpartum, 4 more when the child is between 1 and 12 months, and another visit when the child is between 14 and 18 months. Additional services in the EN treatment kebeles were targeted to caregivers of children screened for moderate or severe malnutritionbased underweight (weight for age). Children with moderate acute malnutrition based on mid-upper arm circumference (MUAC) were also invited to participate, although more severe cases were referred to health centers. These communitybased participatory nutrition promotion (CPNP) sessions included training on complementary feeding and caring practices within 2-week intensive recuperative feeding sessions.</p><p xml:id="_kgMYqUm">These activities were coordinated by trained community health facilitators who were recruited and assigned to each of the kebeles to support the health extension workers (HEWs) in planning, coordinating, and facilitating health and nutrition activities. The facilitators also supported local Health Development Army (HDA) volunteers to conduct household-level counseling related to IYCF and maternal nutrition by using the TTC approach. Both husband and wife were encouraged to be present for these counseling sessions to promote male engagement in targeted IYCF and maternal nutrition actions. In addition, local facilitators supported the formation of men's engagement groups and facilitated eight sessions designed to critically reflect on cultural gender norms and explore the positive and perceived negative effects of male involvement in household chores and child-care activities that were typically assigned as women's-only tasks. <ref type="bibr">7</ref> Figure <ref type="figure" target="#fig_1">2</ref> summarizes these different nutrition-and livelihood-related services in each arm including those available for the PSNP participants in the control. CN activities are additional to those available for the control, and the services in EN build upon those for the CN arm.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_U9bqBJ9">IV. Data</head><p xml:id="_kCdfGUB">The data were collected over three rounds, with a baseline conducted between February and April 2018, a midline survey between July and October 2019, and an end-line survey originally planned for 2020, 24 months after the baseline, but delayed an additional 12 months because of COVID-19. Initially, 196 kebeles in Amhara (115 kebeles) and Oromia (81 kebeles) regions were selected for the trial and subsequently randomized into treatment groups. However, two kebeles had no PSNP clients and thus were not eligible for the program. Two other kebeles experienced ongoing civil unrest and were necessarily dropped from the project. Thus, the evaluation sample comprises 192 kebeles. In each kebele, up to 18 households were randomly sampled, leading to a planned baseline sample of 3,456 households in the study. The inclusion criteria for the sample were that households had to (1) be a PSNP client household, (2) have at least one child aged 0-35 months (the index child), and (3) have the mother or primary female caregiver of the 0-to-35-month-old child as a member of the household. <ref type="bibr">8</ref> The last criterion enabled measurement of maternal and child diets as well as child care for nutritionally vulnerable ages in all sample households. The eventual baseline sample consisted of 3,314 households.</p><p xml:id="_dEBHc7D">The end-line survey sought to reinterview any baseline household unless it had permanently moved or dissolved. Of the 3,248 households in the end-line target sample, 3,094 were located and interviewed, implying an attrition rate of 4.7% relative to the target sample, or 6.6% relative to the original baseline sample. Nearly half of the attrition (70 households, or 2% of the target sample) at end line was due to insecurity in one of the operational woredas in Amhara that resulted in a decision not to visit four kebeles. Among the remaining 84 attrited households, 48 had moved out of the study area, 24 were temporarily unavailable, and other households had either dissolved or were unavailable for the interview for other reasons; one household refused consent. In total, 3,062 primary female respondents and 2,482 primary male respondents were surveyed.</p><p xml:id="_NVgfxGV">Regressions with the dependent variable defined as 1 if an extremely poor household in the baseline was not available for the end line indicate that household attrition was not associated with the treatment status relative to the control (see app. A), although there was a small difference between two treatment arms. The results in columns 1 and 2 of table <ref type="table" target="#tab_0">A1</ref> exclude the four kebeles that were lost because of insecurity under the assumption that the insecurity was exogenous. As a check on whether attrition influences the outcomes studied, we perform a test on the potential effect of both observable and unobservable attributes of attrition on outcomes by regressing height for age in the baseline sample against a set of covariates including a dummy variable defined as 1 if the household is subsequently lost to the sample, including those households in communities dropped because of insecurity (Fitzgerald, Gottschalk, and Moffitt 1998). The results, in column 3 of table <ref type="table" target="#tab_1">A2</ref>, indicate that there is no association between subsequent attrition and child stature.</p><p xml:id="_7h77vy2">The delay in the end-line data collection necessitated by COVID-19 meant that the initial sample children were older than 24 months by the end line. However, 905 of the baseline index children had younger siblings less than 24 months who were included in the end-line sample and contributed to outcome measures for children less than 2 years old at end line. Even so, the sample for the analysis of current feeding practices and contact with health-care workers is smaller than at the baseline. Columns 3 and 4 of table <ref type="table" target="#tab_0">A1</ref> test the probability that a household from the baseline has a child in the end-line sample-a function both of the commonly used definition of household attrition and of its fertility choices. While the treatment arm that provided the EN services but did not offer grants has no significant attrition at the household level, there is a significant decrease in the probability that a household in this arm has a child in the end-line sample. However, there is no association of the risk of attrition and the primary height for age outcome (table <ref type="table" target="#tab_1">A2</ref>, col. 2).</p><p xml:id="_u4abebd">The end-line household interview was conducted in three parts: householdlevel questions covering household and respondent identification and household demographics; a set of questions for the identified primary male respondent; and a set of questions for the identified primary female respondent. The primary female was the mother of the index child in most cases, and the primary male was her partner. A separate, specifically trained team conducted anthropometry measurements.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_RxKQrKy">V. Analytical Approach</head><p xml:id="_UeGgj54">The first step in the analysis was to verify that outcomes and contextual variables were balanced across treatment arms at baseline. Next, we report on the primary outcome of interest, stunting, defined, as is generally done, as a child's height for age being 2 or more standard deviations below the age-and gender-specific median. We also include other anthropometric outcomes in this step. The child nutrition regressions use the following model:</p><formula xml:id="formula_0">Y ikw 5 b 0 1 b 1 EN_Poultry ikw 1 b 2 EN_Cash ikw 1 b 3 EN_NoGrants ikw 1 b 4 CN_Poultry ikw 1 b 5 CN_Cash ikw 1 b 6 X ikw0 1 j w 1 ε i , (1)</formula><p xml:id="_mnw2m8B">where Y ikw is the outcome variable at end line for individual or household i in kebele k and woreda w. The coefficients b 1 -b 5 are applied to five mutually exclusive dummy variables defined as 1 if the individual is in the relevant strata of the research design. As such, these coefficients indicate the effect of the different treatment arms relative to the excluded control population. In addition to testing the individual effect in each strata relative to the control, we also test the pooled effect of the two modalities of grants in the communities that received enhanced nutrition relative to the control as well as the difference between cash and poultry effects. As there are no extremely poor households that did not receive grants in the CN arm of the study, a pooled effect of grants relative to the CN alone is not available. In the regression, X ikw0 is a vector of controls, including child age, child gender, and maternal education, and j w represents woredalevel fixed effects. All regressions adjust standard errors by clustering at the kebele level.</p><p xml:id="_8RaHMsw">In order to shed light on the program components that are designed to influence the primary outcome of nutrition, we also investigated the impact of the EN and CN models on access to the services provided and on any changes in diets. Some of these secondary results are explored in child-level regressions and some are based on household-or mother-level results. In the latter category, we modify equation ( <ref type="formula" target="#formula_1">1</ref>) to employ analysis of covariance models that include the household baseline outcome as a right-hand-side regressor. <ref type="bibr">9</ref> The child-specific models are restricted to different age groups depending on features of the outcome studied. Thus, the anthropometry regression, which covers children up to 36 months, includes a variable for age in months. In contrast, the diet data cover a smaller sample of children up to 24 months because the module was not administered either to parents of children above 24 months or to parents of children less than 6 months for whom exclusive breast-feeding is strongly recommended. In the case of anthropometry, age is included as a regressor to accommodate differences in growth velocity and biological needs of children as well as the cumulative effect of programs (Alderman and Headey  2018). In addition to child's age and gender, which are included as controls in child-specific models, all models control for whether the mother has any education, as well as for whether the day before the interview was a fasting day in case of dietary outcomes.</p><p xml:id="_s6XYZrJ">While we present individual outcomes, where appropriate we also report average standard treatment effects (ASTEs) estimated for key families of outcomes, following Kling, Liebman, and Katz (2007). These are aggregated summaries of key outcomes of interest equivalent to outcomes presented in the tables where all variables could be added up into a single measure. The ASTEs serve as summary indexes that aggregate information over multiple outcomes and present effect sizes relative to the standard deviation of the control arm. This aggregation improves statistical power to detect effects that go in the same direction within a domain. As this calculation requires that the signs of the coefficients all have the same welfare interpretation, it is occasionally necessary to redefine the outcome for the purpose of computing an ASTE. We report ASTEs for both nutrition programs as well as the two transfers, poultry or cash.</p><p xml:id="_FUxQWVh">Where the dependent variable is a count item-either knowledge scores or the number of food categories consumed-the total score serves in lieu of the ASTE.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_RvS3bWr">VI. Results</head><p xml:id="_5aYav3t">Table <ref type="table" target="#tab_0">1</ref> shows that the sample is well balanced across treatment arms in baseline characteristics. There are a few differences across treatment arms significant at p &lt; :10, but these do not appear to be systematic in any direction. Moreover, there are no significant differences between treatment arms and the control in the key anthropometry measures. These summary statistics provide an overview of the context at baseline. The low average of expenditures is consistent with the fact that the households in the sample are the poorest among a population eligible for the PSNP. The kebeles are fairly remote at 11-14 km from the nearest town. Households have 5.3-5.6 members reflecting the fact that the children in the sample are younger siblings of children in the baseline who are no longer in the sample but remain in the household. Education levels are low, with only 1 in 5 women and 1 in 3 men having any education. Both women's and children's diets are limited, with only 3.4% of women meeting the standard for minimum dietary diversity (FAO and USAID 2015) and index children aged 6-35 months consuming only three food groups per day. Virtually none of these index children consumed a minimally acceptable diet (WHO 2017). Child malnutrition is a substantial public-health problem in these communities: across the different treatment arms, 38%-42% of index children were stunted.</p><p xml:id="_GkmA4tC">Figure <ref type="figure" target="#fig_2">3</ref> illustrates the trend in stunting over the survey rounds. In all communities, stunting rates increased, likely reflecting the COVID shock as well as localized rainfall shortages (Hirvonen et al. 2023) in addition to significant crop losses due to pest infestations (desert locusts and fall armyworm). While there were no significant differences in stunting level across treatment arms at baseline, there is a visual indication that grants combined with nutrition services provided some protection from these shocks. The results reported in table 2 explore this pattern within a regression framework. While there was no observed difference in anthropometry relative to the control among these extremely poor households in the kebeles that received EN but did not receive the livelihood grants, those that received cash transfers had significantly higher height for age and had reduced stunting. This combination of cash and EN reduced stunting by 18 percentage points, compared with the 54% of the extremely poor in the control group that were stunted. In contrast, cash transfers provided to households receiving CN interventions did not lead to improvement in these outcomes. While the interaction of poultry and EN is not significantly different from zero, it is also not significantly different from the complementary cash and EN results and both grants are jointly significant, reducing stunting by 12.5 percentage points when combined with EN. The effect on stunting rates of the cash and EN joint intervention is similar for children 6-23 months and for those 24-25 months (app. C). However, the change in HAZ is much larger for the older children.</p><p xml:id="_qV33dkw">Next, we examine the extent to which this pattern of effects reflects deviation from the planned implementation of the program components in some treatment arms. The ASTEs reported in table 3 indicate increased access to nutrition services for the extremely poor households. This improved access is across all the components of the ASTE for the kebeles receiving the EN program, while the ASTE results for the households in the CN arm are largely driven by increased participation in community-level nutrition discussions within the VESAs. Unlike the results for stunting, the increase in service access observed in the EN program does not differ between the households receiving livelihood grants and those in the EN arms that were not provided grants. That is, there is no evidence that cash transfers drove increased health-service utilization.</p><p xml:id="_GADhacs">Table <ref type="table">3</ref> also indicates increased probabilities of attending community food demonstrations or attending a community BCC session as well as participating in water, sanitation, and hygiene meetings. The WASH activities indicated in</p><p xml:id="_7AwEWd4">TABLE 1 BALANCE IN BASELINE CHARACTERISTICS Observations Mean and SD p-Value EN with Grants EN without Grants CN with Grants Control EN with Grants versus Control EN, no Grants versus Control CN with Grants versus Control EN with Grants versus EN, No Grants EN with Grants versus CN with Grants Log of total monthly consumption expenditure per adult equivalent 1,880 6.079 6.111 6.107 6.077 .984 .697 .726 .720 .749 (.773) (.736) (.725) (.719) Distance to nearest town 1,897 13.959 13.243 11.483 14.044 .956 .590 .062 .660 .104 (8.086) (8.858) (7.051) (6.868) Household size 1,907 5.601 5.275 5.534 5.405 .442 .542 .553 .208 .797 (2.065) (1.862) (1.942) (1.865) Mother's age 1,901 31.015 30.156 30.380 30.128 .104 .957 .654 .116 .273 (8.178) (7.435) (7.204) (7.128) Mother has some education 1,899 .175 .212 .227 .222 .154 .792 .891 .297 .159 (.380) (.409) (.419) (.416) Father's age 1,474 38.228 36.816 37.265 36.856 .066 .953 .590 .051 .222 (9.394) (9.438) (8.703) (9.074) Father has some education 1,473 .306 .363 .329 .358 .157 .895 .511 .177 .606 (.462) (.482) (.471) (.480) Number of food groups (out of 10) mother consumed the previous day 1,897 1.944 1.949 1.800 1.955 .929 .960 .155 .968 .182 (1.080) (1.085) (1.028) (1.229) Mother met the MDD-W 1,897 .017 .018 .017 .035 .114 .193 .100 .905 .952 (.130) (.135) (.128) (.183) columns 6 and 7 were offered in all treatment arms as well as in the control. The EN program, nevertheless, facilitated increases in participation in these activities, while the CN did not. Grants apparently had no complementary effect on these participation increases. Column 8 indicates a substantial increase in the probability of discussing health and nutrition messages for both the EN and CN programs through the VESAs that were facilitated in all treatment arms of the intervention. However, unlike WASH activities, these were not organized in the control arm of the study. As shown by the ASTE in table 4, neither EN arm contributed to an overall increase in a suite of child-specific health and nutrition activities. For example, there was no increase in the probability of a child being weighed or having his or her MUAC measured for all children less than 24 months. The age for which this information was obtained was more restricted than for family access to services in table 3. Children less than 6 months either were not expected to receive the services, as with vitamin A, or the 6-month recall did not apply fully. Thus, the table covers children 6-23 months. There is suggestive evidence of an increase in participation in recuperative child feeding involving cooking demonstrations in the EN arm mediated by cash transfers. The 2-week cooking demonstrations and child feeding were provided to mothers whose children were screened as underweight. Thus, they reflect the probability of being weighed  TABLE 3 MOTHER'S ACCESS TO HEALTH CARE (N 5 1,662) ASTE: Access to Health Care Has Had Contact with an HEW or an HDA Volunteer in Past 3 Months Has Been Visited by an HEW or an HDA Volunteer at Home in Past 3 Months Has Attended a Food Demonstration in Her Community in Past 3 Months Has Attended a BCC Session in Past 3 Months Has Attended a CLTSH Event Has Participated in an ODF Event Has Discussed Nutrition Topics at VESA Meetings in Past 12 Months (1) (2) (3) (4) (5) (6) (7) (8) EN with poultry .570*** .152*** .108** .093*** .190*** .154*** .098* .386*** (.094) (.052) (.045) (.036) (.039) (.051) (.054) (.048) EN with cash .535*** .134*** .093** .116*** .134*** .163*** .144** .333*** (.107) (.042) (.036) (.037) (.047) (.056) (.060) (.056) EN without grants .500*** .132*** .098*** .132*** .153*** .112** .137*** .289*** (.070) (.035) (.032) (.028) (.032) (.045) (.049) (.032) CN with poultry .225*** 2.021 .029 2.005 .003 .053 .107* .249*** (.078) (.050) (.037) (.021) (.037) (.053) (.054) (.035) CN with cash .301*** .081* .064* .027 .075* .055 .042 .258*** (.073) (.045) (.039) (.028) (.039) (.049) (.055) (.042) Average effect of EN with grants .552*** .143*** .100*** .105*** .162*** .158*** .121** .359*** (.076) (.037) (.031) (.028) (.034) (.044) (.047) (.040) ASTE: Access to Health Care Has Had Contact with an HEW or an HDA Volunteer in Past 3 Months Has Been Visited by an HEW or an HDA Volunteer at Home in Past 3 Months Has Attended a Food Demonstration in Her Community in Past 3 Months Has Attended a BCC Session in Past 3 Months Has Attended a CLTSH Event Has Participated in an ODF Event Has Discussed Nutrition Topics at VESA Meetings in Past 12 Months (1) (2) (3) (4) (5) (6) (7) (8) Average effect of CN with grants .262*** .029 .046 .011 .039 .054 .075* .253*** (.060) (.037) (.031) (.021) (.029) (.042) (.045) (.030) Test: EN with grants 5 CN with grants .000*** .005*** .103 .001*** .001*** .017** .302 .011** Test: EN with grants 5 EN without grants .549 .764 .957 .402 .811 .312 .751 .102 Test: EN with poultry 5 EN with cash .790 .762 .770 .631 .312 .889 .476 .439 Test: CN with poultry 5 CN with cash .404 .086* .441 .230 .130 .982 .290 .838 Mean of control .399 .159 .063 .109 .307 .336 .046 Note. Estimates from the DFSA SPIR end-line survey for the subsample of extremely poor households. Standard errors (in parentheses) are clustered at the kebele level. All models control for woreda-level fixed effects and whether mother has any education. For outcomes that were measured at baseline, the model also controls for the baseline value. Significance is calculated with respect to the standard errors. Sample of poor households is determined by ranking households within kebeles on the basis of land and asset index constructed at baseline where the 10 poorest households out of 18 in each kebele are classified as "poor." CLTSH 5 community-led total sanitation and hygiene. * Statistically significant at the 10% level. ** Statistically significant at the 5% level. *** Statistically significant at the 1% level.</p><p xml:id="_wEe3y9S">TABLE 4 CHILD'S HEALTH HISTORY (N 5 341) ASTE: Access to Health and Nutrition Services Received Dose of Vitamin A in Past 6 Months Child's Weight Was Measured in Past 3 Months Child's Height Was Measured in Past 3 Months Child's MUAC Was Measured in Past 3 Months Child Identified as Severely or Moderately Underweight in Past 6 Months Child Participated in a 2-Week Cooking Demonstration and Feeding Session (CPNP) (1) (2) (3) (4) (5) (6) (7) EN with poultry .059 .101 2.003 .025 2.010 .014 .016 (.119) (.089) (.084) (.063) (.085) (.057) (.047) EN with cash .106 2.033 2.036 .033 .002 .029 .138** (.118) (.095) (.101) (.066) (.076) (.072) (.061) EN without grants 2.012 2.069 2.020 .003 2.079 .028 .043 (.104) (.087) (.071) (.056) (.064) (.061) (.048) CN with poultry 2.130 2.166 2.064 2.018 2.104 2.005 2.007 (.111) (.103) (.089) (.064) (.084) (.054) (.035) CN with cash 2.074 2.097 2.119 2.081 2.123 .118 .042 (.122) (.102) (.082) (.059) (.077) (.078) (.052) Average effect of EN with grants .083 .033 2.019 .029 2.004 .022 .078* (.097) (.073) (.074) (.053) (.065) (.053) (.044) ASTE: Access to Health and Nutrition Services Received Dose of Vitamin A in Past 6 Months Child's Weight Was Measured in Past 3 Months Child's Height Was Measured in Past 3 Months Child's MUAC Was Measured in Past 3 Months Child Identified as Severely or Moderately Underweight in Past 6 Months Child Participated in a 2-Week Cooking Demonstration and Feeding Session (CPNP) (1) (2) (3) (4) (5) (6) (7) Average effect of CN with grants 2.102 2.132 2.091 2.049 2.113* .056 .017 (.097) (.082) (.070) (.051) (.065) (.056) (.038) Test: EN with grants 5 CN with grants .070* .044** .377 .132 .135 .572 .128 Test: EN with grants 5 EN without grants .364 .233 .990 .637 .270 .923 .461 Test: EN with poultry 5 EN with cash .732 .234 .768 .917 .901 .848 .062* Test: CN with poultry 5 CN with cash .670 .574 .587 .354 .843 .102 .278 Mean of control .505 .308 .143 .363 .176 .055 Note. Estimates from the DFSA SPIR end-line survey for children aged 6-13 months from the extremely poor subsample. Standard errors (in parentheses) are clustered at the kebele level. All models control for woreda-level fixed effects, child's gender and age in months, and whether mother has any education. Significance is calculated with respect to the standard errors. Sample of poor households is determined by ranking households within kebeles on the basis of land and asset index constructed at baseline where the 10 poorest households out of 18 in each kebele are classified as "poor." * Statistically significant at the 10% level. ** Statistically significant at the 5% level.</p><p xml:id="_7dNEArt">(which the program hopes to increase) as well as the probability of being undernourished (which the program desired to decrease) as well as the take-up of the CPNP offer. Participation in these recuperative child feeding sessions required mothers to supply the ingredients for the meals being prepared each day, suggesting a plausible pathway for an interaction effect with cash transfers.</p><p xml:id="_h8tKtXz">The EN program appears relatively effective compared with the CN intervention due to the latter performing less well than the control. Table <ref type="table" target="#tab_2">5</ref> indicates that there was an insignificant increase in maternal knowledge in the EN treatment areas. The point estimate of the average total increase in the knowledge score in EN kebeles offering grants of 0.154 reported in column 1 measures the sum of the seven questions on nutritional knowledge. <ref type="bibr">10</ref> This effect is less than 4% of the mean score for the control population despite the EN arms receiving grants and having increased contact with HEW and HDA workers as well as participation in facilitated discussions on nutrition in the VESA meetings. This compares with the similarly modest effect of 0.226 (6.6%) on the increase on EN based on a mother having attended any school. <ref type="bibr">11</ref> The overall EN program also contributed to an increase in the maternal dietary diversity score (col. 1 of table 6), which is based on the sum of results in columns 3-12. The increase of 0.046 in minimum dietary diversity (MDD) among women receiving poultry is small, yet it is an 81% increase over the value in the control communities, reflecting the very poor quality of diets among all mothers in the study. This increase is not significantly different than the increase among extremely poor households in the EN sample that did not receive grants. Similarly, there is no significant difference in dietary diversity if the EN community was randomized to receive grants or only the EN intervention. When all three sub-arms of the EN intervention are pooled, the average increase in dietary diversity was 0.188. This is significant at p &lt; :05. However, a similar increase was not observed in the CN communities.</p><p xml:id="_9jMD8CX">A similar increase in the diversity of diets for children 6-23 months was not observed on average in the EN arms although this was a key focus of the IYCF training (table <ref type="table">7</ref>). There was also an overall decline in the share of children consuming at least five of eight food groups daily, including breast milk, which is the recommended MDD for a child of 6-23.9 months (WHO and UNICEF 2017). Virtually no child in the sample met this guideline. In addition to MDD, the <ref type="bibr">10</ref> Pooling all of the EN program recipients including those that did not receive grants, the average effect is 0.158 (p 5 :078). <ref type="bibr">11</ref> These results were included in the regression but not reported in the table. The interaction of EN and education was neither significantly positive nor negative. Thus, there was no evidence that the program complements education or substitutes for it. guideline for a minimal acceptable diet includes minimum meal frequency, defined as proportion of children aged 6-23 months who receive solid, semisolid, or soft foods at least two (three) times for children aged 6-8 (9-23) months. While more than 67% of the children in the control group were fed in accord with this guideline, the pooled EN strata or the CN arm of the SPIR nutrition programs did not lead to any increase in the share who were provided meals at a frequency that is in keeping with the recommendation.</p><p xml:id="_kq5NYF9">However, children in households within the EN arms of the study that were randomized to receive poultry grants did see an increase in the diet diversity score. This was driven, in part, by an increase in the frequency of egg consumption but also milk intake. This was not the case in other households within EN program arms. Despite the higher probability of both egg and dairy consumption among children in kebeles randomized for poultry grants, there is no significant difference between these kebeles and those selected for cash in the nutritional outcomes report in table 2. The dietary diversity scores, however, do not report quantities consumed nor is the sample powered to assess heterogeneity by child age that maps with the duration of program coverage within the different strata.</p><p xml:id="_y8v4WjE">Previous work has shown that such in-kind assistance in combination with BCC has a different effect on egg consumption than equivalent cash in these villages (Alderman et al. 2022). This is consistent with market imperfections that make consumption decisions inseparable from production decisions. This is a special case of agricultural household models, albeit not a rare one. As the short-run response to an in-kind grant may differ from longer-term behavior, the key results on the dietary effect in the end line are compared with a previous published specification using midline results. These are reported in appendix D and indicate that while table <ref type="table">7</ref> shows that the poultry grants are still associated with increased egg consumption, this increase has attenuated over time. <ref type="bibr">12</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_Cxc89n3">VII. Concluding Discussion</head><p xml:id="_cVKRWwG">The livelihood cash grants were designed to encourage asset formation and had no intrinsic features specifically tied to access to-or utilization of-enhanced health and nutrition services. There was, however, complementarity of cash and <ref type="bibr">12</ref> The diet diversity tables for both mothers and for children include a dummy variable for religious fasting days in Orthodox households. These indicate a significant reduction in the probability of consuming dairy, meat, and eggs with little corresponding increase in other food groups among adult women. Fasting among Orthodox households did not affect dairy consumption by children in keeping with previous evidence (D'Haene, Vandevelde, and Minten 2020). This likely reflects the fact that cows provide milk according to their own biology and the milk is not easily stored. In contrast, the timing of animal purchases or slaughtering is at the household's discretion. TABLE 6 MOTHER'S DIETARY DIVERSITY (N 5 1,693) WDDS (1-10) Meets MDD-W Mother Consumed Tubers and Grains Mother Consumed Pulses Mother Consumed Nuts and Seeds Mother Consumed Dairy Mother Consumed Meat, Fish, Poultry Mother Consumed Eggs Mother Consumed Green Leafy Vegetables Mother Consumed Vitamin A-Rich Fruits and Vegetables Mother Consumed Other Vegetables Mother Consumed Other Fruits (</p><formula xml:id="formula_1">) (2) (<label>1</label></formula><formula xml:id="formula_2">) (<label>3</label></formula><formula xml:id="formula_3">) (<label>4</label></formula><formula xml:id="formula_4">) (<label>5</label></formula><formula xml:id="formula_5">) (<label>6</label></formula><formula xml:id="formula_6">) (<label>7</label></formula><formula xml:id="formula_7">) (<label>8</label></formula><formula xml:id="formula_8">) (<label>9</label></formula><formula xml:id="formula_9">) (<label>10</label></formula><formula xml:id="formula_10">) (<label>11</label></formula><p xml:id="_bAqVynK">) EN with poultry .265** .046** 2.001 .010 .102** 2.005 .012 .023 .021 .016 .077 .008 (.121) (.022) (.015) (.028) (.048) (.030) (.021) (.022) (.019) (.023) (.058) (.016) EN with cash .144 .020 2.028 2.029 .025 .019 .025 2.013 .033 .023 .095* 2.003 (.130) (.023) (.020) (.047) (.040) (.028) (.015) (.016) (.027) (.028) (.054) (.014) EN without grants .172 .039* 2.011 2.025 .027 .028 .016 .018 .021 2.001 .081* .020 (.110) (.023) (.013) (.025) (.033) (.027) (.015) (.016) (.018) (.022) (.042) (.014) CN with poultry .104 .033 2.029 2.036 2.023 .013 .023 .008 .026 .032 .077 .018 (.139) (.027) (.019) (.036) (.039) (.028) (.016) (.016) (.020) (.030) (.055) (.026) CN with cash 2.013 .020 2.018 2.073** .029 .052 .005 2.006 .001 .016 2.033 .010 (.133) (.027) (.016) (.031) (.043) (.033) (.014) (.013) (.022) (.031) (.053) (.018) Average effect of EN with grants .204** .033* 2.015 2.009 .063* .008 .019 .005 .027 .019 .086* .002 (.103) (.019) (.013) (.030) (.036) (.025) (.015) (.015) (.019) (.021) (.046) (.012) WDDS (1-10) Meets MDD-W Mother Consumed Tubers and Grains Mother Consumed Pulses Mother Consumed Nuts and Seeds Mother Consumed Dairy Mother Consumed Meat, Fish, Poultry Mother Consumed Eggs Mother Consumed Green Leafy Vegetables Mother Consumed Vitamin A-Rich Fruits and Vegetables Mother Consumed Other Vegetables Mother Consumed Other Fruits (</p><formula xml:id="formula_12">) (2) (<label>1</label></formula><formula xml:id="formula_13">) (<label>3</label></formula><formula xml:id="formula_14">) (<label>4</label></formula><formula xml:id="formula_15">) (<label>5</label></formula><formula xml:id="formula_16">) (<label>6</label></formula><formula xml:id="formula_17">) (<label>7</label></formula><formula xml:id="formula_18">) (<label>8</label></formula><formula xml:id="formula_19">) (<label>9</label></formula><formula xml:id="formula_20">) (<label>10</label></formula><formula xml:id="formula_21">) (<label>11</label></formula><p xml:id="_FkSZhNW">) Average effect of CN with grants .046 .027 2.023* 2.054** .003 .032 .015 .001 .014 .024 .023 .014 (.109) (.022) (.014) (.026) (.033) (.025) (.013) (.012) (.018) (.024) (.044) (.018) Test: EN with grants 5 CN with grants .154 .744 .597 .180 .091* .292 .755 .815 .479 .847 .159 .486 Test: EN with grants 5 EN without grants .778 .790 .796 .626 .288 .385 .845 .435 .745 .347 .910 .173 Test: EN with poultry 5 EN with cash .406 .279 .217 .430 .143 .438 .518 .138 .669 .816 .772 .486 Test: CN with poultry 5 CN with cash .474 .683 .610 .384 .277 .239 .264 .393 .275 .659 .072* .776 Mean of control 2.606 .057 .979 .568 .207 .109 .036 .045 .052 .086 .494 .031 Note. Estimates from the DFSA SPIR end-line survey for the subsample of extremely poor households. Standard errors (in parentheses) are clustered at the kebele level. All models control for woreda-level fixed effects, whether mother has any education, and whether the day before the survey was a fast day. For outcomes that were measured at baseline, the model also controls for the baseline value. Significance is calculated with respect to the standard errors. Sample of poor households is determined by ranking households within kebeles on the basis of land and asset index constructed at baseline where the 10 poorest households out of 18 in each kebele are classified as "poor." WDDS 5 women's dietary diversity score; MDD-W 5 minimum dietary diversity for women. * Statistically significant at the 10% level. ** Statistically significant at the 5% level.</p><p xml:id="_8rekXQ7">TABLE 7 CHILD'S DIETARY DIVERSITY, CHILDREN 6-23 MONTHS OF AGE (N 5 353) Number of Food Groups (of 8) Consumed Child Meets MDD Child Meets Minimum Meal Frequency Child Consumed Breast Milk Child Consumed Grains, Roots, or Tubers Child Consumed Legumes or Nuts Child Consumed Dairy Child Consumed Fish or Meat Child Consumed Eggs Child Consumed Vitamin A-Rich Fruits or Vegetables Child Consumed Other Fruits or Vegetables (</p><formula xml:id="formula_23">) (2) (<label>1</label></formula><formula xml:id="formula_24">) (<label>3</label></formula><formula xml:id="formula_25">) (<label>4</label></formula><formula xml:id="formula_26">) (<label>5</label></formula><formula xml:id="formula_27">) (<label>6</label></formula><formula xml:id="formula_28">) (<label>7</label></formula><formula xml:id="formula_29">) (<label>8</label></formula><formula xml:id="formula_30">) (<label>9</label></formula><formula xml:id="formula_31">) (<label>10</label></formula><p xml:id="_Rgak4M4">) EN with poultry .375** .039 .131** 2.003 .016 .065 .159*** .011 .140** 2.014 .000 (.181) (.030) (.061) (.028) (.064) (.061) (.057) (.023) (.059) (.019) (.002) EN with cash 2.066 2.008 .020 .015 2.024 2.097** .067 2.011 2.041* .005 .020 (.117) (.012) (.068) (.017) (.068) (.044) (.063) (.012) (.025) (.026) (.019) EN without grants 2.043 2.012 .044 .002 2.051 2.073 .098 2.001 2.009 2.008 2.001 (.119) (.015) (.054) (.019) (.047) (.050) (.078) (.020) (.029) (.022) (.002) CN with poultry .153 2.008 .113 .023 .068 2.083* .150* .016 2.033 .015 2.003 (.120) (.011) (.077) (.015) (.060) (.048) (.077) (.022) (.046) (.026) (.004) CN with cash .136 .037 .044 2.053 .015 .006 .075 .013 .026 .055 2.002 (.131) (.030) (.075) (.039) (.051) (.063) (.081) (.025) (.040) (.037) (.003) Average effect of EN with grants .152 .015 .075 .006 2.004 2.017 .112** .000 .049 2.004 .010 (.123) (.018) (.051) (.020) (.054) (.043) (.053) (.015) (.035) (.018) (.010) Number of Food Groups (of 8) Consumed Child Meets MDD Child Meets Minimum Meal Frequency Child Consumed Breast Milk Child Consumed Grains, Roots, or Tubers Child Consumed Legumes or Nuts Child Consumed Dairy Child Consumed Fish or Meat Child Consumed Eggs Child Consumed Vitamin A-Rich Fruits or Vegetables Child Consumed Other Fruits or Vegetables (</p><formula xml:id="formula_33">) (2) (<label>1</label></formula><formula xml:id="formula_34">) (<label>3</label></formula><formula xml:id="formula_35">) (<label>4</label></formula><formula xml:id="formula_36">) (<label>5</label></formula><formula xml:id="formula_37">) (<label>6</label></formula><formula xml:id="formula_38">) (<label>7</label></formula><formula xml:id="formula_39">) (<label>8</label></formula><formula xml:id="formula_40">) (<label>9</label></formula><formula xml:id="formula_41">) (<label>10</label></formula><p xml:id="_Egt8CXh">) Average effect of CN with grants .145 .014 .079 2.014 .042 2.039 .113* .014 2.004 .035 2.002 (.106) (.018) (.062) (.023) (.046) (.045) (.068) (.018) (.035) (.026) (.003) Test: EN with grants 5 CN with grants .953 .977 .948 .406 .425 .635 .979 .422 .158 .179 .304 Test: EN with grants 5 EN without grants .113 .071* .569 .817 .399 .262 .833 .925 .063* .881 .305 Test: EN with poultry 5 EN with cash .014** .092* .165 .428 .593 .011** .097* .282 .002*** .462 .307 Test: CN Â poultry 5 CN Â cash .897 .100* .443 .030** .387 .178 .341 .931 .242 .301 .693 Mean of control 2.283 .011 .674 .978 .859 .174 .185 .011 .054 .022 .000 Note. Estimates from the DFSA SPIR end-line survey for children aged 6-23 months from the subsample of extremely poor households. Standard errors (in parentheses) are clustered at the kebele level. All models control for woreda-level fixed effects, child's gender and age in months, whether mother has any education, and whether the day before the survey was a fast day. Significance is calculated with respect to the standard errors. Sample of poor households is determined by ranking households within kebeles on the basis of land and asset index constructed at baseline where the 10 poorest households out of 18 in each kebele are classified as "poor." * Statistically significant at the 10% level. ** Statistically significant at the 5% level. *** Statistically significant at the 1% level.</p><p xml:id="_5A58MnH">enhanced nutrition for the anthropometric outcomes in a manner that might be viewed as protective rather than transformative. However, this complementarity was not seen in dietary diversity. This leaves a puzzle as to the actual mechanism of the complementarity of cash and nutritional services. The cash grants were equivalent to 11% of average annual household expenditures of recipients in the year of receipt. As lump-sum windfalls they contributed to a modest increase of both real and financial assets but did not translate to a measurable increase in total expenditures (Leight et al. 2023). While the study was able to document that the intervention served to moderate drought effects including those on household diets (Hirvonen et al. 2023), the research was not designed to track consumption smoothing over the time period between the allocation of grants in 2018 and the end-line survey in 2021. This may be part of the puzzle of how the cash grants contributed to protecting nutritional status. Additional studies of how lump-sum transfers are used for consumption smoothing in the face of income fluctuations can add to the literature on savings and asset formation with livelihood programs. Plausibly the recipients of cash were able to purchase more food in each year and to allocate more of the household food resources to children. As the dietary diversity index does not measure changes in quantities but only the probability that a food group was included in the daily diet, this mechanism is not directly measurable with the available data. In addition to possible smoothing of food expenditure over time, cash recipients were more likely to participate in the CPNP recuperative child feeding sessions, perhaps drawing upon the cash to provide the expected food inputs in this 2-week program, an issue that might be investigated further when designing similar programs with in-kind contributions by participants expected. Thus, the overall results provide a basis for tempered nutritional outcome expectations for this additional support to extremely poor households, valued at well over 1 year of transfers in the PSNP, when combined with enhanced nutrition programming.</p><p xml:id="_9thv4fN">The grant of poultry did enhance the EN program with regard to the inclusion of eggs in a child's diet, but this was not sufficient to have a significant effect on height for age. The challenge to the advocacy of household poultry production as a means to foster better child nutrition may hinge on the ability to sustain flocks. The susceptibility of the birds to illness was noted by Passarelli et al.  (2022) in a similar program in Ethiopia. However, the final SPIR survey did not report on the number of birds that died. The survey did ascertain the number of birds sold in the previous 12 months; poultry grant recipients sold, on average, two more birds than their neighbors. Because of the delay in data collection necessitated by COVID, the time between surveys was greater than the 12 months recall, so there is a possibility that sales in this entire period partially account for the trend toward convergence of flock size between in-kind grant recipients and their counterparts. Nevertheless, the potential to enhance consumption of animal-source foods with these transfers did not prove to be sustainable (app. D).</p><p xml:id="_Dpp2hPn">The clearest evidence of the effect of the EN treatment distinct from the complementarity with grants was shown in the increase of contact between mothers of young children and service providers despite the challenges of COVID as well as the improvement in women's IYCF knowledge. Within the EN kebeles, the overall probability of any mother meeting with an HEWor member of the HDA in the previous 3 months increased from both the baseline as well as the pre-COVID midline. Still, even though the contact in EN communities was 28% above the 43% rate of contact for mothers in the control, it was not sufficient to improve anthropometric indicators of child nutrition status. This likely reflects the fact that the frequency of contact with health-service providers (either HEWs or HDA volunteers) still fell well short of intent. Although the TTC model envisions 11 home visits in the first 1,000 days after conception, the end-line survey revealed that approximately only a quarter of mothers of children under 12 months in the EN communities reported a home visit in the past 3 months, and this probability declined for older children.</p><p xml:id="_BaYAvQ4">This contrasts with an average of two visits in the past 3 months in Kim et al.  (2020), which likely accounts for the larger effect measured in that study. However, there is a positive association of HAZ and program participation for children whose household reported having received a home visit recently. This hints at the possibility that more frequent service provision might have more favorable effects, but it does not give any indication as to how this intensification may be achieved. Because the current study cannot assess the determinants of home visits by HEWs or HDA volunteers, this can be considered a limitation of the study and an area for future research.</p><p xml:id="_QVCQGEH">Restricting the sample of all children-both extremely poor and less poor (app. C) to the 598 young children in the households that reported they had contact with an HEW or HDA volunteer in the preceding 3 months (a selected subsample that is potentially biased toward larger effects)-finds an increase in HAZ of 0.286 (SE 5 0:163) and a reduction of stunting of 20.082 (SE 5 0:045). Both these increases are significant at the 10% level, reflecting, in part, the lower statistical power due to sample restriction. A further restriction of the sample to the 253 households where the HEW or HDA volunteer visited at the household indicated much larger point estimates of improvements in HAZ and reduction in stunting, 0.616 (SE 5 0:275) and 20.165 (SE 5 0:072), respectively, with both of these estimates significant at the 5% level. While the unknown nature of the selectivity into this subsample, possibly due to bettertrained staff and supervisors or more motivated mothers or both, makes these results only suggestive at best, they may provide guidance for future inclusion of nutrition within the PSNP and is a promising subject for future research.</p><p xml:id="_J7gCJAq">Drilling down further, because the timing of TTC implies that contact with service providers should be greatest when a child is under a year old, although some contact is expected after the first birthday as well, we test this by interacting a dummy variable for older children in the regressions that assess access to health services. For example, in an alternative specification of the results in column 3 of table 3 (not shown), the coefficient for all EN programs is 0.166 (SE 5 0:043). However, there does not seem to be any visits at home when children are 12-24 months; the coefficient for that age group is 0.022 (SE 5 0:037). This is significantly different from the younger age group (p &lt; :01).</p><p xml:id="_MybUf6b">While the less intensive CN intervention led to increased participation in community events relative to the control, it did not lead to increased contact with government health staff or volunteers or to increased women's IYCF knowledge or dietary diversity. Even though women in the CN arm reported the inclusion of nutrition topics in VESAs similar to those in the EN arm, all the increases in contact with health-service providers in the EN program were larger than those in the CN program ( p &lt; :10). This difference likely explains the absence of an effect on mother's knowledge score or her dietary diversity in the CN program, outcomes that were influenced in the EN arm of the study.</p><p xml:id="_xsPryVU">Despite the increased nutritional knowledge among women as well as changes in their diets, there was not a clear effect on dietary diversity for young children in the EN program. This remains extremely low. Hirvonen et al. (2021) document late introduction of solid and semisolid foods in Ethiopia that is linked to lower length for age of young children. In the current study, 26% of the children aged 6-8 months consumed no other food than breastmilk in the previous day indicated in the list of 25 foods in the appropriate IYCF module for dietary diversity.</p><p xml:id="_TQTDSrF">On the basis of the line-item budget records of the three nongovernmental organizations providing services for the nutrition program components, the cost per household to deliver the CN was US$18.8. The EN program included an additional US$32.5 in budgeted services. <ref type="bibr">13</ref> These are marginal financial expenditures over the full 5 years of program implementation, excluding services provided as part of the PSNP received by all households. As is often the case with large-scale BCC programs, the HDA volunteers were unpaid. Although the opportunity cost of these volunteers' time does not enter into the service providers' budgets, these are economic costs that should be considered. The time commitment of these volunteers per household over the project timeline was US$1.84. Similarly, because households need to attend various meetings and community events in order to benefit from the nutrition interventions, there is also an economic cost incurred by these households. We estimate the former opportunity cost for travel by EN-arm households over the 3 years until the child's third birthday to be US$0.48 for BCC not in the household and US$0.81 for attending community sanitation events. The costs of both the cash and the poultry grants are US$200 per household excluding the targeting costs for the randomization, which were based on the baseline survey data.</p><p xml:id="_gTbM74g">In conclusion, the success in enhancing coverage of nutrition services to lowincome mothers in remote areas can be considered a partial achievement of the SPIR program. It remains, however, a challenge to maximize the nutritional effect of this service delivery. Livelihood grants make a modest contribution to the challenge, but in the longer run, it is a larger task to build upon this contribution.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_y7cm9ua">Appendix A Regression Results Related to Attrition</head><p xml:id="_PwRtMfW">TABLE A1 ATTRITION BY TREATMENT ARM (N 5 1,867) Household Is Attrited from the End-Line Sample Household Is Attrited from the End-Line Sample Household Has No Child in the End-Line Anthropometry Sample Household Has No Child in the End-Line Anthropometry Sample (1) (2) (3) (4) EN with grants 2.017 2.014 .023 .015 (.017) (.015) (.037) (.034) EN without grants .012 .014 .065* .056* (.017) (.016) (.034) (.031) CN with grants 2.019 2.016 2.015 2.015 (.014) (.013) (.038) (.037) Household size 2.005 .013* (.004) (.007) Number of children under the age of 5 2.004 2.069*** (.011) (.021) Log of total monthly consumption expenditure per adult equivalent 2.010 .017 (.007) (.018) Distance to nearest town .002** 2.003 (.001) (.002)</p><p xml:id="_WPBJdQ2">TABLE A1 (Continued ) Household Is Attrited from the End-Line Sample Household Is Attrited from the End-Line Sample Household Has No Child in the End-Line Anthropometry Sample Household Has No Child in the End-Line Anthropometry Sample (1) (2) (3) (4) Primary female is married monogamously 2.037** 2.199*** (.018) (.030) Age of primary female 2.001 .008*** (.001) (.001) Primary female has some education 2.022 2.016 (.014) (.031) Test: EN with grants 5 CN with grants .912 .932 .356 .429 Test: CN with grants 5 EN without grants .043** .050** .030** .047** Test: EN with grants 5 EN without grants .122 .087* .242 .227 Mean of control .056 .056 .600 .600 Note. Estimates from the Development Food Security Activity (DFSA) SPIR end-line survey sample. Standard errors (in parentheses) are clustered at the kebele level. Significance is calculated with respect to the standard errors. Models control for woreda-level fixed effects. This table excludes the 40 households from the 10 kebeles that were excluded from the end-line survey due to insecurity. For baseline characteristics that had a missing value, we replaced these values with zeros and controlled for it with a respective binary variable. * Statistically significant at the 10% level. ** Statistically significant at the 5% level. *** Statistically significant at the 1% level.</p><p xml:id="_BrdKRbq">TABLE A2 BASELINE ANTHROPOMETRICS AND SUBSEQUENT ATTRITION Child's HAZ at Baseline Child's HAZ at Baseline Mother's IYCF Knowledge Score (0-7) (1) (2) (3) EN with grants .192 .189 2.082 (.156) (.121) (.218) EN without grants .062 .058 2.221 (.132) (.120) (.235) CN with grants .090 .086 2.388 (.150) (.121) (.262) Household attrited from the end-line sample .165 2.334 (.197) (.269) Household has no child in the end-line anthropometry sample .088 (.092) Child's age in months 2.036*** 2.036*** (.005) (.004) Child is male 2.261*** 2.260*** (.090) (.085)</p><p xml:id="_jSSbryN">TABLE A2 (Continued ) Child's HAZ at Baseline Child's HAZ at Baseline Mother's IYCF Knowledge Score (0-7) (1) (2) (3) Mother has some education .027 .032 .333*** (.101) (.107) (.133) Household's asset and land index 2.036* 2.035* .037*** (.021) (.020) (.031) Test: EN with grants 5 CN with grants .514 .397 .222 Test: CN with grants 5 EN without grants .833 .808 .527 Test: EN with grants 5 EN without grants .344 .274 .523 Mean of control 21.464 21.464 7.383 Observations 1,826 1,826 1,907 Note. Estimates from the DFSA SPIR end-line survey sample. Standard errors (in parentheses) are clustered at the kebele level. Significance is calculated with respect to the standard errors. Models control for woreda-level fixed effects. This table excludes the 40 households from the 10 kebeles that were excluded from the end-line survey due to insecurity. For baseline characteristics that had a missing value, we replaced these values with zeros and controlled for it with a respective binary variable. HAZ 5 height-for-age z-score. * Statistically significant at the 10% level. *** Statistically significant at the 1% level.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_4TxW7vQ">Appendix B Comparison of Outcomes for Extremely Poor and Less Poor Households</head><p xml:id="_9DnVusB">We provide a summary of ASTEs or aggregate effect for each family of outcomes by receipt of EN and CN for the extremely poor and less poor samples. These do not focus on the nature of livelihood grants but are relevant for understanding the overall effect of SPIR on nutrition. Results show that the only significant difference in program response between the extremely poor and the less poor is in the results on stunting. While this may be partially due to the significant complementarity of cash transfers and the EN intervention, it also reflects the unexpected-but statistically insignificant-increase in stunting among the less poor.</p><p xml:id="_s7yP7Da">TABLE B1 SUMMARY BY FAMILY OF OUTCOME: EXTREMELY POOR AND LESS POOR SUBSAMPLES HAZ Proportion Stunted (HAZ &lt; 22 SD) ASTE: Mother's Access to Health Care ASTE: Child's Health and Services Mother's IYCF Knowledge Score (0-7) Mother's Dietary Diversity Score (1-10) Child's Total Food Groups Consumed (0-8) (1) (2) (3) (4) (5) (6) (7) Extremely poor: EN .087 2.069 .526*** .039 .156** .189*** .027 (.166) (.045) (.048) (.083) (.069) (.073) (.103) CN .078 2.055 .265*** 2.101 .040 .045 .155 (.186) (.051) (.055) (.095) (.080) (.085) (.118) Mean of control 21.990 .543 2.000 2.000 3.967 2.606 2.290 Observations 637 637 1,662 341 1,693 1,693 355 Less poor: EN .009 .054 .597*** .145 .154 .135 .168 (.176) (.051) (.059) (.107) (.083) (.079) (.132) CN .084 .078 .294*** 2.007 2.089 2.078 .157 (.205) (.059) (.068) (.119) (.095) (.091) (.149) Mean of control 21.650 .402 .000 2.000 3.960 2.739 2.200 Observations 503 503 1,238 251 1,256 1,256 260 Extremely poor: EN 5 CN .957 .764 .000*** .105 .088* .047** .229 Less poor: EN 5 CN .662 .622 .000*** .126 .002*** .006*** .930 EN: Extremely poor 5 less poor .746 .074* .183 .421 .979 .572 .394 CN: Extremely poor 5 less poor .981 .054* .617 .516 .240 .250 .992 Note. Estimates from the DFSA SPIR end-line survey sample. Columns 1 and 2 are restricted to children aged 6-35 months only; cols. 4 and 7 are restricted to children aged 6-23 months only. Standard errors (in parentheses) are clustered at the kebele level. All models control for woreda-level fixed effects and whether the child's mother has any education; cols. 1, 2, 4, and 7 additionally control for child's sex and age in months; cols. 6 and 7 control for whether the day preceding the survey was a fast day. Significance is calculated with respect to the standard errors. * Statistically significant at the 10% level. ** Statistically significant at the 5% level. *** Statistically significant at the 1% level. Appendix C Anthropometric Subsample: Extremely Poor Households</p><p xml:id="_WaRcFd5">TABLE C1 ANTHROPOMETRICS: CHILDREN 6-23 MONTHS OF AGE, EXTREMELY POOR HOUSEHOLDS (N 5 426) HAZ Proportion Stunted (HAZ &lt; 22 SD) WHZ Proportion Wasted (WHZ &lt; 22 SD) WAZ Proportion Underweight (WAZ &lt; 22 SD) MUAC Proportion of Severe Acute Malnutrition (MUAC &lt; 11.5 cm) (1) (2) (3) (4) (5) (6) (7) (8) EN Â poultry .095 2.028 .189 2.002 .167 2.040 .295* 2.013 (.307) (.076) (.249) (.041) (.236) (.070) (.166) (.027) EN Â cash .248 2.171*** .026 2.004 .133 2.059 .330** 2.019 (.225) (.056) (.193) (.053) (.182) (.052) (.157) (.030) EN without grants 2.318* 2.022 .143 2.034 2.051 2.048 2.008 2.031 (.176) (.054) (.198) (.043) (.179) (.050) (.156) (.026) CN Â poultry .186 2.072 .306* 2.049 .304 2.119* .380** 2.013 (.351) (.076) (.182) (.037) (.219) (.062) (.169) (.025) CN Â cash 2.180 .064 .414** 2.070* .206 2.077 .016 2.025 (.235) (.074) (.203) (.036) (.212) (.062) (.173) (.034) Average effect of EN with grants .172 2.100* .106 2.003 .150 2.049 .313** 2.016 (.217) (.054) (.180) (.038) (.172) (.050) (.134) (.024) Average effect of CN with grants .006 2.005 .359** 2.060* .256 2.098* .201 2.019 (.234) (.061) (.162) (.032) (.176) (.050) (.143) (.025) Test: EN with grants 5 CN with grants .517 .117 .150 .099* .566 .358 .411 .896 Test: EN with grants 5 EN without grants .015** .133 .854 .469 .267 .976 .028** .536 Test: EN Â poultry 5 EN Â cash .629 .068* .534 .981 .888 .792 .846 .830 Test: CN Â poultry 5 CN Â cash .331 .122 .604 .551 .694 .564 .054* .717 Mean of control 21.560 .439 2.534 .114 21.213 .307 13.351 .044 Note. Estimates from the DFSA SPIR end-line survey for children of age 6-23 months from the subsample of extremely poor households. Standard errors (in parentheses) are clustered at the kebele level. All models control for woreda-level fixed effects, child's sex and age in months, and whether the child's mother has any education. Significance is calculated with respect to the standard errors. Sample of poor households is determined by ranking households within kebeles on the basis of land and asset index constructed at baseline where the 10 poorest households out of 18 in each kebele are classified as "poor." * Statistically significant at the 10% level. ** Statistically significant at the 5% level. *** Statistically significant at the 1% level.</p><p xml:id="_Zq6P3Ce">TABLE C2 ANTHROPOMETRICS: CHILDREN 24-35 MONTHS OF AGE, EXTREMELY POOR HOUSEHOLDS (N 5 211) HAZ Proportion Stunted (HAZ &lt; 22 SD) WHZ Proportion Wasted (WHZ &lt; 22 SD) WAZ Proportion Underweight (WAZ &lt; 22 SD) MUAC Proportion of Severe Acute Malnutrition (MUAC &lt; 11.5 cm) (1) (2) (3) (4) (5) (6) (7) (8) EN Â poultry .514 2.157 2.091 .020 .262 .002 .279 2.013 (.328) (.099) (.231) (.046) (.231) (.096) (.302) (.015) EN Â cash 1.024** 2.210* .003 2.017 .604* 2.065 2.045 2.003 (.483) (.125) (.214) (.037) (.330) (.115) (.251) (.012) EN without grants 2.055 .051 2.229 .121** 2.193 2.015 2.199 .021* (.288) (.101) (.225) (.048) (.212) (.089) (.205) (.012) CN Â poultry .343 2.197* 2.367 .088 2.058 2.062 2.232 .034 (.286) (.109) (.341) (.078) (.328) (.120) (.274) (.037) CN Â cash .287 2.145 2.445** .084* 2.139 .021 2.156 .032 (.318) (.103) (.214) (.048) (.207) (.089) (.229) (.032) Average effect of EN with grants .772** 2.184** 2.043 .002 .435* 2.032 .115 2.008 (.309) (.092) (.188) (.036) (.227) (.086) (.226) (.011) Average effect of CN with grants .316 2.171* 2.405* .086* 2.098 2.021 2.195 .033 (.243) (.090) (.223) (.049) (.221) (.088) (.205) (.024) Test: EN with grants 5 CN with grants .157 .882 .090* .087* .029** .898 .175 .131 Test: EN with grants 5 EN without grants .024** .021** .408 .009*** .011** .844 .133 .102 Test: EN Â poultry 5 EN Â cash .357 .686 .693 .390 .326 .591 .318 .558 Test: CN Â poultry 5 CN Â cash .877 .648 .829 .958 .804 .490 .798 .959 Mean of control 22.822 .746 2.252 .034 21.748 .441 14.192 .000 Note. Estimates from the DFSA SPIR end-line survey for children of age 24-35 months from the subsample of extremely poor households. Standard errors (in parentheses) are clustered at the kebele level. All models control for woreda-level fixed effects, child's sex and age in months, and whether the child's mother has any education. Significance is calculated with respect to the standard errors. Sample of poor households is determined by ranking households within kebeles on the basis of land and asset index constructed at baseline where the 10 poorest households out of 18 in each kebele are classified as "poor." Appendix D Testing the Persistence of Results of Poultry Ownership Table D1 compares the midline results from Alderman et al. ( <ref type="formula">2022</ref>) with the end-line effect a year and a half later. The specification replicates the earlier results by using the full sample and including a supplementary sample added at midline to refresh the sample of children less than 24 months of age. Thus, the specification differs slightly from the results presented in the main text. The opportunity to return to the initial results indicates that the significant increase in egg consumption for all households eligible for poultry grants that was observed at midline is no longer apparent. This is likely driven by the fact that at midline-less than 6 months after the grants were distributed-poultry recipients had 7.5 more birds than households that did not receive the transfer, including those who had a cash grant of equivalent value. Two years after the grants were disbursed, this difference had declined to only 1.5 birds, although the increase in poultry owned remained statistically significant (table <ref type="table" target="#tab_0">D1</ref>, col. 8). However, the coefficient of the interaction of enhanced nutrition and poultry in column 6 reproduces the result in table <ref type="table">7</ref> despite the slight differences in sample and specification.</p><p xml:id="_mCKYBFg">TABLE D1 PERSISTENCE OF RESULTS OF POULTRY OWNERSHIP: MIDLINE AND END LINE Midline (Food Policy 2022) End Line Child Consumed Eggs Primary Female Consumed Eggs Total Number of Poultry Owned by Household Child Consumed Eggs Primary Female Consumed Eggs Child Consumed Eggs Primary Female Consumed Eggs Total Number of Poultry Owned by Household Child Consumed Eggs Primary Female Consumed Eggs (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Assigned to poultry transfer .122*** .071*** 7.560*** 2.009 .010 1.479*** (.046) (.022) (.496) (.044) (.014) (.275) Assigned to cash grant .033 2.008 .358 .032 2.005 .226 (.034) (.012) (.269) (.036) (.012) (.200) Enhanced livelihood (excluding poultry and cash) .012 2.005 .714*** .020 2.001 .480*** (.021) (.010) (.223) (.022) (.009) (.172) EN .049*** .012 .289 .039** .007 .002 .017* .084 .003 .012 (.019) (.010) (.221) (.019) (.009) (.021) (.009) (.162) (.018) (.008) Interaction of EN and poultry 2.011 2.029 .131* .001 (.069) (.027) (.076) (.024) Interaction of EN and cash 2.007 .025 2.081* 2.021 (.047) (.022) (.042) (.018) Predicted baseline expenditure .081 .042 .263 .099 .053 (.067) (.034) (.548) (.069) (.034) Interview was conducted on a day after fasting 2.024 2.069*** 2.016 2.068*** 2.033 2.056*** 2.034* 2.054*** (.027) (.014) (.029) (.014) (.022) (.010) (.020) (.010) Mother has some education .031 .010 2.011 .013 .001 .030 .007 2.022 .020 .007 (.028) (.013) (.163) (.027) (.012) (.026) (.010) (.149) (.025) (.010) Father has some education .002 .003 .086 .005 .001 .036 .020** .200 .038* .018** (.021) (.011) (.160) (.020) (.010) (.022) (.009) (.163) (.022) (.008)</p><p xml:id="_X2aYWXr">TABLE D1 (Continued ) Midline (Food Policy 2022) End Line Child Consumed Eggs Primary Female Consumed Eggs Total Number of Poultry Owned by Household Child Consumed Eggs Primary Female Consumed Eggs Child Consumed Eggs Primary Female Consumed Eggs Total Number of Poultry Owned by Household Child Consumed Eggs Primary Female Consumed Eggs (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Household size .009 .005 .154** .008 .005 .004 2.003 .093** .005 2.004** (.009) (.004) (.064) (.009) (.004) (.004) (.002) (.037) (.004) (.002) Child age in months .003** .003** (.002) (.002) Male child .012 .008 (.018) (.019) Baseline value of outcome .064 .005 .059 .007 (.084) (.028) (.090) (.030) Total number of poultry owned by household, baseline .180*** .121*** (.033) (.028) Total number of poultry owned by household, midline .007*** .005*** .016*** .011*** (.003) (.001) (.004) (.002) End-line index child's age (months) .006** .006** (.003) (.003) End-line index child is male .002 .006 (.019) (.018) Constant 2.619 2.208 .497 2.768 2.252 .006 .111*** 2.072*** 2.113*** .075*** (.418) (.216) (3.751) (.475) (.217) (.058) (.041) (.408) (.042) (.021) R 2 .06 .04 .40 .06 .04 .07 .03 .08 .09 .05 Observations 1,009 3,114 3,114 974 3,013 722 3,704 3,080 721 3,695 Mean of control .041 .039 1.814 .041 .039 .044 .04 1.971 .044 .04 Note. Estimates from the DFSA SPIR end-line and midline survey samples; the midline results are from Alderman et al (2022). Standard errors (in parentheses) are clustered at the kebele level. All models control for woreda-level fixed effects. Significance is calculated with respect to the standard errors. Where primary female's/male's education is missing, it is replaced with zero and respectively controlled for. * Statistically significant at the 10% level. ** Statistically significant at the 5% level. *** Statistically significant at the 1% level.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_m6UMtby">Appendix E Costing Methodology</head><p xml:id="_GxPn7Cx">The cost estimates are based on the sum of the appropriate line items in the budgets of World Vision, CARE, and the Organization for Rehabilitation and Development in Amhara. These costs are across 5 years and cover the program costs for all households receiving the programs, including the roughly 500,000 not in the sample. In general, it is appropriate to divide by the total number of program participants to estimate unit household costs for many of the SPIR services. Because of age targeting, however, a share of the households did not participate in the nutrition programs continually over the entire period studied. Thus, to get the cost per nutrition program potential beneficiary household, we required a means to allocate the marginal nutrition program costs over households that had a child between the ages of 0 and 36 months at any time during the 5-year period of implementation. Given that all households in the sample survey used in this study had a young child at baseline, this dataset is not a suitable source for calculating the unit costs. Therefore, we used the share of PSNP beneficiaries in a sample collected in 2016 (Headey et al. 2019) to estimate that 78% of household in Amhara and Oromia had a child in the age range 0-8 years, that is, the share of households that had at least one child that was between 0 and 3 years in the preceding 5 years. The opportunity cost of time for the HDA volunteers is based on their time allocation per household reported in the end-line survey multiplied by the average public-works wage in Amhara and Oromia. We applied this time allocation to cover 5 years to be comparable with the budget data. Similarly, we use the public-works wage to estimate the opportunity cost of beneficiaries for participation in BCC programs and community hygiene and sanitation events. These data come from recall reported for the previous 3 months in the end-line survey. We approximate the cost of the child's vulnerable years by assuming that the time reported is constant and thus multiply the 3-month time commitment by 12 to cover 3 years. <ref type="bibr">14</ref> Participants also received training on nutrition in VESAs. However, while we have the total time allocation in VESA programs, we do not have it by subject. We approximate the share of that activity devoted to nutrition as 10%.</p><p xml:id="_bk3g6Ku">Nongovernmental organization service-provider budgets were reported in US dollars, while birr costs of wages are based on exchange rates in 2021 and are not adjusted for purchasing power parity.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc xml:id="_yT9vxSt">Figure 1. CONSORT diagram of research design. HH 5 households.</figDesc><graphic coords="7,74.44,77.39,324.00,337.66" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 .</head><label>2</label><figDesc xml:id="_djnPRtg">Figure 2. Experimental impact evaluation design.</figDesc><graphic coords="9,74.44,79.37,324.00,189.92" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 3 .</head><label>3</label><figDesc xml:id="_u5nSpcB">Figure 3. Trends in stunting by treatment category.</figDesc><graphic coords="16,86.46,79.37,299.96,233.24" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>TABLE 1 (</head><label>1</label><figDesc xml:id="_zTEurJS">Continued )Note. Standard deviations are in parentheses. p-value is from the test of difference of means between the treatment arms. Standard errors are clustered at the kebele level.</figDesc><table><row><cell></cell><cell>EN with</cell><cell>Grants versus</cell><cell>CN with Grants</cell><cell>.295</cell><cell></cell><cell>.963</cell><cell></cell><cell>.492</cell><cell></cell><cell>.035</cell><cell></cell><cell>.276</cell><cell></cell><cell>.451</cell><cell></cell><cell>.537</cell><cell></cell><cell>.804</cell><cell></cell><cell>.314</cell><cell></cell><cell></cell></row><row><cell></cell><cell>EN with Grants</cell><cell>versus EN,</cell><cell>No Grants</cell><cell>.151</cell><cell></cell><cell>.525</cell><cell></cell><cell>.477</cell><cell></cell><cell>.378</cell><cell></cell><cell>.756</cell><cell></cell><cell>.805</cell><cell></cell><cell>.889</cell><cell></cell><cell>.574</cell><cell></cell><cell>.263</cell><cell></cell><cell></cell></row><row><cell>p-Value</cell><cell>CN with</cell><cell>Grants versus</cell><cell>Control</cell><cell>.178</cell><cell></cell><cell>.759</cell><cell></cell><cell>.896</cell><cell></cell><cell>.060</cell><cell></cell><cell>.648</cell><cell></cell><cell>.818</cell><cell></cell><cell>.085</cell><cell></cell><cell>.855</cell><cell></cell><cell>.087</cell><cell></cell><cell></cell></row><row><cell>Mean and SD</cell><cell>EN EN with</cell><cell>EN with without CN with Grants versus EN, no Grants</cell><cell>Grants Grants Grants Control Control versus Control</cell><cell>18.223 19.408 18.973 18.009 .795 .090</cell><cell>(10.734) (10.514) (10.370) (10.026)</cell><cell>.511 .532 .512 .522 .738 .723</cell><cell>(.500) (.499) (.500) (.500)</cell><cell>.383 .412 .416 .409 .593 .955</cell><cell>(.487) (.493) (.493) (.492)</cell><cell>.104 .132 .184 .111 .820 .526</cell><cell>(.305) (.339) (.388) (.315)</cell><cell>.240 .254 .291 .271 .483 .700</cell><cell>(.428) (.436) (.455) (.445)</cell><cell>.219 .230 .254 .264 .287 .415</cell><cell>(.414) (.421) (.436) (.441)</cell><cell>3.092 3.107 3.014 3.245 .166 .215</cell><cell>(.947) (.977) (1.109) (1.117)</cell><cell>.416 .449 .402 .392 .672 .327</cell><cell>(.494) (.499) (.492) (.489)</cell><cell>.005 .020 .000 .015 .346 .738</cell><cell>(.073) (.139) (.000) (.121)</cell><cell>5 height-for-age z-score; WHZ 5 weight-for-height z-score.</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Observations</cell><cell>Child's age in months 1,907</cell><cell></cell><cell>Child is male 1,901</cell><cell>Child is stunted (HAZ &lt; 22 SD),</cell><cell>children 6-36 months 1,574</cell><cell>Child is wasted (WHZ &lt; 22 SD),</cell><cell>children 6-36 months 1,572</cell><cell>Child's weight was measured</cell><cell>in past 3 months 1,897</cell><cell>Child's height was measured</cell><cell>in past 3 months 1,897</cell><cell>Number of food groups (out of 8)</cell><cell>child consumed the previous day 1,907</cell><cell>Child met the minimum meal frequency</cell><cell>for children of 6-23 months 793</cell><cell>Children 6-23 months of age who</cell><cell>receive a minimum acceptable diet 793</cell><cell></cell><cell>MDD-W 5 minimum dietary diversity for women; HAZ</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>TABLE 2 ANTHROPOMETRICS</head><label>2</label><figDesc xml:id="_VwRvDmk">Estimates from the Development Food Security Activity (DFSA) SPIR end-line survey for children of age 6-35 months from the subsample of extremely poor households.Standard errors (in parentheses) are clustered at the kebele level. All models control for woreda-level fixed effects, child's sex and age in months, and whether the child's mother has any education. Significance is calculated with respect to the standard errors. Sample of poor households is determined by ranking households within kebeles on the basis of land and asset index constructed at baseline where the 10 poorest households out of 18 in each kebele are classified as</figDesc><table><row><cell>: CHILDREN 6-35 MONTHS OF AGE (N 5 637)</cell><cell>Proportion of Severe</cell><cell>Proportion Stunted Proportion Wasted Proportion Underweight Acute Malnutrition</cell><cell>HAZ (HAZ &lt; 22 SD) WHZ (WHZ &lt; 22 SD) WAZ (WAZ MUAC (MUAC &lt; 11.5 cm) &lt; 22 SD)</cell><cell>(7) (8) (1) (2) (3) (4) (5) (6)</cell><cell>.323** 2.012 EN with poultry .256 2.070 .119 .007 .224 2.028</cell><cell>(.143) (.019) (.263) (.071) (.172) (.033) (.158) (.055)</cell><cell>.170 2.011 EN with cash .431* 2.179*** .017 .005 .257 2.060</cell><cell>(.127) (.020) (.235) (.055) (.140) (.042) (.167) (.052)</cell><cell>2.085 2.015 EN without grants 2.244 .007 .046 .013 2.082 2.041</cell><cell>(.132) (.017) (.151) (.049) (.152) (.034) (.140) (.046)</cell><cell>.140 2.000 CN with poultry .182 2.095 .073 2.002 .154 2.089</cell><cell>(.146) (.021) (.261) (.059) (.177) (.032) (.187) (.064)</cell><cell>2.078 2.002 CN with cash 2.043 2.011 .113 2.021 .068 2.038</cell><cell>(.130) (.023) (.196) (.055) (.133) (.029) (.148) (.048)</cell><cell>.245** 2.011 Average effect of EN with grants .345* 2.125** .067 .006 .241* 2.044</cell><cell>(.111) (.016) (.197) (.052) (.129) (.031) (.135) (.044)</cell><cell>.033 2.001 Average effect of CN with grants .072 2.054 .093 2.011 .112 2.064</cell><cell>(.116) (.018) (.182) (.049) (.128) (.026) (.140) (.047)</cell><cell>.050** .551 Test: EN with grants 5 CN with grants .207 .152 .842 .534 .360 .664</cell><cell>.801 .005*** Test: EN with grants 5 EN without grants .002*** .006*** .887 .834 .020** .942</cell><cell>.943 .320 Test: EN with poultry 5 EN with cash .567 .134 .567 .952 .858 .586</cell><cell>.927 .150 Test: CN with poultry 5 CN with cash .431 .162 .829 .541 .650 .416</cell><cell>.029 13.638 Mean of control 21.990 .543 2.438 .087 21.395 .353</cell><cell>5 mid-z-score; MUAC 5 weight-for-age Note. "poor." WAZ</cell><cell>upper arm circumference.</cell></row></table><note xml:id="_UJsubBG"><p>* Statistically significant at the 10% level. ** Statistically significant at the 5% level. *** Statistically significant at the 1% level.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>TABLE 5 MOTHER</head><label>5</label><figDesc xml:id="_zDQHze2">Estimates from the DFSA SPIR end-line survey for the subsample of extremely poor households. Standard errors (in parentheses) are clustered at the kebele level. All models control for woreda-level fixed effects and whether mother has any education. For outcomes that were measured at baseline, the model also controls for the baseline value. Significance is calculated with respect to the standard errors. Sample of poor households is determined by ranking households within kebeles on the basis of land and asset index constructed at baseline where the 10 poorest households out of 18 in each kebele are classified as</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell>Knows How</cell><cell>Often a Child</cell><cell>Should Be Fed</cell><cell>When Sick</cell><cell>(8)</cell><cell>.067*</cell><cell>(.035)</cell><cell>.011</cell><cell>(.045)</cell><cell>.056</cell><cell>(.036)</cell><cell>2.023</cell><cell>(.037)</cell><cell>.053</cell><cell>(.041)</cell><cell>.039</cell><cell>(.033)</cell></row><row><cell></cell><cell>Knows How</cell><cell>Often a Baby 6-</cell><cell>23 Months Old</cell><cell>Should Eat</cell><cell>Animal-Source</cell><cell>Foods</cell><cell>(7)</cell><cell>.070**</cell><cell>(.033)</cell><cell>.007</cell><cell>(.037)</cell><cell>.006</cell><cell>(.029)</cell><cell>.001</cell><cell>(.035)</cell><cell>2.026</cell><cell>(.047)</cell><cell>.038</cell><cell>(.030)</cell></row><row><cell></cell><cell></cell><cell>Knows the</cell><cell>CommonProblem</cell><cell>with Gruels Given</cell><cell>as First Foods to</cell><cell>Babies</cell><cell>(6)</cell><cell>2.002</cell><cell>(.044)</cell><cell>.019</cell><cell>(.031)</cell><cell>2.001</cell><cell>(.035)</cell><cell>.025</cell><cell>(.042)</cell><cell>2.070**</cell><cell>(.035)</cell><cell>.009</cell><cell>(.032)</cell></row><row><cell>'S IYCF KNOWLEDGE (N 5 1,693)</cell><cell>Knows What to</cell><cell>Knows Until Do if a Mother</cell><cell>What Age a Baby Thinks Her Baby</cell><cell>Should Be Is Not Getting Knows Which</cell><cell>Exclusively Enough Breast Foods Are Rich</cell><cell>Breast Fed Milk in Vitamin A</cell><cell>(3) (4) (5)</cell><cell>.040* .009 .054</cell><cell>(.023) (.048) (.041)</cell><cell>2.001 2.078* .087*</cell><cell>(.027) (.040) (.046)</cell><cell>.029 2.061 .091**</cell><cell>(.022) (.038) (.035)</cell><cell>2.011 2.024 .035</cell><cell>(.029) (.049) (.050)</cell><cell>.019 2.040 .122***</cell><cell>(.028) (.041) (.043)</cell><cell>.019 2.035 .070**</cell><cell>(.021) (.037) (.035)</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Knows How Long</cell><cell>after Birth Should</cell><cell>a Baby Start</cell><cell>Breast Feeding</cell><cell>(2)</cell><cell>.012</cell><cell>(.034)</cell><cell>.025</cell><cell>(.029)</cell><cell>.045*</cell><cell>(.026)</cell><cell>.001</cell><cell>(.033)</cell><cell>.028</cell><cell>(.030)</cell><cell>.019</cell><cell>(.026)</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Female IYCF</cell><cell>Knowledge</cell><cell>Score (0-7)</cell><cell>(1)</cell><cell>.245*</cell><cell>(.128)</cell><cell>.066</cell><cell>(.117)</cell><cell>.161</cell><cell>(.097)</cell><cell>.001</cell><cell>(.121)</cell><cell>.079</cell><cell>(.107)</cell><cell>.154</cell><cell>(.102)</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>EN with poultry</cell><cell></cell><cell>EN with cash</cell><cell></cell><cell>EN without grants</cell><cell></cell><cell>CN with poultry</cell><cell></cell><cell>CN with cash</cell><cell>Average effect of EN</cell><cell>with grants</cell><cell></cell></row></table><note xml:id="_tQybHwW"><p>*** Statistically significant at the 1% level.</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_0"><p xml:id="_f4YGpee">The PSNP provides monthly consumption support for 6 months per year as payment for participation in labor-intensive public works (80% of beneficiaries) or for 12 months as direct support to labor-scarce households (20% of beneficiaries).</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_1"><p xml:id="_HwcfK9H">The working paper version,<ref type="bibr" target="#b12">Bossuroy et al. (2021)</ref>, however, did report on anthropometrics. That paper found no significant effects on height or weight for age of children.Note that Raza, Van de Poel, and Van Ourti (2018) report reduced wasting after 4 years in the communities<ref type="bibr" target="#b7">Bandiera et al. (2017)</ref> studied. However, wasting is a short-term measure generally concentrated among children under 2.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="3" xml:id="foot_2"><p xml:id="_VsZ7Bs6">Plausibly, the 13-month study might be a lower bound because some anthropometric effects are cumulative<ref type="bibr" target="#b4">(Alderman and Headey 2018)</ref>.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_3"><p xml:id="_vUZd2yb"><ref type="bibr" target="#b36">Porter and Goyal (2016)</ref>, however, do find improved nutrition for somewhat older children in households receiving PSNP.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="5" xml:id="foot_4"><p xml:id="_3nNStNn">In original trial design and in the end-line report<ref type="bibr" target="#b2">(Alderman et al. 2021)</ref>, CN is referred to as N and EN as N*. We preferentially use CN and EN here to make explicit the more intensive features of the enhanced nutrition programming.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="6" xml:id="foot_5"><p xml:id="_aMB5QKQ">Results on nutrition outcomes for the full sample, including households that were not eligible for livelihood grants, were reported to project stakeholders<ref type="bibr" target="#b2">(Alderman et al. 2021)</ref> and are summarized in app. B.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="7" xml:id="foot_6"><p xml:id="_rxzpYBA">Furthermore, adults were screened for depression in the midline survey, and those with symptoms of depression-roughly 20%-were invited to participate in group-therapy sessions.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="8" xml:id="foot_7"><p xml:id="_GRYHSes">Because</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_8"><p xml:id="_Dde5Cyr">99.1% and 97.9% of children under 24 months and under 36 months, respectively, were cared for by their mothers, the word mother will be used instead of caregiver in the rest of this study, including tables. Similarly, father is used in lieu of primary male caregiver irrespective of biological roles.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="9" xml:id="foot_9"><p xml:id="_NzfsVCw">Because the sample of children in the end-line data does not contain children who were in the baseline, given the age of the outcomes being investigated, we cannot utilize this approach for the childlevel regressions.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="13" xml:id="foot_10"><p xml:id="_Pe44P9z">Additional details of the costing methodology are in app. E.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="14" xml:id="foot_11"><p xml:id="_DNCtjkn">The difference between time periods for service provision and that for household participation reflects the fact that providers shift into new households over the program as children age into or out of the vulnerable years.</p></note>
+		</body>
+		<back>
+
+			<div type="funding">
+<div xml:id="_jrk7yB7"><p xml:id="_QHMUMHB">We gratefully acknowledge funding for the impact evaluation from the <rs type="funder">US Agency for International Development under Cooperative Agreement</rs> no. <rs type="grantNumber">AID-FFP-A-16-00008</rs>. Data are provided through Dataverse at <ref type="url" target="https://doi.org/10.7910/DVN/XO9ZUC">https://doi.org/10.7910/DVN/XO9ZUC</ref>. Contact the corresponding author, <rs type="person">Harold Alderman</rs>, at <ref type="url" target="mailto:h.alderman@cgiar.org">h.alderman@cgiar.org</ref>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_YR2JYmT">
+					<idno type="grant-number">AID-FFP-A-16-00008</idno>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="consolidated"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main" xml:id="_Nrj6edE">COVID-19 and Food Security in Ethiopia: Do Social Protection Programs Protect?</title>
+		<author>
+			<persName><forename type="first">Kibrom</forename><forename type="middle">A</forename><surname>Abay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Guush</forename><surname>Berhane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><surname>Hoddinott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kibrom</forename><surname>Tafere</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/715831</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_EJ9hrZk">Economic Development and Cultural Change</title>
+		<title level="j" type="abbrev">Economic Development and Cultural Change</title>
+		<idno type="ISSN">0013-0079</idno>
+		<idno type="ISSNe">1539-2988</idno>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="373" to="402" />
+			<date type="published" when="2023-01-01">2023</date>
+			<publisher>University of Chicago Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main" xml:id="_wwdnNry">Food Transfers, Cash Transfers, Behavior Change Communication and Child Nutrition: Evidence from Bangladesh</title>
+		<author>
+			<persName><forename type="first">Akhter</forename><surname>Ahmed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><surname>Hoddinott</surname></persName>
+			<idno type="ORCID">0000-0002-0590-3917</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Shalini</forename><surname>Roy</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/wber/lhae023</idno>
+		<ptr target="https://doi.org/10.1093/wber/lhae023" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_azEDcmh">The World Bank Economic Review</title>
+		<idno type="ISSN">0258-6770</idno>
+		<idno type="ISSNe">1564-698X</idno>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="439" to="472" />
+			<date type="published" when="2024-05-23">2024</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<monogr>
+		<author>
+			<persName><forename type="first">Harold</forename><surname>Alderman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lucy</forename><surname>Billings</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Daniel</forename><forename type="middle">O</forename><surname>Gilligan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Melissa</forename><surname>Hidrobo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jessica</forename><surname>Leight</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alemayehu</forename><surname>Seyoum Taffesse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Heleene</forename><surname>Tambet</surname></persName>
+		</author>
+		<title level="m" xml:id="_3sSgvtZ">Impact Evaluation of the Strengthen PSNP4 Institutions and Resilience (SPIR) Development Food Security Activity (DFSA): Endline Report</title>
+		<meeting><address><addrLine>Washington, DC</addrLine></address></meeting>
+		<imprint>
+			<publisher>International Food Policy Research Institute</publisher>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main" xml:id="_gXHQNe8">The Role of Poultry Transfers in Diet Diversity: A Cluster Randomized Intent to Treat Analysis</title>
+		<author>
+			<persName><surname>Alderman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Daniel</forename><forename type="middle">O</forename><surname>Harold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jessica</forename><surname>Gilligan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Leight</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Heleene</forename><surname>Mulford</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Tambet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_CYXrqzu">Food Policy</title>
+		<imprint>
+			<biblScope unit="volume">107</biblScope>
+			<biblScope unit="page">102212</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main" xml:id="_wB5H3YJ">The timing of growth faltering has important implications for observational analyses of the underlying determinants of nutrition outcomes</title>
+		<author>
+			<persName><forename type="first">Harold</forename><surname>Alderman</surname></persName>
+			<idno type="ORCID">0000-0001-8019-6397</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Derek</forename><surname>Headey</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0195904</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_FTWHfq2">PLOS ONE</title>
+		<title level="j" type="abbrev">PLoS ONE</title>
+		<idno type="ISSNe">1932-6203</idno>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">e0195904</biblScope>
+			<date type="published" when="2018-04-25">2018</date>
+			<publisher>Public Library of Science (PLoS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main" xml:id="_Rj2wdgp">Labor Supply Responses to Large Social Transfers: Longitudinal Evidence from South Africa</title>
+		<author>
+			<persName><forename type="first">Cally</forename><surname>Ardington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anne</forename><surname>Case</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Victoria</forename><surname>Hosegood</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/app.1.1.22</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_PzgKjdk">American Economic Journal: Applied Economics</title>
+		<title level="j" type="abbrev">American Economic Journal: Applied Economics</title>
+		<idno type="ISSN">1945-7782</idno>
+		<idno type="ISSNe">1945-7790</idno>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="22" to="48" />
+			<date type="published" when="2009-01-01">2009</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main" xml:id="_3Pa4x9C">Conditional, Unconditional and Everything in Between : A Systematic Review of the Effects of Cash Transfer Programs on Schooling Outcomes</title>
+		<author>
+			<persName><forename type="first">Sarah</forename><surname>Baird</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Francisco</forename><forename type="middle">H G</forename><surname>Ferreira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Berk</forename><surname>Özler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Woolcock</surname></persName>
+		</author>
+		<idno type="DOI">10.1596/18085</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_VgAvkCQ">Journal of Development Effectiveness</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="43" />
+			<date type="published" when="2014-03-06">2014</date>
+			<publisher>Taylor and Francis</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main" xml:id="_B7v2uwe">Labor Markets and Poverty in Village Economies*</title>
+		<author>
+			<persName><forename type="first">Oriana</forename><surname>Bandiera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robin</forename><surname>Burgess</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Narayan</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Selim</forename><surname>Gulesci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Imran</forename><surname>Rasul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Munshi</forename><surname>Sulaiman</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/qje/qjx003</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_xgJbaca">The Quarterly Journal of Economics</title>
+		<idno type="ISSN">0033-5533</idno>
+		<idno type="ISSNe">1531-4650</idno>
+		<imprint>
+			<biblScope unit="volume">132</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="811" to="870" />
+			<date type="published" when="2017-03-20">2017</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main" xml:id="_DEYdTPW">A multifaceted program causes lasting progress for the very poor: Evidence from six countries</title>
+		<author>
+			<persName><forename type="first">Abhijit</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Esther</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nathanael</forename><surname>Goldberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dean</forename><surname>Karlan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Osei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">William</forename><surname>Parienté</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeremy</forename><surname>Shapiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bram</forename><surname>Thuysbaert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Udry</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.1260799</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_APzSArm">Science</title>
+		<title level="j" type="abbrev">Science</title>
+		<idno type="ISSN">0036-8075</idno>
+		<idno type="ISSNe">1095-9203</idno>
+		<imprint>
+			<biblScope unit="volume">348</biblScope>
+			<biblScope unit="issue">6236</biblScope>
+			<biblScope unit="page">1260799</biblScope>
+			<date type="published" when="2015-05-15">2015</date>
+			<publisher>American Association for the Advancement of Science (AAAS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main" xml:id="_Hn2SxTk">Evaluation of the nutrition-sensitive features of the fourth phase of Ethiopia&apos;s Productive Safety Net Programme</title>
+		<author>
+			<persName><forename type="first">Guush</forename><surname>Berhane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jennifer</forename><surname>Golan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kalle</forename><surname>Hirvonen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><forename type="middle">F</forename><surname>Hoddinott</surname></persName>
+		</author>
+		<idno type="DOI">10.2499/p15738coll2.133685</idno>
+		<idno>no. 140</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_jGgydKh">Ethiopia Strategy Support Program</title>
+		<meeting><address><addrLine>Washington, DC</addrLine></address></meeting>
+		<imprint>
+			<publisher>International Food Policy Research Institute</publisher>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+		<respStmt>
+			<orgName>International Food Policy Research Institute</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">ESSP) Working Paper</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main" xml:id="_BJCadSe">The Long-Term Impacts of Grants on Poverty: Nine-Year Evidence from Uganda&apos;s Youth Opportunities Program</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Blattman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Fiala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Martinez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_8fzTAen">American Economic Review: Insights</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="287" to="304" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main" xml:id="_Stjgdyj">Tackling psychosocial and capital constraints to alleviate poverty</title>
+		<author>
+			<persName><forename type="first">Thomas</forename><surname>Bossuroy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Markus</forename><surname>Goldstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bassirou</forename><surname>Karimou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dean</forename><surname>Karlan</surname></persName>
+			<idno type="ORCID">0000-0003-0164-1398</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Harounan</forename><surname>Kazianga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">William</forename><surname>Parienté</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Patrick</forename><surname>Premand</surname></persName>
+			<idno type="ORCID">0000-0002-7447-5995</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Catherine</forename><forename type="middle">C</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Udry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Julia</forename><surname>Vaillant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kelsey</forename><forename type="middle">A</forename><surname>Wright</surname></persName>
+			<idno type="ORCID">0000-0003-4156-3814</idno>
+		</author>
+		<idno type="DOI">10.1038/s41586-022-04647-8</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_reJFuzN">Nature</title>
+		<title level="j" type="abbrev">Nature</title>
+		<idno type="ISSN">0028-0836</idno>
+		<idno type="ISSNe">1476-4687</idno>
+		<imprint>
+			<biblScope unit="volume">605</biblScope>
+			<biblScope unit="issue">7909</biblScope>
+			<biblScope unit="page" from="291" to="297" />
+			<date type="published" when="2022-04-27">2022</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b12">
+	<monogr>
+		<title level="m" type="main" xml:id="_ZHDWG67">Pathways out of Extreme Poverty: Tackling Psychosocial and Capital Constraints with a Multi-Faceted Social Protection Program in Niger</title>
+		<author>
+			<persName><forename type="first">Thomas</forename><surname>Bossuroy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Markus</forename><surname>Goldstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dean</forename><surname>Karlan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Harounan</forename><surname>Kazianga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">William</forename><surname>Pariente</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Patrick</forename><surname>Premand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Catherine</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Udry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Julia</forename><surname>Vaillant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kelsey</forename><surname>Wright</surname></persName>
+		</author>
+		<idno type="DOI">10.1596/1813-9450-9562</idno>
+		<imprint>
+			<date type="published" when="2021-03">2021. 9562</date>
+			<publisher>World Bank, Washington, DC</publisher>
+			<pubPlace>Washington, DC</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Policy Research Working Paper</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main" xml:id="_jm4eJWh">Cumulative Impacts of Conditional Cash Transfer Programs: Experimental Evidence from Indonesia</title>
+		<author>
+			<persName><forename type="first">Nur</forename><surname>Cahyadi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rema</forename><surname>Hanna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Benjamin</forename><forename type="middle">A</forename><surname>Olken</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rizal</forename><forename type="middle">Adi</forename><surname>Prima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Elan</forename><surname>Satriawan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ekki</forename><surname>Syamsulhakim</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/pol.20190245</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_DDDr859">American Economic Journal: Economic Policy</title>
+		<title level="j" type="abbrev">American Economic Journal: Economic Policy</title>
+		<idno type="ISSN">1945-7731</idno>
+		<idno type="ISSNe">1945-774X</idno>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="88" to="110" />
+			<date type="published" when="2020-11-01">2020</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main" xml:id="_2nDDqNb">The Impacts of a Multifaceted Pre-natal Intervention on Human Capital Accumulation in Early Life</title>
+		<author>
+			<persName><forename type="first">Pedro</forename><surname>Carneiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lucy</forename><surname>Manuel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Giacomo</forename><surname>Kraftman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lucie</forename><surname>Mason</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Imran</forename><surname>Moore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Molly</forename><surname>Rasul</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Scott</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_KTJfaG8">American Economic Review</title>
+		<imprint>
+			<biblScope unit="volume">111</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="2506" to="2549" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main" xml:id="_TpU673E">Reassessing Conditional Cash Transfer Programs</title>
+		<author>
+			<persName><forename type="first">Jishnu</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Quy-Toan</forename><surname>Do</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Berk</forename><surname>Özler</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/wbro/lki005</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_TETQF3R">The World Bank Research Observer</title>
+		<title level="j" type="abbrev">The World Bank Research Observer</title>
+		<idno type="ISSN">0257-3032</idno>
+		<idno type="ISSNe">1564-6971</idno>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="57" to="80" />
+			<date type="published" when="2005-03-01">2005</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b16">
+	<monogr>
+		<title level="m" type="main" xml:id="_vx4Hp2C">Fasting, Food, and Farming: Evidence from Ethiopian Producers on the Link of Food Taboos with Dairy Development</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>D'haene</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Vandevelde</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Minten</surname></persName>
+		</author>
+		<idno>no. 141</idno>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<pubPlace>Washington, DC</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>International Food Policy Research Institute</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Strategy Support Program Working Paper</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main" xml:id="_6CYMeSK">The State of Food and Agriculture 2006: Food Aid for Food Security? Food and Agriculture Organization (FAO). FAO Agriculture Series no. 37. xii+168 pp. +mini CD-ROM. Rome: FAO (2006). US$65.00 (Paperback). ISBN 978-92-5-105600-4.</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle"> J</forename><surname>Thomson</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/s0021859607007083</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_WQbvgtw">The Journal of Agricultural Science</title>
+		<title level="j" type="abbrev">J. Agric. Sci.</title>
+		<idno type="ISSN">0021-8596</idno>
+		<idno type="ISSNe">1469-5146</idno>
+		<imprint>
+			<biblScope unit="volume">145</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="415" to="416" />
+			<date type="published" when="2015">2015</date>
+			<publisher>Cambridge University Press (CUP)</publisher>
+			<pubPlace>Rome</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b18">
+	<monogr>
+		<title level="m" type="main" xml:id="_femtS77">Are Behavioral Change Interventions Needed to Make Cash Transfer Programs Work for Children? Experimental Evidence from Myanmar</title>
+		<author>
+			<persName><forename type="first">Erica</forename><forename type="middle">M</forename><surname>Field</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Elisa</forename><forename type="middle">M</forename><surname>Maffioli</surname></persName>
+		</author>
+		<idno type="DOI">10.3386/w28443</idno>
+		<idno>no. 28443</idno>
+		<imprint>
+			<date type="published" when="2021-02">2021. February</date>
+			<publisher>National Bureau of Economic Research</publisher>
+			<pubPlace>Cambridge, MA</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>National Bureau of Economic Research</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">NBER Working Paper</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main" xml:id="_R35rWvu">Estimating Wealth Effects without Expenditure Data-or Tears: An Application to Educational Enrollments in States of India</title>
+		<author>
+			<persName><forename type="first">Deon</forename><surname>Filmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lant</forename><surname>Pritchett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_5WTmNvT">Demography</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="115" to="132" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main" xml:id="_t6zYzSW">An Analysis of Sample Attrition in Panel Data: The Michigan Panel Study of Income Dynamics</title>
+		<author>
+			<persName><forename type="first">John</forename><surname>Fitzgerald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Peter</forename><surname>Gottschalk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Moffitt</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/146433</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_3vgEZu8">The Journal of Human Resources</title>
+		<title level="j" type="abbrev">The Journal of Human Resources</title>
+		<idno type="ISSN">0022-166X</idno>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">251</biblScope>
+			<date type="published" when="1998">1998</date>
+			<publisher>JSTOR</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main" xml:id="_bBEvSRy">Investing Cash Transfers to Raise Long-Term Living Standards</title>
+		<author>
+			<persName><forename type="first">Paul</forename><forename type="middle">J</forename><surname>Gertler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sebastian</forename><forename type="middle">W</forename><surname>Martinez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marta</forename><surname>Rubio-Codina</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/app.4.1.164</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_F4SCM3z">American Economic Journal: Applied Economics</title>
+		<title level="j" type="abbrev">American Economic Journal: Applied Economics</title>
+		<idno type="ISSN">1945-7782</idno>
+		<idno type="ISSNe">1945-7790</idno>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="164" to="192" />
+			<date type="published" when="2012-01-01">2012</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main" xml:id="_hvXyA36">The Roles of Nutrition Education and Food Vouchers in Improving Child Nutrition: Evidence from a Field Experiment in Ethiopia</title>
+		<author>
+			<persName><forename type="first">Yaeeun</forename><surname>Han</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hyuncheol</forename><forename type="middle">Bryant</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Seollee</forename><surname>Park</surname></persName>
+			<idno type="ORCID">0000-0001-6007-4480</idno>
+		</author>
+		<idno type="DOI">10.1016/j.jhealeco.2021.102545</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_y3HqaF9">Journal of Health Economics</title>
+		<title level="j" type="abbrev">Journal of Health Economics</title>
+		<idno type="ISSN">0167-6296</idno>
+		<imprint>
+			<biblScope unit="volume">80</biblScope>
+			<biblScope unit="page">102545</biblScope>
+			<date type="published" when="2021-12">2021</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main" xml:id="_WEqBHRP">The Short-term Impact of Unconditional Cash Transfers to the Poor: Experimental Evidence from Kenya*</title>
+		<author>
+			<persName><forename type="first">Johannes</forename><surname>Haushofer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeremy</forename><surname>Shapiro</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/qje/qjw025</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_UtMhCh3">The Quarterly Journal of Economics</title>
+		<idno type="ISSN">0033-5533</idno>
+		<idno type="ISSNe">1531-4650</idno>
+		<imprint>
+			<biblScope unit="volume">131</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1973" to="2042" />
+			<date type="published" when="2016-07-19">2016</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b24">
+	<analytic>
+		<title level="a" type="main" xml:id="_2Mb5vFQ">Rural Food Markets and Child Nutrition</title>
+		<author>
+			<persName><forename type="first">Derek</forename><surname>Headey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kalle</forename><surname>Hirvonen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><surname>Hoddinott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><surname>Stifel</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/ajae/aaz032</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_DtBbrKD">American Journal of Agricultural Economics</title>
+		<title level="j" type="abbrev">American J Agri Economics</title>
+		<idno type="ISSN">0002-9092</idno>
+		<idno type="ISSNe">1467-8276</idno>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1311" to="1327" />
+			<date type="published" when="2019-09-03">2019</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b25">
+	<monogr>
+		<title level="m" type="main" xml:id="_4hj4VCC">Do Ultra-poor Graduation Programs Build Resilience against Droughts? Evidence from Rural Ethiopia</title>
+		<author>
+			<persName><forename type="first">Kalle</forename><surname>Hirvonen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Daniel</forename><forename type="middle">O</forename><surname>Gilligan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jessica</forename><surname>Leight</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Heleene</forename><surname>Tambet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Victor</forename><surname>Villa</surname></persName>
+		</author>
+		<idno>no. 02206</idno>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<pubPlace>Washington, DC</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>International Food Policy Research Institute</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">IFPRI Discussion Paper</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b26">
+	<analytic>
+		<title level="a" type="main" xml:id="_m3Zj8tn">Understanding delays in the introduction of complementary foods in rural Ethiopia</title>
+		<author>
+			<persName><forename type="first">Kalle</forename><surname>Hirvonen</surname></persName>
+			<idno type="ORCID">0000-0003-2057-1612</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Abdulazize</forename><surname>Wolle</surname></persName>
+			<idno type="ORCID">0000-0002-0017-5973</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Arnaud</forename><surname>Laillou</surname></persName>
+			<idno type="ORCID">0000-0002-2315-223X</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Vincenzo</forename><surname>Vinci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stanley</forename><surname>Chitekwe</surname></persName>
+			<idno type="ORCID">0000-0003-0915-333X</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Kaleab</forename><surname>Baye</surname></persName>
+			<idno type="ORCID">0000-0001-7298-1096</idno>
+		</author>
+		<idno type="DOI">10.1111/mcn.13247</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_P8vpW2q">Maternal &amp; Child Nutrition</title>
+		<title level="j" type="abbrev">Maternal &amp; Child Nutrition</title>
+		<idno type="ISSN">1740-8695</idno>
+		<idno type="ISSNe">1740-8709</idno>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">S5</biblScope>
+			<biblScope unit="page">13247</biblScope>
+			<date type="published" when="2021-09-15">2021</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b27">
+	<analytic>
+		<title level="a" type="main" xml:id="_aKtKSmz">Effective Interventions to Address Maternal and Child Malnutrition: An Update of the Evidence</title>
+		<author>
+			<persName><forename type="first">Emily</forename><forename type="middle">C</forename><surname>Keats</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Jai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rehana</forename><forename type="middle">A</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zohra</forename><forename type="middle">S</forename><surname>Salam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aamer</forename><surname>Lassi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><forename type="middle">E</forename><surname>Imdad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zulfiqar</forename><forename type="middle">A</forename><surname>Black</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Bhutta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_PDnPfE4">Lancet Child and Adolescent Health</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="367" to="384" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b28">
+	<analytic>
+		<title level="a" type="main" xml:id="_ktdMqaC">Different Combinations of Behavior Change Interventions and Frequencies of Interpersonal Contacts Are Associated with Infant and Young Child Feeding Practices in Bangladesh, Ethiopia, and Vietnam</title>
+		<author>
+			<persName><forename type="first">Sunny</forename><forename type="middle">S</forename><surname>Kim</surname></persName>
+			<idno type="ORCID">0000-0003-3960-3354</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Phuong</forename><forename type="middle">Hong</forename><surname>Nguyen</surname></persName>
+			<idno type="ORCID">0000-0003-3418-1674</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Lan</forename><forename type="middle">Mai</forename><surname>Tran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Silvia</forename><surname>Alayon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Purnima</forename><surname>Menon</surname></persName>
+			<idno type="ORCID">0000-0001-5988-2894</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Edward</forename><forename type="middle">A</forename><surname>Frongillo</surname></persName>
+			<idno type="ORCID">0000-0002-8265-9815</idno>
+		</author>
+		<idno type="DOI">10.1093/cdn/nzz140</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_ZXWUA94">Current Developments in Nutrition</title>
+		<title level="j" type="abbrev">Current Developments in Nutrition</title>
+		<idno type="ISSN">2475-2991</idno>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">nzz140</biblScope>
+			<date type="published" when="2020-02">2020</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b29">
+	<analytic>
+		<title level="a" type="main" xml:id="_uEVMCHj">Behavior Change Interventions Delivered through Interpersonal Communication, Agricultural Activities, Community Mobilization, and Mass Media Increase Complementary Feeding Practices and Reduce Child Stunting in Ethiopia</title>
+		<author>
+			<persName><forename type="first">Sunny</forename><forename type="middle">S</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Phuong</forename><surname>Hong Nguyen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yisehac</forename><surname>Yohannes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yewelsew</forename><surname>Abebe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Manisha</forename><surname>Tharaney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Elizabeth</forename><surname>Drummond</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Edward</forename><forename type="middle">A</forename><surname>Frongillo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marie</forename><forename type="middle">T</forename><surname>Ruel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Purnima</forename><surname>Menon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_5kAhKqW">Journal of Nutrition</title>
+		<imprint>
+			<biblScope unit="volume">149</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1470" to="1481" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b30">
+	<analytic>
+		<title level="a" type="main" xml:id="_RGnPgeF">Experimental Analysis of Neighborhood Effects</title>
+		<author>
+			<persName><forename type="first">Jeffrey</forename><forename type="middle">R</forename><surname>Kling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeffrey</forename><forename type="middle">B</forename><surname>Liebman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lawrence</forename><forename type="middle">F</forename><surname>Katz</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1468-0262.2007.00733.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_5Z7zRPt">Econometrica</title>
+		<title level="j" type="abbrev">Econometrica</title>
+		<idno type="ISSN">0012-9682</idno>
+		<idno type="ISSNe">1468-0262</idno>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="83" to="119" />
+			<date type="published" when="2007-01">2007</date>
+			<publisher>The Econometric Society</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b31">
+	<monogr>
+		<title level="m" type="main" xml:id="_pah5MSB">Can a light-touch graduation model enhance livelihood outcomes? Evidence from Ethiopia</title>
+		<author>
+			<persName><forename type="first">Jessica</forename><surname>Leight</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Harold</forename><surname>Alderman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Daniel</forename><surname>Gilligan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Melissa</forename><surname>Hidrobo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Mulford</surname></persName>
+		</author>
+		<idno type="DOI">10.2499/p15738coll2.136972</idno>
+		<idno>no. 02203</idno>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<publisher>International Food Policy Research Institute</publisher>
+			<pubPlace>Washington, DC</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>International Food Policy Research Institute</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">IFPRI Discussion Paper</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b32">
+	<analytic>
+		<title level="a" type="main" xml:id="_szfMRUd">Effectiveness of cash-plus programmes on early childhood outcomes compared to cash transfers alone: A systematic review and meta-analysis in low- and middle-income countries</title>
+		<author>
+			<persName><forename type="first">Madison</forename><forename type="middle">T</forename><surname>Little</surname></persName>
+			<idno type="ORCID">0000-0003-1654-737X</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Keetie</forename><surname>Roelen</surname></persName>
+			<idno type="ORCID">0000-0001-7801-3096</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Brittany</forename><forename type="middle">C L</forename><surname>Lange</surname></persName>
+			<idno type="ORCID">0000-0001-7325-5934</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Janina</forename><forename type="middle">I</forename><surname>Steinert</surname></persName>
+			<idno type="ORCID">0000-0001-7120-0075</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Alexa</forename><forename type="middle">R</forename><surname>Yakubovich</surname></persName>
+			<idno type="ORCID">0000-0003-4216-4305</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Lucie</forename><surname>Cluver</surname></persName>
+			<idno type="ORCID">0000-0002-0418-835X</idno>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">K</forename><surname>Humphreys</surname></persName>
+			<idno type="ORCID">0000-0002-7761-5746</idno>
+		</author>
+		<idno type="DOI">10.1371/journal.pmed.1003698</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_uxsYdJ7">PLOS Medicine</title>
+		<title level="j" type="abbrev">PLoS Med</title>
+		<idno type="ISSNe">1549-1676</idno>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page">e1003698</biblScope>
+			<date type="published" when="2021-09-28">2021</date>
+			<publisher>Public Library of Science (PLoS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b33">
+	<analytic>
+		<title level="a" type="main" xml:id="_K8qm6pT">More evidence on cash transfers and child nutritional outcomes: a systematic review and meta-analysis</title>
+		<author>
+			<persName><forename type="first">James</forename><surname>Manley</surname></persName>
+			<idno type="ORCID">0000-0002-6099-257X</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Harold</forename><surname>Alderman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ugo</forename><surname>Gentilini</surname></persName>
+		</author>
+		<idno type="DOI">10.1136/bmjgh-2021-008233</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_kaWZz3n">BMJ Global Health</title>
+		<title level="j" type="abbrev">BMJ Glob Health</title>
+		<idno type="ISSNe">2059-7908</idno>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">e008233</biblScope>
+			<date type="published" when="2022-04">2022</date>
+			<publisher>BMJ</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b34">
+	<analytic>
+		<title level="a" type="main" xml:id="_h7c94E6">Cash Versus Kind: Benchmarking a Child Nutrition Program Against Unconditional Cash Transfers in Rwanda</title>
+		<author>
+			<persName><forename type="first">Craig</forename><surname>Mcintosh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andrew</forename><surname>Zeitlin</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/ej/ueae050</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_FN3ZSer">The Economic Journal</title>
+		<idno type="ISSN">0013-0133</idno>
+		<idno type="ISSNe">1468-0297</idno>
+		<imprint>
+			<biblScope unit="volume">134</biblScope>
+			<biblScope unit="issue">664</biblScope>
+			<biblScope unit="page" from="3360" to="3389" />
+			<date type="published" when="2024-06-07">2024</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b35">
+	<analytic>
+		<title level="a" type="main" xml:id="_rr7mEx8">Nutrition-sensitive chicken production in Ethiopia: a qualitative evaluation</title>
+		<author>
+			<persName><forename type="first">Simone</forename><surname>Passarelli</surname></persName>
+			<idno type="ORCID">0000-0003-1044-3393</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Semira</forename><surname>Abdelmenan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dagmawit</forename><surname>Tewahido</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yohannes</forename><forename type="middle">Mulugeta</forename><surname>Demmu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Helen</forename><surname>Abreham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ramya</forename><surname>Ambikapathi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nilupa</forename><forename type="middle">S</forename><surname>Gunaratna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yemane</forename><surname>Berhane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wafaie</forename><surname>Fawzi</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/s40066-022-00363-8</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_mC4zQxY">Agriculture &amp; Food Security</title>
+		<title level="j" type="abbrev">Agric &amp; Food Secur</title>
+		<idno type="ISSNe">2048-7010</idno>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="12" />
+			<date type="published" when="2022-03-09">2022</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b36">
+	<analytic>
+		<title level="a" type="main" xml:id="_f8yTTzv">Social Protection for All Ages? Impacts of Ethiopia&apos;s Productive Safety Net Program on Child Nutrition</title>
+		<author>
+			<persName><forename type="first">Catherine</forename><surname>Porter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Radhika</forename><surname>Goyal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_3P2q2T3">Social Science and Medicine</title>
+		<imprint>
+			<biblScope unit="volume">159</biblScope>
+			<biblScope unit="page" from="92" to="99" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b37">
+	<analytic>
+		<title level="a" type="main" xml:id="_TznPHFT">Social assistance programme impacts on women&apos;s and children&apos;s diets and nutritional status</title>
+		<author>
+			<persName><forename type="first">Deanna</forename><forename type="middle">K</forename><surname>Olney</surname></persName>
+			<idno type="ORCID">0000-0002-2420-8565</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Aulo</forename><surname>Gelli</surname></persName>
+			<idno type="ORCID">0000-0003-4977-2549</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Neha</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Harold</forename><surname>Alderman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ara</forename><surname>Go</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ahmed</forename><surname>Raza</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/mcn.13378</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_QTbvNgt">Maternal &amp; Child Nutrition</title>
+		<title level="j" type="abbrev">Maternal &amp; Child Nutrition</title>
+		<idno type="ISSN">1740-8695</idno>
+		<idno type="ISSNe">1740-8709</idno>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">e13378</biblScope>
+			<date type="published" when="2022-06-20">2022</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b38">
+	<analytic>
+		<title level="a" type="main" xml:id="_KRSgyNX">Impact and Spill-Over Effects of an Asset Transfer Program on Child Undernutrition: Evidence from a Randomized Control Trial in Bangladesh</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename><surname>Raza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Van De Poel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Van Ourti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_8j4q4qF">Journal of Health Economics</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="page" from="105" to="120" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b39">
+	<analytic>
+		<title level="a" type="main" xml:id="_4XQ9Gnv">Global nutrition targets 2030</title>
+		<idno type="DOI">10.2471/b09383</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_cdKc8jR">Global Nutrition Monitoring Framework. Operational Guidelines for Meeting Targets for</title>
+		<meeting><address><addrLine>Geneva</addrLine></address></meeting>
+		<imprint>
+			<publisher>World Health Organization</publisher>
+			<date type="published" when="2017">2017. 2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b40">
+	<monogr>
+		<title level="m" type="main" xml:id="_6WTkr9F">The State of Social Safety Nets 2018</title>
+		<idno type="DOI">10.1596/978-1-4648-1254-5</idno>
+		<ptr target="https://doi.org/10.1596/978-1-4648-1254-5" />
+		<imprint>
+			<date type="published" when="2018-01-02">2018. 2018</date>
+			<publisher>Washington, DC: World Bank</publisher>
+			<pubPlace>Washington, DC</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

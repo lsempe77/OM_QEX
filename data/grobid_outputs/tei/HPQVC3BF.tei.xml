@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" xml:id="_QKaT765"></title>
+				<funder ref="#_GZKRSkS">
+					<orgName type="full">Canadian International Development Agency</orgName>
+					<orgName type="abbreviated">CIDA</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Aga Khan Foundation Canada</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2006-07">July 2006</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">BRAC BRAC Centre</orgName>
+								<orgName type="institution">Aga Khan Foundation Canada</orgName>
+								<address>
+									<addrLine>75 Mohakhali 360 Albert Street Suite 1220</addrLine>
+									<postCode>1212 K1R 7X7</postCode>
+									<settlement>Dhaka Ottawa</settlement>
+									<region>ON</region>
+									<country>Bangladesh Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="institution">Tongi Industrial Area</orgName>
+								<address>
+									<settlement>Gazipur</settlement>
+									<country key="BD">Bangladesh</country>
+								</address>
+							</affiliation>
+						</author>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2006-07">July 2006</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">DEF1F1E1F2B02F1BC1ACA7C7A8AFD10F</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2025-11-05T18:51+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a292bac</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=1, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=true, generateTeiCoordinates=[true], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term xml:id="_p9n88GX">nutrition</term>
+					<term xml:id="_ndmSjQz">education</term>
+					<term xml:id="_uYjYbk2">gender</term>
+					<term xml:id="_vtnPQYU">and environment</term>
+				</keywords>
+			</textClass>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="10" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="11" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="12" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="13" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="14" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="15" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="16" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="17" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="18" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="19" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="20" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="21" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="22" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="23" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="24" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="25" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="26" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="27" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="28" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="29" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="30" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="31" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="32" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="33" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="34" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="35" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="36" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_wzaDzEx">FOREWORD</head><p xml:id="_qt9mPPc">Over a quarter of Bangladesh's people live in extreme poverty, not being able to meet even the barest of the basic needs. They spend most of their meagre, unreliable earnings on food and yet fail to fulfil the minimum calorie intake needed to stave off malnutrition. They are consequently in frequent poor health causing further drain on their meagre resources due to loss of income and health expenses. More often than not, the extreme poor are invisible even in their own communities, living on other peoples' land, having no one to speak up for them or assist them in ensuring their rights. Extreme poverty also has a clear gendered face -they are mostly women who are dispossessed widows, and abandoned.</p><p xml:id="_vB5mRn6">The extreme poor are thus caught in a vicious trap and the story of denial and injustices tend to continue over generations for a large majority of them. Thus, a vast majority of the extreme poor in Bangladesh are chronically so. The constraints they face in escaping extreme poverty are interlocked in ways that are different from those who are moderately poor. This challenges us to rethink our existing development strategies and interventions for the extreme poor, and come up with better ones that work for them. This is the challenge that drove BRAC to initiate an experimental programme since 2002 called, 'Challenging the Frontiers of Poverty Reduction: Targeting the Ultra Poor' programme. The idea to address the constraints that they face in asset building, in improving their health, in educating their children, in getting their voices heard, in a comprehensive manner so that they too can aspire, plan, and inch their way out of poverty.</p><p xml:id="_FGEAkFy">The extreme poor have not only been bypassed by most development programmes, but also by mainstream development research. We need to know much more about their lives, struggles, and lived experiences. We need to understand better why such extreme poverty persists for so many of them for so long, often over generations. Without such knowledge, we cannot stand by their side and help in their struggles to overcome their state. I am pleased that BRAC's Research and Evaluation Division has taken up the challenge of beginning to address some of these development knowledge gaps through serious research and reflection. In order to share the findings from research on extreme poverty, the 'CFPR/TUP Research Working Paper Series' has been initiated. This is being funded by CIDA through the 'BRAC-Aga Khan Foundation Canada Learning Partnership for CFPR/TUP' project. I thank CIDA and AKFC for supporting the dissemination of our research on extreme poverty. I hope this working paper series will benefit development academics, researchers, and practitioners in not only gaining more knowledge but also in inspiring actions against extreme poverty in Bangladesh and elsewhere.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_AyE36cY">Fazle Hasan Abed</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_538Vdpj">Chairperson, BRAC</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_5tPrC2Y">Impact Assessment of CFPR/TUP: A Descriptive Analysis Based on 2002-2005 Panel Data INTRODUCTION</head><p xml:id="_msfDUgX">The Challenging the Frontiers of Poverty Reduction -Targeting the Ultra Poor (CFPR/ TUP) Programme was launched in 2002 with the vision of enhancing economic and social capabilities of ultra poor households in Bangladesh in a manner that could be sustained by the participants. It is widely accepted that most common governmental and non-governmental development interventions in Bangladesh fail to include the ultra poor. Microfinance, even if targeted towards the ultra poor, cannot bring about sustainable growth for the poorest of the poor <ref type="bibr">(Matin 2002</ref><ref type="bibr">, Morduch 1999)</ref>. This is because the ultra poor are crippled by multiple evils -malnutrition, illiteracy, lack of access to basic health services, limited access to community support -that keep them chronically poor <ref type="bibr" target="#b19">(Sen and Hulme 2004)</ref>. Transfer payments help the poor over the short term, but do not by themselves trigger sustainable income growth for the ultra poor. Government programmes targeted towards the ultra poor include Vulnerable Group Development, several forms of stipends and allowances and the Rural Maintenance Programme.</p><p xml:id="_NcdVyST">Malnutrition and chronic food shortages are one of the major factors keeping the poor vulnerable and limiting efforts of overcoming poverty. Skills' training along with microfinance allows beneficiaries to expand productivity and increases employment opportunities for them. Putting these factors together, BRAC undertook its IGVGD programme nearly two decades ago.</p><p xml:id="_BB6zUJj">Learning from its experience from microfinance and IGVGD programmes, BRAC designed the CFPR/TUP programme specifically for the ultra poor. The programme consists of multiple components to support the ultra poor in various areas and aims to enhance opportunities for the ultra poor. These components include a temporary cash stipend, individual household asset transfers, skills' training, increasing participants' social awareness and the creation of links between the ultra poor and public resources by mobilizing local elites.</p><p xml:id="_mMxBjW8">Several studies have looked into each of the components of the programme and its impacts. This paper looks at the overall performance of the CFPR/TUP programme using the 2002 baseline survey and 2005 repeat survey. All the topics covered in this study could be analysed more deeply, but that is beyond the scope of this paper. Our goal here is to present a descriptive overview of the changes in the lives of the ultra poor.</p><p xml:id="_K2FWKjZ">More information on programme selection, the surveys and the methodology is presented in the following section. As an analytical guide for inter-connecting the several programme components to livelihoods improvement, we used the sustainable livelihoods framework. The following section is a broad examination of the characteristics of the ultra poor as structured by the model into various asset groups. Then we examined how various shocks and vulnerabilities could have affected the households' asset base. Next, we look at what strategies the ultra-poor seem to have followed in three years to improve their livelihoods -changes in income earning activities and migration. We examined the livelihood outcomes for the ultra poor looking at household income, food security, reduced vulnerabilities and shelter.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_j8JPyat">SELECTION AND SURVEY METHODOLOGY</head><p xml:id="_ChssH9q">In 2002, BRAC launched the CFPR/TUP programme in the districts of Rangpur, Kurigram and Nilphamari, choosing these districts on the basis of various spatial poverty maps and BRAC programmatic experiences and knowledge. Potential programme participants were identified through participatory wealth ranking (PWR) exercises 1 PWR exercises were conducted to cover all possible locations of a village where the extreme poor live, and were organized so a maximum of about 150 households were covered by each PWR. Large villages required more than one PWR session, and were divided geographically in several 'spots'. The households ranked in the two poorest wealth categories (henceforth called 'ultra poor') in the village were briefly surveyed to collect information on programme targeting indicators. This preliminary selection list was then verified by programme staff visiting each and every preliminarily selected household before a final selection of participants. Among the ultra poor, households which were selected to 1 CFPR/TUP Working Paper No. 1 gives a detailed outline of the beneficiary selection process.</p><p xml:id="_rCyVgyX">receive programme assistance are called SUP (selected ultra poor) hereafter and the others are called NSUP (not selected ultra poor) hereafter.</p><p xml:id="_8phRMtB">Table <ref type="table">1</ref> gives a brief overview of the outreach of the programme in 2002. In 38 area offices of the three districts, a total of 1014 PWR were conducted. According to these wealth rankings, just over 25% of the households were identified as ultra poor. This figure broadly matches with the national estimates that about a quarter of the households are extreme poor. Using the designed selection criteria, one-fifth of these ultra poor were taken into the programme. Studies have revealed that the SUP are much worse-off than the NSUP <ref type="bibr" target="#b11">(Matin and Halder 2004)</ref>.</p><p xml:id="_u944fR9">The baseline survey took place between June and August 2002. From every BRAC area office where the programme was launched, one third of the PWR spots were randomly selected. From each spot, all SUP and an equal number of NSUP</p><p xml:id="_zaqjJH6">Table 1. Programme outreach in 2002 and the survey by districts Rangpur Nilphamari Kurigram Total Number of area offices 15 12 11 38 Total number of PWRs held 370 332 312 1,014 Total number of households in PWRs 34,522 28,591 28,897 92,010 Number of ultra poor in PWRs (% of total households) 7,966 (23.08%) 6,137 (21.46%) 9,418 (32.59%) 23,521 (25.56%) Number of households selected through inclusion-exclusion criteria 3,133 2,605 2,782 8,520 Number of households finally selected after verification 2,474 1,812 2,541 6,827 Number of households taken in to the programme 1,853 (5.38%) 1,401 (4.90%) 1,746 (6.04%) 5,000 (5.43%) Baseline survey Area offices 15 12 11 38 Spots (PWRs) in survey 137 92 97 326 Beneficiaries 843 827 963 2,633 Non-beneficiary 935 864 1,194 2,993 Households interviewed in the baseline survey Total 1,778 1,691 2,157 5,626</p><p xml:id="_X8UcyxD">were surveyed. The sample size was 5,626 households of which 2,633 were SUP and the rest were NSUP (Table <ref type="table">1</ref>). The main woman of the household (the household head or the wife of the household head) was the respondent.</p><p xml:id="_4pgaTsz">These households were followed up for another detailed household survey in 2005 to ascertain changes in three years. A total of 5,288 households of the original 5,626 were interviewed (Table <ref type="table">2</ref>), as well as some 278 additional newly formed households, which had split from the original households. When a household was found but could not be interviewed in the first visit, it was visited two more times during the stay of the enumerators in the area office. 130 households were traced but could not be interviewed because of the temporary absence of the household members. The other 268 households do not exist any more. As expected, the SUP households are slightly more receptive to interviews compared to NSUP.</p><p xml:id="_EsvdxSB">Table 2. Households followed up in panel SUP NSUP Total No. of households found and interviewed (%) 2 ,474 (93.96) 2,754 (92.01) 5,228 (92.93) No. of households found but not interviewed (%) 51 (1.94) 79 (2.64) 130 (2.31) No. of households not found (%) 108 (4.10) 160 (5.35) 268 (4.76) Total 2,633 (100) 2,993 (100) 5,626</p><p xml:id="_AhsSWFE">Out of the 108 SUP households that were not found for the repeat survey, 64% had migrated to Dhaka. In this case, the SUP returns the transferred assets to the programme, which are sold and funds are retained. These funds are used to buy assets if the same beneficiaries return and claim their assets.</p><p xml:id="_mc9vvg8">Thirteen percent of the 108 households do not exist because the member(s) have died. In most cases of death, the asset is passed on to the other household members (usually a daughter or daughter-in-law). If a family member is unavailable or unwilling to take the asset, it is transferred to a new beneficiary.</p><p xml:id="_3KQ2wRQ">Often, CFPR/TUP members get married and move in with their husbands. Also, women whose husbands have died or have left them, move back with their parents. In these cases the women take the programme asset with them. Almost 5% of the 108 households that were not found were because of marriage, divorce or death of husband of the member.</p><p xml:id="_3YEnMBM">Building up a panel of households requires that the households surveyed in the different time periods are similar. Households headed by the same person on both occasions were considered similar. To ensure comparability with headship, household heads' age and sex were compared. The households whose heads changed were also considered if the new heads were present in the respective households in 2002. Here again, comparability was ensured by checking age and sex. This left us with a matched panel of 5,067 households (Table <ref type="table">3</ref>).</p><p xml:id="_SvSmxfK">Table 3. Attrition from the sample Freq. Percent NSUP % SUP % Not interviewed in 2005 398 7.07 7.99 6.04 Matched panel 5,067 90.06 89.94 90.20 Attrited from sample 161 2.86 2.07 3.76</p><p xml:id="_eBBwyrU">The content of the surveys was made as similar as possible to maximize comparability, although some sections differ -questions not being asked due to time constraints in the 2005 survey or additional questions to expand on information in the initial survey. Broadly, both asked questions on (1) household demographics, (2) employment, (3) health, (4) household assets (5) land ownership and quality of housing, (6) hygiene, (7) food security, (8) managing crises, (9) financial market participation, (10) healthseeking behaviour, (11) health and nutrition awareness, and (12) women's legal knowledge. In addition to this the 2005 survey included a section to track household changes and a section for programme experiences, asked only to participants.</p><p xml:id="_GsCABp4">Throughout this paper, we have presented the differences between the SUP and NSUP in both years of survey and the change in these differences. Different studies on SUP and NSUP including the baseline survey have shown that there were significant differences between the two groups in various dimensions in 2002. This prevents us from treating the NSUP as a 'control group'. To reveal programme impact, we have to look at the change in gaps over the three years. For example, in 2002 average income of the SUP and NSUP were Tk. 2,488 and Tk. 2,812 respectively, the gap was negative Tk. 323. In 2005, their average incomes increased to Tk. 4,415 and Tk. 3,597 respectively, the gap now a positive Tk. 818. The negative gap changing to positive shows that though the SUP had lower income in 2002, their income is higher than NSUP's income in 2005. The difference in difference (change in gap) is Tk. 1,141 and it points toward the 'impact' of the programme.</p><p xml:id="_Fekh5G3">Difference in difference in programme evaluation is usually referred to as 'impact' in the literature <ref type="bibr" target="#b18">(Slaughter 2001</ref><ref type="bibr">, Ahmed et al. 2006)</ref>. We follow the same methodology. However, given that our control group (NSUP) is not exactly comparable to the treatment group (SUP), we check the significance of the impact by estimating the intervention effect by a simple model. This model introduces an interaction term in order to control for factors other than the programme intervention that might have affected the outcomes over the three years. This method is proved to be robust when the comparison group is 'very similar to the treatment group' <ref type="bibr" target="#b12">(Meyer 1995)</ref>.</p><p xml:id="_g5NkAjw">The model used is as follows:</p><formula xml:id="formula_1">y j it = α + α 1 d t + α 1 d j +βd j</formula><p xml:id="_4zte95C">t + e j it , where j indicates the group (j = 1 for SUP, j = 0 for NSUP) t indicates time (t = 0 if year = 2002, t = 1 if year = 2005) d j = 1 if j = 1; and d j = 0 if j = 0, d j t (the interaction term) = 1 if j = 1 and t = 1</p><p xml:id="_YdBVhPc">We used several outcome variables (y j it ) to derive the impact of the programme. The coefficient β isolates the programme effect, i.e., the difference in outcomes of SUP compared to NSUP over the intervention period. α 1 indicates how other factors affect the groups, while α 1 captures the time-invariant differences in outcomes in the two groups. For more detailed description of this model, see <ref type="bibr" target="#b18">Slaughter (2001)</ref>. The significance of our difference in difference is derived from this model.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_q5FYfUS">ANALYTICAL FRAMEWORK</head><p xml:id="_8m9Q3TS">Figure <ref type="figure">1</ref> explains the analytical framework of sustainable livelihoods <ref type="bibr" target="#b7">(Ellis, 2000)</ref>. The asset mix describes what households have at their disposal to contribute to a better livelihood and assets can complement or substitute each other to some extent. The assets combine with external events (shocks or wider trends) and the institutional structures and processes to shape household's livelihood strategies. These strategies affect the livelihood outcomes -increased income, better housing, reduced vulnerabilities and food security. When designing a programme that is expected to have an impact on the livelihood outcomes of the beneficiaries, it is imperative to understand the factors that determine the livelihoods strategies of the target households.</p><p xml:id="_BdPwjVV">The programme intervention affects several parts of the sustainable livelihoods framework. The programme facilitates processes and gives participants greater access to public resources by increasing participants' social awareness, providing access to healthcare, the mobilization of local elites to help the extreme poor, and the eventual inclusion of the participants into mainstream BRAC programmes. At the same time, community mobilization, better health, credit and savings services and an asset transfer with skills' training affects the asset base of participant households. The provision of health-care and a temporary food stipend reduces the vulnerability of participating households. All these effects together improve the options for the ultra poor and affect their livelihood strategies and outcomes <ref type="bibr" target="#b4">(BRAC 2001)</ref>. Outcomes Food security Income Housing Reduced vulnerability Livelihood strategies Diversification Intensification Migration Vulnerabilities Shocks Trends Assets Physical Natural Financial Human Social Structures/Processes Social relations Institutions Organizations</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_27r56wa">OPERATIONALIZING THE FRAMEWORK THROUGH ASSETS</head><p xml:id="_xfGapNX">The livelihood of rural people, as conceptualized through the sustainable livelihood framework, starts with the household asset base. The ultra poor have little or no access to assets. Access to assets is a pre-requisite for undertaking production, participating in the labour market and engaging in economic and social exchanges. Assets are either stocks that enhance future productivity or stocks that help to sustain immediate means of material well-being. This section examines the assets of the ultra poor in detail before examining changes in asset levels using an asset index. The index shows that although human assets hardly changed, the SUP have overtaken the NSUP in all other assets.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_dXdjdK3">Natural assets</head><p xml:id="_vpvf39G">Natural resources such as land, rivers and forests are the constituents of natural assets, which is one of the dimensions of the household asset base. However, land is the key component of natural assets in the context of rural Bangladesh. The significance of land derives not only from its potential productivity but also by the fact that land provides a permanent residence and security. We find that the difference between the SUP and NSUP has narrowed -the SUP now have greater access to land than they did and seem to be catching up to the NSUP.</p><p xml:id="_AUnnTuf">Limited landholding is common in Bangladesh. Though landlessness explains high concentration of poverty, it is prevalent among the non-poor as well <ref type="bibr">(World Bank 2002)</ref>. Over the last decade, absolute landlessness (those without even homestead land) is decreasing but there is an increase in the functional landlessness, defined as not owning cultivable land <ref type="bibr">(Toufique and Turton, 2003)</ref>. Apart from low landholdings, the ultra poor are also likely to be excluded from the land lease market because of their poverty status. Owning cultivable land is the ultimate outcome desired by most of the poor, but buying land remains an ambitious goal for the ultra poor. The more apparent and realistic livelihood outcomes changes are revealed in the form of homestead changes, which includes increasing size of homestead and adding rooms.</p><p xml:id="_A9kBuRc">The proportion of landless is almost the same between the SUP and NSUP (Fig. <ref type="figure">2</ref>), but this similarity masks previous differences: out of the 54% of SUP who have land now, 35% were landless in 2002. The corresponding figure for NSUP is 25%. More SUP have succeeded in reducing absolute landlessness.</p><p xml:id="_5A3creR">Breaking down ownership of land to ownership of cultivable land and ownership of homestead land, we find that the gap between the SUP and NSUP has narrowed in both dimensions during this period (Table <ref type="table">4</ref>). However, the change is more remarkable in the case of homestead land. In 2002 the gap in the percentage of SUP and NSUP who owned homestead land was double the gap in 2005. Landless in 2005 Has land in 2005 Had land in 2002 Landless in 2002 SUP 46% 65% 35% 54% NSUP 40% 75% 25% 59%</p><p xml:id="_K4uPCGX">Although the amount of cultivable land owned by the ultra poor has increased between the two periods, the change is very small. However, when looking at access to others' arable land we see significant increase for programme beneficiaries. Cultivation of others' land was found to be the principal source of access to agricultural land by SUP on both occasions. Due to a high level of functional landlessness, poor peasant households usually cultivate the land of large landowners. However, lacking the necessary working capital, the ultra poor households' participation in the land market is usually limited.</p><p xml:id="_Ny3DG5t">Access to land market through leasing also shows similar picture (Fig. <ref type="figure">3</ref>). Almost 15% of the participants have mortgaged in land, compared to only 5% of the NSUP. This is not only a livelihood outcome, but also an indicator of increased credibility of the selected ultra poor in the land market. As expected given their low initial landholdings, the SUP sold and mortgaged out less land than the NSUP. 14.56 1.17 9.03 1.21 4.94 2.04 3.23 2.86 0 5 10 15 20 Mortaged in land Mortgaged out land Bought land Sold land SUP (%) NSUP(%) Note: This excludes SUP members who have received land from BRAC for a nursery.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_rcauBkP">Physical assets</head><p xml:id="_duApXav">Physical assets can often serve as substitutes for scarce natural assets. Productive physical assets such as rickshaws, fishing nets and sewing machines are used for enhancing production and delivering regular outputs over time. Nonproductive assets like furniture and gold serve other purposes as consumer durables or savings in kind. Given the scarcity of land, access to physical assets is a significant way for enhancing livelihood opportunities for the ultra poor. The main component of the CFPR/TUP is physical asset transfer and this section summarizes the change in physical assets of the sample households.</p><p xml:id="_QrAVrad">Apart from livestock and poultry, the most common productive assets the ultra poor possess are rickshaws, vans and boats. Non-productive assets range from households furniture to gold ornaments. Since the CFPR/TUP programme mainly transfers livestock and poultry, it is not surprising that there is a big difference between the amount of these assets owned by programme beneficiaries and non-beneficiaries (Table <ref type="table">5</ref>). For example, 2.5% of the SUP owned cows in 2002 and this figure dramatically increased to over 88%. It is noteworthy that less than 40% of the SUP received cows as their enterprise and the rest have acquired cows through their income from other enterprises. Many more of the beneficiaries own other productive assets (goats, sheep, rickshaws and vans) compared to what they had in 2002.</p><p xml:id="_MTm6vpq">Table 4. Ownership and amount of land 2002 2005 Land SUP (1) NSUP (2) Difference (3=1-2) SUP (4) NSUP (5) Difference (6=5-4) Difference in difference (7=6-3) Household has homestead land (%) 46.78 60.95 -14.18** 49.71% 55.42 -5.66** 8.52** Household has cultivable land (%) 1.56 7.83 -6.28** 5.18 7.39 -2.21** 4.06** Amount of land owned (decimal) Own cultivable 0.27 2.55 -2.28** 0.68 2.33 -1.65** 0.63 Own homestead 1.84 3.21 -1.37** 2.22 2.92 -0.70** 0.67** Total land owned 2.20 6.14 -3.94** 3.05 5.51 -2.46** 1.48* Cultivate others' land 1.92 3.43 -1.51** 5.04 4.08 0.96* 2.47** Total access to land 4.13 9.58 -5.45** 8.08 9.59 -1.50* 3.94** Note: *, ** denote significance at less than 5 and 1 percent level respectively Total land owned = Cultivable+ uncultivable +homestead, Total access to land = Total land owned + cultivate others' land</p><p xml:id="_sgCTUU7">Ownership of physical assets other than those transferred by the programme has also increased for programme beneficiaries. While the SUP were generally worse-off than the NSUP in owning different types of furniture in 2002, they are quite at par with them in 2005. The proportion of households with beds has increased, showing improvement in living conditions of ultra poor households. Assets that indicate social status, such as chairs, have also increased -the proportion with chairs increased from 10% to over 34%. The increase in the number of households owning wooden boxes, widely used in rural Bangladesh for storing valuables including utensils and clothing, shows an improvement in both economic and social status. There has also been a general improvement in tubewell ownership among the ultra poor, which demonstrates the efforts of the government as well as other agencies towards ensuring safe drinking water, a key component of the millennium development goals. Among the SUP, increases in the proportion of households owning a particular asset is often matched by increase in the amount of assets owned (Table <ref type="table">6</ref>).</p><p xml:id="_hdzzXuG">In 2002, information of the value of assets was not collected. The reported value of all assets (at current price) in 2005 shows that the SUP hold assets worth 8,000 Taka more than NSUP. Besides these productive and non-productive household assets, the SUP households were asked about consumption goods bought over a year. More than 60% of SUP households reported purchasing clothing and shoes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_HRvDT8P">Human assets</head><p xml:id="_Fzr6h2n">Human assets refer to the skills, health and education available to a household and form a necessary complement to natural and physical assets. Lack of human capital disables the ultra poor from making use of available resources to their benefit. Long-term malnutrition, coupled with low education excludes the ultra poor from participating in the formal labour market. The only option for them is low paid, unskilled labour, trapping households into inter-generational poverty. Investing in education and health is costly for the ultra poor and their returns are also</p><p xml:id="_SVHZKj7">Table 5. Percentage of households which own assets 2002 2005 Asset SUP (1) NSUP (2) Difference (3=1-2) SUP (4) NSUP (5) Difference (6=4-5) Difference in Difference (7=6-3) Cow/bull 2.5 10.6 -8.1** 88.2 11.5 76.7** 84.8** Goat/sheep 5.6 9.1 -3.5* 25.7 8.7 17.0** 20.5** Duck/hen 32 46.1 -14.1** 58.6 57.2 1.4 15.5** Rickshaw/van 1.3 3.7 -2.4* 8.2 6.4 1.8* 4.2** Bicycle 0.1 1.0 -0.9 1.6 1.6 0.0 0.9 Bed 63.7 76.2 -12.5** 81.4 83.1 -1.7 10.8** Chair 10.5 30.9 -20.4** 33.8 39.3 -5.5** 14.9** Wooden box 4.6 7.3 -2.7* 46.2 46.9 -0.7 2.0 Wardrobe 0.1 0.7 -0.6 0.3 0.5 -0.2 0.4* Radio/TV 0.8 1.8 -1.0 2.7 3.1 -0.4 0.6 Tubewell 1.4 3.8 -2.4* 48.7 42.0 6.7** 9.1** *, ** denote significance at less than 5 and 1 percent level respectively</p><p xml:id="_F97q8kz">Table 6. Amount of assets owned 2002 2005 Asset types SUP (1) NSUP (2) Difference (3=1-2) SUP (4) NSUP (5) Difference (6=4-5) Difference in Difference (7=6-3) Cow/bull 1.40 1.73 -0.33** 2.03 1.72 0.32** 0.65** Goat/sheep 1.66 1.45 0.21 2.21 1.70 0.51** 0.13 Duck/hen 2.64 3.08 -0.44** 4.39 4.35 0.05 0.48* Rickshaw/van 1.32 1.18 0.14 1.05 1.02 0.02 -0.12 Bed 1.17 1.32 -0.15** 1.34 1.42 -0.08** 0.07 Chair 1.42 1.66 -0.24** 1.60 1.88 -0.28** 0.04 Wooden box 1.00 1.06 -0.06 1.06 1.07 -0.01 0.04 *, ** denote significance at less than 5 and 1 percent level respectively, Note: Average amounts listed for only those that own each type of asset not immediate: with the immediate means of survival uncertain, ultra poor households invest very little in human assets.</p><p xml:id="_xhDVrM6">The poor tend to have smaller households <ref type="bibr" target="#b9">(Halder and Mosley 2004)</ref>, and this is reflected in our data, with average household sizes well under the national average for both the programme beneficiaries and the NSUP. Our sample also reflects the wider trend of falling household sizes over time, reflecting more newly formed households than births in an existing household (Table <ref type="table">7</ref>). Along both of these trends, the SUP and NSUP are similar. The proportion of earners to household members increased slightly for programme beneficiaries.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_JuH5hjc">Education</head><p xml:id="_bDeK4nW">Adult literacy rates are extremely low among the ultra poor but increasing (Table <ref type="table">7</ref>). Looking at literacy alone ignores current investments being made in education, and looking at the cumulative years of schooling in a household gives a better indication of the investments in education to date and we see strong improvements here -from nearly two years each household to nearly four years of schooling each household. In this respect, the SUP do not seem to be increasing their education levels as fast as NSUP (this effect holds controlling for household size). Looking at the proportion of households with at least one literate member, the picture is better overall -the SUP (26%) remain behind the NSUP (34%) but are improving faster.</p><p xml:id="_2Bg3J6D">Net primary enrolment rates are on the higher side for both the groups, but this remains low considering the drive towards universal primary education and raises concerns about intergenerational poverty. It is interesting to note that primary enrolment of girls is higher among the ultra poor households as well. Net secondary enrolment is shockingly low, but looking at net enrolment of children by age group shows that a large proportion of the secondary school aged children are attending primary schools. This shows that these households are slowly accumulating human assets to some extent.</p><p xml:id="_sAnAAFc">Children of the ultra poor households enter schools at comparatively higher age. For this reason net enrolment of the new school going aged (6 to 8 years of aged) children is lower than net primary enrolment. The gap between SUP and NSUP has narrowed in secondary enrolment and enrolment of secondary school aged children. The programme may have some influence in human capital accumulation by preventing dropouts.</p><p xml:id="_yeF2tCD">Table 7. Demography and education 2002 2005 SUP (1) NSUP (2) Difference (3=1-2) SUP (4) NSUP (5) Difference (6=4-5) Difference in Difference (7=6-3) Average household size 3.62 3.86 -0.24** 3.55 3.74 -0.19** 0.05 Mean household age 28.27 28.00 0.27 30.44 30.43 0.01 -0.26 Proportion of earning members to household size 0.61 0.62 -0.01* 0.65 0.62 0.03** 0.04** Literacy rate (over 15 years old) 7.45% 13.16% -5.71** 10.89% 15.67% -4.78** 0.93 Percentage of households with at least one literate member 20.97% 32.88% -11.91%** 26.11% 34.14% -8.03%** 3.87% Cumulative years of schooling (HH) 1.62 2.20 -0.58** 3.31 4.55 -1.24** -0.66 Net primary enrolment (Boys) 65.45 71.14 -5.69* 65.04 73.11 -8.07** -2.38 Net primary enrolment (Girls) 68.71 70.54 -1.83 74.19 75.83 -1.64 0.19 Net secondary enrolment (Boys) 3.91 10.57 -6.66** 3.49 7.11 -3.62** 3.04 Net secondary enrolment (Girls) 12.40 20.51 -8.11** 10.77 15.29 -4.52** 3.59 Net enrolment of children aged 6-10 67.16 71.66 -4.5** 69.70 74.76 -5.06** -0.56 Net enrolment of children aged 11-16 35.52 43.74 -8.22** 37.23 41.05 -3.82* 4.4 Enrolment of children aged 6-8 na na -59.04 66.43 -7.39** -</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_chC5N2C">Health</head><p xml:id="_rT6W4zr">Health is inextricably linked with livelihood outcomes -poor health renders a person unable to work or learn and thus reduces their earnings, while low earnings mean that a person may not be able to get the medical attention or rest they need to get better. Poor health thus depletes human capital as well as reducing further capital accumulation. In this section, we examine the extent of poor health, the impact of illness on ability to work and the spending ability to counter poor health among the ultra poor. Proper sanitation reduces illnesses, and this is examined after the health issues.</p><p xml:id="_E4VPTGv">In terms of health care and access to health services, programme beneficiaries are much better off and have either overtaken or caught up with non-members (Table <ref type="table">8</ref>). The prevalence of illness (proportion of sample population sick in the last 15 days) is roughly the same in the two years, showing a slight increase over 2002. However, while in 2002 CFPR/TUP members were more significantly likely to report illness, in 2005 the prevalence of illness is equal across the two groups.</p><p xml:id="_Ra9B9cA">A smaller proportion reported a household member being severely ill in the previous year, decreasing from nearly a quarter to a sixth of the sample. The improvements were spread equally through the two groups, so we suspect general improvements rather than something programme specific.</p><p xml:id="_9sXhhkT">While illness depletes human capital, the inability to work depletes assets further. Looking at the proportion of our sample that stopped work due to illness, we see large increases, with a greater proportion of the SUP stopping work (Table <ref type="table">8</ref>). However, people with greater assets may be more able to take time off from work to recover (they have the buffer capacity and may also value human capital more) than those who need to work every day to earn enough to eat. Although the prevalence of illness increased for both groups and both were more likely to lose workdays, people were ill for shorter periods of time -on average by three days. This lends support to the hypothesis that the increase in number of workdays lost to illness could reflect a greater ability of both SUP and NSUP members to take time off to recover rather than attempt to keep working and thus prolonging their ailments.</p><p xml:id="_xXypep3">Not everyone who was sick spent money on doctor's fees and medication or on transport for medical attention. This could represent the severity of illnesses, subsidized or free access to healthcare, or the inability to spend any money.</p><p xml:id="_utPebpA">Table 8. Prevalence, impact of illness and costs of healthcare 2002 2005 SUP (1) NSUP (2) Difference (3=1-2) SUP (4) NSUP (5) Difference (6=4-5) Difference in Difference (7=6-3) Prevalence of illness (Percentage of people sick in last 15 days) 15.21 14.17 1.04* 14.17 14.45 -0.28 -1.32* Households reporting member seriously ill over last year 24.89 26.20 -1.31 18.31 18.44 0.00 0.01 Proportion who stopped work due to illness 23.3 22.5 0.8 40.7 37.6 3.1 0.04 Workdays lost due to illness (mean) 1.28 1.47 -0.19 2.96 2.66 0.31 0.50* Duration of illness (mean days) 10.90 10.69 0.21 7.93 7.76 0.17 -0.03 Proportion who spent on doctor/medicine 0.67 0.73 -0.07** 0.81 0.81 0.001 0.07** Average cost of doctor's fees + medicine 76.26 148.10 -71.84** 127.47 112.64 14.83 86.67** Proportion who spent on transport 0.11 0.16 -0.05** 0.14 0.14 0 0.06** Average expenditure on transport for medical attention 25.34 52.42 -27.08 27.08 22.48 4.60 31.68* *, ** denote significance at less than 5 and 1 percent level respectively Note: Statistics reported for individuals using a 15-day recall period, 2005 financial figures discounted using consumer price</p><p xml:id="_Bd8hCxv">We can clearly see that in 2002, fewer SUP spent money, and those that did spent far less than the NSUP. These differences vanished in 2005, a strong improvement.</p><p xml:id="_FR4d94E">In terms of sanitation, the sample households show strong improvements -use of tubewell water for cooking and drinking, already high, has further improved over time (Table <ref type="table">9</ref>). Programme beneficiaries report even greater improvements than the NSUP for latrine usage where the majority of the population now has and uses a latrine.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_MzNaTJs">Financial assets</head><p xml:id="_YKdtpw8">Financial assets consist of the stock of money to which the household has access -its savings and available credit. Since cash savings or credits are seldom directly productive, the importance of financial assets in the livelihood strategy comes from their convertibility to other forms of capital or to consumption. Therefore, financial assets differ from the other assets in terms of fungibility <ref type="bibr" target="#b7">(Ellis, 2000)</ref>.</p><p xml:id="_sz7N85M">The CFPR/TUP programme components include building financial assets for the beneficiaries; encouraging savings and promoting a positive attitude towards saving is one of the thrusts of the programme.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_fFuFXDr">Savings</head><p xml:id="_gZZ4B5H">Table <ref type="table">10</ref> shows the change in savings behaviour among the programme beneficiaries over the 3 years' period. Almost all the beneficiaries have saved in their BRAC accounts. As a result, the percentage of SUP with savings is well above the NSUP. However, this increase in extent of saving is not confined to their BRAC accounts -savings kept at their own house has also increased among the SUP and significantly surpassed the NSUP. Since no households with outstanding loans with any NGO were selected by the programme, a significantly higher proportion of NSUP (14.82%) compared to SUP (2.23%) has cash savings with NGOs other than BRAC. It is interesting to note that about 3% of the SUP have started saving in the form of providing others with loans. The yields from this form of savings, which is actually a risky investment, are higher than that for anything else.</p><p xml:id="_qVuDW8H">Table 9. Water and sanitation condition of the ultra poor 2002 2005 SUP (1) NSUP (2) Difference (3=1-2) SUP (4) NSUP (5) Difference (6=4-5) Difference in Difference (7=6-3) Drink tubewell water (% of HHs) 97.68 97.70 -0.01 99.49 99.03 0.46 0.47 Cook using tubewell water (% of HHs) 96.55 96.40 0.15 99.07 98.14 0.93** 0.78 Sanitary/slab 2.32 4.27 -1.95** 78.36 43.46 34.9** 36.85** Pit 2.86 4.98 -2.12** 2.32 7.02 -4.7** -2.59** Type of Latrine used (% of households) Non-latrine 94.82 90.75 4.07** 19.33 49.52 -30.19** -34.26** *, ** denote significance at less than 5 and 1 percent level respectively</p><p xml:id="_Fsv99mg">Table 10. Cash savings of the ultra poor 2002 2005 Form of savings (Percentage of households) SUP (1) NSUP (2) Difference (3=1-2) SUP (4) NSUP (5) Difference (6=4-5) Difference in difference (7=6-3) Have savings 8.13 20.39 -12.26** 98.44 28.57 69.87** 82.13** BRAC TUP account ---98.10 ---Bank/post office 0.17 0.55 -0.38* 0.88 0.67 0.21 0.59* Other NGOs 1.31 11.48 -10.17** 2.23 14.82 -12.59** -2.42* Inside own house 5.60 6.95 -1.35* 17.22 13.41 3.81** 5.16** Village cooperatives 1.01 1.71 -0.7* 1.09 1.56 -0.47 0.23 Loans to others 0.00 0.07 -0.07 2.99 0.93 2.06** 2.13** Money guards 0.08 0.30 -0.22 0.72 0.26 0.46* 0.68** *, ** denote significance at less than 5 and 1 percent level respectively</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_zgbEjKC">Credit</head><p xml:id="_cvNpCWN">Alongside savings, access to credit is the other element of financial assets. About 18 months after the asset transfers, the programme offers credit to the beneficiaries, so some significant changes have occurred in the informal credit market participation of the SUP and NSUP<ref type="foot" target="#foot_1">foot_1</ref> .</p><p xml:id="_UhDZNzt">Participation of all the households in credit activities, both formal and informal, has increased (Table <ref type="table" target="#tab_0">11</ref>). In 2005, about 58% of the SUP and 42% of the NSUP had outstanding loans taken in cash, up from 21% and 34% respectively. One important finding is that a number of SUP have become lenders in the informal credit market. This is a general tendency among the poorer households when they observe improvement in financial assets <ref type="bibr" target="#b20">(Sinha and Matin 1998)</ref>. Most of their lending transactions were in cash rather than in kind which again shows an increase in their financial assets.</p><p xml:id="_6YKCHst">Though transactions in kind are common in the informal credit market, these are not usually considered financial assets. A significant rise of informal borrowing in kind is observed among both SUP and NSUP and represents mostly purchases on credit from the shopkeepers for regular household consumption. Increased access to this type of credit shows a general rise in purchasing power. On average, the turnover period for loans in kind are 3 months for both SUP and NSUP in 2005, down from 5 and 4 months respectively in 2002. The decrease demonstrates the regularity of these credit purchases.</p><p xml:id="_UkXes7v">Access to credit from BRAC has reduced the relative importance of informal sources of credit (from neighbours or relatives) for the SUP while it has increased for the NSUP (Fig. <ref type="figure">4</ref>). Although the SUP are less involved in the informal financial market, they have greater access, as indicated by the greater amount they believe they can collect in one week from different sources compared to the NSUP. 0% 20% 40% 60% 80% 100% SUP 02 SUP 05 NSUP 02 NSUP 05 % of cash loans NGO Relatives and neighbour Mahajans Other</p><p xml:id="_CPM6AHN">In the livelihood framework, access to credit is crucial not only for overcoming the trap of working capital but also for coping with various types of crisis and smoothing consumption. However, since using credit to address crises can itself turn out to be new credit trap for the households, the usage of credit is as important as access to it. The money received on a particular instance can be used for multiple purposes and Table <ref type="table">12</ref> shows the percentage of cash loans that were taken to meet different needs. Unlike the Both SUP and NSUP used credit mostly to smooth consumption -in 2002, two in every three loans taken by the SUP and one in two loans taken by the NSUP were used at least partly for consumption. In 2005, the SUP used only half as many loans for consumption but the NSUP reported similar trends. Subsidized or free healthcare partly explain the decline in the SUP using credit for health expenses. However, some 6% of the cash loans taken by SUP in 2005 were used to repay earlier loans. This has significant implications for the programme even though it is low in percentage terms -it could be a reflection of the enhanced financial management abilities or of beneficiaries being trapped in a debt cycle. Close monitoring of loan use is required to ensure sustainable livelihood strategies of the borrowers.</p><p xml:id="_9GFX4jX">The most noteworthy change among the SUP is that they are increasingly making use of cash loans for productive purposes such as investment in existing IGAs or procurement of new productive assets. The broad shift for the SUP is from utilization of credit as a coping mechanism to an endeavour of taking advantage of opportunities.</p><p xml:id="_saFebuY">The usage of formal and informal loans differs -formal loans are mostly used for productive purposes and informal loans work as coping mechanisms (Fig. <ref type="figure">5</ref>). Overall, there very few loans from professional moneylenders are used for coping with crises. Such dependence on informal loans demonstrates, one the one hand, significance of access to informal loans and, on the other, need for specially designed schemes by MFIs to address household crises.</p><p xml:id="_hmRG7Gd">Table 12. Purpose of cash borrowing (% of loans) 2002 2005 Purpose SUP (1) NSUP (2) Difference (3=1-2) SUP (4) NSUP (5) Difference (6=4-5) Difference in difference (7=6-3) Regular consumption 67.29 50.3 16.99** 30.73 45.98 -15.25** -32.24** Health expenses 23.05 16.37 6.68** 13.56 19.61 -6.05** -12.73** Investment in existing IGA 7.62 17.36 -9.74** 27.91 14.95 12.96** 22.7** Buy productive assets 5.58 15.37 -9.79** 16.68 7.81 8.87** 18.66** Durable consumption 3.16 5.36 -2.20* 11.72 12.92 -1.20 1.00 Repay loans 1.86 1.79 0.07* 6.29 5.79 0.50 0.43 Other extraordinary expenses 4.09 5.95 -1.86 5.86 6.54 -0.68 1.18 Total 112.65 112.5 112.75 113.6 *, ** denote significance at less than 5 and 1 percent level respectively 0 200 400 600 800 1000 NSUP SUP NSUP SUP NSUP SUP NGO loans Informal Money lenders Number of loans Both To cope with crisis To take opportunities</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_wgzbu2B">Social assets</head><p xml:id="_PcEMQmH">Social assets are the hardest asset to define and measure. Maintaining beneficial social relation ships is a necessary component of any individual's life. Effective reciprocal relationships lead to better access to information, insurance against crises and general awareness and use of institutions. Trust and initiative for collective action in a community ensures better functioning of institutions and an enabling environment for economic agents. It has been empirically proven that better social relations lead to higher income, while higher income does not necessarily improved relations <ref type="bibr" target="#b15">(Narayan and Pritchett 1997)</ref>.</p><p xml:id="_39D8eNQ">For ultra poor households, social assets are required for accessing government and NGO benefits, for accessing information about legal and political rights, participating in social spaces and for coping with crises. Although it is difficult to detect and measure social assets, we can investigate a few proxies that indicate the quality of social assets of ultra poor households in our sample.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_uGnwsEV">Awareness</head><p xml:id="_Y46hZ8Q">One of the objectives of the CFPR/TUP programme is to increase awareness of the ultra poor regarding their legal and political rights through its social development component. As we can see from Table <ref type="table">13</ref>, there has been a significant change in people's knowledge about legal issues.</p><p xml:id="_TqeAYvE">Knowledge on legal rights in Bangladesh is disseminated by media, government advocacy programmes and NGOs. In 2002, only 23% of the SUP knew about the legal age of marriage for men and 8% knew about the legal age of marriage for women. After three years, almost 84% know the age for men while 70% know this for women. The NSUP do not match these increases.</p><p xml:id="_XrjWZpv">Knowledge of the legal conditions of marriage, divorce, voting and punishments for dowry and acid throwing has increased for everyone. It is interesting to note that while the percentage of SUP correctly informed about these matters was lower than the NSUP in 2002, the case had reversed in 2005. Given that these two groups of people are from the same communities and are exposed to the same national knowledge dissemination programmes, the difference in knowledge is possibly due to the CFPR/TUP programme intervention. The gains may arise from increased access to information and inclusiveness in the community or from the direct awareness raising efforts of the programme.</p><p xml:id="_9xunDn6">Although this increase in legal awareness is good news, there is still room for more work. Only 10.5% of programme participants could recall the legal conditions for marriage and only 43% knew the correct divorce laws.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_693me37">Social inclusion</head><p xml:id="_MG2yvfM">According to <ref type="bibr" target="#b7">Ellis (2000)</ref>, social assets can truly be understood only by long term anthropological studies or by studying crisis coping mechanisms. In our study, it is not possible to present a detailed anthropological profile of the social capital of the ultra poor. The little data we have on crisis coping mechanisms show that the ultra poor receive limited or no help from patrons or kin in times of need. Social assets in the case of the ultra poor are best understood if we look at subtler</p><p xml:id="_mzyGnBf">Table 13. Legal awareness 2002 2005 Percentage of respondents who know about SUP (1) NSUP (2) Difference (3=1-2) SUP (4) NSUP (5) Difference (6=4-5) Difference in Difference (7=6-3) Legal age of marriage for women 22.93 21.89 1.03 82.48 48.63 33.86** 32.82** Legal age of marriage for men 8.29 8.05 0.23 70.02 19.73 50.30** 50.06** Legal conditions for marriage 3.81 3.04 0.78 10.48 3.34 7.14** 6.36** Correct divorce laws 5.37 6.76 -1.39* 43.33 12.23 31.10** 32.48** Punishment for giving/taking dowry 59.13 55.40 3.73* 92.72 71.62 21.10** 17.36** Voting age for Bangladesh 12.14 12.89 -0.74 25.98 17.57 8.41** 9.15** Where to apply for bail 29.85 30.73 -0.88 43.45 35.29 8.16** 9.04** Punishment for acid throwers 6.03 6.44 -0.41 76.80 59.88 16.92** 17.33** *, ** denote significance at less than 5 and 1 percent level respectively</p><p xml:id="_AuhjYdA">Table 14. Social inclusion 2002 2005 Percentage of respondents SUP (1) NSUP (2) Difference (3=1-2) SUP (4) NSUP (5) Difference (6=4-5) Difference in Difference (7=6-3) Were invited to non-relative neighbour's house 24.62 28.79 -4.17** 38.61 32.06 6.55** 10.72** Voted in the last elections 92.62 90.25 2.38** 96.92 95.21 1.72** -0.66 Were helped by neighbours in need 16.24 15.57 0.67 40.64 36.47 4.17** 3.50* Approached Member/Chairman for claiming VGD cards 58.52 50.65 7.86** 89.26 84.62 4.64** -03.22 Believe that villagers would lease land to them 38.44 44.58 -6.13** 47.49 29.49 18.00** 24.13** *, ** denote significance at less than 5 and 1 percent level respectively</p><p xml:id="_cSMdeSN">demonstrations of social inclusion and personal agency. Table <ref type="table">14</ref> shows selected indicators of social assets of the ultra poor. The number of people who got invited to non-relative neighbour's houses in the one year before interview has increased for both programme participants and non-participants. Both groups received more help in 2005 from neighbours than before. Most of this help consists of advice and loans.</p><p xml:id="_WKQFzGj">A large proportion of the ultra poor are aware of their voting rights and the percentage of people who voted in the last local or national elections has further increased. By 2005, almost 90% of the SUP had approached the local elected member/ chairman for VGD cards, up from the corresponding figure of 58.5%. A similar difference among the NSUP shows this is a rise general in initiative and courage among the ultra poor.</p><p xml:id="_WeEREyY">The number of saris or lungis is often an indicator of social assets. Having an extra set of clothes relates to ease in socializing: an ultra poor person with an extra set of clothes feels more accepted in social functions. In 2002, SUP had relatively fewer clothes than the NSUP, a situation which had reversed by 2005.</p><p xml:id="_hCN4xJU">Perceptions of access to financial and land markets show similar stories. Self-confidence has increased for programme participants over the three years of intervention. We have already seen how the SUP are more confident about the amount of money they can borrow in case of emergencies from the informal financial market. Similarly, more SUP believe that villagers will lease land to them, given their increased ability to make regular payments.</p><p xml:id="_f9PYtcn">Participation in community festivals is another indicator of social inclusion. The 2005 Repeat Survey was conducted one month before Eid, the biggest festival for Muslims. We took this opportunity to ask our respondents about their plans for celebrating Eid. 60.5% of SUP had plans to buy new clothes for Eid while the corresponding figure for the NSUP was 49% (Table <ref type="table">15</ref>). The difference is smaller when it came to buying special food for Eid. A large proportion of the SUPs believe that their ability to spend on Eid over the last three years had increased.</p><p xml:id="_NXWDGTM">Table 15. Eid spending information NSUP SUP Increased 20.21 66.15 Remained same 46.97 25.44 Change in ability to spend for Eid Decreased 32.82 8.41 Will buy 48.81 60.59 No plans 31.77 24.76 Buying new clothes to celebrate Eid Will not buy 19.42 14.65 Amount planned for clothes (average if going to buy) 385 398 Will not spend 6.51 3.48 Doesn't know 11.23 8.22 Spending on special food items Will spend 82.25 88.30 Amount planned for food 150.74 147.64</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_PD96Dsx">Putting it together: changes in assets</head><p xml:id="_6QTBNxZ">These five types of assets form the basis of a households' sustainable livelihood and a strong asset base is necessary for a household to achieve a decent livelihood outcome. These assets are often called the asset pentagon in the sustainable livelihoods framework. The intention of forming the pentagon is to reveal the relative importance of different types of assets, but such comparisons across asset types can be misleading without a clear understanding of the level of substitution among the assets. However, these do allow us to explore the relative changes in the assets of SUP and NSUP over the period concerned. Appendix 1 elaborates the indicators and method used in the index formation.</p><p xml:id="_AVKUUpF">Figure <ref type="figure">6</ref> clearly shows that while the SUP have overcome their initial deficiencies in most categories, human assets have remained almost unchanged between the two periods and that there is no noticeable difference between SUP and NSUP in this category. This pattern reveals that ultra poor households remain mostly dependent on labour to maintain a livelihood and investment in human asset is a long-term process. Though the SUP were clearly worse-off than the NSUP in other asset types, they have managed to develop a stronger asset base by 2005. 0 0.5 1 Physical Human Financial Natural Social NSUP02 SUP02 NSUP05 SUP05</p><p xml:id="_7SD38ST">Improvement in individual households' asset bases might differ -those households that experience improvement in several types of assets as opposed to improvement in just one type of asset are more likely to have made sustainable changes in their livelihoods. Also, the combination of assets that improved might also have different implications on the livelihood outcomes. Looking at improvements along individual assets, we find that more SUP show improvements, except for in the case of human assets. Table <ref type="table">16</ref> shows the percentages of households whose individual asset indices improved over the last three years.</p><p xml:id="_TBx63Qf">Table 16. Percentage of households with improvement in asset indices Improved SUP NSUP Difference Financial assets 91.37 42.38 48.99** Physical assets 94.23 79.94 14.29** Social assets 27.57 21.49 6.08** Natural assets 34.08 21.49 12.59** Human assets 51.79 51.82 -0.03</p><p xml:id="_kckY86x">Given the importance of multi-dimensional improvement in assets, we examine which households reported improvements in all asset types and which reported improvements in only one. Table <ref type="table">17</ref> shows that while more than 5% of the SUP experienced improvements in all five asset types, it was only 1.8% for the NSUP. At the other end, more than 60% of NSUP households show improvement in two assets or less, while this number is only 30% for SUP households. The SUP have managed to improve in more dimensions than the NSUP, as far as the five asset categories are concerned. Hence the SUP have a higher probability that these improvements in their livelihoods are sustainable.</p><p xml:id="_3m8N7EC">Table 17. Percentage of households with improvements in combinations of assets Improvement SUP NSUP 5 asset types 5.10 1.79 4 asset types 24.66 8.90 3 asset types 39.59 26.15 2 asset types 26.69 36.05 1 asset types 3.71 22.05 0 asset types 0.25 5.07</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_H2qSFF2">SHOCKS AND VULNERABILITIES</head><p xml:id="_nKBYMBj">Given a set of assets, households' livelihood outcome is shaped by their vulnerability to shocks. Crisis, risk and vulnerability are interlinked concepts relevant in the livelihood framework. Crises are events that force the households to experience income or health poverty immediately or over time. Vulnerability can be termed as the amount of risk of households facing deterioration in their well-being as well as their exposure to other events such as violence, crime, dropping out of schools (WDR 2001). We examine crises and their effects on the ultra poor below, and conclude that although both groups seem equally vulnerable to various crises, the SUP expect to recover sooner.</p><p xml:id="_2HWGeFY">Table <ref type="table">18</ref> shows the extent of different types of crises that the ultra poor households faced in one year. The most common crises are damage of house and severe illness of household members, both of which occurred less frequently in 2005. <ref type="bibr" target="#b14">Mujeri and Guha (2003)</ref> found that disease of household members is the most prevalent nature of crisis and the extent is higher among the poorer groups.</p><p xml:id="_KACSTNy">There has been an increase in the extent of death of livestock among the SUP, showing us the difficulties the ultra poor face in building their asset base even with direct asset transfers. Lifecycle events such as marriage and death of household members can also have a negative impact on the asset and welfare of the households. In 2005, the questions on crises were expanded (to include sickness of livestock and poultry, death of poultry) and disaggregated (deaths of household members were differentiated based on whether they were earners or not). Extent of livestock sickness is much higher among the SUP compared to the NSUP. Given that fewer SUP owned livestock in 2002, the increase in death and sickness in livestock is not unexpected. Reports of conflicts and thefts increased for both groups across the two years, but neither the increases nor the difference between groups is significant.</p><p xml:id="_MubQ8tp">Table 18. Incidence of crisis 2002 2005 Nature of crisis SUP (1) NSUP (2) Difference (3=1-2) SUP (4) NSUP (5) Difference (6=4-5) Difference in Difference (7=6-3) Dwelling severely damaged 42.27 37.89 4.38** 18.82 13.00 5.82** 1.44 HH member was seriously ill 24.13 24.81 -0.68 16.97 17.23 -0.27 0.42 HH member got married 4.67 5.42 -0.75 6.02 6.57 -0.55 0.19 Livestock died 3.03 4.57 -1.54** 9.73 2.56 7.16** 8.7** Conflict/dispute/legal cases 0.63 0.96 -0.33 1.26 1.26 0.00 0.33 Theft/dacoits 0.63 0.55 0.08 1.01 0.59 0.42 0.34 Death of household member 3.28 2.97 0.31 2.19 2.04 0.15 -0.16 Earning member died ---1.26 1.11 0.15 -Non-earning member died ---0.93 0.97 -0.04 -Livestock got sick, ---40.67 7.32 33.35** -Poultry got sick, ---19.79 20.87 -1.08 -Poultry died ---22.02 23.25 -1.23 -% of HH facing at least one crisis 56.84 55.42 1.42 43.96 36.29 7.67** 6.25** % of HH spending money for coping the events 52.08 50.29 1.79 34.94 31.87 3.07* 1.28* *, ** denote significance at less than 5 and 1 percent level respectively x In 2005, this information was disaggregated -adding up the next two rows gives this 2005 result.</p><p xml:id="_Tq68tks">Considering the seven types of events about which information was collected on both occasions, over 55% of both the SUP and NSUP faced at least one such event in 2002. Though the figures of both these groups fell in 2005, extent of facing crisis is higher among the SUP, largely due to the losses of livestock that were transferred by the programme. <ref type="bibr" target="#b16">Rahman (1995)</ref> found that incidence of unanticipated crisis is relatively lower among the households that have very few assets in Bangladesh, though they suffer most from seasonality. Nearly all the households who faced any crisis found it necessary to spend money to cope.</p><p xml:id="_EMq2ZKv">Both the chance of facing shocks and actual incidence of any such events are sometimes considered risk in the literature <ref type="bibr">(Dunn et al 1998)</ref>. However, these two have different implications on the coping mechanisms that are adopted and thereby influence their livelihoods and asset base ex ante and ex post mechanisms for prevention and mitigation <ref type="bibr" target="#b24">(Wright et al 1999)</ref>. Households more prone to crises take different adaptive measures -they try to build up and diversify stocks of assets, are involved in less risky ventures, invest in informal insurance mechanisms etc. Responses to crisis include reducing consumption, seeking help from relatives, asset depletion and even splitting the household.</p><p xml:id="_GkYuTaa">The severity of a crisis is likely to vary according to its nature, and the resistance and resilience of the households. Resistance reflects the ability of the household to prevent downward socioeconomic movement and resilience is the rapidity of bouncing back to the previous status <ref type="bibr" target="#b13">(Moser 1998)</ref>.</p><p xml:id="_qArKsmx">To understand the severity of a crisis, the households who faced a particular type of crisis were asked to rank its effect on their economic status in 2005 (Fig. <ref type="figure">7</ref>). Most crises faced by ultra poor households were reported to have a severe effect with the death of an earning member ranked as most damaging. Since the poor households depend largely on the income from labour and return from any other type of asset is almost nonexistent, the destructive effect of death of earner is easily conceivable. However, serious illness of household members is the major driver of downward mobility of the ultra poor households because of its high prevalence and severe effects. At the aggregate level, the SUP and NSUP are generally at par in their ability to resist effects of various crises. 447 350 403 464 30 30 22 26 143 177 231 69 1276 1116 0% 20% 40% 60% 80% 100% NSUP SUP NSUP SUP NSUP SUP NSUP SUP NSUP SUP NSUP SUP NSUP SUP 1 1 1 1 1 1 1 Percentage of events No effect Mild effect Severe effect Incidence Dwelling damaged Serious illness Death of earner Death of non-earner Marriage of member Death of livestock Total</p><p xml:id="_PH9KNWN">Though there were no significant differences between SUP and NSUP in their resistance to shocks, the SUP appear to be better-off in terms of resilience (Table <ref type="table">19</ref>). Among the cases where the crises were severely damaging, more than 60% SUP think that they can recover from the loss within a month, while the NSUP expect to take longer to recover. In terms of perception of change in ability to withstand crises, over 82% SUP have improved while the corresponding figure for the NSUP is only 29%.</p><p xml:id="_AjxgyfZ">Table 19. Resilience to shocks and coping ability in 2005 SUP NSUP Expected time to recover from crisis faced in 2005 1 month 407 (60.4%) 301 (50.6%) 2-12 months 228 (33.8%) 242 (40.7%) &gt; 1 year 39 (5.8%) 52 (8.7%) Change in ability (in general) to cope with crisis in the last 3 years Improved 1962 (82.61%) 782 (29.05%) Same 318 (13.39%) 1232 (45.77%) Declined 95 (4.00%) 678 (25.19%)</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_RzsG5fD">LIVELIHOOD STRATEGIES</head><p xml:id="_35ENhjw">In the sustainable livelihoods framework, households form their livelihood strategies on the basis of assets available to them, the institutional framework they face and their potential vulnerabilities. As we have discussed above, the CFPR/ TUP programme expands the opportunities of the beneficiaries by building up their assets, increasing their access to public resources and reducing their vulnerabilities. We expect to see the SUP respond by taking advantage of these new opportunities in a variety of ways. The primary reaction may be changing sources of income to reflect the newer asset base, so we examine ultra poor occupations and sources of income.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_f6ED4tm">Occupations and sources of income</head><p xml:id="_q2qeXYV">There have been some changes in the occupations of ultra poor households in the three years. Figure <ref type="figure">8</ref> shows the distribution of the main source of income for the households. The proportion of SUP households earning from small businesses and rearing livestock has risen and SUP households have reduced their dependence on day labour to more stable and skilled labour. The proportion of NSUP households engaged in day labour has also fallen slightly.</p><p xml:id="_K38Ekw6">Although the main source of income of SUP households has remained more or less the same, the number of sources of income for SUP households has increased relative to the NSUP households. When we take all the sources of income into account, we find that the SUP households have significantly increased engagement in professional activities. Since only the main source of income is shown above, we can infer that the even though new sources of income are in the professional category, they are not yet sufficiently important to displace the usual sources of income. The extra sources of income may also mean that the SUP are diversifying their activities to a greater extent than is due to the programme -a possible response to the risks they face.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_Kf4SS7d">Migration</head><p xml:id="_GPwNwUt">In conventional economic theory, migration is due to wage differences or differences in quality of institutions between two areas. There are two kinds of migration -migration by choice and migration by necessity. Those whose human capital has higher value somewhere else migrate out of choice. In this case, the migrants tend to be 0% 20% 40% 60% 80% 100% SUP02 SUP05 NSUP02 NSUP05 Others Professional Small business/trading Daylabour (agriculture) Daylabour (non-agriculture) Poultry rearing Livestock rearing Agriculture (own)</p><p xml:id="_HQ8GNQ5">Service better off and better educated, and migration leads to further improvements of the household. However, those who migrate out of necessity generally have low human capital. Employment options at the destination for migration are not much better than the place of origin and chances of the household receiving remittances are low. These households tend to have poor initial conditions and welfare outcomes. According to this theory, migration occurs in the poorest and richest households. More recent literature on migration focuses on social networks reducing the cost of migrating and increasing the chances of clustering at destinations.</p><p xml:id="_pCCxptR">In the sustainable livelihoods framework, migration is one of the many livelihood strategies available to the household. Among the poorest, inadequate livelihood security and adverse circumstances (such as poor institutions) lead to the decision to migrate. Our examination of the data below shows more support for the economic theory than the sustainable livelihoods theory that migration is one of many livelihood strategies.</p><p xml:id="_b7p6P7a">North Bengal is characterized by seasonal unemployment. It is expected that poor day labourers will migrate during lean seasons. However, we find that migration is not common in our sample households, indicating the high transfer costs of migration. This includes poor social networks and limited opportunities outside the region for the unskilled labour.</p><p xml:id="_uanfYVN">There is no significant difference between SUP and NSUP in terms of migration. Less than 21% of the sample households have at least one member who has migrated for work in the last one year. Only 7.9% of these households reported remittance as one of the main three sources of income.</p><p xml:id="_9ut8pKk">People migrate mostly for day labour outside the region. About 15% migrate within the region while 68% migrate to other districts outside North Bengal region. Around 17% migrate to Dhaka or Chittagong, mostly for pulling rickshaws or day labour. People migrate for work only during lean seasons, spending an average of 72 days away from the household. There is almost no international migration in ultra poor households.</p><p xml:id="_zHvSwjs">Figure <ref type="figure">9</ref> shows the migration status of the sample households. Households are categorized into four groups -those who migrated this year and usually migrate, those who didn't migrate but usually migrate, those migrated but don't usually migrate, and those who never migrated. Better employment opportunities are the driving force for migration. Apart from employment, old age and illness are common reasons for not migrating. Those who have regular salaried jobs or are engaged in agriculture on their own land do not usually migrate. 0 1000 2000 3000 4000</p><p xml:id="_2Uhj8NT">Didn't migrate, usually don't migrate Migrated this year, don't usually migrate Didn't migrate this year, usually migrate Migrated this year, usually migrate SUP NSUP</p><p xml:id="_TxTUnRY">The migration decision is also based on the household's alternative sources of income. Households with few options locally find migration more important -13.5% of households that reported new migration listed remittances as one of the three main sources of income, as opposed to the 8% in the sample. This supports the hypothesis that migration is a livelihood strategy for ultra poor households. However, given that employment opportunities for the unskilled ultra poor are limited even if they migrate, it is not a widely used strategy.</p><p xml:id="_tRChNyw">If we investigate the initial and present income of the households that reported migration and those that didn't, we find that households that reported migration were significantly better off in 2002 as well as in 2005 (Table <ref type="table">20</ref>). The difference in income between the two types of households also widened over the three years. This supports the economic theory that better-off households can afford migration for better employment opportunities, and it is only the better off households that reap benefits in terms of increased income due to migration.</p><p xml:id="_CXMm8W2">A closer look into the household characteristics shows that mostly men migrate for work and larger households are more likely to have at least one member migrating for work. Female headed households and households with low male-female ratio are less likely to have migrant workers.</p><p xml:id="_UNwJXwf">Table 20. Household characteristics by migration status in 2005 Households that reported migration Households that did not report migration Average income in 2002 (in Taka) 9,890.36 8,985.13 Average income in 2005 (in Taka) 15,439 12,619 Growth in income 56.10% 40.44% Average household size 4.42 3.45 Female headed households (%) 18.9 40.5 Male-female ratio 1.28 0.95</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_Rm4JTQw">LIVELIHOOD OUTCOMES</head><p xml:id="_th8er5R">Livelihood outcomes are determined by livelihood strategies, which are results of the institutional framework, external events and a households' asset base. We look at changes in household income, regular access to food, changes in vulnerability and improved shelter as relevant indicators of livelihood outcomes for the ultra poor. Another approach used to examine changes in the lives of the ultra poor is participatory change ranking, the results of which substantiate our findings 3 . In terms of income, food security and reducing vulnerabilities, we find strong improvements for the SUP over the NSUP. In the case of shelter, the SUP seems to have caught up with the NSUP.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_82YVU4J">Household income</head><p xml:id="_jkqzPJW">The basic indicator of livelihood outcomes is the income generated by the households using their assets. While the SUP were worse-off than the NSUP according to per capita income in 2002, they were much better-off in 2005 4 . The cumulative density functions in Figure <ref type="figure">shows</ref> the percentage of people whose per capita income is less than or equal to any amount on the horizontal axis. To illustrate how to interpret the graph, if we consider arbitrarily Tk. 2,100 as poverty cut-off mark, in 2002, around 65% of the SUP were poor, compared to 60% of the NSUP. In 2005, nearly 40% of the NSUP remained poor while only 20% of the SUP fell under our arbitrary poverty line. Using the conventional extreme poverty line of one dollar a day, we find that in 2002 the proportions of extreme poor were 89.1% and 86.0% for SUP and NSUP respectively. It has gone down to 59.2% for the SUP but only to 73.5% for the NSUP. The SUP show a net decline in extreme poverty of 30%, compared to a 13% decline for the NSUP.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_4g6prby">Food security</head><p xml:id="_ST3dsJq">Food security is one of the key concerns for the ultra poor. The incidence of severe food shortage -spending a whole day without eating anythingwas very high among the SUP in 2002 compared to NSUP (Table <ref type="table">21</ref>) Though the incidence of this respectively acute food shortage has decreased for both the groups, the SUP have improved more. A</p><p xml:id="_wtgZ3mm">Table 21. Food security and economic changes 2002 2005 SUP (1) NSUP (2) Difference (3=1-2) SUP (4) NSUP (5) Difference (6=4-5) Difference in Difference (7=6-3) Couldn't eat for a whole day 62.10 45.13 16.97** 14.86 22.10 -7.24** -24.21** Deteriorated 12.29 13.30 -1.00 11.71 34.06 -22.35** -21.35** Unchanged 44.00 50.26 -6.26** 18.86 45.02 -26.15** -19.90** Change in economic condition over the last year Improved 43.71 36.44 7.26** 69.43 20.91 48.52** 41.25** *, ** denote significance at less than 5 and 1 percent level respectively Per capita annual income <ref type="table">9 6 0 0  9 1 0 0  8 6 0 0  8 1 0 0  7 6 0 0  7 1 0 0  6 6 0 0  6 1 0 0  5 6 0 0  5 1 0 0  4 6 0 0  4 1 0 0  3 6 0 0  3 1 0 0  2 6 0 0  2 1 0 0  1 6 0 0  1 1 0 0  6 0 0  1 0</ref> 0 Cumulative Percent 100 80 60 40 20 0 Groups SUP NSU SUP NSU 1 Dollar a day Per capita annual income <ref type="table">9 6 0 0  9 1 0 0  8 6 0 0  8 1 0 0  7 6 0 0  7 1 0 0  6 6 0 0  6 1 0 0  5 6 0 0  5 1 0 0  4 6 0 0  4 1 0 0  3 6 0 0  3 1 0 0  2 6 0 0  2 1 0 0  1 6 0 0  1 1 0 0  6 0 0  1 0</ref> 0 Cumulative Percent 100 80 60 40 20 0 Groups SUP NSU SUP NSU 1 Dollar a day 3</p><p xml:id="_6UCT32h">In the participatory change ranking exercise, it was found that about 67% of the SUP had improved their socioeconomic standing as opposed to 31% of the NSUP (Sulaiman, forthcoming). 4 All income figures of 2005 were discounted using consumer price index.</p><p xml:id="_MGVY8GG">separate study in 2004 revealed that both quality and quantity of food intake had significantly improved for SUP households compared to NSUP <ref type="bibr" target="#b8">(Haseen 2006)</ref>. According to self-perception of change in household status, significantly higher proportion of SUP reported improvement on both occasion. However, the proportion of reporting improvement in 2005 is much higher. Food deficit, either chronic or occasional, is the key characteristics of the ultra poor households (Fig. <ref type="figure">11</ref>). In 2002, over 60% of the SUP reported chronic food deficit and the rest had occasional deficit and only a few SUP households broke even. Food deficit is also highly prevalent in 2005, but the extent of chronic food deficiency has fallen for both groups. Persistence of occasional deficit in food is understandable considering the context of the three districts of this survey -acute shortage of employment opportunities for day labourers is a regular phenomenon in these districts during October and November.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_F5rz7Cq">Reduced vulnerabilities</head><p xml:id="_DDCKpdW">A stronger asset base leads to enhanced capabilities to avail opportunities and reduce vulnerabilities in the sustainable livelihoods framework. We can verify that this has happened for the ultra poor in our sample by comparing the asset base of households with different crisis coping abilities. The relevance of asset indices can also be checked with its relation with some basic livelihood outcome such as food security.</p><p xml:id="_wXEpkvN">Table <ref type="table">22</ref> gives the correlation coefficients of the asset indices with food security status. Food security was measured by self-perception of the respondents on a scale of 4 categories. Obviously, greater household assets are positively related to food availability. Moreover, households with stronger asset base are less likely to suffer severe food shortage. Across different types of assets, physical assets have the highest correlation with both food sufficiency and severe food shortage. Therefore, using physical assets as an entry point is a good strategy by CFPR/TUP. 0% 20% 40% 60% 80% 100% NSUP02 SUP02 NSUP05 SUP05 Surplus Beak-even Occasional deficit Chronic deficit Availability of food in one year</p><p xml:id="_hvcZAjD">Table 22. Correlation between asset indices and food security Index Status in food security (1=chronic deficit, … 4=surplus) Incidence of severe food shortage (1=yes, 0=no) 2002 2005 2002 2005 Financial assets 0.25* 0.17* -0.09* -0.12* Human assets 0.11* 0.10* -0.07* -0.11* Natural assets 0.28* 0.19* -0.06 -0.18* Physical assets 0.35* 0.27* -0.11* -0.21* Social assets 0.16* 0.11* -0.01 -0.09* Overall asset index 0.38* 0.28* -0.10* -0.22* * denotes significance at less than 1 percent level 0 0.5 1 Physical Human Financial Natural Social Not increased 02 Increased 02 Not increased 05 Increased 05</p><p xml:id="_WQAQyWN">Respondents were asked to report the change in their ability to cope with crises. Figure <ref type="figure">12</ref> shows us the relative asset levels over the years of those that have managed to improve their crisis coping ability. We can see that both groups were similar in 2002, but those who have managed to enhance their asset base have reported an increase in their crisis coping ability. Over 70% of those who have reported an increased ability to cope with crises are SUP -programme participation has worked as a positive shock for these households.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_RP5Dd6X">Shelter</head><p xml:id="_hd2MYHX">Shelter is an important component of people's livelihoods. The ultra poor in particular are characterized by poor housing. Subjective estimates of the value of the building provide us with one indicator of the investment placed in their houses. Looking at the quality of their roofs gives us a more objective indicator. In Table <ref type="table">23</ref>, we see strong improvements for both groups in terms of estimated value -increasing on average by over a thousand taka, with the SUP reporting greater increases, but still remaining lower than the NSUP. In terms of median values, the SUP have caught up with the NSUP.</p><p xml:id="_2dhPkWm">Given the nature of building materials, housing repair is a regular necessity, so the several homestead changes in observed in Table <ref type="table">24</ref> do not necessarily function well as an indicator</p><p xml:id="_v2Ms5at">Table 23. Shelter information 2002 2005 Quality of housing: SUP (1) NSUP (2) Difference (3=1-2) SUP (4) NSUP (5) Difference (6=4-5) Difference in difference (7=6-3) Mean present value of living room (at 2002 prices) 856.22 1542.53 -686.31** 1726.94 2114.48 -387.54** 298.77** Median present value of living room (Taka) 500 800 1500 1500 Proportion with tin in roof 0.44 0.55 -0.11** 0.80 0.77 0.03** 0.14** Type of roof (% of total) No house 0.13 0.19 -0.06 0.04 0.00 0.04 Jhupri (shack) 2.91 1.49 1.42** 4.84 5.87 -1.03 One slanting roof 34.69 31.32 3.37** 50.02 32.76 17.26** Two-piece roof 44.38 41.94 2.44* 24.67 26.78 -2.11* Four-fold roof 17.89 25.07 -7.18** 20.42 34.58 -14.16** *, ** denote significance at less than 5 and 1 percent level respectively</p><p xml:id="_e8ZHAzG">Table 24. Housing improvements in three years Form of improvement SUP NSUP Overall Repaired house (% of HH)* 18.7 20.7 19.64 Built new room/house (% of HH) 12.95 12.9 12.93 Installed latrine (% of HH)** 24.64 12.42 18.9 Improved homestead (% of HH) 35.26 35.18 35.22 Improved quality (% of HH)* 14.42 10.55 12.6 Average spending on repair/improvement (in Taka)** 2222.42 2864.55 2474.02 *, ** denote significance at less than 5 and 1 percent level respectively</p><p xml:id="_jWyQmTp">planting trees to adding rooms to accommodate assets. As the table below shows, the SUP lag behind the NSUP in repairs, but are ahead of them in installing latrines and improving the quality of their homes. The difference in latrines is mostly attributed to the CFPR/TUP programme providing sanitary latrines for its beneficiaries. Although programme beneficiaries have made a significant number of changes to their homestead, on average they spent less than the NSUP. 87% of these changes were financed from family earnings. 5.4% were financed by loans, while a little over 3% were financed from savings.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_aYRG7EE">CONCLUSION</head><p xml:id="_BxYfYyK">Understanding the issues of extreme poverty is a key agenda in the development discourse of Bangladesh. In order to achieve the global goals of reducing extreme poverty within the next decade, all stakeholders have renewed their pledge to address extreme poverty in a more affirmative manner.</p><p xml:id="_aXnQFZg">The 2002 Baseline Survey findings of the CFPR/TUP programme give us a detailed profile of the ultra poor in the poorest region of Bangladesh. It was found that the selected ultra poor were significantly worse off than the nonselected ultra poor of our sample. Through the 2005 Repeat Survey, we tried to enrich our understanding of the lives of the ultra poor by studying both the different asset bases and the strategies followed by participant and nonparticipant households. We observe a definite impact of the programme on the households' asset base. Using the Sustainable Livelihoods Framework, we show that there has been a definite impact of the programme on the asset base of participant households.</p><p xml:id="_qKH7AQz">If one of two roughly equivalent ultra poor households was selected into the programme three years ago, we are likely to see the selected household has overshot the non-selected household in most measures. The selected household is more likely to possess assets such as cows and furniture, regardless of the assets received from BRAC. Unlike the other household, the participant household will almost certainly have savings and is more likely to have taken a loan. Participants are also more likely to be correctly informed about laws. Both households are likely to be more socially accepted than they were previously. In terms of land, participant households remain less likely to own or lease land, with the gap narrowing. As far as income and food shortages are concerned, participants are now better off with larger incomes and fewer food shortages. Both now suffer severe illnesses less frequently, and the selected household is now able to spend as much as the non-selected household on medical needs. An issue of some concern is that the selected household remains far less likely to have its children enrolled in school -enrolment among the ultra poor remains low by national standards and selected households have not made any improvements over non-selected households in terms of education.</p><p xml:id="_Ee9VrjY">Savings and asset accumulation are precursors for ownership of land and large improvements in housing. This may explain why selected households remain behind the non-selected households in terms of access to land and shelter. The same does not apply to enrolment -selected households should be at least improving upon the gap with non-selected households in terms of their children going to school. This enrolment gap is a cause for concern and presents the programme with a challenge for the future: ensuring that its participants' children attend school. Creating appropriate social and economic environment and incentives for the ultra poor to send their children to school are a challenge that remains to be overcome.</p><p xml:id="_fNkmC7B">With the selected households overshooting the non-selected in many ways, the process of mainstreaming the ultra poor has evidently begun. At the household level, the programme beneficiaries have certainly changed directions towards economic and social growth. This report substantiates the fact that the programme has contributed significantly in improving the lives of the ultra poor and helping them help themselves.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_Y7CBNca">Appendix 1 Construction of asset indices</head><p xml:id="_MReTqHY">In building the indices of different types of assets for each household, all the indicators in each heading was converted to a scale between 0 and 1 using this simple procedure.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_a5mF3Rv">Rescaled value = (Actual value -Minimum value)/ (Maximum value -Minimum value).</head><p xml:id="_JxMkZEm">For the types of assets where more than one indicator was available, the final index was compiled as an unweighted average of the indicators. Therefore, all the indices have a value between 0 and 1. It has to be emphasized that while these indices are useful to compare different types of households, these are by no means complete in depicting households' asset holdings.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_6tHApaU">Financial assets</head><p xml:id="_WUK5dgN">In financial assets, two components were consideredsavings and credit. Both these variables were converted to dichotomies. While having or not having savings is relatively straight forward, not having credit does not necessarily mean lack of access to it. However, it is assumed that all the ultra poor households are credit constrained and will take credit whenever they have access to it. Using these two indicators, financial asset was calculated as the average of having savings and credit.</p><p xml:id="_gXg7Jep">Human assets Four thing included in human assets are the earnermember ratio, the average years of schooling of the household members, the proportion of household members without any (physical or mental) disability and the proportion of members who have not suffered any illness in the last 15 days from the day of interview. While the first indicator is mostly influenced by life cycle, the others signal education and health of the members.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_gqVNHUf">Physical assets</head><p xml:id="_JEggtpb">There are numerous types of physical asset that the households may own. However, the assets are comparable only in monetary terms. Unfortunately, we have the monetary value of different types of assets for only 2005. Therefore, only the most common types of assets, converted to binary codes of owning or not owning, were considered in the physical asset index. Instead of using different types of productive assets individually, only one variable of productive asset was considered. This allows us to avoid over-emphasizing asset diversification. Moreover, this is one of the inclusion criteria of the programme. The indicators of physical assets are:</p><p xml:id="_WcHaEcp">• Whether have any productive assets • Whether have any type of furniture • Whether owns a tubewell • Whether have any ornaments/jewellery • Value of the residence of the household Natural assets Natural assets typically include land, watery and biological resources and often termed as environmental assets. However, in the context of Bangladesh, land is the only relevant natural asset. In the index of natural asset, access to land in terms of ownership of amount of cultivable land, amount of homestead and access to land on lease were used. Access to leased land has three categories viz. cannot get on lease, can get on lease and already has leased in land.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_EDEMvnX">Social asset</head><p xml:id="_SbER4aP">While the importance of social asset is undeniable, there is no accepted indicator of proxy measures of social assets. Participation in different group activities is sometimes used as proxy for social capital. However, it has not been used here to avoid bias since this would create a bias by overestimating the social assets of the beneficiaries. The bias derives from the facts that the programme does not select participants in savings and/or credit groups and once the selection is done groups are formed involving the programme beneficiaries. The only sensible indicator of social asset that is available on both occasions is whether the household members received any invitation from neighbours. This reflects the quality of relations with the neighbours.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure</head><figDesc xml:id="_YHBFCAZ">Figure 1. The sustainable livelihoods framework</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure</head><figDesc xml:id="_UUfPZ7Q">Figure 2. Absolute landlessness among the ultra poor</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure</head><figDesc xml:id="_zxCYbfE">Figure 3. Access to land market</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure</head><figDesc xml:id="_HMyCbgY">Figure 4. Composition of credit sources</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure</head><figDesc xml:id="_6UqWEt2">Figure 5. Source and usage of cash credit in 2005</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Figure</head><figDesc xml:id="_xwcQ7yE">Figure 6. Asset pentagon</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Figure</head><figDesc xml:id="_KjMnDT9">Figure 7. Crises and their severity</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Figure</head><figDesc xml:id="_pRdrnzU">Figure 8. Change in main source of income</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head>Figure</head><figDesc xml:id="_FxguAkB">Figure 9. Migration among the sample households</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_9"><head>Figure 10 .</head><label>10</label><figDesc xml:id="_wFnjJaz">Figure 10. Per capita income in 2002 and 2005</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_10"><head>Figure</head><figDesc xml:id="_8ND7dEG">Figure 11. Food deficiency throughout the year</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_11"><head>Figure</head><figDesc xml:id="_J3gvN23">Figure 12. Asset base and change in ability to withstand crises</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 11 . Credit market participation</head><label>11</label><figDesc xml:id="_cWvBs4w">, the SUP shows a significant difference in the distribution of the reasons of borrowing in cash between2002 and 2005.    </figDesc><table><row><cell></cell><cell></cell><cell>2002</cell><cell></cell><cell></cell><cell>2005</cell><cell></cell><cell>Difference in</cell></row><row><cell></cell><cell>SUP</cell><cell>NSUP</cell><cell>Difference</cell><cell>SUP</cell><cell>NSUP</cell><cell>Difference</cell><cell>difference</cell></row><row><cell></cell><cell>(1)</cell><cell>(2)</cell><cell>(3=1-2)</cell><cell>(4)</cell><cell>(5)</cell><cell>(6=4-5)</cell><cell>(7=6-3)</cell></row><row><cell>% of households</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>With outstanding cash loan</cell><cell>21.22</cell><cell>33.99</cell><cell>-12.77**</cell><cell>57.89</cell><cell>42.31</cell><cell>15.58**</cell><cell>28.35**</cell></row><row><cell>With outstanding loan in kind</cell><cell>5.52</cell><cell>6.09</cell><cell>-0.57</cell><cell>19.49</cell><cell>21.99</cell><cell>-2.5*</cell><cell>-1.93</cell></row><row><cell>With outstanding cash lending</cell><cell>0.76</cell><cell>0.96</cell><cell>-0.2</cell><cell>6.95</cell><cell>2.97</cell><cell>3.98**</cell><cell>4.18**</cell></row><row><cell>With outstanding lending in kind</cell><cell>0.04</cell><cell>0.26</cell><cell>-0.22</cell><cell>0.92</cell><cell>0.22</cell><cell>0.7**</cell><cell>0.92**</cell></row><row><cell>Average loan size</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Cash loans</cell><cell>1103</cell><cell>2405</cell><cell>-1302**</cell><cell>2262</cell><cell>2448</cell><cell>-186*</cell><cell>1116**</cell></row><row><cell>In kind loans</cell><cell>356</cell><cell>702</cell><cell>-346**</cell><cell>405</cell><cell>596</cell><cell>-191*</cell><cell>155</cell></row><row><cell>Cash lending</cell><cell>1144</cell><cell>3107</cell><cell>-1963*</cell><cell>2426</cell><cell>2501</cell><cell>-75</cell><cell>1888**</cell></row><row><cell>In kind lending</cell><cell>3500</cell><cell>3800</cell><cell>300</cell><cell>893</cell><cell>5158</cell><cell>-4265**</cell><cell>-3965</cell></row></table><note xml:id="_Sdv7UUX"><p>*, ** denote significance at less than 5 and 1 percent level respectively NSUP</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p xml:id="_6bn5ynS">*, ** denote significance at less than 5 and 1 percent level respectively</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_1"><p xml:id="_JBe8DRw">There are some disparities in the data collection on financial market participation. A large proportion of credit (either taken or given) were less than Tk. 100 in 2005. This has happened because of more probing in 2005 compared to 2002. To enhance comparability, loans amounting less than Tk. 100 were not considered.</p></note>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><head xml:id="_q3VDenQ">BRAC Research and Evaluation Division</head><p xml:id="_FuBeNjd"><rs type="funder">Aga Khan Foundation Canada</rs> Funded by:</p></div>
+<div><head xml:id="_mKdNGhc">Canadian International Development Agency</head></div>
+<div><head xml:id="_HRDDQcM">CFPR-TUP Working Paper Series No. 12</head><p xml:id="_MjcgKeY">This working paper is published under the <rs type="projectName">BRAC-AKFC Learning Partnership Project for CFPR/TUP</rs> with funding support from the <rs type="funder">Canadian International Development Agency (CIDA)</rs>. The goal of the project is to contribute to improved poverty reduction and poverty targeting policies and practices. This partnership project supports the generation and dissemination of lessons, models, methodologies and best practices from CFPR/TUP to other organizations and practitioners around the world with an interest in reaching and serving the needs of the ultra poor.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funded-project" xml:id="_GZKRSkS">
+					<orgName type="project" subtype="full">BRAC-AKFC Learning Partnership Project for CFPR/TUP</orgName>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_j3k9Nbv"><p xml:id="_MFRYnyB">Appendix 2 Logical framework analysis 2002 2005 Indicator Target NSUP SUP Difference NSUP SUP Difference Impact Awareness of legal rights Casting votes 50-70% exercise this right 90.2% 92.6% 2.4%** 95.2% 96.9% 1.7%** -.7% Knows about the min age of casting votes 12.9% 12.1% -0.7% 17.6% 26.0% 8.4%** 9.1%** Legal assistance 50-70% exercise this right Local level bodies 50-70% exercise this right Immunisation a,b 60-70% 71.6% 67.9% -3.7% 100% Family planning b 60-70% 64.5% Cook using tubewell water 60-70% 96.4% 96.5% 0% 98.1% 99.1% .9%** .8% Drink tubewell water 60-70% 97.7% 97.7% 0% 99.0% 99.5% .5% .5% Sanitation usage 60-70% 4.3% 2.3% -1.9%** 43.5% 78.4% 34.9%** 36.8%** Pregnancy-related care b 60-70% 100% Tuberculosis 60-70% Approaching concerned authority for enrolling children Additional 20-30% Marriage registration Legal age of marriage (male) 40% SUP can recall 8.0% 8.3% 0.2% 19.7% 70.0% 50.3%** 50.0%** Legal age of marriage (female) 40% SUP can recall 21.9% 22.9% 1.0% 48.6% 82.5% 33.9%** 33.8%** Knows about dowry related punishments 40% SUP can recall 55.4% 59.1% 3.7%* 71.6% 92.7% 21.1%** 17.4%** Knows about legal system of divorce (notice through chairman) 40% SUP can recall 6.8% 5.4% -1.4%* 12.2% 43.3% 31.1%** 32.5%** Does the wife get denmohor if not paid at wedding? 40% SUP can recall 74.7% 74.5% -0.3% 63.2% 74.5% 11.3%** 11.6%** Knows the three conditions of remarriage 40% SUP can recall 3.6% 3.8% 0.3% 6.4% 16.9% 10.5%** 10.2%** Capability of undertaking IGA Continuing with the initial asset (% of SUP) c 85% SUP use productive asset 53.83% 54% Continuing with changed asset (% of SUP) c 36% 36% Improved economic status Households having cash savings 20.4% 8.1% -12.3%** 28.6% 98.4% 69.9%** 82.1%** Basic health Everyone washes hand with soap/ash after defecation c 66.9% 87.2% 20.4%** Wears sandal to toilet c 67.8% 87.4% 19.7%** Knows that wearing sandal protects worming c 35.33% 49.98% 14.6%** Knows that wearing sandal protects diarrhoea c 23.95% 36.46% 12.5%** Awareness of importance of Vitamin A c 24.00% 94.91% 70.9%** Source: 2002-2005 panel surveys unless stated otherwise. Other sources include a: 2002 baseline survey, b: Programme MIS data, c: 2005 survey data *, ** denote significance at less than 5 and 1 percent level respectively</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="consolidated"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main" xml:id="_S7sqbp6">Not working for health reasons</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Ahmed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Akmm</forename><surname>Rana</surname></persName>
+		</author>
+		<idno type="DOI">10.32388/9fyldd</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_XzCRf3G">Dhaka and Ottawa</title>
+		<imprint>
+			<publisher>Qeios</publisher>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="page">21</biblScope>
+		</imprint>
+	</monogr>
+	<note>CFPR/TUP working paper series no. 7</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main" xml:id="_PRseMfb">Targeted intervention for the ultra poor in rural Bangladesh: Does it make any difference in their health-seeking behaviour?</title>
+		<author>
+			<persName><forename type="first">Syed</forename><forename type="middle">Masud</forename><surname>Ahmed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Max</forename><surname>Petzold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zarina</forename><forename type="middle">Nahar</forename><surname>Kabir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Göran</forename><surname>Tomson</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.socscimed.2006.07.024</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_69DSANz">Social Science &amp; Medicine</title>
+		<title level="j" type="abbrev">Social Science &amp; Medicine</title>
+		<idno type="ISSN">0277-9536</idno>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="2899" to="2911" />
+			<date type="published" when="2006-12" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note>Unpublished</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main" xml:id="_maGqb8a">A Matched Case-Control Study to Identify Risk Determinants of Tuberculosis in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Malabika</forename><surname>Sarker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fahmida</forename><surname>Homayra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mrittika</forename><surname>Barua</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sukanta</forename><surname>Paul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Avijit</forename><surname>Saha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rahima</forename><surname>Akter James P Grant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H M</forename><surname>Mahbub Latif</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shayela</forename><surname>Islam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Akramul</forename><surname>Lslam</surname></persName>
+		</author>
+		<idno type="DOI">10.5176/2251-3833_ghc17.05</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_tz2gT3j">Annual Global Healthcare Conference (GHC)</title>
+		<meeting><address><addrLine>Dhaka</addrLine></address></meeting>
+		<imprint>
+			<publisher>Global Science &amp; Technology Forum (GSTF)</publisher>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="page" from="11" to="16" />
+		</imprint>
+	</monogr>
+	<note type="report_type">BRAC research report-unpublished</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main" xml:id="_FywV8B2">Changing of Asian Outlooks and New Travel Demands are the Emerging Factors for Expanding Tourism Markets Globally</title>
+		<author>
+			<persName><forename type="first">Dilip</forename><forename type="middle">Kumar</forename><surname>Bhadra</surname></persName>
+		</author>
+		<idno type="DOI">10.5176/2251-3426_thor16.20</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_PKJcYpD">4th Annual International Conference on Tourism and Hospitality Research (THoR 2016)</title>
+		<meeting><address><addrLine>Dhaka</addrLine></address></meeting>
+		<imprint>
+			<publisher>Global Science &amp; Technology Forum (GSTF)</publisher>
+			<date type="published" when="2000">2000. 2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b4">
+	<monogr>
+		<author>
+			<persName><surname>Brac</surname></persName>
+		</author>
+		<title level="m" xml:id="_j4mcSdy">Poverty reduction programme proposal: challenging the frontiers of poverty reduction: targeting the ultra poortargeting social constraints</title>
+		<meeting><address><addrLine>Dhaka</addrLine></address></meeting>
+		<imprint>
+			<publisher>BRAC</publisher>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b5">
+	<monogr>
+		<author>
+			<persName><surname>Brac</surname></persName>
+		</author>
+		<title level="m" xml:id="_qZCAANk">Towards a profile of the ultra poor in Bangladesh: findings from CFPR/TUP baseline survey</title>
+		<imprint>
+			<publisher>Dhaka and Ottawa: BRAC and Aga Khan Foundation Canada</publisher>
+			<date type="published" when="2004">2004. 2004</date>
+			<biblScope unit="page">34</biblScope>
+		</imprint>
+	</monogr>
+	<note>Dhaka and Ottawa Stories of targeting: process documentation of selecting the ultra poor for CFPR/TUP programme CFPR/TUP working paper series no. 1</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b6">
+	<monogr>
+		<author>
+			<persName><forename type="first">E</forename><surname>Dunn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Kalaitzandonakes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Valdivia</surname></persName>
+		</author>
+		<title level="m" xml:id="_WdS42eq">Risk and the impacts of microenterprise services</title>
+		<meeting><address><addrLine>Washington</addrLine></address></meeting>
+		<imprint>
+			<publisher>AIMS</publisher>
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main" xml:id="_Pn5XDvz">Rural Livelihoods and Diversity in Developing Countries</title>
+		<author>
+			<persName><forename type="first">Frank</forename><surname>Ellis</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/oso/9780198296959.001.0001</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_s7hbPwQ">Rural livelihoods and diversity in developing countries</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University PressOxford</publisher>
+			<date type="published" when="2000-06-29">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b8">
+	<monogr>
+		<title level="m" type="main" xml:id="_mTKZrca">Change in food and nutrient consumption among ultra poor: is the CFPR/TUP programme making a difference? Dhaka and Ottawa: BRAC and Aga Khan Foundation Canada</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Haseen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<biblScope unit="page">31</biblScope>
+		</imprint>
+	</monogr>
+	<note>CFPR/TUP working paper series no. 11</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main" xml:id="_62PSAx9">Working with the ultra‐poor: learning from BRAC experiences</title>
+		<author>
+			<persName><forename type="first">Shantana</forename><forename type="middle">R</forename><surname>Halder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Mosley</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/jid.1084</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_9vzsnSM">Journal of International Development</title>
+		<title level="j" type="abbrev">J of Intl Development</title>
+		<idno type="ISSN">0954-1748</idno>
+		<idno type="ISSNe">1099-1328</idno>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="387" to="406" />
+			<date type="published" when="2004-03-30">2004</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main" xml:id="_ASjeKKn">Engaging elite support for the poorest? BRAC&apos;s experience with the ultra poor programme</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Hossain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Matin</surname></persName>
+		</author>
+		<ptr target="http://www.chronicpoverty.org/resources/cp20.htm" />
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_hrNAdTR">Targeted development programmes for the extreme poor: experiences from BRAC experiments</title>
+		<editor>
+			<persName><forename type="first">I</forename><surname>Matin</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Manchester</addrLine></address></meeting>
+		<imprint>
+			<publisher>IDPM/Chronic Poverty Research Centre</publisher>
+			<date type="published" when="2004-03">2004. March 2006</date>
+			<biblScope unit="page">17</biblScope>
+		</imprint>
+	</monogr>
+	<note>CFPR/TUP working paper series No. 3 Dhaka and Ottawa Working paper 20</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main" xml:id="_HrXm6UM">Combining methodologies for better targeting of the extreme poor: lessons from BRAC&apos;s CFPR/TUP programme</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Matin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Halder</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_kdr25wm">J Econ Literature</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="1569" to="1614" />
+			<date type="published" when="1999">2004. 1999</date>
+			<publisher>BRAC and Aga Khan Foundation Canada</publisher>
+		</imprint>
+		<respStmt>
+			<orgName>Dhaka and Ottawa</orgName>
+		</respStmt>
+	</monogr>
+	<note>CFPR/TUP working paper series Morduch J. The microfinance promise</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main" xml:id="_SQZ5rYP">Natural and Quasi-Experiments in Economics</title>
+		<author>
+			<persName><forename type="first">Breed</forename><forename type="middle">D</forename><surname>Meyer</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/07350015.1995.10524589</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Pccpum6">Journal of Business &amp; Economic Statistics</title>
+		<title level="j" type="abbrev">Journal of Business &amp; Economic Statistics</title>
+		<idno type="ISSN">0735-0015</idno>
+		<idno type="ISSNe">1537-2707</idno>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="151" to="161" />
+			<date type="published" when="1995-04">1995</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main" xml:id="_V9pJUqp">The asset vulnerability framework: Reassessing urban poverty reduction strategies</title>
+		<author>
+			<persName><forename type="first">Caroline</forename><forename type="middle">O N</forename><surname>Moser</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0305-750x(97)10015-8</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_x7eptwJ">World Development</title>
+		<title level="j" type="abbrev">World Development</title>
+		<idno type="ISSN">0305-750X</idno>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="19" />
+			<date type="published" when="1998-01">1998</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main" xml:id="_yM6GUc3">Poverty and Inequality</title>
+		<author>
+			<persName><forename type="first">Mustafa</forename><forename type="middle">K</forename><surname>Mujeri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Neaz</forename><surname>Mujeri</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-3-030-56791-0_3</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_tCeQJ2N">Palgrave Studies in Economic History</title>
+		<imprint>
+			<publisher>Springer International Publishing</publisher>
+			<date type="published" when="2003">2003</date>
+			<biblScope unit="page" from="115" to="169" />
+		</imprint>
+	</monogr>
+	<note>Working Paper 2003-07</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main" xml:id="_S4ZNPjQ">Cents and Sociability: Household Income and Social Capital in Rural Tanzania</title>
+		<author>
+			<persName><forename type="first">Deepa</forename><surname>Narayan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Pritchett</surname></persName>
+		</author>
+		<idno type="DOI">10.1596/1813-9450-1796</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_B8xZp9w">Cents and sociability: household income and social capital in rural Tanzania. Washington DC: Social development and development research group</title>
+		<imprint>
+			<publisher>The World Bank</publisher>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note>Policy research working paper 1796</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main" xml:id="_Ty5YqsJ">Poverty Dynamics and Poverty Reduction Strategies</title>
+		<author>
+			<persName><forename type="first">Motiur</forename><surname>Rahman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Noriatsu</forename><surname>Matsui</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yukio</forename><surname>Ikemoto</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-4-431-54285-8_17</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_9keFPAK">Dynamics of Poverty in Rural Bangladesh</title>
+		<editor>
+			<persName><forename type="first">Hossain</forename><forename type="middle">M</forename><surname>Hz</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Springer Japan</publisher>
+			<date type="published" when="1995">1995</date>
+			<biblScope unit="page" from="231" to="239" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main" xml:id="_BQjHuwk">A Matched Case-Control Study to Identify Risk Determinants of Tuberculosis in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Malabika</forename><surname>Sarker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fahmida</forename><surname>Homayra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mrittika</forename><surname>Barua</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sukanta</forename><surname>Paul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Avijit</forename><surname>Saha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rahima</forename><surname>Akter James P Grant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H M</forename><surname>Mahbub Latif</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shayela</forename><surname>Islam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Akramul</forename><surname>Lslam</surname></persName>
+		</author>
+		<idno type="DOI">10.5176/2251-3833_ghc17.05</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_vEPyuuu">Annual Global Healthcare Conference (GHC)</title>
+		<meeting><address><addrLine>Dhaka</addrLine></address></meeting>
+		<imprint>
+			<publisher>Global Science &amp; Technology Forum (GSTF)</publisher>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="page" from="11" to="16" />
+		</imprint>
+	</monogr>
+	<note>Unpublished</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b18">
+	<analytic>
+		<title level="a" type="main" xml:id="_FMkbMMS">Trade liberalization and per capita income convergence: a difference-in-differences analysis</title>
+		<author>
+			<persName><forename type="first">Matthew</forename><forename type="middle">J</forename><surname>Slaughter</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0022-1996(00)00087-8</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_A2ygN34">Journal of International Economics</title>
+		<title level="j" type="abbrev">Journal of International Economics</title>
+		<idno type="ISSN">0022-1996</idno>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="203" to="228" />
+			<date type="published" when="2001-10">2001</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main" xml:id="_8qD2Ufr">Poverty: The Challenges of Graduation</title>
+		<author>
+			<persName><forename type="first">Hossain</forename><forename type="middle">Zillur</forename><surname>Rahman</surname></persName>
+		</author>
+		<idno type="DOI">10.57138/hola6171</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_M7XJEPk">The Bangladesh Development Studies</title>
+		<title level="j" type="abbrev">BDS</title>
+		<idno type="ISSN">0304-095X</idno>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="53" to="78" />
+			<date type="published" when="2004-07-01">2004</date>
+			<publisher>Bangladesh Institute of Development Studies</publisher>
+			<pubPlace>Dhaka</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main" xml:id="_HqmWRNb">Informal Credit Transactions of Micro-Credit Borrowers in Rural Bangladesh</title>
+		<author>
+			<persName><forename type="first">Saurabh</forename><surname>Sinha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Imran</forename><surname>Matin</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1759-5436.1998.mp29004008.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_yvT8UAK">IDS Bulletin</title>
+		<idno type="ISSN">0265-5012</idno>
+		<idno type="ISSNe">1759-5436</idno>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="66" to="80" />
+			<date type="published" when="1998-10">1998</date>
+			<publisher>Institute of Development Studies</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main" xml:id="_tMxHpGF">Topic Modeling Using Community Detection on a Word Association Graph</title>
+		<author>
+			<persName><forename type="first">Mahfuzur</forename><surname>Rahman Chowdhury</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Intesur</forename><surname>Ahmed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Farig</forename><surname>Sadeque</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Muhammad</forename><surname>Nur Yanhaona</surname></persName>
+		</author>
+		<idno type="DOI">10.26615/978-954-452-092-2_098</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_HqPsK4z">Proceedings of the Conference Recent Advances in Natural Language Processing - Large Language Models for Natural Language Processings</title>
+		<meeting>the Conference Recent Advances in Natural Language Processing - Large Language Models for Natural Language Processings<address><addrLine>Dhaka</addrLine></address></meeting>
+		<imprint>
+			<publisher>INCOMA Ltd., Shoumen, BULGARIA</publisher>
+			<date type="published" when="2006">2006</date>
+			<biblScope unit="page" from="908" to="917" />
+		</imprint>
+	</monogr>
+	<note>Unpublished</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b22">
+	<monogr>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Taufique</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Turton</surname></persName>
+		</author>
+		<title level="m" xml:id="_bWwHx44">Hands not lands: an overview of how livelihood is changing in rural Bangladesh</title>
+		<meeting><address><addrLine>Dhaka</addrLine></address></meeting>
+		<imprint>
+			<publisher>DFID</publisher>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main" xml:id="_ypmwqNQ">Poverty in Bangladesh : Building on Progress</title>
+		<idno type="DOI">10.1596/15303</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_AmRX6ph">Poverty in Bangladesh: building on progress</title>
+		<imprint>
+			<publisher>Washington, DC</publisher>
+			<date type="published" when="2002-12">2002</date>
+		</imprint>
+	</monogr>
+	<note>Report no. 24299-BD</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b24">
+	<monogr>
+		<author>
+			<persName><forename type="first">Gan</forename><surname>Wright</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kasente</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Ssemogerere</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mutesasira</surname></persName>
+		</author>
+		<title level="m" xml:id="_GKPRpYx">Vulnerability, risks, assets and empowerment -the impact of microfinance on poverty alleviation</title>
+		<imprint>
+			<publisher>MicroSave-Africa and Uganda Women&apos;s Finance Trust</publisher>
+			<date type="published" when="1999">2001. 1999</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">World Development Report</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

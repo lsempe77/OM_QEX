@@ -1,0 +1,1119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" xml:id="_xvGnuqE">Demand versus Returns? Pro-Poor Targeting of Business Grants and Vocational Skills Training</title>
+				<funder ref="#_MWDQRjw">
+					<orgName type="full">USAID</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Spanish Impact Evaluation Fund)</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">BASIS</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">World Bank</orgName>
+				</funder>
+				<funder ref="#_3ffdQDc">
+					<orgName type="full">World Bank (ESSD</orgName>
+				</funder>
+				<funder ref="#_umgEsmN">
+					<orgName type="full">Government of the Netherlands</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Karen</forename><surname>Macours</surname></persName>
+							<email>karen.macours@parisschoolofeconomics.eu</email>
+							<affiliation key="aff0">
+								<orgName type="department">School of Economics and INRA</orgName>
+								<orgName type="institution">Paris</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">World Bank</orgName>
+								<address>
+									<country>The</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Patrick</forename><surname>Premand</surname></persName>
+							<email>ppremand@worldbank.org</email>
+						</author>
+						<author>
+							<persName><forename type="first">Renos</forename><surname>Vakis</surname></persName>
+							<email>rvakis@worldbank.org</email>
+							<affiliation key="aff0">
+								<orgName type="department">School of Economics and INRA</orgName>
+								<orgName type="institution">Paris</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">World Bank</orgName>
+								<address>
+									<country>The</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="institution">Estudios Rurales y Urbanos de Nicaragua</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main" xml:id="_uQNRPjs">Demand versus Returns? Pro-Poor Targeting of Business Grants and Vocational Skills Training</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">727D38315AF509AFB64437CC1423DAEC</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2025-11-04T19:19+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a292bac</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=1, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=true, generateTeiCoordinates=[true], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term xml:id="_sjreCk6">business grants</term>
+					<term xml:id="_qA6JxqA">vocational training</term>
+					<term xml:id="_kbxQhug">targeting</term>
+					<term xml:id="_j5Ty9SJ">aspirations</term>
+					<term xml:id="_wPQ6Jcn">cash transfers</term>
+					<term xml:id="_DuJdKPp">randomized experiment. JEL codes: 01</term>
+					<term xml:id="_NQKzdv2">D1</term>
+					<term xml:id="_mJxMZur">I3</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_X5WUznc"><p xml:id="_AUhUVBq">The Impact Evaluation Series has been established in recognition of the importance of impact evaluation studies for World Bank operations and for development in general. The series serves as a</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="10" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="11" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="12" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="13" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="14" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="15" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="16" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="17" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="18" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="19" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="20" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="21" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="22" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="23" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="24" ulx="0.0" uly="0.0" lrx="792.0" lry="612.0"/>
+		<surface n="25" ulx="0.0" uly="0.0" lrx="792.0" lry="612.0"/>
+		<surface n="26" ulx="0.0" uly="0.0" lrx="792.0" lry="612.0"/>
+		<surface n="27" ulx="0.0" uly="0.0" lrx="792.0" lry="612.0"/>
+		<surface n="28" ulx="0.0" uly="0.0" lrx="792.0" lry="612.0"/>
+		<surface n="29" ulx="0.0" uly="0.0" lrx="792.0" lry="612.0"/>
+		<surface n="30" ulx="0.0" uly="0.0" lrx="792.0" lry="612.0"/>
+		<surface n="31" ulx="0.0" uly="0.0" lrx="792.0" lry="612.0"/>
+		<surface n="32" ulx="0.0" uly="0.0" lrx="792.0" lry="612.0"/>
+		<surface n="33" ulx="0.0" uly="0.0" lrx="792.0" lry="612.0"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_CTZtzVk">Policy Research Working Paper 6389</head><p xml:id="_MR8V34F">Interventions aimed at increasing the income generating capacity of the poor, such as vocational training, micro-finance or business grants, are widespread in the developing world. How to target such interventions is an open question. Many programs are self-targeted, but if perceived returns differ from actual returns, those self-selecting to participate may not be those for whom the program is the most effective. The authors analyze an unusual experiment with very high take-up of business grants and vocational skills training, randomly assigned among nearly all households in selected poor rural communities in Nicaragua. On average, the interventions resulted in increased participation in non-agricultural employment and higher income from related activities. The paper investigates whether targeting could have resulted in higher returns by analyzing heterogeneity in impacts by stated baseline demand, prior participation in non-agricultural activities, and a This paper is a product of the Poverty, Gender and Equity Unit, Latin America and the Caribbean Region. It is part of a larger effort by the World Bank to provide open access to its research and make a contribution to development policy discussions around the world. Policy Research Working Papers are also posted on the Web at <ref type="url" target="http://econ.worldbank.org">http://econ.worldbank.org</ref>. The author may be contacted at rvakis@worldbank.org.</p><p xml:id="_m7sbhyn">wide range of complementary asset endowments. The results reveal little heterogeneity along observed baseline characteristics. However, the poorest households are more likely to enter and have higher profits in nonagricultural self-employment, while less poor households assigned to the training have higher non-agricultural wages. This heterogeneity appears related to unobserved characteristics that are not revealed by stated baseline demand, and more difficult to target. In this context, self-targeting may reduce the poverty-reduction potential of income generating interventions, possibly because low aspirations limit the poor's ex-ante demand for productive interventions while the interventions have the potential to increase those aspirations. Overall, targeting productive interventions to poor households would not have come at the cost of reducing their effectiveness. By contrast, self-targeting would have limited poverty reduction by excluding the poorest.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1." xml:id="_hAtFNPr">Introduction</head><p xml:id="_spGjC3F">In recent years, there has been renewed attention on policies to enhance the income generating capacity of the poor. Since both skills and capital can limit productive choices <ref type="bibr" target="#b27">(Lucas, 1978;</ref><ref type="bibr">Banerjee and Newman, 1992)</ref>, many programs specifically tackle those constraints to facilitate entry and returns to nonagricultural wages, self-employment or entrepreneurship. Programs offering training or relaxing liquidity constraints have proliferated in many developing countries <ref type="bibr">(World Bank, 2012)</ref>. A growing literature provides experimental evidence on the impact of skills training <ref type="bibr" target="#b2">(Attanasio, Kugler and Meghir, 2011;</ref><ref type="bibr">Card et al, 2011;</ref><ref type="bibr" target="#b19">McKenzie and Woodruff, 2012)</ref>, micro-finance <ref type="bibr" target="#b6">(Banerjee et al., 2010;</ref><ref type="bibr" target="#b14">Crépon et al, 2011)</ref>, and grants for small business development <ref type="bibr">(De Mel, McKenzie and Woodruff, 2012a;</ref><ref type="bibr" target="#b23">Fafchamps et al. 2011</ref>). Yet, there remain substantial questions about how to design programs for productive employment, starting with the very fundamental question of how to target them. Indeed, compared to the literature on (conditional) cash transfer programs <ref type="bibr" target="#b0">(Alatas et al., 2012;</ref><ref type="bibr">Coady, Grosh and Hoddinot 2004;</ref><ref type="bibr" target="#b16">de Janvry and Sadoulet, 2006)</ref>, there is little empirical evidence regarding targeting mechanisms for training or small business development interventions.</p><p xml:id="_RKBqfzv">Despite this, most productive programs have very specific targeting criteria, and these criteria differ immensely across programs. Many interventions are targeted based on demand through self-selection. For example, training courses typically require that individuals self-select to participate <ref type="bibr" target="#b2">(Attanasio, Kugler and Meghir, 2011;</ref><ref type="bibr">Card et al, 2011)</ref>. Interventions relaxing capital constraints also tend to be offered to participants based on demand. This is particularly common for microfinance <ref type="bibr">(Banerjee et al., 2009;</ref><ref type="bibr" target="#b14">Crépon et al, 2011)</ref> but also used for cash grants <ref type="bibr" target="#b8">(Blattman, Fiala and Martinez, 2011</ref>). An underlying assumption for selection on-demand is that it maximizes program impacts as those who self-select are also the ones with the highest potential returns from the intervention, as would be predicted by the standard Roy model of selection <ref type="bibr" target="#b35">(Roy, 1951)</ref>. But this assumption may not hold if certain households have inaccurate perceptions of program returns. For instance, even if returns for the poor might be quite high, many of them may self-select out because of lack of information <ref type="bibr" target="#b25">(Jensen 2010;</ref><ref type="bibr" target="#b3">Baird, McIntosh and Ozler, 2011)</ref> or because of limited hope or aspirations <ref type="bibr" target="#b21">(Duflo, 2012)</ref>. Local peer effects may accentuate such low informational flows and formation of aspirations <ref type="bibr" target="#b37">(Wilson, 1987)</ref>, and were indeed instrumental in increasing households' aspirations in the program studied in this paper <ref type="bibr" target="#b28">(Macours and Vakis, 2009)</ref>. The optimality of targeting on-demand is hence an empirical question.</p><p xml:id="_x4e7dbK">Other programs target individuals who are already employed in specific activities. Micro-finance services or grants for small business development often target small business owners <ref type="bibr" target="#b17">(De Mel, McKenzie and Woodruff, 2008;</ref><ref type="bibr" target="#b22">Dupas and Robinson, 2013)</ref>. Many training programs are also targeted to existing entrepreneurs <ref type="bibr" target="#b19">(McKenzie and Woodruff, 2012)</ref>, sometimes in the form of optional services offered to banks or micro-finance clients <ref type="bibr" target="#b10">(Bruhn and Zia, 2012)</ref> or as part of a program's regular meeting schedule <ref type="bibr" target="#b26">(Karlan and Valdivia, 2011)</ref>.</p><p xml:id="_CMygTdT">A third common type of targeting is based on observed baseline assets such as capital or skills. Targeting those with a minimum asset endowment can be motivated by the perceived need for complementary production factors in order to make optimal use of new skills or capital. Based on potential complementarities in the skills production function <ref type="bibr" target="#b15">(Cunha and Heckman, 2007)</ref>, training programs at times target participants with higher levels of education on the premise that they would be better able to benefit from additional skills training. Similarly, potential complementarities between skills and capital in a small business production function implicitly or explicitly can justify categorical targeting of programs on baseline endowments of capital or skills.</p><p xml:id="_ur5pX3G">And yet, certain programs that target baseline assets do the exact opposite by targeting those without complementary assets. Indeed, programs such as BRAC's Targeting the Ultra Poor (CFPR-TUP) program specifically aim to include the poorest of the poor and are designed to address several constraints at once by providing capital, skills and a subsistence allowance during program implementation <ref type="bibr">(BRAC, 2012)</ref>.</p><p xml:id="_JKwFJhU">In those cases, eligibility is defined based on households' lack of certain baseline assets, unfavorable demographics or dwelling characteristics. These attributes can be summarized in a proxy means score and combined with participatory rapid appraisal methods <ref type="bibr" target="#b33">(Morduch, Ravi and Bauchet, 2012;</ref><ref type="bibr" target="#b4">Banerjee et al. 2011</ref>). An important question is whether such pro-poor targeting might come at the cost of reducing the overall impacts of productive interventions. This potential trade-off is critical to understand, because productive interventions are often designed with an objective to reduce poverty, yet targeting based on prior demand or asset endowments may run counter to this objective.</p><p xml:id="_AJ9zveY">More generally, while different income generating programs use different targeting mechanisms, little is known about how these differences in targeting may affect program effectiveness. Indeed, evaluations often start from an existing targeting mechanism, for instance by preselecting those eligible and interested prior to the randomized assignment. In doing so, impact estimates represent local average treatment effects (LATE) for the eligible, interested and complying population. These local average treatment effects might be quite different from the potential treatment effects on a wider population, in particular when take-up is low or likely to depend on the returns to participation <ref type="bibr">(Carneiro, Heckman and</ref><ref type="bibr">Vytlacil, 2010, 2011)</ref>. While some papers analyze the differences between characteristics of applicants and nonapplicants <ref type="bibr" target="#b1">(Almeida and Galasso, 2010)</ref>, this typically is not sufficient to assess whether local average treatment effects under-or over-estimate marginal treatment effects. Other related work considers heterogeneity of program impacts by baseline characteristics of program participants. For instance, entry into self-employment or productivity of the self-employed has been shown to vary along dimensions such as experience and ability, assets or gender <ref type="bibr">(De Mel, McKenzie and</ref><ref type="bibr">Woodruff 2008, 2009;</ref><ref type="bibr" target="#b23">Fafchamps et al., 2011)</ref>. However, as such analysis is typically done within the already targeted population, it provides limited guidance on alternative targeting mechanisms.</p><p xml:id="_HjwcCCe">In this paper, we address the targeting question by using an unusual experiment conducted in poor rural Nicaraguan communities, where vocational skills training and business grants were randomly assigned among households irrespective of initial demand or other baseline characteristics. The training and business grants were of substantial size and were offered in combination with a one-year conditional cash transfer program. In <ref type="bibr" target="#b29">Macours, Premand, and Vakis (2012)</ref> we show that both the vocational training and the business grant facilitated income diversification and helped households to protect themselves against exogenous climatic shocks. The grant also led to an average increase in per capita expenditures and income.</p><p xml:id="_zCjGASc">This experiment is particularly well suited to analyze targeting of productive interventions. The program targeted almost all households in affected poor rural communities, including households that were above the poverty line but deemed vulnerable to fall into poverty. All eligible households were informed about the benefits of the program through meetings in their own communities, households were strongly encouraged to apply, and special efforts were made to maximize enrollment, including through targeted home visits and compensation for time opportunity costs during training days. While baseline demand for the productive interventions seemed low, especially among the poor, once the program was offered and participation encouraged, take-up was nearly full. This paper takes advantage of this near universal targeting and high take-up rate to analyze whether returns to the productive interventions depend on baseline observables such as ex-ante demand for the intervention, prior wage or self-employment experience, or initial asset endowments. While the experiment did not randomly expose households to different targeting mechanisms, we use the near universal targeting of the randomly allocated interventions and heterogeneity within the targeted population to shed light on potential trade-offs of using alternative ex-ante targeting mechanisms. In doing so, we show that, two years after the end of the interventions, there is very little heterogeneity of program impacts on participation in, or returns to, non-agriculture wage or self-employment, along any of these observed baseline characteristics. This indicates that targeting on stated baseline demand, prior participation in non-agricultural activities, or initial asset endowment would not have resulted in higher returns. Interestingly, however, and despite lower demand for productive interventions from the poor, we find heterogeneity by baseline poverty level. With both interventions, the poorest households are more likely to enter and have higher profits in non-agricultural self-employment, while less poor households assigned to the training have higher non-agricultural wages. While this pattern is clear when using detailed information on per capita expenditures to identify the poor, it is much less obvious when using observed asset endowments or proxy means methods.</p><p xml:id="_skApmes">Overall, heterogeneity in outcomes hence seems to be related to characteristics that are harder to target.</p><p xml:id="_cqbd79h">This can be either because these characteristics were unobserved at baseline and were not revealed by stated baseline demand, or because they were affected by the intervention itself. The latter may happen, for instance, if low baseline demand for productive interventions was the result of low aspirations, and if program participation itself changed attitudes and preferences for the productive interventions, as such also increasing their returns. We provide supportive evidence for this mechanism by establishing that positive attitudes towards the future are indeed lower for the poor, yet significantly affected by the interventions. Possibly as a result, targeting the interventions to poor households in this context did not come at the cost of reducing overall impacts. This holds for both the vocational training and business grants, adding to the generalizability of the findings. Hence the empirical evidence in this paper supports the pro-poor targeting of such interventions.</p><p xml:id="_6fxmkPm">The findings highlight that if perceived returns differ from actual returns, those self-selecting to participate may not be those for whom the program is the most effective. In those cases, self-targeting can lead to important exclusion errors. The findings relate to other recent evidence on the lack of positive selfselection and potentially negative self-selection. <ref type="bibr" target="#b36">Walters (2012)</ref> shows that low-income students and students with low prior achievement, who are unlikely to apply to charter schools, are in fact those that gain the most from attending these schools. His model illustrates that when participation decisions are driven by multiple factors, selection on one dimension can lead to negative selection on gains in another dimension. Similarly, <ref type="bibr" target="#b26">Karlan and Valdivia (2011)</ref> find stronger impacts from a business skills training program among clients who expressed least interest in the training at baseline, and <ref type="bibr" target="#b24">Finkelstein and McGarry (2006)</ref> find that those who purchase insurance are lower risk but more risk-averse individuals.</p><p xml:id="_WaFaNvW">In addition to its focus on targeting, this paper contributes to the broader literature on interventions relaxing skills and capital constraints (as referenced above), by analyzing the relative effectiveness of vocational training and business grants in a single experimental setting. With the exception of de Mel, <ref type="bibr" target="#b20">McKenzie and Woodruff (2012b)</ref> and <ref type="bibr" target="#b7">Berge, Bjorvatn and Tungodden (2011)</ref>, most evaluations do not directly compare the impact of these different types of interventions in the same population.</p><p xml:id="_6897SGc">The paper proceeds as follows. Section 2 provides more information regarding the program and the experimental design. In section 3, we discuss the data and set out the methodology used to analyze program heterogeneity along various dimensions. Section 4 discusses the results while section 5 concludes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2." xml:id="_Q8eH3pa">Program and experimental design 2</head><p xml:id="_WBrKvjw">The Atención a Crisis program was a one-year pilot implemented between November 2005 and December 2006 by the Ministry of the Family in Nicaragua. <ref type="foot" target="#foot_1">3</ref> The program was implemented in six municipalities in the Northwest of Nicaragua, selected because they had been affected by a drought the previous year and had high prevalence of extreme rural poverty. To stratify, all communities in the six municipalities were grouped in blocks based on microclimates, crop mix, road access, and infrastructure. During a first lottery, to which the mayors of the municipalities were invited to attend and participate, 44 blocks were randomly selected and half of the communities in each block were randomly assigned to treatment, and the other half to the control.</p><p xml:id="_tz3E8kJ">Baseline data were then collected in the 56 treatment and 50 control communities. These data were used to define households' eligibility for the program based on a proxy means test. The threshold eligibility level for the proxy means test was set higher than the poverty line. As a result, only around 10 percent of households in treatment and control communities were ineligible for the program (their estimated baseline expenditures, as determined by the proxy means, were above the pre-defined threshold). This process resulted in the identification of 3,002 households to participate in the program. In a subsequent step, 3.7 percent of households that had originally been deemed eligible by the proxy means were reclassified as ineligible after a process of consultation with community leaders, and a corresponding 3.7 percent that had originally been deemed ineligible were reclassified as eligible. To avoid any possibility of selection bias from these choices, we use the original eligibility as the intent-to-treat.</p><p xml:id="_ayq6NfF">In the treatment communities, the principal caregiver in each eligible household (typically a woman) was then invited to a registration assembly, where the program objectives and various components were explained. At the end of the assembly, a second lottery took place in each community. During this lottery, all eligible households within each community were assigned to one of three treatment packages: (1) a basic CCT; (2) a basic CCT plus a scholarship for a vocational training; or (3) a basic CCT plus a business grant. 4 Participation in the assemblies and lotteries was close to 100 percent.</p><p xml:id="_UdRFnrr">The training and business grant components on which this paper focuses aimed at strengthening households' ex ante risk management via income diversification in non-agricultural activities. The randomization resulted in balanced samples in the treatment and control communities as well as between treatment groups <ref type="bibr" target="#b29">(Macours, Premand and Vakis, 2012)</ref>. Program take-up (contamination) in the control group was negligible (one household).</p><p xml:id="_3c9pkgZ">The beneficiary households that were randomly selected for the vocational training package were eligible for a scholarship that allowed one of the adult household members to choose among a number of vocational training courses offered in the main town of the municipality. The scholarship was conditional on regular attendance to the course, and included the course costs and an allowance to compensate for potential lost income during training days. The courses aimed at providing participants with new skills for income diversification outside of subsistence farming. These beneficiaries were also offered labor-market and business-skill training workshops organized in their own communities. In the same year in which they selected and attended the courses, they also received cash transfers conditional on children's primary school and health service attendance. 5   The beneficiary households that were randomly selected for the productive investment package received a US $ 200 business grant to start a small non-agricultural activity. This grant was conditional on the household developing a business development plan, outlining the proposed investments in new livestock or non-agricultural income generating activities. Beneficiaries received technical assistance to develop the business plan and to start up their new activities. They also participated in business-skills training workshops organized in their own communities. In addition, they received during the same one-year period the same basic CCT program as the beneficiaries of the vocational training package. The value of the training package and the productive investment package was approximately the same (US$ 470 and US$ 480, respectively). The third group of households only received the basic CCT program. 4 The additional benefits of the one year CCT program imply that we are capturing the combined effect of the productive interventions and the CCT. Such a package approach is not uncommon for productive interventions that are targeting the poor. For example, the TUP programs mentioned earlier also include a subsistence allowance during the 18 months of program implementation. 5 With respect to the conditional cash transfer component, all households received a transfer of US $ 145 even if they did not have children. Households with children between 7 and 15 enrolled and attending primary school received an additional US $ 90 per household and an additional US $ 25 per child (all amounts refer to the total transfer received over the year). While the design of the basic CCT is similar to many other CCTs in Latin America, an important difference is its duration was limited to one year. Other CCTs often offer more continuous income support. As we mentioned earlier, an important feature of the Atención a Crisis program was that almost all households (90%) in the program communities were targeted and that program take-up was very high. All households were strongly encouraged to enroll in the program and, if randomly selected for the productive interventions, had to indicate their preferences for the type of vocational training course they wanted to enroll in, or the type of business they wanted to develop. For the relatively few households that had not attended the registration assemblies special efforts were made to maximize enrollment, including through targeted home visits. Local program promotores further encouraged participation in all program activities. Take-up was 89 percent for the vocational training package, and 95 percent for the productive investment package. 6   Importantly, there was no specific targeting of the productive interventions to households with specific demands for such interventions. There also was no specific targeting to households with prior experiences in nonagricultural activities, nor targeting on other asset holdings or eligibility criteria. This contrasts with most other programs aimed at increasing nonagricultural wage or self-employment, which typically include more specific targeting criteria. One clear concern with this universal targeting is its potential inefficiency. Possibly not all households have interests, abilities, skills or the necessary complementary assets to take advantage of these productive interventions, and more targeted interventions possibly could lead to higher average returns. If so, we would expect substantial heterogeneity in impacts of the vocational training or the business grant interventions related to baseline demand or baseline observables the program could have targeted on. We take advantage of the high take-up of both the training and the business grant intervention to shed light on the potential gains from such targeting. 6 In order to avoid any selection bias, all of these households are considered eligible. The main reason households did not take-up any program benefits was the fact that some originally eligible households were deemed ineligible by local leaders after the initial assignment-see above. A small number of households had also migrated out of the communities after baseline. Another reason not taking up the vocational training grant was lack of a literate adult capable of taking a course. For the business grant, the ministry initially turned down about 10 percent of the business development plans. These proposals were sent back to the households and virtually all of them received technical assistance and developed a new plan that was ultimately approved.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3." xml:id="_8xUfqCW">Data and methodology</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_JbCRsxt">Data</head><p xml:id="_gWhrdj7">Baseline data for the evaluation were collected in April-May 2005. A first follow-up survey was collected in July-August 2006 -nine months after households started receiving benefits. Due to implementation delays, the business grant had been disbursed only 2 to 3 months prior to this survey and vocational training courses has been selected but had not yet started. A second follow-up survey was collected between <ref type="bibr">August 2008</ref><ref type="bibr">and May 2009</ref><ref type="bibr">(henceforth referred to as 2008)</ref>. At this point, households had stopped receiving transfers and any related program benefits for an average of two years. As the first follow-up survey was done while some program activities were still under implementation, this paper primarily focuses on the second follow-up survey.</p><p xml:id="_Zyv5eSd">Thanks to thorough tracking procedures, attrition compared to the baseline was minimal, less than 2.4 percent in 2008, and is uncorrelated with treatment status (P-value = 0.54). Differences in attrition rates between treatment groups are also very small and not significant (P-value = 0.67). The sample includes 972 households eligible for the vocational training, 990 households eligible for the business grant, and 996 households in the control. <ref type="foot" target="#foot_2">7</ref>The surveys included comprehensive information on household socioeconomic status, including detailed modules for expenditures and economic activities. <ref type="foot" target="#foot_3">8</ref> The baseline survey included specific questions regarding households demand and preferences for potential programs that could help increase their income. It also included detailed modules on household asset endowments (durables, land, livestock), credit access, demographics, dwelling characteristics, education, and remoteness. We use this information, together with the information on baseline economic activities, to analyze the heterogeneity of program impacts. The second follow-up survey in addition included a labor market history module as well as a specific module on households' nonagricultural self-employment activities, which together with the module on economic activities in the last 12 months is used to define the outcome variables.</p><p xml:id="_JwQDwzG">Finally, we draw on the first follow-up survey to obtain a measure of how the program impacted attitudes towards the future early during program implementation. The sample size for the attitudes questions is lower (1519 households equally divided between productive investment grant, training and control households) as they were part of an additional questionnaire administered only to primary caregivers of children between 0 and 8. We specifically use a set of variables measuring households' attitudes towards the future that were asked following the structure of the CESD questions, a widely-used measure of depression <ref type="bibr" target="#b34">(Radloff, 1977)</ref>. <ref type="foot" target="#foot_4">9</ref>Methodology Given the randomized assignment and the high take-up rates, we can estimate intent-to-treat estimates that are very close to average treatment effects, without concerns about potential selectivity into treatment. Specifically, we consider the impacts of the vocational training package and the productive investment package and estimate the following intent-to-treat household-level regressions:</p><formula xml:id="formula_0">Y= α 1 Grant + α 2 Training + βZ + γ 1 Grant*Z + γ 2 Training*Z +δX+ ε,<label>(1)</label></formula><p xml:id="_H4xrGnF">where Y are outcomes of interest, Grant and Training capture the random treatment assignment, Z is the set of baseline variables for which we analyze treatment heterogeneity, and X includes additional baseline controls as well as block stratification dummies. <ref type="foot" target="#foot_5">10</ref> All errors are clustered at the community level.</p><p xml:id="_BtuW2qy">The outcomes of interest Y include the participation and returns to nonagricultural wage and selfemployment activities two years after the end of the intervention. As the interventions were targeted at the household level, the analysis focuses on household level outcomes. Participation in nonagricultural wage employment takes the value 1 if at least one household member had a non-agricultural wage job at some point during the last 12 months, and 0 otherwise. Participation in nonagricultural self-employment takes the value 1 if at least one household member had a nonagricultural self-employment activity at some point during the last 12 months and 0 otherwise. We use two different variables to measure returns to nonagricultural self-employment, one that measures profits of any non-agricultural self-employment activity the household was active in at the moment of the interview and a second that aggregates gross income of all nonagricultural self-employment income in the last 12 months. While the latter has the disadvantage of not accounting for costs, it provides a longer reference period. The type of nonagricultural selfemployment activities captured by these variables include activities such as food production, small manufacturing, commerce, services, or rearing of small livestock and selling of derived products. All these correspond to activities that households could have started up with the business grant or with the skills obtained during vocational training.</p><p xml:id="_WY5pgNj">To measure returns in wage employment, we also use two variables. The first include all salaries of wage jobs received by all household members in the last 12 months. The second only considers jobs in the private sector by excluding professional jobs as teachers or nurses, for which the vocational training would not have provided appropriate skills. The private sector jobs include jobs in bakeries, maquiladoras, construction, or basic office work for which obtained skills from the vocational training may have been relevant. Finally, and in order to establish whether impact heterogeneity in nonagricultural activities translate in household welfare, we also include household per capita expenditures as one of the outcome variables.</p><p xml:id="_w9j2Mqp">To shed light on the potential gains from targeting on commonly used baseline characteristics, we analyze the heterogeneity in treatment effects along three different dimensions (captured by the interaction terms in equation 1): stated baseline demand, baseline participation in nonagricultural activities, and baseline asset endowments.</p><p xml:id="_cR9JXzy">The first set of estimations aims to shed light on heterogeneity by baseline demand. We estimate equation 1 with Z capturing households' stated preferences for different types of productive interventions at baseline. As many interventions are specifically demand-driven, this allows to assess the extent to which demand-driven targeting would have increased average participation or returns to nonagricultural activities. In the second set of estimations, Z measures whether the household was active in nonagricultural wage or self-employment at baseline. As another popular eligibility criterion for many interventions is prior participation in the targeted activities, this allows analyzing whether impacts are higher for households already owning a micro-business or engaging in wage work.</p><p xml:id="_68ZKYYV">The third set of estimations aims to shed light on potential heterogeneity on a wide set of baseline asset endowments. One could hypothesize returns to be higher for households with complementary assets, which might lead to eligibility criteria for productive interventions including such endowments. We specifically consider households' baseline endowments of capital, education, experience, labor and access to markets (remoteness). We also consider dwelling characteristics as they are included in Nicaragua's proxy means measure for poverty.</p><p xml:id="_AXTX2fZ">For these estimates, many different variables could be considered for each domain, and a priori it is not necessarily clear which variable should be preferred for targeting purposes. This could lead to a very large set of interaction effects in our estimations, which can be hard to interpret. We address this dimensionality issue in two complementary ways. First, for each domain we consider 4 to 10 different variables, standardize each of them by subtracting the sample mean and dividing by the sample standard deviation, and define Z as the average of these standardized measures. This approach gives each of the possible variables equal weight and allows for easy interpretation on whether the variables in that domain are related to higher or lower impacts. Alternatively, we include all the variables separately in Z, and consider the F-test of the joint significance of all the variables in each domain. The advantage of this approach is that we can identify heterogeneity in cases when only a few variables in the domain might matter. The specific variables included for each of the domains for both approaches are listed in the appendix.</p><p xml:id="_VEmaZ5K">In addition to the three dimensions above, we also explore whether impacts vary along baseline poverty, which we measure using detailed baseline expenditure data. Consumption-based poverty is likely to capture a number of unobservable household characteristics that might not be explained by observed asset endowments. As an alternative proxy for baseline expenditures, we therefore also analyze heterogeneity using the official proxy means formula developed by the Nicaraguan government for poverty targeting.</p><p xml:id="_8WFhC2Y">Following standard practice, we define a household as poor if baseline per capita expenditures are below the national poverty line for Nicaragua. When we do this, 64% of the households in the sample are poor when using actual baseline expenditures and 68% when using the proxy means formula. Analyzing heterogeneity by poverty level helps to shed light on the potential costs of pro-poor targeting of productive interventions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4." xml:id="_Cmwb8zm">Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_EKebBPm">Average impact</head><p xml:id="_SjnzZRn">Before turning to impact heterogeneity, Table <ref type="table" target="#tab_0">1</ref> shows the average program impacts on household employment and returns in nonagricultural activities. Being eligible for the business grant significantly increases participation, gross income and profits from non-agricultural self-employment, as well as per capita expenditures. The business grant has no significant effect on wage employment and related income.</p><p xml:id="_mY3WA5w">Training significantly increases non-agricultural private sector wage income, but on average reduces profits from non-agricultural businesses. This is consistent with a partial substitution from selfemployment to wage employment along the intensive margin, even if non-agricultural self-employment also increases along the extensive margin. The impact on per capita expenditures is positive but not significant.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_e2XB5jD">Impact heterogeneity and stated demand</head><p xml:id="_DnH8xfC">We now turn to studying whether targeting these interventions on observed baseline characteristics would have resulted in higher returns. First, to analyze potential returns to targeting on demand, we use a set of questions from the baseline survey asking households to state their demands for different types of programs. Households were asked in an open question which type of intervention they would prefer in order to increase their incomes. In this open question, none of the households asked for training. About 30% expressed spontaneous demand for credit, indicating a potential liquidity constraint limiting productive investments which the grant could address (Table <ref type="table">2</ref>). The majority of households (55%) expressed spontaneous demand for temporary unskilled employment in public works, such as cash-forwork programs. This likely reflects more severe cash constraints, suggesting need for cash for daily expenditures, rather than productive investments. In a following question, households were asked specifically for their interest in training. They were also asked to indicate their preference between the income generating intervention they had stated first (in the open question), and the training option they had mentioned when probed. Almost half of households stated they were indifferent between both options, while 38% preferred training. Among those, only 13% preferred non-agricultural training.</p><p xml:id="_KP6hwYQ">Overall, these patterns seem to indicate weak demand for liquidity for investment in business development and for training in skills for nonagricultural employment. Table <ref type="table">2</ref> further shows that stated demand differs significantly between the poor and the non-poor, with the poor less likely to ask for credit or agricultural training, and more likely to ask for cash-for-work programs or to be indifferent.</p><p xml:id="_bQ6w98X">We use this stated demand to analyze whether returns to grants or training are higher for households with preferences for those interventions. In particular, since spontaneous demand for credit suggests households perceive cash constraints for productive investments, we analyze whether the returns to the cash grants are higher for households stating such demand. We also show heterogeneity by demand for the cash-for-work program. Similarly, we analyze whether returns to vocational training are higher for those expressing preference for non-agricultural training, or more broadly for any type of training. Table <ref type="table" target="#tab_1">3</ref> shows that impacts for households with baseline demands consistent with either the business grant or the training are not higher than those for other households. If anything, many of the interaction effects are negative (though mostly not significant). Households with stated demand for credit are neither more likely to participate in nonagricultural self-employment when they receive the cash grant, nor do they have higher returns in such activities. And households who stated preferences for non-agricultural training and subsequently were randomly selected to receive nonagricultural training are not more likely to increase participation in nonagricultural wage or self-employment, nor do they get higher incomes from such activities. Overall these results do not support targeting on stated baseline demand.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_U8RacGC">Impact heterogeneity and baseline characteristics</head><p xml:id="_5jXj896">Table <ref type="table" target="#tab_2">4</ref> shows whether returns are higher for people whose baseline activities are already in line with the type of activities the interventions promote. This corresponds to the approach of many credit or business grant programs, which target existing entrepreneurs. Such targeting might seem rational as existing activities might be suggestive of the absence of other constraints. However, results in Table <ref type="table" target="#tab_2">4</ref> show that households with nonagricultural self-employment at baseline do not have significantly higher returns to the cash grant than those without. Similarly, returns to vocational training are not higher for households that already had non-wage employment. A similar conclusion is reached when analyzing heterogeneity on whether the household was active in nonagricultural activities in wage or self-employment at baseline.</p><p xml:id="_kPedv3p">Next, we analyze whether impacts differ along a wide range of household assets and skills. This is of interest, as many programs include eligibility rules requiring households to have a minimum level of complementary assets or skills. In order to do so, we consider a wide set of baseline characteristics measuring households' capital, education, experience and labor endowments, as well as their remoteness and dwelling characteristics. As discussed above, for each of those dimensions we use a number of different variables, and analyze heterogeneity of impacts on those dimensions in two different ways. First, we construct an index using standardized measures of all the variables for each dimension. Second, we interact each of the variables together and investigate the joint significance of all the interaction effects.</p><p xml:id="_6yMCDGK">To present the findings, we divide Table <ref type="table">5</ref> in three parts. Table <ref type="table">5A</ref> shows the β coefficients from estimations of equation (1) using the asset endowment indices, and the corresponding P-values for the joint F-tests for the regressions with all variables separately. These capture the relationship between the asset indices and the outcomes in the control group, Tables <ref type="table">5B</ref> and <ref type="table">5C</ref> then show the γ coefficients from the same estimations of equation ( <ref type="formula" target="#formula_0">1</ref>) using the asset indices, which establishes whether the impacts of the grant and the training vary by the different asset endowments. It also shows the P-values for the joint Ftests of the interaction effects for all variables separately. Table <ref type="table">5A</ref> establishes that the asset variables are significantly related to participation in and return to nonagricultural activities in the control communities, possibly indicative of the role of such assets for household non-agricultural activities in absence of any intervention. Both the asset indices and the joint Ftests indicate that the capital, education and experience variables are strongly correlated with participation and returns to nonagricultural activities in the control. Households with more capital and higher education endowments tend to have higher profits and higher nonagricultural wage income in absence of the program. Households with better dwellings also have higher nonagricultural wage and self-employment income.</p><p xml:id="_eVuGUxY">However, when analyzing heterogeneity of impacts along these dimensions we find remarkably little. For the grant treatment, Table <ref type="table">5B</ref> shows no significant heterogeneity along those same dimensions. Almost none of the interactions or joint F-tests are significant. For the training intervention (Table <ref type="table">5C</ref>), again there are no clear heterogeneity patterns, and overall few significant results. That said, as there a few more significant results for training, it is worth discussing in which direction they point. Only one of them is consistent with complementarities between existing asset endowments and the new skills. In particular, the impact of training on wage employment in the private sector increases with education. However, the other significant results point in the opposite direction. Notably, the joint F-tests show that the impact of training on profits is higher for households with less capital and less labor endowments. Also, the significant F-tests for the interaction between training and dwelling characteristics are driven by higher impact on profits for households with lower quality dwellings. Finally more remote households are more likely to enter non-agricultural self-employment when they receive training compared to less remote households. Overall, the results in Table <ref type="table">5</ref> suggest that targeting on the observed availability of complementary assets would not have led to higher returns in this context. <ref type="foot" target="#foot_6">11</ref> This does not necessarily mean that complementarities might not be important, but may indicate that observing them at baseline (as is necessary for targeting) might be hard.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_HnCKhRN">Impact heterogeneity and poverty</head><p xml:id="_7xMBfyz">The results so far suggest no clear benefit of targeting on stated demand, baseline activities or observed availability of complementary asset endowments. We thus turn to one last set of tests, exploring if there are productivity or efficiency trade-offs from pro-poor targeting. Table <ref type="table" target="#tab_3">6</ref> explores program impacts by baseline poverty, and reveals significant heterogeneity. <ref type="foot" target="#foot_7">12</ref> The increase in participation in non-agricultural self-employment is significantly higher for the poor than for the non-poor, and profits are also higher (though not significantly so) for the poor. Training on the other hand leads to a significant and substantial increase in wage income and a reduction in business income for the non-poor (suggesting a partial substitution from self to wage employment), but this pattern is remarkably different for the poor, who increase participation in non-agricultural self-employment. Hence, there is heterogeneity in the channels through which the poor take advantage of the vocational training compared to the non-poor. Importantly, this does not come at the cost of the overall impact of the program on per capita expenditures, where there is no significant difference between poor and non-poor households. Overall, targeting the interventions to poor households in this context hence does not come at the cost of reducing the overall program impacts.</p><p xml:id="_6tymdkC">From a practical point of view, it is typically not feasible to collect the type of detailed expenditure data we use here to construct the poverty variable for the purpose of program targeting. Instead, programs often use proxy means measures based on easily observables baseline characteristics to obtain a proxy measure of poverty that can then be used for targeting. In Table <ref type="table" target="#tab_4">7</ref> we show heterogeneity by poverty using the official proxy means formula developed in Nicaragua (see above). Overall, while the results point in the same direction as those obtained with actual per capita expenditures, they are generally not significant. <ref type="foot" target="#foot_8">13</ref></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_AW3G5hq">Endogenous Aspirations</head><p xml:id="_VN9RmwH">Heterogeneity in outcomes hence appears related to characteristics that are harder to target on. This could be either because they were unobserved at baseline, because they were not revealed by stated baseline demand, or because they can be affected by the intervention itself. Recall that stated demand for the productive investment intervention was lower among the poor (Table <ref type="table">2</ref>). Low baseline demand for productive interventions does not necessarily imply that expected returns to productive interventions are low. Indeed, such low demand could also be driven by low aspirations. If aspirations change once households start participating in program activities, preferences for the productive interventions may in turn evolve, which can lead to higher returns. Such shifts in preferences due to the intervention can make baseline demand information ineffective for targeting.</p><p xml:id="_fTwa8A3">To shed suggestive light on this hypothesis we rely on the data collected in 2006, during the implementation of both the training and the business grant interventions. When the data was collected, households eligible for training had selected and enrolled in the courses, but the courses had not yet started. Households eligible for the business grant had received the grant 2 to 3 months prior to data collection. Some had started to make the investments, but in many cases it was too early to have income from these investments. As such, by analyzing impacts of the intervention on households' perspectives on the future at that moment, we arguably have an indication of how participation in the intervention itself might have changed households' aspirations.</p><p xml:id="_kRVjvfa">Table <ref type="table" target="#tab_5">8</ref> shows that both the training and the business grant positively affected the way households were thinking about their own future. On average, the grant increased positive attitudes with .22 of a standard deviation, while the training increased them with .13. Beneficiaries were in particular more optimistic and had stronger feelings that they were moving forward in life. While these impacts are similar for the poor and the less-poor (not shown), these changes potentially could have been more consequential for the poor, as they had lower aspirations in absence of the program (bottom 2 rows), and expressed lower demand for productive interventions than the non-poor at baseline (see Table <ref type="table">2</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5." xml:id="_8wbcGcm">Conclusions</head><p xml:id="_jdp42dZ">Interventions aimed at increasing the income generating capacity of the poor have proliferated and have a potentially important role to play in reducing poverty in many developing countries. There remain fundamental questions on how to target productive interventions to reach this goal. This paper analyzes the potential returns to several common targeting mechanisms by taking advantage of an usual experiment with near universal targeting and very high take up of vocational training and business grants in poor rural communities in Nicaragua. We analyze the impact of these interventions on participation in, and returns to, nonagricultural activities, 2 years after they ended.</p><p xml:id="_haP8St8">The results reveal no substantial heterogeneity by stated demand, baseline activities or observed asset endowments. We infer that targeting on these types of baseline observables would not have increased the impact of the programs. We do however find substantial heterogeneity by poverty level, and show that pro-poor targeting does not come at the cost of reducing the overall impacts of these interventions. The results further highlight that self-targeting -which is based on baseline demand -can lead to important exclusion errors. We hypothesize that self-targeting may reduce the poverty-reduction potential of these types of interventions when low aspirations limit the poor's ex-ante demand for productive interventions, and when the interventions have the potential to increase those aspirations. Analyzing this hypothesis through new experiments where variation in targeting can be combined with exogenous variation in aspirations could help shed light on the importance of such a mechanism.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_sugYQbc">Appendix: Variables used to measure baseline asset endowments</head><p xml:id="_jqrftnK">Baseline variables used to measure capital endowment include (1) the number of durable goods possessed by the household, (2) log(land size owned), (3) log(animal value owned), ( <ref type="formula">4</ref>) log(number of animals owned), and dummy variables capturing (5) whether the household owns any land, (6) owns any animals, (7) has registered title to house, (8) has any credit, (9) formal credit, and (10) informal credit.</p><p xml:id="_fGjzufM">Baseline variables used to measure education endowment include (1) literacy of the household head and</p><p xml:id="_vbmkVhF">(2) literacy of the main beneficiary, (3) the years of education of the main beneficiary, and (4) a dummy indicating whether the main beneficiary completed primary education.</p><p xml:id="_GEnzht6">Baseline variables used to measure experience are dummy variables measuring (1) whether the household had prior experience with nonagricultural business, as well as dummy variables indicating whether when the main beneficiary was growing up, (2) her mother, (3) her father, or (4) any other household member had a business.</p><p xml:id="_UcaHp8E">Baseline variables used to measure labor endowment are (1) the number of men and (2) the number of women between 15 and 64, and (3) whether the household head is male. They also include (4) the age of the household head and (5) the age of the main beneficiary as well as the number of dependents <ref type="bibr">((6)</ref> number of household members between 0 and 5, (7) between 5 and 15, and (8) 65 or older). As the second set of variables are likely to reduce effective labor endowment, we multiple the standardized value with -1 to add them to the labor index.</p><p xml:id="_2YMSAKH">Baseline variables used to measure remoteness is (1) the travel time to school, (2) to the health center, and</p><p xml:id="_hJDvNsB">(3) to the main town of the municipality, as well as (4) the distance in kilometers to the main town of the municipality.</p><p xml:id="_5zDU2aW">Dwelling characteristics include (1) the number of rooms, and dummies capturing (2) whether the dwelling is a house (as opposed to a hut or shack), (3) whether the walls are concrete or similar material, and (4) whether the household cooks with wood. As this last variable indicates low quality housing, the standardized value is multiplied with -1 when adding to the dwelling index. These dwelling characteristics are used since they are included in Nicaragua proxy means measure for poverty.   Table 5A: Relationship between baseline assets and outcomes in control (1) (2) (3) (4) (5) (6) (7) ln (per capita expenditures) Has nonagricultural selfemployment Has nonagricultural wage job Profits in nonagricultural selfemployment Brut income in nonagricultural self employment Nonagricultural wage income Nonagriculture wage income in private sector capital index 0.130*** 0.0229 0.0500 1,099*** 1,045* 2,557*** 443.9 (0.0348) (0.0328) (0.0318) (324.3) (531.1) (743.7) (624.4) education index 0.106*** 0.0607** 0.102*** 551.6** 794.7** 2,091*** 1,000** (0.0206) (0.0237) (0.0209) (220.9) (345.7) (505.6) (426.7) experience index 0.0793*** 0.114*** 0.0342 609.3*** 585.7** 556.9 461.7 (0.0198) (0.0235) (0.0260) (185.7) (228.2) (410.1) (346.1) labor (demographics) index -0.0287 0.0342 0.0974*** 662.0*** 689.6 2,113*** 1,952*** (0.0459) (0.0363) (0.0272) (242.7) (422.4) (677.8) (686.4) remoteness index 0.0252 -0.00368 -0.0370 -290.5 -478.1 -36.97 -237.6 (0.0339) (0.0300) (0.0362) (279.7) (377.1) (928.3) (677.8) dwelling index 0.103*** 0.105*** 0.0783*** 669.4** 1,941** 1,408** 410.6 (0.0271) (0.0245) (0.0246) (314.6) (963.2) (654.6) (545.9) P-value joint F-test 10 capital var. 0.000*** 0.278 0.018** 0.000*** 0.000*** 0.003*** 0.626 P-value joint F-test 4 education var. 0.000*** 0.016** 0.000*** 0.035** 0.114 0.000*** 0.003*** P-value joint F-test 4 experience var. 0.000*** 0.000*** 0.290 0.000*** 0.000*** 0.409 0.333 P-value joint F-test 8 labor var. 0.000*** 0.000*** 0.000*** 0.0294 0.587 0.476 0.002*** P-value joint F-test 4 access var. 0.367 0.355 0.645 0.587 0.077* 0.581 0.525 P-value joint F-test 4 dwelling var. 0.000*** 0.000*** 0.020** 0.001*** 0.000*** 0.007*** 0.017** Note: N=2954. Partial results of estimations of equation (1) -see appendix 1 for variable definition and Table 5B and 5C for additional results. *** p&lt;0.01, ** p&lt;0.05, * p&lt;0.1, s.e. (in parentheses) clustered at community level. All regressions control for baseline outcome (when available), demographics, participation in different economic activities, distance to school and health center, land and animal holdings, and stratification block fixed effects. Income and profit variables exclude 1% largest outliers.</p><p xml:id="_Xkcm7zE">Table 5B: Heterogeneity of business grant and baseline asset endowments (1) (2) (3) (4) (5) (6) (7) ln (per capita expenditures) Has nonagricultural selfemployment Has nonagricultural wage job Profits in nonagricultural selfemployment Brut income in nonagricultural self employment Nonagricultural wage income Nonagriculture wage income in private sector grant*capital -0.0541 0.0219 -0.0274 -504.5 180.4 -1,713* -551.8 (0.0385) (0.0383) (0.0367) (393.3) (674.8) (1,027) (819.5) grant*education -0.0364 0.00273 0.00605 354.3 372.4 611.0 -349.8 (0.0245) (0.0290) (0.0238) (253.4) (393.2) (658.6) (515.2) grant*experience -0.00810 -0.0209 -0.0250 250.6 494.6 -179.7 -249.2 (0.0258) (0.0314) (0.0338) (271.7) (348.6) (743.0) (610.2) grant*labor (demographics) -0.132** 0.0240 -0.0210 -138.2 -5.917 -1,193 -1,154 (0.0557) (0.0560) (0.0432) (362.0) (668.1) (1,100) (1,033) grant*remoteness 0.0610 0.0875 0.0212 -301.0 -37.19 182.5 -142.4 (0.0463) (0.0528) (0.0448) (382.6) (696.3) (1,150) (875.3) grant*dwelling characteristics 0.0412 -0.00755 -0.0217 251.7 180.0 145.1 839.4 (0.0306) (0.0269) (0.0286) (246.8) (399.2) (756.2) (593.1) P-value joint F-test 10 capital var.*grant 0.640 0.557 0.135 0.717 0.244 0.247 0.560 P-value joint F-test 4 education var.*grant 0.323 0.557 0.496 0.236 0.079* 0.747 0.973 P-value joint F-test 4 experience var.*grant 0.201 0.205 0.803 0.751 0.485 0.766 0.704 P-value joint F-test 8 labor var.*grant 0.081* 0.200 0.522 0.142 0.568 0.719 0.910 P-value joint F-test 4 remoteness var.*grant 0.001*** 0.507 0.855 0.136 0.596 0.487 0.277 P-value joint F-test 4 dwelling var.*grant 0.822 0.382 0.263 0.095* 0.127 0.251 0.368 Note: N=2954. Partial results of estimations of equation (1) -see appendix 1 for variable definition and Table 5A and 5C for additional results. *** p&lt;0.01, ** p&lt;0.05, * p&lt;0.1, s.e. (in parentheses) clustered at community level. All regressions control for baseline outcome (when available), demographics, participation in different economic activities, distance to school and health center, land and animal holdings, and stratification block fixed effects. Income and profit variables exclude 1% largest outliers.</p><p xml:id="_ye6at3q">Table 5C: Heterogeneity of impact training and baseline asset endowments (1) (2) (3) (4) (5) (6) (7) ln (per capita expenditures) Has nonagricultural selfemployment Has nonagricultural wage job Profits in nonagricultural selfemployment Brut income in nonagricultural self employment Nonagricultural wage income Nonagriculture wage income in private sector training*capital -0.0428 0.0526 -0.0297 -624.3 403.0 -1,153 192.8 (0.0417) (0.0366) (0.0374) (407.6) (592.9) (1,033) (809.8) training*education -0.000386 0.0107 0.00498 92.32 79.54 920.8 1,249** (0.0291) (0.0266) (0.0261) (279.3) (390.4) (757.2) (615.0) training*experience 0.0360 0.00420 0.00864 -195.5 472.4 -98.14 502.3 (0.0280) (0.0301) (0.0345) (264.0) (371.1) (627.5) (596.5) training*labor (demographics) -0.123** -0.0276 -0.00527 -288.8 177.7 -371.2 256.3 (0.0616) (0.0521) (0.0435) (365.5) (592.8) (1,200) (1,100) training*remoteness 0.0821 0.127** -0.00328 -141.0 -445.7 -1,276 -1,388 (0.0556) (0.0548) (0.0480) (360.7) (637.0) (1,288) (1,015) training*dwelling characteristics 0.0344 -0.0113 0.0212 89.55 487.1 3.430 -234.3 (0.0265) (0.0308) (0.0281) (190.7) (315.7) (708.1) (521.0) P-value joint F-test 10 capital var.*training 0.471 0.236 0.313 0.027** 0.071* 0.070* 0.525 P-value joint F-test 4 education var.*training 0.983 0.647 0.191 0.798 0.800 0.229 0.123 P-value joint F-test 4 experience var.*training 0.532 0.742 0.422 0.971 0.629 0.631 0.386 P-value joint F-test 8 labor var.*training 0.432 0.007*** 0.370 0.004*** 0.377 0.471 0.422 P-value joint F-test 4 remoteness var.*training 0.261 0.740 0.623 0.111 0.579 0.850 0.454 P-value joint F-test 4 dwelling var.*training 0.497 0.492 0.357 0.035** 0.036** 0.470 0.634 Note: N=2954. Partial results of estimations of equation (1) -see appendix 1 for variable definition and Table 5A and 5B for additional results. *** p&lt;0.01, ** p&lt;0.05, * p&lt;0.1, s.e. (in parentheses) clustered at community level. All regressions control for baseline outcome (when available), demographics, participation in different economic activities, distance to school and health center, land and animal holdings, and stratification block fixed effects. Income and profit variables exclude 1% largest outliers.   </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><figDesc xml:id="_B6sKzen">The first CCT payments were made in November 2005. The selection of the vocational training course and for the business grants occurred in the spring of 2006. The business grants were disbursed at the end of May 2006, and the vocational training courses took place between September and December 2006. All components of the program ended by December 2006.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 : Average impacts of business grant and training on household expenditures and non-agricultural economic activities</head><label>1</label><figDesc xml:id="_ZJfEBwG">N=2954. ITT estimates, *** p&lt;0.01, ** p&lt;0.05, * p&lt;0.1, s.e. (in parentheses) clustered at community level. All regressions control for baseline outcome (when available), demographics, participation in different economic activities, distance to school and health center, land and animal holdings, and stratification block fixed effects. Income and profit variables exclude 1% largest outliers.</figDesc><table><row><cell></cell><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell><cell>(4)</cell><cell>(5)</cell><cell>(6)</cell><cell>(7)</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Profits in</cell><cell>Brut income</cell><cell></cell><cell>Non-</cell></row><row><cell></cell><cell></cell><cell>Has non-</cell><cell></cell><cell>non-</cell><cell>in non-</cell><cell></cell><cell>agriculture</cell></row><row><cell></cell><cell></cell><cell>agricultural</cell><cell>Has non-</cell><cell>agricultural</cell><cell>agricultural</cell><cell>Total non-</cell><cell>wage income</cell></row><row><cell></cell><cell>ln (per capita</cell><cell>self-</cell><cell>agricultural</cell><cell>self-</cell><cell>self</cell><cell>agricultural</cell><cell>in private</cell></row><row><cell></cell><cell>expenditures)</cell><cell>employment</cell><cell>wage job</cell><cell>employment</cell><cell>employment</cell><cell>wage income</cell><cell>sector</cell></row><row><cell>grant</cell><cell>0.0836***</cell><cell>0.123***</cell><cell>-0.0187</cell><cell>600.1***</cell><cell>1,187***</cell><cell>-48.06</cell><cell>-293.5</cell></row><row><cell></cell><cell>(0.0208)</cell><cell>(0.0189)</cell><cell>(0.0200)</cell><cell>(144.7)</cell><cell>(241.4)</cell><cell>(547.0)</cell><cell>(428.5)</cell></row><row><cell>training</cell><cell>0.0281</cell><cell>0.0376*</cell><cell>0.0207</cell><cell>-299.2**</cell><cell>-68.80</cell><cell>509.4</cell><cell>924.3**</cell></row><row><cell></cell><cell>(0.0205)</cell><cell>(0.0195)</cell><cell>(0.0222)</cell><cell>(149.7)</cell><cell>(240.3)</cell><cell>(527.8)</cell><cell>(440.1)</cell></row><row><cell>Mean control</cell><cell>9.131</cell><cell>0.381</cell><cell>0.358</cell><cell>1,579</cell><cell>2,820</cell><cell>4,950</cell><cell>3,559</cell></row><row><cell>R-squared</cell><cell>0.317</cell><cell>0.129</cell><cell>0.137</cell><cell>0.146</cell><cell>0.151</cell><cell>0.198</cell><cell>0.126</cell></row><row><cell>Note:</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 3 : Impacts of business grant and training by baseline demand</head><label>3</label><figDesc xml:id="_ZyJPBPb">Note: N=2954. ITT estimates, *** p&lt;0.01, ** p&lt;0.05, * p&lt;0.1, s.e. (in parentheses) clustered at community level. All regressions control for baseline outcome (when available), demographics, participation in different economic activities, distance to school and health center, land and animal holdings, and stratification block fixed effects. Income and profit variables exclude 1% largest outliers.</figDesc><table><row><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell><cell>(4)</cell><cell>(5)</cell><cell>(6)</cell><cell>(7)</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Profits in</cell><cell>Brut income</cell><cell></cell><cell>Non-</cell></row><row><cell></cell><cell></cell><cell></cell><cell>non-</cell><cell>in non-</cell><cell></cell><cell>agriculture</cell></row><row><cell></cell><cell>Has non-</cell><cell></cell><cell>agricultural</cell><cell>agricultural</cell><cell>Non-</cell><cell>wage</cell></row><row><cell>ln (per capita</cell><cell>agricultural</cell><cell>Has non-</cell><cell>self-</cell><cell>self</cell><cell>agricultural</cell><cell>income in</cell></row><row><cell>expenditures</cell><cell>self-</cell><cell>agricultural</cell><cell>employmen</cell><cell>employmen</cell><cell>wage</cell><cell>private</cell></row><row><cell>)</cell><cell>employment</cell><cell>wage job</cell><cell>t</cell><cell>t</cell><cell>income</cell><cell>sector</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 4 : Impacts of business grant and training by baseline activity</head><label>4</label><figDesc xml:id="_snh9qk6">Note: N=2954. ITT estimates, *** p&lt;0.01, ** p&lt;0.05, * p&lt;0.1, s.e. (in parentheses) clustered at community level. All regressions control for baseline outcome (when available), demographics, participation in different economic activities, distance to school and health center, land and animal holdings, and stratification block fixed effects. Income and profit variables exclude 1% largest outliers.</figDesc><table><row><cell></cell><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell><cell>(4)</cell><cell>(5)</cell><cell>(6)</cell><cell>(7)</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Non-</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Profits in</cell><cell>Brut income</cell><cell></cell><cell>agriculture</cell></row><row><cell></cell><cell></cell><cell>Has non-</cell><cell></cell><cell>non-</cell><cell>in non-</cell><cell>Non-</cell><cell>wage</cell></row><row><cell></cell><cell></cell><cell>agricultural</cell><cell>Has non-</cell><cell>agricultural</cell><cell>agricultural</cell><cell>agricultural</cell><cell>income in</cell></row><row><cell cols="2">ln (per capita</cell><cell>self-</cell><cell>agricultural</cell><cell>self-</cell><cell>self</cell><cell>wage</cell><cell>private</cell></row><row><cell cols="2">expenditures)</cell><cell>employment</cell><cell>wage job</cell><cell>employment</cell><cell>employment</cell><cell>income</cell><cell>sector</cell></row><row><cell>HETEROGENEITY IMPACT INVESTMENT GRANT</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Grant * Non-agr. self. employment</cell><cell>-0.0687</cell><cell>-0.0619</cell><cell></cell><cell>539.7</cell><cell>818.0</cell><cell>932.7</cell><cell>-125.7</cell></row><row><cell></cell><cell>(0.0608)</cell><cell>(0.0529)</cell><cell>(0.0525)</cell><cell>(666.6)</cell><cell>(839.1)</cell><cell>(1,445)</cell><cell>(1,002)</cell></row><row><cell>Non-agr. self. employment</cell><cell>0.0795*</cell><cell>0.228***</cell><cell>0.0812**</cell><cell>1,966***</cell><cell>2,209***</cell><cell>436.2</cell><cell>762.0</cell></row><row><cell></cell><cell>(0.0477)</cell><cell>(0.0397)</cell><cell>(0.0362)</cell><cell>(429.4)</cell><cell>(528.7)</cell><cell>(912.5)</cell><cell>(762.5)</cell></row><row><cell>Grant * Non-agr. self or wage employment</cell><cell>-0.0687</cell><cell>-0.0244</cell><cell>0.0109</cell><cell>181.3</cell><cell>115.4</cell><cell>2,540*</cell><cell>409.0</cell></row><row><cell></cell><cell>(0.0446)</cell><cell>(0.0445)</cell><cell>(0.0500)</cell><cell>(417.3)</cell><cell>(562.1)</cell><cell>(1,415)</cell><cell>(986.9)</cell></row><row><cell>Non-agr. self or wage employment</cell><cell>0.0561</cell><cell>0.0327</cell><cell>0.0947**</cell><cell>1,331***</cell><cell>1,651***</cell><cell>580.2</cell><cell>574.7</cell></row><row><cell></cell><cell>(0.0382)</cell><cell>(0.0413)</cell><cell>(0.0395)</cell><cell>(280.9)</cell><cell>(344.4)</cell><cell>(956.5)</cell><cell>(655.4)</cell></row><row><cell>HETEROGENEITY IMPACT TRAINING</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Training * Non-agr. wage employment</cell><cell>0.0541</cell><cell>0.0151</cell><cell>-0.0458</cell><cell>397.3</cell><cell>-172.4</cell><cell>-1,019</cell><cell>180.6</cell></row><row><cell></cell><cell>(0.0550)</cell><cell>(0.0621)</cell><cell>(0.0576)</cell><cell>(491.8)</cell><cell>(566.7)</cell><cell>(1,587)</cell><cell>(1,210)</cell></row><row><cell>Non-agr. wage employment</cell><cell>-0.00303</cell><cell>-0.0374</cell><cell>0.190***</cell><cell>-140.3</cell><cell>434.6</cell><cell>798.1</cell><cell>165.6</cell></row><row><cell></cell><cell>(0.0264)</cell><cell>(0.0466)</cell><cell>(0.0383)</cell><cell>(312.8)</cell><cell>(393.9)</cell><cell>(1,209)</cell><cell>(713.5)</cell></row><row><cell>Training * Non-agr. self or wage employment</cell><cell>0.0362</cell><cell>-0.0188</cell><cell>-0.0285</cell><cell>-495.9</cell><cell>-672.1</cell><cell>-312.7</cell><cell>20.46</cell></row><row><cell></cell><cell>(0.0474)</cell><cell>(0.0508)</cell><cell>(0.0475)</cell><cell>(397.3)</cell><cell>(563.7)</cell><cell>(1,280)</cell><cell>(1,020)</cell></row><row><cell>Non-agr. self or wage employment</cell><cell>0.0561</cell><cell>0.0327</cell><cell>0.0947**</cell><cell>1,331***</cell><cell>1,651***</cell><cell>580.2</cell><cell>574.7</cell></row><row><cell></cell><cell>(0.0382)</cell><cell>(0.0413)</cell><cell>(0.0395)</cell><cell>(280.9)</cell><cell>(344.4)</cell><cell>(956.5)</cell><cell>(655.4)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 6 : Impacts of business grant and training by poverty level based on baseline per capita expenditures</head><label>6</label><figDesc xml:id="_M9Uz8Vw">Note: N=2954. ITT estimates, *** p&lt;0.01, ** p&lt;0.05, * p&lt;0.1, s.e. (in parentheses) clustered at community level. All regressions control for baseline outcome (when available), demographics, participation in different economic activities, distance to school and health center, land and animal holdings, and stratification block fixed effects. Income and profit variables exclude 1% largest outliers</figDesc><table><row><cell></cell><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell><cell>(4)</cell><cell>(5)</cell><cell>(6)</cell><cell>(7)</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Non-</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Brut income in</cell><cell></cell><cell>agriculture</cell></row><row><cell></cell><cell></cell><cell>Has non-</cell><cell></cell><cell>Profits in non-</cell><cell>non-</cell><cell>Non-</cell><cell>wage</cell></row><row><cell></cell><cell></cell><cell>agricultural</cell><cell>Has non-</cell><cell>agricultural</cell><cell>agricultural</cell><cell>agricultural</cell><cell>income in</cell></row><row><cell></cell><cell>ln (per capita</cell><cell>self-</cell><cell>agricultural</cell><cell>self-</cell><cell>self</cell><cell>wage</cell><cell>private</cell></row><row><cell></cell><cell>expenditures)</cell><cell>employment</cell><cell>wage job</cell><cell>employment</cell><cell>employment</cell><cell>income</cell><cell>sector</cell></row><row><cell cols="3">HETEROGENEITY IMPACT INVESTMENT GRANT</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Grant</cell><cell>0.0407</cell><cell>0.0285</cell><cell>0.00464</cell><cell>145.3</cell><cell>729.9</cell><cell>908.4</cell><cell>25.92</cell></row><row><cell></cell><cell>(0.0388)</cell><cell>(0.0312)</cell><cell>(0.0310)</cell><cell>(317.5)</cell><cell>(444.6)</cell><cell>(1,057)</cell><cell>(827.8)</cell></row><row><cell>Grant*Poverty</cell><cell>0.0648</cell><cell>0.142***</cell><cell>-0.0380</cell><cell>645.5</cell><cell>622.1</cell><cell>-1,575</cell><cell>-476.6</cell></row><row><cell></cell><cell>(0.0424)</cell><cell>(0.0400)</cell><cell>(0.0404)</cell><cell>(405.4)</cell><cell>(490.5)</cell><cell>(1,249)</cell><cell>(1,086)</cell></row><row><cell>Poverty</cell><cell>-0.0770**</cell><cell>-0.145***</cell><cell>-0.00560</cell><cell>-1,349***</cell><cell>-1,811***</cell><cell>-827.2</cell><cell>712.4</cell></row><row><cell></cell><cell>(0.0323)</cell><cell>(0.0295)</cell><cell>(0.0317)</cell><cell>(315.7)</cell><cell>(337.6)</cell><cell>(822.1)</cell><cell>(721.8)</cell></row><row><cell cols="2">HETEROGENEITY IMPACT</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Training</cell><cell>0.00597</cell><cell>-0.0269</cell><cell>0.0661</cell><cell>-1,010***</cell><cell>-551.0</cell><cell>2,294**</cell><cell>2,982***</cell></row><row><cell></cell><cell>(0.0350)</cell><cell>(0.0327)</cell><cell>(0.0399)</cell><cell>(354.7)</cell><cell>(540.0)</cell><cell>(1,133)</cell><cell>(872.8)</cell></row><row><cell>Training*Poverty</cell><cell>0.0331</cell><cell>0.0966**</cell><cell>-0.0710</cell><cell>1,066**</cell><cell>704.4</cell><cell>-2,768**</cell><cell>-3,171***</cell></row><row><cell></cell><cell>(0.0378)</cell><cell>(0.0400)</cell><cell>(0.0517)</cell><cell>(444.0)</cell><cell>(622.0)</cell><cell>(1,376)</cell><cell>(1,057)</cell></row><row><cell>Poverty</cell><cell>-0.0770**</cell><cell>-0.145***</cell><cell>-0.00560</cell><cell>-1,349***</cell><cell>-1,811***</cell><cell>-827.2</cell><cell>712.4</cell></row><row><cell></cell><cell>(0.0323)</cell><cell>(0.0295)</cell><cell>(0.0317)</cell><cell>(315.7)</cell><cell>(337.6)</cell><cell>(822.1)</cell><cell>(721.8)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 7 : Impacts of business grant and training by poverty level as estimated by proxy means</head><label>7</label><figDesc xml:id="_5YYNcQm">Note: N=2954. ITT estimates, *** p&lt;0.01, ** p&lt;0.05, * p&lt;0.1, s.e. (in parentheses) clustered at community level. All regressions control for baseline outcome (when available), demographics, participation in different economic activities, distance to school and health center, land and animal holdings, and stratification block fixed effects. Income and profit variables exclude 1% largest outliers</figDesc><table><row><cell></cell><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell><cell>(4)</cell><cell>(5)</cell><cell>(6)</cell><cell>(7)</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Non-</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Profits in</cell><cell>Brut income</cell><cell></cell><cell>agriculture</cell></row><row><cell></cell><cell></cell><cell>Has non-</cell><cell></cell><cell>non-</cell><cell>in non-</cell><cell>Non-</cell><cell>wage</cell></row><row><cell></cell><cell></cell><cell>agricultural</cell><cell>Has non-</cell><cell>agricultural</cell><cell>agricultural</cell><cell>agricultural</cell><cell>income in</cell></row><row><cell></cell><cell>ln (per capita</cell><cell>self-</cell><cell>agricultural</cell><cell>self-</cell><cell>self</cell><cell>wage</cell><cell>private</cell></row><row><cell></cell><cell>expenditures)</cell><cell>employment</cell><cell>wage job</cell><cell>employment</cell><cell>employment</cell><cell>income</cell><cell>sector</cell></row><row><cell cols="3">HETEROGENEITY IMPACT INVESTMENT GRANT</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Grant</cell><cell>0.0924*</cell><cell>0.0923**</cell><cell>0.0148</cell><cell>533.5</cell><cell>521.2</cell><cell>206.3</cell><cell>-269.6</cell></row><row><cell></cell><cell>(0.0482)</cell><cell>(0.0358)</cell><cell>(0.0360)</cell><cell>(414.2)</cell><cell>(736.9)</cell><cell>(1,162)</cell><cell>(778.4)</cell></row><row><cell>Grant*Estimated Poverty</cell><cell>-0.0135</cell><cell>0.0395</cell><cell>-0.0449</cell><cell>74.56</cell><cell>862.6</cell><cell>-346.2</cell><cell>-1.107</cell></row><row><cell></cell><cell>(0.0525)</cell><cell>(0.0424)</cell><cell>(0.0476)</cell><cell>(489.3)</cell><cell>(809.3)</cell><cell>(1,312)</cell><cell>(932.4)</cell></row><row><cell>Estimated Poverty</cell><cell>-0.105***</cell><cell>-0.0740**</cell><cell>0.0214</cell><cell>-864.8**</cell><cell>-1,766***</cell><cell>-458.8</cell><cell>1,250*</cell></row><row><cell></cell><cell>(0.0383)</cell><cell>(0.0308)</cell><cell>(0.0317)</cell><cell>(394.8)</cell><cell>(668.5)</cell><cell>(966.7)</cell><cell>(729.6)</cell></row><row><cell cols="2">HETEROGENEITY IMPACT TRAINING</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Training</cell><cell>0.0366</cell><cell>-0.0281</cell><cell>0.0449</cell><cell>-730.7</cell><cell>-1,013</cell><cell>2,078</cell><cell>2,851***</cell></row><row><cell></cell><cell>(0.0459)</cell><cell>(0.0351)</cell><cell>(0.0397)</cell><cell>(474.6)</cell><cell>(766.0)</cell><cell>(1,356)</cell><cell>(911.2)</cell></row><row><cell>Training*Estimated Poverty</cell><cell>-0.0146</cell><cell>0.0878*</cell><cell>-0.0325</cell><cell>562.9</cell><cell>1,230</cell><cell>-2,161</cell><cell>-2,599**</cell></row><row><cell></cell><cell>(0.0497)</cell><cell>(0.0444)</cell><cell>(0.0472)</cell><cell>(553.4)</cell><cell>(843.6)</cell><cell>(1,532)</cell><cell>(1,118)</cell></row><row><cell>Estimated Poverty</cell><cell>-0.105***</cell><cell>-0.0740**</cell><cell>0.0214</cell><cell>-864.8**</cell><cell>-1,766***</cell><cell>-458.8</cell><cell>1,250*</cell></row><row><cell></cell><cell>(0.0383)</cell><cell>(0.0308)</cell><cell>(0.0317)</cell><cell>(394.8)</cell><cell>(668.5)</cell><cell>(966.7)</cell><cell>(729.6)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Table 8 : Impact of business grant and training on positive attitudes</head><label>8</label><figDesc xml:id="_jMmaqXA">Note: N=1519. ITT estimates, *** p&lt;0.01, ** p&lt;0.05, * p&lt;0.1, s.e. (in parentheses) clustered at community level. Outcome variables standardized using mean and s.d. of the control. All regressions control for, demographics, participation in different economic activities, distance to school and health center, land and animal holdings, and stratification block fixed effects.</figDesc><table><row><cell></cell><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell><cell>(4)</cell><cell>(5)</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Feeling that</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>moving</cell><cell>Index</cell></row><row><cell></cell><cell></cell><cell>Satisfaction</cell><cell></cell><cell>forward in</cell><cell>positive</cell></row><row><cell></cell><cell>Optimism</cell><cell>with life</cell><cell>Happiness</cell><cell>life</cell><cell>attitudes</cell></row><row><cell>grant</cell><cell>0.163**</cell><cell>0.126**</cell><cell>0.0955**</cell><cell>0.486***</cell><cell>0.216***</cell></row><row><cell></cell><cell>(0.0621)</cell><cell>(0.0484)</cell><cell>(0.0458)</cell><cell>(0.0532)</cell><cell>(0.0387)</cell></row><row><cell>training</cell><cell>0.162***</cell><cell>0.0164</cell><cell>0.0482</cell><cell>0.292***</cell><cell>0.131***</cell></row><row><cell></cell><cell>(0.0550)</cell><cell>(0.0485)</cell><cell>(0.0470)</cell><cell>(0.0531)</cell><cell>(0.0359)</cell></row><row><cell>Diff. between poor and non-poor</cell><cell>-0.131*</cell><cell>-0.0954</cell><cell>-0.157*</cell><cell>-0.0559</cell><cell>-0.216**</cell></row><row><cell>in control</cell><cell>(0.0704)</cell><cell>(0.113)</cell><cell>(0.0870)</cell><cell>(0.0881)</cell><cell>(0.0963)</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_0"><p xml:id="_CEw5rGv">More detailed information about the program and its different components is provided in the online appendix of<ref type="bibr" target="#b30">Macours, Schady and Vakis (2012)</ref> and on the following website: http://go.worldbank.org/VUYJAQ3UN0</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="3" xml:id="foot_1"><p xml:id="_bREZrTM">The pilot design built on the already existing and successful conditional cash transfer (CCT) model in Nicaragua Red de Protección Social, evaluated by<ref type="bibr" target="#b32">Maluccio and Flores (2005)</ref>.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="7" xml:id="foot_2"><p xml:id="_9uTQHAF">The analysis in this paper does not include the 964 households that only received the basic CCT.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="8" xml:id="foot_3"><p xml:id="_r5BXcBH">The expenditure modules were taken from the 2001 Nicaragua Living Standards Measurement Study (LSMS) survey and include detailed information on various expenditure categories. For example, food expenditures include questions about 63 food items from actual expenditures, home production, and food consumed outside the home. The income module was designed specifically for this study with the objective to capture all the different economic activities household members are engaged in.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="9" xml:id="foot_4"><p xml:id="_h5DMgGY">In addition to the quantitative data, qualitative work preceded each round of data collection. Focus groups and semi-structured interviews with a wide set of beneficiaries and other local actors in treatment and control communities, and in the main town of the municipality were conducted to explore qualitative evidence of the program's impacts, as well as issues related to program implementation.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="10" xml:id="foot_5"><p xml:id="_bfG9K6p">All regressions include the baseline value for the outcome variable (when available) and baseline controls for demographics (age of household head and main beneficiary, number of members in different age groups by gender, male household head), participation in different economic activities, distance to school and health center, land and animal holdings.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="11" xml:id="foot_6"><p xml:id="_XMZHadu">Similar results are obtained when combining assets from the various dimensions (not reported).</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="12" xml:id="foot_7"><p xml:id="_Tjxkz2e">This heterogeneity is apparent despite the fact that there are no large differences in per capita expenditures in the study population, due to the geographical targeting of the program to municipalities with high poverty levels.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="13" xml:id="foot_8"><p xml:id="_rPwNCH7">But programs such as TUP that use a combination of participatory and proxy means methods might be able to identify poor households using these alternative methods.</p></note>
+		</body>
+		<back>
+
+			<div type="funding">
+<div xml:id="_bY6cAnT"><p xml:id="_wDBhgtd">vehicle for the dissemination of findings of those studies.</p><p xml:id="_PNxwSyB">to <rs type="person">Ximena Del Carpio</rs> and <rs type="person">Fernando Galeana</rs> for countless contributions during data collection and preparation, the program team at the <rs type="institution">Ministerio de la Familia</rs>, in particular <rs type="person">Carold Herrera</rs> and <rs type="person">Teresa Suazo</rs> for their collaboration during the design of the impact evaluation, and the <rs type="institution">Centro de Investigación</rs> (in particular <rs type="person">Verónica Aguilera</rs>, <rs type="person">Enoe Moncada</rs>, and the entire field team) for excellent data collection. We are grateful to <rs type="person">Karthik Muralidharan</rs> for comments. Financial support for this research was received from the <rs type="funder">World Bank (ESSD</rs> trust funds, a <rs type="grantName">RSB grant</rs>, the <rs type="funder">Government of the Netherlands</rs> through the <rs type="programName">BNPP program</rs> as well as the <rs type="funder">Spanish Impact Evaluation Fund)</rs>, and <rs type="funder">BASIS</rs> (<rs type="funder">USAID</rs> Agreement No. <rs type="grantNumber">EDH-A-00-06-0003-00</rs> awarded to the Assets and <rs type="programName">Market Access Collaborative Research Support Program</rs>). The views expressed in this paper are those of the authors and do not necessarily reflect those of the <rs type="funder">World Bank</rs> or any of its affiliated organizations.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_3ffdQDc">
+					<orgName type="grant-name">RSB grant</orgName>
+				</org>
+				<org type="funding" xml:id="_umgEsmN">
+					<orgName type="program" subtype="full">BNPP program</orgName>
+				</org>
+				<org type="funding" xml:id="_MWDQRjw">
+					<idno type="grant-number">EDH-A-00-06-0003-00</idno>
+					<orgName type="program" subtype="full">Market Access Collaborative Research Support Program</orgName>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_egnHqhk" /><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6"><head>Table 2 : Demand and preferences for productive interventions at baseline</head><label>2</label><figDesc xml:id="_gstM3Wp">** p&lt;0.01, ** p&lt;0.05, * p&lt;0.1, s.e. clustered at community level</figDesc><table><row><cell>All</cell><cell>Poor</cell><cell>Non-poor Diff.</cell><cell>P-value</cell></row></table></figure>
+			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="consolidated"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main" xml:id="_HatVuBe">Targeting the Poor: Evidence from a Field Experiment in Indonesia</title>
+		<author>
+			<persName><forename type="first">Vivi</forename><surname>Alatas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Abhijit</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rema</forename><surname>Hanna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Benjamin</forename><forename type="middle">A</forename><surname>Olken</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Julia</forename><surname>Tobias</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/aer.102.4.1206</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_sHy7mUK">American Economic Review</title>
+		<title level="j" type="abbrev">American Economic Review</title>
+		<idno type="ISSN">0002-8282</idno>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1206" to="1240" />
+			<date type="published" when="2012-06-01">2012</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main" xml:id="_RxwXTTE">Jump-starting Self-employment? Evidence for Welfare Participants in Argentina</title>
+		<author>
+			<persName><forename type="first">Rita</forename><forename type="middle">K</forename><surname>Almeida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Emanuela</forename><surname>Galasso</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.worlddev.2009.11.018</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Yx7nSWB">World Development</title>
+		<title level="j" type="abbrev">World Development</title>
+		<idno type="ISSN">0305-750X</idno>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="742" to="755" />
+			<date type="published" when="2010-05">2010</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main" xml:id="_NkuBFgY">Subsidizing Vocational Training for Disadvantaged Youth in Colombia: Evidence from a Randomized Trial</title>
+		<author>
+			<persName><forename type="first">Orazio</forename><surname>Attanasio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Adriana</forename><surname>Kugler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Costas</forename><surname>Meghir</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/app.3.3.188</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_5KrYVEE">American Economic Journal: Applied Economics</title>
+		<title level="j" type="abbrev">American Economic Journal: Applied Economics</title>
+		<idno type="ISSN">1945-7782</idno>
+		<idno type="ISSNe">1945-7790</idno>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="188" to="220" />
+			<date type="published" when="2011-07-01">2011</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b3">
+	<monogr>
+		<title level="m" type="main" xml:id="_b3W5uF5">The Regressive Demands of Demand-driven Development</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Baird</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Mcintosh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Ozler</surname></persName>
+		</author>
+		<idno>No. 5883</idno>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>The World Bank</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">Policy Research Working Paper Series</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b4">
+	<monogr>
+		<title level="m" type="main" xml:id="_xSgmegX">Long-term Effects of the Targeting the Ultra Poor Program</title>
+		<author>
+			<persName><forename type="first">Abhijit</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Esther</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Garima</forename><surname>Sharma</surname></persName>
+		</author>
+		<idno type="DOI">10.3386/w28074</idno>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>National Bureau of Economic Research</publisher>
+		</imprint>
+	</monogr>
+	<note>mimeo</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main" xml:id="_BSr9j4W">Occupational Choice and the Process of Development</title>
+		<author>
+			<persName><forename type="first">Abhijit</forename><forename type="middle">V</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andrew</forename><forename type="middle">F</forename><surname>Newman</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/261876</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_kWgvc44">Journal of Political Economy</title>
+		<title level="j" type="abbrev">Journal of Political Economy</title>
+		<idno type="ISSN">0022-3808</idno>
+		<idno type="ISSNe">1537-534X</idno>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="274" to="298" />
+			<date type="published" when="1993-04">1993</date>
+			<publisher>University of Chicago Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main" xml:id="_YcDKhRe">The Miracle of Microfinance? Evidence from a randomized evaluation</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">V</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Glennerster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Kinnan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_ZE3cFX7">BREAD Working Paper</title>
+		<imprint>
+			<biblScope unit="volume">278</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b7">
+	<monogr>
+		<title level="m" type="main" xml:id="_hHCKu7S">Human and financial capital for microenterprise development: Evidence from a field and lab experiment</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">I O</forename><surname>Berge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Bjorvatn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Tungodden</surname></persName>
+		</author>
+		<idno>No.3937</idno>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">CMI Working Paper</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main" xml:id="_4dNEksz">Employment Generation in Rural Africa: Mid-Term Results from an Experimental Evaluation of the Youth Opportunities Program in Northern Uganda</title>
+		<author>
+			<persName><forename type="first">Chris</forename><surname>Blattman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nathan</forename><surname>Fiala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sebastian</forename><surname>Martinez</surname></persName>
+		</author>
+		<idno type="DOI">10.2139/ssrn.2030866</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_d5Hgrck">SSRN Electronic Journal</title>
+		<title level="j" type="abbrev">SSRN Journal</title>
+		<idno type="ISSNe">1556-5068</idno>
+		<imprint>
+			<biblScope unit="volume">66523</biblScope>
+			<date type="published" when="2011">2011</date>
+			<publisher>Elsevier BV</publisher>
+			<pubPlace>Washington DC</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main" xml:id="_XNQXCKr">Assessing the Frontiers of Ultra-Poverty Reduction: Evidence from CFPR/TUP, An Innovative Program in Bangladesh</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Shahe Emran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Virginia</forename><surname>Robano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stephen</forename><forename type="middle">C</forename><surname>Smith</surname></persName>
+		</author>
+		<idno type="DOI">10.2139/ssrn.1354158</idno>
+		<ptr target="http://www.brac.net/content/challenging-frontiers-poverty-reduction-targeting-ultra-poor-cfpr-tup" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_sRxhzA3">SSRN Electronic Journal</title>
+		<title level="j" type="abbrev">SSRN Journal</title>
+		<idno type="ISSNe">1556-5068</idno>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main" xml:id="_Bzq9kVB">Stimulating Managerial Capital in Emerging Markets: The Impact of Business and Financial Literacy for Young Entrepreneurs</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bruhn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Zia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_GmVfdgB">Journal of Labor Economics</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="267" to="300" />
+			<date type="published" when="2011">2012. 2011</date>
+		</imprint>
+		<respStmt>
+			<orgName>Mimeo</orgName>
+		</respStmt>
+	</monogr>
+	<note>The Labor Market Impacts of Youth Training in the Dominican Republic</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main" xml:id="_PeAhdAJ">Evaluating Marginal Policy Changes and the Average Effect of Treatment for Individuals at the Margin</title>
+		<author>
+			<persName><forename type="first">Pedro</forename><surname>Carneiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><surname>Heckman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Edward</forename><surname>Vytlacil</surname></persName>
+		</author>
+		<idno type="DOI">10.3386/w15211</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_SQGnBe2">Econometrica</title>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2010">2010</date>
+			<publisher>National Bureau of Economic Research</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main" xml:id="_d8aMFNX">Estimating Marginal Returns to Education</title>
+		<author>
+			<persName><forename type="first">Pedro</forename><surname>Carneiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">J</forename><surname>Heckman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Edward</forename><forename type="middle">J</forename><surname>Vytlacil</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/aer.101.6.2754</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_9KT8teK">American Economic Review</title>
+		<title level="j" type="abbrev">American Economic Review</title>
+		<idno type="ISSN">0002-8282</idno>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="2754" to="2781" />
+			<date type="published" when="2011-10-01">2011</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main" xml:id="_9DWQHVP">Targeting of Transfers in Developing Countries</title>
+		<author>
+			<persName><forename type="first">David</forename><surname>Coady</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Margaret</forename><surname>Grosh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><surname>Hoddinott</surname></persName>
+		</author>
+		<idno type="DOI">10.1596/0-8213-5769-7</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_PyeEnVM">Targeting of Transfers in Developing Countries: Review of Lessons and Experience</title>
+		<meeting><address><addrLine>Washington, DC</addrLine></address></meeting>
+		<imprint>
+			<publisher>The World Bank</publisher>
+			<date type="published" when="2004-08">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b14">
+	<monogr>
+		<title level="m" type="main" xml:id="_ahWUa6P">Estimating the Impact of Microcredit on Those Who Take It Up: Evidence from a Randomized Experiment in Morocco</title>
+		<author>
+			<persName><forename type="first">Bruno</forename><surname>Crépon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Florencia</forename><surname>Devoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Esther</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">William</forename><surname>Pariente</surname></persName>
+		</author>
+		<idno type="DOI">10.3386/w20144</idno>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>National Bureau of Economic Research</publisher>
+		</imprint>
+	</monogr>
+	<note>mimeo</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main" xml:id="_MbJQ75a">The Technology of Skill Formation</title>
+		<author>
+			<persName><forename type="first">Flavio</forename><surname>Cunha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><surname>Heckman</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/aer.97.2.31</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_cuddSta">American Economic Review</title>
+		<title level="j" type="abbrev">American Economic Review</title>
+		<idno type="ISSN">0002-8282</idno>
+		<imprint>
+			<biblScope unit="volume">97</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="31" to="47" />
+			<date type="published" when="2007-04-01">2007</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main" xml:id="_p2PdXe8">Making Conditional Cash Transfer Programs More Efficient: Designing for Maximum Effect of the Conditionality</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>De Janvry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Sadoulet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_b6Bf5d9">The World Bank Economic Review</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="29" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main" xml:id="_gCf9eAM">Returns to Capital in Microenterprises: Evidence from a Field Experiment&lt;sup&gt;*&lt;/sup&gt;</title>
+		<author>
+			<persName><forename type="first">Suresh</forename><surname>De Mel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><surname>Mckenzie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Woodruff</surname></persName>
+		</author>
+		<idno type="DOI">10.1162/qjec.2008.123.4.1329</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_C9VmNsz">Quarterly Journal of Economics</title>
+		<title level="j" type="abbrev">Quarterly Journal of Economics</title>
+		<idno type="ISSN">0033-5533</idno>
+		<idno type="ISSNe">1531-4650</idno>
+		<imprint>
+			<biblScope unit="volume">123</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1329" to="1372" />
+			<date type="published" when="2008-11">2008</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b18">
+	<analytic>
+		<title level="a" type="main" xml:id="_EUAkxbV">Are Women more Credit Constrained? Experimental Evidence on Gender and Microenterprise Returns</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>De Mel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Mckenzie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Woodruff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_vKUvmsa">American Economic Journal: Applied Economics</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="1" to="32" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main" xml:id="_Y2eTmyv">One-Time Transfers of Cash or Capital Have Long-Lasting Effects on Microenterprises in Sri Lanka</title>
+		<author>
+			<persName><forename type="first">Suresh</forename><surname>De Mel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><surname>Mckenzie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Woodruff</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.1212973</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_872XDHx">Science</title>
+		<title level="j" type="abbrev">Science</title>
+		<idno type="ISSN">0036-8075</idno>
+		<idno type="ISSNe">1095-9203</idno>
+		<imprint>
+			<biblScope unit="volume">335</biblScope>
+			<biblScope unit="issue">6071</biblScope>
+			<biblScope unit="page" from="962" to="966" />
+			<date type="published" when="2012-02-24">2012</date>
+			<publisher>American Association for the Advancement of Science (AAAS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b20">
+	<monogr>
+		<title level="m" type="main" xml:id="_nje6Ypz">Business Training and Female Enterprise Start-up, Growth, and Dynamics: Experimental Evidence from Sri Lanka</title>
+		<author>
+			<persName><forename type="first">Suresh</forename><surname>De Mel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><surname>Mckenzie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Woodruff</surname></persName>
+		</author>
+		<idno type="DOI">10.1596/1813-9450-6145</idno>
+		<idno>6145</idno>
+		<imprint>
+			<date type="published" when="2012-07">2012b</date>
+			<publisher>World Bank, Washington, DC</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">Policy Research Working Paper</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main" xml:id="_Vb6WdMv">Human Values and the Design of the Fight against Poverty</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Duflo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s" xml:id="_zuqxSfJ">Tanner lectures</title>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note>mimeo</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main" xml:id="_nWbpU7V">Savings Constraints and Microenterprise Development: Evidence from a Field Experiment in Kenya</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Dupas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Robinson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_TfVMTFR">American Economic Journal: Applied Economics</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="163" to="192" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b23">
+	<monogr>
+		<title level="m" type="main" xml:id="_7kzC85n">When is capital enough to get female microenterprises growing? Evidence from a randomized experiment in Ghana</title>
+		<author>
+			<persName><forename type="first">Marcel</forename><surname>Fafchamps</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><surname>Mckenzie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Simon</forename><surname>Quinn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Woodruff</surname></persName>
+		</author>
+		<idno type="DOI">10.3386/w17207</idno>
+		<idno>No. 17207</idno>
+		<imprint>
+			<date type="published" when="2011-07">2011</date>
+			<publisher>National Bureau of Economic Research</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">NBER Working Paper</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b24">
+	<analytic>
+		<title level="a" type="main" xml:id="_TRDezEX">Multiple Dimensions of Private Information: Evidence from the Long-Term Care Insurance Market</title>
+		<author>
+			<persName><forename type="first">Amy</forename><surname>Finkelstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kathleen</forename><surname>Mcgarry</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/aer.96.4.938</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_PEWV3Zm">American Economic Review</title>
+		<title level="j" type="abbrev">American Economic Review</title>
+		<idno type="ISSN">0002-8282</idno>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="938" to="958" />
+			<date type="published" when="2006-09-01">2006</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b25">
+	<analytic>
+		<title level="a" type="main" xml:id="_BCqTVS3">The (Perceived) Returns to Education and the Demand for Schooling</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Jensen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_xNEyj7t">The Quarterly Journal of Economics</title>
+		<imprint>
+			<biblScope unit="volume">125</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="515" to="548" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b26">
+	<analytic>
+		<title level="a" type="main" xml:id="_UR26Ve3">Teaching Entrepreneurship: Impact of Business Training on Microfinance Clients and Institutions</title>
+		<author>
+			<persName><forename type="first">Dean</forename><surname>Karlan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Martin</forename><surname>Valdivia</surname></persName>
+		</author>
+		<idno type="DOI">10.1162/rest_a_00074</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_v5EzEAx">Review of Economics and Statistics</title>
+		<title level="j" type="abbrev">Review of Economics and Statistics</title>
+		<idno type="ISSN">0034-6535</idno>
+		<idno type="ISSNe">1530-9142</idno>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="510" to="527" />
+			<date type="published" when="2011-05">2011</date>
+			<publisher>MIT Press - Journals</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b27">
+	<analytic>
+		<title level="a" type="main" xml:id="_HXx7HvZ">On the Size Distribution of Business Firms</title>
+		<author>
+			<persName><forename type="first">Robert</forename><forename type="middle">E</forename><surname>Lucas</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Jr</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/3003596</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Hy3pHdW">The Bell Journal of Economics</title>
+		<title level="j" type="abbrev">The Bell Journal of Economics</title>
+		<idno type="ISSN">0361-915X</idno>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">508</biblScope>
+			<date type="published" when="1978">1978</date>
+			<publisher>JSTOR</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b28">
+	<analytic>
+		<title level="a" type="main" xml:id="_J6qXeJc">Changing Households&apos; Investments and Aspirations through Social Interactions: Evidence from a randomized transfer program in a low-income country</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Macours</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Vakis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_J8NTuTb">World Bank Policy Research Working Paper</title>
+		<imprint>
+			<biblScope unit="page">5137</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b29">
+	<monogr>
+		<title level="m" type="main" xml:id="_3n3VFqN">Transfers, Diversification and Household Risk Strategies: Experimental Evidence with Lessons for Climate Change Adaptation</title>
+		<author>
+			<persName><forename type="first">Karen</forename><surname>Macours</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Patrick</forename><surname>Premand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Renos</forename><surname>Vakis</surname></persName>
+		</author>
+		<idno type="DOI">10.1596/1813-9450-6053</idno>
+		<idno>8940</idno>
+		<imprint>
+			<date type="published" when="2012-04">2012</date>
+			<publisher>World Bank, Washington, DC</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">CEPR Discussion Paper</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b30">
+	<analytic>
+		<title level="a" type="main" xml:id="_AVycV9w">Cash Transfers, Behavioral Changes, and Cognitive Development in Early Childhood: Evidence from a Randomized Experiment</title>
+		<author>
+			<persName><forename type="first">Karen</forename><surname>Macours</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Norbert</forename><surname>Schady</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Renos</forename><surname>Vakis</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/app.4.2.247</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_MZym3FF">American Economic Journal: Applied Economics</title>
+		<title level="j" type="abbrev">American Economic Journal: Applied Economics</title>
+		<idno type="ISSN">1945-7782</idno>
+		<idno type="ISSNe">1945-7790</idno>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="247" to="273" />
+			<date type="published" when="2012-04-01">2012</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b31">
+	<analytic>
+		<title level="a" type="main" xml:id="_d6PANH6">Informality Revisited</title>
+		<author>
+			<persName><forename type="first">William</forename><forename type="middle">F</forename><surname>Maloney</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.worlddev.2004.01.008</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_EZXWRK9">World Development</title>
+		<title level="j" type="abbrev">World Development</title>
+		<idno type="ISSN">0305-750X</idno>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1159" to="1178" />
+			<date type="published" when="2004-07">2004</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b32">
+	<monogr>
+		<title level="m" type="main" xml:id="_gmAR6mK">Impact Evaluation of a Conditional Cash Transfer Program: The Nicaraguan Red de Protección Social</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Maluccio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Flores</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005">2005. 2012</date>
+			<publisher>The World Bank</publisher>
+			<biblScope unit="volume">141</biblScope>
+			<pubPlace>Washington, D</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>International Food Policy Research Institute</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Research Report</note>
+	<note>What are we learning from business training and entrepreneurship evaluations around the developing world? Policy Research Working Paper No. 6202</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b33">
+	<analytic>
+		<title level="a" type="main" xml:id="_56CBgW8">Failure vs. Displacement: Why an Innovative Anti-Poverty Program Showed No Net Impact</title>
+		<author>
+			<persName><forename type="first">Jonathan</forename><surname>Morduch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shamika</forename><surname>Ravi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jonathan</forename><surname>Bauchet</surname></persName>
+		</author>
+		<idno type="DOI">10.2139/ssrn.2134779</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_peWBwSE">SSRN Electronic Journal</title>
+		<title level="j" type="abbrev">SSRN Journal</title>
+		<idno type="ISSNe">1556-5068</idno>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b34">
+	<analytic>
+		<title level="a" type="main" xml:id="_AD3B2Az">The CES-D Scale</title>
+		<author>
+			<persName><forename type="first">Lenore</forename><forename type="middle">S</forename><surname>Radloff</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/014662167700100306</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_wJrEPHM">Applied Psychological Measurement</title>
+		<title level="j" type="abbrev">Applied Psychological Measurement</title>
+		<idno type="ISSN">0146-6216</idno>
+		<idno type="ISSNe">1552-3497</idno>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="385" to="401" />
+			<date type="published" when="1977-06">1977</date>
+			<publisher>SAGE Publications</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b35">
+	<analytic>
+		<title level="a" type="main" xml:id="_aZ2ttxm">SOME THOUGHTS ON THE DISTRIBUTION OF EARNINGS 1</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Roy</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/oxfordjournals.oep.a041827</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_RAthFVZ">Oxford Economic Papers</title>
+		<idno type="ISSN">0030-7653</idno>
+		<idno type="ISSNe">1464-3812</idno>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="135" to="146" />
+			<date type="published" when="1951-06">1951</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b36">
+	<monogr>
+		<title level="m" type="main" xml:id="_NbTTeQs">A Structural Model of Charter School Choice and Academic Achievement</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Walters</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>Mimeo</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b37">
+	<monogr>
+		<author>
+			<persName><forename type="first">Wilson</forename><forename type="middle">W J</forename></persName>
+		</author>
+		<title level="m" xml:id="_8s92gxY">The truly disadvantaged</title>
+		<meeting><address><addrLine>Chicago</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Chicago Press</publisher>
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b38">
+	<analytic>
+		<title level="a" type="main" xml:id="_JBZ3SNx">The Jobs Challenge</title>
+		<idno type="DOI">10.1596/978-0-8213-9575-2_chapter_1</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_nQa3NTT">World Development Report 2013</title>
+		<imprint>
+			<publisher>The World Bank</publisher>
+			<date type="published" when="2012-10">2012</date>
+			<biblScope unit="page" from="48" to="73" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

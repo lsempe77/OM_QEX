@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" xml:id="_7TwKTST">The Impact of Ethiopia&apos;s Productive Safety Net Programme and Related Transfers on Agricultural Productivity</title>
+				<funder>
+					<orgName type="full">US Agency for International Development (USAID)</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">World Bank</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Department for International Development (DfID)</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Oxford University Press (OUP)</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2012-09-26">26 September 2012</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">John</forename><surname>Hoddinott</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Guush</forename><surname>Berhane</surname></persName>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Daniel</forename><forename type="middle">O</forename><surname>Gilligan</surname></persName>
+							<email>d.gilligan@cgiar.org</email>
+						</author>
+						<author>
+							<persName><forename type="first">Neha</forename><surname>Kumar</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">A</forename><surname>Seyoum Taffesse</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="institution">International Food Policy Research Institute</orgName>
+								<address>
+									<postCode>20006</postCode>
+									<settlement>Washington</settlement>
+									<region>D.C</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="institution">International Food Policy Research Institute</orgName>
+								<address>
+									<addrLine>2033 K Street</addrLine>
+									<postCode>20006</postCode>
+									<settlement>NW Washington</settlement>
+									<region>D.C</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main" xml:id="_By5vtnx">The Impact of Ethiopia&apos;s Productive Safety Net Programme and Related Transfers on Agricultural Productivity</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main" xml:id="_2Vvevp2">Journal of African Economies</title>
+						<title level="j" type="abbrev">Journal of African Economies</title>
+						<idno type="ISSN">0963-8024</idno>
+						<idno type="eISSN">1464-3723</idno>
+						<imprint>
+							<publisher>Oxford University Press (OUP)</publisher>
+							<biblScope unit="volume">21</biblScope>
+							<biblScope unit="issue">5</biblScope>
+							<biblScope unit="page" from="761" to="786"/>
+							<date type="published" when="2012-09-26">26 September 2012</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">0471D001477A7A954FA3303DFB4369B6</idno>
+					<idno type="DOI">10.1093/jae/ejs023</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2025-11-04T23:47+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a292bac</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=1, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=true, generateTeiCoordinates=[true], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term xml:id="_EM3pqKf">JEL classification: H43</term>
+					<term xml:id="_y7J4xT8">I38</term>
+					<term xml:id="_33FttTr">022</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_ZJMwVNH"><p xml:id="_W6FmdnM">Ethiopia's Food Security Programme provides income transfers through public works in its Productive Safety Net Programme (PSNP) as well as targeted services provided through the Other Food Security Programme (OFSP) and, later, the Household Asset Building Programme (HABP) designed to improve agricultural productivity. There is a trade-off in these two types of transfers between short-term improvements in food security and longer term food security achieved through increased agricultural productivity. Using the dose -response models of Hirano and Imbens (2004), we investigate the relative impact of PSNP transfers alone and joint transfers from the PSNP and OFSP/HABP on agricultural output, yields, fertiliser use and agricultural investment for farmers growing cereals in Ethiopia from 2006 to 2010. We find that access to the OFSP/ HABP programme plus high levels of payments from the PSNP led to considerable improvements in the use of fertiliser and enhanced investments in agriculture likely to improve agricultural productivity among households receiving both programmes. We find mixed effects of participation in both programmes in terms of impacts on yields. We also find that high levels of participation in the PSNP programme alone had no effect on agricultural input use or productivity and limited impact on agricultural investments.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="442.205" lry="663.25"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="442.205" lry="663.25"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="442.205" lry="663.25"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="442.205" lry="663.25"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="442.205" lry="663.25"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="442.205" lry="663.25"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="442.205" lry="663.25"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="442.205" lry="663.25"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="442.205" lry="663.25"/>
+		<surface n="10" ulx="0.0" uly="0.0" lrx="442.205" lry="663.25"/>
+		<surface n="11" ulx="0.0" uly="0.0" lrx="442.205" lry="663.25"/>
+		<surface n="12" ulx="0.0" uly="0.0" lrx="442.205" lry="663.25"/>
+		<surface n="13" ulx="0.0" uly="0.0" lrx="442.205" lry="663.25"/>
+		<surface n="14" ulx="0.0" uly="0.0" lrx="442.205" lry="663.25"/>
+		<surface n="15" ulx="0.0" uly="0.0" lrx="442.205" lry="663.25"/>
+		<surface n="16" ulx="0.0" uly="0.0" lrx="442.205" lry="663.25"/>
+		<surface n="17" ulx="0.0" uly="0.0" lrx="442.205" lry="663.25"/>
+		<surface n="18" ulx="0.0" uly="0.0" lrx="663.25" lry="442.205"/>
+		<surface n="19" ulx="0.0" uly="0.0" lrx="442.205" lry="663.25"/>
+		<surface n="20" ulx="0.0" uly="0.0" lrx="442.205" lry="663.25"/>
+		<surface n="21" ulx="0.0" uly="0.0" lrx="663.25" lry="442.205"/>
+		<surface n="22" ulx="0.0" uly="0.0" lrx="442.205" lry="663.25"/>
+		<surface n="23" ulx="0.0" uly="0.0" lrx="442.205" lry="663.25"/>
+		<surface n="24" ulx="0.0" uly="0.0" lrx="442.205" lry="663.25"/>
+		<surface n="25" ulx="0.0" uly="0.0" lrx="442.205" lry="663.25"/>
+		<surface n="26" ulx="0.0" uly="0.0" lrx="442.205" lry="663.25"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1." xml:id="_JDevp62">Introduction</head><p xml:id="_bEMebn4">The primary objective of most social protection programmes is to transfer income to the poor. These transfers are motivated by a commitment to maintaining a minimum standard of living, overcoming severe temporary negative shocks to income and avoiding the formation of longer term poverty traps <ref type="bibr" target="#b1">(Barrett and McPeak, 2006;</ref><ref type="bibr" target="#b2">Barrett et al., 2008;</ref><ref type="bibr" target="#b14">Grosh et al., 2008)</ref>. However, many social protection programmes in developing countries include features in addition to income transfers that are designed to address the root causes of poverty. For example, Conditional Cash Transfer programmes, which have proliferated in Latin America and are increasingly common in Africa and elsewhere, tie income transfers to beneficiary household members' participation in vaccination programmes, health check-ups and primary schooling <ref type="bibr" target="#b7">(Fiszbein and Schady, 2009;</ref><ref type="bibr">Adato and Hoddinott, 2010)</ref>. A variety of active labour market programmes link income transfers to work requirements [e.g., public works (PW) or wage/employment subsidies] or job training at least in part to boost employment, skill development and long-run earning potential <ref type="bibr" target="#b4">(Betcherman et al., 2004)</ref>. Less common are large-scale programmes that support a broad collection of productivity-enhancing investments or microenterprise development for poor households, with or without income transfers.</p><p xml:id="_AJdcgQ3">Ethiopia's Food Security Programme (FSP) is a unique example of such a programme. The cornerstone of the FSP is the Productive Safety Net Programme (PSNP). Started in 2005, the PSNP provides direct income support to more than 7 million poor people primarily through participation in large-scale PW as well as through unconditioned direct support to poor households with limited labour capacity. Two additional programmes under the FSP have complemented the PSNP by providing additional products or services designed to improve agricultural productivity or support microenterprise development. These productivity-enhancing investments were made under the smaller Other Food Security Programme (OFSP), which was revamped in 2009 and renamed the Household Asset Building Programme (HABP). The OFSP and HABP provided assistance and training to provide access to improved seeds, conduct soil and water conservation, improve irrigation or undertake beekeeping. <ref type="foot" target="#foot_1">1</ref> We have studied the impact of PW transfers through the PSNP on household food security and asset accumulation elsewhere <ref type="bibr">(Gilligan et al., 2009a, b)</ref>. In this study, we examine the joint role of the PSNP and OFSP/HABP transfers in supporting improvements in agricultural productivity.</p><p xml:id="_MakcuUS">In a rural agricultural setting characterised by high chronic food insecurity such as rural Ethiopia, providing households with investments in agricultural productivity in addition to or in lieu of income transfers may constitute an effective design for a social protection programme. Income transfers alone can protect short-term food security, and may have persistent effects on consumption growth over time <ref type="bibr">(Gilligan and Hoddinott, 2007)</ref>. However, public support for investments in agricultural productivity may have greater potential benefits by more effectively addressing the root causes of the food insecurity. In this setting, there is a high-stakes trade-off in designing social protection programmes between expenditures that address short-term food security needs and spending on longer term sustainable improvements in food security.</p><p xml:id="_8u5CKyC">The Ethiopia PSNP and OFSP/HABP initiatives provide an excellent opportunity to study this trade-off. In the period after the start of Ethiopia's redesigned FSP in 2005, some households received only the PSNP income transfers, others received only the OFSP/HABP agricultural investments, and others received a combination of PSNP transfers and OFSP/HABP services. As part of an impact evaluation of these programmes, detailed household panel survey data were collected in 2006, 2008 and again in 2010. These data include households in all of these transfer modalities as well as a group of households that did not participate in the PSNP or OFSP/HABP and did not receive any related transfers or services. Because of the potential for targeting and self-selection into the PSNP activities to bias impact estimates based on non-participant households, we take advantage of the substantial variation in the duration of participation in the PSNP over the 5-year period to develop dose -response models that estimate the impact on agricultural productivity of a high level of participation in the PNSP (5 years) relative to a low level of PSNP participation (1 year). We then compare different levels of the 'dose' of access to the PSNP between households receiving OFSP/HABP transfers and those without in order to measure the additional effect of access to the OFSP/ HABP. These comparisons provide a rich picture of the impact of the various types of assistance provided by the Ethiopian government over this period. We focus on the impact of these transfers on agricultural output, productivity, fertiliser use and investments in water retention in order to understand the potential of any of these programme modalities to improve longer term food insecurity through investments in agriculture.</p><p xml:id="_YqHnfgd">Consider the mechanisms through which each transfer modality might affect agricultural productivity. It is plausible that PSNP income transfers alone may have a direct effect on agricultural productivity. However, the size of this income effect may be limited as the marginal propensity to invest income in farming inputs may be quiet low, particularly among poor, food-insecure households. Inputs (such as seeds and fertiliser) and services related to water harvesting and irrigation provided under the OFSP/HABP are likely to have a more direct effect on agricultural productivity through greater investment and knowledge transfer. However, the size of this effect will depend on the level of adoption of these services by poor farmers facing critical immediate food security needs and substantial downside risk to using new technologies <ref type="bibr" target="#b6">(Dercon and Christiaensen, 2011)</ref>. These farmers may have limited resources to undertake complementary activities to realise the benefits of the new inputs and investments. If so, a more effective design may be one in which targeted households receive a mix of both PSNP income transfers through participation in PW projects and productivity-enhancing investments in agriculture from the OFSP/ HABP. Because the services and the knowledge transferred through the OFSP/HABP are not easily converted into income and some of the services provided may not be readily available for purchase in local markets, the joint PSNP-OFSP/HABP modality is indeed unique in this setting. This combination of transfers may help households to provide complementary inputs to the OFSP/HABP transfers or it may enable households to use the income to smooth shocks to consumption while simultaneously investing in agriculture.</p><p xml:id="_3K5M7DJ">The context for this study is particularly relevant to the trade-off between short-term and longer term food security and the appropriate design of government safety net interventions. With survey rounds <ref type="bibr">conducted in 2006, 2008 and 2010</ref>, the data capture the period of the 2008-09 global food crisis that led to sharp increases in prices of staple food grains and considerable food insecurity for households that were net consumers of staple food grains.</p><p xml:id="_UyVwZsB">We examine the impact of these transfer modalities on Ethiopian households producing three major cereals, wheat, maize and barley, the three most important staple food crops in the data. We find that, from 2006 to 2010, access to both the PSNP and OFSP/HABP programmes led to considerable improvements in the use of fertiliser and enhanced investments in agriculture likely to improve agricultural productivity among households receiving both programmes. We find mixed effects of participation in both programmes in terms of impacts on yields. Households receiving OFSP/HABP transfers that also participated in the PSNP for 5 years had significantly higher yields than OFSP/HABP beneficiaries with low levels of PSNP participation, but did not have higher yields than OFSP/HABP non-beneficiaries with low participation in the PSNP. Also, high levels of participation in the PSNP programme alone had no effect on agricultural input use or productivity and limited impact on agricultural investments. We discuss the implications of these findings for the design of social protection programmes.</p><p xml:id="_EH3jNnx">This paper is organised as follows. Section 2 describes the Ethiopia Food Security Programme. Section 3 introduces the Ethiopia Food Security Survey data used in the analysis and describes the identification strategy. Section 4 summarises background information on the level of PNSP transfers and the outcome variables. Section 5 presents impact estimates for agricultural output and productivity. Section 6 concludes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2." xml:id="_UrxcVp5">The Ethiopia Food Security Programme</head><p xml:id="_cKxwbaH">In 2005, the Government of Ethiopia and a consortium of donors initiated a large-scale social safety net programme called the Food Security Programme (FSP). The FSP represented an important change in government strategy for addressing the recurring annual needs of its most food-insecure population. For more than a decade, food aid had been provided through an early warning system that annually identified the depth of food shortages in traditionally vulnerable areas, followed by emergency appeals for international food assistance. This system had prevented sharp rises in food insecurity, including after a major drought in 2002-03. However, the system was inefficient <ref type="bibr" target="#b16">(Jayne et al., 2002)</ref> and was failing to prevent asset depletion among the food-insecure population.</p><p xml:id="_2DwJNEM">The FSP replaced this system of emergency appeals with a standing safety net programme targeted initially at the 282 most chronically food-insecure woredas in rural Ethiopia. The flagship programme of the FSP was the Productive Safety Net Programme (PSNP). The PSNP provided food or cash transfers through PW projects to more than 7 million poor and food-insecure Ethiopians in 2007. A smaller number of individuals eligible for the PSNP (roughly 15%) who were unable to supply labour to the PW projects due to disability, infirmity or a very high household dependency ratio received income transfers through a programme of 'Direct Support' . Initially, participants in PW under the PSNP received transfers of 6 birr per day or 3 kg of cereals. The cash transfers increased to 8 birr per day in 2008 and 10 birr per pay in 2010 to compensate for the steep rise in cereal prices over that period. The objective of the PSNP was to provide reliable access to transfers for food-insecure households in order to prevent household asset depletion while building community assets through PW. Most activities occur between the months of January and June so as not to interfere with farming activities which primarily occur in the second half of the year.</p><p xml:id="_Hu8k7rQ">The Government of Ethiopia was concerned that a standing safety net could lead to dependency among beneficiaries, could create an increasing fiscal burden and may leave poor households in a persistent poverty trap. In response, the government developed the OFSP, in which local communities could choose among a suite of transfers or services including agricultural extension, bee-keeping, seeds, fertiliser packages and soil and water conservation activities such as stone terracing of communal and private fields. The goal of the OFSP was to facilitate asset accumulation. However, as noted in <ref type="bibr">Gilligan et al. (2007)</ref>, as of 2006 access to OFSP remained limited. From 2006 to 2008, the coverage improved but very few households had consistent access to the OFSP services <ref type="bibr">(Gilligan et al., 2009a, b)</ref>. This was due to a number of challenges associated with the implementation of the OFSP. A significant challenge was that the agricultural extension system was under-resourced and there were too few development agents (DAs), tasked with providing these services, that had sufficient skills to play their role effectively <ref type="bibr">(World Bank, 2010)</ref>. Also, owing to the lack of clear guidelines on OFSP implementation, there was considerable regional variation in its targeting <ref type="bibr" target="#b3">(Berhane et al., 2011)</ref>.</p><p xml:id="_sQ3Hswr">Given these problems, the Ethiopian government, in collaboration with donors and development partners, extensively redesigned the OFSP, christening the new programme as the Household Assets Building Programme (HABP). The HABP differs from the OFSP in three ways. First, there is an emphasis on greater contact and coordination with agricultural extension services. Each kebele is to have three DAs, one for each of these specialisations-crop science, animal husbandry and natural resources management. The DAs are supposed to disseminate 'technology packages' and provide on-farm technical advice. Second, the link between credit services and the extension service has been removed. Credit is now provided through microfinance institutions and Rural Savings and Credit Cooperatives (RUSACCO). Third, there has been a clarification of access to the HABP-specifically, PSNP clients are to be prioritised for support under HABP <ref type="bibr">(GFDRE, 2009)</ref>. <ref type="bibr" target="#b3">Berhane et al. (2011)</ref> show that considerable effort was made to meet these staffing goals, which improved the support provided by DAs. Many households report contact with DAs and, in particular, note that they have received advice about new crops and how crops can be grown. However, as <ref type="bibr" target="#b3">Berhane et al. (2011)</ref> discuss, assistance remains concentrated on crop production. Assistance on non-agricultural enterprises or access to new forms of credit has been limited. This expansion of the OFSP/HABP provides the basis for the comparisons made here.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3." xml:id="_RejvTkE">Survey data and identification strategy</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1" xml:id="_ZXTxskf">The Ethiopian Food Security Surveys</head><p xml:id="_zC2QSvv">The Ethiopian Food Security Surveys (EFSSs) were conducted in 2006, 2008 and 2010 for the purpose of evaluating the impact of the PSNP and related programmes. The surveys were conducted by the Ethiopian Central Statistical Agency (CSA), with technical support from the International Food Policy Research Institute (IFPRI). All three survey rounds were conducted from June to August in order to minimise the effect of seasonality on the impact estimates.</p><p xml:id="_UzVAQYX">The sample for the 2006 EFSS was drawn from a list of kebeles in chronically food-insecure woredas across the four major regions of Ethiopia: Tigray, Amhara, Oromiya and Southern Nations, Nationalities, and People's Region (SNNPR). Two-stage clustered sampling was used in which sixty-eight woredas were randomly sampled with probability proportional to size from a list of 153 chronically food-insecure woredas. The sample was stratified by region, with nineteen woredas each selected from Oromiya and SNNPR, eighteen from Amhara and twelve from Tigray. Within each woreda, kebeles were randomly selected to serve as 'enumeration areas' (EAs) for the survey, from among those kebeles with active PSNP. The sample includes two kebeles per woreda in Amhara, Oromiyia and SNNPR and three kebeles per woreda in Tigray. Within each kebele, a sample of households was drawn, including fifteen PSNP beneficiary households and ten non-beneficiary households. The final sample included 146 EAs and a total of 3,688 households.</p><p xml:id="_cDnh87M">There were 3,366 households interviewed that form the 2006-2008-2010 panel. Across all three rounds, 3,140 households appear in all rounds, yielding an attrition rate of 14.8% over 5 years, or just under 3% per year. The effective sample of households for analysis is all those households for which we have complete data on baseline household characteristics to be used in the dose -response models. We have this information for 3,038 households for which we also have outcome data in later rounds.</p><p xml:id="_dasWwQy">There was some regional variation in attrition, where households in Tigray and SNNPR are less likely to leave the sample across the three rounds compared with households in Amhara and Oromiya. <ref type="bibr" target="#b3">Berhane et al. (2011)</ref> investigated whether potential differences in attrition rates can be attributed to differences in baseline characteristics by examining the correlation of the probability of attrition with household characteristics and region dummies. They show that being a beneficiary was not highly correlated with the probability of attrition. Older and smaller households were slightly more likely to attrite than other household types but the association of these characteristics on attrition was small.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2" xml:id="_DHNHUnk">Identification strategy</head><p xml:id="_Ha4Zjm3">For many of the comparisons made here, identification of treatment effects is provided through the estimation of the dose -response models of <ref type="bibr" target="#b15">Hirano and Imbens (2004)</ref>. This approach extends propensity score-matching methods for binary treatments to cases where treatment is continuous, as with years of receipt of the PSNP. Previous studies of the impact of the FSP using the EFSS data from 2006 to 2008 were based on propensity score matching, defining participation in the PSNP and OFPS as a binary treatment <ref type="bibr">(Gilligan et al., 2009a)</ref>. The EFSS panel survey was designed to facilitate analysis of treatment effects through matching techniques. The first-round data set in 2006 contains an extensive set of observable household and community characteristics on which to construct matching estimates, and outcome variables were measured in the same way across rounds. However, the EFSS has become less suitable over time to the application of binary-matching techniques to study the impact of the PSNP and OFSP/HABP for two reasons. First, for the PSNP, binary-matching methods rely on the construction of a comparison group with similar characteristics that does not receive PSNP benefits. <ref type="bibr" target="#b3">Berhane et al. (2011)</ref> show that, over time, there has been considerable movement in and out of the PSNP with the result that the number of households in the EFSS that have never received the PSNP has shrunk. Further, the remaining nonbeneficiary households are increasingly different, on average, from current and past beneficiaries; over a 6-year period, they have never been deemed sufficiently food insecure to warrant inclusion in the programme.</p><p xml:id="_JV4pQ8Y">Second, the levels of participation in the PSNP vary widely. Many households enrolled in the PNSP at some point during this period had only limited participation. At the same time, after 6 years of operation of the PSNP, there are beneficiary households that have received transfers for at least 5 years, with the level of transfers reaching to the thousands of birr. Treating these different levels of participation as uniform requires averages over very different levels of exposure to the PSNP and does not make the best use of the EFSS data. Moreover, it would be useful to know whether there are diminishing or increasing impacts associated with longer programme participation. This is not possible with matching methods based on a binary treatment.</p><p xml:id="_SMAFjdJ">In the light of these issues, we apply the methods of <ref type="bibr" target="#b15">Hirano and Imbens (2004)</ref> to assess the impact of the duration of programme participation on outcomes of interest. This method estimates a dose -response function in which the dose here is the number of years a household receives PSNP payments and the response is the impact of each level of transfers on the outcomes of interest. As Hirano and Imbens explain, we cannot simply assess impact through an examination of the relationship between observed transfer levels and outcomes because of the selection bias problem. Because the level of transfers received by beneficiary households is not a random variable, failing to control for factors that affect both the level of transfers received and outcomes of interest leads to bias in this estimated relationship. <ref type="bibr" target="#b15">Hirano and Imbens (2004)</ref> show how, under certain conditions, an extension of the estimation of the propensity score eliminates the bias in this relationship.</p><p xml:id="_a63qFHX">To see how this works, define T as the set of all treatment levels (such as years of transfers received under the PSNP) and T i as a specific treatment (transfer) level for the ith household. Define the treatment interval [t 0 , t 1 ], so that T i [ [t 0 , t 1 ]. 2 Let Y i (T i ) be the outcome variable for the ith household receiving treatment level T i and let X i be a set of baseline household and location-specific control variables that are correlated with the probability of participation and the outcome. We subsequently omit the subscript i for simplicity of notation. We are interested in calculating the average dose -response function, m(t) ¼ E[Y(t)]. Hirano and Imbens note that the unconfoundedness assumption for matching in the binary case-that after controlling for X, mean outcomes for non-beneficiaries are identical to outcomes of beneficiaries if they had not received the programme-can be generalised to the case where T is continuous as</p><formula xml:id="formula_0">Y(t)⊥T|X for all t [ T .</formula><p xml:id="_HKsRdJG">(</p><formula xml:id="formula_1">)<label>1</label></formula><p xml:id="_pvV26AK">This assumption is referred to as weak unfoundedness because it requires conditional independence only at each value of treatment T, rather than joint independence for all outcomes. They define the generalised propensity score, R, as R ¼ r(T, X). They note that, 'the GPS has a balancing property similar to that of the standard propensity score. Within strata with the same value of r(T, X) the probability that T ¼ t does not depend on the value of X' <ref type="bibr">(Hirano and Imbens, 2004, p.</ref> 2). Hirano and Imbens prove that if assignment to treatment is weakly unconfounded given X, then it is weakly unconfounded given the GPS.</p><p xml:id="_vYdEH83">To implement this approach, we first estimate the values of the GPS. We assume that the treatment variable is normally distributed, conditional on the covariates X: g(T)|X N{h(g, X), s 2 } .</p><p xml:id="_ad2Pxkg">(2)</p><p xml:id="_3eavXPw">We estimate equation (2) using maximum likelihood and calculate the GPS as:</p><formula xml:id="formula_2">Ri = [2ps 2 ] -0.5 exp[(-(2s 2 ) -1 )[g(T i ) -h(g, X)]].<label>(3)</label></formula><p xml:id="_eQrE6gW">Next, as with case of a binary outcome, we test the properties of the estimator for balancing the covariates. As described in <ref type="bibr" target="#b17">Kluve et al. (2007)</ref>, we divide the sample into three groups based on the tertiles of the treatment levels. We then divide each treatment-level group into five blocks by quintiles of the GPS distribution in that group. Within each block, we calculate the difference in means for each element of X between households with a particular treatment level and other households with a different treatment level but with a GPS that puts them in the same block. These differences in means are evaluated for each treatment level within a block to determine whether average covariates differ between different treatment levels within quintiles of the GPS distribution. A weighted average over the five blocks in each treatment-level group is then used to calculate a t-statistic of the differences-in-means between the particular treatment-level group and all other groups. This procedure is repeated for each treatment-level group and each covariate. If adjustment for the GPS properly balances the covariates, differences in means will not be statistically different from zero.</p><p xml:id="_euMFj2D">In addition, following <ref type="bibr" target="#b5">Carneiro and Rodrigues (2009)</ref>, we test whether the mean for each covariate in each group differs from the mean value of this covariate in the other two groups combined, after adjusting for the GPS.</p><p xml:id="_HYumUBe">Our covariates include characteristics of the household head (age, sex, social connections), wealth of the household (landholdings, number of oxen), shocks (drought, illness) and household location (proportion of households experiencing drought shocks, changes in staple grain and cattle prices). We note that the 2006 survey contained retrospective questions on many of these characteristics that pre-date programme implementation and, as such, satisfy the requirement that these were determined prior to the start of the PSNP. Our preferred specification includes thirtythree covariates. Using these, we calculate 99 t-statistics and assess whether, at the 90 and 95 confidence levels, we reject the null hypothesis that the mean difference in covariates is zero. After adjusting for the GPS, the number of t-statistics higher than 1.645 or 1.96 is four and one, respectively, implying that the GPS successfully balances the covariates.</p><p xml:id="_fgcRsMu">Once the balancing property is satisfied, we estimate the conditional expectation of Y given T and R. Initially, we use a linear specification that only includes the treatment level (years of PSNP transfers), the GPS and the interaction of these two terms. As a robustness check, we compare the results of this linear specification with a quadratic specification and obtain similar results, so we use the linear specification. We use the results of this estimation to calculate the dose-response function by estimating the average conditional expectation function over the GPS at each level of treatment (transfers). We use bootstrap methods to calculate the confidence intervals for these. <ref type="bibr" target="#b15">Hirano and Imbens (2004)</ref> note that the value of the dose-response at a particular level of treatment does not have a causal interpretation, but the difference in the dose-response at two levels of treatment does have a causal interpretation.</p><p xml:id="_BGw9Cw8">This procedure is used to determine the average dose -response of the outcome at each level of transfers, measured as years of participation in the PSNP. Households with only 1 year of participation in the PSNP had a low level of transfers on average, whereas those with 5 years of participation, the maximum over this period, had high average values of transfers received. Comparing the dose -response between the highest and lowest years of participation allows us to measure the impact of active participation in the PSNP within a group of PSNP-eligible households. In order to measure the impact of the PSNP alone as well as the impact of the PSNP and OFSP/HABP combined, we estimate the PSNP dose -response model separately for the sample that did not participate in the OFSP/HABP and for the sample that did receive the OFSP/HABP. This enables a rich set of comparisons of outcomes between levels of years of participation in the PSNP with and without access to the OFSP/HABP, as shown in Table <ref type="table" target="#tab_0">1</ref>.</p><p xml:id="_37KkQKd">The columns in Table <ref type="table" target="#tab_0">1</ref> represent the two PNSP dose -response models estimated on the OFSP/HABP non-beneficiary sample and OFSP/HABP beneficiary sample, respectively. Within either sample, differences in impacts between levels of PSNP participation (for example, comparing B with A, say 'B-A', or comparing D with C, say 'D-C') are identified under the weak confoundedness assumption of <ref type="bibr" target="#b15">Hirano and Imbens (2004)</ref>. However, an important limitation of these comparisons occurs when we compare levels of outcomes across the OFSP/HABP beneficiary and non-beneficiary samples. When we compare, for example, outcomes of OFSP/HABP beneficiaries with 5 years of participation in the PSNP (D in Table <ref type="table" target="#tab_0">1</ref>) with those of OFSP/HABP non-beneficiaries with 5 years of participation in the PSNP (B in Table <ref type="table" target="#tab_0">1</ref>), these samples have not been matched within the same dose -response model. Instead, we are comparing outcomes at the highest level of PNSP treatment dosage across two samples. The identifying assumption for the comparison of D with B (comparison D -B) across dose -response models is that, conditional on the GSP for each model, the outcome variable of OFSP/HABP nonbeneficiaries with high level of PSNP transfers is the same as would occur for OFSP/HABP beneficiaries if they had not received the OFSP/ HABP transfers but had received the high level of PSNP transfers. This is clearly a stronger identifying assumption than weak confoundedness conditional on the GPS for comparisons within dose -response models. However, selection bias should be reduced relative to a comparison of unadjusted mean outcomes between groups D and B because mean outcomes </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4." xml:id="_GDMRQZt">Summary of PSNP transfer levels and outcome variables</head><p xml:id="_Ed3wf4j">In this section, we provide descriptive statistics on the PSNP payments data and agricultural outcomes studied in this paper.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.1" xml:id="_hgv965a">PSNP transfer levels</head><p xml:id="_yuQawyq">As described in <ref type="bibr" target="#b3">Berhane et al. (2011</ref><ref type="bibr">Berhane et al. ( ), the 2006</ref><ref type="bibr">Berhane et al. ( , 2008</ref><ref type="bibr">Berhane et al. ( and 2010</ref> surveys recorded respondents' recall on payments data for both cash and in-kind payments for the following periods: January-May 2006; January 2007-May 2008; and January 2009-May 2010. The community survey included a module that asked key informants to list prices of food grains over the previous 12 months. These data are used to value in-kind transfers. These values are added to cash payments received to generate the amount of total payments received through the PSNP over this period, by year. <ref type="foot" target="#foot_8">3</ref>We begin by looking at the distribution of households in the sample across the number of years they received PW payments by region, shown in Table <ref type="table" target="#tab_1">2</ref>. Table <ref type="table" target="#tab_1">2</ref> shows that 1,872 households in the sample received payments for PW in at least 1 year between 2006 and 2010. Of these 1,872 PSNP beneficiary households, close to 70% received these payments for 3 or more years. Figure <ref type="figure" target="#fig_0">1</ref> shows the distribution of these payments, in 100 birr increments for households that received up to 7,500 birr. <ref type="foot" target="#foot_9">4</ref> While Figure <ref type="figure" target="#fig_0">1</ref> includes a wide range of values, the distribution is skewed to the left. Median transfers were 1,700 birr per beneficiary household. Relatively few beneficiary households (15%) received more than 3,500 birr.</p><p xml:id="_5XS2Jcu">Table <ref type="table" target="#tab_2">3</ref> links the information found in Table <ref type="table" target="#tab_1">2</ref> with that found in Figure <ref type="figure" target="#fig_0">1</ref>. The rows refer to the number of years that a household received PW payments. The columns show the level of payments at different points in the distribution of payments for households receiving payments for  1 year only, for 2 years and so on. Table <ref type="table" target="#tab_2">3</ref> shows that at any point in the distribution of payments (e.g., comparing medians), households that receive more years of PW payments receive higher levels of total payments. Table <ref type="table" target="#tab_3">4</ref> takes the data found in Table <ref type="table" target="#tab_2">3</ref> and divides it by the number of years that the household receives payments. This allows us to compare the distribution of average payments across the differing number of years of payments. It shows clearly that households with longer exposure to the PSNP-i.e., households with more years of participation-receive higher average payments per year of participation than households with fewer years of participation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.2" xml:id="_ErscHEb">Outcome variables</head><p xml:id="_5NSNkMc">We estimate the impact of the PSNP and OFPS/HABP on measures of agricultural output, productivity and investment. Outcomes considered  include the change in cereal production for wheat, maize and barley from 2006 to 2010; change in area under cultivation for these cereals from 2006 to 2010; and change in cereal yields from 2006 to 2010. In addition, we consider fertiliser use in 2010 and measures of agricultural investment in the period from 2006 to 2010, including investment in stone terracing, investment in fencing and investment in water harvesting. Each of these investments promotes agricultural productivity by preserving or improving soil quality or water use. Table <ref type="table" target="#tab_4">5</ref> presents summary statistics on median production, area planted and yield aggregated across the three most common grain crops grown by this sample: wheat, maize and barley. <ref type="foot" target="#foot_10">5</ref> In order to minimise the impact of outliers, we report medians in this table. We find that the median production in 2006 was 150 kg on an average area of 0.25 ha. By 2010, production fell to 102 kg while the acreage increased marginally. There was a substantial drop in yield between 2006 and 2010, from 680 kg per hectare to 509 kg per hectare.</p><p xml:id="_tfZVjtw">Table <ref type="table" target="#tab_5">6</ref> presents the average fraction of households that undertook various agricultural investments and used fertiliser in the periods between <ref type="bibr" target="#b1">2006</ref><ref type="bibr">and 2008</ref><ref type="bibr">and 2008</ref><ref type="bibr">and 2010</ref><ref type="bibr">. Twenty per cent of households used fertiliser between 2006</ref><ref type="bibr">and 2008</ref> and this percentage increased to 33 in the subsequent period. We also find some investment in the stone terracing and fencing in the two periods. About 42% of households invested in stone terracing between <ref type="bibr">2006 and 2008 and about 16% between 2008 and 2010.</ref> Given that once households invest in stone terracing they do not need to do so every year, this decline in the rate of new investment in stone terracing to 16% represents additional investment rather than a drop in the number of households with stone terracing investments. A very small fraction of households invest in water harvesting. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5." xml:id="_ThZRKKv">Impact on agricultural output, productivity and investment</head><p xml:id="_AWEQSvS">Table <ref type="table" target="#tab_6">7</ref> presents the estimated dose -response for change in cereals production, area and yield from 2006 to 2010 by number of years that a household received PW payments for OFSP/HABP non-beneficiaries (PW only) and for OFSP/HABP beneficiaries (PW + OFSP/HABP). The dose -response of the change in production from 2006 to 2010 declines with higher levels of PW payments for OFSP/HABP non-beneficiaries and increases for OFSP/HABP beneficiaries, but none of these estimates is statistically significant. For change in area planted from 2006 to 2010, there is no clear pattern to the dose -response for either the OFSP/HABP nonbeneficiary or beneficiary samples. The estimated dose -response of change in yields for OFSP/HABP beneficiaries shows that yields declined from 2006 to 2010 for households with 1-3 years of PW payments. The pattern of the dose -response appears to show a positive yield response to increasing levels of participation in the PSNP for OFSP/HABP beneficiaries. For change in production only, we labelled the estimated doseresponse corresponding to the comparisons described in Table <ref type="table" target="#tab_0">1</ref> for low and high levels of PW payments for OFSP/HABP non-beneficiaries (A and B, respectively) and for low and high levels of PW payments for OFSP/HABP beneficiaries (C and D, respectively) to facilitate the description of these comparisons.</p><p xml:id="_frXdC97">In Table <ref type="table" target="#tab_7">8</ref>, we present impact estimates for change in production, area and yield of increasing levels of PW payments with and without access to the OFSP/HABP, using the estimated dose -response functions in Table <ref type="table" target="#tab_6">7</ref>. The first row of Table <ref type="table" target="#tab_7">8</ref> shows the impact of receiving 5 years of PW payments compared with 1 year of PW payments for households that did not participate in the OFSP/HABP. As shown in Table <ref type="table" target="#tab_2">3</ref>, the median value of transfers received by PW beneficiaries receiving only 1 year of payments was very low, at only 186 birr (roughly 19 US dollars at the 2008 exchange rate), whereas the median value of transfers received by PW beneficiaries with 5 years of payments was eighteen times higher at 3,370 birr. This makes PW beneficiaries with only 1 year of payments an excellent comparison group in terms of limiting potential selection bias. These households were eligible to participate in the PW programme, but received very low payments. Results from Table <ref type="table" target="#tab_7">8</ref> show that receiving 5 years of PW payments relative to 1 year of payments had no impact on change in cereals production, area or yield from 2006 to 2010. The additional income from the programme did not induce improvements in agricultural productivity.</p><p xml:id="_MVFEXZC">The second row of Table <ref type="table" target="#tab_7">8</ref> shows the impact of receiving a high level of PW payments (5 years) plus transfers from the OFSP/HABP programme relative to receiving only 1 year of PW payments and no OFSP/HABP transfers. This is comparison D -A in Table <ref type="table" target="#tab_0">1</ref>. Gaining access to both programmes had no impact on change in production, area or yield relative to receiving low (PW) or no (OFSP/HABP) transfers from either programme. Similarly, if we compare the effect of receiving OFSP/HABP transfers on households receiving a high level of PW payments (comparison D -B, row 3 of Table <ref type="table" target="#tab_7">8</ref>), there is no effect on change in cereals production, area or yield. Households with high levels of participation in PW do not show any improvements in agricultural productivity resulting from access to the OFSP/HABP. However, among households participating in OFSP/HABP, the effect of increasing PW payments received from 1 to 5 years (comparison D-C, row 4 of Table <ref type="table" target="#tab_7">8</ref>) has a significant effect on the change in yields from 2006 to 2010. This shows that, for households receiving OFSP/HABP transfers and services, the substantial gain in income derived from increasing participation in PW from 1 to 5 years enables these households to make more effective use of OFSP/HABP transfers to boost their agricultural productivity. When considering all of the evidence on the combined effect of PW and OFSP/HABP transfers from rows 2 to 4 of Table <ref type="table" target="#tab_7">8</ref>, it is clear that the distribution of impacts on agricultural productivity is not uniform, but providing additional income through PW to OFSP/HABP beneficiaries has a meaningful effect on yields. It is worth noting that the comparison showing an effect of both programmes on yields (comparison D -C) is estimated within the dose -response model estimated on OFPS/HABP beneficiaries, which should be less subject to residual selection bias than comparisons D -A or D -B.</p><p xml:id="_pXcxvKv">We now consider the impact of the PW and OFSP/HABP programmes on fertiliser use in 2010 and on agricultural investments in stone terracing, fencing or water harvesting from 2006 to 2010. Table <ref type="table" target="#tab_8">9</ref> presents the estimated dose -response functions for each of these outcomes for OFSP/ HABP non-beneficiaries and beneficiaries. Table <ref type="table" target="#tab_9">10</ref> presents the impact of intensity of participation in PW with and without OFSP/HABP participation. For households not participating in OFSP/HABP (row 1 in Table <ref type="table" target="#tab_9">10</ref>), increasing the level of PW participation from 1 to 5 years has no impact on fertiliser use or on investments in stone terracing or water harvesting, but increases the probability of investing in fencing by 16 percentage points. Results in Table <ref type="table" target="#tab_9">10</ref> show much broader and larger impacts of combining receipt of high level of PW payments with OFSP/HABP transfers on fertiliser use and agricultural investment. Receiving high levels of PW payments and OFSP/HABP transfers increases the probability of using fertiliser and investments in fencing by 21 percentage points and 29 percentage points, respectively, relative to low participation in PW and no OFSP/HABP transfers (comparison D -A). Adding OFSP/HABP transfers for households receiving high levels of PW payments (comparison D -B) and increasing PW payments from 1 to 5 years for OFSP/HABP beneficiaries (comparison D -C) both increase the probability of using fertiliser and investing in stone terracing and fencing. The pattern of impacts in Table <ref type="table" target="#tab_9">10</ref> does not give a clear indication of which combination of PSNP and OFSP/HABP participation is most effective, but there is strong evidence overall that providing PW transfers in addition to OFSP/HABP transfers led to increased fertiliser use and substantial investment in agriculture during this period. <ref type="bibr">et al. (2009a, b)</ref> showed modest improvements in food security, but surprisingly large improvements in growth of asset holdings from 2006 to 2008 as a result of the PSNP. Impacts were generally larger among households that had received both the PSNP transfers and services from the OFSP. Beneficiary households appear to have been saving some of the transfers through increased asset holdings as a way to insure against future food security shocks and eventually overcome probable poverty traps. This finding raised the question of whether this pattern of households undertaking investments to improve future welfare would also be present in agricultural investments. Investments in agriculture are generally more risky than saving through livestock accumulation, take longer to realise returns and are much less liquid. As a result, such investments perform less of an insurance function than asset accumulation, but may have much greater potential for improving long-term food security. It is important to note that the agricultural investments and yield increases documented here are likely due to these programmes and not as a response to the price rises coming from the global food crisis. The food crises should have affected OFSP/HABP beneficiary and nonbeneficiary households alike as well as households receiving varying levels of PSNP transfers because both kinds of households are drawn from the same kebele.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="6." xml:id="_jSWGVK7">Conclusion</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_AugW8n3">Gilligan</head><p xml:id="_ttRbYFD">The results presented here indicate that during this period, access to both the PSNP and OFSP/HABP programmes led to considerable improvements in the use of fertiliser and enhanced investments in agriculture likely to improve agricultural productivity among households receiving both programmes. In addition, households receiving OFSP/HABP transfers that also participated in the PSNP for 5 years had significantly higher yields than OFSP/HABP beneficiaries with low levels of PSNP participation. However, these households benefiting from high PSNP transfers and the OFSP/HABP did not have significantly higher yields than OFSP/ HABP non-beneficiaries with low participation in the PSNP. These results indicate that OFSP/HABP beneficiaries that also received a high level of PSNP transfers substantially increased fertiliser use and agricultural investment, but in only some cases had this resulted in observed improvements in yields. Also, high levels of transfers in the PSNP programme alone had no effect on agricultural input use or productivity and limited impact on agricultural investments.</p><p xml:id="_7Zfepsn">These results have important implications for the design of safety net programmes and the optimal mix of income transfers and productivityenhancing investments. Attempts to improve yields through the OFSP are sometimes more effective when coupled with income transfers. There is clear evidence that adding these income transfers for OFSP/HABP beneficiaries allows these households to make complementary investments to the OFSP services received so that they are better able to smooth their consumption and maintain the investments made.</p><p xml:id="_zqrBCzk">These results come with some caveats. Beneficiaries across these programmes were not randomly selected and may differ in their demand for agricultural productivity-enhancing investments or in their returns to such investments. Estimating impacts of varying levels of PSNP payments using dose -response models with the data available should be effective at controlling for differences in observable characteristics between households at each transfer level. Thus, comparisons made between the impacts of high and low PSNP payments within the sample of OSFP/ HABP beneficiaries or within the sample of OSFP/HABP non-beneficiaries should be well identified with low selection bias. Comparisons made across these dose -response models between OSFP/HABP beneficiaries and nonbeneficiaries require stronger identifying assumptions and so may be subject to higher selection bias due to unobserved differences in these groups.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 :</head><label>1</label><figDesc xml:id="_72scNn7">Figure 1: Distribution of PW Payments: January 2006-May 2010. Source: EFSS.</figDesc><graphic coords="14,65.37,252.85,312.92,222.80" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 :</head><label>1</label><figDesc xml:id="_kJYeVqN">Comparisons of Treatment Effects for PSNP Dose -Response Models and Participation in the OFSP/HABP</figDesc><table><row><cell></cell><cell>OFSP/HABP participation</cell><cell></cell></row><row><cell>Level of PSNP participation</cell><cell>OFSP/HABP</cell><cell>OFSP/HABP</cell></row><row><cell></cell><cell>non-beneficiaries</cell><cell>beneficiaries</cell></row><row><cell cols="2">Low: 1 year of PSNP participation A</cell><cell>C</cell></row><row><cell>High: 5 years of PSNP</cell><cell>B</cell><cell>D</cell></row><row><cell>participation</cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 :</head><label>2</label><figDesc xml:id="_qUgDXKd">Distribution of PSNP Beneficiary Households in the EFSS Sample by Number of Years the Household Received PW Payments, by Region</figDesc><table><row><cell>Number of years household received PW</cell><cell cols="4">Number of PSNP beneficiary house-</cell><cell></cell></row><row><cell>payments</cell><cell cols="2">holds by region</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell cols="5">Tigray Amhara Oromiya SNNPR Total</cell></row><row><cell>1</cell><cell>86</cell><cell>61</cell><cell>108</cell><cell>64</cell><cell>319</cell></row><row><cell>2</cell><cell>119</cell><cell>49</cell><cell>65</cell><cell>37</cell><cell>270</cell></row><row><cell>3</cell><cell>88</cell><cell>77</cell><cell>93</cell><cell>47</cell><cell>305</cell></row><row><cell>4</cell><cell>115</cell><cell>89</cell><cell>78</cell><cell>43</cell><cell>325</cell></row><row><cell>5</cell><cell>177</cell><cell>102</cell><cell>122</cell><cell>252</cell><cell>653</cell></row><row><cell>Total</cell><cell>585</cell><cell>378</cell><cell>466</cell><cell>443</cell><cell>1,872</cell></row></table><note xml:id="_GHXtv7p"><p>Source: EFSS.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 :</head><label>3</label><figDesc xml:id="_RpGYzXt">Distribution of Payments (in Ethiopian birr), by Number of Years Households Received PW Payments</figDesc><table><row><cell>Number of years household</cell><cell cols="2">1st 10th</cell><cell cols="3">25th Median 75th</cell><cell>90th 99th</cell></row><row><cell>received PW payments</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>1</cell><cell>25</cell><cell>60</cell><cell>100</cell><cell>186</cell><cell>360</cell><cell>540 1,900</cell></row><row><cell>2</cell><cell>123</cell><cell>278</cell><cell>520</cell><cell>898</cell><cell cols="2">1,691 2,916 6,842</cell></row><row><cell>3</cell><cell>262</cell><cell>470</cell><cell>789</cell><cell>1,380</cell><cell cols="2">2,118 3,000 5,133</cell></row><row><cell>4</cell><cell>459</cell><cell cols="2">896 1,279</cell><cell>1,919</cell><cell cols="2">3,041 4,449 6,332</cell></row><row><cell>5</cell><cell cols="3">750 1,350 2,244</cell><cell>3,370</cell><cell cols="2">4,610 5,646 7,188</cell></row><row><cell>Total</cell><cell>51</cell><cell>210</cell><cell>630</cell><cell>1,650</cell><cell cols="2">3,180 4,783 6,800</cell></row><row><cell>Source: EFSS.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4 :</head><label>4</label><figDesc xml:id="_x3WPdyF">Distribution of Average Payments (in Ethiopian birr) per Year, by Number of Years Households Received PW Payments</figDesc><table><row><cell>Number of years household received</cell><cell cols="6">1st 10th 25th Median 75th 90th 99th</cell></row><row><cell>PW payments</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>1</cell><cell>25</cell><cell>60</cell><cell>100</cell><cell>186</cell><cell>360</cell><cell>540 1,900</cell></row><row><cell>2</cell><cell cols="2">62 139</cell><cell>260</cell><cell>449</cell><cell cols="2">846 1,458 3,421</cell></row><row><cell>3</cell><cell cols="2">87 157</cell><cell>263</cell><cell>460</cell><cell cols="2">706 1,000 1,711</cell></row><row><cell>4</cell><cell cols="2">115 224</cell><cell>320</cell><cell>480</cell><cell cols="2">760 1,112 1,583</cell></row><row><cell>5</cell><cell cols="2">150 270</cell><cell>449</cell><cell>674</cell><cell cols="2">922 1,129 1,438</cell></row><row><cell>Total</cell><cell cols="2">40 145</cell><cell>263</cell><cell>480</cell><cell cols="2">778 1,086 2,117</cell></row><row><cell>Source: EFSS.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 5 :</head><label>5</label><figDesc xml:id="_rPftqUX">Cereal Crop Production, by YearFigures reported are median values for production of wheat, maize and barley.</figDesc><table><row><cell>Year</cell><cell>Production (kg)</cell><cell>Area planted (ha)</cell><cell>Yield (kg/ha)</cell></row><row><cell>2006</cell><cell>150</cell><cell>0.25</cell><cell>680</cell></row><row><cell>2010</cell><cell>102</cell><cell>0.29</cell><cell>509</cell></row><row><cell>Note:</cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Table 6 :</head><label>6</label><figDesc xml:id="_aDD9VX6">Agricultural Investments, 2006-10Fraction of households that . . .</figDesc><table><row><cell></cell><cell cols="2">Ethiopia's Food Security Programme | 777</cell></row><row><cell></cell><cell>Between 2006 and 2008</cell><cell>Between 2008 and 2010</cell></row><row><cell>Used fertilisers</cell><cell>0.20</cell><cell>0.33</cell></row><row><cell>Invested in stone terracing</cell><cell>0.42</cell><cell>0.16</cell></row><row><cell>Invested in fencing</cell><cell>0.32</cell><cell>0.21</cell></row><row><cell>Invested in water harvesting</cell><cell>0.03</cell><cell>0.01</cell></row><row><cell cols="3">Note: Numbers indicate the fraction of households that made these investments across two</cell></row><row><cell cols="2">periods of two years each: 2006-08 and 2008-10.</cell><cell></cell></row><row><cell></cell><cell></cell><cell>Downloaded from</cell></row><row><cell></cell><cell></cell><cell>http://jae.oxfordjournals.org/</cell></row><row><cell></cell><cell></cell><cell>at Universite de Sherbrooke on April 10, 2015</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6"><head>Table 7 :</head><label>7</label><figDesc xml:id="_Cw2bhtT">Estimated Dose -Response on Agricultural Production and Productivity byNumber of Years of Receiving PW Payments, by Participation in OFSP/HABP, 2006-10</figDesc><table><row><cell>Number of years household</cell><cell cols="2">Change in production (kg), 2006-</cell><cell cols="2">Change in area (ha), 2006-10</cell><cell cols="2">Change in yield (kg/ha), 2006-10</cell></row><row><cell>received PW payments</cell><cell>10</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>PW only</cell><cell>PW 1 OFSP/</cell><cell>PW only</cell><cell>PW 1 OFSP/</cell><cell>PW only</cell><cell>PW 1 OFSP/HABP</cell></row><row><cell></cell><cell></cell><cell>HABP</cell><cell></cell><cell>HABP</cell><cell></cell></row><row><cell>1</cell><cell cols="2">1.9 (A) (42.9) 229.7 (C) (54.1)</cell><cell>0.008 (0.057)</cell><cell>0.071 (0.061)</cell><cell cols="2">26.2 (139.6) 2346.7*** (119.7)</cell></row><row><cell>2</cell><cell>219.8 (27.1)</cell><cell>227.5 (25.5)</cell><cell>0.031 (0.037)</cell><cell>0.050 (0.039)</cell><cell cols="2">33.4 (114.8) 2250.7*** (78.5)</cell></row><row><cell>3</cell><cell>211.3 (28.4)</cell><cell>228.0 (24.1)</cell><cell>0.071 (0.045)</cell><cell>0.039 (0.030)</cell><cell cols="2">221.1 (104.5) 2159.1** (79.2)</cell></row><row><cell>4</cell><cell>216.0 (32.5)</cell><cell>212.7 (16.7)</cell><cell cols="2">0.064* (0.038) 0.044* (0.025)</cell><cell cols="2">21.3 (113.1) 277.6 (65.2)</cell></row><row><cell>5</cell><cell>267.3 (B) (89.8)</cell><cell cols="2">22.3 (D) (26.9) 20.010 (0.060)</cell><cell>0.049 (0.030)</cell><cell>162.5 (240.2)</cell><cell>1.0 (72.6)</cell></row><row><cell cols="7">Notes: The estimated dose-response is labelled (for change in production only) corresponding to the comparisons described in Table 1 for low</cell></row><row><cell cols="7">and high levels of PW payments for OFSP/HABP non-beneficiaries (A and B, respectively) and for low and high levels of PW payments for OFSP/</cell></row><row><cell cols="2">HABP beneficiaries (C and D, respectively).</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>*Significant at the 10% level.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>**Significant at the 5% level.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>***Significant at the 1% level.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_7"><head>Table 8 :</head><label>8</label><figDesc xml:id="_8YngP7p">Impact of PW Payments and Participation in OFSP/HABP on Agricultural Production and Productivity</figDesc><table><row><cell></cell><cell></cell><cell cols="3">Ethiopia's Food Security Programme | 779</cell></row><row><cell>Impact of PSNP and OFSP/</cell><cell cols="2">Change in production</cell><cell>Change in area</cell><cell>Change in yield</cell></row><row><cell>HABP programme</cell><cell cols="2">(kg), 2006-10</cell><cell>(ha), 2006-10</cell><cell>(kg/ha), 2006-10</cell></row><row><cell>components</cell><cell></cell><cell></cell><cell></cell></row><row><cell>PW alone (B-A)</cell><cell cols="2">269.2 (112.7)</cell><cell>20.018 (0.078)</cell><cell>136.3 (312.7)</cell></row><row><cell>Both PW and OFSP/</cell><cell></cell><cell>20.3 (47.1)</cell><cell cols="2">0.041 (0.066) 225.2 (148.7)</cell></row><row><cell>HABP (D-A)</cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">High PW payments plus OFSP/HABP (D-B) OFSP/HABP, add PW (D-C) *Significant at the 10% level. **Significant at the 5% level. ***Significant at the 1% level.</cell><cell>89.5 (96.0) 52.0 (63.3)</cell><cell cols="2">0.059 (0.065) 2161.4 (246.6) 20.022 (0.069) 347.7** (141.2)</cell><cell>http://jae.oxfordjournals.org/ Downloaded from</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>at Universite de Sherbrooke on April 10, 2015</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_8"><head>Table 9 :</head><label>9</label><figDesc xml:id="_5mjFbdw">Estimated Dose -Response on Fertiliser Use and Agricultural Investment by Number of Years of Receiving PW Payments, by Participation in OFSP/HABP, 2006-10</figDesc><table><row><cell>Number of years</cell><cell cols="2">Probability of using</cell><cell cols="2">Probability of investing in</cell><cell cols="2">Probability of investing in</cell><cell cols="2">Probability of investing in</cell></row><row><cell>household received</cell><cell>fertiliser</cell><cell></cell><cell cols="2">stone terracing</cell><cell>fencing</cell><cell></cell><cell cols="2">water harvesting</cell></row><row><cell>PW payments</cell><cell>2010</cell><cell></cell><cell>2006-10</cell><cell></cell><cell>2006-10</cell><cell></cell><cell>2006-10</cell><cell></cell></row><row><cell></cell><cell>PW only</cell><cell>PW 1 OFSP/</cell><cell>PW only</cell><cell>PW 1 OFSP/</cell><cell>PW</cell><cell>PW 1 OFSP/</cell><cell>PW only</cell><cell>PW 1 OFSP/</cell></row><row><cell></cell><cell></cell><cell>HABP</cell><cell></cell><cell>HABP</cell><cell></cell><cell>HABP</cell><cell></cell><cell>HABP</cell></row><row><cell>1</cell><cell>0.208***</cell><cell>0.290***</cell><cell>0.471***</cell><cell>0.415***</cell><cell>0.221***</cell><cell>0.290***</cell><cell>0.012</cell><cell>0.021**</cell></row><row><cell></cell><cell>(0.049)</cell><cell>(0.033)</cell><cell>(0.070)</cell><cell>(0.041)</cell><cell>(0.055)</cell><cell>(0.044)</cell><cell>(0.010)</cell><cell>(0.010)</cell></row><row><cell>2</cell><cell>0.212***</cell><cell>0.381***</cell><cell>0.508***</cell><cell>0.535***</cell><cell>0.257***</cell><cell>0.368***</cell><cell>0.030**</cell><cell>0.049***</cell></row><row><cell></cell><cell>(0.031)</cell><cell>(0.027)</cell><cell>(0.041)</cell><cell>(0.029)</cell><cell>(0.035)</cell><cell>(0.025)</cell><cell>(0.012)</cell><cell>(0.012)</cell></row><row><cell>3</cell><cell>0.242***</cell><cell>0.400***</cell><cell>0.494***</cell><cell>0.570***</cell><cell>0.332***</cell><cell>0.330***</cell><cell>0.050***</cell><cell>0.068***</cell></row><row><cell></cell><cell>(0.031)</cell><cell>(0.032)</cell><cell>(0.034)</cell><cell>(0.027)</cell><cell>(0.035)</cell><cell>(0.027)</cell><cell>(0.017)</cell><cell>(0.012)</cell></row><row><cell>4</cell><cell>0.241***</cell><cell>0.369***</cell><cell>0.420***</cell><cell>0.515***</cell><cell>0.393***</cell><cell>0.312***</cell><cell>0.046***</cell><cell>0.044***</cell></row><row><cell></cell><cell>(0.034)</cell><cell>(0.025)</cell><cell>(0.036)</cell><cell>(0.023)</cell><cell>(0.033)</cell><cell>(0.020)</cell><cell>(0.014)</cell><cell>(0.010)</cell></row><row><cell>5</cell><cell>0.184***</cell><cell>0.418***</cell><cell>0.345***</cell><cell>0.514***</cell><cell>0.387***</cell><cell>0.513***</cell><cell>0.031**</cell><cell>0.024***</cell></row><row><cell></cell><cell>(0.047)</cell><cell>(0.024)</cell><cell>(0.052)</cell><cell>(0.025)</cell><cell>(0.051)</cell><cell>(0.025)</cell><cell>(0.015)</cell><cell>(0.007)</cell></row><row><cell cols="2">*Significant at the 10% level.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">**Significant at the 5% level.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">***Significant at the 1% level.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_9"><head>Table 10 :</head><label>10</label><figDesc xml:id="_5CxeFeW">Impact of PW Payments and Participation in OFSP/HABP on Fertiliser Use and Agricultural Investment</figDesc><table><row><cell>Impact of PSNP</cell><cell>Probability of</cell><cell>Probability of</cell><cell>Probability of</cell><cell>Probability of</cell></row><row><cell>and OFSP/HABP</cell><cell>using fertil-</cell><cell>investing in</cell><cell>investing in</cell><cell>investing in</cell></row><row><cell>programme</cell><cell>iser, 2010</cell><cell>stone terracing,</cell><cell>fencing, 2008-</cell><cell>water harvest-</cell></row><row><cell>components</cell><cell></cell><cell>2008-10</cell><cell>10</cell><cell>ing, 2008-10</cell></row><row><cell>PW alone (B -A)</cell><cell>20.023</cell><cell>20.126 (0.089)</cell><cell cols="2">0.166** (0.078) 0.019 (0.014)</cell></row><row><cell></cell><cell>(0.071)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Both PW and</cell><cell>0.211***</cell><cell>0.043 (0.070)</cell><cell>0.292***</cell><cell>0.012 (0.012)</cell></row><row><cell>OFSP/HABP</cell><cell>(0.056)</cell><cell></cell><cell>(0.064)</cell><cell></cell></row><row><cell>(D -A)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>High PW pay-</cell><cell>0.234***</cell><cell>0.169***</cell><cell cols="2">0.126** (0.057) 20.007 (0.016)</cell></row><row><cell>ments plus</cell><cell>(0.052)</cell><cell>(0.055)</cell><cell></cell><cell></cell></row><row><cell>OFSP/HABP</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>(D -B)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>OFSP/HABP, add</cell><cell>0.128***</cell><cell>0.099** (0.046)</cell><cell>0.223***</cell><cell>0.003 (0.012)</cell></row><row><cell>PW (D-C)</cell><cell>(0.044)</cell><cell></cell><cell>(0.049)</cell><cell></cell></row></table><note xml:id="_5PPJhEZ"><p>*Significant at the 10% level. **Significant at the 5% level. ***Significant at the 1% level.</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p xml:id="_Dhdpn69">at Universite de Sherbrooke on April 10, 2015 http://jae.oxfordjournals.org/ Downloaded from</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_1"><p xml:id="_dS25RsQ">Because the HABP is the later incarnation of the OFSP during our study period and shares its main goal (providing assets and trainings to boost agricultural productivity) and modality (operating through extension services), we refer to the two programmes as OFSP/ HABP.Ethiopia's Food Security Programme | 763 at Universite de Sherbrooke on April 10,</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2015" xml:id="foot_2"><p xml:id="_TeVT6eN">http://jae.oxfordjournals.org/ Downloaded from</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="764" xml:id="foot_3"><p xml:id="_vsFxtuW">| John Hoddinott et al. at Universite de Sherbrooke on April 10, 2015 http://jae.oxfordjournals.org/ Downloaded from</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_4"><p xml:id="_qutr8Au">Ethiopia's Food Security Programme | 765 at Universite de Sherbrooke on April 10, 2015 http://jae.oxfordjournals.org/ Downloaded from</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_5"><p xml:id="_B6FQeDK">Ethiopia's Food Security Programme | 767 at Universite de Sherbrooke on April 10, 2015 http://jae.oxfordjournals.org/ Downloaded from</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_6"><p xml:id="_9nj6AJt">In the case of dichotomous treatment, T ¼ D, where D [ [0, 1]. Ethiopia's Food Security Programme | 769 at Universite de Sherbrooke on April 10, 2015 http://jae.oxfordjournals.org/ Downloaded from</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_7"><p xml:id="_SZkjFeV">Ethiopia's Food Security Programme | 771 at Universite de Sherbrooke on April 10, 2015 http://jae.oxfordjournals.org/ Downloaded from</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="3" xml:id="foot_8"><p xml:id="_uaBwNGN">Note that we do not have full payment data. Specifically, we are missing payment information for the periodsJune 2006-December 2006 and June 2008-December 2008.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_9"><p xml:id="_mD3TQ2n">We exclude households receiving more than 7,500 birr; in most cases, these are households with implausibly high levels of food transfers that may have possibly resulted from a misreporting of the quantities of food or the units in which these were reported. Ethiopia's Food Security Programme | 773 at Universite de Sherbrooke on April 10, 2015 http://jae.oxfordjournals.org/ Downloaded from</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="5" xml:id="foot_10"><p xml:id="_kFFVCUU">While it would be preferable to consider crops individually, when we attempted to do so, sample sizes were too small to make it possible to obtain precise estimates.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_11"><p xml:id="_FuV66nY">at Universite de Sherbrooke on April 10, 2015 http://jae.oxfordjournals.org/ Downloaded from</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="780" xml:id="foot_12"><p xml:id="_Um39mDR">| John Hoddinott et al. at Universite de Sherbrooke on April 10, 2015 http://jae.oxfordjournals.org/ Downloaded from</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_13"><p xml:id="_avV2kBU">Ethiopia's Food Security Programme | 783 at Universite de Sherbrooke on April 10, 2015 http://jae.oxfordjournals.org/ Downloaded from</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_14"><p xml:id="_6FmwQ2k">Ethiopia's Food Security Programme | 785 at Universite de Sherbrooke on April 10, 2015 http://jae.oxfordjournals.org/ Downloaded from</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="786" xml:id="foot_15"><p xml:id="_gyvEfsm">| John Hoddinott et al. at Universite de Sherbrooke on April 10, 2015 http://jae.oxfordjournals.org/ Downloaded from</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head xml:id="_KyGCSKc">Acknowledgements</head><p xml:id="_VWB4GRD">We appreciate helpful comments and ideas received during numerous conversations with the late <rs type="person">Ato Birhane</rs> and <rs type="person">Ato Berhanu</rs>, past and current Heads of the <rs type="institution">Food Security Coordination Bureau, Ministry of Agriculture and Rural Development</rs>. Thanks to the <rs type="institution">Ethiopian Central Statistical Agency (CSA)</rs>, which conducted the household and community surveys. Our understanding of the Productive Safety Net Programme has benefited from helpful discussions with <rs type="person">Harold Alderman</rs>, <rs type="person">Suzanne Poland</rs>, <rs type="person">Tim Robertson</rs>, <rs type="person">Judith Sanford</rs>, <rs type="person">Wout Soer</rs>, <rs type="person">Cate Turton</rs>, <rs type="person">William Wiseman</rs>, participants at the <rs type="institution">BASIS Conference on Escaping Poverty</rs> Traps and participants at workshops and seminars on the PSNP held in Addis Ababa in 2007, 2008 and 2009. We also thank the thousands of Ethiopians who took part in the survey and patiently answered our many questions. All errors are ours.</p></div>
+			</div>
+			<div type="funding">
+<div><head xml:id="_dGzNSpQ">Funding</head><p xml:id="_TJdxap9">We gratefully acknowledge funding from the <rs type="funder">Department for International Development (DfID)</rs>, the <rs type="funder">World Bank</rs> and the <rs type="funder">US Agency for International Development (USAID)</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="consolidated"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main" xml:id="_R5Ze5KU">Book ReviewsMichelle Adato and John Hoddinott, eds. &lt;i&gt;Conditional Cash Transfers in Latin America&lt;/i&gt;. Baltimore: Johns Hopkins University Press, 2010. Pp. xviii+385. $85.00 (cloth).</title>
+		<author>
+			<persName><forename type="first">Hans</forename><forename type="middle">P</forename><surname>Binswanger-Mkhize</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/668284</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_7ynWsg6">Economic Development and Cultural Change</title>
+		<title level="j" type="abbrev">Economic Development and Cultural Change</title>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Adato</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Hoddinott</surname></persName>
+		</editor>
+		<idno type="ISSN">0013-0079</idno>
+		<idno type="ISSNe">1539-2988</idno>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="472" to="475" />
+			<date type="published" when="2010">2010</date>
+			<publisher>University of Chicago Press</publisher>
+			<pubPlace>Baltimore</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Johns Hopkins University</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main" xml:id="_UYKfXge">Poverty Traps and Safety Nets</title>
+		<author>
+			<persName><forename type="first">Christopher</forename><forename type="middle">B</forename><surname>Barrett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><forename type="middle">G</forename><surname>Mcpeak</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/0-387-29748-0_8</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_Qw84CCx">Economic Studies in Inequality, Social Exclusion and Well-Being</title>
+		<editor>
+			<persName><forename type="first">A</forename><surname>De Janvry</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Kanbur</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Boston, MA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer US</publisher>
+			<date type="published" when="2006">2006</date>
+			<biblScope unit="page" from="131" to="154" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<monogr>
+		<title level="m" type="main" xml:id="_ku4F8AM">Poverty Traps and Social Protection, Social Protection Discussion Paper</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">B</forename><surname>Barrett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Carter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ikegami</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008">2008. 0804</date>
+			<publisher>World Bank</publisher>
+			<pubPlace>Washington, D.C</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b3">
+	<monogr>
+		<author>
+			<persName><forename type="first">G</forename><surname>Berhane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hoddinott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Seyoum Taffesse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tedia Diressie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yohannes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sabates-Wheeler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Handino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lind</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tefera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Sima</surname></persName>
+		</author>
+		<title level="m" xml:id="_V9rAUP6">Evaluation of Ethiopia&apos;s Food Security Program: Documenting Progress in the Implementation of the Productive Safety Nets Programme and the Household Asset Building Programme</title>
+		<meeting><address><addrLine>Washington, D.C</addrLine></address></meeting>
+		<imprint>
+			<publisher>International Food Policy Research Institute</publisher>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+		<respStmt>
+			<orgName>Mimeo</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main" xml:id="_KJmPF8e">Labor Market Regulations: What do we know about their Impacts in Developing Countries?</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Betcherman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Olivas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Dar</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/wbro/lku005</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_WNM3XC7">The World Bank Research Observer</title>
+		<title level="j" type="abbrev">The World Bank Research Observer</title>
+		<idno type="ISSN">0257-3032</idno>
+		<idno type="ISSNe">1564-6971</idno>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="124" to="153" />
+			<date type="published" when="2004">2004. 0402</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+			<pubPlace>Washington, D.C</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b5">
+	<monogr>
+		<title level="m" type="main" xml:id="_6reRPZN">Soddy, Dr Kenneth, (27 July 1911–10 April 1986), Consulting Physician, University College Hospital, London, 1976 (Physician in charge, Children’s and Adolescents’ Psychiatric Department and Lecturer in Child Psychiatry, 1948–76); Hon. Lecturer in Child Development, University College, London, 1951–76; Hon. Consultant in Child Psychiatry, Royal Free Hospital, 1973–76</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Carneiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rodrigues</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/ww/9780199540884.013.u169271</idno>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>Oxford University Press</publisher>
+		</imprint>
+		<respStmt>
+			<orgName>Mimeo, Department of Economics, University College London</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main" xml:id="_S8sSfZ2">Consumption risk, technology adoption and poverty traps: Evidence from Ethiopia</title>
+		<author>
+			<persName><forename type="first">Stefan</forename><surname>Dercon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Luc</forename><surname>Christiaensen</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jdeveco.2010.08.003</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_c5Nh8uP">Journal of Development Economics</title>
+		<title level="j" type="abbrev">Journal of Development Economics</title>
+		<idno type="ISSN">0304-3878</idno>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="159" to="173" />
+			<date type="published" when="2011-11">2011</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main" xml:id="_FXyUZnK">Conditional Cash Transfers</title>
+		<author>
+			<persName><forename type="first">Ariel</forename><surname>Fiszbein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Norbert</forename><forename type="middle">R</forename><surname>Schady</surname></persName>
+		</author>
+		<idno type="DOI">10.1596/978-0-8213-7352-1</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_tW7eVzG">Conditional Cash Transfers: Reducing Present and Future Poverty</title>
+		<meeting><address><addrLine>Washington, D.C; Addis Ababa</addrLine></address></meeting>
+		<imprint>
+			<publisher>The World Bank</publisher>
+			<date type="published" when="2009-02-09">2009. 2009. 2010 -2014</date>
+		</imprint>
+	</monogr>
+	<note>Household Asset Building Programme</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main" xml:id="_aMuWjDf">Is There Persistence in the Impact of Emergency Food Aid? Evidence on Consumption, Food Security, and Assets in Rural Ethiopia</title>
+		<author>
+			<persName><forename type="first">Daniel</forename><forename type="middle">O</forename><surname>Gilligan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><surname>Hoddinott</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1467-8276.2007.00992.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_NqSwQv9">American Journal of Agricultural Economics</title>
+		<title level="j" type="abbrev">American J Agri Economics</title>
+		<idno type="ISSN">0002-9092</idno>
+		<idno type="ISSNe">1467-8276</idno>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="225" to="242" />
+			<date type="published" when="2007-05">2007</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b9">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><surname>Gilligan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hoddinott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Taffesse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Dejene</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Tefera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yohannes</surname></persName>
+		</author>
+		<title level="m" xml:id="_K268qB4">Ethiopia Food Security Program: Report on 2006 Baseline Survey</title>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main" xml:id="_pTvfFvm">Agrarian Reforms and Food Policy Process in Tajikistan</title>
+		<author>
+			<persName><forename type="first">Suresh</forename><surname>Babu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kamiljon</forename><surname>Akramov</surname></persName>
+		</author>
+		<idno type="DOI">10.29258/cajwr/2022-r1.v8-1/27-48.eng</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_67k2qjH">Central Asian Journal of Water Research</title>
+		<title level="j" type="abbrev">CAJWR</title>
+		<idno type="ISSNe">2522-9060</idno>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="27" to="48" />
+			<date type="published" when="2022" />
+			<publisher>Kazakh-German University</publisher>
+		</imprint>
+		<respStmt>
+			<orgName>International Food Policy Research Institute</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main" xml:id="_62yPjbg">Can Social Protection Work in Africa? Evidence on the Impact of Ethiopia’s Productive Safety Net Programme on Food Security, Assets and Incentives</title>
+		<author>
+			<persName><forename type="first">Daniel</forename><forename type="middle">O</forename><surname>Gilligan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><surname>Hoddinott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Neha</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alemayehu</forename><forename type="middle">Seyoum</forename><surname>Taffesse</surname></persName>
+		</author>
+		<idno type="DOI">10.2139/ssrn.1457172</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Qq9Gbu7">SSRN Electronic Journal</title>
+		<title level="j" type="abbrev">SSRN Journal</title>
+		<idno type="ISSNe">1556-5068</idno>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>Elsevier BV</publisher>
+			<pubPlace>Washington, D.C</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b12">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><surname>Gilligan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hoddinott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Taffesse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Dejene</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Gezahegn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yohannes</surname></persName>
+		</author>
+		<title level="m" xml:id="_dThHYFe">Ethiopia Food Security Program: Report on 2008 Survey</title>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main" xml:id="_9SguHCJ">The effect of the productive safety net programme on household food consumption and dietary diversity in Ethiopia</title>
+		<author>
+			<persName><forename type="first">Mebratu</forename><surname>Feyisa</surname></persName>
+		</author>
+		<idno type="DOI">10.53936/afjare.2021.16(4).19</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_U6aPmbF">African Journal of Agricultural and Resource Economics</title>
+		<title level="j" type="abbrev">AfJARE</title>
+		<idno type="ISSN">1993-3738</idno>
+		<idno type="ISSNe">2521-9871</idno>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="283" to="289" />
+			<date type="published" when="2021-12-31" />
+			<publisher>African Association of Agricultural Economists</publisher>
+			<pubPlace>Addis Ababa</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main" xml:id="_hkEWFjs">For Protection and Promotion</title>
+		<author>
+			<persName><forename type="first">Margaret</forename><forename type="middle">E</forename><surname>Grosh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Carlo</forename><surname>Del Ninno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Emil</forename><surname>Tesliuc</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Azedine</forename><surname>Ouerghi</surname></persName>
+		</author>
+		<idno type="DOI">10.1596/978-0-8213-7581-5</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_9f9X8CK">For Protection and Promotion: The Design and Implementation of Effective Safety Nets</title>
+		<meeting><address><addrLine>Washington, D.C</addrLine></address></meeting>
+		<imprint>
+			<publisher>The World Bank</publisher>
+			<date type="published" when="2008-08-25">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b15">
+	<monogr>
+		<title level="m" type="main" xml:id="_CS76TSH">Efficient Estimation of Average Treatment Effects Using the Estimated Propensity Score</title>
+		<author>
+			<persName><forename type="first">Keisuke</forename><surname>Hirano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Guido</forename><surname>Imbens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Geert</forename><surname>Ridder</surname></persName>
+		</author>
+		<idno type="DOI">10.3386/t0251</idno>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<publisher>National Bureau of Economic Research</publisher>
+		</imprint>
+		<respStmt>
+			<orgName>Mimeo, Department of Economics, University of California Berkeley</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main" xml:id="_dfaWYvr">Targeting of food aid in rural Ethiopia: chronic need or inertia?</title>
+		<author>
+			<persName><forename type="first">Thomas</forename><forename type="middle">S</forename><surname>Jayne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><surname>Strauss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Takashi</forename><surname>Yamano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Daniel</forename><surname>Molla</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0304-3878(02)00013-5</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_XeV2F4v">Journal of Development Economics</title>
+		<title level="j" type="abbrev">Journal of Development Economics</title>
+		<idno type="ISSN">0304-3878</idno>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="247" to="288" />
+			<date type="published" when="2002-08">2002</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main" xml:id="_Hazk9yK">Evaluating Continuous Training Programs Using the Generalized Propensity Score</title>
+		<author>
+			<persName><forename type="first">Jochen</forename><surname>Kluve</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hilmar</forename><surname>Schneider</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Arne</forename><surname>Uhlendorff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zhong</forename><surname>Zhao</surname></persName>
+		</author>
+		<idno type="DOI">10.2139/ssrn.1088078</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_W5yEKgb">SSRN Electronic Journal</title>
+		<title level="j" type="abbrev">SSRN Journal</title>
+		<idno type="ISSNe">1556-5068</idno>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>Elsevier BV</publisher>
+			<pubPlace>Bochum, Germany</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Department of Economics, Ruhr-Universita ¨t Bochum</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b18">
+	<monogr>
+		<title level="m" type="main" xml:id="_5aSmGd9">Women&apos;s Empowerment in Practice: Lessons from the Ghana Productive Safety Net</title>
+		<idno type="DOI">10.1596/39765</idno>
+		<imprint>
+			<date type="published" when="2005">2010. 2005. 2009</date>
+			<publisher>Washington DC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b19">
+	<monogr>
+		<title level="m" type="main" xml:id="_efBkUpY">Impacts, maintenance and sustainability of irrigation in Rwanda</title>
+		<author>
+			<persName><forename type="first">Esdras</forename><surname>Byiringo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Maria</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Florence</forename><surname>Kondylis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><surname>Loeser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeremy</forename><surname>Magruder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christophe</forename><surname>Ndahimana</surname></persName>
+		</author>
+		<idno type="DOI">10.23846/dpw1ie112</idno>
+		<imprint>
+			<date type="published" when="2020-03" />
+			<publisher>International Initiative for Impact Evaluation (3ie)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

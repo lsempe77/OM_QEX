@@ -1,0 +1,977 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" xml:id="_eu4dwr6">Aspiring to more? New Evidence on the Effect of a Light-Touch Aspirations Intervention in Rural Ethiopia</title>
+				<funder ref="#_UxgUSHQ">
+					<orgName type="full">USAID</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">CGIAR Research Program on Policies, Institutions, and Markets</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">International Food Policy Research Institute</orgName>
+					<orgName type="abbreviated">IFPRI</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2021-12">December 2021</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Jessica</forename><surname>Leight</surname></persName>
+							<email>j.leight@cgiar.org</email>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Poverty</orgName>
+								<orgName type="department" key="dep2">Health</orgName>
+								<orgName type="department" key="dep3">Nutrition Division INTERNATIONAL FOOD POLICY RESEARCH INSTITUTE</orgName>
+								<orgName type="department" key="dep4">Division</orgName>
+								<orgName type="institution" key="instit1">The International Food Policy Research Institute (IFPRI)</orgName>
+								<orgName type="institution" key="instit2">International Food Policy Research Institute (IFPRI)</orgName>
+								<address>
+									<settlement>Washington</settlement>
+									<region>DC</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Daniel</forename><forename type="middle">O</forename><surname>Gilligan</surname></persName>
+							<email>d.gilligan@cgiar.org</email>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Poverty</orgName>
+								<orgName type="department" key="dep2">Health</orgName>
+								<orgName type="department" key="dep3">Nutrition Division INTERNATIONAL FOOD POLICY RESEARCH INSTITUTE</orgName>
+								<orgName type="department" key="dep4">Division</orgName>
+								<orgName type="institution" key="instit1">The International Food Policy Research Institute (IFPRI)</orgName>
+								<orgName type="institution" key="instit2">International Food Policy Research Institute (IFPRI)</orgName>
+								<address>
+									<settlement>Washington</settlement>
+									<region>DC</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Michael</forename><surname>Mulford</surname></persName>
+							<email>michael_mulford@wvi.org</email>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Poverty</orgName>
+								<orgName type="department" key="dep2">Health</orgName>
+								<orgName type="department" key="dep3">Nutrition Division INTERNATIONAL FOOD POLICY RESEARCH INSTITUTE</orgName>
+								<orgName type="department" key="dep4">Division</orgName>
+								<orgName type="institution" key="instit1">The International Food Policy Research Institute (IFPRI)</orgName>
+								<orgName type="institution" key="instit2">International Food Policy Research Institute (IFPRI)</orgName>
+								<address>
+									<settlement>Washington</settlement>
+									<region>DC</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Nutrition Division</orgName>
+								<address>
+									<settlement>Washington</settlement>
+									<region>DC</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Alemayehu</forename><surname>Seyoum</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Poverty</orgName>
+								<orgName type="department" key="dep2">Health</orgName>
+								<orgName type="department" key="dep3">Nutrition Division INTERNATIONAL FOOD POLICY RESEARCH INSTITUTE</orgName>
+								<orgName type="department" key="dep4">Division</orgName>
+								<orgName type="institution" key="instit1">The International Food Policy Research Institute (IFPRI)</orgName>
+								<orgName type="institution" key="instit2">International Food Policy Research Institute (IFPRI)</orgName>
+								<address>
+									<settlement>Washington</settlement>
+									<region>DC</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Taffesse</forename><forename type="middle">Heleene</forename><surname>Tambet</surname></persName>
+							<email>a.seyoumtaffesse@cgiar.org</email>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Poverty</orgName>
+								<orgName type="department" key="dep2">Health</orgName>
+								<orgName type="department" key="dep3">Nutrition Division INTERNATIONAL FOOD POLICY RESEARCH INSTITUTE</orgName>
+								<orgName type="department" key="dep4">Division</orgName>
+								<orgName type="institution" key="instit1">The International Food Policy Research Institute (IFPRI)</orgName>
+								<orgName type="institution" key="instit2">International Food Policy Research Institute (IFPRI)</orgName>
+								<address>
+									<settlement>Washington</settlement>
+									<region>DC</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main" xml:id="_HSFVMY3">Aspiring to more? New Evidence on the Effect of a Light-Touch Aspirations Intervention in Rural Ethiopia</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2021-12">December 2021</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">191B5A184B422C6171BB83FC9EC91BAA</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2025-11-05T00:25+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a292bac</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=1, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=true, generateTeiCoordinates=[true], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords xml:id="_pBYFW8w">aspirations, educational investments</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_mQxwKH7"><p xml:id="_9RK8szZ">a CGIAR Research Center established in 1975, provides research-based policy solutions to sustainably reduce poverty and end hunger and malnutrition. IFPRI's strategic research aims to foster a climate-resilient and sustainable food supply; promote healthy diets</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="10" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="11" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="12" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="13" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="14" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="15" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="16" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="17" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="18" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="19" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="20" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="21" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="22" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="23" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="24" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="25" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="26" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="27" ulx="0.0" uly="0.0" lrx="792.0" lry="612.0"/>
+		<surface n="28" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="29" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="30" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="31" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="32" ulx="0.0" uly="0.0" lrx="792.0" lry="612.0"/>
+		<surface n="33" ulx="0.0" uly="0.0" lrx="792.0" lry="612.0"/>
+		<surface n="34" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1." xml:id="_r7hVP4a">Introduction</head><p xml:id="_UyuyBRc">In recent years, there has been an increased focus in the economics literature on the interplay between psychology and economic decision-making, and the role of poverty in shaping this interplay. Theorists have identified multiple channels through which excessively low or excessively high aspirations can discourage investment: households at one extreme lose interest in shifting their long-term income trajectory or, at the other extreme, become discouraged about the prospects of ever reaching an unrealistically high target level of income (Genicot and Ray 2017). This has led to models of an "aspirations poverty trap" in which low aspirations are both a product of poverty and an additional constraint that limits exit -suggesting that interventions directly targeting increased aspirations may be effective in facilitating households' economic advancement (Dalton, Ghosal, and Mani 2016).</p><p xml:id="_AsgA7e2">In development economics, a small but growing empirical literature has analyzed the effect of interventions that directly or indirectly target enhanced aspirations in order to identify whether these interventions can shape individual attitudes and economic behaviors (Tanguy et al. 2014; Bernard et al.   2019; Ghosal et al. 2020; Wydick, Glewwe, and Rutledge 2013). In addition to their theoretical promise, targeted cognitive or psychological interventions aimed at enhancing aspirations, self-esteem or selfbelief are attractive because they are relatively low-cost to implement at scale. Evidence that these interventions can in fact be successful in shifting individual outcomes would then suggest that targeting the "aspirations poverty trap" may be a cost-effective strategy for poverty alleviation.</p><p xml:id="_u3g6tZx">In this paper, we seek to provide additional evidence about the effectiveness of an aspirations intervention implemented for a low-income rural sample in Ethiopia in the context of a multiarm trial evaluating interventions targeting enhanced livelihoods and nutritional outcomes for households that receive transfers from Ethiopia's main social safety-net program, the Productive Safety Net Program.</p><p xml:id="_44fNFvf">The evaluation is implemented in collaboration with the Strengthen PSNP4 Institutions and Resilience (SPIR) program in Ethiopia, and evaluates a video-based aspirations intervention that seeks to share stories of successful journeys out of poverty by other rural households. The evaluation sample includes 3,220 households in 192 kebeles in two regions of Ethiopia; 1,012 households were invited to attend a one-time video screening of these documentaries, and their stated aspirations and economic behaviors were measured in a large-scale survey approximately nine months later.</p><p xml:id="_bee3Ra5">The results suggest that there is almost no evidence of any significant effect of the intervention on stated aspirations of adults in the households exposed to the intervention or on related economic behaviors. Administrative data suggests that attendance at the screening was high (around 90%), but recall of the intervention as of the survey date is meaningfully lower (around 50% of households recall that they attended the screening), suggestive of potentially limited salience of the intervention. In addition, there is no evidence of any shift in stated aspirations for education of the household's eldest child, or aspired level of income or assets in ten years, for the pooled sample or the sample of men and women. Similarly, there is no evidence of any effect on educational enrollment or attendance for children, or other measures linked to potentially long-term investment by households (e.g., savings and livestock investment). The null effect is consistent when households exposed to aspirations programming are compared to households who received similar livelihoods-enhancing interventions without exposure to the aspirations documentary itself; or when households exposed to aspirations programming are compared to a control arm in which households did not receive any targeted interventions.</p><p xml:id="_SNRwurY">These results join an existing literature that has sought to examine the effect of interventions seeking to enhance participants' aspirations, though the number of evaluations that have analyzed programs targeting adults is quite limited. While the intervention of interest here is clearly light-touch and thus might be unlikely to have a large effect on aspirations, Tanguy et al. 2014 and Bernard et al. 2019 report   findings from an evaluation of the same aspirations video also implemented in rural Ethiopia and found much larger and more statistically significant positive effects. (Both papers are analyzing the same experiment, reporting different sets of results.) Recall of and positive attitudes toward the intervention are high, and there are significant effects on self-reported adult aspirations as well as economic behaviors (in particular, there are large effects on school enrollment for children, an increase of more than 20% in the average number of children enrolled per household). This evaluation used a sample representative of rural households in the target region, in contrast to the sample of PSNP beneficiaries, corresponding to approximately the poorest 10-15% of the population. These positive effects do not seem to be replicated in this evaluation.</p><p xml:id="_DBQdPZb">Two other recent papers report on randomized controlled trials that target related interventions to specific subsamples, HIV-positive women in Uganda and sex workers in Kolkata. In Uganda, a videobased intervention presenting the stories of HIV positive role models sought to inspire women to pursue entrepreneurship, and there is evidence that the intervention leads to increased engagement in businesses as well as increased income (Lubega et al. 2021). In Kolkata, an intervention targeting sex workers was designed to mitigate stigma and enhance self-image, a concept related to though clearly not identical to enhancing aspirations; the analysis finds evidence of significant improvement in respondents' self-image, as well as increases in savings and health behaviors (Ghosal et al. 2020). By contrast, Baranov, Haushofer, and Jang 2020) analyze several light-touch positive psychology interventions targeting poor adults in urban Kenya, including an intervention targeting aspirations, and find no positive effects on psychological well-being or decision-making.</p><p xml:id="_vYSNaAp">A much larger literature has analyzed related interventions targeting children. Wydick et al. 2013   analyze the effects of an international child sponsorship program and find significant effects on educational and employment outcomes in adulthood, and argue that this reflects partly an increase in aspirations. However, the program of interest here includes substantial material transfers to the child, as well as intensive weekly programming over as long as nine years designed to enhance the target children's socioemotional development. <ref type="bibr">1</ref> By contrast, two recent large-scale evaluations of "growthmindset interventions" designed to increase students' self-efficacy and investment in education in Argentina and Peru found generally null effects (Outes-León, Sánchez, and Vakis 2020; A. J. Ganimian</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_nYmFNbF">2020).</head><p xml:id="_HEqkuF2">There is also a growing literature analyzing the effects of various forms of training in life skills or noncognitive skills on educational, social, and labor market outcomes of children and youth (Ashraf et al.   2020; Bhanot et al. 2020; Edmonds, Feigenberg, and Leight 2020; Blattman, Jamison, and Sheridan 2017;   A. Ganimian et al. 2020; Acevedo et al. 2020; Groh et al. 2016). While the content of these trainings or interventions varies, enhancing aspirations is often an important intermediate goal. An earlier literature review found evidence that this form of training can generally have positive effects on labor market outcomes, in contrast to more traditional skills training programs (Blattman and Ralston 2015), and recent papers have presented evidence of generally positive effects on educational outcomes as well.</p><p xml:id="_NG3H8z5">However, these are more intensive forms of programming entailing extended interaction with participants over a period of weeks, months or years.</p><p xml:id="_ybQ9dxc">In general, the results here suggest the importance of caution in designing light-touch interventions designed to enhance aspirations among adults. While promising in some contexts, this form of 1 Two additional papers have analyzed the effect of providing information about returns to schooling as a strategy to increase educational attainment by correcting misperceptions around returns to schooling, and have found large and significant effects on educational attainment for secondary school students in the Dominican Republic (Jensen 2010) and for primary school students in Madagascar (Nguyen 2008); however, in the Dominican Republic, these effects are not observed for the poorest students.</p><p xml:id="_jhp7DCy">programming may not be sufficient to significantly shape aspirations and associated economic outcomes for low-income rural households.</p><p xml:id="_RbRrTYm">2. Context and experimental design a. Overview of the evaluation This paper reports on interventions implemented as part of the Strengthen PSNP4 Institutions and Resilience (SPIR) program in Ethiopia, a five-year project (2016-2021) that seeks to support implementation of the fourth phase of the Productive Safety Net Programme (PSNP4) as well as provide complementary programming. SPIR is led by World Vision in collaboration with the government of Ethiopia and funded by USAID's Bureau for Humanitarian Assistance. <ref type="bibr">2</ref> The broader SPIR project targets nearly 500,000 PSNP4 beneficiaries in 15 vulnerable woredas in Amhara and Oromia regions, and its primary objectives are to enhance resilience to shocks and livelihoods and improve food security and nutrition for rural households vulnerable to food insecurity. All households receive resource transfers (cash and food) as part of the PSNP4 program, in addition to supplemental interventions delivered by SPIR. <ref type="bibr">3</ref> In addition, SPIR is the focus of an experimental impact evaluation conducted by the International Food In the N* arm, this programming is supplemented by additional community health facilitators deployed by SPIR, as well as more targeted interventions at the household level (particularly for households in which an acutely malnourished child is identified), the promotion of male engagement in nutrition and an interpersonal group therapy intervention targeting depressed mothers.</p><p xml:id="_tHD5SjE">The SPIR livelihoods program (L) focuses on the establishment and development of VESAs, Village Economic and Social Associations as well as improved access to finance and engagement in productive value chains. VESAs include both men and women from the same household and are used as a platform for trainings and other project activities around financial literacy, promotion of savings and credit use, agriculture and livestock value chain development, and catalyzing women's empowerment.</p><p xml:id="_u3nArPP">In the L* arms, two additional interventions were rolled out to supplement L programming in a crossrandomized design. <ref type="bibr">4</ref> The first intervention is targeted livelihoods transfers to the poorest households in each kebele, in the form of a one-time cash grant or a poultry package; these transfers will not be examined extensively here. The second intervention is the primary focus of this paper: one-time screenings of short documentary films designed to motivate individuals to undertake actions that will improve their well-being in the future. This intervention is described in more detail in the next subsection.</p><p xml:id="_dcFf6sw">Figure <ref type="figure">1</ref> provides an overview of the experimental design. There are three treatment arms; T1 includes L* and N* interventions, T2 includes L* and N, and T3 includes L and N*. In the control arm (denoted PSNP only), there is no targeted SPIR programming, but households do receive the base cash and food transfers as well as supplemental services under the government-led PSNP. The primary analysis of interest in this paper will focus on the cross-randomization of the aspirations intervention within the T1 and T2 arms. Households exposed to the aspirations intervention can thus be compared to households who similarly received enhanced livelihoods programming but were not exposed to the targeted aspirations intervention, as well as to households in the control arm.</p><p xml:id="_MZJEE28">Randomization into the four primary experimental arms was conducted at the kebele level, utilizing stratification by woreda. The randomization entailed a re-randomization procedure in which 1000 possible randomization assignments were generated, and each allocation was evaluated for balance with respect to key covariates (the population share of PSNP beneficiaries, and the distance from the kebele to the district capital). The randomization characterized by the highest relative efficiency in covariate balance -the minimum maximum t-statistic -was retained. <ref type="bibr">5</ref> More details are provided in the baseline report (Alderman et al. 2019).</p><p xml:id="_sRzCqqe">For the second-stage randomization within the L* arms, a similar procedure was implemented to randomly assign half the kebeles to receive aspirations programming. The procedure entailed rerandomization to ensure balance across the number of aspirations and non-aspirations kebeles within T1 and T2, stratifying by woreda. Ultimately, 47 kebeles in these two arms were assigned to receive the aspirations treatment (23 in T1, and 24 in T2), while 48 kebeles not assigned to receive the aspirations treatment (23 in T1 and 25 in T2). Figure <ref type="figure">1</ref> provides more details.</p><p xml:id="_mp98Prb">Ethical approval for this evaluation was received from the Institutional Review Board at IFPRI as well as the IRB at Hawassa University, one of the study partners.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_tnha6g8">b. Aspirations intervention</head><p xml:id="_qwXNmSG">The primary intervention analyzed here is a screening of documentaries in Amharic and Afaan Oromo that provide true, inspirational stories about the returns to hard work and the benefit of aiming high; this description of the intervention draws partly on previous papers analyzing the same video (Bernard   et al. 2019). The documentaries were developed by a team of researchers who identified four inspirational stories about individuals in rural Ethiopia who significantly improved their socio-economic well-being through their own planning and persistence. The four stories focus on two men and two women, and each is 15 minutes in length, rendering the whole screening an hour in duration. <ref type="bibr">6</ref> All four segments highlight individuals who were poor rural residents at baseline, and who used diverse strategies to increase their income (e.g., identifying new household businesses, or adopting enhanced farming practices); none of the four received significant interventions from government or nongovernmental organizations. Broadly, the documentaries emphasize the importance of the featured individuals' persistence and consistency in working toward their goals.</p><p xml:id="_7WVH7XS">In the kebeles in which aspirations programming was offered, SPIR staff visited each household in the sample and provided an invitation for the household (both husband and wife) to attend a scheduled screening of the documentary. (Accordingly, the screening was not a kebele-wide event open to all residents.) Administrative information on attendance recorded by program staff is available for 45 of 47 kebeles and Panel A of Table <ref type="table">1</ref> provides an overview of this data, enabling us to assess compliance with the experimental design. <ref type="bibr">7</ref> On average, approximately 18 households were invited to the screenings (corresponding to the SPIR survey sample), and slightly over 16 report that at least one adult attended, corresponding to an average attendance rate of 90%. However, it is not necessarily the case that both spouses attended the screenings; the average screening included attendance of around 13 men and 12 women. There are also nine kebeles in which implementing staff failed to explicitly include women in the invitations. In some cases women attended nonetheless, but the average number of women present was only four in these kebeles. (Average attendance by women in the remaining kebeles in which women were invited rises to 15, higher than average male attendance.)</p><p xml:id="_5qftM9s">The documentaries were screened in the selected kebeles only once, in December 2018. The screening was thus approximately nine months prior to the midline survey, details of which are provided in the next subsection. (The survey was followed by a subsequent endline survey in 2021.) c. Sample and data collection</p><p xml:id="_BDzxjkC">The full sample for this evaluation includes 15 woredas in the Amhara and Oromia regions of Ethiopia; this is the full set of woredas in which SPIR is operational. <ref type="bibr">8</ref> Within these woredas, the evaluation includes 192 kebeles, including approximately all kebeles in which the PSNP operates and in which SPIR implementation activities had not yet been launched at the point of the baseline survey in January 2018. <ref type="bibr">9</ref> The baseline sampling process at the household level is described in detail in the baseline report (Alderman et al. 2019). Households were eligible for inclusion in the sample if they were PSNP4 beneficiary households including a child aged 0-35 months, and if the child's primary female caregiver was a household member. All households meeting these criteria in which the female caregiver consented to be surveyed were included in the sample, for a total of 3,314 households. <ref type="bibr">10</ref> Baseline surveys were also conducted with a primary male respondent, usually the spouse of the primary female respondent. All households were surveyed at baseline between January and April 2018, and at follow-up between July and October 2019. The follow-up survey included 3,220 households, corresponding to an attrition rate of only 2.8 percent.</p><p xml:id="_zfpt69x">Detailed overviews of data collection procedures are provided in both the baseline and midline reports (Alderman et al. 2019; 2020). Surveying was conducted in the field by local survey firms, using data collection on tablets. Surveys were administered in Amharic or Afaan Oromo as appropriate. Survey modules include detailed information about exposure to SPIR programming, household economic activities (cropping, livestock cultivation and outside labor), savings and credit utilization, nutritional and health knowledge and practices, female empowerment and intimate partner violence, and aspirations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3." xml:id="_VSwcwkg">Empirical analysis a. Outcomes of interest</head><p xml:id="_XZKzwMv">The primary objective of this analysis to provide evidence about the effects of the interventions of interest on respondents' aspirations as well as related variables that capture behavioral dimensions plausibly linked to aspirations. The outcomes of interest were outlined in the baseline report (Alderman   et al. 2019)   In particular, we focus on six variables linked to aspirations, each reported by both the male and the female respondents. Four binary variables capture whether the respondent's aspired level of education for his or her eldest child is no education, primary education, secondary education, or post-secondary education. The respondent also states the aspired level of income and assets in ten years; these variables are converted to thousands of birr, and calculated as a log. (The aspired level of assets is only reported by the male respondent.)</p><p xml:id="_WTw7HfM">In addition, we analyze additional variables capturing children's engagement in education, given previous evidence that this intervention had substantial effects on these variables. Four educational variables are reported: a binary variable for whether a child is reported enrolled this academic year; binary variables for whether the child attended the majority of the time, or more than half the time this year; and a continuous variable equal to the number of days the child is reported to have attended school in the last seven days. To measure other dimensions of potentially forward-looking behavior, we report on a series of variables reporting household savings (whether the primary female in the female head) eligible to serve as primary male respondent. In only 35 households was a primary male respondent identified but not available for interview. household reports any savings; whether she reports any savings with a village savings and loan association and/or a microfinance institution; the amount of reported savings; whether the primary male in the household reports a bank account, and whether the primary male reports a deposit with a rural savings and credit cooperative).</p><p xml:id="_GttgE8P">Finally, we analyze intervention effects for some variables capturing related psychological constructs that could potentially be shifted by the aspirations intervention, even if they are not directly targeted.</p><p xml:id="_dehrQ9w">The first such variable is the expected level of income in ten years as reported by the respondent. The second is the general self-efficacy scale, measured via a Cantril's ladder question. 11 b. Empirical specification</p><p xml:id="_5Y9mEFc">The empirical specification can be written as follows, estimating an intent-to-treat effect. The dependent variable of interest for individual i in household h in kebele v in woreda d is regressed on binary variables for the three treatment arms (T1vd, T2vd and T3vd) and the interaction of T1vd and T2vd and the cross-randomized aspirations intervention, denoted Aspvd. A control for the baseline level of the outcome of interest (Yihvd t-1 ) is included, when available. <ref type="bibr">12</ref> All regressions include woreda fixed effects and standard errors clustered at the kebele level.</p><p xml:id="_vzd3wWq">Yihvd = β0 + β1 T1vd + β2 T1vd x Aspvd + β3 T2vd + β4 T2vd x Aspvd + β5 T3vd + β6Yihvd t-1 + µd + εihvd For each coefficient, we report both a standard p-value and a q-value adjusted for multiple hypothesis testing (Simes 1986). <ref type="bibr">13</ref> We also report an estimate of the pooled effect of the aspirations intervention, equal to the weighted average of β2 and β4; the weights are constituted by the percentage of the baseline sample assigned to the aspirations intervention drawn from T1 and T2, respectively. The net effect of the aspirations intervention in the first treatment arm (relative to the control arm) is captured by the linear combination β1 + β2, and is also reported at the base of each table; similarly, the net effect of the aspirations effect in the second treatment arm is captured by the linear combination β3 + β4. <ref type="bibr">11</ref> Specifically, the question is posed as follows: Please imagine a ten-step ladder, where on the bottom, the first step, are those who are totally unable to change their lives, while on step 10, the highest step, stand those who have full control over their own life. On which step are you?" <ref type="bibr">12</ref> Baseline data is not available for school enrollment and attendance variables for children. <ref type="bibr">13</ref> Multiple hypothesis-adjusted q-values are calculated in Stata using the command qqvalue.</p><p xml:id="_yETqbS5">The same specification can be used to assess baseline balance; extensive evidence around baseline balance is reported in the baseline report (Alderman et al. 2019). Here, we estimate equation (1) only for a small subset of baseline demographic variables (a binary variable for whether the head of household reports any education, a binary variable for whether the primary female in the household reports any education, the age of the primary male and female, the number of children under five, and the baseline level of education for the eldest child, for whom aspirations will be reported) and report the results in Table <ref type="table">2</ref>. <ref type="bibr">14</ref> There is little evidence of any meaningful imbalance across treatment arms.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_nmQtFjN">c. Empirical results</head><p xml:id="_nB4EMcz">Table <ref type="table">1</ref> provides evidence about respondents' recall of the aspirations video screening, and their stated level of satisfaction. As previously noted, aspirations screenings were conducted in December 2018 while respondents were surveyed between August and October 2019. Contemporaneous administrative data suggests that 90% of households invited attended; no administrative data is available on possible attendance of additional individuals who were not targeted for the intervention, but anecdotal evidence from field staff suggests this phenomenon was minimal.</p><p xml:id="_3q3PrjQ">Self-reported data as of the midline survey suggests that approximately nine months following the screening, recall of the intervention has declined significantly. Only 41% of women and 51% of men in targeted kebeles report that they attended a video screening focusing on aspirations. (If we construct a household-level recall measure equal to one if either spouse reports recall of the intervention, the mean in the targeted kebeles is 60%.) While the slightly higher attendance among men is consistent with the administrative data in that women were not invited in some kebeles, in general self-reported attendance is significantly lower than reported administrative data, and suggestive of potentially limited salience of the intervention.</p><p xml:id="_G3U4g2C">There is also some reported contamination in kebeles that were not targeted for the aspirations intervention in the experimental arms T1 and T2 (as reported in Column (3) of Table <ref type="table">1</ref>), and in kebeles in arm T3 (as reported in Column (4) of the same table); between 5% and 15% of respondents report that they do recall attending an aspiration screening. <ref type="bibr">15</ref> Given that the geographically dispersed sample renders it unlikely that these households could have attended a video screening in another kebele, these respondents reporting recall of the intervention are presumably mis-identifying another intervention. <ref type="bibr">14</ref> The final column of the table reports a p-value corresponding to the joint test β1 = β2 = β3 = β4 = β5 = 0. 15 Reported contamination in the control arm is minimal.</p><p xml:id="_wybzEPn">However, reported satisfaction is high among self-reported attendees in all four arms; around 95% of respondents report that they were satisfied or highly satisfied with the intervention.</p><p xml:id="_rp2Ujtn">To examine intervention effects, Table <ref type="table">3</ref> reports the results of estimating equation (1) for the dependent variables capturing aspirations in the pooled sample (both men and women). <ref type="bibr">16</ref> There is very little evidence of any significant effect of the intervention on the aspirations variables. The unadjusted p-values suggest some evidence of an increase in the aspired level of log assets in T1 (though this effect is not significant in the subarm that was in fact exposed to aspirations programming), and an increase in the aspired level of log income for respondents in T2 also exposed to aspirations programming. There is also a decline in the probability that respondents report an aspired level of zero education for their children among respondents in T1 also exposed to aspirations programming. However, when adjusted for multiple hypothesis testing, the q-values are uniformly insignificant, suggesting that there is no robust evidence that the interventions generated any shift in aspirations. <ref type="bibr">17</ref> The point estimates are also relatively small in magnitude: for education, the largest effect observed is an increase in the probability that parents report secondary school education as an aspiration for their child, and this effect is still only 1.7 percentage points, relative to a mean probability in the control arm of 46%.</p><p xml:id="_eAyBMmK">Tables <ref type="table">A1</ref> and <ref type="table">A2</ref> in the Appendix report the results of estimating the same specifications separately for the male and female sample. While there is some variation in the observed pattern of coefficients, none of the estimates of treatment effects are statistically significant when q-values are employed. <ref type="bibr">18</ref> We also report in Tables <ref type="table">A3</ref> and <ref type="table">A4</ref> in the Appendix separate sets of results for parents who report their eldest child is a boy vis-à-vis parents who report their eldest child is a girl. There is no evidence of differential effects with respect to the gender of the eldest child. <ref type="bibr">19</ref> 16 As previously noted, the full midline sample includes 3,220 households; however, the sample for the individuallevel aspirations variables is lower than 6440 (corresponding to two respondents per household), because in some households the primary male or female was either completely absent at midline (e.g., deceased or migrated) or not available for the survey (temporarily absent or declined to provide consent). The sample included in the aspirations analysis thus includes 2,911 women and 2,347 men; attrition was more common for the male respondent. There are 2,224 households in which both spouses are represented in this analysis, 687 in which only the female spouse is represented, and 123 in which only the male spouse is represented. There are also 186 households surveyed in the midline survey in which neither spouse responded to the aspirations module, and thus they are not represented in this analysis. <ref type="bibr">17</ref> This adjustment is estimated for all specifications and coefficients within the pooled sample. <ref type="bibr">18</ref> Again, adjustments for multiple hypothesis testing are conducted across all specifications and coefficients within a table (i.e., for the male and female samples, respectively), but are not conducted across tables. <ref type="bibr">19</ref> We also explore examining the effects on aspirations for the non-random subsample of respondents who do report recall of the video session. There is no robust evidence of any experimental effects here. Table <ref type="table">4</ref> reports experimental effects for educational outcomes: more specifically, enrollment and attendance for children aged 6-13 in the sample households, a sample of 2,537 children. (Enrollment data was only collected for these children, corresponding to the target ages for primary school in Ethiopia; given that the household sample was targeted at households with infants at baseline, the number of older children in the sample is not large.) The results suggest there is generally no evidence of any positive effect of the aspirations intervention on any measures of school enrollment or attendance. In fact, children of households in T2 exposed to the aspirations intervention show a decline in average attendance reported per week relative to other households both in T1 and in the control arm; this decline is precisely estimated, and statistically significant even conditional on adjustment for multiple hypothesis testing. Given that the estimated coefficients for other enrollment variables are small in magnitude and not statistically significant, it is not obvious that this decline in reported average weekly attendance has substantial welfare implications. However, it seems clear that the hypothesis of any educational benefit of the aspirations intervention can plausibly be rejected.</p><p xml:id="_6NcWAgH">Table <ref type="table">5</ref> then reports a series of variables linked to household savings and additional psychological constraints. While there is evidence of substantial effects of the main interventions provided in the treatment arms on savings, especially savings reported by women, there is no evidence of differential effects driven by the aspirations treatment. Participants do not seem to respond to their exposure to this intervention by shifting their forward-looking economic behavior and saving more. Finally, Columns (7) and ( <ref type="formula">8</ref>) report effects for additional psychological constructs that could potentially be related to aspirations. There is no evidence of meaningful shifts in expected income. There is some weak evidence that in the first treatment arm, individuals exposed to aspirations programming show evidence of lower self-efficacy, consistent with the hypothesis in the literature that overly high aspirations can be welfaredecreasing, but these effects are not robust to multiple hypothesis testing.</p><p xml:id="_8QveD3e">We also report in the Appendix (Tables <ref type="table">A5</ref> and <ref type="table">A6</ref>) analyses of other economic outcomes (household investment in livestock, and household engagement in wage labor). Again, the results are generally null; there is some weak evidence of shifts in outside labor that are marginally significant, but the coefficients show an inconsistent pattern comparing across the two treatment arms.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_ek2p4QT">d. Discussion and conclusion</head><p xml:id="_B6g8C8a">To sum up, evidence from this context suggests that the hypothesis of a null effect of a relatively lighttouch aspirations intervention implemented in a sample of poor adults in rural Amhara and Oromia province cannot be rejected. There is no evidence that the intervention succeeded in shifting respondents' stated aspirations around their income or their children's educational level; nor is there evidence of any shifts in economic behaviors. This is inconsistent with previous evidence from Ethiopia analyzing the same intervention in a broad sample of rural households --not only PSNP beneficiaries, who are by definition among the poorest quantile of households --but broadly consistent with separate evidence from Kenya suggesting relatively light-touch psychological interventions targeting poor adults were unsuccessful (Tanguy et al. 2014; Baranov, Haushofer, and Jang 2020). A role model intervention targeting aspirations among youth in Somalia also was unsuccessful in increasing higher education aspirations, though there was some effect of female role models on gender norms (Serra et al. 2021).</p><p xml:id="_4PjdA6b">Other more intensive interventions providing soft skills training (targeting a broad range of skills, including aspirations or ambition) to youth in the Dominican Republic (Acevedo et al. 2020), Kazakhstan (Bhanot et al. 2020), and Jordan (Groh et al. 2016) generally also found minimal effects on reported skills and aspirations, though these are very different populations generally characterized by higher levels of income and education.</p><p xml:id="_Qrn6zdJ">In interpreting the absence of any intervention effects, we can identify several possible relevant hypotheses. First, the base level of stated aspirations for education is extremely high. In the pooled sample of both men and women, 45% of respondents state that they aspire for their children to complete secondary school; 50% of respondents state their aspiration is for a tertiary education (bachelors' degree). This high level of initial aspirations is also consistent with reported patterns in other Ethiopian data (Dercon and Singh 2013; Tanguy et al. 2014). Enrollment rates for the children observed in the survey (aged 6-13) are similarly high at 92%. This arguably leaves relatively limited scope for an intervention to further enhance educational goals or shift enrollment patterns. That being said, the coefficients of interest here are generally not suggestive of positive effects that are imprecisely estimated due to low power, but rather indicative of effects that are very close to zero; and should there be true intervention effects, there would still be ample scope for shifts in other economic decisions made by respondents (for example savings or other forward-looking household investments).</p><p xml:id="_rcwB5Rd">A second hypothesis highlights the rapid dramatic shifts in the broader sociopolitical Ethiopian context, particularly the acceleration of regional and ethnic conflict and a deterioration in social cohesion. This sample is drawn from two regions (Amhara and Oromia), and Oromia in particular has experienced a notable increase in political unrest and violence linked to ethnic and communal tensions in recent years (Lashitew 2019). More broadly, analysts have identified a phenomenon of increasing ethno-nationalism and state fragility in Ethiopia, accelerating around the period that midline data for this evaluation was collected in 2019 (Yusuf 2019). In this context, encouraging long-term aspirations or forward-looking economic behavior could be particularly challenging, even if stated educational goals remain high on average. To our knowledge, the potential links between declining social cohesion, ethnic tension and aspirations have been little explored in the literature around the economics of aspirations to date.</p><p xml:id="_cwJVA8T">In light of these results, further work may seek to explore the contexts in which interventions can effectively target aspirations for adults (as opposed to youth, where the body of evidence is substantially larger) and understand how the process of aspiration formation can vary. While some initial results have been promising, effects may be highly context-specific, and further probing the relationship between social cohesion and perceived risks of political upheaval and violence and aspirations formation may be particularly important. Table 1: Attendance at aspirations screening Panel A: Administrative data on attendance (1) (2) (3) (4) Average number of households eligible 18.2 Average number of households attended 16.32 Attendance rate 0.9 Average number of men attended 13.48 Average number of women attended 11.86 Average number of women attended: kebeles in which women were invited 14.5 Average number of women attended: kebeles in which women were not invited 3.73 Panel B: Reported recall of attendance at midline survey Recalls attended screening: Kebeles assigned to aspirations Recalls attended screening: T1 / T2 kebeles not assigned to aspirations Recalls attended screening: T3 Recalls attended screening: Control arm Female: Attended an aspirations' video screening 0.408 0.116 0.057 0.01 0.492 0.321 0.232 0.098 Female: Satisfied or very satisfied with aspirations' video screening 0.949 0.957 0.956 1 0.22 0.204 0.208 0 Male: Attended an aspirations' video screening 0.505 0.147 0.11 0.021 0.5 0.355 0.314 0.143 Male: Satisfied or very satisfied with aspirations' video screening 0.951 0.945 0.964 0.8 0.216 0.229 0.188 0.414 Table 2: Baseline balance (1) (2) (3) (4) (5) (6) (7) T1: L* + N* T1 x Aspirations T2: L* + N T2 x Aspirations T3: L + N* Control arm p-value Household head has some education 0.286 0.278 0.264 0.317 0.292 0.287 0.968 Primary female has some education 0.18 0.205 0.219 0.228 0.201 0.195 0.896 Age of primary female 30.503 30.481 31.019 30.321 30.54 30.319 0.46 Age of primary male 38.003 38.699 38.095 38.215 38.051 38.061 0.721 Number of children under age 5 1.435 1.385 1.34 1.515 1.409 1.445 0.565 Current education of oldest child: None 0.411 0.347 0.317 0.333 0.413 0.372 0.077 Current education of oldest child: Grades 1-8 0.533 0.599 0.607 0.613 0.545 0.571 0.202 Current education of oldest child: Grades 9-12 0.045 0.041 0.071 0.035 0.032 0.05 0.228 Table 3: Intervention effects on stated aspirations (pooled sample) (1) (2) (3) (4) (5) (6) Aspired level of child's education: no education Aspired level of child's education: 1st-8th grade Aspired level of child's education: 9th-12th grade Aspired level of child's education: college / university Aspired level of incomelog Aspired level of assetslog T1: L* + N* 0.008 -0.009 0.014 -0.010 0.128 0.281** p-value (0.357) (0.220) (0.743) (0.820) (0.155) (0.030) q-value [0.673] [0.673] [0.911] [0.911] [0.673] [0.620] T1 x Aspirations -0.018** -0.000 -0.013 0.031 0.066 -0.142 p-value (0.041) (0.986) (0.794) (0.557) (0.483) (0.355) q-value [0.620] [0.993] [0.911] [0.835] [0.807] [0.673] T2: L* + N -0.004 0.003 -0.057 0.062* 0.048 0.141 p-value (0.652) (0.750) (0.118) (0.085) (0.527) (0.361) q-value [0.892] [0.911] [0.673] [0.673] [0.807] [0.673] T2 x Aspirations 0.005 -0.011 0.046 -0.041 -0.023 -0.007 p-value (0.592) (0.362) (0.323) (0.382) (0.818) (0.967) q-value [0.867] [0.673] [0.673] [0.673] [0.952] [0.993] T3: L + N* -0.008 -0.012* -0.009 0.030 0.077 0.103 p-value (0.207) (0.088) (0.791) (0.352) (0.395) (0.398) q-value [0.673] [0.673] [0.911] [0.673] [0.673] [0.673] Weighted average: aspirations estimates -0.0063 -0.0056 0.0171 -0.0057 0.0204 -0.0732 (0.2985) (0.4114) (0.6106) (0.8692) (0.7648) (0.5192) Net effect of aspirations: T1 -0.0100 -0.0095 0.0012 0.0211 0.1941** 0.1387 (0.2341) (0.1730) (0.9763) (0.6270) (0.0302) (0.3666) Net effect of aspirations: T2 0.0011 -0.0075 -0.0114 0.0209 0.0249 0.1335 (0.8978) (0.4160) (0.7874) (0.6232) (0.8173) (0.3718) Mean control arm 0.02 0.03 0.46 0.49 10.06 11.12 Obs. 5258 5258 5258 5258 5306 2389 Table 4: Intervention effects on educational outcomes (1) (2) (3) (4) Child currently enrolled Child consistently attended this school year Child attended at least half this school year Average attendance (days/week) T1: L* + N* 0.003 -0.020 0.004 -0.253 p-value (0.884) (0.591) (0.792) (0.279) q-value [0.947] [0.947] [0.947] [0.930] T1 x Aspirations 0.021 0.047 -0.006 0.033 p-value (0.340) (0.264) (0.691) (0.890) q-value [0.947] [0.930] [0.947] [0.947] T2: L* + N -0.020 0.009 -0.011 0.062 p-value (0.444) (0.797) (0.457) (0.735) q-value [0.947] [0.947] [0.947] [0.947] T2 x Aspirations 0.028 -0.049 0.003 -0.754*** p-value (0.247) (0.220) (0.853) (0.000) q-value [0.930] [0.930] [0.947] [0.000] T3: L + N* -0.008 0.032 0.001 0.012 p-value (0.705) (0.239) (0.914) (0.947) q-value [0.947] [0.930] [0.947] [0.947] Weighted average: aspirations estimates 0.0248 -0.0021 -0.0016 -0.3694*** (0.1368) (0.9410) (0.8851) (0.0097) Net effect of aspirations: T1 0.0246 0.0265 -0.0024 -0.2201 (0.2414) (0.4134) (0.8716) (0.2154) Net effect of aspirations: T2 0.0083 -0.0394 -0.0083 -0.6915*** (0.6465) (0.2118) (0.6146) (0.0000) Mean control arm 0.92 0.72 0.97 3.44 Obs. 2547 2332 2332 2078 Table 5: Intervention effects on savings and other psychological measures (1) (2) (3) (4) (5) (6) (7) (8) Primary female has personal savings of her own Primary female deposits her savings with VESA/VSLA Primary female deposits her savings with a MFI Primary female's amount of savings (Birr) Primary male has a bank account Primary male deposited money with a Rusacco in past 12 months Expected incomelog New General Self Efficacy T1: L* + N* 0.487*** 0.568*** -0.237*** -539.722*** -0.032 -0.010 0.276* 0.041 p-value (0.000) (0.000) (0.000) (0.006) (0.125) (0.730) (0.059) (0.807) q-value [0.000] [0.000] [0.000] [0.012] [0.680] [0.842] [0.349] [0.852] T1 x Aspirations 0.006 -0.035 -0.015 86.651 0.027 0.021 -0.147 -0.339** p-value (0.910) (0.362) (0.676) (0.419) (0.327) (0.514) (0.374) (0.040) q-value [0.910] [0.483] [0.751] [0.523] [0.718] [0.775] [0.660] [0.349] T2: L* + N 0.441*** 0.562*** -0.204*** -514.894** -0.012 -0.013 0.146 0.073 p-value (0.000) (0.000) (0.002) (0.011) (0.620) (0.594) (0.415) (0.716) q-value [0.000] [0.000] [0.005] [0.018] [0.775] [0.775] [0.660] [0.792] T2 x Aspirations 0.013 -0.064 -0.069 80.230 0.018 0.045 0.085 0.027 p-value (0.801) (0.187) (0.145) (0.445) (0.551) (0.208) (0.599) (0.900) q-value [0.843] [0.267] [0.223] [0.524] [0.775] [0.680] [0.675] [0.917] T3: L + N* 0.362*** 0.575*** -0.237*** -529.314*** -0.004 -0.029 0.162 0.087 p-value (0.000) (0.000) (0.000) (0.007) (0.844) (0.155) (0.203) (0.595) q-value [0.000] [0.000] [0.000] [0.014] [0.888] [0.680] [0.563] [0.745] Weighted average: aspirations estimates 0.0094 -0.0498 -0.0425 83.3682 0.0225 0.0334 -0.0284 -0.1517 (0.7902) (0.1002) (0.1373) (0.2305) (0.2640) (0.1413) (0.8013) (0.2626) Net effect of aspirations: T1 0.4922*** 0.5337*** -0.2525*** -453.0713** -0.0052 0.0118 0.1293 -0.2973* (0.0000) (0.0000) (0.0000) (0.0378) (0.8497) (0.6701) (0.4362) (0.0631) Net effect of aspirations: T2 0.4543*** 0.4977*** -0.2724*** -434.6646** 0.0066 0.0314 0.2307* 0.1007 (0.0000) (0.0000) (0.0000) (0.0304) (0.8143) (0.3536) (0.0577) (0.5859) Mean control arm 0.25 0.35 0.38 909.17 0.1 0.09 10.13 3.73 Obs. 3128 1808 1808 1765 2479 3220 5052 5545 Table A2: Intervention effects on stated aspirations (female sample) Aspired level of child's education: no education Aspired level of child's education: 1st-8th grade Aspired level of child's education: 9th-12th grade Aspired level of child's education: college / university T1: L* + N* 0.016* -0.016* 0.042 -0.034 p-value (0.096) (0.066) (0.375) (0.461) q-value [0.599] [0.599] [0.653] [0.679] T1 x Aspirations -0.025*** 0.008 -0.047 0.066 p-value (0.007) (0.392) (0.392) (0.235) q-value [0.168] [0.653] [0.653] [0.653] T2: L* + N 0.002 0.001 -0.033 0.041 p-value (0.848) (0.926) (0.441) (0.322) q-value [0.963] [0.964] [0.679] [0.653] T2 x Aspirations 0.002 -0.002 0.056 -0.060 p-value (0.811) (0.898) (0.281) (0.248) q-value [0.963] [0.964] [0.653] [0.653] T3: L + N* -0.006 -0.012 0.021 0.001 p-value (0.329) (0.142) (0.543) (0.973) q-value [0.653] [0.653] [0.731] [0.973] Weighted average: aspirations estimates -0.0113* 0.0028 0.0054 0.0013 (0.0697) (0.7425) (0.8856) (0.9732) Net effect of aspirations: T1 -0.0092 -0.0084 -0.0053 0.0322 (0.2512) (0.3799) (0.9070) (0.4856) Net effect of aspirations: T2 0.0038 -0.0008 0.0226 -0.0194 (0.6396) (0.9520) (0.6190) (0.6759) Obs. 2911 2911 2911 2911 Table A3: Intervention effects on stated aspirations (parents of eldest sons) Aspired level of child's education: no education Aspired level of child's education: 1st-8th grade Aspired level of child's education: 9th-12th grade Aspired level of child's education: college / university T1: L* + N* 0.011 -0.022** 0.001 0.012 p-value (0.469) (0.029) (0.977) (0.794) q-value [0.870] [0.322] [0.977] [0.947] T1 x Aspirations -0.026* 0.005 0.006 0.011 p-value (0.058) (0.597) (0.915) (0.848) q-value [0.373] [0.943] [0.947] [0.947] T2: L* + N 0.004 -0.011 -0.067 0.079* p-value (0.772) (0.304) (0.117) (0.062) q-value [0.947] [0.760] [0.419] [0.373] T2 x Aspirations -0.002 0.004 0.037 -0.038 p-value (0.847) (0.744) (0.512) (0.520) q-value [0.947] [0.947] [0.870] [0.870] T3: L + N* -0.015 -0.016* -0.017 0.050 p-value (0.122) (0.083) (0.636) (0.154) q-value [0.419] [0.417] [0.947] [0.462] Weighted average: aspirations estimates -0.0138 0.0044 0.0221 -0.0136 (0.1205) (0.5410) (0.5870) (0.7401) Net effect of aspirations: T1 -0.0146 -0.0168* 0.0076 0.0237 (0.1975) (0.0952) (0.8823) (0.6342) Net effect of aspirations: T2 0.0016 -0.0070 -0.0294 0.0415 (0.8885) (0.5244) (0.5523) (0.4129) Obs. 2823 2823 2823 2823 Table A4: Intervention effects on stated aspirations (parents of eldest daughters) Aspired level of child's education: no education Aspired level of child's education: 1st-8th grade Aspired level of child's education: 9th-12th grade Aspired level of child's education: college / university T1: L* + N* 0.002 0.005 0.036 -0.041 p-value (0.809) (0.711) (0.529) (0.464) q-value [0.954] [0.954] [0.924] [0.924] T1 x Aspirations -0.004 -0.008 -0.044 0.060 p-value (0.721) (0.554) (0.463) (0.345) q-value [0.954] [0.924] [0.924] [0.924] T2: L* + N -0.014** 0.018 -0.042 0.041 p-value (0.036) (0.354) (0.391) (0.401) q-value [0.924] [0.924] [0.924] [0.924] T2 x Aspirations 0.015* -0.027 0.051 -0.042 p-value (0.085) (0.181) (0.357) (0.442) q-value [0.924] [0.924] [0.924] [0.924] T3: L + N* 0.001 -0.007 0.002 0.004 p-value (0.862) (0.502) (0.965) (0.922) q-value [0.954] [0.924] [0.965] [0.954] Weighted average: aspirations estimates 0.0056 -0.0177 0.0042 0.0081 (0.4460) (0.1298) (0.9176) (0.8441) Net effect of aspirations: T1 -0.0022 -0.0027 -0.0085 0.0188 (0.8586) (0.7735) (0.8569) (0.7084) Net effect of aspirations: T2 0.0010 -0.0098 0.0086 -0.0010 (0.9171) (0.3955) (0.8618) (0.9841) Obs. 2432 2432 2432 2432</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Policy</head><figDesc xml:id="_4AGnhMy">Research Institute designed to measure the causal impact of multisectoral graduation model interventions on multiple domains. Here, we provide a brief overview of the full experimental design while focusing primarily on the intervention targeting enhanced aspirations that is of interest for this analysis. The randomized controlled trial (RCT) evaluates combinations of four interventions; N and L correspond to the primary SPIR interventions focused on nutrition and livelihoods, respectively, while N* and L* represent enhanced versions of these interventions. The SPIR health and nutrition package (N) includes integrated nutrition social behavior change communication as well as water, sanitation and health education, both delivered by health extension workers and volunteers in the health development army.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure</head><figDesc xml:id="_5rFux9s">Figure 1: Evaluation design</figDesc><graphic coords="22,72.00,128.28,461.25,310.15" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_0"><p xml:id="_DZhxDP2">SPIR has been implemented by World Vision in partnership with the Organization for Rehabilitation and Development in Amhara (ORDA) and CARE between 2016 and 2021.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="3" xml:id="foot_1"><p xml:id="_KG49AWs">These interventions are organized into four purposes (livelihoods, nutrition, women's and youth empowerment, and climate resilience).</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_2"><p xml:id="_C74tXqG">The original experimental design also called for L* programming to include social analysis and action, a community-led social change strategy that addresses constraints on women's role in intrahousehold decisionmaking, mobility, and choice of livelihood activities, as well as restrictions on access to markets that derive from cultural and social norms. In practice, implementation of the SAA interventions has been limited.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="5" xml:id="foot_3"><p xml:id="_U4FFKtf">Due to differences in the timing of program rollout in the two evaluation regions, randomization was conducted separately for Amhara and Oromia. More details are provided in the baseline report<ref type="bibr" target="#b1">(Alderman et al. 2019)</ref>.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="6" xml:id="foot_4"><p xml:id="_DZV2H8j">Three of the profiled individuals are from Oromia, and one is from Amhara. The individuals were identified from descriptions of individuals' life stories submitted by non-governmental organization staff and development agents.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="7" xml:id="foot_5"><p xml:id="_ZP5vtfp">Two kebeles do not have attendance information available: Akim Tserewa (Sekota woreda, Amhara) and Shelo Belala (Siraro woreda, Oromia).</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="8" xml:id="foot_6"><p xml:id="_tSsypDK">At the point of sampling, this area was constituted by only 13 woredas, but following the baseline survey, two new woredas were created to generate 15 in total. We retain the original woreda strata when controlling for study design in the treatment effect models during analysis.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="9" xml:id="foot_7"><p xml:id="_bwg2f2E">More precisely, these two inclusion criteria yielded 196 kebeles; two additional kebeles were dropped when no PSNP clients were identified, one kebele was dropped for security reasons, and one kebele was excluded in error from baseline surveys.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="10" xml:id="foot_8"><p xml:id="_B2q2jYh">This corresponds to 95.4% of the target sample identified prior to the baseline survey. The sample includes 1,920 households from Amhara and 1,394 from Oromia. Interviews with a primary male respondent were completed in 2,756 sample households; of the 558 households without a primary male respondent interview, 522 (93.5%) were female headed households and most of those would not have head a responsible male (such as a spouse to the</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head xml:id="_XNFKbQU">Acknowledgments</head><p xml:id="_NAuKZFt">We gratefully acknowledge funding for the impact evaluation by <rs type="funder">USAID</rs> under Cooperative Agreement No <rs type="grantNumber">AID-FFP-A-16-00008</rs>. This work was undertaken as part of the <rs type="funder">CGIAR Research Program on Policies, Institutions, and Markets</rs> (PIM) led by the <rs type="funder">International Food Policy Research Institute (IFPRI)</rs>. Additional funding support for this study was also provided by PIM.</p></div>
+			</div>
+			<div type="funding">
+<div xml:id="_HvNXnEe"><p xml:id="_T236Jfk"><rs type="institution">Governance Division, Addis Ababa, Ethiopia</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_UxgUSHQ">
+					<idno type="grant-number">AID-FFP-A-16-00008</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_GQpzyRM">Appendix</head><p xml:id="_kjSpBjK">Table A1: Intervention effects on stated aspirations (male sample) Aspired level of child's education: no education Aspired level of child's education: 1st-8th grade Aspired level of child's education: 9th-12th grade Aspired level of child's education: college / university Aspired level of incomelog T1: L* + N* 0.000 -0.000 -0.010 0.039 0.363 p-value (0.998) (0.989) (0.794) (0.351) (0.204) q-value [0.998] [0.998] [0.998] [0.593] [0.593] T1 x Aspirations -0.008 -0.008 -0.001 -0.059 -0.493 p-value (0.356) (0.301) (0.986) (0.220) (0.118) q-value [0.593] [0.593] [0.998] [0.507] [0.507] T2: L* + N -0.006 0.006 -0.074** 0.058* -0.010 p-value (0.386) (0.472) (0.011) (0.078) (0.973) q-value [0.609] [0.708] [0.111] [0.413] [0.998] T2 x Aspirations 0.006 -0.014 0.071* 0.020 1.018*** p-value (0.516) (0.138) (0.084) (0.630) (0.001) q-value [0.737] [0.413] [0.413] [0.859] [0.031] T3: L + N* -0.006 -0.008 -0.044 0.050 0.176 p-value (0.332) (0.125) (0.118) (0.105) (0.445) q-value [0.593] [0.413] [0.413] [0.413] [0.998] Weighted average: aspirations estimates -0.0008 -0.0108* 0.0358 -0.0187 0.2794 (0.9004) (0.0635) (0.2161) (0.5445) (0.1758) Net effect of aspirations: T1 -0.0077 -0.0081 -0.0109 -0.0201 -0.1308 (0.3463) (0.1325) (0.7481) (0.5829) (0.6475) Net effect of aspirations: T2 0.0001 -0.0080 -0.0030 0.0778** 1.0085*** (0.9884) (0.2446) (0.9412) (0.0364) (0.0001) Obs. 3220 3220 3220 3220 3220 Table A5: Intervention effects on household investment in livestock Woman reports owning any poultry (solely or jointly owned) Man reports household owns any poultry Man reports household owns any livestock other than poultry Total number of poultry owned by female Total number of poultry owned by household (as reported by male) Woman reports any income from sales of poultry owned (solely or jointly) Man reports any income from sales of poultry owned by household Woman reports any income from egg sales in last 30 days T1: L* + N* 0.168*** 0.198*** 0.041 2.758*** 2.981*** 0.045 0.042 0.136*** p-value (0.001) (0.000) (0.328) (0.000) (0.000) (0.305) (0.414) (0.001) q-value [0.003] [0.000] [0.585] [0.002] [0.000] [0.585] [0.621] [0.007] T1 x Aspirations 0.007 -0.021 -0.040 0.777 0.628 -0.072 0.019 -0.047 p-value (0.898) (0.688) (0.370) (0.447) (0.515) (0.173) (0.769) (0.342) q-value [0.907] [0.812] [0.591] [0.621] [0.664] [0.406] [0.877] [0.585] T2: L* + N 0.136*** 0.153*** 0.013 2.666*** 3.057*** -0.064 0.010 0.074** p-value (0.002) (0.000) (0.691) (0.000) (0.000) (0.129) (0.833) (0.042) q-value [0.007] [0.001] [0.812] [0.003] [0.000] [0.328] [0.877] [0.139] T2 x Aspirations 0.055 0.052 0.035 0.735 0.797 0.046 0.047 0.019 p-value (0.241) (0.230) (0.312) (0.485) (0.445) (0.351) (0.450) (0.686) q-value [0.508] [0.508] [0.585] [0.646] [0.621] [0.585] [0.621] [0.812] T3: L + N* 0.071* 0.054 -0.006 0.576 0.905*** 0.004 -0.008 0.076** p-value (0.056) (0.101) (0.823) (0.131) (0.005) (0.907) (0.798) (0.011) q-value [0.172] [0.289] [0.877] [0.328] [0.018] [0.907] [0.877] [0.041] Weighted average: aspirations estimates 0.0316 0.0163 -0.0019 0.7556 0.7142 -0.0116 0.0335 -0.0132 (0.3798) (0.6210) (0.9468) (0.2965) (0.3098) (0.7363) (0.4401) (0.6940) Net effect of aspirations: T1 0.1752*** 0.1777*** 0.0007 3.5346*** 3.6091*** -0.0265 0.0612 0.0894** (0.0005) (0.0002) (0.9841) (0.0001) (0.0000) (0.5437) (0.2531) (0.0182) Net effect of aspirations: T2 0.1914*** 0.2044*** 0.0480* 3.4008*** 3.8543*** -0.0178 0.0574 0.0930** (0.0000) (0.0000) (0.0881) (0.0001) (0.0000) (0.6829) (0.2777) (0.0205) Obs. 3127 3189 3189 3127 3189 2204 2244 3098 Table A6: Intervention effects on wage work Household member undertook regular wage work for an employer in last 12 months Household member undertook casual/irregular wage work in last 12 months Primary male's main activity is crop production Primary female undertook regular wage work for an employer in last 12 months Primary female undertook casual/irregular wage work in last 12 months Primary female's main activity is crop production T1: L* + N* -0.010 -0.041 0.009 0.006 -0.040 0.018 p-value (0.490) (0.420) (0.680) (0.448) (0.108) (0.748) q-value [0.815] [0.815] [0.885] [0.815] [0.324] [0.885] T1 x Aspirations 0.046** 0.067 -0.014 -0.004 0.082*** -0.069 p-value (0.011) (0.182) (0.543) (0.650) (0.005) (0.213) q-value [0.080] [0.497] [0.815] [0.885] [0.072] [0.515] T2: L* + N 0.001 0.078** -0.004 -0.003 0.007 -0.083*** p-value (0.959) (0.044) (0.796) (0.469) (0.773) (0.008) q-value [0.959] [0.165] [0.885] [0.815] [0.885] [0.080] T2 x Aspirations 0.002 -0.138*** 0.012 0.013** -0.053** 0.092** p-value (0.921) (0.001) (0.518) (0.036) (0.037) (0.014) q-value [0.952] [0.022] [0.815] [0.157] [0.157] [0.087] T3: L + N* 0.004 0.043 0.007 -0.003 0.003 -0.056* p-value (0.725) (0.223) (0.647) (0.387) (0.886) (0.090) q-value [0.885] [0.515] [0.885] [0.815] [0.949] [0.299] Weighted average: aspirations estimates 0.0232* -0.0381 -0.0009 0.0045 0.0131 0.0133 (0.0607) (0.2355) (0.9530) (0.3978) (0.4806) (0.6983) Net effect of aspirations: T1 0.0360** 0.0258 -0.0057 0.0019 0.0421 -0.0509 (0.0238) (0.5208) (0.7736) (0.7432) (0.1207) (0.1535) Net effect of aspirations: T2 0.0024 -0.0604 0.0076 0.0096 -0.0462* 0.0087 (0.8815) (0.1520) (0.6455) (0.1024) (0.0585) (0.8232) Obs. 2479 2477 2671 3127 3128 3078 ALL IFPRI DISCUSSION PAPERS All discussion papers are available <ref type="url" target="https://www.ifpri.org/publications?sm_content_subtype_to_terms=6&amp;sort_by=ds_year&amp;f%5B0%5D=sm_content_subtype_to_terms%3D1&amp;f%5B1%5D=sm_content_subtype_to_terms%3A88">here</ref> They can be downloaded free of charge INTERNATIONAL FOOD POLICY RESEARCH INSTITUTE <ref type="url" target="http://www.ifpri.org/">www.ifpri.org</ref> IFPRI HEADQUARTERS 1201 Eye Street, NW Washington, DC 20005 USA Tel.: +1-202-862-5600 Fax: +1-202-862-5606 Email: <ref type="url" target="mailto:ifpri@cgiar.org">ifpri@cgiar.org</ref> </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="consolidated"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main" xml:id="_ejq8QeK">How vocational education made women better off but left men behind</title>
+		<author>
+			<persName><forename type="first">Paloma</forename><surname>Acevedo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Guillermo</forename><surname>Cruces</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Gertler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sebastian</forename><surname>Martinez</surname></persName>
+			<idno type="ORCID">0000-0002-7651-6674</idno>
+		</author>
+		<idno type="DOI">10.1016/j.labeco.2020.101824</idno>
+		<ptr target="https://doi.org/10.1016/j.labeco.2020.101824" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_6rRwZeB">Labour Economics</title>
+		<title level="j" type="abbrev">Labour Economics</title>
+		<idno type="ISSN">0927-5371</idno>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page">101824</biblScope>
+			<date type="published" when="2019">2020. March 2019</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b1">
+	<monogr>
+		<author>
+			<persName><forename type="first">Harold</forename><surname>Alderman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fantu</forename><surname>Bachewe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Daniel</forename><forename type="middle">O</forename><surname>Gilligan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Melissa</forename><surname>Hidrobo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Natasha</forename><surname>Ledlie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Gayathri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alemayehu</forename><surname>Ramani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tafesse</forename><surname>Seyoun</surname></persName>
+		</author>
+		<ptr target="https://doi.org/https://www.careevaluations.org/wp-content/uploads/Impact-Evaluation-of-the-Strengthen-PSNP4-Institutions-and-Resilience-SPIR-Development-Food-Security-Activity-DFSA-Baseline-2019.pdf" />
+		<title level="m" xml:id="_PARfMnE">Impact Evaluation of the Strengthen PSNP4 Institutions and Resilience (SPIR) Development Food Security Activity (DFSA): Baseline Report</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<monogr>
+		<author>
+			<persName><surname>Alderman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Daniel</forename><forename type="middle">O</forename><surname>Harold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Melissa</forename><surname>Gilligan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jessica</forename><surname>Hidrobo</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Leight</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Gayathri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alemayehu</forename><surname>Ramani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Heleene</forename><surname>Seyoum Taffesse</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Tambet</surname></persName>
+		</author>
+		<ptr target="https://www.ifpri.org/publication/impact-evaluation-strengthen-psnp4-institutions-and-resilience-spir-development-food" />
+		<title level="m" xml:id="_5D4qyPt">Impact Evaluation of the Strengthen PSNP4 Institutions and Resilience (SPIR) Development Food Security Activity (DFSA): Midline Report</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main" xml:id="_PdyaXJs">Negotiating a Better Future: How Interpersonal Skills Facilitate Intergenerational Investment*</title>
+		<author>
+			<persName><forename type="first">Nava</forename><surname>Ashraf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Natalie</forename><surname>Bau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Corinne</forename><surname>Low</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kathleen</forename><surname>Mcginn</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/qje/qjz039</idno>
+		<ptr target="https://doi.org/10.1093/qje/qjz039" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_fb7FjTd">The Quarterly Journal of Economics</title>
+		<idno type="ISSN">0033-5533</idno>
+		<idno type="ISSNe">1531-4650</idno>
+		<imprint>
+			<biblScope unit="volume">135</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="1095" to="1151" />
+			<date type="published" when="2020-01-09">2020</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main" xml:id="_3RjgbnE">Can Positive Psychology Improve Psychological Well-Being and Economic Decision-Making? Experimental Evidence from Kenya</title>
+		<author>
+			<persName><forename type="first">Victoria</forename><surname>Baranov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Johannes</forename><surname>Haushofer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Chaning</forename><surname>Jang</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/702860</idno>
+		<ptr target="https://doi.org/10.1086/702860" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_dwadCAQ">Economic Development and Cultural Change</title>
+		<title level="j" type="abbrev">Economic Development and Cultural Change</title>
+		<idno type="ISSN">0013-0079</idno>
+		<idno type="ISSNe">1539-2988</idno>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1345" to="1376" />
+			<date type="published" when="2020-07">2020</date>
+			<publisher>University of Chicago Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main" xml:id="_sKYAvMU">Parental Aspirations for Children’s Education: Is There a “Girl Effect”? Experimental Evidence from Rural Ethiopia</title>
+		<author>
+			<persName><forename type="first">Tanguy</forename><surname>Bernard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stefan</forename><surname>Dercon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kate</forename><surname>Orkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alemayehu</forename><forename type="middle">Seyoum</forename><surname>Taffesse</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/pandp.20191072</idno>
+		<ptr target="https://doi.org/10.1257/pandp.20191072" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_RPZpJvJ">AEA Papers and Proceedings</title>
+		<title level="j" type="abbrev">AEA Papers and Proceedings</title>
+		<idno type="ISSN">2574-0768</idno>
+		<idno type="ISSNe">2574-0776</idno>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="page" from="127" to="132" />
+			<date type="published" when="2019-05-01">2019</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main" xml:id="_BhkUKxy">Can community service grants foster social and economic integration for youth? A randomized trial in Kazakhstan</title>
+		<author>
+			<persName><forename type="first">Syon</forename><forename type="middle">P</forename><surname>Bhanot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Benjamin</forename><surname>Crost</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jessica</forename><surname>Leight</surname></persName>
+			<idno type="ORCID">0000-0002-1691-9682</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Eric</forename><surname>Mvukiyehe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bauyrzhan</forename><surname>Yedgenov</surname></persName>
+			<idno type="ORCID">0000-0001-6625-4554</idno>
+		</author>
+		<idno type="DOI">10.1016/j.jdeveco.2021.102718</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_D8uWWbv">Journal of Development Economics</title>
+		<title level="j" type="abbrev">Journal of Development Economics</title>
+		<idno type="ISSN">0304-3878</idno>
+		<imprint>
+			<biblScope unit="volume">153</biblScope>
+			<biblScope unit="page">102718</biblScope>
+			<date type="published" when="2020">2020</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main" xml:id="_myzjzAU">Reducing Crime and Violence: Experimental Evidence from Cognitive Behavioral Therapy in Liberia</title>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Blattman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Julian</forename><forename type="middle">C</forename><surname>Jamison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Margaret</forename><surname>Sheridan</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/aer.20150503</idno>
+		<ptr target="https://doi.org/10.1257/aer.20150503" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_JEqNx8d">American Economic Review</title>
+		<title level="j" type="abbrev">American Economic Review</title>
+		<idno type="ISSN">0002-8282</idno>
+		<imprint>
+			<biblScope unit="volume">107</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1165" to="1206" />
+			<date type="published" when="2017-04-01">2017</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main" xml:id="_3MbpRvm">Generating Employment in Poor and Fragile States: Evidence from Labor Market and Entrepreneurship Programs</title>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Blattman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Laura</forename><surname>Ralston</surname></persName>
+		</author>
+		<idno type="DOI">10.2139/ssrn.2622220</idno>
+		<ptr target="https://doi.org/10.2139/ssrn.2622220" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_nRXcGhq">SSRN Electronic Journal</title>
+		<title level="j" type="abbrev">SSRN Journal</title>
+		<idno type="ISSNe">1556-5068</idno>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main" xml:id="_aYVnhnS">Poverty and Aspirations Failure</title>
+		<author>
+			<persName><forename type="first">Patricio</forename><forename type="middle">S</forename><surname>Dalton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sayantan</forename><surname>Ghosal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anandi</forename><surname>Mani</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/ecoj.12210</idno>
+		<ptr target="https://doi.org/10.1111/ecoj.12210" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_UKxrAXW">The Economic Journal</title>
+		<idno type="ISSN">0013-0133</idno>
+		<idno type="ISSNe">1468-0297</idno>
+		<imprint>
+			<biblScope unit="volume">126</biblScope>
+			<biblScope unit="issue">590</biblScope>
+			<biblScope unit="page" from="165" to="188" />
+			<date type="published" when="2016">2016</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main" xml:id="_Nw4UfFE">From Nutrition to Aspirations and Self-Efficacy: Gender Bias over Time among Children in Four Countries</title>
+		<author>
+			<persName><forename type="first">Stefan</forename><surname>Dercon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Abhijeet</forename><surname>Singh</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.worlddev.2012.12.001</idno>
+		<ptr target="https://doi.org/10.1016/j.worlddev.2012.12.001" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_BkBhsbW">World Development</title>
+		<title level="j" type="abbrev">World Development</title>
+		<idno type="ISSN">0305-750X</idno>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="31" to="50" />
+			<date type="published" when="2013-05">2013</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b11">
+	<monogr>
+		<title level="m" type="main" xml:id="_yVtuUc4">Advancing the Agency of Adolescent Girls</title>
+		<author>
+			<persName><forename type="first">Eric</forename><forename type="middle">;</forename><surname>Edmonds</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Benjamin</forename><forename type="middle">;</forename><surname>Feigenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jessica</forename><surname>Leight</surname></persName>
+		</author>
+		<idno type="DOI">10.3386/w27513</idno>
+		<idno>No. 27513</idno>
+		<imprint>
+			<date type="published" when="2020-07">2020</date>
+			<publisher>National Bureau of Economic Research</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">NBER Working Paper</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main" xml:id="_sg9wj7g">Hard Cash and Soft Skills: Experimental Evidence on Combining Scholarships and Mentoring in Argentina</title>
+		<author>
+			<persName><forename type="first">Alejandro</forename><surname>Ganimian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Felipe</forename><surname>Barrera-Osorio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">María</forename><forename type="middle">Loreto</forename><surname>Biehl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">María</forename><forename type="middle">Ángela</forename><surname>Cortelezzi</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/19345747.2019.1711271</idno>
+		<ptr target="https://doi.org/10.1080/19345747.2019.1711271" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_ZwuWmA6">Journal of Research on Educational Effectiveness</title>
+		<title level="j" type="abbrev">Journal of Research on Educational Effectiveness</title>
+		<idno type="ISSN">1934-5747</idno>
+		<idno type="ISSNe">1934-5739</idno>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="380" to="400" />
+			<date type="published" when="2020-04-02">2020</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main" xml:id="_6KUx8QE">Growth-Mindset Interventions at Scale: Experimental Evidence From Argentina</title>
+		<author>
+			<persName><forename type="first">Alejandro</forename><forename type="middle">J</forename><surname>Ganimian</surname></persName>
+		</author>
+		<idno type="DOI">10.3102/0162373720938041</idno>
+		<ptr target="https://doi.org/10.3102/0162373720938041" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_WT36xJm">Educational Evaluation and Policy Analysis</title>
+		<title level="j" type="abbrev">Educational Evaluation and Policy Analysis</title>
+		<idno type="ISSN">0162-3737</idno>
+		<idno type="ISSNe">1935-1062</idno>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="417" to="438" />
+			<date type="published" when="2020-07-20">2020</date>
+			<publisher>American Educational Research Association (AERA)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main" xml:id="_NDseNAg">Aspirations and Inequality</title>
+		<author>
+			<persName><forename type="first">Garance</forename><surname>Genicot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Debraj</forename><surname>Ray</surname></persName>
+		</author>
+		<idno type="DOI">10.3982/ecta13865</idno>
+		<ptr target="https://doi.org/10.3982/ecta13865" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_ZpE7YrK">Econometrica</title>
+		<title level="j" type="abbrev">Econometrica</title>
+		<idno type="ISSN">0012-9682</idno>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="489" to="519" />
+			<date type="published" when="2017">2017</date>
+			<publisher>The Econometric Society</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main" xml:id="_KBu8n9z">Sex Workers, Stigma, and Self-Image: Evidence from Kolkata Brothels</title>
+		<author>
+			<persName><forename type="first">Sayantan</forename><surname>Ghosal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Smarajit</forename><surname>Jana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anandi</forename><surname>Mani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sandip</forename><surname>Mitra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sanchari</forename><surname>Roy</surname></persName>
+		</author>
+		<idno type="DOI">10.1162/rest_a_01013</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_cUbmfX7">The Review of Economics and Statistics</title>
+		<idno type="ISSN">0034-6535</idno>
+		<idno type="ISSNe">1530-9142</idno>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="431" to="448" />
+			<date type="published" when="2020">2020</date>
+			<publisher>MIT Press</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">Working Paper</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main" xml:id="_uEtHZCq">The impact of soft skills training on female youth employment: evidence from a randomized experiment in Jordan</title>
+		<author>
+			<persName><forename type="first">Matthew</forename><surname>Groh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nandini</forename><surname>Krishnan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><surname>Mckenzie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tara</forename><surname>Vishwanath</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/s40175-016-0055-9</idno>
+		<ptr target="https://doi.org/10.1186/s40175-016-0055-9" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_HF7NsNr">IZA Journal of Labor &amp; Development</title>
+		<title level="j" type="abbrev">IZA J Labor Develop</title>
+		<idno type="ISSNe">2193-9020</idno>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2016-05-13">2016</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main" xml:id="_kpgTzh9">The (Perceived) Returns to Education and the Demand for Schooling&lt;sup&gt;*&lt;/sup&gt;</title>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Jensen</surname></persName>
+		</author>
+		<idno type="DOI">10.1162/qjec.2010.125.2.515</idno>
+		<ptr target="https://doi.org/10.1162/qjec.2010.125.2.515" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_rMW742P">Quarterly Journal of Economics</title>
+		<title level="j" type="abbrev">Quarterly Journal of Economics</title>
+		<idno type="ISSN">0033-5533</idno>
+		<idno type="ISSNe">1531-4650</idno>
+		<imprint>
+			<biblScope unit="volume">125</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="515" to="548" />
+			<date type="published" when="2010-05">2010</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b18">
+	<analytic>
+		<author>
+			<persName><forename type="first">Addisu</forename><surname>Lashitew</surname></persName>
+		</author>
+		<ptr target="https://foreignpolicy.com/2019/11/08/ethiopia-will-explode-if-abiy-ahmed-doesnt-move-beyond-ethnic-based-politics/" />
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_BbGxRYM">Ethiopia Will Explode If It Doesn&apos;t Move Beyond Ethnic-Based Politics</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main" xml:id="_st8baWQ">Body and mind: Experimental evidence from women living with HIV</title>
+		<author>
+			<persName><forename type="first">Patrick</forename><surname>Lubega</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Frances</forename><surname>Nakakawa</surname></persName>
+			<idno type="ORCID">0000-0003-1796-9152</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Gaia</forename><surname>Narciso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Carol</forename><surname>Newman</surname></persName>
+			<idno type="ORCID">0000-0002-1785-0891</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Archileo</forename><forename type="middle">N</forename><surname>Kaaya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cissy</forename><surname>Kityo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gaston</forename><forename type="middle">A</forename><surname>Tumuhimbise</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jdeveco.2020.102613</idno>
+		<ptr target="https://doi.org/10.1016/j.jdeveco.2020.102613" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_YBUpwGv">Journal of Development Economics</title>
+		<title level="j" type="abbrev">Journal of Development Economics</title>
+		<idno type="ISSN">0304-3878</idno>
+		<imprint>
+			<biblScope unit="volume">150</biblScope>
+			<biblScope unit="page">102613</biblScope>
+			<date type="published" when="2020">2021. December 2020</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main" xml:id="_xbcpAQy">Reducing Gender Gaps in Management: Experimental Evidence from Peru</title>
+		<author>
+			<persName><forename type="first">Trang</forename><surname>Nguyen</surname></persName>
+		</author>
+		<idno type="DOI">10.1596/42945</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_fVubCgD">World Bank&apos;s Gender Impact Evaluation Database</title>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<publisher>Washington, DC: World Bank</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b21">
+	<monogr>
+		<title level="m" type="main" xml:id="_HVC32Wc">The Power of Believing You can Get Smarter: The Impact of a Growth-Mindset Intervention on Academic Achievement in Peru</title>
+		<author>
+			<persName><forename type="first">Ingo</forename><surname>Outes-Leon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alan</forename><surname>Sanchez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Renos</forename><surname>Vakis</surname></persName>
+		</author>
+		<idno type="DOI">10.1596/1813-9450-9141</idno>
+		<imprint>
+			<date type="published" when="2020-02">2020. 9141</date>
+			<publisher>World Bank, Washington, DC</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">World Bank Policy Research Working Paper</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b22">
+	<monogr>
+		<title level="m" type="main" xml:id="_YJep4Q6">Influencing Youths&apos; Aspirations and Gender Attitudes through Role Models: Evidence from Somali Schools</title>
+		<author>
+			<persName><forename type="first">Danila</forename><surname>Serra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Catherine</forename><surname>Porter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Elijah</forename><forename type="middle">Kipkech</forename><surname>Kipchumba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Munshi</forename><surname>Sulaiman</surname></persName>
+		</author>
+		<idno>20210224-002</idno>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Texas A&amp;M University Working Paper</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main" xml:id="_fb3mYzq">An improved Bonferroni procedure for multiple tests of significance</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Simes</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/biomet/73.3.751</idno>
+		<ptr target="https://doi.org/10.1093/biomet/73.3.751" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_gR4szAR">Biometrika</title>
+		<title level="j" type="abbrev">Biometrika</title>
+		<idno type="ISSN">0006-3444</idno>
+		<idno type="ISSNe">1464-3510</idno>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="751" to="754" />
+			<date type="published" when="1986">1986</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b24">
+	<analytic>
+		<title level="a" type="main" xml:id="_ykEh8ny">The Future in Mind: Aspirations and Forward-Looking Behaviour in Rural Ethiopia</title>
+		<author>
+			<persName><forename type="first">Bernard</forename><surname>Tanguy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stefan</forename><surname>Dercon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kate</forename><surname>Orkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alemayehu</forename><forename type="middle">Seyoum</forename><surname>Taffesse</surname></persName>
+		</author>
+		<idno type="DOI">10.2139/ssrn.2514590</idno>
+		<ptr target="https://doi.org/10.2139/ssrn.2514590" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_mCdkKVK">SSRN Electronic Journal</title>
+		<title level="j" type="abbrev">SSRN Journal</title>
+		<idno type="ISSNe">1556-5068</idno>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b25">
+	<analytic>
+		<title level="a" type="main" xml:id="_srsmB2G">Does International Child Sponsorship Work? A Six-Country Study of Impacts on Adult Life Outcomes</title>
+		<author>
+			<persName><forename type="first">Bruce</forename><surname>Wydick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Glewwe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Laine</forename><surname>Rutledge</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/670138</idno>
+		<ptr target="https://doi.org/10.1086/670138" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_wxXKFYt">Journal of Political Economy</title>
+		<title level="j" type="abbrev">Journal of Political Economy</title>
+		<idno type="ISSN">0022-3808</idno>
+		<idno type="ISSNe">1537-534X</idno>
+		<imprint>
+			<biblScope unit="volume">121</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="393" to="436" />
+			<date type="published" when="2013-04">2013</date>
+			<publisher>University of Chicago Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b26">
+	<analytic>
+		<title level="a" type="main" xml:id="_8AcvMSu">https://publ.icgbio.ru/wp-content/uploads/2024/09/BGRSSB_2024_Abstracts-137-140.pdf</title>
+		<author>
+			<persName><forename type="first">Semir</forename><surname>Yusuf</surname></persName>
+		</author>
+		<idno type="DOI">10.18699/bgrs2024-1.2-05</idno>
+		<ptr target="https://issafrica.s3.amazonaws.com/site/uploads/ear-28.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_7Fz6f9Y">Четырнадцатая международная мультиконференция : Тез. докл.</title>
+		<imprint>
+			<publisher>ИЦиГ СО РАН</publisher>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

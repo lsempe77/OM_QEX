@@ -1,0 +1,1583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" xml:id="_wwqZjm7">Evaluation of health impacts of a disability-inclusive graduation programme among ultra-poor people with disabilities in Uganda: secondary analysis of a cluster randomized trial</title>
+				<funder ref="#_npgxMac">
+					<orgName type="full">National Institute for Health and Care Research</orgName>
+					<orgName type="abbreviated">NIHR</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">London School of Hygiene &amp; Tropical Medicine</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">National Lottery</orgName>
+				</funder>
+				<funder ref="#_qA895Gz">
+					<orgName type="full">Arts and Humanities Research Council</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">UK Foreign, Commonwealth and Development Office</orgName>
+				</funder>
+				<funder ref="#_m3ShHRN">
+					<orgName type="full">United Kingdom Foreign, Commonwealth and Development Office</orgName>
+					<orgName type="abbreviated">FCDO</orgName>
+				</funder>
+				<funder ref="#_bRChsPp">
+					<orgName type="full">FCDO</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Comic Relief</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">National Union of Women with Disabilities of Uganda (NUWODU)</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Humanity and Inclusion</orgName>
+					<orgName type="abbreviated">HI</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2025-07-03">3 July 2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Shanquan</forename><surname>Chen</surname></persName>
+							<email>shanquan.chen@lshtm.ac.uk</email>
+							<idno type="ORCID">0000-0002-4724-4892</idno>
+							<affiliation key="aff0">
+								<orgName type="department">International Centre for Evidence in Disability</orgName>
+								<orgName type="institution">London School of Hygiene &amp; Tropical Medicine</orgName>
+								<address>
+									<postCode>WC1E 7HT</postCode>
+									<settlement>London</settlement>
+									<country key="GB">United Kingdom</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Lena</forename><forename type="middle">Morgon</forename><surname>Banks</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Elijah</forename><surname>Kipchumba</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">Trinity College Dublin</orgName>
+								<address>
+									<settlement>Dublin</settlement>
+									<country key="IE">Ireland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Calum</forename><surname>Davey</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="institution">National Institute of Teaching</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Munshi</forename><surname>Sulaiman</surname></persName>
+							<idno type="ORCID">0000-0001-6061-933X</idno>
+							<affiliation key="aff3">
+								<orgName type="department">Brac Institute of Governance and Development (BIGD)</orgName>
+								<orgName type="institution">BRAC University</orgName>
+								<address>
+									<settlement>Dhaka</settlement>
+									<country key="BD">Bangladesh</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="laboratory">Independent Evaluation and Research Cell</orgName>
+								<orgName type="institution">BRAC Uganda</orgName>
+								<address>
+									<settlement>Kampala</settlement>
+									<country key="UG">Uganda</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Hannah</forename><surname>Kuper</surname></persName>
+							<idno type="ORCID">0000-0002-8952-0023</idno>
+							<affiliation key="aff0">
+								<orgName type="department">International Centre for Evidence in Disability</orgName>
+								<orgName type="institution">London School of Hygiene &amp; Tropical Medicine</orgName>
+								<address>
+									<postCode>WC1E 7HT</postCode>
+									<settlement>London</settlement>
+									<country key="GB">United Kingdom</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main" xml:id="_cMGejqh">Evaluation of health impacts of a disability-inclusive graduation programme among ultra-poor people with disabilities in Uganda: secondary analysis of a cluster randomized trial</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main" xml:id="_TNqWQJz">eClinicalMedicine</title>
+						<title level="j" type="abbrev">eClinicalMedicine</title>
+						<idno type="ISSN">2589-5370</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">85</biblScope>
+							<biblScope unit="page">103318</biblScope>
+							<date type="published" when="2025-07-03">3 July 2025</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">20CB2529327E96B547EA02B3A9C83CFA</idno>
+					<idno type="DOI">10.1016/j.eclinm.2025.103318</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2025-11-04T23:47+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a292bac</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=1, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=true, generateTeiCoordinates=[true], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term xml:id="_b9uC8YA">Disability</term>
+					<term xml:id="_BuZ9rDE">Poverty reduction</term>
+					<term xml:id="_p3TESP2">Healthcare access</term>
+					<term xml:id="_TQfhZAk">Graduation approach</term>
+					<term xml:id="_Xf5c2Br">Uganda</term>
+					<term xml:id="_r88fnKK">Randomized controlled trial</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_dstKNz9"><p xml:id="_CwdUcBz">Background People with disabilities experience significant health inequalities and barriers to healthcare access globally. While poverty alleviation interventions show promise for improving health outcomes, evidence specifically for people with disabilities remains limited. This study evaluated the effectiveness of a disability-inclusive graduation (DIG) programme on health outcomes among ultra-poor people with disabilities in Uganda. Methods We conducted a two-arm, parallel cluster-randomized controlled trial in four districts of Northern Uganda. Clusters were randomly assigned to either the DIG intervention (96 clusters) or control group (89 clusters). This analysis focused on households with people with disabilities, as identified by the Washington Group Short Set questions and verified by BRAC programme managers. Households in treatment clusters received up to 18 months DIG intervention between December 2020 and June 2022, combining asset transfers, cash support, skills training, financial inclusion activities, and disability-specific services including rehabilitation and assistive devices. The primary outcome was experience of illness/injury in the past 3 months, assessed at both first follow-up (immediately post-intervention) and second follow-up (about 16 months post-intervention), with secondary outcomes including unmet health needs, mental health status, unmet assistive product needs, and healthcare expenditure. Effects were estimated using linear mixed-effects regression or generalized estimating equations, reporting minimally-adjusted and fully-adjusted mean differences (FAMD) or odds ratios (FAOR) with 95% CIs. The trial was registered with RIDIE (RIDIE-STUDY-ID-626008898983a) and ISRCTN (ISRCTN-78592382). Findings At baseline, 691 participants (370 intervention, 321 control) were included. The DIG intervention did not significantly impact overall illness/injury prevalence at either first follow-up (41.18% vs 45.86%, FAOR 0.84, 95% CI 0.58-1.22) or second follow-up (55.65% vs 53.98%, FAOR 1.07, 95% CI 0.74-1.56). However, the intervention demonstrated a progressively strengthening effect on reducing unmet health needs, from marginal improvement immediately post-intervention (FAOR 0.56, 95% CI 0.31-1.02, p = 0.06) to significant reduction at 16 months post-intervention (FAOR 0.4, 95% CI 0.22-0.71, p = 0.002). Notably, the intervention produced temporal potential shifts in disease patterns, with malaria showing contrasting trends between follow-up periods. Sex-differentiated effects emerged by second follow-up, with females in the intervention group experiencing fewer injuries (FAOR for interaction 0.17, 95% CI 0.04-0.74, p = 0.02) but more pain-related conditions compared to males (FAOR for interaction 2.43, 95% CI 1.05-5.59, p = 0.04), though these subgroup findings require replication in future studies. No significant differences were observed in mental health outcomes or health expenditure. Interpretation This first randomized evaluation of a disability-inclusive graduation programme demonstrates that while economic empowerment alone may not reduce overall illness prevalence among people with disabilities, it can progressively improve healthcare access over time. The temporal evolution of effects and emerging sexdifferentiated impacts highlight the need for sustained support and gender-sensitive approaches in future disability-inclusive poverty reduction programmes, with additional health-specific components to achieve broader improvements in health outcomes.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="10" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="11" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="12" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="13" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="14" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="15" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_HznbBgB">Introduction</head><p xml:id="_uJW6rgF">Approximately 1.3 billion people live with disabilities globally, experiencing more than double the mortality rate of others, resulting in a 14-year life expectancy gap. <ref type="bibr" target="#b0">[1]</ref><ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref> People with disabilities also experience other health gaps, such as poorer health status, barriers to healthcare access, more expensive yet lower quality healthcare, and poorer treatment outcomes. <ref type="bibr" target="#b0">1,</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref> These health inequalities stem from multiple factors including impairment-related conditions, widespread discrimination and poverty, inadequate disability-related healthcare provider skills and inaccessible facilities. <ref type="bibr" target="#b7">8,</ref><ref type="bibr" target="#b8">9</ref> Poverty alleviation has been central to disabilityinclusive development initiatives due to the strong poverty-disability relationship. <ref type="bibr" target="#b9">10,</ref><ref type="bibr" target="#b10">11</ref> Countries have implemented various interventions to move people with disabilities out of poverty, including cash transfers and disability-inclusive livelihood programmes. <ref type="bibr" target="#b11">12</ref> These schemes may also improve health and healthcare access through multiple pathways: enabling coverage of direct and indirect healthcare costs, promoting healthier living conditions and preventative activities, reducing stressrelated mental health impacts, and providing linked benefits such as health insurance or transport subsidies. <ref type="bibr" target="#b6">7,</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref><ref type="bibr" target="#b14">[15]</ref> While the poverty-health relationship is wellestablished, evidence that poverty alleviation improves health outcomes in low and middle-income countries (LMICs) remains limited and inconsistent. <ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref><ref type="bibr" target="#b18">[19]</ref><ref type="bibr" target="#b19">[20]</ref> Moreover, programme characteristics appear to influence effectiveness. Conditional cash transfers, where funds depend on health-related requirements, may particularly benefit health outcomes-showing impacts on HIV prevention, immunization coverage, nutrition, and antenatal care usage. <ref type="bibr" target="#b15">16,</ref><ref type="bibr" target="#b19">[20]</ref><ref type="bibr" target="#b20">[21]</ref><ref type="bibr" target="#b21">[22]</ref><ref type="bibr" target="#b22">[23]</ref><ref type="bibr" target="#b23">[24]</ref> Evidence for unconditional cash transfers is more mixed, <ref type="bibr" target="#b17">18</ref> though some reviews found similar impacts to conditional transfers. <ref type="bibr" target="#b18">19</ref> Transfer amount adequacy remains a key issue, as benefits often insufficiently cover all costs including healthcare. <ref type="bibr" target="#b23">24</ref> There is also a lack of data as intervention studies frequently fail to report health outcomes in LMICs, <ref type="bibr" target="#b22">23,</ref><ref type="bibr" target="#b24">25</ref> especially for people with disabilities, though limited evidence from China and Kenya suggests disability-targeted cash transfers can improve healthcare utilization. <ref type="bibr" target="#b25">[26]</ref><ref type="bibr" target="#b26">[27]</ref><ref type="bibr" target="#b27">[28]</ref> The Disability-Inclusive Graduation (DIG) program was designed with three primary objectives: to improve sustainable livelihoods among ultra-poor people with disabilities through asset transfers and skills training;</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_YNCFrTu">Research in context</head><p xml:id="_chDMY9N">Evidence before this study We conducted a systematic search of PubMed, Web of Science, and Scopus databases from inception to August 2024, using search terms including "disability", "poverty reduction", "graduation program", "cash transfer", and "health outcomes". We included studies in English examining health impacts of poverty reduction interventions for people with disabilities in low-and middle-income countries. While evidence shows that poverty alleviation programs can improve health outcomes in general populations, research specifically focusing on people with disabilities is limited. Existing studies primarily examined cash transfers, showing improved healthcare utilization in China and Kenya, but comprehensive graduation programs' health impacts for people with disabilities remained unexplored.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_7HdxSqp">Added value of this study</head><p xml:id="_qB9ks7X">This study provides the first randomized controlled trial evidence on health impacts of a disability-inclusive graduation programme among ultra-poor people with disabilities. Our findings reveal that while the intervention did not reduce overall illness prevalence, it progressively improved healthcare access over time, with effects strengthening between immediate post-intervention and 16month follow-up. The study uniquely captures temporal patterns in health outcomes and identifies important gender differences in program impacts, providing crucial insights for future disability-inclusive interventions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_AjhzGda">Implications of all the available evidence</head><p xml:id="_x7nASBy">Combined with previous evidence, our findings suggest that comprehensive poverty reduction programmes can improve healthcare access for people with disabilities, but achieving broader health improvements requires additional components. Future programs should incorporate enhanced disease prevention strategies, gender-sensitive design elements, and sustained health support while maintaining successful aspects of the graduation approach. Policy makers should consider longer intervention periods and careful monitoring of evolving health risks when designing disability-inclusive poverty reduction initiatives.</p><p xml:id="_87SngCR">to enhance social inclusion through community engagement and empowerment activities; and to improve overall well-being, including health and healthcare access, through emergency health funds and rehabilitation services. This approach responds to the established bidirectional relationship between disability and poverty, addressing both economic challenges and disability-specific barriers simultaneously. <ref type="bibr" target="#b9">10</ref> Given this relationship and evidence showing that people with disabilities experience significant health inequalities, we hypothesized that the DIG program would reduce illness prevalence, decrease unmet health needs, improve mental well-being, and optimize healthcare expenditure through its comprehensive approach combining economic empowerment with disabilityspecific supports.</p><p xml:id="_2KPVDzK">This study evaluates whether the DIG programme achieves its health-related objectives through a disability-inclusive adaptation of BRAC's established graduation model, which combines asset transfers with complementary support. While previous randomized controlled trials demonstrate these programmes reduce poverty and improve psychological status, few measured health impacts. <ref type="bibr" target="#b28">29</ref> Evidence from Bangladesh shows positive effects on child nutrition and adult physical/mental health, but impacts specifically for people with disabilities remain unexamined. <ref type="bibr" target="#b29">30,</ref><ref type="bibr" target="#b30">31</ref> Consistent with the program's objectives and underlying theory of change, this study evaluates the effectiveness of the DIG programme at improving health and healthcare access among people with disabilities in Uganda, examining both immediate and subsequent effects through first and second follow-up assessments. Specifically, we considered whether the scheme was effective at reducing prevalence of physical and infectious diseases and unmet health needs, and improving mental well-being and expenditure on healthcare, and how these effects evolved over time.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_nMnyfu6">Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_d3XXgqg">Study design and setting</head><p xml:id="_4YUD52s">We conducted a two-arm, parallel cluster-randomized controlled trial across four districts in Northern Uganda (Kiryandongo, Gulu, Nwoya, and Oyam), where a predominantly agrarian economy and inadequate healthcare access persists despite ongoing governmental and non-governmental efforts. Clusters were defined as villages containing 10-75 eligible households, with households serving as the observational unit. Cluster randomization was employed due to the village-level components of the DIG programme.</p><p xml:id="_QsHC6eR">This paper reports on the health-related outcomes from the DIG programme trial. As specified in the published protocol, <ref type="bibr" target="#b31">32</ref> the primary outcome of the original trial was per-capita annual household expenditure, with livelihood and social participation as additional outcomes of interest. The current analysis focuses specifically on the health-related secondary outcomes from this trial to evaluate the programme's effects on health status, healthcare access, and related outcomes among people with disabilities. The original sample size calculation was based on detecting differences in per-capita expenditure, but its power to examine the health outcomes was reported in the section of statistical analysis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_9gQx4Vu">Participants</head><p xml:id="_7ngbF3B">Eligible households in both intervention and control were identified through a census survey conducted by implementing partners (BRAC, Humanity and Inclusion [HI], and National Union of Women with Disabilities of Uganda [NUWODU]) and verified by BRAC programme managers. Eligibility required meeting at least three of five criteria: (1) having a person with disability, (2) being a female-headed household or dependent on female earnings, (3) having children out of school, (4) poor housing conditions (floor, roof, and wall), and (5) low productive asset endowment (referring to a household's minimal ownership of income-generating assets such as livestock, agricultural equipment, or tools for trade/business that could provide sustainable livelihoods). These criteria were established through stakeholder consultation to ensure appropriate coverage of household poverty variations, and were applied consistently across all clusters regardless of treatment allocation.</p><p xml:id="_y8WBAsP">In the DIG programme, ultra-poverty is understood as a persistent and structural condition of poverty, consistent with the concept of poverty traps, as opposed to temporary or seasonal poverty caused by short-term shocks. Although the international benchmark for extreme poverty is living on less than USD 1.90 per day, discussions with local stakeholders suggested that this measure alone does not adequately capture the specific circumstances in Uganda. As a result, ultra-poverty was defined using a proxy means test based on the five eligibility criteria outlined earlier.</p><p xml:id="_mEnjmGC">Disability was assessed through a two-stage process for participants in both intervention and control groups. First, all household members completed the Washington Group Short Set questionnaire, <ref type="bibr" target="#b32">33</ref> which has been validated across diverse linguistic and cultural contexts. <ref type="bibr" target="#b33">34</ref> Individuals reporting "a lot of difficulty" or "cannot do" in any of six domains (seeing, hearing, walking, cognition, self-care, communication) were screened positive. <ref type="bibr" target="#b32">33</ref> Subsequently, a BRAC programme manager verified disability status through follow-up visits for all households meeting eligibility criteria, regardless of treatment allocation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_Jqpvq95">Clusters</head><p xml:id="_2Yhwhfs">For intervention delivery, villages were organized into geographical clusters containing 10-75 eligible households. Small villages were merged with adjacent villages based on GPS coordinates, while larger villages were divided using k-means clustering, with each resulting cluster containing minimum 10 eligible households. This spatial clustering approach has precedent in public health research, with similar methods used in the WASH Benefits study. <ref type="bibr" target="#b34">35</ref> This approach facilitated implementation of village-level components (Village Savings and Loans Associations [VSLAs] and Village Poverty Reduction Committees [VPRCs]) and was incorporated into sample size calculations through simulations accounting for intraclass correlation, with 185 clusters created from 156 villages.</p><p xml:id="_DMNdfCZ">Each household designated a single 'project participant' as the primary recipient of training and enterprise support. This individual, selected through field worker-household discussions prior to randomisation, was responsible for managing the enterprise and programme activities. Women and people with disabilities were prioritized as project participants, even if not household heads, to promote gender equity and disability inclusion. When a person with disability was deemed unable to manage available enterprise options, their primary caregiver was designated instead. Children (below 18 years) were ineligible as project participants.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_RvnxBFE">Ethics</head><p xml:id="_dK5SP8G">The study received ethical approval from three institutional review boards: the Mildmay Uganda Research Ethics Committee (Reference: 0604-2020), the London School of Hygiene and Tropical Medicine Research Ethics Committee (References: 22619/RR/21198 and 28134), and the Uganda National Council for Science and Technology (Reference: SS529ES).</p><p xml:id="_6uAvcsK">Written informed consent was obtained from all participants before each data collection round. Interviewers provided hard copies of participant information sheets and consent forms, reading contents aloud to ensure comprehension. Procedures were adapted for different impairments, including sign language interpretation for participants with profound hearing impairments. Written consent was documented through participant-dated signature or thumbprint, alongside the dated signature of the consent obtainer.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_3uRMbKf">Randomization and masking</head><p xml:id="_WQmQYWW">The programme team identified 5300 eligible households within eight BRAC branches. Randomization occurred at cluster level, stratified by BRAC office branch to ensure sufficient programmatic support while minimizing confounding from contextual differences. Within each branch, clusters were ranked by number of project participants with disabilities, with geographical separation and cluster derivation considered to minimize contamination.</p><p xml:id="_c5dAZrc">The study used cluster randomization at the village level, not individual or household randomization. Clusters were defined as villages containing 10-75 eligible households, with households serving as the observational unit. While initially aiming for 1:1 allocation within each branch, available funding prioritized serving maximum eligible households (∼2700). Therefore, clusters were randomly assigned to treatment until reaching the desired number per branch, with remaining clusters assigned to control. This resulted in 96 clusters allocated to DIG intervention and 89 clusters to control (Fig. <ref type="figure" target="#fig_0">1</ref>). This analysis focuses specifically on the 691 index persons with disabilities (370 intervention, 321 control) from the total eligible population.</p><p xml:id="_zGC8nzj">Randomization was performed after recruitment by an independent statistician using Stata's random number allocation in October 2020, before baseline data collection. The allocation was stratified by BRAC office branch. While participant and implementer blinding was impossible due to intervention nature, outcome assessors remained masked to allocation. All eligible households within a cluster received the same treatment status (intervention or control) based on their cluster's assignment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_VvcEEc3">Procedures</head><p xml:id="_TdBwUp8">The DIG programme was co-designed over nine months by BRAC, HI, and NUWODU through extensive stakeholder consultation, including people with disabilities, government officials, civil society representatives, and existing Ultra-Poor Graduation (UPG) participants. The design adapted the UPG model using a twin-track approach: providing personalized support for people with disabilities (rehabilitation services, assistive aids, work/home adaptations) while mainstreaming disability inclusion across four graduation pillars.</p><p xml:id="_W5dAC8g">Intervention households received DIG components between December 2020 and June 2022, with staggered implementation ensuring 18-month delivery periods. Briefly, the intervention included: (1) Livelihoods: Technical training (3-day sessions), asset transfer (e.g., livestock valued at approximately USD 300, typically including 4 female and 1 male goat, or 1 bull/cow, or 2 breeding pigs, or 5 beehives, plus smaller secondary assets), and bi-weekly mentoring on income generation, with assets matched to local opportunities and recipients' capabilities; (2) Social Protection: Six-month cash transfer (USD 18/month), emergency health fund subsidy, rehabilitation services (monthly delivery of occupational therapy, physiotherapy, and psychosocial support for participants respectively), and linkage to existing social entitlements; (3) Financial Inclusion: Financial literacy training (2-day sessions), ongoing coaching, and formation of inclusive Village Savings and Loans Associations (VSLAs); and (4) Social Empowerment: Individual counseling through bi-weekly home visits, life-skills coaching (2-day sessions), and inclusive Village Poverty Reduction Committees (VPRCs).</p><p xml:id="_Mz68VQB">For participants with disabilities, additional components included assistive devices provision, home and work environment adaptation, and caregiver training in rehabilitation support services. Details of the intervention can be found elsewhere. <ref type="bibr" target="#b31">32,</ref><ref type="bibr" target="#b35">36</ref> Implementation quality was ensured through comprehensive staff training and monitoring throughout both follow-up periods. Ninety project staff underwent initial training in project methodology, disability inclusion, safeguarding, and specific intervention components, with refresher training provided between follow-up periods. Training combined classroom learning with practical field components and external facilitation for specialized topics. The rehabilitation team received specialized training in disability management, mental health, and psychosocial support. Staff competence was assessed through demonstrations and field practice. Regular supervision was conducted by BRAC staff, HI, and NUWODU to maintain intervention fidelity.</p><p xml:id="_Jp9zwTp">Participant adherence was promoted through bi-weekly home visits and regular group meetings, providing tailored guidance and technical support. COVID-19 adaptations included incorporating virtual training while maintaining service continuity. The project operations manual was regularly updated to reflect refined intervention protocols.</p><p xml:id="_hgnzc2E">We systematically tracked potential serious adverse events and social challenges that might lead to discontinuation, including economic hardships, health issues, and stigma-related barriers. Support measures included economic diversification training, emergency health funds, and community sensitization efforts.</p><p xml:id="_bJdyY5a">The control group did not receive the DIG intervention but maintained access to existing community programs unrelated to DIG. These existing programs included standard government social services available in the region, such as Uganda's national health services, public education, and community-based agricultural extension services.</p><p xml:id="_zApCfrn">Data collection occurred at three time points: baseline (pre-intervention, November 2020), first follow-up (June-July 2022, immediately following the 18-month DIG program), and second follow-up (16 months postintervention, October-November 2023). At each point, trained data collectors used SurveyCTO, an electronic data collection tool, supervised by BIGD/IERC.</p><p xml:id="_MfEYfPb">The process comprised two components: Household-level data gathering, including sociodemographic factors, economic status, and disability prevalence; and an in-depth questionnaire on one working-age person with disabilities ('index person') per household, focusing on health.</p><p xml:id="_rrDUQz4">No methodological changes occurred after trial commencement, except for the mental health measurement approach (detailed in Outcomes section).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_7sCxDYp">Outcomes</head><p xml:id="_PhCv7q8">The primary outcome was experience of illness/injury, measured by the question "Have you experienced an illness/injury that made you unable to perform normal activities for at least 5 days in the last 3 months?". This was self-reported and coded as a binary outcome (yes/ no). If yes, respondents identified the type of condition from categories including respiratory conditions (TB, pneumonia, fever/flu), gastrointestinal condition (diarrhea, typhoid, vomiting, jaundice), malaria, chronic conditions (fatigue and chronic illness), pain-related conditions (headache, backache, pain), injury, and others.</p><p xml:id="_2JEmzSF">Secondary outcomes included several measures. First was the experience of unmet health need, defined as a positive response to the primary outcome question (having an illness/injury) but responding 'no' to the follow-up question 'Was treatment sought at a health facility?'. This binary measure captures whether respondents who experienced illness/injury did not seek formal healthcare, regardless of reasons. Mental health status was another key secondary outcome, though measured differently across the study period. At baseline, this was assessed using the Washington Group Extended Set on Functioning (WG-ES) anxiety and depression module, which evaluated the frequency ("never" to "daily") and severity ("a little" to "a lot") of feeling worried, nervous, anxious, or depressed. In the first and second follow-up surveys, mental health was measured using the Patient Health Questionnaire (PHQ-9), a validated 9-item questionnaire assessing depressive symptoms over the past two weeks. Scores range from 0 to 27, with higher scores indicating more severe depressive symptoms. In this study, a PHQ-9 total score of ≥10 was considered indicative of potential moderate depression, while a score of ≥15 suggested potential severe depression.</p><p xml:id="_QZvAXBc">Another secondary outcome was having any unmet assistive products or services needs. This included mobility aids (such as cane, crutches, orthoses, prostheses, rollators, standing frame, therapeutic footwear, tricycles, walking frame, wheelchair, pressure relief cushions); glasses or contact lenses; other sensory and communications tools (screen reader, braille, hearing aids, sign language, communication boards); and others.</p><p xml:id="_5c42xpF">Healthcare expenditure at the household level was also measured as a secondary outcome. This was assessed by asking if anyone in the household had spent money on medicines (including anti-worming, cold tablets, vaccines, bandages, contraceptives, malarial medication, pain killers, and prescriptions), other medical/assistive devices (e.g., spectacles, contact lenses, hearing aid), doctor's consultation fees, hospital/ clinic charges, traditional medicine, and other health expenditures in the last year. Unlike other health outcomes which were measured specifically for the index person with disabilities, health expenditure was measured at the household level for all members, as household finances are typically pooled in this context.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_cRqvFhw">Statistical analysis</head><p xml:id="_v4r2VQH">Sample size was primarily based on the main trial's primary outcome of per-capita household expenditure as detailed in the published protocol. <ref type="bibr" target="#b31">32</ref> With 370 index persons in the intervention group and 321 in the control group at baseline, our study had 80% power to detect a standardized mean difference of 0.2 (indicating either a 0.2 increase or 0.2 decrease) for continuous outcomes and an odds ratio of 1.2 (indicating increased risk) or 0.83 (indicating decreased risk) for categorical outcomes, using a two-tailed test at 5% significance level. Power calculations were performed using the cps. binary function from the clusterPower package (version 0.7.0) in R, which employs Monte Carlo methods (simulations) to estimate power for cluster-randomized trials. Intra-class correlation coefficients (ICCs) were estimated from baseline data to account for potential clustering effects.</p><p xml:id="_vRm7UuG">Analyses followed CONSORT guidelines using R version 4.0.1.</p><p xml:id="_NR5jEBr">For both follow-up periods, we used linear mixedeffects regression with restricted maximum likelihood estimation for continuous outcomes, reporting minimally-adjusted mean differences (MAMDs), fullyadjusted mean differences (FAMDs), and standardized mean differences (using Hedges' method <ref type="bibr" target="#b36">37</ref> ) with 95% CIs. For binary outcomes, we used generalized estimating equations to estimate minimally-adjusted odds ratios (MAORs) and fully-adjusted odds ratios (FAORs) with 95% CIs, using Kauermann-Carroll bias-corrected standard errors to account for small cluster numbers. <ref type="bibr" target="#b37">38</ref> Minimally-adjusted models included treatment status as a fixed effect and random intercepts for cluster and branch. Fully-adjusted models additionally included variables showing imbalance (p &lt; 0.10) at baseline or due to loss to follow-up. For binary outcomes, we used an exchangeable working correlation matrix to account for clustering.</p><p xml:id="_TXy7Fmf">To explore sex differences, we repeated analyses including an interaction term between treatment status and sex.</p><p xml:id="_DWtj9e7">All analyses were prespecified and overseen by an independent Data Safety and Monitoring Board. The trial was registered with RIDIE (RIDIE-STUDY-ID-626008898983a) and ISRCTN (ISRCTN-78592382).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_TU9FW9m">Role of the funding source</head><p xml:id="_9aF4S63">The funder of the study had no role in study design, data collection, data analysis, data interpretation, or writing of the article.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_Z2sg7Uh">Results</head><p xml:id="_mbVJ5Ty">Between January and March 2020, we screened 185 clusters across 164 villages, randomly allocating 96 clusters to intervention (DIG) and 89 to control (Fig. <ref type="figure" target="#fig_0">1</ref>). At baseline, we identified 511 households with disabilities from intervention clusters and 434 from control clusters. Among these, 370 working-age person with disabilities (intervention) and 321 (control) were selected as index person and completed participant questionnaires. At first follow-up, 647 (93.6%) index person were successfully interviewed: 357 (96.5%) from intervention and 290 (90.3%) from control groups. At second follow-up, 643 (93.1%) index person were successfully interviewed: 354 (95.7%) from intervention and 289 (90.3%) from control groups.</p><p xml:id="_6TGZU9R">Among index person interviewed at baseline, mean age was 35.71 years (SD 12.42) in intervention and 34.31 years (SD 11.97) in control groups. Female proportion was similar between groups (intervention: 53.5%, control: 53.6%). Baseline characteristics were largely balanced between groups (Table <ref type="table" target="#tab_0">1</ref>), though intervention group project participants were less likely to be married/cohabiting (53.5% vs 62.1%, p = 0.05) (Supplementary Table <ref type="table" target="#tab_0">S1</ref>). Analysis of participants lost to first follow-up revealed that these households had significantly younger participants (p &lt; 0.01) and index persons with lower reported anxiety (p = 0.09) (Supplementary Table <ref type="table">S2</ref>). Participants lost to second follow-up were characterized by significantly younger age (p = 0.02), higher education levels (p = 0.10), and greater household income (p = 0.10) compared to those retained in the study (Supplementary Table <ref type="table">S3</ref>).</p><p xml:id="_QE42DTb">At first follow-up (Table <ref type="table">2</ref>), the primary outcome of illness/injury was reported by 41.18% of intervention and 45.86% of control participants, showing no significant difference (MAOR 0.83, 95% CI 0.57-1.21, p = 0.34; FAOR 0.84, 95% CI 0.58-1.22, p = 0.36). No significant differences were found for most specific conditions: respiratory (FAOR 0.82, 95% CI 0.43-1.54, p = 0.53), gastrointestinal (FAOR 0.81, 95% CI 0.29-2.23, p = 0.68), or chronic conditions (FAOR 1.48, 95% CI 0.81-2.71, p = 0.20). Reported malaria showed a marginally lower trend in the intervention group (FAOR 0.65, 95% CI 0.40-1.06, p = 0.09). Mental wellbeing outcomes showed no significant differences in potential moderate depression (PHQ ≥10; FAOR 0.95, 95% CI 0.58-1.56, p = 0.84) or severe depression (PHQ ≥15; FAOR 2.23, 95% CI 0.78-6.40, p = 0.14). Additionally, the intervention group showed a marginally lower likelihood of reporting unmet health needs (FAOR 0.56, 95% CI 0.31-1.02, p = 0.06). Health expenditure per capita change from baseline showed no significant difference between groups (FAMD 0.69, 95% CI -0.30 to 1.68, p = 0.18; effect size = 0.13, 95% CI -0.06 to 0.33).</p><p xml:id="_mmWyjvS">At second follow-up (Table <ref type="table">2</ref>), the primary outcome of illness/injury was reported by 55.65% of intervention and 53.98% of control participants, showing no significant difference (MAOR 1.08, 95% CI 0.77-1.52, p = 0.657; FAOR 1.07, 95% CI 0.74-1.56, p = 0.71). No significant differences were found for most specific conditions: respiratory (FAOR 0.79, 95% CI 0.43-1.45, p = 0.45), gastrointestinal (FAOR 1.67, 95% CI 0.62-4.47, p = 0.31), or chronic conditions (FAOR 0.85, 95% CI 0.47-1.52, p = 0.58). Reported malaria was marginally higher in the intervention group (FAOR 1.54, 95% CI 0.97-2.43, p = 0.07). Mental well-being outcomes showed no significant differences in potential moderate depression (PHQ ≥10; FAOR 1.01, 95% CI 0.65-1.57, p = 0.97) or severe depression (PHQ ≥15; FAOR 0.95, 95% CI 0.49-1.84, p = 0.88). The intervention group had significantly lower likelihood of reporting unmet health needs (FAOR 0.4, 95% CI 0.22-0.71, p = 0.002). No significant differences were found for unmet assistive products/services overall (FAOR 0.9, 95% CI 0.62-1.31, p = 0.59), or for some specific categories such as glasses/contact lenses (FAOR 0.84, 95% CI 0.56-1.27, p = 0.41) or other sensory/communication tools (FAOR 0.51, 95% CI 0.18-1.44, p = 0.20). Unmet mobility aid needs showed marginal improvement (FAOR 0.65, 95% CI 0.4-1.05, p = 0.08).Health expenditure per capita change from baseline showed no significant difference between groups (FAMD 0.93, 95% CI -0.22 to 2.09, p = 0.12; effect size = 0.18, 95% CI -0.04 to 0.4).</p><p xml:id="_pWYSara">Few sex-specific effects were observed (Table <ref type="table">3</ref>). In the second follow-up, intervention group females showed higher likelihood of pain-related conditions (FAOR for interaction 2.43, 95% CI 1.05-5.59, p = 0.04) but lower injury likelihood (FAOR for interaction 0.17, 95% CI 0.04-0.74, p = 0.02) compared to males. No significant sex differences were found for other outcomes including respiratory conditions, gastrointestinal conditions, chronic conditions, mental well-being measures, and unmet needs. The effects by sex and by follow-up were presented in Supplementary Table <ref type="table">S4</ref> and Supplementary Table <ref type="table">S5</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_aTq82NS">Discussion</head><p xml:id="_AMHDgJ5">To our knowledge, this study is the first cluster randomized trial to evaluate the effectiveness of a disability-inclusive graduation (DIG) programme on health outcomes among ultra-poor households with disabilities in a low-income setting. We found no significant impact of the intervention on the primary outcome-illness or injury prevalence-at either first or second follow-up, though the overall prevalence increased in both groups over time. However, the intervention showed notable effects on some secondary outcomes. The impact on unmet health needs strengthened over time, with marginally lower likelihood at first follow-up becoming significantly lower by second follow-up, indicating progressive improvement in healthcare access. Additionally, while there was no significant impact on unmet assistive products or services overall, the likelihood of having unmet needs for mobility aids was marginally lower in the intervention group, suggesting a potential trend towards improved access in this area. The intervention's effect on malaria showed an interesting pattern, shifting from marginally lower likelihood at first follow-up to marginally higher at second follow-up, suggesting potential changes in risk exposure over time. No significant differences were observed for mental health outcomes or health expenditure per capita at either time point. We also found that sex modified the intervention's effects. Females in the intervention group were more likely to experience pain-related conditions but less likely to report injuries compared to males by second follow-up.</p><p xml:id="_nfZT6Bt">The successful implementation of this complex intervention in Northern Uganda demonstrates that disability-inclusive graduation programs are feasible in low-income settings when delivered with appropriate infrastructure and partnerships. By leveraging existing community structures and collaborating with established organizations (BRAC, HI, and NUWODU), the intervention achieved high fidelity and retention rates despite resource constraints. While such comprehensive programs require significant investment, the model's integrated approach potentially offers greater efficiency than fragmented service delivery. The progressive strengthening of effects on healthcare access provides encouraging evidence for the value of such investments, though the need for enhanced healthspecific components remains evident. Future implementations should consider cost-efficiency analyses to optimize resource allocation while maintaining effectiveness.</p><p xml:id="_wzzxHVq">The lack of significant impact on illness/injury prevalence at both follow-up points, with prevalence actually increasing over time in both groups, aligns with mixed evidence from poverty alleviation programs. As this constituted our primary outcome and demonstrated no significant intervention effect, we interpret findings from secondary outcomes and subgroup analyses with appropriate circumspection. While some studies show positive health impacts for specific conditions, <ref type="bibr" target="#b15">16,</ref><ref type="bibr" target="#b20">21</ref> others report limited effects on general health status. <ref type="bibr" target="#b17">18</ref> Our findings suggest that the relationship between economic empowerment and health outcomes may be more complex for people with disabilities, potentially requiring longer intervention periods or more targeted health components to achieve measurable improvements in overall health status. Nevertheless, the observed increase in illness/injury prevalence across both groups warrants contextual interpretation, as it coincided with the COVID-19 pandemic. Direct infections, disrupted healthcare services, delayed care for chronic non-communicable diseases (NCDs), and pandemic-related mental health impacts likely contributed to these patterns. These extraordinary circumstances may have attenuated the intervention's Table 2: Health effects of the Disability-inclusive graduation programme. Outcomes Male Female Minimally adjusted analysis Fully adjusted analysis DIG intervention Control group DIG intervention Control group Odds ratio (95% CI) Mean difference/ Effect size (95% CI) p value Odds ratio (95% CI) Mean difference/ Effect size (95% CI) p value First follow-up (0 month after the intervention) Having any illness or injury 61 (39.35%) 52 (41.27%) 86 (42.57%) 81 (49.39%) 0.83 [0.47, 1.45] -0.51 0.69 [0.38, 1.25] -0.22 Respiratory conditions 7 (4.52%) 10 (7.94%) 15 (7.43%) 11 (6.71%) 1.99 [0.52, 7.68] -0.32 1.78 [0.45, 7.02] -0.41 Gastrointestinal conditions 3 (1.94%) 1 (0.79%) 3 (1.49%) 5 (3.05%) 0.26 [0.03, 2.3] -0.22 0.26 [0.03, 2.05] -0.2 Malaria 23 (14.84%) 23 (18.25%) 39 (19.31%) 47 (28.66%) 0.72 [0.35, 1.51] -0.39 0.53 [0.24, 1.2] -0.13 Chronic conditions 18 (11.61%) 7 (5.56%) 17 (8.42%) 15 (9.15%) 0.43 [0.15, 1.17] -0.1 0.48 [0.16, 1.45] -0.19 Pain-related conditions 21 (13.55%) 18 (14.29%) 32 (15.84%) 22 (13.41%) 1.42 [0.58, 3.46] -0.44 1.42 [0.55, 3.71] -0.47 Injury 5 (3.23%) 5 (3.97%) 8 (3.96%) 12 (7.32%) 0.61 [0.18, 2.09] -0.44 0.49 [0.12, 2.02] -0.32 Mental well-being Potential moderate depression (PHQ ≥10) 28 (18.06%) 22 (17.46%) 40 (19.8%) 31 (18.9%) 1.09 [0.46, 2.58] -0.85 0.95 [0.38, 2.39] -0.91 Potential severe depression (PHQ ≥15) 5 (3.23%) 1 (0.79%) 6 (2.97%) 5 (3.05%) 0.32 [0.05, 1.87] -0.2 0.51 [0.07, 3.43] -0.49 Having any unmet health need 10 (6.45%) 10 (7.94%) 12 (5.94%) 18 (10.98%) 0.65 [0.2, 2.07] -0.46 0.5 [0.14, 1.8] -0.29 Health expenditure per capita, difference from baseline -1.11 (7.99) -0.95 (7.73) -0.19 (7.35) -0.63 (6.13) -0.68 [-1.73, 3.09]/ 0.09 [-0.24, 0.42] 0.58 -1.14 [-0.54, 2.82]/ 0.22 [-0.11, 0.55] 0.18 Second follow-up (16 months after the intervention) Having any illness or injury 82 (52.23%) 72 (53.33%) 115 (58.38%) 84 (54.55%) 1.19 [0.65, 2.18] -0.57 1.15 [0.59, 2.25] -0.68 Respiratory conditions 16 (10.19%) 18 (13.33%) 22 (11.17%) 17 (11.04%) 1.3 [0.54, 3.09] -0.56 1.11 [0.4, 3.05] -0.84 Gastrointestinal conditions 6 (3.82%) 1 (0.74%) 9 (4.57%) 7 (4.55%) 0.26 [0.04, 1.82] -0.17 0.41 [0.05, 3.12] -0.39 Malaria 38 (24.2%) 23 (17.04%) 52 (26.4%) 32 (20.78%) 0.88 [0.42, 1.81] -0.72 0.93 [0.4, 2.13] -0.86 Chronic conditions 10 (6.37%) 10 (7.41%) 20 (10.15%) 18 (11.69%) 1.05 [0.35, 3.18] -0.93 1.02 [0.34, 3.11] -0.97 Pain-related conditions 25 (15.92%) 33 (24.44%) 51 (25.89%) 29 (18.83%) 2.43 [1.22, 4.84] -0.01 2.43 [1.05, 5.59] -0.04 Injury 7 (4.46%) 3 (2.22%) 8 (4.06%) 6 (3.9%) 0.53 [0.13, 2.12] -0.37 0.17 [0.04, 0.74] -0.02 Mental well-being Potential moderate depression (PHQ ≥10) 37 (23.57%) 29 (21.48%) 54 (27.41%) 42 (27.27%) 0.95 [0.46, 1.98] -0.89 1.15 [0.54, 2.42] -0.72 Potential severe depression (PHQ ≥15) 14 (8.92%) 8 (5.93%) 12 (6.09%) 14 (9.09%) 0.45 [0.15, 1.33] -0.15 0.56 [0.18, 1.73] -0.31 Having any unmet health need 11 (7.01%) 22 (16.3%) 16 (8.12%) 21 (13.64%) 1.38 [0.51, 3.74] -0.53 1.35 [0.46, 3.97] -0.59 Having unmet assistive products or services 55 (35.03%) 53 (39.26%) 88 (44.67%) 74 (48.05%) 1.09 [0.59, 1.99] -0.79 1.36 [0.68, 2.69] -0.38 Mobility aids 16 (10.19%) 19 (14.07%) 26 (13.2%) 27 (17.53%) 1.02 [0.45, 2.31] -0.97 1.22 [0.48, 3.12] -0.68 Glasses or contact lenses 51 (32.48%) 57 (42.22%) 86 (43.65%) 74 (48.05%) 1.37 [0.73, 2.58] -0.33 1.56 [0.78, 3.11] -0.21 Other sensory and communications tools 00 (0%) 4 (2.96%) 5 (2.54%) 4 (2.6%) ----Others 14 (8.92%) 9 (6.67%) 10 (5.08%) 9 (5.84%) 0.65 [0.15, 2.73] -0.55 0.81 [0.2, 3.32] -0.77 Health expenditure per capita, difference from baseline -0.28 (7.41) -1.51 (7.98) 0.1 (7.98) -0.14 (5.53) --1.03 [-3.48, 1.43]/ -0.14 [-0.48, 0.2] 0.41 --0.18 [-1.91, 1.55]/ -0.03 [-0.36, 0.29] 0.84</p><p xml:id="_sq3VaAJ">Intervention effects were estimated using two statistical approaches: (1) generalized estimating equations reporting odds ratios with 95% confidence intervals (CIs) for binary outcomes, and (2) linear mixed-effects regression reporting mean differences and standardized effect sizes with 95% CIs for continuous outcomes. The minimally-adjusted model included treatment status (fixed effect) and cluster/branch (random intercepts). Fully adjusted models additionally controlled for imbalanced variables (p &lt; 0.10): marital status and age of project participants, and household per capita income.</p><p xml:id="_gujs5U6">Table <ref type="table">3</ref>: Sex difference on the health effects of the Disability-inclusive graduation programme, with male as the reference.</p><p xml:id="_X8PkFA9">potential health impacts while highlighting the importance of the improved healthcare access achieved through the program. The evolution of reduced unmet health needsfrom marginally significant at first follow-up to strongly significant at second follow-up-provides compelling evidence of the DIG program's progressive impact on healthcare access. This strengthening effect over time aligns with evidence from disability-targeted interventions in China and Kenya, where improved healthcare utilization was observed among disability allowance recipients. <ref type="bibr" target="#b25">26,</ref><ref type="bibr" target="#b27">28</ref> The intensifying impact suggests that the DIG program's comprehensive approach-combining cash transfers with emergency health funds, health education, and Community Health Promoter linkagesmay require time to fully address multiple healthcare access barriers beyond financial constraints alone.</p><p xml:id="_XyH3Bfr">This finding reveals complex links between economic empowerment and health risks, indicating that poverty reduction programs should explicitly incorporate disease prevention strategies, especially for conditions affected by changing participants' circumstances activity patterns.</p><p xml:id="_VUGeAga">The contrasting temporal patterns in malaria likelihood-from marginally lower in the intervention group at first follow-up to marginally higher at second follow-up-suggest potential variation in the program's longer-term effects that warrants further investigation. Notingly, these finding represent exploratory ones that warrant cautious interpretation given the multiplicity of statistical comparisons. This shift could reflect the gradual impact of changing economic activities and daily routines stemming from the program's livelihood components. The temporal shift in malaria prevalence patterns between follow-up periods suggests complex interactions between the intervention and malaria risk factors that warrant further investigation. While our data cannot establish causal mechanisms for these observations, they highlight the importance of monitoring potential unintended consequences of economic empowerment interventions on disease exposure patterns. This finding highlights the need for ongoing health risk assessment and mitigation strategies if poverty reduction programs change participants' activity patterns.</p><p xml:id="_rHuVRnp">The consistently negligible impact on mental health outcomes and health expenditure across both follow-up periods contrasts with previous literature. While earlier graduation programs showed improved psychological well-being, particularly in Bangladesh, <ref type="bibr" target="#b30">31</ref> our different findings may reflect that mental health challenges among people with disabilities stem from complex interactions of impairment-related factors, societal barriers, and discrimination, 1 may require targeted interventions beyond economic empowerment. The persistent lack of impact on health expenditure, contrary to Chinese studies showing increased healthcare spending from disability-targeted cash transfers, <ref type="bibr" target="#b25">26,</ref><ref type="bibr" target="#b26">27</ref> likely reflects the DIG program's sustained effectiveness in providing direct health supports that reduce out-of-pocket expenditure needs.</p><p xml:id="_KPXcKK8">Despite assistive technology provision being a key component of the DIG programme, the differential impact on assistive technology needs-marginal improvements in mobility aid access but no overall change in assistive product needs-illuminates the complexities of addressing assistive technology access through poverty reduction programs. The limited success of this programme component, particularly for comprehensive assistive technology provision, partially aligns with evidence that financial barriers are just one of multiple obstacles. <ref type="bibr" target="#b0">1</ref> The marginally positive effect on mobility aids likely reflects their greater local market availability compared to products like hearing aids or communication devices, making them more responsive to increased financial resources. However, the lack of impact on other assistive products suggests persistent barriers beyond financial constraints, including limited availability, complex procurement processes, and insufficient technical expertise for fitting and maintenance. This apparent failure of the DIG programme to fully deliver on its assistive technology objectives demonstrates that embedding assistive technology provision within poverty reduction programmes may be insufficient. While comprehensive poverty reduction programs may improve access to readily available devices like mobility aids, more specialized and targeted interventions, with dedicated technical expertise and procurement systems, are needed to effectively deliver the full spectrum of assistive products. These findings suggest a critical need to reassess and strengthen how assistive technology provision is integrated into graduation programmes.</p><p xml:id="_Enxtkqn">The pattern of progressively improving healthcare access without corresponding health status improvements provides important insights about intervention timeframes. The strengthening effect on unmet health needs suggests that the program successfully addresses immediate healthcare access barriers, but the lag in measurable health benefits may indicate that longer periods are needed to translate improved access into better health outcomes. This aligns with previous studies showing that health benefits of poverty reduction programs often manifest over extended timeframes. <ref type="bibr" target="#b28">29</ref> The observed sex differences in health outcomes by second follow-up-with higher prevalence of painrelated conditions but lower injury rates among females-suggest possible temporal aspects of gender dynamics in poverty reduction programs that merit additional study. These findings should also be considered hypothesis-generating ones rather than definitive effects, particularly in the context of multiple comparisons and the absence of effect on the primary outcome. The higher prevalence of pain-related conditions among females might reflect differing physical demands of DIG program livelihood activities, potentially increasing musculoskeletal strain, while lower female injury rates likely reflect gender differences in risk exposure, with men potentially engaging in more hazardous work. These patterns align with literature showing women with disabilities face double discrimination and may be channelled into specific economic activities that exacerbate certain health conditions. <ref type="bibr" target="#b38">39,</ref><ref type="bibr" target="#b39">40</ref> The differential impacts underscore the importance of long-term monitoring and gender-sensitive program adjustments to address emerging health risks while maintaining beneficial protective effects, particularly as participants engage in new economic activities over time. These sex-differentiated effects emphasize the need to consider gender when designing and evaluating disability-inclusive poverty reduction programs to address distinct health risks and needs of male and female participants.</p><p xml:id="_YD8U2Vz">Our findings align with the social model of disability, where disability arises from the interaction between individuals with impairments and environmental barriers. <ref type="bibr">41</ref> While the intervention addressed individual-level factors through rehabilitation and assistive devices, the lack of improvement in overall health outcomes suggests that broader environmental barriers in Northern Uganda-limited healthcare infrastructure, geographical inaccessibility, and social stigma-may have constrained the program's health impact. Future disability-inclusive interventions should consider more explicitly targeting these environmental barriers to create enabling conditions that support better health outcomes for people with disabilities.</p><p xml:id="_Z9QtUNv">Our findings have important implications for policy, practice, and future research. While acknowledging the exploratory nature of many of our findings in the context of multiple statistical comparisons, the progressively strengthening effect on reducing unmet health needs-from marginal to significant improvement-suggests that comprehensive poverty reduction programmes can improve healthcare access for people with disabilities over time, supporting the integration of disability-specific health components within broader poverty reduction initiatives. The contrasting temporal patterns in malaria risk highlight the need for ongoing health risk assessment as economic circumstances change. Similarly, while the marginal reduction in unmet needs for mobility aids by second follow-up suggests that graduation programmes may gradually help overcome financial barriers for some assistive products, the lack of improvement in other assistive technology needs indicates that additional policy measures are needed to address persistent access barriers. Moreover, the AT component of the DIG programme clearly needs to be strengthened. The emergence of sex-differentiated effects by second follow-up underscores the importance of sustained monitoring and gender-sensitive programme design, while the consistently negligible impact on mental health outcomes and most physical health conditions across both follow-up periods suggests that longer-term support or more intensive health-specific interventions may be necessary. These findings collectively suggest that while comprehensive poverty reduction programmes can improve some aspects of healthcare access for people with disabilities, achieving broader health improvements requires additional actions to overcome barriers to healthcare seeking (e.g., health promotion, gender considerations), alongside careful attention to evolving health risks and longer intervention periods, while maintaining the successful elements of the disability-inclusive graduation approach. <ref type="bibr" target="#b41">42</ref> This study has several key strengths. It represents one of the first cluster randomized controlled trials examining health outcomes of a graduation programme for people with disabilities in a low-income setting, with cluster randomization minimizing contamination between groups while accounting for village-level intervention components. The inclusion of both first and second follow-up measurements allows examination of temporal patterns in intervention effects, revealing how impacts evolve over time. The comprehensive measurement of health outcomes-including physical illness/injury, mental health, healthcare access, and expenditure-provides a holistic impact assessment. Sex-stratified analyses revealed important differential effects between males and females, while high follow-up rates (∼95% intervention, ∼90% control) strengthen findings' validity.</p><p xml:id="_5NgMV4v">However, several limitations should be considered when interpreting the results. First, a significant contextual limitation is that the study was conducted during the COVID-19 pandemic, which may have substantially impacted our results and potentially limits their generalizability. Lockdown measures, healthcare resource diversion, and economic disruptions in Uganda may have influenced both intervention delivery and outcome patterns. The increased illness/injury prevalence across both groups could partially reflect pandemic-related health impacts, while healthcare seeking behaviors were likely affected by COVID-19 restrictions and concerns. Second, the differential loss to follow-up between groups, with participants lost being younger, more educated, and having higher per capita income, may have introduced selection bias. Although our fully adjusted analyses attempted to account for these differences, some residual confounding may remain. Third, due to data collection equipment failure at first follow-up, we were unable to assess the intervention's initial impact on unmet assistive products or services needs, limiting our understanding of how these outcomes evolved over the full study period. Fourth, while the inclusion of two follow-up periods provided valuable temporal insights, these timeframes may still be insufficient to capture longer-term health effects of the intervention, particularly for chronic conditions or sustained behavioral changes in healthcare seeking. Fifth, some of our health outcome measures relied on self-reported data, which could be subject to recall bias or social desirability bias, especially given the inability to mask participants to their intervention status, which could have introduced performance bias. <ref type="bibr" target="#b42">43</ref> Sixth, the measurement of mental health status changed between baseline (Washington Group instrument) and follow-up (PHQ-9), limiting our ability to assess changes in mental health over time. Seventh, while our study included multiple health outcomes, some important aspects of health such as preventive care utilization or quality of care received were not captured. Moreover, health expenditure was measured at the household level rather than for the individual with disabilities. Eighth, another limitation is that our sample size was primarily determined based on the trial's economic outcomes. With 370 intervention and 321 control participants at baseline, our study had 80% power to detect standardized mean differences of approximately 0.2 (either positive or negative) for continuous outcomes and odds ratios of 1.2 (indicating increased risk) or 0.83 (indicating decreased risk) for categorical outcomes. Consequently, our analysis may have been underpowered to detect smaller but potentially meaningful health effects, particularly for marginally significant outcomes such as unmet health needs at first follow-up and mobility aid needs at second follow-up. Nineth, the study's focus on Northern Uganda, while important for understanding impacts in a post-conflict, resource-limited setting, may limit generalizability to other contexts with different healthcare systems or disability support services. Finally, our reliance on self-reported illness/injury and unmet health needs presents additional limitations. Respondents self-identified their conditions without clinical verification, potentially leading to misclassification of illnesses like malaria or typhoid that require laboratory confirmation for accurate diagnosis. These limitations point to several key directions for future research. Studies should evaluate similar programs in post-pandemic contexts to determine whether observed patterns persist under more typical conditions. Longer follow-up periods (3-5 years) would help determine if improvements in healthcare access eventually translate into better health outcomes. Incorporating objective health measures alongside selfreported data would address potential reporting biases. Future research should also explore how enhancing the DIG model with health-specific components might improve outcomes beyond healthcare access. Given the observed sex-differentiated effects, studies specifically examining gender-specific impacts would be valuable.</p><p xml:id="_fk86PFG">Finally, comparative research across diverse settings would help determine the generalizability of our findings.</p><p xml:id="_sEN56Vx">In summary, this cluster-randomized trial provides the first evidence on health impacts of a disabilityinclusive graduation programme among ultra-poor people with disabilities, with findings from two follow-up periods revealing how effects evolved over time. While the intervention did not significantly affect overall illness/injury prevalence at either follow-up point, it demonstrated progressively improving healthcare access, with marginally lower unmet health needs at first follow-up strengthening to significant improvement by second follow-up. The temporal patterns in outcomes revealed complex relationships between economic empowerment and health, with some effects strengthening over time (healthcare access), others showing mixed patterns (contrasting malaria risk), and some remaining consistently unchanged (mental health outcomes). The findings also captured emerging gender differences in health impacts by second follow-up, highlighting the importance of sustained monitoring of sex-specific effects. These results suggest that while comprehensive poverty reduction programmes can improve healthcare access for people with disabilities, the pathway to broader health improvements may require longer intervention periods and careful attention to evolving health risks. Future disability-inclusive graduation programmes should consider incorporating enhanced disease prevention strategies, gendersensitive design elements, and sustained health support while maintaining successful aspects of integrated poverty reduction approaches. Additionally, programs should plan for longer-term monitoring to fully capture health impacts that may take time to manifest, while maintaining flexibility to address emerging health risks as participants engage in new economic activities.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 :</head><label>1</label><figDesc xml:id="_vFwuSKF">Fig. 1: Trial profile. DIG, Disability-inclusive graduation programme; PWD, people with disability.</figDesc><graphic coords="5,44.67,126.19,426.24,380.59" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 : Baseline characteristics of index people with disabilities in the DIG intervention and control groups. Outcomes DIG intervention Control group Minimally adjusted analysis Fully adjusted analysis</head><label>1</label><figDesc xml:id="_PXKBkBM">effect sizes with 95% CIs for continuous outcomes. The minimally-adjusted model included treatment status (fixed effect) and cluster/branch (random intercepts). Fully adjusted models additionally controlled for imbalanced variables (p &lt; 0.10): for first follow-up, including marital status and age of project participants, and symptom of anxiety of index person; for second follow-up including marital status and age of project participants, and household per capita income. PHQ, Patient Health Questionnaire.</figDesc><table><row><cell></cell><cell>DIG Intervention</cell><cell>Control group</cell><cell>p value</cell></row><row><cell></cell><cell>group (n = 370)</cell><cell>(n = 321)</cell><cell></cell></row><row><cell>Individual-level factors for index person</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Age (years)</cell><cell>35.7 (12.4)</cell><cell>34.3 (12.0)</cell><cell>0.14</cell></row><row><cell>Sex (=female)</cell><cell>198 (53.5%)</cell><cell>172 (53.6%)</cell><cell>1.00</cell></row><row><cell>Level of education</cell><cell></cell><cell></cell><cell></cell></row><row><cell>No education</cell><cell>82 (22.2%)</cell><cell>77 (24.0%)</cell><cell>0.19</cell></row><row><cell>Primary education</cell><cell>226 (61.1%)</cell><cell>208 (64.8%)</cell><cell></cell></row><row><cell>Secondary education</cell><cell>56 (15.1%)</cell><cell>31 (9.7%)</cell><cell></cell></row><row><cell>Specialized training/bachelor or above</cell><cell>6 (1.6%)</cell><cell>5 (1.6%)</cell><cell></cell></row><row><cell>Marital status</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Never married</cell><cell>123 (33.2%)</cell><cell>110 (34.3%)</cell><cell>0.13</cell></row><row><cell>Married/cohabiting</cell><cell>156 (42.2%)</cell><cell>152 (47.4%)</cell><cell></cell></row><row><cell>Divorced/separated/widow</cell><cell>91 (24.6%)</cell><cell>59 (18.4%)</cell><cell></cell></row><row><cell>Is household head (=yes)</cell><cell>173 (46.8%)</cell><cell>141 (43.9%)</cell><cell>0.50</cell></row><row><cell>Is project participant (=yes)</cell><cell>176 (47.6%)</cell><cell>153 (47.7%)</cell><cell>1.00</cell></row><row><cell>Symptom of anxiety (=yes)</cell><cell>85 (23.0%)</cell><cell>58 (18.1%)</cell><cell>0.14</cell></row><row><cell>Symptom of depression (yes)</cell><cell>63 (17.0%)</cell><cell>41 (12.8%)</cell><cell>0.15</cell></row><row><cell>Having any illness or injury (=yes)</cell><cell>193 (52.2%)</cell><cell>159 (49.5%)</cell><cell>0.54</cell></row><row><cell>Having any unmet health need (=yes)</cell><cell>45 (12.2%)</cell><cell>34 (10.6%)</cell><cell>0.60</cell></row><row><cell>Health expenditure per capita (dollars)</cell><cell>4.98 (6.40)</cell><cell>4.85 (6.03)</cell><cell>0.79</cell></row><row><cell>per month</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Household-level factors</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Highest level of education</cell><cell></cell><cell></cell><cell></cell></row><row><cell>No education</cell><cell>3 (0.8%)</cell><cell>5 (1.6%)</cell><cell>0.64</cell></row><row><cell>Primary education</cell><cell>206 (55.7%)</cell><cell>188 (58.6%)</cell><cell></cell></row><row><cell>Secondary education</cell><cell>140 (37.8%)</cell><cell>110 (34.3%)</cell><cell></cell></row><row><cell>Specialized training/bachelor or above</cell><cell>21 (5.7%)</cell><cell>18 (5.6%)</cell><cell></cell></row><row><cell>Lives in poverty (=yes)</cell><cell>370 (100.0%)</cell><cell>321 (100.0%)</cell><cell>-</cell></row><row><cell>Household size</cell><cell>5.8 (2.2)</cell><cell>5.8 (2.4)</cell><cell>0.93</cell></row><row><cell>Number of children in household</cell><cell>0.7 (0.9)</cell><cell>0.8 (1.0)</cell><cell>0.29</cell></row><row><cell>Per capita income (dollars) per month</cell><cell>69.3 (80.1)</cell><cell>66.6 (75.2)</cell><cell>0.64</cell></row><row><cell cols="4">Data was reported as the mean (standard deviation) or number (percentage). DIG, Disability-inclusive</cell></row><row><cell>graduation programme.</cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p xml:id="_xhHMunX">www.thelancet.com Vol 85 July, 2025</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p xml:id="_mVB4GYu">www.thelancet.com Vol 85 July, 2025</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xml:id="_jCQbPR6"><p xml:id="_3BQRSmH">Acknowledgements This trial was primarily supported by the <rs type="funder">United Kingdom Foreign, Commonwealth and Development Office (FCDO)</rs> through the <rs type="programName">Programme for Evidence to Inform Disability Action (PENDA</rs>), led by the <rs type="funder">London School of Hygiene &amp; Tropical Medicine</rs>. The intervention implementation was funded separately through <rs type="funder">FCDO</rs>'s <rs type="programName">Inclusive Futures initiative</rs>, <rs type="funder">Comic Relief</rs>, and <rs type="funder">National Lottery</rs>, with delivery by <rs type="institution">BRAC Uganda</rs> in partnership with <rs type="funder">Humanity and Inclusion (HI)</rs> and the <rs type="funder">National Union of Women with Disabilities of Uganda (NUWODU)</rs>. Individual researcher support was provided by the <rs type="funder">National Institute for Health and Care Research (NIHR)</rs> through a <rs type="grantName">Global Research Professorship</rs> (HK) and the <rs type="funder">Arts and Humanities Research Council</rs> (grant: <rs type="grantNumber">AH/X009580/1</rs>) which supported LMB's time.</p></div>
+			</div>
+			<div type="funding">
+<div xml:id="_yWp8Z4z"><p xml:id="_4b43WjE">Funding PENDA, funded by the <rs type="funder">UK Foreign, Commonwealth and Development Office</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_m3ShHRN">
+					<orgName type="program" subtype="full">Programme for Evidence to Inform Disability Action (PENDA</orgName>
+				</org>
+				<org type="funding" xml:id="_bRChsPp">
+					<orgName type="program" subtype="full">Inclusive Futures initiative</orgName>
+				</org>
+				<org type="funding" xml:id="_npgxMac">
+					<orgName type="grant-name">Global Research Professorship</orgName>
+				</org>
+				<org type="funding" xml:id="_qA895Gz">
+					<idno type="grant-number">AH/X009580/1</idno>
+				</org>
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_4M2CFck">Data sharing statement</head><p xml:id="_DjU8R3g">De-identified participant data will be made available upon reasonable request after the end of the project (anticipated May 2025). Interested researchers should contact the corresponding author to request access. Data will be shared in accordance with ethical approvals and institutional data sharing policies, and requests will be reviewed by the study team to ensure appropriate use.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_sntQaa2">Contributors</head><p xml:id="_dnU8xCA">SC conducted the statistical analysis, interpreted the results, and wrote the first draft of the manuscript. LMB, EK, CD, and MS provided critical intellectual input, reviewed the analysis, and made substantial revisions to the manuscript. HK conceptualized the study, secured funding, and served as the principal investigator, providing overall leadership for the trial in collaboration with MS. LMB, EK, and CD contributed to the study design, development of the trial protocol, and methodology. Both SC and EK have full access to the data and have verified the underlying data. All authors reviewed and approved the final version of the manuscript and agree to be accountable for all aspects of the work.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_Bezk4SJ">Declaration of interests</head><p xml:id="_GwXfmQK">We declare no competing interests.</p><p xml:id="_x9fuGzZ">Appendix A. Supplementary data Supplementary data related to this article can be found at <ref type="url" target="https://doi.org/10.1016/j.eclinm.2025.103318">https://doi.  org/10.1016/j.eclinm.2025.103318</ref>.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted"  xml:id="b0">
+	<monogr>
+		<title level="m" type="main" xml:id="_mfRqC8a">Global report on health equity for persons with disabilities</title>
+		<author>
+			<persName><surname>Who</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<publisher>World Health Organzation</publisher>
+			<pubPlace>Geneva</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main" xml:id="_ecFM6vZ">The association between disability and all-cause mortality in low-income and middle-income countries: a systematic review and meta-analysis</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Smythe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kuper</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_FWHDnRN">Lancet Glob Health</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="756" to="e770" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main" xml:id="_y5GBNAd">The association between disability and mortality: a mixed-methods study</title>
+		<author>
+			<persName><forename type="first">Hannah</forename><surname>Kuper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sara</forename><surname>Rotenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Luthfi</forename><surname>Azizatunnisa’</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lena</forename><forename type="middle">Morgon</forename><surname>Banks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tracey</forename><surname>Smythe</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s2468-2667(24)00054-9</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_JPvDVSf">The Lancet Public Health</title>
+		<title level="j" type="abbrev">The Lancet Public Health</title>
+		<idno type="ISSN">2468-2667</idno>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="e306" to="e315" />
+			<date type="published" when="2024-05">2024</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b3">
+	<monogr>
+		<title level="m" type="main" xml:id="_ZMagUNm">Community based rehabilitation for people with disabilities in low- and middle-income countries: a systematic review</title>
+		<author>
+			<persName><forename type="first">Valentina</forename><surname>Iemmi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lorna</forename><surname>Gibson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Karl</forename><surname>Blanchet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">Suresh</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Santosh</forename><surname>Rath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sally</forename><surname>Hartley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gudlavalleti</forename><forename type="middle">Vs</forename><surname>Murthy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Vikram</forename><surname>Patel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Joerg</forename><surname>Weber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hannah</forename><surname>Kuper</surname></persName>
+		</author>
+		<idno type="DOI">10.23846/sr31143</idno>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<publisher>International Initiative for Impact Evaluation</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main" xml:id="_6tUUc7d">Integration of EPI and paediatric HIV services for improved ART initiation in Zimbabwe</title>
+		<author>
+			<persName><forename type="first">Marta</forename><surname>Prescott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Caroline</forename><surname>Boeke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tendai</forename><surname>Gotora</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Haurovi</forename><forename type="middle">William</forename><surname>Mafaune</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wadzanai</forename><surname>Motsi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Justin</forename><surname>Graves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alexio</forename><surname>Mangwiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Elizabeth</forename><surname>Mccarthy</surname></persName>
+		</author>
+		<idno type="DOI">10.23846/tw708</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_p5yBVYw">Reimagining health systems that expect, accept and connect 1 billion people with disabilities: Missing billion initiative and Clinton health access inititiative</title>
+		<imprint>
+			<publisher>International Initiative for Impact Evaluation</publisher>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main" xml:id="_ATvr4m2">A Systematic Review of Access to General Healthcare Services for People with Disabilities in Low and Middle Income Countries</title>
+		<author>
+			<persName><forename type="first">Tess</forename><surname>Bright</surname></persName>
+			<idno type="ORCID">0000-0003-2079-7216</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Hannah</forename><surname>Kuper</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/ijerph15091879</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_sPfuJaR">International Journal of Environmental Research and Public Health</title>
+		<title level="j" type="abbrev">IJERPH</title>
+		<idno type="ISSNe">1660-4601</idno>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page">1879</biblScope>
+			<date type="published" when="2018-08-30">2018</date>
+			<publisher>MDPI AG</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main" xml:id="_zE7eUVT">Barriers to accessing primary healthcare services for people with disabilities in low and middle-income countries, a Meta-synthesis of qualitative studies</title>
+		<author>
+			<persName><forename type="first">Goli</forename><surname>Hashemi</surname></persName>
+			<idno type="ORCID">0000-0001-6556-688X</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Mary</forename><surname>Wickenden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tess</forename><surname>Bright</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hannah</forename><surname>Kuper</surname></persName>
+			<idno type="ORCID">0000-0002-8952-0023</idno>
+		</author>
+		<idno type="DOI">10.1080/09638288.2020.1817984</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_MdB4EmN">Disability and Rehabilitation</title>
+		<title level="j" type="abbrev">Disability and Rehabilitation</title>
+		<idno type="ISSN">0963-8288</idno>
+		<idno type="ISSNe">1464-5165</idno>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1207" to="1220" />
+			<date type="published" when="2022">2022</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main" xml:id="_YNRjMXV">Disability and social protection programmes in low- and middle-income countries: a systematic review</title>
+		<author>
+			<persName><forename type="first">Lena</forename><forename type="middle">Morgon</forename><surname>Banks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rachel</forename><surname>Mearkle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Islay</forename><surname>Mactaggart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Matthew</forename><surname>Walsham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hannah</forename><surname>Kuper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Karl</forename><surname>Blanchet</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/13600818.2016.1142960</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_q3d35ef">Oxford Development Studies</title>
+		<title level="j" type="abbrev">Oxford Development Studies</title>
+		<idno type="ISSN">1360-0818</idno>
+		<idno type="ISSNe">1469-9966</idno>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="223" to="239" />
+			<date type="published" when="2017">2017</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main" xml:id="_EgZHaPj">Links across disabilities: unveiling associations between functional domains</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Dalal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mitra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>James</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rivas Velarde</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/s12889-023-17523-5</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_DAD5kxb">BMC Public Health</title>
+		<title level="j" type="abbrev">BMC Public Health</title>
+		<idno type="ISSNe">1471-2458</idno>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">41</biblScope>
+			<date type="published" when="2024-01-02">2024</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main" xml:id="_JD3Xw6E">Poverty and disability in low- and middle-income countries: A systematic review</title>
+		<author>
+			<persName><forename type="first">Lena</forename><forename type="middle">Morgon</forename><surname>Banks</surname></persName>
+			<idno type="ORCID">0000-0002-4585-1103</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Hannah</forename><surname>Kuper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sarah</forename><surname>Polack</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0189996</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_2KswcFD">PLOS ONE</title>
+		<title level="j" type="abbrev">PLoS ONE</title>
+		<idno type="ISSNe">1932-6203</idno>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page">e0189996</biblScope>
+			<date type="published" when="2017-12-21">2017</date>
+			<publisher>Public Library of Science (PLoS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main" xml:id="_hX6FU4r">These are not luxuries, it is essential for access to life&apos;: disability related out-ofpocket costs as a driver of economic vulnerability in South Africa</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hanass-Hancock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Nene</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Deghaye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pillay</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Ykc3Zcw">Afr J Disabil</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">280</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main" xml:id="_NMpFaA6">Social protection for people with disabilities in Africa and Asia: a review of programmes for low-and middle-income countries</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Walsham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kuper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Banks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Blanchet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_NU32qag">Oxf Dev Stud</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="97" to="112" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main" xml:id="_x9dRRvK">Health and health system effects on poverty: A narrative review of global evidence</title>
+		<author>
+			<persName><forename type="first">Owen</forename><surname>O'donnell</surname></persName>
+			<idno type="ORCID">0000-0002-6289-1924</idno>
+		</author>
+		<idno type="DOI">10.1016/j.healthpol.2024.105018</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_6b48fuk">Health Policy</title>
+		<title level="j" type="abbrev">Health Policy</title>
+		<idno type="ISSN">0168-8510</idno>
+		<imprint>
+			<biblScope unit="volume">142</biblScope>
+			<biblScope unit="page">105018</biblScope>
+			<date type="published" when="2024-04">2024</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main" xml:id="_pN5qTak">Access to social protection among people with disabilities: Evidence from Viet Nam</title>
+		<author>
+			<persName><forename type="first">Lena</forename><forename type="middle">M</forename><surname>Banks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Matthew</forename><surname>Walsham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hoang</forename><forename type="middle">Van</forename><surname>Minh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Doan</forename><forename type="middle">Thi Thuy</forename><surname>Duong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tran</forename><forename type="middle">Thu</forename><surname>Ngan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Vu</forename><forename type="middle">Quynh</forename><surname>Mai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Karl</forename><surname>Blanchet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hannah</forename><surname>Kuper</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/issr.12195</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_xtJJGDy">International Social Security Review</title>
+		<title level="j" type="abbrev">Int Social Security Review</title>
+		<idno type="ISSN">0020-871X</idno>
+		<idno type="ISSNe">1468-246X</idno>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="59" to="82" />
+			<date type="published" when="2019-01">2019</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main" xml:id="_ZyTuwKQ">Access to social protection among people with disabilities: mixed methods research from Tanahun, Nepal</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Banks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Walsham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Neupane</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_XGUshjY">Eur J Dev Res</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="929" to="956" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main" xml:id="_UHCy8TV">The effects of cash transfer programmes on HIV/AIDS prevention and care outcomes: a systematic review and meta-analysis of intervention studies</title>
+		<author>
+			<persName><forename type="first">Nathalia</forename><forename type="middle">Sernizon</forename><surname>Guimarães</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Laio</forename><surname>Magno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Adelzon</forename><forename type="middle">Assis</forename><surname>De Paula</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Miriam</forename><surname>Silliman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rodrigo</forename><forename type="middle">Volmir Rezende</forename><surname>Anderle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Davide</forename><surname>Rasella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><surname>Macinko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Luís</forename><forename type="middle">Eugênio</forename><surname>De Souza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Inês</forename><surname>Dourado</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s2352-3018(22)00290-9</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_DHCrVhf">The Lancet HIV</title>
+		<title level="j" type="abbrev">The Lancet HIV</title>
+		<idno type="ISSN">2352-3018</idno>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="e394" to="403" />
+			<date type="published" when="2023-06">2023</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main" xml:id="_qg3Cb3W">The impact of social assistance programs on population health: a systematic review of research in high-income countries</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">V</forename><surname>Shahidi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ramraj</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Sod-Erdene</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Hildebrand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Siddiqi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_BxrjJGD">BMC Public Health</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">2</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main" xml:id="_byW8JNV">Unconditional cash transfers for reducing poverty and vulnerabilities: effect on use of health services and health outcomes in low- and middle-income countries</title>
+		<author>
+			<persName><forename type="first">Frank</forename><surname>Pega</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Roman</forename><surname>Pabayo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Claire</forename><surname>Benny</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eun-Young</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stefan</forename><forename type="middle">K</forename><surname>Lhachimi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sze</forename><forename type="middle">Yan</forename><surname>Liu</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/14651858.cd011135.pub3</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_T256W4Z">Cochrane Database of Systematic Reviews</title>
+		<idno type="ISSNe">1465-1858</idno>
+		<imprint>
+			<biblScope unit="volume">2022</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">11135</biblScope>
+			<date type="published" when="2022-03-29">2022</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b18">
+	<analytic>
+		<title level="a" type="main" xml:id="_TrQEvvp">The effects of cash transfers on adult and child mortality in low-and middle-income countries</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Richterman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Millien</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">F</forename><surname>Bair</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_442B6xe">Nature</title>
+		<imprint>
+			<biblScope unit="volume">618</biblScope>
+			<biblScope unit="page" from="575" to="582" />
+			<date type="published" when="2023">2023. 7965</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main" xml:id="_xhSw9MV">Impact of conditional cash transfer programmes on antenatal care service uptake in low and middle-income countries: a systematic review</title>
+		<author>
+			<persName><forename type="first">Ward</forename><surname>Jacobs</surname></persName>
+			<idno type="ORCID">0000-0002-7448-4226</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Laura</forename><forename type="middle">Emily</forename><surname>Downey</surname></persName>
+			<idno type="ORCID">0000-0002-9563-7113</idno>
+		</author>
+		<idno type="DOI">10.1136/bmjopen-2022-064673</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_ksakhqu">BMJ Open</title>
+		<title level="j" type="abbrev">BMJ Open</title>
+		<idno type="ISSN">2044-6055</idno>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page">e064673</biblScope>
+			<date type="published" when="2022-11">2022</date>
+			<publisher>BMJ</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main" xml:id="_vTaZBba">Promoting healthy behaviours and improving health outcomes in low and middle income countries: A review of the impact of conditional cash transfer programmes</title>
+		<author>
+			<persName><forename type="first">Meghna</forename><surname>Ranganathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mylene</forename><surname>Lagarde</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ypmed.2011.11.015</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_mRQ98fS">Preventive Medicine</title>
+		<title level="j" type="abbrev">Preventive Medicine</title>
+		<idno type="ISSN">0091-7435</idno>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="S95" to="S105" />
+			<date type="published" when="2012-11">2012</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main" xml:id="_58wR2D3">The impact of conditional cash transfers on health outcomes and use of health services in low and middle income countries</title>
+		<author>
+			<persName><forename type="first">Mylene</forename><surname>Lagarde</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andy</forename><surname>Haines</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Natasha</forename><surname>Palmer</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/14651858.cd008137</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_ZgjqZmm">Cochrane Database of Systematic Reviews</title>
+		<idno type="ISSNe">1465-1858</idno>
+		<imprint>
+			<biblScope unit="volume">2010</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">8137</biblScope>
+			<date type="published" when="2009-10-07">2009. 2009</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main" xml:id="_tS5hNqT">Systematic review of cash plus or bundled interventions targeting adolescents in Africa to reduce HIV risk</title>
+		<author>
+			<persName><forename type="first">Kate</forename><surname>Rogers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rikke</forename><surname>Le Kirkegaard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Joyce</forename><surname>Wamoyi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kaley</forename><surname>Grooms</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shaffiq</forename><surname>Essajee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tia</forename><surname>Palermo</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/s12889-023-17565-9</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_YwvMVCU">BMC Public Health</title>
+		<title level="j" type="abbrev">BMC Public Health</title>
+		<idno type="ISSNe">1471-2458</idno>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">239</biblScope>
+			<date type="published" when="2024-01-20">2024</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main" xml:id="_nVDkH9m">Experiences of conditional and unconditional cash transfers intended for improving health outcomes and health service use: a qualitative evidence synthesis</title>
+		<author>
+			<persName><forename type="first">Clara</forename><forename type="middle">A</forename><surname>Yoshino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kristi</forename><surname>Sidney-Annerstedt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tom</forename><surname>Wingfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Beatrice</forename><surname>Kirubi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kerri</forename><surname>Viney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Delia</forename><surname>Boccia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Salla</forename><surname>Atkins</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/14651858.cd013635.pub2</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_qxSgx3M">Cochrane Database of Systematic Reviews</title>
+		<idno type="ISSNe">1465-1858</idno>
+		<imprint>
+			<biblScope unit="volume">2023</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page">13635</biblScope>
+			<date type="published" when="2023-03-31">2023</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b24">
+	<analytic>
+		<title level="a" type="main" xml:id="_QVWUW5J">The impact of poverty reduction and development interventions on non-communicable diseases and their behavioural risk factors in low and lowermiddle income countries: a systematic review</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pullar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Allen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Townsend</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_sQJ3YbT">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">193378</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b25">
+	<analytic>
+		<title level="a" type="main" xml:id="_ZdgJZvb">The effect of a disability-targeted cash transfer program on universal health coverage and universal access to education: a nationwide cohort study of Chinese children and adolescents with disabilities</title>
+		<author>
+			<persName><forename type="first">Hongchuan</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zhihui</forename><surname>Li</surname></persName>
+			<idno type="ORCID">0000-0001-5356-932X</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Shaoru</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wenjuan</forename><surname>Qin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lifeng</forename><surname>Xie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yuhao</forename><surname>Kong</surname></persName>
+			<idno type="ORCID">0000-0002-2329-7025</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Jessica</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Chunling</forename><surname>Lu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wannian</forename><surname>Liang</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.lanwpc.2022.100635</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_RfpavwV">The Lancet Regional Health - Western Pacific</title>
+		<title level="j" type="abbrev">The Lancet Regional Health - Western Pacific</title>
+		<idno type="ISSN">2666-6065</idno>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page">100635</biblScope>
+			<date type="published" when="2023-02">2023</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b26">
+	<analytic>
+		<title level="a" type="main" xml:id="_BQAq8fD">The association of a disability-targeted cash transfer programme with disability status and health-care access: a quasi-experimental study using a nationwide cohort of 4⋅3 million Chinese adults living with severe disabilities</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_qBAdX9g">Lancet Public Health</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="933" to="e942" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b27">
+	<analytic>
+		<title level="a" type="main" xml:id="_RDDZJgx">Cash Transfer and the Economic Well-Being of Persons with Severe Disability in Wajir County, Kenya</title>
+		<author>
+			<persName><forename type="first">Issa</forename><forename type="middle">Kurash</forename><surname>Abdille</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Patrick</forename><surname>Mbataru</surname></persName>
+		</author>
+		<idno type="DOI">10.35942/ijcab.v3iiii.36</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_DdxH2nN">International Journal of Current Aspects</title>
+		<title level="j" type="abbrev">IJCAB</title>
+		<idno type="ISSNe">2616-6976</idno>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">III</biblScope>
+			<biblScope unit="page" from="135" to="153" />
+			<date type="published" when="2019-06-27">2019</date>
+			<publisher>IJCAB Publications</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b28">
+	<analytic>
+		<title level="a" type="main" xml:id="_mE9K28p">A multifaceted program causes lasting progress for the very poor: Evidence from six countries</title>
+		<author>
+			<persName><forename type="first">Abhijit</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Esther</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nathanael</forename><surname>Goldberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dean</forename><surname>Karlan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Osei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">William</forename><surname>Parienté</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeremy</forename><surname>Shapiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bram</forename><surname>Thuysbaert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Udry</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.1260799</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_jcGjUn7">Science</title>
+		<title level="j" type="abbrev">Science</title>
+		<idno type="ISSN">0036-8075</idno>
+		<idno type="ISSNe">1095-9203</idno>
+		<imprint>
+			<biblScope unit="volume">348</biblScope>
+			<biblScope unit="issue">6236</biblScope>
+			<biblScope unit="page">1260799</biblScope>
+			<date type="published" when="2015-05-15">2015</date>
+			<publisher>American Association for the Advancement of Science (AAAS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b29">
+	<analytic>
+		<title level="a" type="main" xml:id="_KHjeEwR">Impact and spill-over effects of an asset transfer program on child undernutrition: Evidence from a randomized control trial in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Wameq</forename><forename type="middle">A</forename><surname>Raza</surname></persName>
+			<idno type="ORCID">0000-0001-6663-3220</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Ellen</forename><surname>Van De Poel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tom</forename><surname>Van Ourti</surname></persName>
+			<idno type="ORCID">0000-0003-0110-770X</idno>
+		</author>
+		<idno type="DOI">10.1016/j.jhealeco.2018.09.011</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_jEud3pW">Journal of Health Economics</title>
+		<title level="j" type="abbrev">Journal of Health Economics</title>
+		<idno type="ISSN">0167-6296</idno>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="page" from="105" to="120" />
+			<date type="published" when="2018-11">2018</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b30">
+	<analytic>
+		<title level="a" type="main" xml:id="_fr2jGjC">Labor Markets and Poverty in Village Economies*</title>
+		<author>
+			<persName><forename type="first">Oriana</forename><surname>Bandiera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robin</forename><surname>Burgess</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Narayan</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Selim</forename><surname>Gulesci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Imran</forename><surname>Rasul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Munshi</forename><surname>Sulaiman</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/qje/qjx003</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_9XmyXB9">The Quarterly Journal of Economics</title>
+		<idno type="ISSN">0033-5533</idno>
+		<idno type="ISSNe">1531-4650</idno>
+		<imprint>
+			<biblScope unit="volume">132</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="811" to="870" />
+			<date type="published" when="2017-03-20">2017</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b31">
+	<analytic>
+		<title level="a" type="main" xml:id="_wgbtZYT">Evaluation of a disabilityinclusive ultra-poor graduation programme in Uganda: study protocol for a cluster-randomised controlled trial with process evaluation</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kipchumba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Davey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Marks</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_eHumDCf">Trials</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">206</biblScope>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b32">
+	<analytic>
+		<title level="a" type="main" xml:id="_gdbbsnX">Anxiety and Depression Signs Among Adolescents in 26 Low- and Middle-Income Countries: Prevalence and Association With Functional Difficulties</title>
+		<author>
+			<persName><forename type="first">Filipa</forename><surname>De Castro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Claudia</forename><surname>Cappa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jennifer</forename><surname>Madans</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jadohealth.2022.03.022</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_nKftYwE">Journal of Adolescent Health</title>
+		<title level="j" type="abbrev">Journal of Adolescent Health</title>
+		<idno type="ISSN">1054-139X</idno>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="S79" to="S87" />
+			<date type="published" when="2023-01">2023</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b33">
+	<analytic>
+		<title level="a" type="main" xml:id="_34hR2EN">The development and testing of a module on child functioning for identifying children with disabilities on surveys. I: Background</title>
+		<author>
+			<persName><forename type="first">Mitchell</forename><surname>Loeb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Daniel</forename><surname>Mont</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Claudia</forename><surname>Cappa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Elena</forename><surname>De Palma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jennifer</forename><surname>Madans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Roberta</forename><surname>Crialesi</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.dhjo.2018.06.005</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_NzwmDyV">Disability and Health Journal</title>
+		<title level="j" type="abbrev">Disability and Health Journal</title>
+		<idno type="ISSN">1936-6574</idno>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="495" to="501" />
+			<date type="published" when="2018-10">2018</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b34">
+	<analytic>
+		<title level="a" type="main" xml:id="_SBht3U8">Geographic pair matching in large-scale cluster randomized trials</title>
+		<author>
+			<persName><forename type="first">Benjamin</forename><forename type="middle">F</forename><surname>Arnold</surname></persName>
+			<idno type="ORCID">0000-0001-6105-7295</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Francois</forename><surname>Rerolle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christine</forename><surname>Tedijanto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sammy</forename><forename type="middle">M</forename><surname>Njenga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mahbubur</forename><surname>Rahman</surname></persName>
+			<idno type="ORCID">0000-0003-0520-2683</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Ayse</forename><surname>Ercumen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andrew</forename><surname>Mertens</surname></persName>
+			<idno type="ORCID">0000-0002-1050-6721</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Amy</forename><forename type="middle">J</forename><surname>Pickering</surname></persName>
+			<idno type="ORCID">0000-0001-6193-2221</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Audrie</forename><surname>Lin</surname></persName>
+			<idno type="ORCID">0000-0002-3877-3469</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Charles</forename><forename type="middle">D</forename><surname>Arnold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kishor</forename><surname>Das</surname></persName>
+			<idno type="ORCID">0000-0002-1137-9058</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Christine</forename><forename type="middle">P</forename><surname>Stewart</surname></persName>
+			<idno type="ORCID">0000-0003-4575-8571</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Clair</forename><surname>Null</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stephen</forename><forename type="middle">P</forename><surname>Luby</surname></persName>
+			<idno type="ORCID">0000-0001-5385-899X</idno>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><forename type="middle">M</forename><surname>Colford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alan</forename><forename type="middle">E</forename><surname>Hubbard</surname></persName>
+			<idno type="ORCID">0000-0002-3769-0127</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Jade</forename><surname>Benjamin-Chung</surname></persName>
+			<idno type="ORCID">0000-0003-3631-3132</idno>
+		</author>
+		<idno type="DOI">10.1038/s41467-024-45152-y</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_vuUwd69">Nature Communications</title>
+		<title level="j" type="abbrev">Nat Commun</title>
+		<idno type="ISSNe">2041-1723</idno>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">1069</biblScope>
+			<date type="published" when="2024-02-05">2024</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b35">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rahman Ankhi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Shammah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Macharia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Scovia</surname></persName>
+		</author>
+		<title level="m" xml:id="_mJH5Pxm">Disability inclusive ultra-poor graduation approach: considerations for implementing best practices, a case of Northern Uganda</title>
+		<meeting><address><addrLine>Uganda</addrLine></address></meeting>
+		<imprint>
+			<publisher>BRAC</publisher>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b36">
+	<analytic>
+		<title level="a" type="main" xml:id="_urMD44S">Effect Sizes in Cluster-Randomized Designs</title>
+		<author>
+			<persName><forename type="first">Larry</forename><forename type="middle">V</forename><surname>Hedges</surname></persName>
+		</author>
+		<idno type="DOI">10.3102/1076998606298043</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_ZwsGYzz">Journal of Educational and Behavioral Statistics</title>
+		<title level="j" type="abbrev">Journal of Educational and Behavioral Statistics</title>
+		<idno type="ISSN">1076-9986</idno>
+		<idno type="ISSNe">1935-1054</idno>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="341" to="370" />
+			<date type="published" when="2007-12">2007</date>
+			<publisher>American Educational Research Association (AERA)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b37">
+	<analytic>
+		<title level="a" type="main" xml:id="_FvQMKhn">A note on the efficiency of sandwich covariance matrix estimation</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Kauermann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Carroll</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_t68J6tK">J Am Stat Assoc</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="issue">456</biblScope>
+			<biblScope unit="page" from="1387" to="1396" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b38">
+	<analytic>
+		<title level="a" type="main" xml:id="_nzFeaay">Barriers in access to healthcare for women with disabilities: a systematic review in qualitative studies</title>
+		<author>
+			<persName><forename type="first">Behzad</forename><forename type="middle">Karami</forename><surname>Matin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Heather</forename><forename type="middle">J</forename><surname>Williamson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ali</forename><forename type="middle">Kazemi</forename><surname>Karyani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Satar</forename><surname>Rezaei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Moslem</forename><surname>Soofi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shahin</forename><surname>Soltani</surname></persName>
+			<idno type="ORCID">0000-0001-8365-7363</idno>
+		</author>
+		<idno type="DOI">10.1186/s12905-021-01189-5</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_MFEDmXW">BMC Women&apos;s Health</title>
+		<title level="j" type="abbrev">BMC Women&apos;s Health</title>
+		<idno type="ISSNe">1472-6874</idno>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">44</biblScope>
+			<date type="published" when="2021-01-30">2021</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b39">
+	<monogr>
+		<title level="m" type="main" xml:id="_CwXAKeQ">The Empowerment of Women and girls with disabilitiestowards full and effective participation and gender equality</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Women</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="volume">13</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b40">
+	<monogr>
+		<title level="m" type="main" xml:id="_hewdDG5">Health equity for persons with disabilities</title>
+		<idno type="DOI">10.2471/b09201</idno>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<publisher>World Health Organization</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b41">
+	<analytic>
+		<title level="a" type="main" xml:id="_ub2389h">Differences in condom access and use and associated factors between persons with and without disabilities receiving social cash transfers in Luapula province, Zambia—A cross-sectional study</title>
+		<author>
+			<persName><forename type="first">David</forename><surname>Chipanta</surname></persName>
+			<idno type="ORCID">0000-0002-7909-6855</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Janne</forename><surname>Estill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Heidi</forename><surname>Stöckl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Elona</forename><surname>Toska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Patrick</forename><surname>Chanda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jason</forename><surname>Mwanza</surname></persName>
+			<idno type="ORCID">0000-0001-5976-8821</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Kelly</forename><surname>Kaila</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Chisangu</forename><surname>Matome</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gelson</forename><surname>Tembo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Olivia</forename><surname>Keiser</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0302182</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_3p3KMyx">PLOS ONE</title>
+		<title level="j" type="abbrev">PLoS ONE</title>
+		<idno type="ISSNe">1932-6203</idno>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page">e0302182</biblScope>
+			<date type="published" when="2024-06-06">2024</date>
+			<publisher>Public Library of Science (PLoS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b42">
+	<analytic>
+		<title level="a" type="main" xml:id="_MpzVznx">Blinding: an essential component in decreasing risk of bias in experimental designs</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Forbes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_M8kCPzK">Evid Based Nurs</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="70" to="71" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

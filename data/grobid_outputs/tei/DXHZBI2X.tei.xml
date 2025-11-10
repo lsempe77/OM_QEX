@@ -1,0 +1,1135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" xml:id="_72J44YT">The Impact of Wealth on the Amount and Quality of Child Labor</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2012-01">January 2012</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Ximena</forename><forename type="middle">V Del</forename><surname>Carpio</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">The World Bank Development Research Group Macroeconomics and Growth Team</orgName>
+								<orgName type="institution">Bank The World Bank</orgName>
+								<address>
+									<country>The World</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="laboratory">The World Bank Development Research Group Macroeconomics and Growth Team</orgName>
+								<orgName type="institution">Bank The World Bank</orgName>
+								<address>
+									<country>The World</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Norman</forename><forename type="middle">V</forename><surname>Loayza</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">The World Bank Development Research Group Macroeconomics and Growth Team</orgName>
+								<orgName type="institution">Bank The World Bank</orgName>
+								<address>
+									<country>The World</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="laboratory">The World Bank Development Research Group Macroeconomics and Growth Team</orgName>
+								<orgName type="institution">Bank The World Bank</orgName>
+								<address>
+									<country>The World</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Kathleen</forename><surname>Beegle</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">The World Bank Development Research Group Macroeconomics and Growth Team</orgName>
+								<orgName type="institution">Bank The World Bank</orgName>
+								<address>
+									<country>The World</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Karen</forename><surname>Macours</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">The World Bank Development Research Group Macroeconomics and Growth Team</orgName>
+								<orgName type="institution">Bank The World Bank</orgName>
+								<address>
+									<country>The World</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jeffrey</forename><surname>Nugent</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">The World Bank Development Research Group Macroeconomics and Growth Team</orgName>
+								<orgName type="institution">Bank The World Bank</orgName>
+								<address>
+									<country>The World</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Duhshyanth</forename><surname>Raju</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">The World Bank Development Research Group Macroeconomics and Growth Team</orgName>
+								<orgName type="institution">Bank The World Bank</orgName>
+								<address>
+									<country>The World</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Maria-Laura</forename><surname>Sanchez Puerta</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">The World Bank Development Research Group Macroeconomics and Growth Team</orgName>
+								<orgName type="institution">Bank The World Bank</orgName>
+								<address>
+									<country>The World</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Luis</forename><surname>Servén</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">The World Bank Development Research Group Macroeconomics and Growth Team</orgName>
+								<orgName type="institution">Bank The World Bank</orgName>
+								<address>
+									<country>The World</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Mark</forename><surname>Sundberg</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">The World Bank Development Research Group Macroeconomics and Growth Team</orgName>
+								<orgName type="institution">Bank The World Bank</orgName>
+								<address>
+									<country>The World</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Renos</forename><surname>Vakis</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">The World Bank Development Research Group Macroeconomics and Growth Team</orgName>
+								<orgName type="institution">Bank The World Bank</orgName>
+								<address>
+									<country>The World</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Carol</forename><surname>Wise</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">The World Bank Development Research Group Macroeconomics and Growth Team</orgName>
+								<orgName type="institution">Bank The World Bank</orgName>
+								<address>
+									<country>The World</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main" xml:id="_4htdj58">The Impact of Wealth on the Amount and Quality of Child Labor</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2012-01">January 2012</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">6D80CF86C53184016ABA7B0D9BD064F5</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2025-11-04T23:47+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a292bac</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=1, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=true, generateTeiCoordinates=[true], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term xml:id="_MH85CPF">Child labor</term>
+					<term xml:id="_D6SH5me">poverty</term>
+					<term xml:id="_PrGHGTD">human capital</term>
+					<term xml:id="_BJTxANj">impact evaluation</term>
+					<term xml:id="_BNjwG7Q">Nicaragua</term>
+				</keywords>
+			</textClass>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="10" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="11" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="12" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="13" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="14" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="15" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="16" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="17" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="18" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="19" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="20" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="21" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="22" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="23" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="24" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="25" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="26" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="27" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="28" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="29" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="30" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="31" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="32" ulx="0.0" uly="0.0" lrx="792.0" lry="612.0"/>
+		<surface n="33" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="34" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="35" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="36" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="37" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="38" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="39" ulx="0.0" uly="0.0" lrx="792.0" lry="612.0"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_pNfNEPT"><p xml:id="_52SxZGX">Produced by the Research Support Team</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_BTDWPM8">Abstract</head><p xml:id="_AsKmCR6">The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_H4wRaj3">Policy Research Working Paper 5959</head><p xml:id="_gcSUX23">This paper analyzes to what extent, and under what conditions, an increase in household wealth affects the use of child labor in poor households. It develops a simple theoretical model, which uses child labor, training, and schooling to maximize household income over time, subject to resource constraints. Then, it conducts an empirical analysis using randomized trial data, which were collected for the evaluation of the 2006 Nicaragua conditional cash transfer program. This social program transfers wealth to poor families in rural areas, conditional on children's school attendance and health check-ups. In addition, for one third of the beneficiaries, there is a further wealth transfer to start a nonagricultural business. The paper finds that the conditional This paper is a product of the Macroeconomics and Growth Team, Development Research Group. It is part of a larger effort by the World Bank to provide open access to its research and make a contribution to development policy discussions around the world. Policy Research Working Papers are also posted on the Web at <ref type="url" target="http://econ.worldbank.org">http://econ.worldbank.org</ref>. The author may be contacted at nloayza@worldbank.org. cash transfer program affected the volume and quality of child labor, reducing it in the aggregate and steering it towards skill-forming activities. Specifically, the program appears to have reduced the use of child labor for household chores and farm work, while increasing it for the non-traditional, skill-forming activities related to commerce and retail. Moreover, the paper finds that the source behind the increase in skill-forming child labor is not the basic component, which provides a transfer for paying for schooling and health services, but it's the business-grant component, which provides a household grant for the creation of a micro business or a new economic activity.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_MTKPwuR">I. Introduction</head><p xml:id="_E585EVW">The objective of this paper is to evaluate the impact on child labor of an exogenous increase in household wealth. In particular, we evaluate a conditional cash transfer (CCT) program implemented among poor rural households in Nicaragua during the year 2006. The program was implemented as a pilot to be fully evaluated, thus featuring all the relevant characteristics of an experimental, randomized trial (see <ref type="bibr" target="#b24">Macours and Vakis, 2005</ref>, for detailed program information). The Nicaragua CCT program was targeted at improving human capital outcomes of school-aged children through the transfer of a substantial amount of money to households that comply with educational and health goals for their children. In addition, for a subset of beneficiaries, the program was aimed at modifying the households' productive capacity from farming to non-farming activities through a grant to set up a small business venture. We examine here the Nicaragua CCT program's impact on various types of child labor, including household chores, farm work, and non-farming activities. <ref type="foot" target="#foot_0">1</ref> The heterogeneity of the program interventions (human-capital and business-grant) and the diversity of child labor under consideration allow us to examine issues that have hitherto remained elusive in the literature.</p><p xml:id="_WCJFZNC">Dating back to the seminal work of <ref type="bibr" target="#b4">Becker and Lewis (1973)</ref>, the economics literature on child labor has flourished in recent years. One strand of this literature examines the effects that an increase in household income and wealth may have on child labor. <ref type="bibr" target="#b2">Basu and Van (1998)</ref>, <ref type="bibr" target="#b20">Grootaert and Kanbur (1995)</ref>, and <ref type="bibr" target="#b35">Swinnerton and Rogers (1999)</ref> propose a sort of -luxury‖ hypothesis, according to which poor families cannot afford to dispense with child labor if they are to meet their subsistence needs. A corollary from this hypothesis is that as household income increases, child labor declines in favor of schooling and leisure. Not only would child labor be necessary to support the family on a secular basis but also in response to temporary negative shocks. In fact, <ref type="bibr" target="#b13">Edmonds (2005)</ref>, <ref type="bibr" target="#b16">Edmonds and Turk (2004)</ref> and <ref type="bibr" target="#b5">Beegle, Dehejia, and Gatti (2009)</ref> find that child labor tends to increase and school attendance declines during difficult economic times for the family.</p><p xml:id="_EdnvvfZ">Some conditions associated with socio-economic underdevelopment exacerbate the use of child labor as a coping mechanism for the family. One of them is the lack of access to functioning credit and financial markets. <ref type="bibr" target="#b1">Baland and Robinson (2000)</ref>, <ref type="bibr">Dehejia and Gatti (2005)</ref>, and <ref type="bibr" target="#b30">Ranjan (2001)</ref> find that when parents are faced with borrowing constraints, they are more likely to engage their children in income-generating activities, despite their preference for schooling and leisure for the offspring. An implication of these studies is that if poor households' wealth increases (thus alleviating their budgetary and financial constraints), the family will feel less pressured to generate income from child labor in the present and more inclined to engage the children in learning activities that can render income in the future.</p><p xml:id="_VCSvBjB">Another relevant socio-economic condition for child labor is the high cost and low quality of schooling that characterizes underdeveloped countries and communities. Especially in rural areas, schools are few and far between, which, combined with lack of proper roads and means of transportation, makes it difficult and costly for children to get to and from school. If in addition the schools' infrastructure and the teachers' performance are deficient, the incentives for parents to send their children to school become weak. Child labor would then appear as a sensible option, not only for increasing family's current income but also for training purposes for the child, which is consistent with the findings by <ref type="bibr" target="#b5">Beegle, Dehejia and Gatti (2009)</ref>, <ref type="bibr" target="#b30">Raju (2005)</ref>, and <ref type="bibr" target="#b32">Rogers and Swinnerton (2002)</ref>. An implication from this line of research is that if the cost of formal schooling decreases (or is subsidized) and its quality improves sufficiently, then child labor is likely to decrease in favor of schooling. 2   Challenging the -luxury‖ hypothesis, some authors have proposed what can be described as a -wealth paradox.‖ <ref type="bibr" target="#b6">Bhalotra and Heady (2003)</ref>, <ref type="bibr" target="#b27">Parsons and Goldin (1989)</ref>, and <ref type="bibr" target="#b33">Rogers and Swinnerton (2004)</ref>, among others, find that child labor is higher in poor families that have access to land and other productive resources than in poor families lacking those assets. Moreover, child labor seems to increase during periods of economic growth in households endowed with productive assets. Why would these families choose to use child labor instead of hiring outside workers? Several reasons have been put forward in the literature: First, the risks of moral hazard, shirking, and theft are lower with child labor than with hired hands (see, <ref type="bibr" target="#b11">Deolalikar and</ref><ref type="bibr" target="#b11">Vijverberg, 1987, and</ref><ref type="bibr" target="#b18">Foster and</ref><ref type="bibr" target="#b18">Rosenzweig, 1994)</ref>. Second, labor markets may be too rigid and burdensome especially for rural areas and farm-related work that are intrinsically volatile 2 This implication is not clear if leisure is introduced as an alternative use of children's time, as shown by <ref type="bibr" target="#b31">Ravallion and Wodon (2000)</ref>. However, as they explain, a sufficient (though not necessary) condition for a schooling subsidy to reduce child labor is that schooling and leisure be complements. This is the case if leisure includes activities that are necessary for children to perform well in school, such as rest, socialization, homework, and study. and uncertain (see the theoretical discussion in <ref type="bibr" target="#b3">Basu, Das, and Dutta, 2010</ref>). Third, some child labor is not negative or harmful but can lead to enhanced work habits, discipline, and even human capital (see <ref type="bibr">Edmonds, 2007</ref><ref type="bibr">, as well as, Beegle, Dehejia and Gatti, 2009</ref><ref type="bibr" target="#b30">, Raju, 2005</ref><ref type="bibr" target="#b32">, and Rogers and Swinnerton, 2002)</ref>.</p><p xml:id="_88HfuJT">In this context, our paper analyzes the conditions under which an increase in household wealth leads to a decline or increase of child labor in poor households. In order to clarify the interpretation of the empirical results, we first develop a simple theoretical model, where child labor, training, and schooling are selected to maximize inter-temporal household income subject to resource constraints. As mentioned above, we conduct the empirical analysis using the randomized trial data collected to evaluate the 2006 Nicaragua conditional cash transfer (CCT) program. Using a Tobit procedure for the estimation of corner-solution models, we find results that are broadly consistent with the theoretical predictions. In brief, the CCT program had a selective impact on the volume and quality of child labor, reducing it in the aggregate and steering it towards skill-forming activities. Furthermore, the source behind the reduction in total child labor is the basic, human capital component of the program, while the increase in skillforming child labor is specifically linked to its business-grant intervention.</p><p xml:id="_eB7ru2q">The remainder of the paper is organized as follows. Section II introduces a simple theoretical framework for child labor decisions. Section III presents the Nicaragua CCT program, the criteria for beneficiary selection, the corresponding diagnostic randomization tests, and the child labor measures used in the empirical analysis. Section IV presents the evaluation results and discusses them in light of the theoretical framework. Section V summarizes and concludes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_gpzRVs4">II. Theoretical Framework</head><p xml:id="_tWAnp5p">We now present a simple theoretical model of the family decision regarding children's occupation. Its main purpose is to motivate the empirical exercise by exploring the child-labor decision-making process, relating it to child characteristics, potential occupations, and external interventions such as the CCT evaluated in this paper. We develop the model in three cases of increasing relevance. In the first case, we allow for only schooling and one type of child labor.</p><p xml:id="_AcXfEqW">In the second case, we consider two types of child labor, each suited to different child characteristics. And in the third case, we allow for one of the types of child labor to be skillenhancing.</p><p xml:id="_c9UZSFb">For simplicity, each family is assumed to live for two periods. In the first, children work and study; and in the second period, children become adults and work using their previously obtained skills. In this simple setting, we assume that the objective of the family for each child is to maximize the present value of income generated by him or her. This general objective function is consistent with both altruistic and selfish purposes since a child's income can be pooled together with other sources of income and then distributed among members of the family, including, of course, the working child.</p><p xml:id="_pZcdBS4">Case 1. Assume that in order to generate income from a given child, the family counts with one type of child labor activity and one comprehensive set of productive assets, which may include adult labor, land, and capital. In the first period, the income-generating function corresponding to a child can be represented as follows,</p><formula xml:id="formula_0">ml ps l Lf Y l    ln 1 (<label>1</label></formula><formula xml:id="formula_1">)</formula><p xml:id="_NjG4FeE">where, is income in the first period. represents family endowments such as adult labor and productive assets in the household (e.g. tools, land, and capital); note that a transfer program focused on increasing productive assets in the household may augment this factor. represents the type of child labor available in this case; and l f comprises the child characteristics that make him or her productive (e.g. gender, ability, and strength) for this type of labor. represents schooling, which in this case is the only skill-enhancing activity; and p is the cost associated to schooling; note that in the context of a CCT, the cost of schooling can be reduced according to the program. Finally, represents the pecuniary, income equivalent to the utility loss from each unit of child labor; it attempts to capture the moral aversion that parents may feel against this sort of activity. The income generating function in Eq. ( <ref type="formula" target="#formula_0">1</ref>) is sufficiently simple to generate closedform solutions, needed to fulfill the primarily illustrative objective of the model.</p><p xml:id="_qkx3Udy">We assume that labor and schooling exhaust the total time available to the child, normalized for simplicity to 1. That is, labor and schooling compete for child's available time, and 1   l s .</p><p xml:id="_w3AvhUV">In the second period, the income-generating function can be represented as follows,</p><formula xml:id="formula_2">2 Y Rs  <label>(2)</label></formula><p xml:id="_ZWBEyGu">Where, 2 Y is income in the second period, is the rate of return to schooling, and  represents the expected fraction of income transferred from the (former) child to the family in the second period.</p><p xml:id="_Scr9nDj">The only control variable is child labor, . Then, the family's optimization problem with respect to the child is 12 max l YY   , subject to the time constraint, or</p><formula xml:id="formula_3">1 0 to ) 1 ( ) 1 ( ln max         l subject l R ml l p l Lf Y l l  (3)</formula><p xml:id="_dMN4Nzw">where,  represents the rate of time preference, indicating the degree of patience for income in the future.</p><p xml:id="_eMWVpn3">The first order condition of this maximization problem is,</p><formula xml:id="formula_4">0 * 1              R m p l Lf l Y l </formula><p xml:id="_fxN35th">which leads to the solution for optimal child labor, , or in explicit form,</p><p xml:id="_fTYEkUs">is bounded between 0 and 1, given the constraint on the child's available time. It will tend to be zero if the child's labor productivity is nil ( ) or the opportunity cost of child labor ( ) is very large. For example, if complementary assets to child labor are nonexistent or the returns to schooling and the disutility of child labor are sizeable, child labor will approach zero. On the other hand, child labor will tend to be 1 if its labor productivity is large enough with respect to its opportunity cost. This will be the case if, for instance, the cost of schooling is prohibitive. As we will see in the empirical application, child labor is rarely so large that it displaces schooling or leisure completely ( ). On the other hand, child labor does equal zero for quite a few children in the sample, which suggests the importance of using an empirical methodology that considers corner solutions for the dependent variable.</p><p xml:id="_28fucdP">Assuming an interior solution, we can see that increases in productive assets, the productivity of the child, and the cost of education lead to increases in child labor. The opposite is the case when the family has more patience, the expected return on schooling increases, and the expected portion of second-period income to be transferred to the family rises. In preparation for the empirical exercise, let's contextualize these results into a realistic scenario.</p><p xml:id="_HtyBzyD">Suppose the family lives in an agricultural setting and owns some land (positive ). In this rural area, education is likely to be relatively expensive and of poor quality (high and low ). If family wealth is low, they are bound to be impatient and prefer to increase their income in the present (low  ). In addition, suppose that the child is a boy, strong and qualified for tough agricultural work (high l f ). All these characteristics would imply that the boy is likely to be assigned a great deal of labor.</p><p xml:id="_jh6KDm7">Case 2. Given that our empirical exercise aims to differentiate across types of child labor, we now augment the model to include two types of labor: the first is physically-demanding labor, , and the second one is skilled-oriented labor, . Each type of child labor requires a specific asset to generate production, respectively and . In the context of our empirical exercise, would correspond to land and agricultural tools, while would represent business or service-related assets. In this case, the income-generating functions for the first and second periods are given by,</p><formula xml:id="formula_6">) ( ln ln 1 h l m ps h Hf l Lf Y h l      (<label>5</label></formula><formula xml:id="formula_7">) Rs Y   2 (6)</formula><p xml:id="_eKcZ2qk">And the time constraint per child is,</p><formula xml:id="formula_8">1    h l s (<label>7</label></formula><formula xml:id="formula_9">)</formula><p xml:id="_yFrafFg">The family's optimization problem is to maximize lifetime income per child with respect to each type of labor; that is,</p><formula xml:id="formula_10">. 1 0 0 , to ) 1 ( ) ( ) 1 ( ln ln max ,               h l and h l subject h l R h l m h l p h Hf l Lf Y h l h l  (8)</formula><p xml:id="_SwQGjen">Assuming that the parameters are such that the solutions are interior, optimal child labor is given by,</p><formula xml:id="formula_11">m p R Lf l l     * (<label>9</label></formula><formula xml:id="formula_12">) m p R Hf h h     * (<label>10</label></formula><formula xml:id="formula_13">)</formula><p xml:id="_sjUxytY">As in the previous case, corner solutions may exist. Particularly important are those where child labor is zero. This will tend to occur when the productivity of the specific type of child labor is very low or its opportunity cost is substantially large. Note that there may be a corner solution for one type of child labor while an interior one for the other depending on the availability of the complementary production factors, and . For instance, if the family owns land and agricultural tools but not business or service-related assets, physical child labor will be positive while skilled labor may be zero. As we will see in the empirical section, this case is rather common in our sample.</p><p xml:id="_rTJfFp2">From equations ( <ref type="formula" target="#formula_11">9</ref>) and ( <ref type="formula" target="#formula_12">10</ref>), we can derive the optimal relationship between physical and skilled labor:</p><formula xml:id="formula_14">h l f H f L h l    * * (<label>11</label></formula><formula xml:id="formula_15">)</formula><p xml:id="_wXzEBFj">This expression indicates that the optimal ratio of physical to skilled child labor depends on both family endowments of complementary assets and child-specific abilities. For example, a smart girl (high , possibly low ) who lives in a household that owns a town store (high ) whose operations require some math and communication skills would likely be allocated to more skilled than physical labor.</p><p xml:id="_js7su4r">Case 3. The literature on child labor finds that certain labor activities are skill-enhancing and can serve in the adult life of the child. To take this into account, case 3 extends the basic model to allow for one type of child labor, , to compete with schooling in the formation of skills. Apart from added realism, this extension is important because the CCT program under evaluation may affect child labor not only by reducing the cost of schooling but, in some cases, by also increasing household non-agricultural assets (associated with ). In order to understand the effects of the CCT program, we need a model that considers not only two types of child labor but also the possibility that one of them be skill-forming. <ref type="foot" target="#foot_1">3</ref>In terms of our mathematical formulation, this extension is captured in the production function of the second period. Specifically, ] [</p><formula xml:id="formula_16">2 h R s R Y h s    (12)</formula><p xml:id="_6Gq56cs">where, and represent, respectively, the rate of return to schooling and skill-forming child labor.</p><p xml:id="_du8zwqQ">The family's maximization problem per child becomes,</p><formula xml:id="formula_17">h R h l R h l m h l p h Hf l Lf Y h s h l h l              ) 1 ( ) ( ) 1 ( ln ln max , (<label>13</label></formula><formula xml:id="formula_18">)</formula><p xml:id="_PCFQ2Jy">Assuming interior solutions, optimal child labor allocations are,</p><formula xml:id="formula_19">m p R Lf l s l     * (<label>14</label></formula><formula xml:id="formula_20">) m p R R Hf h h s h     ) ( *  (15)</formula><p xml:id="_eFKCZDP">As remarked before, zero child labor solutions are indeed possible and will occur if the complementary factor of production is nonexistent or if the opportunity cost of child labor is very large. For instance, if the moral cost associated to child labor is paramount to the family, both types of child labor will tend to be zero. On the other hand, if the only asset available to the household is land, physical labor will likely be positive while skill-forming child labor will be nil.</p><p xml:id="_Bm8k3SS">Equations ( <ref type="formula" target="#formula_19">14</ref>) and ( <ref type="formula">15</ref>) imply an optimal relationship between physical and skilled labor,</p><formula xml:id="formula_21">given by, 4                           m p R R f f H L h l s h h l   1 * * (<label>16</label></formula><formula xml:id="formula_22">)</formula><p xml:id="_RQVEj4d">This indicates that when child labor has the potential of enhancing the skills that can be used in adult life, then the relative allocation across types of child labor not only depends on family endowments and child characteristics but also depends on factors affecting the skill-forming decision. In fact, whereas the first two terms of the right-hand side of the equation refer to present family and child characteristics, the latter term involves the calculation of the benefits and costs of skill formation for the future of the child.</p><p xml:id="_txJnhNm">In terms of the margins that a social program may affect, note that a wealth transfer that involves an education subsidy (lower ) and/or induces more patience (higher ) would lead to lower child labor, with a larger reduction in skilled ( ) than physical labor ( ). (Indeed, skillforming child labor is more sensitive to changes in the parameters that determine the presentfuture tradeoff.) In the absence of an impact on household endowments, the program would then lead to an increase in the ratio of physical to skilled child labor, which may appear to be a surprising effect. This result could be reversed if the program involves an intervention that concomitantly increases the household endowment of non-agricultural assets (higher ). We will come back to these issues as we discuss the empirical results.</p><p xml:id="_rcNaq2u">Turning briefly to the schooling decision implicit in our model, the optimal allocation of schooling depends not simply on the returns to schooling but on the difference between the returns to schooling and skilled labor. Considering the time constraint and the first-order conditions, optimal schooling is given by,</p><formula xml:id="formula_23">p R R Hf p R Lf s h s h s l       ) ( 1 *   (<label>17</label></formula><formula xml:id="formula_24">)</formula><p xml:id="_rsHjKqX">Clearly, given competing child occupations, the chosen level of schooling will only be significant if the returns to schooling are sufficiently high and its costs sufficiently low.</p><p xml:id="_eYKHUAh">Therefore, an intervention can be successful at achieving higher schooling attendance if it works through these two margins, education returns and costs. However, if it affects other aspects of the issue (by, for instance, providing assets that complement child labor), its impact on schooling may be ambiguous.</p><p xml:id="_wMw2Pta">In summary, child labor (and schooling) decisions depend on a combination of family characteristics (such as asset endowments and patience), social characteristics (such as cost of schooling and returns to skill-forming child labor), and child characteristics (such as gender and ability). A social program can affect these decisions through several possible channels.</p><p xml:id="_84ezAGy">Depending on what channels are activated, therefore, different interventions can have different child labor outcomes. Despite its simplicity, this theoretical analysis underscores the complexity of the child labor decision and may guide the interpretation of our empirical results.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_8bY3Ara">III. The Program</head><p xml:id="_wRvvBkc">We now present a description of the program under evaluation. The Atención a Crisis (-Attention to the Crisis‖) program consists of three packages of private cash transfers to poor households over a one year period. The objectives of the program were two-fold. First, in the short-term the cash transferred to households was aimed at helping households cope with the adverse effects from the drought, as a safety net mechanism. Second, in the longer term the program was intended to improve the human capital of beneficiary households (through investments in education, training and health). For a subset of beneficiary households the program was also aimed at improving their asset base through the creation of a new economic activity.</p><p xml:id="_twVhqkJ">The program was implemented over a period of one year; between November 2005 and December 2006. Baseline data for the evaluation were collected in July 2005, a few months before the first cash transfer payment was distributed to beneficiary households. The follow-up data were collected in September 2006. Although not identical, the data collection months correspond to both the same agricultural season and similar school period (in Nicaragua the school year runs from February to November). The sample includes about 3,000 eligible households in the treatment group, and a random sample of about 1,000 eligible households in the communities that were randomly assigned to the control group. Attrition between the two surveys was minimal, less than 1.3%, and the take-up rate of the program, of all eligible beneficiaries, was 95%. 5 . The overall geographic area of the program-covering six municipalities in the northwest area of the country-was selected in the aftermath of a severe drought. All six municipalities were located in rural areas and were characterized for being extremely poor, even prior to experiencing the drought.</p><p xml:id="_e9sYD3b">The 3,000 randomly selected households that benefited from the program were split into three groups of about 1,000 each, and each group was randomly-through a participatory lottery process-selected into one of three benefit packages. The first benefit package resembles a traditional conditional cash transfer program where all households receive cash transfers conditional on children attending school and health service regularly. The second benefit package also includes the basic package but adds a scholarship for one member of the household (age 16 or above) to attend an occupational training course. The third benefit package includes the basic package but also provides a household grant for the creation of a micro business or a new economic and productive activity. Beneficiaries for this benefit package were conditioned on formulating, with technical assistance, a business plan in order to receive the grant. The value of the cash transfers is substantial relative to the income of beneficiary households:</p><p xml:id="_Bhv4Str">Approximately the first (basic) and third (basic plus business-grant) packages amounted to, respectively, 25% and 45% of the average annual household income in the sample communities (the second benefit package did not carry a significant pecuniary value).</p><p xml:id="_FWZBKN9">There were delays in the implementation of the scholarship for the occupational training course; as a result, the second package did not take place during the period of this evaluation, making the first and second packages the same in terms of the amount of transfers provided to households. Consequently, for this evaluation we combine the first and second beneficiary groups into one and measure the impact of the transfers corresponding to the basic package (2,000 households) and the business-grant package (about 1,000 households).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_T6nbhB9">Beneficiary Selection</head><p xml:id="_jB64WvB">Randomization. The strength of the program design is the method-through randomized assignment-by which beneficiaries were selected into the program. By randomizing the assignment of the program and the packages, we are able to reduce biases in the selection of beneficiaries that often inhibit researchers from obtaining a true estimate of the impact of the intervention <ref type="bibr" target="#b12">(Duflo et. al., 2008)</ref>, thus making the evaluation results more credible and less subject to manipulation.</p><p xml:id="_snWZ98b">As mentioned, the overall geographic area was selected on the basis of being affected by a severe drought and being classified (in the most recent poverty map of Nicaragua) as extremely poor. Due to budget constraints --only about 3,000 households could be treated--the design team determined a beneficiary selection method that would randomize the allocation of the program in a manner that all eligible (control and treatment) households prior to the program would have equal chance of being selected. This was done in a multi-stage process; first a list of all communities in the 6 eligible municipalities was made available to the program design team.</p><p xml:id="_88egDNb">Each community was paired up with another community<ref type="foot" target="#foot_4">foot_4</ref> (resulting in approximately 50 pairs)</p><p xml:id="_u6xT2JY">based on comparable socio-economic and geographic characteristics (for example, access to services, climate, and crop mix). <ref type="foot" target="#foot_5">7</ref> After the pairing process, beneficiary and control communities were selected using a lottery process to which all mayors of the 6 municipalities were invited to attend and participate.</p><p xml:id="_ZDWnAEb">Once the treatment and control communities were selected, the second stepidentification of treatment households-of the selection process took place. The criteria for eligibility, within treatment communities, were set using the proxy means methodology 8 and using the national household survey collected in 2001. The data collection process was completed in 2005; this included a census of households in treatment communities and a random sample of households from the controls. All households were placed in ranking order with respect to their economic status using their own household data and proxy estimates. Ranking was used to identify the poorest households and determine the appropriate sample. The proxymeans process showed that within communities, households were similar in terms of their economic status (mostly poor subsistence farmers). As a result, over 90% of households in selected treatment communities were offered the program. Households in treatment communities that were not offered the program were excluded because they were better off economically; they typically owned a business or had a household member employed in a public sector job (teachers, municipality worker, and health provider).</p><p xml:id="_fMjPwMp">Communal registration assemblies were organized; one or more depending on the community size, and female household members were invited. The assemblies were meant to introduce beneficiaries to the program and to recruit women volunteers for various implementation and monitoring tasks. During these assemblies the team ran the third stage of the selection process, a lottery to assign one of the three packages to each household. All households invited to the assemblies attended and less than a handful of them chose not to participate in the program. Given heterogeneity within communities, and to increase the power of the statistical tests, all three packages were offered in each community. During the assembly households drew one of three colored balls from a bag and the color was recorded. At the end of the assembly each color was assigned to a program package, based on the same lottery mechanism. Families were then recorded as being part of one of the three beneficiary packages.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_f2cPEfx">Comparability of Treatment and Control.</head><p xml:id="_sKa5g6N">In order to test the comparability across groups  <ref type="table">1</ref>. Using a t-test of the means across all variables of interest, all households have statistically comparable estimates at baseline, except for two variables-distance to school and gender of the household head <ref type="foot" target="#foot_7">9</ref> .</p><p xml:id="_gN8dnHM">This provides supporting evidence that the random allocation of the treatment and the control households was successfully implemented. Similarly, the differences between households with the business grant package and households in the control communities are generally small and not significant (see <ref type="bibr" target="#b24">Macours and Vakis, 2005</ref>, for a full set of randomizations tests across all variables). Despite clear comparability of samples at baseline, we include a comprehensive set of relevant variables as regression controls in the empirical estimations in the paper.</p><p xml:id="_Ut9EsdR">It is worth highlighting that the households in this region are mostly subsistence farmers who rely on basic grain agriculture and some animal farming activities; agricultural participation of children is not unusual and overall child labor, including domestic activity, is commonplace.</p><p xml:id="_VMAmj4n">The bottom section of Table <ref type="table">1</ref> presents estimates of child work in 2005, in days per year for total labor (excluding chores), farm labor and non-farm labor. As shown, at baseline children engage in farm work much more than they engage in skilled work, and these amounts are statistically comparable across treatment and control households, and across program packages.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_CgeJec2">Child Labor Measures</head><p xml:id="_NsDKTW5">We use two measures of child labor. The first is the number of hours worked per child in the week previous to the survey. This information was obtained only at the follow-up round of data collection in 2006. The second is the number of days in which any amount of work was done per child during the 12 months previous to the survey. This information was obtained both at the baseline survey in 2005 and at the follow-up survey in 2006. Given the precision and level of detail with which the data were obtained, the -hours‖ measure is substantially more accurate than the -days‖ measure.</p><p xml:id="_kRSC3Hg">The household surveys provide information on several types of working activities. For the -hours‖ measure, work types are aggregated into three categories: household chores, farm work, and skilled labor. Household chores includes manning the house, cleaning, cooking, water gathering, wood cutting and gathering, and caring for siblings. Farm work consists of agricultural activities and livestock raising both in the household's own property and in somebody else's farm (as day laborers or peons). Skilled labor is work that involves reading, writing, basic arithmetic skills and interpersonal relationships, such as food production and elaboration, manufacturing, commerce, services, and professional jobs. For the -days‖ measure, there is information to construct only two comparable categories, farm work and skilled labor.</p><p xml:id="_2CcHG9Q">Table <ref type="table">2</ref> presents some descriptive statistics on child labor by types, measures, and control/treatment groups. For the -hours‖ measure, the information corresponds to the follow-up survey in 2006, while for the -days‖ measure, the statistics correspond to the (panel) difference between follow-up in 2006 and baseline in 2005.</p><p xml:id="_bh4MMuk">Finally, it is important to note that we are not arguing that physical and farm labor do not help children obtain useful skills for their future. What we want to emphasize is that for poor rural households, child labor on traditional agricultural activities provides skills that are mostly limited to subsistence farming. Higher benefits for children accrue if they train in non-traditional activities that involve reading comprehension, mathematical ability, and interpersonal relationships. The evidence shows that these skills allow children an easier and tighter integration into the modern, urban economy when they become adults (see <ref type="bibr" target="#b21">Karlan and Valdivia, 2011)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_dfPVdke">IV. Empirical Analysis</head><p xml:id="_p94TBf2">We conduct two empirical exercises. The first and main exercise is a post-treatment evaluation of the levels of child labor, comparing treatment and control groups. The assessment has to be post-treatment because the best quality measure of child labor -hours of child labor in the previous week, disaggregated into household chores, farm work, and skilled labor-was obtained only after the program had been implemented. The randomization procedure -and confirming statistical tests-have ensured that there are no significant ex ante differences between treatment and control groups, as discussed in the previous section.</p><p xml:id="_eNYKDW3">The regression on child labor hours is estimated using a Tobit procedure, given that the dependent variable is censored at zero. Actually, child labor can best be approached empirically as a corner-solution model (rather than as a censored-variable model), where a considerable number of households choose zero labor for their children while others choose a positive amount (see <ref type="bibr" target="#b36">Wooldridge, 2002)</ref>. This empirical approach is consistent not only with the observed data but also with the theoretical framework developed previously in the paper. <ref type="foot" target="#foot_8">10</ref>The second exercise is a pre/post-treatment evaluation of the differences in child labor between treatment and control groups. This -dif-in-dif‖ exercise is conducted to check the robustness of the main results. It requires a measure of child labor both pre and post treatment, which, from the available survey data, consists of the number of days in the last year that the child reported doing any work outside the household. As mentioned in the previous section, the -days‖ measure is considerably less accurate than the -hours‖ measure and does not include household chores, an important component of child labor especially in rural homes. The regression on the difference of child labor days is estimated using Ordinary Least Squares; the results are robust to econometric procedures that account for outliers.</p><p xml:id="_Qd3JqFy">In both exercises, we use the same control variables. These consist of a set of individual, household, and community characteristics that may have an independent effect on child labor, as described by the received literature. As relevant individual characteristics, we include the age and gender of the child (see <ref type="bibr" target="#b7">Cartwright and Patrinos, 1999</ref><ref type="bibr" target="#b9">, Del Carpio and Macours, 2010</ref><ref type="bibr">, and Patrinos and Psacharopoulos, 1997, among others)</ref>. As household characteristics, we include the number of people in the household (or simply, household size) at baseline; the educational level, age, and gender of the household head at baseline (see <ref type="bibr">Dar et al., 2002, and</ref><ref type="bibr" target="#b17">Emerson and</ref><ref type="bibr">Portela, 2007)</ref>; and the number of children in various age cohorts at baseline (see <ref type="bibr" target="#b22">Kruger and Berthelon, 2003</ref><ref type="bibr" target="#b14">, Edmonds, 2006</ref><ref type="bibr" target="#b29">, and Ponczek and Portela-Souza, 2007)</ref>. As community characteristics, we include variables that proxy for remoteness by measuring the proximity to major services and markets; these are the travel times to municipal headquarters, to the nearest primary school, and to the nearest health center (see Del <ref type="bibr">Carpio, 2007)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_ShQTadw">Main Results: Treatment vs. Control Levels of Child Labor Hours</head><p xml:id="_h7zn2tu">Table <ref type="table" target="#tab_0">3</ref> presents the full Tobit regression results. It is the only table where the coefficients on the control variables are also presented. Subsequent tables will focus exclusively on the results corresponding to the CCT treatment. Before turning to the variables of interest, let's briefly discuss the results on the control variables. The age of the child carries a positive and significant coefficient for total child labor hours and for each of its three types, household chores, farm work, and skill-forming activities: as expected, older children work more than younger ones do. The gender of the child has different effects depending on the type of child labor: girls do significantly more work on chores and skill-forming activities, while boys do significantly more farm work. The household size carries a negative and significant coefficient only for chores: the more people in the household, the lighter the burden of domestic work. This, however, does not apply to farm and skill-forming labor, where the effect of burden sharing may be counteracted by the effect of higher needs from larger households. The educational level of the household head carries a negative coefficient for chores and farm work, but significantly so only for the former: more educated (and possibly wealthier) parents make their kids work less in menial tasks. Note, however, that for skill-forming activities, the parents' educational level has the opposite effect, though not statistically significantly. The gender of the household head also has a contrasting effect for different types of child labor: in female-headed households, children do more chores; while in male-headed households, they do more farm work; and significantly so in both cases. Since mothers tend to do more domestic work and fathers more farm work, the gender effect may reflect complementarity between child and adult labor. The number of children under 5 years of age carries a positive and significant coefficient for household chores, not surprisingly given that they include infant care. The number of older children and young adults carry a negative and significant coefficient for skill-forming activities, possibly indicating that their presence reduces the need and opportunity for child labor in this sort of activities. The community remoteness characteristics appear not to be statistically related to child labor, except for a couple of instances.</p><p xml:id="_KwvpBwE">Let us now turn to the results related to the CCT program. Table <ref type="table" target="#tab_1">4</ref> presents the results corresponding to the overall treatment; that is, not distinguishing between the basic and businessgrant interventions. Since child labor is analyzed through a corner-solution model, the simple Tobit coefficients do not represent meaningful marginal effects (see <ref type="bibr" target="#b36">Wooldridge, 2002)</ref>. <ref type="foot" target="#foot_9">11</ref>Therefore, apart from the Tobit coefficients, in the table we present two sets of marginal effects.</p><p xml:id="_V5J5n2r">The first is the effect of the treatment on child labor hours considering both zero and positive child labor. The second one is the treatment effect conditional on positive child labor. Both marginal effects are calculated as the change in the expected value of child labor hours given a discrete change from control to treatment (the corresponding mathematical expressions are given in the table). Note that the larger the proportion of zeros for child labor in the sample, the larger is the difference between the Tobit coefficients and the marginal effects. Thus, this difference is small for chores, medium for physical labor, and large for skilled labor. The estimation of the marginal effects is important to gauge the quantitative impact of the treatment. However, on the qualitative results regarding the sign and statistical significance of the treatment effects, the Tobit coefficients and the marginal effects provide the same information.</p><p xml:id="_up86UbB">The first general result drawn from Table <ref type="table" target="#tab_1">4</ref> is that the CCT program implemented in Nicaragua had the impact of reducing child labor. Judging by total labor (Col. 1), children in treated households appear to work about 1.5 fewer hours a week than those in control households, in average. <ref type="foot" target="#foot_10">12</ref> A disaggregation of child labor into household chores, farm work, and skilled labor renders interesting differences (Cols. 2-4). Children in treated households seem to do less chores (0.9 fewer hours) and less farm work (0.7 fewer hours) but more skilled labor (0.3 additional hours) than those in control households. It can then be argued that the CCT program had a selective impact on the volume and quality of child labor, reducing it in the aggregate and steering it towards skill-forming activities.</p><p xml:id="_VYVVqPc">Do the results differ by gender? Table <ref type="table">5</ref> presents the results when the sample is stratified by gender of the child. The results are qualitatively similar to those in Table <ref type="table" target="#tab_1">4</ref>, where the full sample was considered. For both girls and boys, children in treated households appear to work less than those in control households, and children in beneficiary households appear to work less in chores and farm activities but more in skilled labor than those in control households. There are, however, some quantitative differences between girls and boys that may deserve to be highlighted. The child-labor reducing impact of the CCT program seems to be larger for boys than for girls, although the difference is not quite statistically significant (as demonstrated in exercises not presented in the table but available on request). This difference comes from a combination of two factors: in treated households, boys reduce their farm work more than girls do, and girls increase their skilled labor more than boys do.</p><p xml:id="_Cn529XC">corresponding household survey. <ref type="foot" target="#foot_12">15</ref> Considering total labor days (Col. 1), children in treated households appear to have decreased their work (from before to after the program) by 6.2 days more than those in control households. This aggregate effect masks, however, an interesting difference between types of labor. When total labor is disaggregated (Cols. 2 and 3), we find that while children in treated households seem to have decreased their farm work (by 10.5 days) more than those in control households, treated children appear to have increased their skillforming labor (by 4.3 days) more than control children. Thus, the first pattern found in the posttreatment level comparison using child labor hours is robust to the dif-in-dif analysis using child labor days: the CCT program seems to have induced a decrease in overall child labor and a change in its composition away from farm work and towards skill-forming labor.</p><p xml:id="_E3PEWET">Does this robustness extend to the analysis by type of intervention? We examine this issue in Table <ref type="table" target="#tab_3">8</ref>, where the CCT program is separated into its basic/training and business-grant interventions. Considering aggregate labor (Col. 1), children in households that received the basic intervention decreased their labor (by 9.3 days) more than those in control households, while children that received the business-grant intervention decreased their labor only slightly and not statistically significantly with respect to the control group. This is qualitatively similar to the result obtained from the post-treatment comparison of child labor hours. There is, however, a quantitative discrepancy in that the dif-in-dif renders a larger difference between the aggregate effects of the two interventions (see tests of coefficient differences at the bottom of the table). It is likely that this can be explained less by the econometric procedure itself than by the difference in the data, especially the fact that the -days‖ measure does not include household chores.</p><p xml:id="_RGmE2Pm">When we disaggregate by type of child labor, we also find qualitative similarities with the post-treatment levels analysis. Regarding farm work (Col. 2), children that benefitted from the basic intervention decreased their work as much as those that received the business-grant intervention (both by 10 days more than the control group). On the other hand, regarding skillforming labor (Col. 3), children in households that received the basic intervention did not change their labor days significantly differently from those in the control households while children that obtained the business-grant intervention increased their labor days (by 10.2 days) more than those in the control group (see tests at the bottom of the table). Therefore, the second pattern found in the post-treatment level comparison using child labor hours is also robust to the dif-indif analysis using child labor days: the business-grant intervention of the CCT program seems to have encouraged skill-forming child labor at the expense of farm work, while the basic intervention mostly served to reduce farm work.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_s7ueeRp">Discussion</head><p xml:id="_2QCEVhV">The theoretical framework presented above may help us understand the empirical results.</p><p xml:id="_u886DME">The first major finding is that the Nicaragua CCT program led to a reduction in overall child labor. This basic outcome can be understood from the simplest case in the theoretical model, where only one type of child labor was allowed. According to equation ( <ref type="formula" target="#formula_5">4</ref>), the optimal amount of child labor decreases as the cost of education ( ) is reduced through, for instance, the implementation of an educational subsidy, which is what the CCT did. In addition, if the rate of time preference ( ) depends positively on household wealth, the program's cash transfer is expected to reduce optimal child labor by alleviating household's pressing needs that generate impatience.</p><p xml:id="_8TuBrd3">The second major finding is that the Nicaragua CCT program had varying effects on different types of child labor. Clearly, case I of the theoretical framework is silent about this result, but case II (where two types of child labor are considered) begins to shed light on the issue. As equation (11) suggests, a heterogeneous impact on child labor does not occur through a mere decrease in the cost of education or a patience-promoting wealth increase, as both affect the two types of child labor symmetrically. Heterogeneity should, then, be related to the program's effect on the complementary production inputs ( and ) to each type of child labor or their intrinsic productivity ( and ).</p><p xml:id="_sbbeDPB">We come back to a discussion of complementary production inputs below, but for now let's focus on intrinsic productivity and see how it may explain a third finding, on the genderrelated differential impacts. Equations ( <ref type="formula" target="#formula_11">9</ref>) and ( <ref type="formula" target="#formula_12">10</ref>) indicate that the magnitude of the effect of a change in the cost of education (or the rate of time preference) should be higher for the type of labor for which the child is more productive. Provided that boys are relatively more productive than girls in physically-demanding activities, the theoretical framework could then explain why the program has a larger effect (in absolute value) on boys' farm work than on girls' farm work, while the effect is larger in magnitude for girls than boys on household chores and skill-forming labor, such as commercial or clerical work. Admittedly, this is a subtle point, only suggestive given the strength of the statistical significance of the coefficient differences across genders.</p><p xml:id="_xnMdwkZ">The fourth result goes deeper into the heterogeneity of the effects of the Nicaragua CCT program, finding that child labor decreases for the non-skill-forming activities of household chores and farm work, while it increases for skill-forming labor; moreover, it finds that the source behind the increase in the -good‖ type of child labor is the business-grant intervention, which, in return for additional cash, required the formation of a micro enterprise. From our theoretical framework, case III, which allows for one type of child labor to be skill-forming for the future, is best suited to analyze this result. In particular, it highlights the role that complementary production inputs must play in the program's heterogeneous impacts. Observe, first, that if the program only consisted of a reduction in the cost of education (lower ) or an increase in wealth that induces more patience (higher ), the reduction in optimal skill-forming child labor ( ) should be higher than in non-skill-forming labor ( ). This is algebraically clear from equation ( <ref type="formula" target="#formula_23">17</ref>), and its intuition is that skill-forming labor is a better substitute for education and, therefore, more responsive to any change that affects the labor-education tradeoff.</p><p xml:id="_5xvZhbE">The estimated coefficients, however, indicate that the program's impact on skill-forming child labor is not to reduce but actually increase it, and significantly so. Something else must be going on. The CCT program, in fact, worked not only through reducing the cost of education or increasing patience but also by improving the production inputs that are complementary to child labor. This is quite clear in the case of the business-grant intervention, where additional cash was provided for the formation of a household non-traditional enterprise. This would have the direct effect of increasing , the complementary factor for skill-forming child labor: the grant provided the store, the shop, or whatever little business for the child to work at, instead of the farming field. It is through the introduction of specific complementary production factors that the Nicaragua CCT program could not only reduce child labor in the aggregate but also improve its quality, steering it towards skill-forming activities.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_jAawgdX">V. Conclusion</head><p xml:id="_QnfFaXn">This paper addresses one of the most important, yet elusive, issues in the child labor literature. In a unified framework, we analyze to what extent and under what conditions an increase in household wealth can lead to a decline or increase of child labor in poor households.</p><p xml:id="_b83z3re">In order to elucidate this question and guide the interpretation of the related empirical results, we first present a simple theoretical framework, where child labor, training, and schooling are chosen optimally to maximize inter-temporal household income, subject to resource constraints.</p><p xml:id="_vdyne6H">Since the intra-household distribution of rents is undefined in the model, it allows for both altruistic and non-altruistic motives for the allocation of children's time amongst different activities. The model argues that an increase in wealth may have decreasing or increasing impacts on different types of child labor. The effect will tend to be decreasing if the rise in wealth is associated with a schooling subsidy or with higher patience for postponing consumption. Conversely, the child labor effect may be increasing if the rise in wealth consists of the provision of an asset that complements child labor in the household production function, particularly if this activity is skill-forming for the child.</p><p xml:id="_dW5PZsb">We conduct the empirical analysis in the context of the pilot evaluation of the 2006</p><p xml:id="_75DwsEf">Nicaragua conditional cash transfer (CCT) program. This social program transfers wealth to poor families in rural areas of the country conditional on various types of human capital investment for children, namely school attendance and nutrition and health check-ups. In addition, for one-third of the treated families there is a further wealth transfer to start-up a nonagricultural business. The program was designed for evaluation and, thus, enjoys the characteristics of a randomized trial, with multiple interventions and precise outcome measures.</p><p xml:id="_uTkeupb">It is the combination of randomized design, multi-component structure, and precise measurement which makes this evaluation so useful for the purpose of understanding the connection between wealth and child labor. This, together with the theoretical framework to interpret the results, makes this paper a potential contribution with respect to other similar studies (see, <ref type="bibr" target="#b0">Attanasio et. al., 2008</ref><ref type="bibr" target="#b8">, Dammert, 2009</ref><ref type="bibr" target="#b19">, Glewwe and Olinto, 2004</ref><ref type="bibr" target="#b26">, Maluccio and Flores, 2004</ref><ref type="bibr" target="#b31">, Ravallion and Wodon, 2000</ref><ref type="bibr" target="#b34">, and Skoufias and Parker, 2001)</ref>.</p><p xml:id="_Q4DXJkB">Having provided ample evidence of the ex ante statistical equality between treated and control households, we use a Tobit regression methodology for the post-treatment comparison between treated and control households regarding child labor outcomes. The child labor measure is based on a recorded diary of various types of activities, which we aggregate into hours of work per week that each child devotes to household chores, farming, and non-farming activities. 16 The empirical results obtained from the evaluation of the Nicaragua CCT program are consistent with the predictions of the theoretical model. In summary, we find that the CCT program had a selective impact on the volume and quality of child labor, reducing it in the aggregate and steering it towards skill-forming activities. Specifically, the program appears to have reduced child labor for household chores and farm work, while increasing it for the non-traditional, skillforming activities related to commerce and retail. Moreover, we find that the source behind the increase in the better-quality type of child labor is not the basic component of the program but distinctively its business-grant intervention. 16 To check the robustness of the findings, we use a complementary difference-in-difference methodology to compare the pre/post-treatment changes in child labor. Due to data limitations, the dif-in-dif analysis is conducted using a measure based on the number of days when the child did any amount of work during the previous year, rather than the preferred measure of child labor hours in the previous week.</p><p xml:id="_VuZfSMe">Table 1. Randomization Test Baseline Household Characteristics Number of Observations Control (C) Treatment (T) Business Grant Intervention (T 2 ) P-value (T-C) P-value (T 2 -C) Characteristics of the Household Total consumption per capita (cordoba) 2320 4650.823 4649.164 4744.070 0.993 0.694 Total income per capita (cordoba) 2320 3720.416 3845.617 3866.168 0.433 0.440 Household owns land (=1) 2320 0.683 0.676 0.691 0.771 0.765 Household size 2320 6.399 6.368 6.482 0.785 0.557 Distance to municipal headquarters (hours) 2320 1.662 1.519 1.555 0.007 0.101 Distance to school (hours) 2320 0.308 0.255 0.254 0.000 0.005 Distance to health center (hours) 2320 1.195 1.148 1.159 0.294 0.499 Attending school 2320 0.925 0.941 0.933 0.170 0.604 Characteristics of Household Composition Number of HH members under 5 2320 0.692 0.665 0.670 0.468 0.621 Number of HH members 5-14 2320 2.330 2.386 2.380 0.318 0.463 Number of HH members 15-24 2320 1.164 1.117 1.189 0.439 0.741 Characteristics of Household Head Age of household head 2320 45.646 45.386 46.292 0.676 0.390 Male household head 2320 0.816 0.847 0.862 0.083 0.032 Education level of household head 2320 1.312 1.306 1.257 0.898 0.366 Child Labor Measures Total labor in 2005 (days/year) 2320 23.29725 24.49654 27.1151 0.6189 0.2179 Farm work in 2005 (days/year) 2320 22.33685 23.88725 25.96125 0.5045 0.2141 Skilled labor in 2005 (days/year) 2320 0.960396 0.609296 1.153846 0.5545 0.841 Notes: Sample includes only households with at least one child between 7-14 years of age in 2005 in the household.</p><p xml:id="_jk2RKDS">Table 2. Child Labor Measures Variable All Treatment (T) Business Grant Intervention (T 2 ) Control Total labor in 2006 (hours/week) 11.17 10.74 11.30 12.37 Chores in 2006 (hours/week) 7.35 7.05 6.98 8.19 Farm work in 2006 (hours/week) 3.22 3.05 3.19 3.72 Skilled labor in 2006 (hours/week) 0.60 0.65 1.13 0.46 Difference in total labor bet. 2005 and 2006 (days/year) 64.72 63.33 68.78 68.62 Difference in farm work bet. 2005 and 2006 (days/year) 50.80 48.23 48.01 57.97 Difference in skilled labor bet.2005 and 2006 (days/year) 13.92 15.09 20.77 10.66 Total labor in 2006 (hours/week) 0.09 0.09 0.09 0.09 Chores in 2006 (hours/week) 0.12 0.12 0.13 0.12 Farm work in 2006 (hours/week) 0.55 0.55 0.55 0.52 Skilled labor in 2006 (hours/week) 0.91 0.90 0.82 0.94 Number of observation 4087 3010 1013 1077 Mean Proportion of children with zero hours of work Table 5. Tobit Regression on Child Labor Hours: Separating Girls and Boys Program (T=1 if treated, 0 otherwise) Tobit coefficient -Latent child labor -1.417 *** -1.288 *** -1.107 *** 5.447 *** [0.519] [0.425] [0.397] [1.258] Marginal effect -Zero or positive child labor -1.212 *** -1.085 *** -0.456 *** 0.492 *** [0.446] [0.361] [0.169] [0.191] Marginal effect -Positive child labor -0.937 *** -0.829 *** -0.354 *** 0.878 *** [0.347] [0.277] [0.129] [0.099]</p><p xml:id="_j46bJYQ">Table 6. Tobit Regression on Child Labor Hours: Basic vs Business Grant Intervention Basic/training intervention (T 1 =1 if treated, 0 otherwise) Tobit coefficient -Latent child labor -2.119 *** -1.066 *** -1.673 *** 0.267 [0.420] [0.297] [0.457] [1.123] Marginal effect -Zero or positive child labor -1.757 *** -0.869 *** -0.720 *** 0.024 [0.347] [0.242] [0.196] [0.101] Marginal effect -Positive child labor -1.338 *** -0.652 *** -0.556 *** 0.043 [0.265] [0.182] [0.152] [0.179] Business grant intervention (T 2 =1 if treated, 0 otherwise) Tobit coefficient -Latent child labor -1.144 ** -1.210 *** -1.275 ** 8.976 *** [0.490] [0.332] [0.529] [1.113] Marginal effect -Zero or positive child labor -0.941 ** -0.974 *** -0.535 ** 1.003 *** [0.399] [0.262] [0.216] [0.156]  </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>(</head><figDesc xml:id="_qn5bzq5">control and treatment, and various sub-treatment packages) the team conducted two in-depth surveys; one prior to the start of the program in July 2005 (baseline survey) and another well into the program in September 2006 (follow-up survey). The baseline survey instrument contains eleven modules, and includes household and individual level questions. The follow-up survey includes the same set of questions as the baseline survey plus a set of new questions which focus on child labor to capture particular children's work in chores (e.g., wood and water gathering) and domestic work. The identification strategy of this evaluation relies on the randomized allocation of comparable communities and the random allocation of the program packages among households. The identification strategy allows us to explore whether the program led to changes in the amount of work and types of work activities performed by children between 8 and 15 years of age (at follow-up). The randomization results for a wide set of key variables across all eligible households with children (ages 7 through 14 in 2005) are presented in Table</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 3 . Full Tobit Regression on Child Labor Hours</head><label>3</label><figDesc xml:id="_jAKsh5e">Numbers in brackets are the corresponding robust standard errors.2. * significant at 10%; ** significant at 5%; *** significant at 1% 3. Child labor is measured in hours of work in the previous week.</figDesc><table><row><cell>Program (T=1 if treated, 0 otherwise) Age of child in 2006 Gender of child (boy=1, girl=0) in 2006 Household size in 2005 Education level of head in 2005 Age of head in 2005 Gender of household head in 2005 # of children under 5 years in 2005 # of children 5-14 years in 2005 # of children 15-24 years in 2005 Dist. in time to municipal hq in 2005 Dist. in time to primary school in 2005 Dist. in time to health center in 2005 Constant Observations Pseudo R-squared Notes: 1. Chores -1.789 *** -1.114 *** [0.401] [0.281] 1.632 *** 0.745 *** [0.087] [0.058] 0.263 -2.174 *** [0.334] [0.233] -0.539 ** -0.467 *** [0.239] [0.151] -0.409 ** -0.306 *** [0.174] [0.120] 0.061 *** 0.045 *** [0.019] [0.013] -0.364 -0.641 * [0.504] [0.349] 1.448 *** 1.134 *** [0.347] [0.239] 0.218 0.265 [0.298] [0.188] -0.125 0.149 [0.264] [0.172] -0.396 ** -0.180 [0.161] [0.120] 0.593 0.441 [0.584] [0.386] 0.220 0.328 ** [0.204] [0.152] -6.496 *** 0.366 [1.430] [0.957] 4087 4087 1.49% 1.29% Total labor hours</cell><cell>-1.539 *** [0.432] 1.474 *** [0.106] 4.204 *** [0.382] -0.067 [0.283] -0.231 [0.192] 0.021 [0.019] 1.300 ** [0.587] 0.172 [0.393] -0.270 [0.339] -0.475 [0.315] -0.320 [0.188] 0.927 [0.625] -0.323 [0.242] -19.418 *** [1.759] 4087 2.42% Farm work</cell><cell>4.194 *** [1.021] 1.323 *** [0.213] -2.988 *** [3.67] 0.178 [0.558] 0.517 [0.419] -0.007 [0.042] -0.093 [1.180] -0.260 [0.778] -1.248 * [0.710] -1.395 ** [0.662] 0.391 [0.408] -0.649 [1.545] -0.905 [0.522] -32.737 *** [4.157] 4087 2.15% Skilled labor</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 4 . Tobit Regression on Child Labor Hours: Overall Program Effect</head><label>4</label><figDesc xml:id="_dpMRbnz">Numbers in brackets are the corresponding robust standard errors.2. * significant at 10%; ** significant at 5%; *** significant at 1% 3. Child labor is measured in hours of work in the previous week.4. All the control variables in Table3are included but not reported.</figDesc><table><row><cell>Program (T=1 if treated, 0 otherwise) Tobit coefficient -Latent child labor Marginal effect -Zero or positive child labor Marginal effect -Positive child labor Observations Observations at child labor = 0 Log likelihood P-value likelihood ratio test 1 ) | * (      y     ) 0 , | ( y y  Notes: 1. Total labor hours -1.789 *** [0.401] -1.502 *** [0.339] -1.151 *** [0.262] 4087 372 -14411.445 0.000    ) 0 , | ( y y</cell><cell>-1.114 *** [0.281] -0.920 *** [0.234] -0.694 *** [0.178] 4087 488 -12759.893 0.000 Chores</cell><cell>-1.539 *** [0.432] -0.683 *** [0.197] -0.522 *** [0.150] 4087 2229 -8289.597 0.000 Farm work</cell><cell>4.194 *** [1.021] 0.331 *** [0.071] 0.649 *** [0.151] 4087 3713 -2288.063 0.000 Skilled labor</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 7 . Difference-in-Difference Regression on Child Labor Days: Overall Program Effect</head><label>7</label><figDesc xml:id="_c4Y7BEq">Numbers in brackets are the corresponding robust standard errors.2. * significant at 10%; ** significant at 5%; *** significant at 1% 3. Child labor is measured in days of work in the preceding year.4. All the control variables in Table3are included but not reported.</figDesc><table><row><cell>Program (T=1 if treated, 0 otherwise) Observations R-squared Notes: 1. Farm work -6.193 * -10.535 *** [3.713] [3.170] 4087 4087 0.03 0.03 Total labor days</cell><cell>4.342 ** [2.054] 4087 0.01 Skilled labor</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 8 . Difference-in-Difference Regression on Child Labor Days: Basic vs Business Grant Intervention</head><label>8</label><figDesc xml:id="_cgHses4">Numbers in brackets are the corresponding robust standard errors.2. * significant at 10%; ** significant at 5%; *** significant at 1% 3. Child labor is measured in days of work in the preceding year. 4. All the control variables in Table3are included but not reported.</figDesc><table><row><cell>Basic/training intervention (T 1 =1 if treated, 0 otherwise) Business grant intervention (T 2 =1 if treated, 0 otherwise) Observations R-squared Test p-value Notes: 1. Farm work -9.256 ** -10.632 *** [3.941] [3.341] -0.195 -10.345 *** [4.757] [3.932] 4087 4087 0.03 0.03 0.035 0.933 Total labor days 2 1   </cell><cell>1.376 [2.191] 10.150 *** [2.704] 4087 0.02 0.001 Skilled labor</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_0"><p xml:id="_ppsB6Zr">We follow the international labor office (ILO) definition for child labor, namely, any activity other than study or play that is remunerated or not for children 15 years or younger.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="3" xml:id="foot_1"><p xml:id="_XQsJTwE">As mentioned above (and again later on in the paper), we are not claiming that physical, farm labor does not engender skills for the child. It certainly does. What we want to emphasize is that, for these poor households, training in farm labor provides lower returns than training in secondary and tertiary activities, which are more closely connected to the modern, urban economy.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_2"><p xml:id="_rFQqk6X">From this point onwards in the paper, we use the terms -skilled labor‖ or -skill-forming labor‖ interchangeably, following a learning-by-doing notion.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="5" xml:id="foot_3"><p xml:id="_QeDxABs">The primary reasons why eligible households did not take up the project are out-migration and being made ineligible by local leaders. To avoid selection bias in the results we make all calculations based on intention to treat (those initially eligible) rather than actual treated.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="6" xml:id="foot_4"><p xml:id="_NQQJ9py">There were some cases where two small communities would serve as one (or be in one side of the pair); and they ended up being a control or treatment of a large one.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="7" xml:id="foot_5"><p xml:id="_cbTpNSb">Geographic maps were used to ensure that these were close to each other but sufficiently separate to ensure minimal spillover effects<ref type="bibr" target="#b25">(Macours and Vakis, 2009)</ref>.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="8" xml:id="foot_6"><p xml:id="_QchwZMs">Proxy means methodology involves using information on household characteristics representing welfare in order to proxy for household income/expenditure through the application of a formal algorithm. Characteristics such as demographic data, dwelling information, asset holdings, among others, are selected based on their ability to predict welfare as measured by household expenditure and income.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="9" xml:id="foot_7"><p xml:id="_e4DuJxy">In the case of distance to school, households in the control are 5 minutes further than households in the treatment, but this difference is unlikely to be affecting children's schooling, as shown by the variable that measures school attendance at baseline.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="10" xml:id="foot_8"><p xml:id="_73zstZG">The results in terms of sign and significance of the coefficients are robust to using Ordinary Least Squares, as well as to procedures that account for the potential influence of outliers. The sizes of the marginal effects are also similar between the Tobit and OLS regression procedures (as expected, seeGreene, 1990, p. 731). These results are not included in the paper but are available upon request.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="11" xml:id="foot_9"><p xml:id="_PU3tPyT">In heuristic terms, the Tobit coefficient does not provide a proper estimate of the marginal effect because child labor cannot be negative. The mass density at value zero does not represent censoring but an actual corner solution for child labor.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="12" xml:id="foot_10"><p xml:id="_edKQDUW">In the text, the marginal effect alluded to is the one allowing for zero and positive child labor (the first one in the table). This is the practice throughout the paper, unless otherwise noted.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="14" xml:id="foot_11"><p xml:id="_g5d64M6">As explained before, the business-grant intervention includes the basic cash transfer as well. We call it businessgrant intervention for short.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="15" xml:id="foot_12"><p xml:id="_Q5YZCqp">-Child labor days‖ is short for number of days during the preceding year that the child reports to have done any work outside the household, independently of the length of time actually worked.</p></note>
+		</body>
+		<back>
+
+			<div type="funding">
+<div xml:id="_DYDMmFb"><p xml:id="_QjrgC4A">the <rs type="institution">Family in Nicaragua</rs> (<rs type="person">Carol Herrera</rs> and <rs type="person">Teresa Suazo</rs>), the team from <rs type="institution">CIERUNIC</rs> (<rs type="person">Veronica Aguilera</rs>, <rs type="person">Enoe Moncada</rs>,</p></div>
+			</div>			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_JzeXgFC"><p xml:id="_6YkCpez">Going back to the full sample, what is behind the heterogeneity in the impact according to type of child labor? 13 In order to understand these heterogeneous effects, let's first consider the differences across the two interventions of which the CCT consisted. Table <ref type="table">6</ref> presents the results on hours of child labor when the beneficiaries of the CCT program are divided into those that received the basic intervention and those that obtained the business-grant intervention. 14   Regarding total labor hours (Col. 1), children in -basic‖ and -business‖ treated households appear to work, respectively, 1.8 and 0.9 hours less than those in control households. Furthermore, the difference in total labor hours between children in -basic‖ treated households and those in -business‖ treated households is large and statistically significant (see test at the bottom of the table).</p><p xml:id="_57rNeUm">So, children in households that received the additional grant seem to be working more.</p><p xml:id="_fwZjgmn">Why? The answer becomes evident once child labor is disaggregated (Cols. 2-4). There is no statistically significant difference in labor hours regarding household chores and farm work between children in -basic‖ and -business‖ households. However, this difference is large and statistically significant for skilled labor: children whose household benefited from the expanded, business grant appear to work 1 hour more in skill-forming activities than those who only received the basic grant. As mentioned before, the motivation behind the additional business grant was to help households diversify their economic activities away from merely farm work. It seems that a byproduct of the business grant was that households decided to involve their children in the new -often commercial and retail-activities encouraged by the grant.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_WQnYVKQ">Robustness: Treatment vs. Control Differences of Child Labor Days</head><p xml:id="_ha9pJuB">We now present the -dif-in-dif‖ exercises, which, as argued above, serve to check the robustness of the post-treatment level comparisons. Table <ref type="table">7</ref> shows the regression results on the difference -post minus pre treatment-of child labor days during the year preceding the 13 When the sample is stratified by gender, the results for boys and girls are qualitatively similar and correspond to the discussion for the full sample, presented in the text. If anything, the differences across boys and girls are analogous to those discussed in relation to table <ref type="table">R3</ref>: in treated households, boys reduce their farm work more than girls do, and girls increase their skilled labor more than boys do. For the interested reader, Appendix Table <ref type="table">1</ref> presents the results when the sample is stratified by gender. Observations 2015 2015 2015 2015 Observations at child labor = 0 166 210 1186 1796 Log likelihood -7023.944 -6499.077 -3463.366 -1290.456 P-value likelihood ratio test 0.000 0.000 0.000 0.000 Program (T=1 if treated, 0 otherwise) Tobit coefficient -Latent child labor -2.147 *** -0.889 ** -1.740 ** 2.708 * [0.614] [0.363] [0.726] [1.640] Marginal effect -Zero or positive child labor -1.773 *** -0.723 ** -0.845 ** 0.183 * [0.514] [0.299] [0.362] [0.102] Marginal effect -Positive child labor -1.352 *** -0.537 ** -0.633 ** 0.401 * [0.395] [0.223] [0.270] [0.236] Observations 2072 2072 2072 2072 Observations at child labor = 0 206 278 1043 1917 Log likelihood -7360.998 -6217.777 -4675.985 -989.316 P-value likelihood ratio test 0.000 0.000 0.000 0.001 Notes: 1. Numbers in brackets are the corresponding robust standard errors. 2. * significant at 10%; ** significant at 5%; *** significant at 1% 3. Child labor is measured in hours of work in the previous week. 4. All the control variables in Table 3 are included but not reported. Girls Chores Farm work Skilled labor Total labor hours Boys Total labor hours Chores Farm work Skilled labor 1 ) | * (      y     ) 0 , | ( y y     ) 0 , | ( y y 1 ) | * (      y     ) 0 , | ( y y     ) 0 , | ( y y Marginal effect -Positive child labor -0.714 ** -0.726 *** -0.416 ** 1.550 *** [0.302] [0.195] [0.170] [0.204] Test p-value 0.018 0.596 0.380 0.000 Observations 4087 4087 4087 4087 Observations at child labor = 0 372 488 2229 3713 Log likelihood -14408.650 -12759.766 -8289.219 -2240.865 P-value likelihood ratio test 0.000 0.000 0.000 0.000 Notes: 1. Numbers in brackets are the corresponding robust standard errors. 2. * significant at 10%; ** significant at 5%; *** significant at 1% 3. Child labor is measured in hours of work in the previous week. 4. All the control variables in Table 3 are included but not reported. Total labor hours Chores Farm work Skilled labor 1 1 ) | * (</p><formula xml:id="formula_25">     y 1 ) 0 , | (     y y 1 ) 0 , | (     y y 2 2 ) | * (      y 2 ) 0 , | (     y y 2 ) 0 , | (     y y 2 1    Appendix 1.</formula><p xml:id="_bpDYTyq">Tobit Regression on Child Labor Hours: Separating Girls and Boys and Considering the Two Different Intervention Basic/training intervention (T 1 =1 if treated, 0 otherwise) Tobit coefficient -Latent child labor -1.698 *** -1.210 *** -1.207 *** 2.311 * -2.520 *** -0.887 ** -1.929 ** -2.506 [0.548] [0.451] [0.424] [1.346] [0.640] [0.383] [0.762] [1.861] Marginal effect -Zero or positive child labor -1.438 *** -1.007 *** -0.479 *** 0.253 * -2.053 -0.714 ** -0.911 ** -0.176 [0.462] [0.374] [0.168] [0.153] [0.520] [0.309] [0.360] [0.128] Marginal effect -Positive child labor -1.106 *** -0.765 *** -0.377 *** 0.393 * -1.554 -0.527 ** -0.687 ** -0.370 [0.355] [0.284] [0.132] [0.230] [0.395] [0.228] [0.272] [0.274] Business grant intervention (T 2 =1 if treated, 0 otherwise) Tobit coefficient -Latent child labor -0.880 -1.437 *** -0.914 * 9.475 *** -1.399 * -0.892 ** -1.367 8.519 *** [0.634] [0.501] [0.501] [1.428] [0.748] [0.427] [0.878] [1.732] Marginal effect -Zero or positive child labor -0.741 -1.181 *** -0.353 * 1.311 *** -1.127 -0.709 ** -0.631 0.742 *** [0.530] [0.405] [0.187] [0.252] [0.596] [0.335] [0.397] [0.183] Marginal effect -Positive child labor -0.568 -0.891 *** -0.280 * 1.765 *** -0.850 -0.521 ** -0.479 1.354 *** [0.405] [0.304] [0.151] [0.286] [0.448] [0.245] [0.303] [0.290] Test p-value 0.132 0.586 0.520 0.000 0.067 0.989 0.439 0.000 Observations 2015 2015 2015 2015 2072 2072 2072 2072 Observations at child labor = 0 166 210 1186 1796 206 278 1043 1917 Log likelihood -7022.833 -6498.945 -3463.154 -1270.676 -7359.320 -6217.777 -4675.693 -960.245 P-value likelihood ratio test 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 Notes: 1. Numbers in brackets are the corresponding robust standard errors. 2. * significant at 10%; ** significant at 5%; *** significant at 1% 3. Child labor is measured in hours of work in the previous week. 4. All the control variables in Table 3 are included but not reported. Skilled labor Girls Total labor hours Chores Farm work Skilled labor Boys Total labor hours Chores Farm work 1 1 ) | * (      y 1 ) 0 , | (     y y 1 ) 0 , | (     y y 2 1    2 2 ) | * (      y 2 ) 0 , | (     y y 2 ) 0 , | (     y y</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><figDesc xml:id="_jgXgHnY">Dar, A., N. Blunch, B. Kim and M. Sasaki. (2002). -Participation of Children in Schooling and Labor Activities: A Review of Empirical Studies.‖ Social Protection Discussion Paper No. 0221, World Bank, Washington, DC. Dehejia, R. H. and R. Gatti. (2005). -Child Labor: The Role of Financial Development and Income Variability across Countries.‖ Economic Development and Cultural Change 53(4): 913-932. Del Carpio, X. (2007). -Voices of Nicaragua, a Qualitative and Quantitative Approach to Viewing Poverty in Nicaragua.‖ In chapter 2, Nicaragua Poverty Assessment, Report No. 39736, World Bank, Washington, DC.</figDesc></figure>
+			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main" xml:id="_D3S2tt4">Child Education and Work Choices in the Presence of a Conditional Cash Transfer Program in Rural Colombia</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Attanasio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Fitzsimons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gomez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Lopez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Meghir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mesnard</surname></persName>
+		</author>
+		<idno>06/13</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_FQPYXcE">The Institute for Fiscal Studies Working Paper</title>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main" xml:id="_mX7zeQr">-Is Child Labor Inefficient?</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Baland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Robinson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_yuJTSBV">Journal of Political Economy</title>
+		<imprint>
+			<biblScope unit="volume">108</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="663" to="679" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main" xml:id="_9FMy86r">The Economics of Child Labor: Reply</title>
+		<author>
+			<persName><forename type="first">Kaushik</forename><surname>Basu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pham</forename><forename type="middle">Hoang</forename><surname>Van</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/aer.89.5.1386</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_efb5uky">American Economic Review</title>
+		<title level="j" type="abbrev">American Economic Review</title>
+		<idno type="ISSN">0002-8282</idno>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1386" to="1388" />
+			<date type="published" when="1998">1998</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main" xml:id="_FfftmhW">Child labor and household wealth: Theory and empirical evidence of an inverted-U</title>
+		<author>
+			<persName><forename type="first">Kaushik</forename><surname>Basu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sanghamitra</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bhaskar</forename><surname>Dutta</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jdeveco.2009.01.006</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_5T22a8u">Journal of Development Economics</title>
+		<title level="j" type="abbrev">Journal of Development Economics</title>
+		<idno type="ISSN">0304-3878</idno>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="8" to="14" />
+			<date type="published" when="2010-01">2010</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main" xml:id="_5QQ5eDj">On the Interaction between the Quantity and Quality of Children</title>
+		<author>
+			<persName><forename type="first">Gary</forename><forename type="middle">S</forename><surname>Becker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">Gregg</forename><surname>Lewis</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/260166</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_cxBp6sZ">Journal of Political Economy</title>
+		<title level="j" type="abbrev">Journal of Political Economy</title>
+		<idno type="ISSN">0022-3808</idno>
+		<idno type="ISSNe">1537-534X</idno>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="issue">2, Part 2</biblScope>
+			<biblScope unit="page" from="S279" to="S288" />
+			<date type="published" when="1973-03">1973</date>
+			<publisher>University of Chicago Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main" xml:id="_7WXtrKd">Why Should We Care About Child Labor?: The Education, Labor Market, and Health Consequences of Child Labor</title>
+		<author>
+			<persName><forename type="first">Kathleen</forename><surname>Beegle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rajeev</forename><surname>Dehejia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Roberta</forename><surname>Gatti</surname></persName>
+		</author>
+		<idno type="DOI">10.1353/jhr.2009.0025</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_YtpGRf4">Journal of Human Resources</title>
+		<title level="j" type="abbrev">Journal of Human Resources</title>
+		<idno type="ISSNe">1548-8004</idno>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="871" to="889" />
+			<date type="published" when="2009">2009</date>
+			<publisher>University of Wisconsin Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main" xml:id="_kPmRqqk">Child Farm Labor: The Wealth Paradox</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bhalotra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Heady</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/wber/lhg017</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Bdnm6PJ">The World Bank Economic Review</title>
+		<title level="j" type="abbrev">The World Bank Economic Review</title>
+		<idno type="ISSNe">1564-698X</idno>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="197" to="227" />
+			<date type="published" when="2003-12-01">2003</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main" xml:id="_5Xxagfu">Child Labor in Urban Bolivia</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Cartwright</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Patrinos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_KH4e9nt">The Policy Analysis of Child Labor: A Comparative Study</title>
+		<editor>
+			<persName><forename type="first">C</forename><surname>Grootaert</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">H</forename><surname>Patrinos</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>St. Martin&apos;s Press</publisher>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main" xml:id="_RRms4My">Heterogeneous Impacts of Conditional Cash Transfers: Evidence from Nicaragua</title>
+		<author>
+			<persName><forename type="first">Ana</forename><forename type="middle">C</forename><surname>Dammert</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/605205</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_GrFVTkr">Economic Development and Cultural Change</title>
+		<title level="j" type="abbrev">Economic Development and Cultural Change</title>
+		<idno type="ISSN">0013-0079</idno>
+		<idno type="ISSNe">1539-2988</idno>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="53" to="83" />
+			<date type="published" when="2009-10">2009</date>
+			<publisher>University of Chicago Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main" xml:id="_yY7Yskb">Leveling the intra-household playing field: compensation and specialization in child labor allocation</title>
+		<author>
+			<persName><forename type="first">Ximena</forename><forename type="middle">V</forename><surname>Del Carpio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Karen</forename><surname>Macours</surname></persName>
+		</author>
+		<idno type="DOI">10.1108/s0147-9121(2010)0000031012</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_7AwfJn8">Research in Labor Economics</title>
+		<imprint>
+			<publisher>Emerald Group Publishing Limited</publisher>
+			<date type="published" when="2010-01">2010</date>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="259" to="295" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b10">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K Q</forename><surname>Akee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">V</forename><surname>Edmonds</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Tatsiramos</surname></persName>
+		</author>
+		<imprint>
+			<publisher>Emerald Group Publishing Limited</publisher>
+			<biblScope unit="page" from="259" to="295" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main" xml:id="_xJ2fggu">A TEST OF HETEROGENEITY OF FAMILY AND HIRED LABOUR IN ASIAN AGRICULTURE</title>
+		<author>
+			<persName><forename type="first">Anil</forename><forename type="middle">B</forename><surname>Deolalikar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wim</forename><forename type="middle">P M</forename><surname>Vijverberg</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1468-0084.1987.mp49003003.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Srem9f6">Oxford Bulletin of Economics and Statistics</title>
+		<title level="j" type="abbrev">Oxf Bull Econ Stat</title>
+		<idno type="ISSN">0305-9049</idno>
+		<idno type="ISSNe">1468-0084</idno>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="291" to="305" />
+			<date type="published" when="1987-08">1987</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main" xml:id="_tK39vur">Chapter 61 Using Randomization in Development Economics Research: A Toolkit</title>
+		<author>
+			<persName><forename type="first">Esther</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rachel</forename><surname>Glennerster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Kremer</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s1573-4471(07)04061-2</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_m6Z5THY">Handbook of Development Economics</title>
+		<imprint>
+			<publisher>Elsevier</publisher>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="3895" to="3962" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main" xml:id="_qEy56zx">Does Child Labor Decline with Improving Economic Status?</title>
+		<author>
+			<persName><forename type="first">Eric</forename><forename type="middle">V</forename><surname>Edmonds</surname></persName>
+		</author>
+		<idno type="DOI">10.3368/jhr.xl.1.77</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_NVu5wuN">Journal of Human Resources</title>
+		<title level="j" type="abbrev">J. Human Resources</title>
+		<idno type="ISSN">0022-166X</idno>
+		<idno type="ISSNe">1548-8004</idno>
+		<imprint>
+			<biblScope unit="volume">XL</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="77" to="99" />
+			<date type="published" when="2005">2005</date>
+			<publisher>University of Wisconsin Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main" xml:id="_GvaT6AM">Understanding Sibling Differences in Child Labor</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Edmonds</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_vcdTcdp">Journal of Population Economics</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="795" to="821" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main" xml:id="_yn8C2SZ">Chapter 57 Child Labor</title>
+		<author>
+			<persName><forename type="first">Eric</forename><forename type="middle">V</forename><surname>Edmonds</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s1573-4471(07)04057-0</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_3wHHHpc">Handbook of Development Economics</title>
+		<imprint>
+			<publisher>Elsevier</publisher>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="3607" to="3709" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main" xml:id="_sKnRzHZ">Economic Growth, Poverty, and Household Welfare in Vietnam</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Edmonds</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Turk</surname></persName>
+		</author>
+		<idno type="DOI">10.1596/0-8213-5543-0</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_eTFQbYa">Economic Growth, Poverty and Household Welfare: Policy Lessons from Viet Nam</title>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Glewwe</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">N</forename><surname>Agrawal</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Dollar</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Washington, DC</addrLine></address></meeting>
+		<imprint>
+			<publisher>The World Bank</publisher>
+			<date type="published" when="2004-04">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main" xml:id="_cXCe5rv">Child Labor, School Attendance, and Intrahousehold Gender Bias in Brazil</title>
+		<author>
+			<persName><forename type="first">Patrick</forename><forename type="middle">M</forename><surname>Emerson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">André</forename><forename type="middle">Portela</forename><surname>Souza</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/wber/lhm001</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_bkE3pbe">The World Bank Economic Review</title>
+		<idno type="ISSN">0258-6770</idno>
+		<idno type="ISSNe">1564-698X</idno>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="301" to="316" />
+			<date type="published" when="2007-01-01">2007</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b18">
+	<analytic>
+		<title level="a" type="main" xml:id="_BKJRJ38">A Test for Moral Hazard in the Labor Market: Contractual Arrangements, Effort, and Health</title>
+		<author>
+			<persName><forename type="first">Andrew</forename><forename type="middle">D</forename><surname>Foster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mark</forename><forename type="middle">R</forename><surname>Rosenzweig</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/2109876</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_z8CnDgy">The Review of Economics and Statistics</title>
+		<title level="j" type="abbrev">The Review of Economics and Statistics</title>
+		<idno type="ISSN">0034-6535</idno>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">213</biblScope>
+			<date type="published" when="1994-05">1994</date>
+			<publisher>JSTOR</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b19">
+	<monogr>
+		<title level="m" type="main" xml:id="_N8qcsYn">Evaluating of the Impact of Conditional Cash Transfer on Schooling: An Experimental Analysis of Honduras PRAF Program</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Glewwe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Olinto</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Final Report for USAID</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main" xml:id="_5zvdyjg">Child Labor: An Economic Perspective</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Grootaert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kanbur</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_CEM5bJK">‖ International Labor Review</title>
+		<imprint>
+			<biblScope unit="volume">134</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="187" to="203" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main" xml:id="_VKCj6Fw">Teaching Entrepreneurship: Impact of Business Training on Microfinance Clients and Institutions</title>
+		<author>
+			<persName><forename type="first">Dean</forename><surname>Karlan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Martin</forename><surname>Valdivia</surname></persName>
+		</author>
+		<idno type="DOI">10.1162/rest_a_00074</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_86kHDEr">Review of Economics and Statistics</title>
+		<title level="j" type="abbrev">Review of Economics and Statistics</title>
+		<idno type="ISSN">0034-6535</idno>
+		<idno type="ISSNe">1530-9142</idno>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="510" to="527" />
+			<date type="published" when="2011-05">2011</date>
+			<publisher>MIT Press - Journals</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main" xml:id="_8MH9VFg">How Households Economic Opportunity Affect Child Labor and Schooling in Nicaragua: Differential Effects by Gender</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kruger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Berthelon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_UZNq6H3">The Georgetown Public Policy Review</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="16" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main" xml:id="_S9AehVd">Household Choices of Child Labor and Schooling: A Simple Model With Application to Brazil</title>
+		<author>
+			<persName><forename type="first">Diana</forename><forename type="middle">I</forename><surname>Kruger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rodrigo</forename><forename type="middle">R</forename><surname>Soares</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Matias</forename><surname>Berthelon</surname></persName>
+		</author>
+		<idno type="DOI">10.2139/ssrn.986348</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_TfgujQ7">SSRN Electronic Journal</title>
+		<title level="j" type="abbrev">SSRN Journal</title>
+		<idno type="ISSNe">1556-5068</idno>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b24">
+	<analytic>
+		<title level="a" type="main" xml:id="_2RwDVj5">Weather Risk Management Pilot Program : Tanzania</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Macours</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Vakis</surname></persName>
+		</author>
+		<idno type="DOI">10.1596/12742</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_QScy3Vz">Weather Risk and Poverty in Nicaragua: Expanding Risk Management Options for the Poor: Pilot Program Objectives and Impact Evaluation Design</title>
+		<imprint>
+			<publisher>Washington, DC</publisher>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b25">
+	<monogr>
+		<title level="m" type="main" xml:id="_2AwaxJX">Changing Households&apos; Investments and Aspirations through Social Interactions: Evidence from a Randomized Transfer Program</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Macours</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Vakis</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>World Bank</publisher>
+			<pubPlace>Washington, DC</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Policy Research Working Paper 5137</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b26">
+	<monogr>
+		<title level="m" type="main" xml:id="_PruN5P6">Impact Evaluation of a Conditional Cash Transfer Program: The Nicaraguan Red de Protection Social</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Maluccio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Flores</surname></persName>
+		</author>
+		<idno>No. 184</idno>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<pubPlace>Washington, DC</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>International Food Policy Research Institute</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">IFPRI FCND Discussion Paper</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b27">
+	<analytic>
+		<title level="a" type="main" xml:id="_pVzTYv3">PARENTAL ALTRUISM AND SELF‐INTEREST: CHILD LABOR AMONG LATE NINETEENTH‐CENTURY AMERICAN FAMILIES</title>
+		<author>
+			<persName><forename type="first">Donald</forename><forename type="middle">O</forename><surname>Parsons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Claudia</forename><surname>Goldin</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1465-7295.1989.tb00794.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_9YqbQTn">Economic Inquiry</title>
+		<title level="j" type="abbrev">Economic Inquiry</title>
+		<idno type="ISSN">0095-2583</idno>
+		<idno type="ISSNe">1465-7295</idno>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="637" to="659" />
+			<date type="published" when="1989-10">1989</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b28">
+	<analytic>
+		<title level="a" type="main" xml:id="_U4XZdHF">-Family Size, Schooling and Child Labor in Peru -An Empirical Analysis</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Patrinos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Psacharopoulos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_DRBGuRN">Journal of Population Economics</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="387" to="406" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b29">
+	<analytic>
+		<title level="a" type="main" xml:id="_NKZSyDu">The Causal Effect of Family Size in Child Labor and Education</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Ponczek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">Portela</forename><surname>Souza</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_kB5TJUb">Textos Para Discussão</title>
+		<meeting><address><addrLine>Brazil</addrLine></address></meeting>
+		<imprint>
+			<publisher>Escola de Economia de São Paulo, Getulio Vargas Foundation</publisher>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="volume">162</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b30">
+	<analytic>
+		<title level="a" type="main" xml:id="_CXJ3HED">Banning Harmful Child Labor: A Labor Market and Welfare Analysis</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Raju</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Mimeo Ranjan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_65De6DG">Journal of Development Economics</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="81" to="102" />
+			<date type="published" when="2001">2005. 2001</date>
+		</imprint>
+	</monogr>
+	<note>Credit Constraints and the Phenomenon of Child Labor</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b31">
+	<analytic>
+		<title level="a" type="main" xml:id="_cMTg3wb">Does Child Labour Displace Schooling? Evidence on Behavioural Responses to an Enrollment Subsidy</title>
+		<author>
+			<persName><forename type="first">Martin</forename><surname>Ravallion</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Quentin</forename><surname>Wodon</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/1468-0297.00527</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_kD2jvKA">The Economic Journal</title>
+		<idno type="ISSN">0013-0133</idno>
+		<idno type="ISSNe">1468-0297</idno>
+		<imprint>
+			<biblScope unit="volume">110</biblScope>
+			<biblScope unit="issue">462</biblScope>
+			<biblScope unit="page" from="C158" to="C175" />
+			<date type="published" when="2000-03-01">2000</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b32">
+	<analytic>
+		<title level="a" type="main" xml:id="_J5guYxw">A Theory of Exploitative Child Labor</title>
+		<author>
+			<persName><forename type="first">Carol</forename><forename type="middle">Ann</forename><surname>Rogers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kenneth</forename><forename type="middle">A</forename><surname>Swinnerton</surname></persName>
+		</author>
+		<idno type="DOI">10.2139/ssrn.419464</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Qv75KBt">SSRN Electronic Journal</title>
+		<title level="j" type="abbrev">SSRN Journal</title>
+		<idno type="ISSNe">1556-5068</idno>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b33">
+	<analytic>
+		<title level="a" type="main" xml:id="_WrAf2e8">Does Child Labor Decrease When Parental Incomes Rise?</title>
+		<author>
+			<persName><forename type="first">Carol</forename><forename type="middle">Ann</forename><surname>Rogers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kenneth</forename><forename type="middle">A</forename><surname>Swinnerton</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/421175</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_sUpdCFD">Journal of Political Economy</title>
+		<title level="j" type="abbrev">Journal of Political Economy</title>
+		<idno type="ISSN">0022-3808</idno>
+		<idno type="ISSNe">1537-534X</idno>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="939" to="946" />
+			<date type="published" when="2004-08">2004</date>
+			<publisher>University of Chicago Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b34">
+	<analytic>
+		<title level="a" type="main" xml:id="_qFvtdf5">Conditional Cash Transfers and Their Impact on Child Work and Schooling: Evidence from the PROGRESA Program in Mexico</title>
+		<author>
+			<persName><forename type="first">Emmanuel</forename><surname>Skoufias</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Susan</forename><forename type="middle">Wendy</forename><surname>Parker</surname></persName>
+		</author>
+		<idno type="DOI">10.1353/eco.2001.0016</idno>
+		<idno>No. 123</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_FFeyhxJ">Economía</title>
+		<title level="j" type="abbrev">Economía</title>
+		<idno type="ISSNe">1533-6239</idno>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="45" to="86" />
+			<date type="published" when="2001">2001</date>
+			<publisher>Project MUSE</publisher>
+			<pubPlace>Washington, DC</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>International Food Policy Research Institute</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">IFPRI FCND Discussion Paper</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b35">
+	<analytic>
+		<title level="a" type="main" xml:id="_cs8AGhs">The Economics of Child Labor: Comment</title>
+		<author>
+			<persName><forename type="first">Kenneth</forename><forename type="middle">A</forename><surname>Swinnerton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Carol</forename><forename type="middle">Ann</forename><surname>Rogers</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/aer.89.5.1382</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Sngc8py">American Economic Review</title>
+		<title level="j" type="abbrev">American Economic Review</title>
+		<idno type="ISSN">0002-8282</idno>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1382" to="1385" />
+			<date type="published" when="1999-12-01">1999</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b36">
+	<monogr>
+		<title level="m" type="main" xml:id="_5sEUQy4">Econometric Analysis of Cross Section and Panel Data</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Wooldridge</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<publisher>The MIT Press</publisher>
+			<pubPlace>Cambridge, MA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

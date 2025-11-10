@@ -1,0 +1,2432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" xml:id="_VV4E5VM">Pathways to stronger futures? The role of social protection in reducing psychological risk factors for child development in Haiti</title>
+				<funder>
+					<orgName type="full">W.K. Kellogg Foundation</orgName>
+				</funder>
+				<funder ref="#_K654gte">
+					<orgName type="full">British Academy</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2021-02-23">23 February 2021</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Keetie</forename><surname>Roelen</surname></persName>
+							<email>k.roelen@ids.ac.uk</email>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Development Studies</orgName>
+								<orgName type="institution">University of Sussex</orgName>
+								<address>
+									<addrLine>Library Road</addrLine>
+									<postCode>BN1 9RE</postCode>
+									<settlement>Brighton</settlement>
+									<country key="GB">United Kingdom</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Amrita</forename><surname>Saha</surname></persName>
+							<email>a.saha@ids.ac.uk</email>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Development Studies</orgName>
+								<orgName type="institution">University of Sussex</orgName>
+								<address>
+									<addrLine>Library Road</addrLine>
+									<postCode>BN1 9RE</postCode>
+									<settlement>Brighton</settlement>
+									<country key="GB">United Kingdom</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main" xml:id="_Wbvu6jA">Pathways to stronger futures? The role of social protection in reducing psychological risk factors for child development in Haiti</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main" xml:id="_6v6Wv9k">World Development</title>
+						<title level="j" type="abbrev">World Development</title>
+						<idno type="ISSN">0305-750X</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">142</biblScope>
+							<biblScope unit="page">105423</biblScope>
+							<date type="published" when="2021-02-23">23 February 2021</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">633592978CEE7CE8844A5F9A5A50B376</idno>
+					<idno type="DOI">10.1016/j.worlddev.2021.105423</idno>
+					<note type="submission">Accepted 26 January 2021</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2025-11-04T18:02+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a292bac</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=1, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=true, generateTeiCoordinates=[true], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords xml:id="_jVvccjF">Social protection Anti-poverty interventions Early childhood development ECD Mental health Caribbean Haiti Evaluation Mixed methods</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_UWprrQj"><p xml:id="_xJGT9Ys">It is widely recognised that poverty undermines early childhood development (ECD). In turn, poor childhood development reinforces the intergenerational transmission of poverty. Social protection could break this negative cycle by reducing poverty and addressing biological and psychosocial risk factors. In this study, we examine the effects of a relatively new wave of social protection and anti-poverty interventions -so-called 'graduation programmes' -on psychosocial risk factors in a context of widespread poverty and poor outcomes for children in rural Haiti. Using a mixed-methods approach, we find positive effects on maternal mental health and on children's exposure to harsh corporal punishment. We find no discernible impact on exposure to violence inside and outside of the home, attitudes to child disciplining practices or child stimulation practices. Greater ability to meet children's basic needs and positive support from programme staff contribute to positive effects. The ubiquity of violence, notions of play being replaced with a focus on discipline as babies turn toddlers and women struggling to combine child care with paid work and domestic chores serve as explanations for lack of impact. Findings point to the potential and limitations of social protection and anti-poverty interventions to address pernicious issues such as poor ECD outcomes and highlight the importance of a multi-sectoral approach.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="10" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="11" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="12" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1." xml:id="_CTnDvQV">Introduction</head><p xml:id="_MmzWx9p">Early childhood represents both a risky stage in life and a window of opportunity. Challenges such as poverty, nutritional deficiencies and lack of learning limit biological and cognitive development and deny children of their developmental potential <ref type="bibr" target="#b73">(Walker et al., 2007</ref><ref type="bibr" target="#b72">(Walker et al., , 2011))</ref>. This, in turn, keeps people locked into poverty <ref type="bibr" target="#b72">(Walker et al., 2011)</ref>. Improving children's lives in their early years is not only crucial for breaking intergenerational cycles of poverty, early childhood is also the most efficient and costeffective time in the life cycle during which to intervene <ref type="bibr" target="#b27">(Engle et al., 2011)</ref>. Despite the importance of getting early childhood development (ECD) right, it is estimated that more than 250 million children under five years of age in low-and middle-income countries are at risk of not achieving their full potential <ref type="bibr" target="#b11">(Black et al., 2017)</ref> Recent years have seen renewed impetus into the search for innovative solutions to improve ECD <ref type="bibr" target="#b12">(Britto et al., 2017;</ref><ref type="bibr" target="#b55">Richter et al., 2017)</ref>. In the past, suggestions for policy options focused primarily on child development-focused interventions, such as par-enting programmes and child-care centres <ref type="bibr" target="#b26">(Engle et al., 2007</ref><ref type="bibr" target="#b27">(Engle et al., , 2011))</ref>. Many of such interventions have led to positive impacts <ref type="bibr" target="#b17">(Daelmans et al., 2015;</ref><ref type="bibr" target="#b25">Edmond et al., 2019)</ref>, particularly when delivered in an integrated fashion such as in India <ref type="bibr" target="#b71">(Vikram &amp; Chindarkar, 2020)</ref> and Colombia <ref type="bibr" target="#b10">(Bernal &amp; Ramírez, 2019)</ref>.</p><p xml:id="_H2eBP74">More recently, the importance of social protection is increasingly emphasised as part of responding to children's needs in a holistic manner <ref type="bibr" target="#b55">(Richter et al., 2017)</ref>. Interventions that aim to reduce poverty and to support child development more broadly by combining economic support with complementary services (such as conditional cash transfers) can secure a nurturing and enabling environment for children <ref type="bibr" target="#b11">(Black et al., 2017)</ref>. More generally, anti-poverty interventions may help to counteract biological and psychosocial risk factors, including undernutrition, maternal depression, poor caregiver-child relationships and violence <ref type="bibr" target="#b26">(Engle et al., 2007;</ref><ref type="bibr" target="#b73">Walker et al., 2007</ref><ref type="bibr" target="#b72">Walker et al., , 2011))</ref>.</p><p xml:id="_dT9rams">So-called 'graduation' programmes constitute a relatively new wave of comprehensive social protection and anti-poverty programming. Their rationale is grounded in asset accumulation theory and the notion that people living in extreme poverty require a big push into a positively reinforcing cycle of economic advancement <ref type="bibr" target="#b15">(Carter &amp; Barrett, 2007</ref><ref type="bibr" target="#b34">, Hashemi &amp; Umaira, 2011)</ref> to ultimately 'graduate' out of poverty <ref type="bibr" target="#b22">(Devereux &amp; Sabates-Wheeler, 2015)</ref>. Programmes provide a comprehensive mix of sequenced support, commonly including consumption support, asset transfers, access to savings and credit, training and coaching and mentoring <ref type="bibr" target="#b2">(Arévalo et al., 2018)</ref>. Objectives are primarily focused on economic strengthening but can also include advancement of human capital, such as by including behaviour change communication in relation to dietary and sanitary practices <ref type="bibr" target="#b58">(Roelen, Sherer, &amp; Leon-Himmelstine, 2020)</ref>. The multifaceted nature of 'graduation' programmes and their explicit focus on weaning people off support in the short-to medium-term sets them apart from other antipoverty interventions. Conditional or unconditional cash transfers, for example, provide narrower support and aim to move people away from programme support in the long term, if at all.</p><p xml:id="_zZsW8hr">Rigorous and cross-country evaluations of graduation programmes showcase positive impacts on consumption, assets and food security <ref type="bibr" target="#b6">(Banerjee et al., 2015)</ref>. However, evidence with respect to outcomes of risk factors for child development is limited <ref type="bibr" target="#b58">(Roelen, Sherer, &amp; Leon-Himmelstine, 2020)</ref>. Studies provide testimony to positive effects on intermediate outcomes in nutrition and health (ibid), such as food security <ref type="bibr" target="#b5">(Banerjee et al., 2011</ref><ref type="bibr" target="#b6">(Banerjee et al., , 2015))</ref>, dietary diversity <ref type="bibr" target="#b21">(Devereux et al., 2019)</ref>, immunisation <ref type="bibr" target="#b33">(Harhay et al., 2017)</ref> and health-seeking behaviour <ref type="bibr" target="#b23">(Devereux &amp; Sabates, 2016)</ref>. Despite strong associations between poverty, psychosocial factors and parenting practices <ref type="bibr" target="#b73">(Walker et al., 2007)</ref>, the effect of graduation programmes on psychosocial risk factors, such as maternal mental health, cognitive stimulation and exposure of violence, is far less understood.</p><p xml:id="_hmB5XgM">Using a mixed methods approach, this study adds to the literature by investigating the impact of a graduation programme on psychosocial risk factors underpinning ECD, and by exploring mediators that can explain (lack of) impact. Quantitative analysis is premised on quasi-experimental design that combines propensity score matching (PSM) and difference-in-differences (d-i-d) methods to estimate treatment effects. Qualitative data analysis is centred on in-depth case studies in combination with interviews and group discussions to unpack drivers and dynamics of change. We do so in a context of widespread and deep poverty in rural Haiti with large risks to child development. Findings of this study contribute to wider understandings of how comprehensive social protection and anti-poverty interventions may improve ECD and ultimately break the intergenerational cycle of poverty.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2." xml:id="_Yq33jQu">Poverty, psychosocial risk factors and graduation programmes</head><p xml:id="_wd4CTYD">Psychosocial risks that hamper child development derive directly from parenting practices as well as from the broader context in which parenting takes place <ref type="bibr" target="#b73">(Walker et al., 2007</ref><ref type="bibr" target="#b72">(Walker et al., , 2011))</ref>. Cognitive stimulation and caregiver responsiveness are crucial components of child-rearing to stimulate children's cognitive and social-emotional competence <ref type="bibr" target="#b54">(Rao et al., 2017)</ref>. Beyond the childcaregiver dyad, maternal depression and exposure to violence may hamper child development <ref type="bibr" target="#b67">(Surkan et al., 2011;</ref><ref type="bibr" target="#b46">Mueller &amp; Tronick, 2019)</ref>. Living in poverty is strongly associated with the occurrence of these psychosocial risks <ref type="bibr" target="#b31">(Grantham-McGregor et al., 2007)</ref>.</p><p xml:id="_twmnQhc">Despite strong evidence on linkages between poverty and poor child development outcomes, how and whether economic strengthening translates into positive outcomes for children is relatively poorly understood <ref type="bibr" target="#b66">(Ssewamala et al., 2014)</ref>. While various evaluations attest to graduation programmes' positive effects in areas of health and nutrition, research in relation to psychosocial risk factors is very limited <ref type="bibr" target="#b58">(Roelen, Sherer, &amp; Leon-Himmelstine, 2020)</ref>. We draw on the wider evidence base on the impact of cash transfers and economic empowerment interventions to glean insights into how graduation programmes may affect three vital psychosocial risk factors, namely maternal mental health, exposure to violence and cognitive stimulation <ref type="bibr" target="#b73">(Walker et al., 2007)</ref>.</p><p xml:id="_SvBb3PU">Poverty and mental health issues represent a mutually reinforcing negative cycle <ref type="bibr" target="#b44">(Lund et al., 2011)</ref>. Poverty increases stress, both as a result of greater exposure to stressful events and limited ability to cope with such events <ref type="bibr" target="#b36">(Hjelm et al., 2017)</ref>. Evaluations provide a mixed picture of the potential for cash transfer schemes in improving mental health. In Zambia, unconditional cash transfers did not reduce perceived stress <ref type="bibr" target="#b36">(Hjelm et al., 2017)</ref>. Similarly, a cash transfer programme in Ecuador did not reduce maternal depression <ref type="bibr" target="#b50">(Paxson &amp; Schady, 2010)</ref> and a programme in Nicaragua only led to marginal improvements in comparison to the control group <ref type="bibr" target="#b45">(Macours et al., 2012)</ref>. However, interventions providing unconditional support in Kenya, Malawi and South Africa resulted in improved mental health outcomes <ref type="bibr" target="#b4">(Baird et al., 2013;</ref><ref type="bibr" target="#b35">Haushofer &amp; Shapiro, 2016;</ref><ref type="bibr" target="#b1">Angeles et al., 2019)</ref>. Another study in South Africa found that cash transfers can break the intergenerational transmission of poor mental health <ref type="bibr" target="#b28">(Eyal &amp; Burns, 2019)</ref>. Positive effects are often mediated through reductions in poverty-induced stress <ref type="bibr" target="#b35">(Haushofer &amp; Shapiro, 2016;</ref><ref type="bibr" target="#b36">Hjelm et al., 2017)</ref>. In India, cash transfers reduced occurrence of maternal depression as a result of cash transfers was explained by lower levels of debt associated with delivery care <ref type="bibr" target="#b52">(Powell-Jackson et al., 2016)</ref>.</p><p xml:id="_H7Z3uJZ">Emerging evidence on economic strengthening interventions points to the potential of graduation programmes for improving maternal mental health. In Uganda, family-based asset-and savings-based interventions reduced depressive symptoms and hopelessness among adolescents <ref type="bibr" target="#b32">(Han et al., 2013;</ref><ref type="bibr" target="#b43">Kivumbi et al., 2019)</ref>. Poverty-reduced stress and collaboration at family level in making savings and investment decisions were deemed two important pathways to improved mental health outcomes <ref type="bibr" target="#b43">(Kivumbi et al., 2019)</ref>. A multi-country evaluation of graduation programmes also found a positive impact on mental health, including reduced stress, at the end of programme implementation <ref type="bibr" target="#b6">(Banerjee et al., 2015)</ref>. A mixed methods study in Burundi found that regular home visits by dedicated case managers contributed to feelings of confidence in the future <ref type="bibr">(Roelen &amp; Devereux, 2019)</ref>.</p><p xml:id="_Udv8JKS">Exposure to violence and other child protection violations is highly associated with poverty <ref type="bibr" target="#b7">(Barrientos et al., 2014;</ref><ref type="bibr" target="#b51">Peterman et al., 2017)</ref>. Various studies suggest that cash transfers can reduce the occurrence of domestic and intimate partner violence (IPV), and thereby young children's exposure to violence. In Bangladesh and Ecuador, cash transfer programmes combined with nutritional behaviour change communication significantly reduced IPV <ref type="bibr" target="#b13">(Buller et al., 2016;</ref><ref type="bibr" target="#b61">Roy et al., 2019)</ref>. A mixed methods review of 14 studies also points towards mostly positive effects of cash transfer programmes, mediated through greater economic security and emotional wellbeing, reduced intra-household conflict, and women's empowerment <ref type="bibr" target="#b14">(Buller et al., 2018)</ref>. Positive findings were also observed in relation to a graduation-style economic intervention for women living in poverty in Burkina Faso. Participation in this intervention led to significant reductions in emotional partner violence <ref type="bibr" target="#b40">(Ismayilova et al., 2018)</ref>. It did not, however, lead to reductions in physical violence (ibid).</p><p xml:id="_UTVF7Hp">Childhood development is also negatively affected by other forms of domestic violence, including violence against children (VAC) and violence taking place outside of the home environment <ref type="bibr" target="#b63">(Sherr et al., 2016)</ref>. Evidence about the impact of cash transfers on such forms of violence, particularly for young children, is thin. While impact evaluations point to positive impacts on sexual violence against adolescent girls, for example, little is known about how programmes may reduce any form of violence in early age <ref type="bibr" target="#b51">(Peterman et al., 2017)</ref>. Reasons for lack of evidence are two-fold: First, reduction or prevention of violence does not tend to be part of programme objectives. Second, few evaluations are designed to measure or unpack impacts on childhood violence (ibid).</p><p xml:id="_8bFnAgn">Various studies of cash transfers attest to their positive impact on cognitive development <ref type="bibr" target="#b20">(De Walque et al., 2017)</ref>. Impacts were intensified when provision of cash was complemented with parenting interventions (ibid). Few studies consider the impact on cognitive stimulation as one of the intermediate indicators towards developmental outcomes. In Ecuador, programme participation led to greater availability of paper, pens and books and to parents spending more time reading with their children <ref type="bibr" target="#b45">(Macours et al., 2012)</ref>. In Colombia, a cash transfer programme with an integrated psychosocial stimulation intervention led to improved home stimulation during the programme, but positive impacts were not sustained two years after programme end <ref type="bibr" target="#b0">(Andrew et al., 2018)</ref>. Effects may have been too small to be sustained and children may also have moved into less stimulating environments (e.g. at school) as they are growing older (ibid).</p><p xml:id="_zVzQVBc">In light of this review, we consider two main pathways through which graduation programmes may reduce psychological risk factors and ultimately improve ECD. First, improved economic outcomes through livelihoods support can reduce poverty-related stress and depressive symptoms, lessen intra-household violence and facilitate more stimulating environments. Second, noneconomic support in the form of training and mentoring can foster cognitive stimulation and support more harmonious intrahousehold relationships. There may also be potential to reduce violent forms of disciplining for children. This theory of change is depicted in Fig. <ref type="figure" target="#fig_0">1</ref>. Note that the linkages from reduced psychological risk factors to improved ECD are implied and are not empirically tested in this study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3." xml:id="_9hDEXnG">Programme and setting</head><p xml:id="_ArxQADn">This study focuses on the Chemen Lavi Miyò (CLM) programme in Haiti. It was first piloted in 2007 <ref type="bibr" target="#b37">(Huda &amp; Simanowitz, 2010)</ref> and has been implemented in different areas in central Haiti by NGO Fonkoze since then. The programme constitutes an adaptation of the 'graduation model' approach as developed by BRAC in Bangladesh <ref type="bibr" target="#b74">(Werlin, 2018)</ref>. Over a period of 18 months, the programme offers intensive and tailored support, including: (i) weekly stipends of 350 Haitian Gourdes (approximately US $13 PPP 1 ) during the first six months of implementation; (ii) asset transfer (approximately US $155), (iii) support to join Village Savings and Lending Association (VSLA), (iv) weekly home visits by case managers, including health and nutrition messaging, 2 and (v) in-kind support such as materials for home repair and installation of latrine (approximately US $250) and access to the local hospital. This package of support, and the magnitude of their individual components, is in line with other programmes having adopted the graduation model approach <ref type="bibr" target="#b6">(Banerjee et al., 2015)</ref>. The CLM programme is targeted at women -often with young children -living in extreme poverty. In addition to supporting income-generating activities and financial management, programme elements that may reduce psychological risk factors for ECD include case managers' messaging regarding in utero brain development and mediation in case of intra-household tensions <ref type="bibr" target="#b74">(Werlin, 2018)</ref>. Previous studies have demonstrated positive effects, including the establishment of income-generating activities <ref type="bibr" target="#b37">(Huda &amp; Simanowitz, 2010;</ref><ref type="bibr" target="#b47">Pain et al., 2015)</ref>. Severe malnutrition among children appeared to be eradicated among all beneficiary households participating in the first pilot of the CLM programme <ref type="bibr" target="#b37">(Huda &amp; Simanowitz, 2010)</ref>. However, no follow-up study to assess sustainability of malnutrition outcomes or evaluation in relation to other outcomes for children is available.</p><p xml:id="_HebDjya">This study was undertaken in Central Plateau in Haiti. Haiti is one of the least developed countries in the world, ranking 169th (out of 189) based on the 2019 Human Development Index (UNDP, 2019). Poverty is widespread with 59 percent of Haitians living under the national poverty line of $2.42 per day in 2012 <ref type="bibr">(World Bank, 2018)</ref> and 41 percent of the population experiencing multidimensional poverty in 2016/17 (UNDP, 2019). More than 20 percent of the children under five are stunted <ref type="bibr" target="#b38">(IHE &amp; ICF, 2018)</ref>, the neonatal mortality rate was 25 per 1000 births in 2011 <ref type="bibr" target="#b16">(Cianelli et al., 2014)</ref> and nearly one in 12 children died before reaching the fifth year in 2012 <ref type="bibr" target="#b38">(IHE &amp; ICF, 2018)</ref>. Research sites included in this study were located in two of the poorest departments in the country, namely Centre and Artibonite (IMF, 2014).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4." xml:id="_yeZgyY9">Data and methods</head><p xml:id="_zkCp4PD">This evaluation is based on a mixed methods approach. Mixed methods approaches in evaluation have been lauded for their ability to unpack the 'black box' <ref type="bibr" target="#b53">(Quisumbing et al., 2020)</ref>, and to bring richness of insights that are particularly pertinent for policyoriented research <ref type="bibr" target="#b19">(de Haan et al., 2020)</ref>. This study combines purposively collected quantitative survey data based on quasiexperimental design with in-depth primary qualitative data. Research adhered to ethical protocol, including informed consent, anonymity in data analysis and dissemination and respectful conduct in the field. Ethical approval was provided by the Research Ethics Committee (REC) at [author -organisation].</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.1." xml:id="_vXTd8VP">Quantitative data and analysis</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.1.1." xml:id="_4bSQ4qZ">Sample</head><p xml:id="_Zzgqbf6">The quantitative component of the evaluation is based on a quasi-experimental design. The sample for the treatment group (CLM members) was pre-determined by programming considerations, with all eligible women in the programme sites having been selected into the programme. Eligibility criteria included living in extreme poverty (based on a wide set of indicators), having dependants and being able to work. Ethical considerations, potential spillover effects and budget constraints precluded the possibility of either establishing counterfactuals within the same communities or undertaking a cluster-randomised control trial. The control group was therefore sampled from other communities in the Central Plateau region following a two-step process: (i) identification of communities that are similar to those where the treatment group are located; and (ii) identification of female respondents with similar living conditions as those within the treatment group. Communities were selected on the basis of longstanding experience and deep knowledge of the region within the Fonkoze team. Selection of female respondents into the control group was based on participatory wealth rankings within selected communities. These ranking exercises mirrored targeting processes for the CLM programme, thereby ensuring that women included in the control group match women in the treatment group to the best extent possible. The control group was over-sampled in order to maximise explanatory power, within the confines of budget constraints.</p><p xml:id="_5u7TYcZ">Baseline data for the treatment group was collected in June-July 2017 during which prospective CLM members received orientation training for the CLM programme. Data for the control group was collected August-December 2017. Endline data was collected in April 2019 for the treatment group and in May-June 2019 for the control group. 1 All US$ values are calculated at purchasing power parity (PPP), using market exchange rates and the World Bank PPP conversion factor for the period during which the programme was implemented. We use an average exchange rate of 62 for HTG/US $, and PPP conversion factor of 0.434.</p><p xml:id="_Eb8hyrZ">2 Health and nutrition messaging revolves around key topics, including Vitamin A intake, good hygiene, preventing malnutrition, clean drinking water, preventing sexually transmitted diseases, pre-and post-natal care, family planning, preventing worms, vaccinations, preventing cholera and in utero brain development of children <ref type="bibr" target="#b74">(Werlin, 2018)</ref>.</p><p xml:id="_ctBZHXX">Table <ref type="table" target="#tab_0">1</ref> provides an overview of the quantitative sample. We restricted the sample to women with children aged 0-5 at both baseline and endline. The sample includes 732 respondents, namely 373 CLM members (treatment group) and 359 control group members. Attrition rates averaged 28.8 percent with a larger attrition rate (32.3 percent) for the control group compared to treatment group (25.2 percent). Higher attrition among the control group was expected as there was no contact with Fonkoze between baseline and endline data collection; the control group was oversampled to account for this (as noted above). Analysis of demographic characteristics at baseline (see Table <ref type="table" target="#tab_1">2</ref>) points to a moderately balanced sample with a significant difference between treatment and control groups only in marital status and wealth index. 3 Analysis of attrition across treatment and control groups (see Table <ref type="table" target="#tab_2">3</ref>) points to similar spread of attrition across demographic characteristics. Attrition analysis within treatment and control groups (see Table <ref type="table" target="#tab_3">4</ref>) compares those lost to those who remain in the study on observable characteristics. Older women and those with fewer children aged 0-5 were more likely to drop out of the treatment group. However, as this study is primarily focused on understanding impacts for women in child-bearing age with young children, this attrition bias suggests low risks to external validity. 4  In sum, treatment and control groups are roughly similar in terms of demographic characteristics apart from wealth; the control group is significantly better off than the treatment group. Attrition is relatively equally spread and is slightly favourable to the particular group of interest for this study, namely women in reproductive age with young children.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.1.2." xml:id="_ZXkw7ZG">Dependent variables</head><p xml:id="_vDfrqXv">We use the 6-item Kessler Psychological Distress Scale (K6) <ref type="bibr" target="#b41">(Kessler et al., 2003)</ref> as indicator for maternal mental health.</p><p xml:id="_jxpr53K">Respondents were asked how often in the past 30 days they felt any of these six symptoms: nervous, hopeless, restless, so depressed that nothing could cheer them up, that everything was an effort, and worthless. Responses range from ''none of the time" coded 0 to ''all of the time" coded 4, with a maximum score of 24. A K6 score exceeding 13 indicates that respondents suffer from serious mental illness <ref type="bibr" target="#b42">(Kessler et al., 2010)</ref>. The Kessler scales have been validated and successfully used across geographical and cultural contexts <ref type="bibr" target="#b42">(Kessler et al., 2010;</ref><ref type="bibr" target="#b75">Wijeratne et al., 2011;</ref><ref type="bibr" target="#b52">Powell-Jackson et al., 2016)</ref>.</p><p xml:id="_2z35TZW">In order to gain insight into children's exposure to violence, we use information about how often women observe exposure of children to different types of violence and about attitudes to child disciplining. In terms of exposure to violence, respondents were asked whether they observed harsh corporal punishment, physical violence at home or physical violence outside the home of children in their community, with responses denoting ''never", ''sometimes" and ''often". With respect to child disciplining practices, women were asked whether they agree or strongly agree that it is okay to hit their child when it is disobedient. These questions are framed against the knowledge, attitude and practice (KAP) survey model, which is widely used to gain insight into health and child protection practices, including in Haiti <ref type="bibr" target="#b69">(Tillyard &amp; DeGennaro, 2018)</ref>. Questions are based on surveys used in contexts with concerns regarding child protection violations, such as in Rwanda (AVSI, 2013), and were tested during pilot and training phase before baseline data collection.</p><p xml:id="_XQANDqw">Cognitive stimulation is measured by the frequency of stimulating activities that adults in the household engage in with their children aged 3-5 in three days prior to the survey. This includes five activities, namely telling stories, singing, counting or drawing, reading or looking at (picture) books and. We count the number of activities undertaken with children aged 3-5 by the main woman in the household as well as by any other adult in the household, with a maximum score of 10. Questions are based on KAP survey questionnaires on ECD as developed by UNICEF and  3 Wealth index quintile variable is based on DHS methodology and includes variables for cooking fuel, source of drinking water, sanitation facilities, leaking roof, roof material, wall material, stove and radio. 4 We are unable to test for selection on unobservables directly as a reliable external data source was unavailable <ref type="bibr" target="#b30">(Fitzgerald et al., 1998)</ref>.</p><p xml:id="_YcbhNm2">implemented in diverse contexts such as Bangladesh <ref type="bibr" target="#b9">(Begum, 2019)</ref> and Nicaragua <ref type="bibr" target="#b45">(Macours et al., 2012)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.1.3." xml:id="_bZBUHwU">Empirical strategy</head><p xml:id="_kDDfB3f">We use Propensity Score Matching (PSM) to overcome selection bias as a result of the study's quasi-experimental design, and then estimate the treatment effect of programme participation on psychological risk factors.</p><p xml:id="_Us6zFZt">Given the study's quasi-experimental design, our main challenge is constructing a credible counterfactual. Selection of women in the control group was based on criteria that allowed for matching women in the treatment group to the best extent possible. However, to ensure this as far as possible ex-post, we first use PSM to better identify the control group-i.e. non-participants of the programme that are like participants-using information on observable characteristics (X). The procedure involves estimating the probability of programme participation and then comparing members of treatment and control groups with similar probabilities of participating in the programme.</p><p xml:id="_krhQBUD">We estimate the propensity score for a woman 'i' to be selected for the programme, which can be written as follows:</p><formula xml:id="formula_0">P i ¼ a þ bX þ e i</formula><p xml:id="_CVrFpzD">where P is a binary variable equal to one for treatment group and zero for control group, X is a vector of observed characteristics of women, and e is an error term. The score is calculated using the observed characteristics of women in our total sample at baseline, including both members (and part of the treatment group) and non-members (and part of the control group) of the programme. The variables in the X vector are those we believe unlikely to be   affected by the programme. Crucially, these characteristics are not outcomes that are expected to change as a result of participation in the programme. 5 We use location (department) of where the respondent lives, household size, number of household members over 10 years of age who work, literacy of respondent (knowing how to read and write), literacy of their spouse, number of children &lt;18 years old, age of respondent and marital status of respondent.</p><p xml:id="_vTUgA6G">We estimate the propensity score, defined as the conditional probability of treatment given pre-participation characteristics using the logit model <ref type="bibr" target="#b64">(Sianesi, 2004;</ref><ref type="bibr" target="#b29">Faltermeier &amp; Abdulai, 2009)</ref> (Table <ref type="table" target="#tab_0">A1</ref> in Supplementary Material).</p><p xml:id="_t6fjpRF">We use the propensity score to match CLM members (treatment group) with non-CLM members (control group) in order to establish a meaningful comparison group. The estimation uses the nearest neighbour matching algorithm without replacement that matches each participant with its closest neighbour with similar characteristics. We employ the standardised bias approach proposed by <ref type="bibr" target="#b59">Rosenbaum and Rubin (1983)</ref> to assess the quality of matches by comparing before and after matching to check for remaining differences after conditioning on the propensity score.</p><p xml:id="_2UHCJfU">Overall, we find that after matching, the covariates (characteristics) are balanced in the treatment and control groups. Results of balancing tests show improved standard bias after matching (Tables <ref type="table" target="#tab_1">A2</ref> and <ref type="table" target="#tab_2">A3</ref> in Supplementary Material). The propensity score appears to balance the treated and untreated groups well and no significant differences are found across covariates (Tables <ref type="table" target="#tab_3">A4</ref> and <ref type="table" target="#tab_4">A5</ref> in Supplementary Material). This result confirms the relevance of the propensity score matching approach. Furthermore, tests of common support and density of propensity scores (Figs. <ref type="figure" target="#fig_0">A1</ref> and <ref type="figure">A2</ref> in Supplementary Material) indicates that estimating the propensity score appears to balance the treated and untreated groups well.</p><p xml:id="_dUg6Mv6">Out of the total balanced sample of 732, we obtain a matched sample of 718 (359 treatment, 359 control) for outcome variables that are observed for all respondents, including maternal mental health and all indicators for exposure to violence. We obtain a smaller but still sizeable sample for indicators capturing child stimulation, which are only captured for women with children aged 3-5. The matched sample in this case is 328 (164 treatment, 164 control).</p><p xml:id="_ZhVETxP">The matching indicators show substantial reduction in absolute bias for all the outcome variables -the mean bias in the covariates after matching lies below the 20 percent level of bias reduction suggested by <ref type="bibr" target="#b60">(Rosenbaum &amp; Rubin, 1985)</ref>. This indicates that the covariates were significantly balanced as a result of the propensity score matching procedure. In addition, after matching, the pseudo-R2s are fairly low, suggesting that there are no systematic differences in the distribution of covariates between the matched and unmatched groups.</p><p xml:id="_tMmk36j">However, while the PSM yields the Average Treatment Effect on the Treated i.e. the difference between the expected outcomes with and without programme participation, it is based on the strong Conditional Independence Assumption (CIA). In other words, it assumes that after controlling for a set of observable characteristics, potential outcomes are independent of the treatment status. Given that selection into the programme likely also depends on unobservable characteristics, it is not possible to fully control for bias using PSM. In our case, pre-treatment data allows for cancelling out the effect of the unobservable characteristics by calculating the differences in outcomes before and after treatment. Hence, we use the difference-in-differences (DiD) approach to con-trol for bias associated with observable and unobservable timeinvariant characteristics.</p><p xml:id="_t7X4gYJ">Thus, with the new matched sample, we estimate the treatment effect following the standard linear regression specification for DiD:</p><formula xml:id="formula_1">Yi ¼ a þ bTi þ cti þ d Ti Á ti ð Þþxi þ ei</formula><p xml:id="_8AukkbU">where Y is the outcome, T is the treatment (i.e. participation in the programme), t is the time trend that is common to the control and treatment groups, and x is the wealth index (to control for significant differences in wealth between treatment and control). b captures the treatment group specific effect (to account for average permanent differences between treatment and control); c captures the effect of the time trend; and d is the true effect of treatment i.e. treatment effect. This estimation allows us to control for all observable and unobservable time-invariant variables that influence programme participation and the outcome <ref type="bibr" target="#b24">(Duncan et al., 1998;</ref><ref type="bibr" target="#b65">Smith &amp; Todd, 2005)</ref>. We estimate the treatment effect using a generalized least squares (GLS) regression model for continuous outcomes and a logit model for binary outcome variables. We report results with robust and clustered standard errors by communities to account for the possibility that behaviour for psychological risk factors as affected by programme participation could be correlated within communities. Additionally, we run alternate specifications to test the robustness of our results, exploring possible differences using an alternate matching technique. By combining the two methodologies, PSM-DiD yields the Treatment Effect <ref type="bibr" target="#b65">(Smith &amp; Todd, 2005)</ref>, allowing us to control for both observed time variant and unobserved time-invariant heterogeneity between groups, and, to correct for any observable preexisting difference by using only the matched sample with similar characteristics (common support).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.2." xml:id="_TFZ2j8X">Qualitative data</head><p xml:id="_Pyfb58m">Qualitative data collection centred on 24 case studies of CLM members, allowing for insight into mechanisms that led to or hampered programme impact. Case studies were purposively selected based on age, spousal relationships and progress in the programme in order to ensure a degree of heterogeneity in the sample (Table <ref type="table" target="#tab_4">5</ref>). On average, women included in the qualitative sample are slightly younger (27.4 years of age) than those in the quantitative sample (30.2 years of age), have the same number of children under the age of five (1.7) and slightly fewer children under the age of 18 (2.7 compared to 3.2). Additional data was collected through 30 focus group discussions (FGDs) with CLM members and their family members, and community members, and seven key informant interviews (KIIs) and group conversations with CLM staff (Table <ref type="table" target="#tab_5">6</ref>). Data collection was grounded in participatory approaches and a wide range of fieldwork activities was undertaken to elicit views, opinions and experiences across respondent groups. These include family mapping, daily activity clock, body map, programme component scoring and community mapping exercises at individual and group levels respectively. In total, the qualitative data includes 215 respondents.</p><p xml:id="_qXRcmhk">All activities were transcribed in Haitian Creole, and all transcripts were subsequently translated from Haitian Creole to English. A coding structure was developed based on the study's conceptual framework and after first reading of transcripts, allowing for deductive and inductive thematic analysis. All transcripts were coded using NVivo software.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5." xml:id="_4bYQE7p">Results</head><p xml:id="_hhcuZFv">We discuss findings for each psychosocial factor in turn. 5 In our case, this limits the set of characteristics that can be taken into account as many variables that could explain selection into the programme are also outcomes. We acknowledge this limitation and include all other covariates that explain participation in the programme.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.1." xml:id="_3CyUh9H">Maternal mental health</head><p xml:id="_hznKq3H">The CLM programme has a significant positive effect on maternal mental health. Findings in Table <ref type="table" target="#tab_6">7</ref> show that the average K6 score reduced from 10.5 at baseline to 7.1 at endline for the treatment group. The control group also experienced a decline in the K6 score but not to the same extent. This translates into a treatment effect of À1.0 points.</p><p xml:id="_kB9j2Sa">These positive impacts also emerge from the qualitative data. In line with other research <ref type="bibr" target="#b36">(Hjelm et al., 2017)</ref>, the availability of economic and material resources reduces poverty-induced stress. In response to the question how the CLM programme affected their body and emotions, respondents articulated a sense of peace and hope as a result of the knowledge that the programme helps to meet basic needs, crucially also for their children.</p><p xml:id="_KZCfaEE">''I sometimes feel that my body is sore, but my spirit is at peace because now I have hope." ~female CLM member, 28, 2 children &lt; 5 years old ''. . . CLM gives you a house, the woman has animals to take to graze, it gives funds to send the children to school, so she doesn't have to worry about those things anymore." ~female CLM member, 24, 2 children &lt; 5 years old These findings tie in with highly gendered responsibilities for childcare. Women act as primary caregivers and the belief that mothers carry the primary responsibility for children's care is held by both women and men across the sample.</p><p xml:id="_PHKbsFh">''When a mother has a child, she is responsible for providing them with everything" ~spouse of female CLM member, 50, 4 children &lt; 5 years old Although the programme does not exclude male caregivers, behaviour communication with respect to feeding practices, hygiene, sanitation and care for unborn children is primarily directed at female CLM members. More implicit messaging through songs and interactions with programme staff also reinforce gendered child care responsibilities by emphasising women's central role in household management. Greater ability to live up to expectations of being a good mother may also contribute to greater maternal mental health.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.2." xml:id="_qj9bWwy">Exposure to violence</head><p xml:id="_W59Rz9X">The CLM programme has limited positive effects on children's exposure to violence, as presented in Table <ref type="table" target="#tab_7">8</ref>.</p><p xml:id="_Pv9WkkE">The reported occurrence of children in the community being exposed to harsh corporal punishment either often or sometimes decreased as a result of the programme. The proportion of the treatment group reporting that children were exposed to harsh beating or corporal punishment reduced from 64.9 percent to 51.5 percent. This compares to a much smaller decrease for the control group, leading to a significant treatment effect of À11.9 percentage points.</p><p xml:id="_mPGZ8xG">The programme did not have an impact on children in the community being exposed to violence at home. The treatment group experienced a decrease from 42.0 percent at baseline to 37.3 percent at endline but this did not constitute a significant effect.</p><p xml:id="_ma4bugr">Although findings point to a significant treatment effect for reports of children in the community being exposed to violence outside of the home, these results should be interpreted with cau- tion. The proportion of respondents in the treatment group having observed children's exposure to violence outside the home actually increased from 55.7 percent to 59.6 percent respectively. The treatment effect results from an even larger increase in reports of children being exposed to violence outside of the home in the control group. The CLM programme does not have a significant effect on attitudes towards child disciplining practices. The large majority of respondents agreed or strongly agreed that it was okay to hit their child when they are disobedient, and this stayed largely constant across the programme period. At baseline, 98.3 percent of the treatment group indicated that they agreed or strongly agreed with hitting their child when disobedient compared to 96.7 percent at endline.</p><p xml:id="_dz2nPT5">Positive effects on exposure to harsh corporal punishment and lack of impact on attitudes to child disciplining need to be considered in conjunction with the widespread use of corporal punishment. The use of physical force for correcting children's behaviour is commonplace, including slapping children, letting children kneel for a long time or beating them with belts, branches or sticks. ''. . . when a child misbehaves, you hit him so he doesn't do it anymore. If he continues you hit him again. [. . .] You hit him on the feet with a small whip because if someone comes it's not nice if he sees that the child talks badly with you." ~female CLM member with child &lt; 5 years old, focus group discussion The CLM programme itself offered mixed messages in terms of corporal punishment as a way of disciplining children. Some CLM members and their spouses indicated that CLM staff advised them not to hit their children as this would have adverse effects on parent-child relationships. Instead, they were advised to talk to their children, but also suggested to replace beatings with letting children sit on their knees. In other cases, staff voiced the opinion that mothers slapping their child is important for encouraging good behaviour.</p><p xml:id="_AWRBGAR">Have you followed any of the advice that you got from the case managers and changed your behaviour? ''Yes, I follow the advice. It used to be that when the child cried, I would spank them. Now, I call them to me and talk to them, and if there is something they need, I give it to them. [. . .] It was difficult, because out of habit, I was used to spanking them. Now I see I shouldn't do that anymore. It has been challenging, but I have changed." ~male spouse of female CLM member, 25, 2 children &lt; 5 years old Although the programme did not reshape attitudes towards the use of physical force in correcting children's behaviour in general, interactions with programme staff may have contributed to more sparse use of physical force or less harsh punishments.</p><p xml:id="_gDmarR8">Programme staff may also have played a role in the small reduction in children's exposure to violence inside the home. Qualitative data indicates that programme staff were deemed to play an instrumental role in mediating between CLM members and their spouses in a number of cases of conflict. In those cases, both CLM members and programme staff attested to how this contributed to less tension and acrimony and resulted in greater collaboration.</p><p xml:id="_DDq7RBt">''My husband can be rude at times; he has a dirty mouth; he would say ugly things; we'd get into arguments, when they give me the money, he would take the money from me; when I ask him to give me the money back, he starts to insult me; he would even hit me. I reported that to [CLM staff]; he came and spoke to him. He finally returned 1000 gourdes out of the 360 Haitian dollars (1800 gourdes) that CLM gave to me and he had borrowed 360 Haitian dollars from me. Then I had to add the rest of the money in order to buy the goat." ~female CLM member, 22, 1 child &lt; 5 years old While these positive interventions are significant in their own right, they do not appear to contribute to reduced violence inside the home at a wider level. Continued corporal punishment as a form of disciplining children at home is likely to have hampered the programme positive's impact on violence inside the home. In other words, greater availability of income as a pathway to reduced conflict -as found in other studies -did not emerge in the quantitative or qualitative data.  Findings in relation to lack of impact on violence outside of the home are couched in a context of high levels of violence in Haiti, and within our sample. Female respondents expressed concerns regarding physical violence directed at their children, including being hit or bitten by other children on the way from school to home or when left alone at home, or being beaten by other adults when out on the roads or being left in the care of others.</p><p xml:id="_PPtPrkJ">''I don't leave her with others because I don't want them to hit her." ~female CLM member, 36, one child &lt; 5 years old Becoming the victim of violence was also a concern for women themselves, particularly when travelling to the market or using public transport.</p><p xml:id="_WWZPKve">''There are areas where we feel afraid when we're passing by. Those areas are full of trees and underneath the sugarcane plantation because those areas don't have houses. Because we're not accompanied by men. We don't know whether there are robbers hiding there ready to assault us." ~female CLM member with child &lt; 5 years old, focus group discussion A household-focused programme like CLM is unlikely to affect children's exposure to violence outside of the home.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.3." xml:id="_j9M6DVU">Child stimulation</head><p xml:id="_z5mPEyt">The CLM programme had no impact on child stimulation as measured by engagement with children in age bracket 3-5 (see Table <ref type="table" target="#tab_8">9</ref>). At baseline, the average number of activities undertaken with children aged 3-5 by any adult in the household is 4.6 for the treatment group and 3.4 for the control group. This increases to 5.5 and 4.3 respectively. As the number of activities undertaken with children increased slightly over time for both treatment and control group, we do not observe any programme effect.</p><p xml:id="_xw2W26q">This lack of impact is grounded in age-specific practices in terms of child stimulation and responsive caregiving, and CLM programme activities reinforcing those practices. The importance of cuddle and play was clearly articulated by female CLM members and their male spouses, and both parents see it as their role to engage with their babies and young children in that way. Being responsive to babies' needs and not letting them cry unattended was voiced as part of what constitutes a good childhood. Provision of positive care is -at least partly -premised on a notion of reciprocity, with parents expecting their children to care for them in old age.</p><p xml:id="_sxXPJCG">''You cuddle him, talk to him, ask him if he's thirsty. You don't get mad with him because he has a problem. If he needs a shower, you shower him. I need to cuddle my children because when I get old, I will be the baby needing attention. If I used to treat them badly, they'll treat me badly too." ~spouse of female CLM member, 42, 1 child &lt; 5 years old</p><p xml:id="_69c2gun">The importance of responsive caregiving, including talking and singing to babies, is one of the health messages within the CLM programme. However, this messaging does not extend beyond early infancy. As children grow older and start to become able to assert themselves verbally, parenting practices shift towards incentivising appropriate behaviour, leaving little room for positive encouragement, stimulation or play. Disciplining is often preceded by verbal warnings but move into physical punishment if children do not obey. Punishments tend to become more severe as children grow older, with fewer warnings preceding the punishments and beatings being harder or more repetitive.</p><p xml:id="_SZJNZyP">''[When a child is naughty, I] feed him and spank him, but only when I tell him to do something for me and he refuses. We talk to and cuddle kids who are 3 years old; we threaten him with small whips. When he's 5 years old, we spank him. [. . .] You need to talk to him. You will tell him if he does something wrong, you will spank him. [. . .] You need to spank him because the children understand things. After spanking him, you talk to him so he doesn't do it again." ~female CLM member with child aged 3-5, focus group discussion Another prohibiting factor in undertaking stimulating activities with children is the juggling act of combining child care and household chores. This tends to be exacerbated by participating in the programme, both as a result of participation in programme activities such as business training and as a result of engaging in income-generating activities that are promoted by the programme such as market trading. Women may leave their children in care of others but worry that their children do not receive the supervision and care that they require. Distrust of others and concern for their children's wellbeing may lead women to prefer leaving their children on their own or in care of older siblings. Both scenarios deny the opportunities for stimulating activities with children.</p><p xml:id="_7SS7YPY">How do the consequences of paid work affect young children? ''When you leave your child [aged 0-2] to someone, he can be malnourished because he didn't eat well with that person. You can leave the younger child [3-5 years old] with the older one, they can eat badly, he doesn't get washed because the older one might go play and leave the younger. The older one can take bad care of the younger, he mistreats him, he hits him." ~female CLM member with child aged 0-2, focus group discussion</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.4." xml:id="_ZURdtjn">Robustness</head><p xml:id="_TUnG7Xp">We conduct robustness checks to examine the robustness of our quantitative findings (see Table <ref type="table" target="#tab_5">A6</ref> in Supplementary Material). We estimate programme effects using an alternative matching procedure. We employ the benchmark specification to compare outcomes using Mahalanobis matching as alternative to the nearest neighbour with no replacement. Results are in line with benchmark results in terms of the direction and significance of treatment effects; treatment effects are slightly smaller or larger using this alternative matching.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="6." xml:id="_CXyCuqT">Discussion and conclusion</head><p xml:id="_24kPyXX">Findings of this mixed methods study point to the potential for and limitations of social protection and anti-poverty interventions for improving ECD by addressing psychosocial risk factors.</p><p xml:id="_9pGVp9B">In line with findings for related interventions elsewhere <ref type="bibr" target="#b35">(Haushofer &amp; Shapiro, 2016;</ref><ref type="bibr" target="#b36">Hjelm et al., 2017)</ref>, the programme improves mental health. Reductions in poverty-reduced stress coupled with greater abilities to meet children's basic needs and to live up to expectations of good motherhood can explain lower occurrence of depressive symptoms among mothers.</p><p xml:id="_UMDSFB8">The programme has a modest impact on children's exposure to harsh corporal punishment but has no discernible impact on exposure to violence inside and outside of the home or attitudes to child disciplining practices. Lack of impact may be explained by violence being widespread and pervasive in everyday life and physical punishment being considered the most appropriate mechanism for child disciplining. Messaging by programme staff may play an important role in corporal punishments being less frequent or less harsh. Programme staff may also be pivotal in improving spousal relationships in some instances, although not at a scale that significantly reduces exposure to violence within the home. We do not find evidence that greater availability of economic resources is an important mediator in reduced exposure to violence, such as found in other studies <ref type="bibr" target="#b14">(Buller et al., 2018)</ref>.</p><p xml:id="_HKvrX4Q">The programme does not have a positive effect on cognitive stimulation for children aged 3-5 years old. We find no discernible impact on the number of stimulating activities (e.g. singing, counting, reading) that adults undertake with their children.</p><p xml:id="_jZ3MCkm">In combination, results of this study call for mild enthusiasm but also caution in terms of the role of social protection and antipoverty programming in improving ECD. This holds particularly true for comprehensive interventions seeking economic and social empowerment in addressing psychosocial factors. Findings clearly show that programmes may bring to bear some positive effects but also that these are inevitably limited without integration of support that is specifically geared at tackling pernicious issues of violence and lack of cognitive stimulation. As highlighted in <ref type="bibr" target="#b55">Richter et al. (2017)</ref>, the value of social protection may be in their potential to integrate parenting programmes that offer nurturing care. Findings regarding the positive role of messaging and interactions with programme staff support this suggestion.</p><p xml:id="_sEgvpzv">This study also provides further evidence of the use of mixed methods approaches in evaluation and its value-added in making findings useful and credible for practitioners and policy makers, as has been pointed out by others in this journal <ref type="bibr" target="#b48">(Parker et al., 2020;</ref><ref type="bibr">The Transfer Project, 2020)</ref>. The use of qualitative methods allowed for exploring mechanisms that both enhanced and prevented change, which we would not have obtained by using quantitative methods only. As such, mixed methods approaches can help to address external validity concerns as it provides insight into mechanisms underpinning observed outcomes in a given context -much in line with the tradition of 'realist evaluation' <ref type="bibr" target="#b49">(Pawson &amp; Tilley, 1997)</ref> -allowing for greater understandings of whether findings may be generalizable across or applicable to other contexts <ref type="bibr" target="#b76">(Williams, 2020)</ref>.</p><p xml:id="_eRxNtBt">Finally, these findings need to be framed against wider debates about the role of social protection and anti-poverty interventions. Social protection, and cash transfers in particular, have been lauded for their ability to improve people's lives across a wide spectrum of outcomes. At the same time, evidence also points to limitations of the provision of cash alone with lack of impact on outcomes such as nutritional outcomes <ref type="bibr" target="#b18">(de Groot et al., 2017)</ref> and learning <ref type="bibr" target="#b8">(Bastagli et al., 2019)</ref>. This lack of impact has, at least partly, played into the development of complementary interventions such as graduation programmes. Pilot interventions abound and an emerging evidence base points to the potential of combining economic transfers with additional support such as training and behaviour change communication <ref type="bibr">(Roelen &amp; Devereux, 2019;</ref><ref type="bibr" target="#b62">Sedlmayr, Shah, &amp; Sulaiman, 2019)</ref> The excitement around this new wave of comprehensive interventions also comes with concerns that social protection is being overburdened with objectives and that it will suffer a backlash if positive impacts don't follow suit <ref type="bibr">(Roelen et al., 2017)</ref>. Findings of this study provide testimony to the validity of such concerns. While the potential of social protection in improving early childhood development should not be underestimated, it can only work as part of a multi-sectoral and integrated response. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc xml:id="_mbQaudA">Fig. 1. Theory of change of role of graduation programmes in reducing psychological risk factors for ECD. Source: Authors' own.</figDesc><graphic coords="4,119.79,67.92,356.87,202.62" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc xml:id="_9KcEKjT">Overview of quantitative sample.</figDesc><table><row><cell></cell><cell>Baseline</cell><cell>balanced panel</cell><cell>Attrition</cell></row><row><cell></cell><cell>(# women with children</cell><cell>(# women with</cell><cell>(%)</cell></row><row><cell></cell><cell>aged 0-5)</cell><cell>children aged 0-5)</cell><cell></cell></row><row><cell>treatment</cell><cell>498</cell><cell>373</cell><cell>25.1</cell></row><row><cell>group</cell><cell></cell><cell></cell><cell></cell></row><row><cell>control</cell><cell>530</cell><cell>359</cell><cell>32.3</cell></row><row><cell>group</cell><cell></cell><cell></cell><cell></cell></row><row><cell>total</cell><cell>1028</cell><cell>732</cell><cell>28.8</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc xml:id="_YAmDhBc">Demographic characteristics at baseline.Notes: p-values are reported from Wald tests on the equality of means across treatment and control.</figDesc><table><row><cell></cell><cell>Panel</cell><cell>Treatment</cell><cell>Control</cell><cell>Difference</cell><cell>p-value</cell></row><row><cell></cell><cell>(N = 732)</cell><cell>(N = 373)</cell><cell>(N = 359)</cell><cell>(treatment-control)</cell><cell></cell></row><row><cell>age</cell><cell>30.025</cell><cell>30.147</cell><cell>29.897</cell><cell>À0.251</cell><cell>0.7096</cell></row><row><cell># children aged 0-5</cell><cell>1.645</cell><cell>1.705</cell><cell>1.582</cell><cell>À0.123</cell><cell>0.0259</cell></row><row><cell># children aged 0-18</cell><cell>3.128</cell><cell>3.220</cell><cell>3.033</cell><cell>À0.186</cell><cell>0.1048</cell></row><row><cell>household size</cell><cell>5.398</cell><cell>5.517</cell><cell>5.273</cell><cell>À0.244</cell><cell>0.0989</cell></row><row><cell>traditionally or legally married</cell><cell>0.824</cell><cell>0.866</cell><cell>0.780</cell><cell>À0.086</cell><cell>0.0022</cell></row><row><cell>unable to read or write</cell><cell>0.624</cell><cell>0.666</cell><cell>0.579</cell><cell>À0.088</cell><cell>0.0138</cell></row><row><cell>spouse unable to read or write</cell><cell>0.673</cell><cell>0.684</cell><cell>0.663</cell><cell>À0.021</cell><cell>0.5512</cell></row><row><cell>living in department 'Centre'</cell><cell>0.515</cell><cell>0.512</cell><cell>0.518</cell><cell>0.006</cell><cell>0.8703</cell></row><row><cell>wealth index (quintile)</cell><cell>2.832</cell><cell>2.512</cell><cell>3.164</cell><cell>0.652</cell><cell>0.000</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc xml:id="_DCbARfa">Differential attrition analysis by demographic characteristics.</figDesc><table><row><cell></cell><cell>Lost to attrition</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>Total</cell><cell>Treatment</cell><cell>Control</cell><cell>Difference</cell><cell>p-value</cell></row><row><cell></cell><cell>(N = 296)</cell><cell>(N = 125)</cell><cell>(N = 171)</cell><cell>(treatment-control)</cell><cell></cell></row><row><cell>age</cell><cell>31.696</cell><cell>33.312</cell><cell>30.515</cell><cell>À2.797</cell><cell>0.0418</cell></row><row><cell># children aged 0-5</cell><cell>1.449</cell><cell>1.432</cell><cell>1.462</cell><cell>0.030</cell><cell>0.7277</cell></row><row><cell># children aged 0-18</cell><cell>2.821</cell><cell>2.928</cell><cell>2.743</cell><cell>À0.185</cell><cell>0.2764</cell></row><row><cell>household size</cell><cell>5.132</cell><cell>5.328</cell><cell>4.988</cell><cell>À0.340</cell><cell>0.1557</cell></row><row><cell>traditionally or legally married</cell><cell>0.740</cell><cell>0.776</cell><cell>0.713</cell><cell>À0.063</cell><cell>0.2271</cell></row><row><cell>unable to read or write</cell><cell>0.612</cell><cell>0.632</cell><cell>0.597</cell><cell>À0.036</cell><cell>0.5375</cell></row><row><cell>spouse unable to read or write</cell><cell>0.642</cell><cell>0.664</cell><cell>0.626</cell><cell>À0.038</cell><cell>0.4992</cell></row><row><cell>living in department 'Centre'</cell><cell>0.456</cell><cell>0.448</cell><cell>0.462</cell><cell>0.014</cell><cell>0.8121</cell></row><row><cell>wealth index (quintile)</cell><cell>3.068</cell><cell>2.736</cell><cell>3.310</cell><cell>À0.573</cell><cell>0.0008</cell></row></table><note xml:id="_hVsbDMK"><p>Notes: p-values are reported from Wald tests on the equality of means of the attrition groups across treatment and control.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4</head><label>4</label><figDesc xml:id="_uGfkWb8">Attrition analysis per treatment group, by demographic characteristics.Notes: p-values are reported from Wald tests on the equality of means of the attrition groups across treatment and control.</figDesc><table><row><cell></cell><cell>Treatment -</cell><cell>Treatment -lost to</cell><cell>Difference</cell><cell>p-</cell><cell>Control -</cell><cell>Control -lost to</cell><cell>Difference</cell><cell>p-</cell></row><row><cell></cell><cell>panel</cell><cell>attrition</cell><cell>(treatment-treatment lost</cell><cell>value</cell><cell>panel</cell><cell>attrition</cell><cell>(control-control lost to</cell><cell>value</cell></row><row><cell></cell><cell>(N = 373)</cell><cell>(N = 125)</cell><cell>to attrition)</cell><cell></cell><cell>(N = 359)</cell><cell>(N = 171)</cell><cell>attrition)</cell><cell></cell></row><row><cell>age</cell><cell>30.147</cell><cell>33.312</cell><cell>3.165</cell><cell cols="2">0.0021 29.897</cell><cell>30.515</cell><cell>0.618</cell><cell>0.5018</cell></row><row><cell># children aged 0-5</cell><cell>1.705</cell><cell>1.432</cell><cell>À0.273</cell><cell>0.0008</cell><cell>1.582</cell><cell>1.462</cell><cell>À0.120</cell><cell>0.0647</cell></row><row><cell># children aged 0-18</cell><cell>3.220</cell><cell>2.928</cell><cell>À0.292</cell><cell>0.0680</cell><cell>3.033</cell><cell>2.743</cell><cell>À0.290</cell><cell>0.0376</cell></row><row><cell>household size</cell><cell>5.517</cell><cell>5.328</cell><cell>À0.189</cell><cell>0.3758</cell><cell>5.273</cell><cell>4.988</cell><cell>À0.285</cell><cell>0.1171</cell></row><row><cell>traditionally or</cell><cell>0.866</cell><cell>0.776</cell><cell>À0.090</cell><cell>0.0166</cell><cell>0.780</cell><cell>0.713</cell><cell>À0.067</cell><cell>0.0949</cell></row><row><cell>legally married</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>unable to read or</cell><cell>0.666</cell><cell>0.632</cell><cell>À0.036</cell><cell>0.4691</cell><cell>0.579</cell><cell>0.597</cell><cell>0.017</cell><cell>0.7094</cell></row><row><cell>write</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>spouse unable to read</cell><cell>0.684</cell><cell>0.664</cell><cell>À0.020</cell><cell>0.6847</cell><cell>0.663</cell><cell>0.626</cell><cell>À0.037</cell><cell>0.4016</cell></row><row><cell>or write</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>living in department</cell><cell>0.512</cell><cell>0.448</cell><cell>À0.064</cell><cell>0.2158</cell><cell>0.518</cell><cell>0.462</cell><cell>À0.056</cell><cell>0.2279</cell></row><row><cell>'Centre'</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>wealth index</cell><cell>2.512</cell><cell>2.736</cell><cell>À0.224</cell><cell>0.1172</cell><cell>3.164</cell><cell>3.310</cell><cell>0.146</cell><cell>0.2755</cell></row><row><cell>(quintile)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 5</head><label>5</label><figDesc xml:id="_BGdwaep">Overview of case study respondents.</figDesc><table><row><cell>Pseudonym</cell><cell>Age</cell><cell>Other adult carer</cell><cell>Age</cell><cell># Children &lt; 18 in household</cell><cell># Children &lt; 5</cell></row><row><cell>Darline</cell><cell>25</cell><cell>Spouse</cell><cell>25</cell><cell>5</cell><cell>3</cell></row><row><cell>Rachelle</cell><cell>24</cell><cell>Spouse</cell><cell>25</cell><cell>1</cell><cell>2</cell></row><row><cell>Judeline</cell><cell>28</cell><cell>Sister</cell><cell>35</cell><cell>5</cell><cell>2</cell></row><row><cell>Angeline</cell><cell>41</cell><cell>Spouse</cell><cell>50</cell><cell>4</cell><cell>4</cell></row><row><cell>Esther</cell><cell>36</cell><cell>Spouse</cell><cell>40</cell><cell>3</cell><cell>1</cell></row><row><cell>Vanessa</cell><cell>22</cell><cell>Spouse</cell><cell>40</cell><cell>3</cell><cell>1</cell></row><row><cell>Jessica</cell><cell>23</cell><cell>Brother</cell><cell>18</cell><cell>1</cell><cell>1</cell></row><row><cell>Madeline</cell><cell>23</cell><cell>Spouse</cell><cell>26</cell><cell>2</cell><cell>2</cell></row><row><cell>Marie</cell><cell>22</cell><cell>n/a</cell><cell>n/a</cell><cell>1</cell><cell>1</cell></row><row><cell>Gaelle</cell><cell>30</cell><cell>Spouse</cell><cell>69</cell><cell>3</cell><cell>1</cell></row><row><cell>Jenniflore</cell><cell>20</cell><cell>Spouse</cell><cell>24</cell><cell>3</cell><cell>1</cell></row><row><cell>Fabienne</cell><cell>27</cell><cell>Spouse</cell><cell>27</cell><cell>4</cell><cell>2</cell></row><row><cell>Nadia</cell><cell>26</cell><cell>Spouse</cell><cell>36</cell><cell>2</cell><cell>2</cell></row><row><cell>Kimberly</cell><cell>23</cell><cell>Spouse</cell><cell>29</cell><cell>1</cell><cell>2</cell></row><row><cell>Farah</cell><cell>25</cell><cell>Spouse</cell><cell>28</cell><cell>2</cell><cell>1</cell></row><row><cell>Manoucheca</cell><cell>42</cell><cell>Spouse</cell><cell>38</cell><cell>5</cell><cell>2</cell></row><row><cell>Rose</cell><cell>24</cell><cell>n/a</cell><cell>n/a</cell><cell>0</cell><cell>1</cell></row><row><cell>Medjine</cell><cell>38</cell><cell>Spouse</cell><cell>42</cell><cell>4</cell><cell>1</cell></row><row><cell>Samantha</cell><cell>20</cell><cell>Mother</cell><cell>70</cell><cell>2</cell><cell>3</cell></row><row><cell>Esterline</cell><cell>21</cell><cell>Spouse</cell><cell>33</cell><cell>2</cell><cell>2</cell></row><row><cell>Nephtalie</cell><cell>31</cell><cell>Spouse</cell><cell>33</cell><cell>2</cell><cell>2</cell></row><row><cell>Jesula</cell><cell>22</cell><cell>Spouse</cell><cell>28</cell><cell>2</cell><cell>1</cell></row><row><cell>Fredeline</cell><cell>45</cell><cell>Spouse</cell><cell>45</cell><cell>5</cell><cell>1</cell></row><row><cell>Guerlande</cell><cell>20</cell><cell>Spouse</cell><cell>22</cell><cell>2</cell><cell>2</cell></row><row><cell>average</cell><cell>27.4</cell><cell></cell><cell>35.6</cell><cell>2.7</cell><cell>1.7</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Table 6</head><label>6</label><figDesc xml:id="_4csnXVD">Overview of focus group and key interview respondents.</figDesc><table><row><cell>Type of focus group</cell><cell>Sex</cell><cell># Groups</cell></row><row><cell>CLM members with children 0-5</cell><cell>Female</cell><cell>3</cell></row><row><cell>CLM members with children 0-2</cell><cell>Female</cell><cell>3</cell></row><row><cell>CLM members with children 0-2</cell><cell>Female</cell><cell>3</cell></row><row><cell>CLM members with children 3-5</cell><cell>Female</cell><cell>3</cell></row><row><cell>CLM members with children 3-5</cell><cell>Female</cell><cell>3</cell></row><row><cell>Spouses of CLM members with children aged 0-2</cell><cell>Male</cell><cell>3</cell></row><row><cell>Spouses of CLM members with children aged 0-2</cell><cell>Male</cell><cell>3</cell></row><row><cell>Spouses of CLM members with children aged 3-5</cell><cell>Male</cell><cell>3</cell></row><row><cell>Spouses of CLM members with children aged 3-5</cell><cell>Male</cell><cell>3</cell></row><row><cell>Village Assistance Committee</cell><cell>Male</cell><cell>3</cell></row><row><cell>Type of key informant</cell><cell>Sex</cell><cell># Interviews</cell></row><row><cell>director</cell><cell>Male</cell><cell>1</cell></row><row><cell>Supervisor La Chappelle</cell><cell>Male</cell><cell>3</cell></row><row><cell>Case manager</cell><cell>Male</cell><cell>3</cell></row><row><cell>Notes: programme staff were all male.</cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6"><head>Table 7</head><label>7</label><figDesc xml:id="_axDKPxU">Baseline and endline values and Impact estimates for K6.</figDesc><table><row><cell></cell><cell>Baseline</cell><cell></cell><cell>Endline</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>Treatment</cell><cell>Control</cell><cell>Treatment</cell><cell>Control</cell><cell>Coefficient/standard error</cell><cell>Treatment effect</cell></row><row><cell></cell><cell>(N = 359)</cell><cell>(N = 359)</cell><cell>(N = 359)</cell><cell>(N = 359)</cell><cell></cell><cell>(points)</cell></row><row><cell></cell><cell>(score)</cell><cell>(score)</cell><cell>(score)</cell><cell>(score)</cell><cell></cell><cell></cell></row><row><cell>K6 score</cell><cell>10.48</cell><cell>11.34</cell><cell>7.09</cell><cell>10.08</cell><cell>À0.955***(0.074)</cell><cell>À1.0</cell></row><row><cell cols="7">Notes: Estimation of treatment effect is based on random-effects GLS regression. Robust standard errors, clustered by communities, in parentheses. Asterisks indicate</cell></row><row><cell cols="3">significance level: *p &lt; 0.1, **p &lt; 0.05, ***p &lt; 0.01.</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_7"><head>Table 8</head><label>8</label><figDesc xml:id="_xKt7HXF">Baseline and endline values and impact estimates for exposure to violence and attitudes to child disciplining.Notes: Estimation of treatment effects are based on logistics regression. Robust standard errors, clustered by communities, in parentheses. Asterisks indicate significance level: *p &lt; 0.1, **p &lt; 0.05, ***p &lt; 0.01.</figDesc><table><row><cell>Baseline</cell><cell></cell><cell>Endline</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Treatment</cell><cell>Control</cell><cell>Treatment</cell><cell>Control</cell><cell>Coefficient/Standard</cell><cell>Treatment</cell></row><row><cell>(N = 359)</cell><cell>(N = 359)</cell><cell>(N = 359)</cell><cell>(N = 359)</cell><cell>error</cell><cell>effect</cell></row><row><cell>(%)</cell><cell>(%)</cell><cell>(%)</cell><cell>(%)</cell><cell></cell><cell>(perc. points)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_8"><head>Table 9</head><label>9</label><figDesc xml:id="_QmkGqrW">Baseline and endline values and impact estimates for number of stimulating activities undertaken with child 3-5.Notes: Estimation of treatment effect is based on random-effects GLS regression. Robust standard errors, clustered by communities, in parentheses. Asterisks indicate significance level: *p &lt; 0.1, **p &lt; 0.05, ***p &lt; 0.01.</figDesc><table><row><cell>Baseline</cell><cell></cell><cell>Endline</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Treatment</cell><cell>Control</cell><cell>Treatment</cell><cell>Control</cell><cell>Coefficient/standard error</cell><cell>Treatment effect</cell></row><row><cell>(N = 164)</cell><cell>(N = 164)</cell><cell>(N = 164)</cell><cell>(N = 164)</cell><cell></cell><cell>(points)</cell></row><row><cell>(score)</cell><cell>(score)</cell><cell>(score)</cell><cell>(score)</cell><cell></cell><cell></cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head xml:id="_fX2F7pV">Acknowledgement</head><p xml:id="_hDNgsGV">This evaluation was made possible with funding from <rs type="funder">W.K. Kellogg Foundation</rs> and the <rs type="funder">British Academy</rs>, grant <rs type="grantNumber">EC170207</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_K654gte">
+					<idno type="grant-number">EC170207</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_P6ks6mF"><p xml:id="_9EuWEbZ">CRediT authorship contribution statement Keetie Roelen: Conceptualization, Methodology, Formal analysis, Writing -original draft, Supervision, Project administration. Amrita Saha: Methodology, Formal analysis, Writing -original draft.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_xTv7Kgu">Declaration of Competing Interest</head><p xml:id="_J37D2ph">The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_dkDpgCm">Appendix A. Supplementary data</head><p xml:id="_yeu56NM">Supplementary data to this article can be found online at <ref type="url" target="https://doi.org/10.1016/j.worlddev.2021.105423">https://doi.org/10.1016/j.worlddev.2021.105423</ref>.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="consolidated"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main" xml:id="_DJpKzUp">Impacts 2 years after a scalable early childhood development intervention to increase psychosocial stimulation in the home: A follow-up of a cluster randomised controlled trial in Colombia</title>
+		<author>
+			<persName><forename type="first">Alison</forename><surname>Andrew</surname></persName>
+			<idno type="ORCID">0000-0002-8908-9683</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Orazio</forename><surname>Attanasio</surname></persName>
+			<idno type="ORCID">0000-0003-3693-4393</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Emla</forename><surname>Fitzsimons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sally</forename><surname>Grantham-Mcgregor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Costas</forename><surname>Meghir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marta</forename><surname>Rubio-Codina</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pmed.1002556</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_sfA8DjH">PLOS Medicine</title>
+		<title level="j" type="abbrev">PLoS Med</title>
+		<idno type="ISSNe">1549-1676</idno>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">e1002556</biblScope>
+			<date type="published" when="2018-04-24">2018</date>
+			<publisher>Public Library of Science (PLoS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main" xml:id="_ZpYchmt">Government of Malawi&apos;s unconditional cash transfer improves youth mental health</title>
+		<author>
+			<persName><forename type="first">Gustavo</forename><surname>Angeles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jacobus</forename><surname>De Hoop</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sudhanshu</forename><surname>Handa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kelly</forename><surname>Kilburn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Annamaria</forename><surname>Milazzo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Amber</forename><surname>Peterman</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.socscimed.2019.01.037</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Y9Fc3T2">Social Science &amp; Medicine</title>
+		<title level="j" type="abbrev">Social Science &amp; Medicine</title>
+		<idno type="ISSN">0277-9536</idno>
+		<imprint>
+			<biblScope unit="volume">225</biblScope>
+			<biblScope unit="page" from="108" to="119" />
+			<date type="published" when="2019-03">2019</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<monogr>
+		<author>
+			<persName><forename type="first">I</forename><surname>Arévalo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kaffenberger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>De Montesquiou</surname></persName>
+		</author>
+		<title level="m" xml:id="_BwfSQGD">2018 State of Sector. Synthesis Report., Partnership for Economic Inclusion</title>
+		<meeting><address><addrLine>Washington DC</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b3">
+	<monogr>
+		<author>
+			<persName><surname>Avsi</surname></persName>
+		</author>
+		<title level="m" xml:id="_DEMjwXr">Child Protection KAP Survey in Rwandan Refugee Camps</title>
+		<meeting><address><addrLine>Kigali</addrLine></address></meeting>
+		<imprint>
+			<publisher>AVSI</publisher>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main" xml:id="_75WAYQt">Income shocks and adolescent mental health</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Baird</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>De Hoop</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Ozler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_M52Xqzu">Journal of Human Resources</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="370" to="403" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b5">
+	<monogr>
+		<title level="m" type="main" xml:id="_vSKcXpP">Targeting the Hard-Core Poor: An Impact Assessment</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Chattopadhyay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shapiro</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>J-PAL</publisher>
+			<pubPlace>Cambridge, MA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main" xml:id="_EXMM8Wc">A multifaceted program causes lasting progress for the very poor: Evidence from six countries</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Goldberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Karlan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Osei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Parienté</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_KTqfWpT">Science</title>
+		<imprint>
+			<biblScope unit="volume">348</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main" xml:id="_wuYsYH7">Social transfers and child protection in the South</title>
+		<author>
+			<persName><forename type="first">Armando</forename><surname>Barrientos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jasmina</forename><surname>Byrne</surname></persName>
+			<idno type="ORCID">0000-0002-1890-5794</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Paola</forename><surname>Peña</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Juan</forename><forename type="middle">Miguel</forename><surname>Villa</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.childyouth.2014.07.011</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_X5hWWnJ">Children and Youth Services Review</title>
+		<title level="j" type="abbrev">Children and Youth Services Review</title>
+		<idno type="ISSN">0190-7409</idno>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">Part 2</biblScope>
+			<biblScope unit="page" from="105" to="112" />
+			<date type="published" when="2014-12">2014</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main" xml:id="_CxWfuKw">The impact of cash transfers: A review of the evidence from low-and middleincome countries</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Bastagli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hagen-Zanker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Harman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Barca</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Sturge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Schmidt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_JKGv5AW">Journal of Social Policy</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="569" to="594" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main" xml:id="_KFmwK6x">Parental Knowledge, Attitudes and Practices in Early Childhood Development among Low Income Urban Parents</title>
+		<author>
+			<persName><forename type="first">Taslima</forename><surname>Begum</surname></persName>
+		</author>
+		<idno type="DOI">10.13189/ujph.2019.070504</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_275UsXE">Universal Journal of Public Health</title>
+		<title level="j" type="abbrev">ujph</title>
+		<idno type="ISSN">2331-8880</idno>
+		<idno type="ISSNe">2331-8945</idno>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="214" to="226" />
+			<date type="published" when="2019-09">2019</date>
+			<publisher>Horizon Research Publishing Co., Ltd.</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main" xml:id="_V2ysF7z">Improving the quality of early childhood care at scale: The effects of &apos;&apos;From Zero to Forever</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bernal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Ramírez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_z39RNbh">World Development</title>
+		<imprint>
+			<biblScope unit="volume">118</biblScope>
+			<biblScope unit="page" from="91" to="105" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main" xml:id="_n7y5vTP">Early childhood development coming of age: science through the life course</title>
+		<author>
+			<persName><forename type="first">Maureen</forename><forename type="middle">M</forename><surname>Black</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Susan</forename><forename type="middle">P</forename><surname>Walker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lia</forename><forename type="middle">C H</forename><surname>Fernald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christopher</forename><forename type="middle">T</forename><surname>Andersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ann</forename><forename type="middle">M</forename><surname>Digirolamo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Chunling</forename><surname>Lu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dana</forename><forename type="middle">C</forename><surname>Mccoy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Günther</forename><surname>Fink</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yusra</forename><forename type="middle">R</forename><surname>Shawar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeremy</forename><surname>Shiffman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Amanda</forename><forename type="middle">E</forename><surname>Devercelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Quentin</forename><forename type="middle">T</forename><surname>Wodon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Emily</forename><surname>Vargas-Barón</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sally</forename><surname>Grantham-Mcgregor</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0140-6736(16)31389-7</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_MsCdabE">The Lancet</title>
+		<title level="j" type="abbrev">The Lancet</title>
+		<idno type="ISSN">0140-6736</idno>
+		<imprint>
+			<biblScope unit="volume">389</biblScope>
+			<biblScope unit="issue">10064</biblScope>
+			<biblScope unit="page" from="77" to="90" />
+			<date type="published" when="2017-01">2017</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main" xml:id="_GyrA6es">Nurturing care: Promoting early childhood development</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Britto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Lye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Proulx</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Yousafzai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Matthews</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Vaivada</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_pyVn9uQ">The Lancet</title>
+		<imprint>
+			<biblScope unit="volume">389</biblScope>
+			<biblScope unit="page" from="91" to="102" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main" xml:id="_7cEhRa2">The way to a man’s heart is through his stomach?: a mixed methods study on causal mechanisms through which cash and in-kind food transfers decreased intimate partner violence</title>
+		<author>
+			<persName><forename type="first">Ana</forename><forename type="middle">Maria</forename><surname>Buller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Melissa</forename><surname>Hidrobo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Amber</forename><surname>Peterman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lori</forename><surname>Heise</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/s12889-016-3129-3</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_HjkutWB">BMC Public Health</title>
+		<title level="j" type="abbrev">BMC Public Health</title>
+		<idno type="ISSNe">1471-2458</idno>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="13" />
+			<date type="published" when="2016-06-08">2016</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main" xml:id="_4bBhxJX">A Mixed-Method Review of Cash Transfers and Intimate Partner Violence in Low- and Middle-Income Countries</title>
+		<author>
+			<persName><forename type="first">Ana</forename><forename type="middle">Maria</forename><surname>Buller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Amber</forename><surname>Peterman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Meghna</forename><surname>Ranganathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alexandra</forename><surname>Bleile</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Melissa</forename><surname>Hidrobo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lori</forename><surname>Heise</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/wbro/lky002</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_7YuS2JU">The World Bank Research Observer</title>
+		<idno type="ISSN">0257-3032</idno>
+		<idno type="ISSNe">1564-6971</idno>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="218" to="258" />
+			<date type="published" when="2018-08-01">2018</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main" xml:id="_VvzbGdp">Asset Thresholds and Social Protection: A ‘Think-Piece’</title>
+		<author>
+			<persName><forename type="first">Michael</forename><forename type="middle">R</forename><surname>Carter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christopher</forename><forename type="middle">B</forename><surname>Barrett</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1759-5436.2007.tb00371.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_sy33584">IDS Bulletin</title>
+		<idno type="ISSN">0265-5012</idno>
+		<idno type="ISSNe">1759-5436</idno>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="34" to="38" />
+			<date type="published" when="2007-05">2007</date>
+			<publisher>Institute of Development Studies</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main" xml:id="_5Ejavzh">Mental health training experiences among &lt;scp&gt;H&lt;/scp&gt;aitian healthcare workers post‐earthquake 2010</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Cianelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Wilkinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Mitchell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Anglade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nicolas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Mitrani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Peragallo</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/inr.12047</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_aMCC9K8">International Nursing Review</title>
+		<title level="j" type="abbrev">International Nursing Review</title>
+		<idno type="ISSN">0020-8132</idno>
+		<idno type="ISSNe">1466-7657</idno>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="528" to="535" />
+			<date type="published" when="2014">2014</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main" xml:id="_GVVtrDC">Effective interventions and strategies for improving early child development</title>
+		<author>
+			<persName><forename type="first">Bernadette</forename><surname>Daelmans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Maureen</forename><forename type="middle">M</forename><surname>Black</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Joan</forename><surname>Lombardi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jane</forename><surname>Lucas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Linda</forename><surname>Richter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Karlee</forename><surname>Silver</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pia</forename><surname>Britto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hirokazu</forename><surname>Yoshikawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rafael</forename><surname>Perez-Escamilla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Harriet</forename><surname>Macmillan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tarun</forename><surname>Dua</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Raschida</forename><forename type="middle">R</forename><surname>Bouhouch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zulfiqar</forename><surname>Bhutta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gary</forename><forename type="middle">L</forename><surname>Darmstadt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nirmala</forename><surname>Rao</surname></persName>
+		</author>
+		<idno type="DOI">10.1136/bmj.h4029</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_mduGTBv">BMJ</title>
+		<idno type="ISSNe">1756-1833</idno>
+		<imprint>
+			<biblScope unit="volume">351</biblScope>
+			<biblScope unit="page">h4029</biblScope>
+			<date type="published" when="2015-09-14">2015</date>
+			<publisher>BMJ</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b18">
+	<analytic>
+		<title level="a" type="main" xml:id="_kPcZ8Vt">Cash transfers and child nutrition: Pathways and impacts</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>De Groot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Palermo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Handa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">P</forename><surname>Ragno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Peterman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_R9gBAGq">Development Policy Review</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="621" to="643" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main" xml:id="_Me27Tuw">To RCT or not, is not the question: Methods for policy-relevant research on gender equality</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>De Haan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Dowie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mariara</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_KA7JD8p">World Development</title>
+		<imprint>
+			<biblScope unit="volume">127</biblScope>
+			<biblScope unit="page">104794</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main" xml:id="_KWJUejz">Cash transfers and child and adolescent development</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>De Walque</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C H</forename><surname>Fernald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gertler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hidrobo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_umE2Pt7">Child and Adolescent Health and Development</title>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Bundy</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">N</forename><forename type="middle">De</forename><surname>Silva</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Horton</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Jamison</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">G</forename><surname>Patton</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Washington DC</addrLine></address></meeting>
+		<imprint>
+			<publisher>World Bank</publisher>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="page" from="325" to="342" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main" xml:id="_TfuycTg">Graduating from food insecurity: evidence from graduation projects in Burundi and Rwanda</title>
+		<author>
+			<persName><forename type="first">Stephen</forename><surname>Devereux</surname></persName>
+			<idno type="ORCID">0000-0002-4885-0085</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Keetie</forename><surname>Roelen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ricardo</forename><surname>Sabates</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rachel</forename><surname>Sabates-Wheeler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dimitri</forename><surname>Stoelinga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Arnaud</forename><surname>Dyevre</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s12571-019-00887-1</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_AJT7HQh">Food Security</title>
+		<title level="j" type="abbrev">Food Sec.</title>
+		<idno type="ISSN">1876-4517</idno>
+		<idno type="ISSNe">1876-4525</idno>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="219" to="232" />
+			<date type="published" when="2019-01-25">2019</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main" xml:id="_xDmT7EX">Graduating from Social Protection? Editorial Introduction</title>
+		<author>
+			<persName><forename type="first">Stephen</forename><surname>Devereux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rachel</forename><surname>Sabates-Wheeler</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/1759-5436.12124</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_t4YUCs5">IDS Bulletin</title>
+		<title level="j" type="abbrev">IDS Bulletin</title>
+		<idno type="ISSN">0265-5012</idno>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="1" to="12" />
+			<date type="published" when="2015-03">2015</date>
+			<publisher>Institute of Development Studies</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b23">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><surname>Devereux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sabates</surname></persName>
+		</author>
+		<title level="m" xml:id="_fGNSqC8">Final Evaluation Report. Enhancing the Productive Capacity of Extremely Poor People in Rwanda</title>
+		<meeting><address><addrLine>Dublin</addrLine></address></meeting>
+		<imprint>
+			<publisher>Concern Worldwide</publisher>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b24">
+	<analytic>
+		<title level="a" type="main" xml:id="_2VXEbkx">How much does childhood poverty affect the life chances of children?</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Duncan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Yeung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Brooks-Gunn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Smith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_KrNpjDY">American Sociological Review</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="page" from="406" to="423" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b25">
+	<analytic>
+		<title level="a" type="main" xml:id="_DcmWdvx">Effect of early childhood development interventions implemented by primary care providers commencing in the neonatal period to improve cognitive outcomes in children aged 0-23 months: Protocol for a systematic review and meta-analysis</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Edmond</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Strobel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Adams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Mcaullay</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_jW72dbc">Systematic Reviews</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">224</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b26">
+	<analytic>
+		<title level="a" type="main" xml:id="_KRDqpbb">Strategies to avoid the loss of developmental potential in more than 200 million children in the developing world</title>
+		<author>
+			<persName><forename type="first">Patrice</forename><forename type="middle">L</forename><surname>Engle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Maureen</forename><forename type="middle">M</forename><surname>Black</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jere</forename><forename type="middle">R</forename><surname>Behrman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Meena</forename><surname>Cabral De Mello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Paul</forename><forename type="middle">J</forename><surname>Gertler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lydia</forename><surname>Kapiriri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Reynaldo</forename><surname>Martorell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mary</forename><forename type="middle">Eming</forename><surname>Young</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0140-6736(07)60112-3</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_M2JTUSs">The Lancet</title>
+		<title level="j" type="abbrev">The Lancet</title>
+		<idno type="ISSN">0140-6736</idno>
+		<imprint>
+			<biblScope unit="volume">369</biblScope>
+			<biblScope unit="issue">9557</biblScope>
+			<biblScope unit="page" from="229" to="242" />
+			<date type="published" when="2007-01">2007</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b27">
+	<analytic>
+		<title level="a" type="main" xml:id="_NNkEMHp">Strategies for reducing inequalities and improving developmental outcomes for young children in low-income and middle-income countries</title>
+		<author>
+			<persName><forename type="first">Patrice</forename><forename type="middle">L</forename><surname>Engle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lia</forename><forename type="middle">Ch</forename><surname>Fernald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Harold</forename><surname>Alderman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jere</forename><surname>Behrman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Chloe</forename><surname>O'gara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aisha</forename><surname>Yousafzai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Meena</forename><forename type="middle">Cabral</forename><surname>De Mello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Melissa</forename><surname>Hidrobo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nurper</forename><surname>Ulkuer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ilgi</forename><surname>Ertem</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Selim</forename><surname>Iltus</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0140-6736(11)60889-1</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_uvg5Sv2">The Lancet</title>
+		<title level="j" type="abbrev">The Lancet</title>
+		<idno type="ISSN">0140-6736</idno>
+		<imprint>
+			<biblScope unit="volume">378</biblScope>
+			<biblScope unit="issue">9799</biblScope>
+			<biblScope unit="page" from="1339" to="1353" />
+			<date type="published" when="2011-10">2011</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b28">
+	<analytic>
+		<title level="a" type="main" xml:id="_MZQgjNg">The parent trap: Cash transfers and the intergenerational transmission of depressive symptoms in South Africa</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Eyal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Burns</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_f7Q92GV">World Development</title>
+		<imprint>
+			<biblScope unit="volume">117</biblScope>
+			<biblScope unit="page" from="211" to="229" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b29">
+	<analytic>
+		<title level="a" type="main" xml:id="_drzZ4t7">The impact of water conservation and intensification technologies: Empirical evidence for rice farmers in Ghana</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Faltermeier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Abdulai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_vAnkb3X">Agricultural Economics</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="279" to="365" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b30">
+	<analytic>
+		<title level="a" type="main" xml:id="_6e5AEjC">An Analysis of Sample Attrition in Panel Data: The Michigan Panel Study of Income Dynamics</title>
+		<author>
+			<persName><forename type="first">John</forename><surname>Fitzgerald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Peter</forename><surname>Gottschalk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Moffitt</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/146433</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_ax72E63">The Journal of Human Resources</title>
+		<title level="j" type="abbrev">The Journal of Human Resources</title>
+		<idno type="ISSN">0022-166X</idno>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">251</biblScope>
+			<date type="published" when="1998">1998</date>
+			<publisher>JSTOR</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b31">
+	<analytic>
+		<title level="a" type="main" xml:id="_ZM45fY9">Developmental potential in the first 5 years for children in developing countries</title>
+		<author>
+			<persName><forename type="first">Sally</forename><surname>Grantham-Mcgregor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yin</forename><forename type="middle">Bun</forename><surname>Cheung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Santiago</forename><surname>Cueto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Glewwe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Linda</forename><surname>Richter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Barbara</forename><surname>Strupp</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0140-6736(07)60032-4</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_R84SQvu">The Lancet</title>
+		<title level="j" type="abbrev">The Lancet</title>
+		<idno type="ISSN">0140-6736</idno>
+		<imprint>
+			<biblScope unit="volume">369</biblScope>
+			<biblScope unit="issue">9555</biblScope>
+			<biblScope unit="page" from="60" to="70" />
+			<date type="published" when="2007-01">2007</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b32">
+	<analytic>
+		<title level="a" type="main" xml:id="_XerJ3rQ">Family economic empowerment and mental health among AIDS-affected children living in AIDS-impacted communities: evidence from a randomised evaluation in southwestern Uganda</title>
+		<author>
+			<persName><forename type="first">Chang-Keun</forename><surname>Han</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fred</forename><forename type="middle">M</forename><surname>Ssewamala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Julia Shu-Huah</forename><surname>Wang</surname></persName>
+		</author>
+		<idno type="DOI">10.1136/jech-2012-201601</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_MmzdJ4y">Journal of Epidemiology and Community Health</title>
+		<title level="j" type="abbrev">J Epidemiol Community Health</title>
+		<idno type="ISSN">0143-005X</idno>
+		<idno type="ISSNe">1470-2738</idno>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="225" to="230" />
+			<date type="published" when="2013-02-13">2013</date>
+			<publisher>BMJ</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b33">
+	<analytic>
+		<title level="a" type="main" xml:id="_gV69fRe">An assessment of the Francois-Xavier Bagnoud poverty alleviation program in Rwanda and Uganda</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">O</forename><surname>Harhay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C S</forename><surname>Fawzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Jeanneret</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ndayisaba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Kibaalya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Harrison</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_6BQWpFG">International Journal of Public Health</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="page" from="241" to="252" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b34">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Hashemi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Umaira</surname></persName>
+		</author>
+		<title level="m" xml:id="_fxJRa2h">New Pathways for the Poorest: The Graduation Model from BRAC</title>
+		<meeting><address><addrLine>Brighton</addrLine></address></meeting>
+		<imprint>
+			<publisher>CSP/IDS</publisher>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b35">
+	<analytic>
+		<title level="a" type="main" xml:id="_HK4MwxW">The Short-term Impact of Unconditional Cash Transfers to the Poor: Experimental Evidence from Kenya*</title>
+		<author>
+			<persName><forename type="first">Johannes</forename><surname>Haushofer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeremy</forename><surname>Shapiro</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/qje/qjw025</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_WUWeDum">The Quarterly Journal of Economics</title>
+		<idno type="ISSN">0033-5533</idno>
+		<idno type="ISSNe">1531-4650</idno>
+		<imprint>
+			<biblScope unit="volume">131</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1973" to="2042" />
+			<date type="published" when="2016-07-19">2016</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b36">
+	<analytic>
+		<title level="a" type="main" xml:id="_8FNRCpT">Poverty and perceived stress: Evidence from two unconditional cash transfer programs in Zambia</title>
+		<author>
+			<persName><forename type="first">Lisa</forename><surname>Hjelm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sudhanshu</forename><surname>Handa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jacobus</forename><surname>De Hoop</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tia</forename><surname>Palermo</surname></persName>
+			<idno type="ORCID">0000-0003-0419-2049</idno>
+		</author>
+		<idno type="DOI">10.1016/j.socscimed.2017.01.023</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_4R5EDdx">Social Science &amp; Medicine</title>
+		<title level="j" type="abbrev">Social Science &amp; Medicine</title>
+		<idno type="ISSN">0277-9536</idno>
+		<imprint>
+			<biblScope unit="volume">177</biblScope>
+			<biblScope unit="page" from="110" to="117" />
+			<date type="published" when="2017-03">2017</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b37">
+	<monogr>
+		<author>
+			<persName><forename type="first">K</forename><surname>Huda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Simanowitz</surname></persName>
+		</author>
+		<title level="m" xml:id="_2RmPcZe">Chemin Levi Miyo -Final Evaluation (24 months)</title>
+		<meeting><address><addrLine>Port-au-Prince</addrLine></address></meeting>
+		<imprint>
+			<publisher>Fonkoze</publisher>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b38">
+	<monogr>
+		<title level="m" type="main" xml:id="_D6vcrad">Enquête Mortalité, Morbidité et Utilisation des Services en Haïti 2016-2017: Rapport de synthèse</title>
+		<author>
+			<persName><forename type="first">Icf</forename><surname>Ihe</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<publisher>Institut Haïtien de l&apos;Enfance (IHE) et ICF</publisher>
+			<pubPlace>Rockville, Maryland, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b39">
+	<analytic>
+		<title level="a" type="main" xml:id="_84f7qwQ">Haiti: Poverty Reduction Strategy Paper</title>
+		<author>
+			<persName><surname>International Monetary Fund</surname></persName>
+		</author>
+		<idno type="DOI">10.5089/9781498329019.002</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_HwYz3j4">IMF Staff Country Reports</title>
+		<idno type="ISSN">1934-7685</idno>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">154</biblScope>
+			<biblScope unit="page">1</biblScope>
+			<date type="published" when="2014">2014</date>
+			<publisher>International Monetary Fund (IMF)</publisher>
+			<pubPlace>Washington DC</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b40">
+	<analytic>
+		<title level="a" type="main" xml:id="_rVbaVdF">An integrated approach to increasing women’s empowerment status and reducing domestic violence: Results of a cluster-randomized controlled trial in a West African country.</title>
+		<author>
+			<persName><forename type="first">Leyla</forename><surname>Ismayilova</surname></persName>
+			<idno type="ORCID">0000-0002-0027-4824</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Leyla</forename><surname>Karimli</surname></persName>
+			<idno type="ORCID">0000-0002-7255-7540</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Eleni</forename><surname>Gaveras</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alexice</forename><surname>Tô-Camier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jo</forename><surname>Sanson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Josh</forename><surname>Chaffin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rachel</forename><surname>Nanema</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/vio0000136</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_UsXwJhA">Psychology of Violence</title>
+		<title level="j" type="abbrev">Psychology of Violence</title>
+		<idno type="ISSN">2152-0828</idno>
+		<idno type="ISSNe">2152-081X</idno>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="448" to="459" />
+			<date type="published" when="2018-07">2018</date>
+			<publisher>American Psychological Association (APA)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b41">
+	<analytic>
+		<title level="a" type="main" xml:id="_pHXAHaQ">Screening for serious mental illness in the general population</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Kessler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Barker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Colpe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Epstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Gfroerer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Hiripi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_NAX6yFK">Archives of General Psychiatry</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="page" from="184" to="189" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b42">
+	<analytic>
+		<title level="a" type="main" xml:id="_a7MyANV">Screening for serious mental illness in the general population with the K6 screening scale: results from the WHO World Mental Health (WMH) survey initiative</title>
+		<author>
+			<persName><forename type="first">Ronald</forename><forename type="middle">C</forename><surname>Kessler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jennifer</forename><forename type="middle">Greif</forename><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><forename type="middle">J</forename><surname>Gruber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nancy</forename><forename type="middle">A</forename><surname>Sampson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Evelyn</forename><surname>Bromet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marius</forename><surname>Cuitan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Toshi</forename><forename type="middle">A</forename><surname>Furukawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Oye</forename><surname>Gureje</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hristo</forename><surname>Hinkov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Chi‐yi</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Carmen</forename><surname>Lara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sing</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zeina</forename><surname>Mneimneh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Landon</forename><surname>Myer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mark</forename><surname>Oakley‐browne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jose</forename><surname>Posada‐villa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rajesh</forename><surname>Sagar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Maria</forename><forename type="middle">Carmen</forename><surname>Viana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alan</forename><forename type="middle">M</forename><surname>Zaslavsky</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/mpr.310</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_BJHbV7a">International Journal of Methods in Psychiatric Research</title>
+		<title level="j" type="abbrev">Int J Methods Psych Res</title>
+		<idno type="ISSN">1049-8931</idno>
+		<idno type="ISSNe">1557-0657</idno>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">S1</biblScope>
+			<biblScope unit="page" from="4" to="22" />
+			<date type="published" when="2010-05-31">2010</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b43">
+	<analytic>
+		<title level="a" type="main" xml:id="_bZ9X3Zv">Utilizing a family-based economic strengthening intervention to improve mental health wellbeing among female adolescent orphans in Uganda</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kivumbi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Byansi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">M</forename><surname>Ssewamala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Proscovia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Damulira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Namatovu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_qVgbC8Y">Child and Adolescent Psychiatry and Mental Health</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page">14</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b44">
+	<analytic>
+		<title level="a" type="main" xml:id="_qM3nyYV">Poverty and mental disorders: Breaking the cycle in low-income and middleincome countries</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>De Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Plagerson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Cooper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Chisholm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Das</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_zwM5svj">The Lancet</title>
+		<imprint>
+			<biblScope unit="volume">378</biblScope>
+			<biblScope unit="page" from="1502" to="1514" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b45">
+	<analytic>
+		<title level="a" type="main" xml:id="_ztfpPAa">Cash Transfers, Behavioral Changes, and Cognitive Development in Early Childhood: Evidence from a Randomized Experiment</title>
+		<author>
+			<persName><forename type="first">Karen</forename><surname>Macours</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Norbert</forename><surname>Schady</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Renos</forename><surname>Vakis</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/app.4.2.247</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_CXR8Ryh">American Economic Journal: Applied Economics</title>
+		<title level="j" type="abbrev">American Economic Journal: Applied Economics</title>
+		<idno type="ISSN">1945-7782</idno>
+		<idno type="ISSNe">1945-7790</idno>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="247" to="273" />
+			<date type="published" when="2012-04-01">2012</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b46">
+	<analytic>
+		<title level="a" type="main" xml:id="_ngJKcDa">Early Life Exposure to Violence: Developmental Consequences on Brain and Behavior</title>
+		<author>
+			<persName><forename type="first">Isabelle</forename><surname>Mueller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ed</forename><surname>Tronick</surname></persName>
+		</author>
+		<idno type="DOI">10.3389/fnbeh.2019.00156</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_bHHamQA">Frontiers in Behavioral Neuroscience</title>
+		<title level="j" type="abbrev">Front. Behav. Neurosci.</title>
+		<idno type="ISSNe">1662-5153</idno>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<date type="published" when="2019-07-09">2019</date>
+			<publisher>Frontiers Media SA</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b47">
+	<analytic>
+		<title level="a" type="main" xml:id="_PAW3fEx">Sustaining Graduation: A Review of the CLM Programme in Haiti</title>
+		<author>
+			<persName><forename type="first">Chris</forename><surname>Pain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Emilie</forename><surname>Vautravers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alain</forename><surname>Descieux</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/1759-5436.12130</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_6tmTk5Y">IDS Bulletin</title>
+		<title level="j" type="abbrev">IDS Bulletin</title>
+		<idno type="ISSN">0265-5012</idno>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="74" to="82" />
+			<date type="published" when="2015-03">2015</date>
+			<publisher>Institute of Development Studies</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b48">
+	<analytic>
+		<title level="a" type="main" xml:id="_5zBkdah">Bridging the academic-practitioner gap in RCTs</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">Rani</forename><surname>Parker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eric</forename><surname>Coleman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jacob</forename><surname>Manyindo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Emmanuel</forename><surname>Mukuru</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bill</forename><surname>Schultz</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.worlddev.2019.104819</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_YwAkDxk">World Development</title>
+		<title level="j" type="abbrev">World Development</title>
+		<idno type="ISSN">0305-750X</idno>
+		<imprint>
+			<biblScope unit="volume">127</biblScope>
+			<biblScope unit="page">104819</biblScope>
+			<date type="published" when="2020-03">2020</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b49">
+	<analytic>
+		<title level="a" type="main" xml:id="_cBUSxaG">An Introduction to Scientific Realist Evaluation</title>
+		<author>
+			<persName><forename type="first">Ray</forename><surname>Pawson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nick</forename><surname>Tilley</surname></persName>
+		</author>
+		<idno type="DOI">10.4135/9781483348896.n29</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_GqS78DH">Evaluation for the 21st Century: A Handbook</title>
+		<editor>
+			<persName><forename type="first">E</forename><surname>Chelimsky</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">W</forename><forename type="middle">R</forename><surname>Shadish</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Thousand Oaks, California</addrLine></address></meeting>
+		<imprint>
+			<publisher>SAGE Publications, Inc.</publisher>
+			<date type="published" when="1997">1997</date>
+			<biblScope unit="page" from="405" to="418" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b50">
+	<analytic>
+		<title level="a" type="main" xml:id="_NS5NWUa">Does Money Matter? The Effects of Cash Transfers on Child Development in Rural Ecuador</title>
+		<author>
+			<persName><forename type="first">Christina</forename><surname>Paxson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Norbert</forename><surname>Schady</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/655458</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_SqG7Rgc">Economic Development and Cultural Change</title>
+		<title level="j" type="abbrev">Economic Development and Cultural Change</title>
+		<idno type="ISSN">0013-0079</idno>
+		<idno type="ISSNe">1539-2988</idno>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="187" to="229" />
+			<date type="published" when="2010-10">2010</date>
+			<publisher>University of Chicago Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b51">
+	<analytic>
+		<title level="a" type="main" xml:id="_bUV4PrX">Understanding the linkages between social safety nets and childhood violence: a review of the evidence from low- and middle-income countries</title>
+		<author>
+			<persName><forename type="first">Amber</forename><surname>Peterman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anastasia</forename><forename type="middle">(naomi)</forename><surname>Neijhoft</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sarah</forename><surname>Cook</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tia</forename><forename type="middle">M</forename><surname>Palermo</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/heapol/czx033</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_G6Rezs6">Health Policy and Planning</title>
+		<idno type="ISSN">0268-1080</idno>
+		<idno type="ISSNe">1460-2237</idno>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1049" to="1071" />
+			<date type="published" when="2017-04-22">2017</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b52">
+	<analytic>
+		<title level="a" type="main" xml:id="_K2sm6Ds">Cash transfers, maternal depression and emotional well-being: Quasi-experimental evidence from India’s Janani Suraksha Yojana programme</title>
+		<author>
+			<persName><forename type="first">Timothy</forename><surname>Powell-Jackson</surname></persName>
+			<idno type="ORCID">0000-0002-6082-3805</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Shreya</forename><forename type="middle">K</forename><surname>Pereira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Varun</forename><surname>Dutt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sarah</forename><surname>Tougher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kaveri</forename><surname>Haldar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Paresh</forename><surname>Kumar</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.socscimed.2016.06.034</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_U8UvN9H">Social Science &amp; Medicine</title>
+		<title level="j" type="abbrev">Social Science &amp; Medicine</title>
+		<idno type="ISSN">0277-9536</idno>
+		<imprint>
+			<biblScope unit="volume">162</biblScope>
+			<biblScope unit="page" from="210" to="218" />
+			<date type="published" when="2016-08">2016</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b53">
+	<analytic>
+		<title level="a" type="main" xml:id="_tqFgQvS">Randomized controlled trials of multi-sectoral programs: Lessons from development research</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Quisumbing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ahmed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">O</forename><surname>Gilligan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hoddinott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Leroy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_XETjhU3">World Development</title>
+		<imprint>
+			<biblScope unit="volume">127</biblScope>
+			<biblScope unit="page">104822</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b54">
+	<analytic>
+		<title level="a" type="main" xml:id="_uQdh8z2">Effectiveness of early childhood interventions in promoting cognitive development in developing countries: A systematic review and meta-analysis</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Rao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ip</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_qFfcF6V">Hong Kong Journal of Paediatrics</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="14" to="25" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b55">
+	<analytic>
+		<title level="a" type="main" xml:id="_AxHf3vx">Investing in the foundation of sustainable development: Pathways to scale up for early childhood development</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Richter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Daelmans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lombardi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Heymann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Boo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Behrman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Gx2fVQT">The Lancet</title>
+		<imprint>
+			<biblScope unit="volume">389</biblScope>
+			<biblScope unit="page" from="103" to="118" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b56">
+	<monogr>
+		<title level="m" type="main" xml:id="_NPkak2q">How to Make &apos;&apos;Cash Plus&quot; Work: Linking Cash Transfers to Services and Sectors</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Roelen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Devereux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A-G</forename><surname>Abdulai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Martorano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Palermo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">P</forename><surname>Ragno</surname></persName>
+		</author>
+		<idno>WP-2017-10</idno>
+		<imprint>
+			<publisher>UNICEF Office of Research</publisher>
+			<pubPlace>Florence</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Innocenti Working Paper</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b57">
+	<analytic>
+		<title level="a" type="main" xml:id="_wVKKTmz">Money and the Message: The Role of Training and Coaching in Graduation Programming</title>
+		<author>
+			<persName><forename type="first">Keetie</forename><surname>Roelen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stephen</forename><surname>Devereux</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00220388.2018.1475648</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_n88Sea8">The Journal of Development Studies</title>
+		<title level="j" type="abbrev">The Journal of Development Studies</title>
+		<idno type="ISSN">0022-0388</idno>
+		<idno type="ISSNe">1743-9140</idno>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1121" to="1139" />
+			<date type="published" when="2019">2019</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b58">
+	<analytic>
+		<title level="a" type="main" xml:id="_AZwCSrc">The role of graduation programming in promoting early childhood development: an overview of the evidence</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Roelen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sherer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Leon-Himmelstine</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_AXC9eQd">Journal of the British Academy</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="133" to="161" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b59">
+	<analytic>
+		<title level="a" type="main" xml:id="_cF6uJwQ">The central role of the propensity score in observational studies for causal effects</title>
+		<author>
+			<persName><forename type="first">Paul</forename><forename type="middle">R</forename><surname>Rosenbaum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Donald</forename><forename type="middle">B</forename><surname>Rubin</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/biomet/70.1.41</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_u3Udwc2">Biometrika</title>
+		<title level="j" type="abbrev">Biometrika</title>
+		<idno type="ISSN">0006-3444</idno>
+		<idno type="ISSNe">1464-3510</idno>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="41" to="55" />
+			<date type="published" when="1983">1983</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b60">
+	<analytic>
+		<title level="a" type="main" xml:id="_V9gmwzv">Constructing a Control Group Using Multivariate Matched Sampling Methods That Incorporate the Propensity Score</title>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Rosenbaum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Donald</forename><surname>Rubin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_rj2CVAM">The American Statistician</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="33" to="38" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b61">
+	<analytic>
+		<title level="a" type="main" xml:id="_VmUfRSj">Transfers, behavior change communication, and intimate partner violence: Postprogram evidence from rural Bangladesh</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Roy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hidrobo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hoddinott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ahmed</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_s2hJpjt">The Review of Economics and Statistics</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="page" from="865" to="877" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b62">
+	<analytic>
+		<title level="a" type="main" xml:id="_Q87ZD6Y">Cash-plus: Poverty impacts of alternative transfer-based approaches</title>
+		<author>
+			<persName><forename type="first">Richard</forename><surname>Sedlmayr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anuj</forename><surname>Shah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Munshi</forename><surname>Sulaiman</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jdeveco.2019.102418</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_wS5GhCr">Journal of Development Economics</title>
+		<title level="j" type="abbrev">Journal of Development Economics</title>
+		<idno type="ISSN">0304-3878</idno>
+		<imprint>
+			<biblScope unit="volume">144</biblScope>
+			<biblScope unit="page">102418</biblScope>
+			<date type="published" when="2019">2019</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b63">
+	<analytic>
+		<title level="a" type="main" xml:id="_TnVjAM3">Exposure to violence predicts poor educational outcomes in young children in South Africa and Malawi</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Sherr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">S</forename><surname>Hensels</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Skeen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tomlinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Roberts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Macedo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_XqzEHwh">International Health</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="36" to="43" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b64">
+	<analytic>
+		<title level="a" type="main" xml:id="_u6PdnqD">Evaluation of the active labor market programmes in Sweden</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Sianesi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_kYQDyks">The Review of Economics and Statistics</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="page" from="133" to="155" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b65">
+	<analytic>
+		<title level="a" type="main" xml:id="_Xb547as">Does matching overcome LaLonde&apos;s critique of nonexperimental estimators?</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Todd</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_xG8H2pq">Journal of Econometrics</title>
+		<imprint>
+			<biblScope unit="volume">125</biblScope>
+			<biblScope unit="page" from="305" to="353" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b66">
+	<analytic>
+		<title level="a" type="main" xml:id="_wjbERW8">Economic Dimensions of Child Protection and Well-being</title>
+		<author>
+			<persName><forename type="first">Fred</forename><surname>Ssewamala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lindsay</forename><surname>Stark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Josh</forename><surname>Chaffin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mark</forename><surname>Canavera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Debbie</forename><surname>Landis</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.childyouth.2014.10.013</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_ju5Z8WA">Children and Youth Services Review</title>
+		<title level="j" type="abbrev">Children and Youth Services Review</title>
+		<idno type="ISSN">0190-7409</idno>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="103" to="104" />
+			<date type="published" when="2014-12">2014</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b67">
+	<analytic>
+		<title level="a" type="main" xml:id="_8MbN2n2">Maternal depression and early childhood growth in developing countries: Systematic review and meta-analysis</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Surkan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Kennedy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Hurley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Black</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_7PXxCrV">Bulletin of the World Health Organization</title>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="page" from="607" to="615" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b68">
+	<analytic>
+		<title level="a" type="main" xml:id="_dyQNse8">Beyond internal validity: Towards a broader understanding of credibility in development policy research</title>
+		<author>
+			<orgName type="collaboration">The Transfer Project</orgName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_KvVQNVH">World Development</title>
+		<imprint>
+			<biblScope unit="volume">127</biblScope>
+			<biblScope unit="page">104802</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b69">
+	<analytic>
+		<title level="a" type="main" xml:id="_cXSfhsA">New methodologies for global health research: Improving the knowledge, attitude, and practice survey model through participatory research in Haiti</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Tillyard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Degennaro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_CuVdWju">Qualitative Health Research</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="1277" to="1286" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b70">
+	<analytic>
+		<title level="a" type="main" xml:id="_MnqgxRk">Beyond averages</title>
+		<idno type="DOI">10.18356/d92f4005-en</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_Uk5UmMa">Beyond income, beyond averages, beyond today: Inequalities in human development in the 21st century</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>UN</publisher>
+			<date type="published" when="2019-12-09">2019. 2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b71">
+	<analytic>
+		<title level="a" type="main" xml:id="_KQqZrrQ">Bridging the gaps in cognitive achievement in India: The crucial role of the integrated child development services in early childhood</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Vikram</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Chindarkar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_eMXDhhE">World Development</title>
+		<imprint>
+			<biblScope unit="volume">127</biblScope>
+			<biblScope unit="page">104697</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b72">
+	<analytic>
+		<title level="a" type="main" xml:id="_dqmjqmf">Inequality in early childhood: Risk and protective factors for early child development</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Walker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">D</forename><surname>Wachs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Grantham-Mcgregor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Black</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Nelson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Huffman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_AxZsNXA">The Lancet</title>
+		<imprint>
+			<biblScope unit="volume">378</biblScope>
+			<biblScope unit="page" from="1325" to="1338" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b73">
+	<analytic>
+		<title level="a" type="main" xml:id="_Nk8Q4zP">Child development: Risk factors for adverse outcomes in developing countries</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Walker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">D</forename><surname>Wachs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Meeks Gardner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Lozoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Wasserman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Pollitt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_5KszQW8">The Lancet</title>
+		<imprint>
+			<biblScope unit="volume">369</biblScope>
+			<biblScope unit="page" from="145" to="157" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b74">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><surname>Werlin</surname></persName>
+		</author>
+		<title level="m" xml:id="_dfR4ya3">Fonkoze&apos;s CLM program: Its past, its present, and its future</title>
+		<meeting><address><addrLine>Port-au-Prince</addrLine></address></meeting>
+		<imprint>
+			<publisher>Fonkoze</publisher>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b75">
+	<analytic>
+		<title level="a" type="main" xml:id="_ayzrScy">Validation of Kessler&apos;s psychological distress scale among the Sinhalese population in Sri Lanka</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">T</forename><surname>Wijeratne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D A</forename><surname>Rodrigo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">U P K</forename><surname>Peiris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Kawamura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Wickremasinghe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_VqBcaUH">South Asian Journal of Psychiatry</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="21" to="25" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b76">
+	<analytic>
+		<title level="a" type="main" xml:id="_d4Zph9V">Beyond &apos;context matters&apos;: Context and external validity in impact evaluation</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Williams</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_mCc4XBe">World Development</title>
+		<imprint>
+			<biblScope unit="volume">127</biblScope>
+			<biblScope unit="page">104833</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b77">
+	<analytic>
+		<title level="a" type="main" xml:id="_6sZRReX">Impacts, maintenance and sustainability of irrigation in Rwanda</title>
+		<author>
+			<persName><forename type="first">Esdras</forename><surname>Byiringo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Maria</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Florence</forename><surname>Kondylis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><surname>Loeser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeremy</forename><surname>Magruder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christophe</forename><surname>Ndahimana</surname></persName>
+		</author>
+		<idno type="DOI">10.23846/dpw1ie112</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_755tEvQ">Poverty &amp; Equity Brief</title>
+		<meeting><address><addrLine>Washington DC</addrLine></address></meeting>
+		<imprint>
+			<publisher>International Initiative for Impact Evaluation (3ie)</publisher>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

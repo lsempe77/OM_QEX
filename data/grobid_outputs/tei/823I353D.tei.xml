@@ -1,0 +1,1132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" xml:id="_CVJ8Yvd"></title>
+				<funder>
+					<orgName type="full">Department for International Development (DFID) of the UK</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Canadian International Development Agency</orgName>
+					<orgName type="abbreviated">CIDA</orgName>
+				</funder>
+				<funder ref="#_SWgrM56">
+					<orgName type="full">European Commission, NOVIB</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Chowdhury</forename><forename type="middle">S B</forename><surname>Jalal</surname></persName>
+							<email>cjalal@micronutrient.org.</email>
+							<affiliation key="aff0">
+								<orgName type="institution">Micronutrient Initiative</orgName>
+								<address>
+									<settlement>Ottawa</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="institution">Micronutrient Initiative</orgName>
+								<address>
+									<settlement>Ottawa</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Micronutrient Initiative</orgName>
+								<orgName type="institution">University of South Carolina</orgName>
+								<address>
+									<addrLine>180 Elgin Street Suite 1000</addrLine>
+									<postCode>K2P 2K3</postCode>
+									<settlement>Columbia Ottawa</settlement>
+									<region>South Carolina ON</region>
+									<country>USA Canada;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Edward</forename><forename type="middle">A</forename><surname>Frongillo</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Micronutrient Initiative</orgName>
+								<address>
+									<settlement>Ottawa</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">was formerly affiliated with BRAC</orgName>
+								<address>
+									<settlement>Dhaka</settlement>
+									<country>Bangladesh;</country>
+								</address>
+							</affiliation>
+						</author>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">48AB6E0E7F77B2325D82FB3BBFFE2397</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2025-11-04T19:05+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a292bac</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=1, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=true, generateTeiCoordinates=[true], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term xml:id="_DDpVQnd">Child growth</term>
+					<term xml:id="_STxDg8Z">height</term>
+					<term xml:id="_pzEzju4">nutrition</term>
+					<term xml:id="_Bgp5wdT">poverty reduction</term>
+					<term xml:id="_rh2RGJS">weight</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_GAyRgNp"><p xml:id="_WB84bcB">Background. Poverty alleviation programs for the extreme poor improve participants' economic status and may impact other important outcomes that are seldom evaluated. A program targeted to the extreme poor by BRAC, a development organization in Bangladesh, has been successful in significantly alleviating extreme poverty.</p><p xml:id="_z3ZPGEA">Objective. We hypothesized that the program also improved the nutritional status of women and preschool children.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_PKZ7g5N">Methods.</head><p xml:id="_X5TzGfD">A nonequivalent control, pre-and posttest quasi-experimental design that was longitudinal at the village level was used to test the hypotheses. Data were collected from a random sample of 4,131 children and 3,551 women from 3,409 households in 159 villages of 3 northern districts of Bangladesh in 2002 and 2006. Linear mixed random-intercept models accounted for clustering effects and potential confounders.</p><p xml:id="_3zNcAjm">Results. The weight-for-height of children between 24 and 35 months of age from program households was significantly higher (p &lt; .05) than that of children from control households. We found no significant differences between control and program households in three other growth and body-composition indicators in three other age categories of preschool children or in women.</p><p xml:id="_n4CPtgh">Conclusions. These results are important, as this is a large-scale program that has already been extended to more than half the country. The findings will contribute to judging the cost-benefit and cost-effectiveness of the program and in garnering support for the expansion of such programs.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="524.4" lry="737.0"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="524.4" lry="737.0"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="524.4" lry="737.0"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="524.4" lry="737.0"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="524.4" lry="737.0"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="524.4" lry="737.0"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="524.4" lry="737.0"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="524.4" lry="737.0"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="524.4" lry="737.0"/>
+		<surface n="10" ulx="0.0" uly="0.0" lrx="524.4" lry="737.0"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_GnzxYhc">Introduction</head><p xml:id="_Qx6g7WR">The prevalence of undernutrition in children under 5 years of age in Bangladesh is much higher than the average prevalence among low-and middle-income countries <ref type="bibr" target="#b1">[1,</ref><ref type="bibr" target="#b2">2]</ref>. The percentages of children suffering from moderate to severe underweight (weight-forage &lt; -2 z-scores), thinness (weight-for-height &lt; -2 z-scores), and stunting (height-for-age &lt; -2 z-scores) are 41%, 17%, and 43%, respectively <ref type="bibr" target="#b3">[3]</ref>. The high proportion of women between 15 and 45 years of age with short stature (147.9 ± 5.2 cm; mean stature at first percentile of international reference) and low (&lt; 18.5) body mass index (BMI) (38.8% in rural and 29.7% urban poor) increases the risk of intrauterine growth restriction (IUGR) <ref type="bibr" target="#b2">[2,</ref><ref type="bibr" target="#b4">[4]</ref><ref type="bibr" target="#b5">[5]</ref><ref type="bibr" target="#b6">[6]</ref>. Such growth restriction in utero or stunting in the first 2 years of life causes irreversible damage to the growth and development of children, resulting in shorter adult height, lower attained schooling, reduced productivity in adult life, and poorer pregnancy outcome <ref type="bibr" target="#b2">[2,</ref><ref type="bibr" target="#b7">[7]</ref><ref type="bibr" target="#b8">[8]</ref><ref type="bibr" target="#b9">[9]</ref>. Furthermore, thinness, stunting, and IUGR contribute to a large percentage of deaths and disability-adjusted life years (DALYs) lost, emphasizing the need for intervention during pregnancy and in early childhood <ref type="bibr" target="#b2">[2]</ref>.</p><p xml:id="_Z7RuuHP">Inadequate access to resources due to poverty is the basic cause of undernutrition in women and children <ref type="bibr" target="#b10">[10]</ref>. Challenging the Frontiers of Poverty Reduction-Targeting Ultra Poor (CFPR-TUP), an initiative of BRAC (formerly known as the Bangladesh Rural Advancement Committee), directly intervened on extreme poverty in rural Bangladesh, and has significantly alleviated poverty among the poorest of the poor and enabled them to participate in the microfinance market <ref type="bibr" target="#b11">[11]</ref><ref type="bibr" target="#b12">[12]</ref><ref type="bibr" target="#b13">[13]</ref><ref type="bibr" target="#b14">[14]</ref>. The program is designed to support women of extremely poor households by providing income-earning opportunities, strengthening sociopolitical livelihoods, and building self-awareness and self-confidence. The resultant benefits of the program potentially relevant to nutrition are decreased food insecurity, increased food consumption in both quantity and quality, improved health-seeking behavior, and increased ability of women's health-related decisionmaking <ref type="bibr" target="#b11">[11,</ref><ref type="bibr" target="#b15">[15]</ref><ref type="bibr" target="#b16">[16]</ref><ref type="bibr" target="#b17">[17]</ref>. It is, therefore, possible that the program may also improve the nutritional status of women and children in extremely poor households.</p><p xml:id="_5Bq5K2j">Improving the nutritional status of women and children would further contribute to the cost-benefit and cost-effectiveness of the CFPR-TUP program and rationalize the need for supporting the expansion of such programs. This study investigated the impact of the program on the nutritional status of women aged 15 to 45 years and on children under the age of 5 years. We hypothesized that women and children who participated in the program would have improved nutritional status compared with nonparticipants.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_ZgmAkjf">Methods</head><p xml:id="_SqfCavp">The CFPR-TUP program selects households through a multistage process, based on socioeconomic condition and availability of women eligible to earn income. The women of the selected households receive incomeearning assets, subsistence allowance, and training on basic entrepreneurial skills. The program closely supervises the income-generating activities of each woman for a grant phase of 18 months, after which the participant women are expected to graduate from the CFPR-TUP program and join the conventional BRAC microcredit program. The program also strengthens participants' sociopolitical livelihood by building awareness and self-confidence as well as by advocating local-level service-oriented institutions <ref type="bibr" target="#b18">[18]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_YzxQGJZ">Study design and sample size</head><p xml:id="_xWmMzFC">The study was conducted in Rangpur, Nilphamari, and Kurigram, three northern districts of Bangladesh where the CFPR-TUP program started in 2002. The BRAC Research and Evaluation Division (RED) collected baseline (2002) data on anthropometry and a set of demographic, health, and socioeconomic variables from children aged 6 to 60 months and women aged 15 to 45 years <ref type="bibr" target="#b11">[11]</ref>. Data were collected from all households in one-third of randomly selected villages from each of BRAC's 38 area offices that were operating in these three districts. About an equal number of control households from each village were also included in the baseline survey. The control households were initially selected by BRAC for consideration in the program but were later excluded during the multistage selection process.</p><p xml:id="_xspkhmj">For this study, we collected demographic, health, nutritional, and anthropometric data from July to September 2006 from women and children of the same age groups as at baseline. The majority of the women included in this study were the same women from whom data were collected at baseline. The children surveyed in 2006, however, were not the same individuals; all children who were aged 12 months or older at baseline were past the age of 60 months in 2006. Also, the women sampled in this study were not necessarily the mothers of the children surveyed. As a result, no data on mother-child pairs were available for the analyses. The data were collected from all program and control households that had at least one child between the ages of 6 and 60 months. The households were selected from 159 villages, randomly selected from a baseline village list of 446. Data were collected from 1,971 households at baseline, from which 2,468 children and 1,894 women were available. In 2006, we surveyed 1,438 households and achieved samples of 1,663 children and 1,657 women.</p><p xml:id="_utcmBHD">Three characteristics made our study a nonequivalent control group, pre-and posttest quasi-experimental design that was longitudinal at the village level. First, anthropometric data from women and children were available from program and control households at baseline and in 2006. Second, comparing a new cohort of children with that at baseline and the matching of program and control households within each village made the design longitudinal at the village level. Third, exclusion of control households for program participation during the selection process meant that the control households were economically better off than the selected households, adding nonequivalence to the design. The first two characteristics allowed for differences at the village level in anthropometric status between program and control children in 2006 to be examined while accounting for baseline anthropometric status in two analyses, a repeated-measures analysis in which villages were considered random effects and a double-difference analysis in which villages were considered fixed effects (i.e., village differences from baseline to 2006 were compared between program and control).</p><p xml:id="_2rwANVr">The sample sizes needed for adequate power were calculated based on means and standard deviations derived from the height and weight of women and children at baseline. A power (1 -β) of 90% with α of 0.05 was used to determine the adequacy of sampling for each of the outcomes. Assuming that the program's effect on the outcome variables could be either positive or negative, we used a two-tailed test to calculate the sample sizes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_2JyqMB8">Data collection procedures</head><p xml:id="_NHzfhBb">Eighteen interviewers were selected from a pool of 24 female university graduates and assigned to nine groups for data collection in 2006. Both in-class and field training were provided to all 24 interviewers for a period of 3 weeks on the administration of the survey form and anthropometric data collection. The training was conducted by an experienced BRAC trainer and the first author. Day-long refresher training was also given at a field office after the interviewers were sent to test data collection for a day on program households not otherwise participating in the research.</p><p xml:id="_uN6nHF6">Three field supervisors, one in each district, were assigned to provide assistance to the interviewers in data collection, logistics, and cross-checking of questionnaires. All field activities were monitored by a field manager highly experienced in conducting surveys. The interviewers were in frequent communication with the field manager and the first author through cellular telephones to instantly resolve any field-related issues.</p><p xml:id="_rRPjnxa">Demographic and socioeconomic information was collected with the use of a pretested survey form. Wooden length/height boards were used to measure the height of children over 24 months of age and recumbent length of children 24 months of age or younger to a precision of 1 mm. The weight of the women and children was measured to a precision of 100 g using Uniscales manufactured by SECA (Clara 803).</p><p xml:id="_AZF2jeU">Prior to each interview, informed written consent was obtained from each woman aged 18 years or over. The parents or legal guardians signed the consent form for children and for women below 18 years of age. The study protocol was approved by the Bangladesh Medical Research Council, Dhaka, and the University Committee on Human Subjects, Cornell University, USA.</p><p xml:id="_TXVcjaZ">Data entry and preliminary cleaning were done by a RED data entry specialist. Further cleaning was done by the authors.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_3JGttD6">Statistical analysis</head><p xml:id="_V8zBCsr">A data set that was longitudinal at the village level was created by concatenating baseline <ref type="bibr">(2002)</ref> anthropometric data from women and children and other relevant variables to the 2006 data. Children's anthropometric data were analyzed separately for four different age categories under the assumption that children of different age categories had different lengths of exposure to the program (fig. <ref type="figure">1</ref>) and that there would be differential biological susceptibility to the intervention. Height, weight, age, and sex were used to calculate weight-forage, height-for-age, weight-for-height, and body mass index (BMI)-for-age for each child. The standardized scores (z-scores) of these variables were derived from the World Health Organization (WHO) child growth standard using WHO Anthro (version 2.0.2) <ref type="bibr" target="#b19">[19]</ref>. The BMI of women was calculated by dividing the weight in kilograms by the height in meters squared.</p><p xml:id="_zeKNsNR">All outcome variables were tested for normality. A non-normal distribution was observed only in women's BMI scores; logarithmic transformation was used for the multilevel analysis, and means and standard deviations were reported on the untransformed scale.</p><p xml:id="_JPpfD3v">Linear mixed (random-intercept) repeated-measures models were used to account for the clustering effect of districts, area offices, and villages in measuring the effect of the program on all outcomes 4 years after the program began. After preliminary analyses, however, we excluded districts from the model because little variation was found among districts. Inclusion of districts also made the models less efficient and did not change any of the results. Area office and village were used as random-effect variables in the models.</p><p xml:id="_sMDC8rW">Having repeated measures at the village level refers to the self-adjusting nature of the design and obviated the need to control for demographic and socioeconomic</p><p xml:id="_kkAW3xN">FIG. 1. Exposure of children to the program according to age group. CFPR-TUP, Challenging the Frontiers of Poverty Reduction-Targeting Ultra Poor 2001 36-60 mo 24-35 mo 12-23 mo Period when children were born Period in utero CFPR-TUP grant phase No program Regular micro-credit program 6-11 mo Data collection Data collection 2002 2003 2004 2005 2006 covariates. In the analyses, therefore, we only controlled for biological characteristics that are strong determinants of growth performance in children (height, age, and sex) and of nutritional status in women (height and age). Height was not added as a covariate in the model where the dependent variable was height-for-age. In preliminary analyses, we also tested the models controlling for height-squared and age-squared but found no effect of them on the overall results. Although the standardized scores of weight-for-age, height-forage, weight-for-height, and BMI-for-age theoretically control for biological characteristics, when used in the initial analyses, age and sex were found to be significant determinants of all child growth outcomes, and height was a determinant for weight outcomes. Similarly, in the model analyzing women's BMI as an outcome, height, age, and logarithm-transformed age of women were found as significant determinants of BMI. Therefore, these covariates were included in the regression models. The final analyses included the interaction between program and time, which estimated the difference between the program-control differences at baseline and in 2006. Thus, the final analyses modeled anthropometric outcome as a function of area office and village as random effects and program, time (year), the product of program and time, and covariates (age, sex, and height) as fixed effects. These models assumed that the random effects were not correlated with the fixed effects;</p><p xml:id="_XgbAuBF">this assumption likely holds because the program assignment was made by BRAC and anthropometric outcomes were compared within villages over time. But, as a robustness check, we also ran double-difference (fixed-effect) analyses on the data aggregated to the village level that did not require this assumption; the findings from these analyses confirmed the findings from mixed-effects analyses <ref type="bibr" target="#b20">[20]</ref>. All analyses were performed with SPSS WIN 15.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_aAVKkh3">Results</head><p xml:id="_h2NrWSJ">The mean weight, height, and height-forage of both program and control children improved from baseline (2002) to 2006, whereas weight-for-height and BMI-forage declined in all age categories (table 1). The unadjusted means show that the BMI scores of both program and control women deteriorated from baseline to 2006, although improvement was observed in weight and height, relatively more in the latter (table <ref type="table" target="#tab_1">2</ref>). The program women were worse off than the control women both at baseline and in 2006. No significant difference was observed between the groups at any time point.</p><p xml:id="_R4NG3Yj">From the linear mixed analyses, both at baseline and in 2006, program children of all age categories were worse off than control children in mean height-for-age z-score (table <ref type="table" target="#tab_2">3</ref> and fig. <ref type="figure">2</ref>). The difference between program and control children decreased in the younger age categories (6 to 11 months and 12 to 24 months), whereas the difference increased in the older age categories (24 to 35 months and 36 to 60 months). We did not find any significant interaction of program and year, meaning that the program did not have any effect on height-for-age.</p><p xml:id="_tzXTtcg">The mean weight-for-height z-scores of all age categories showed that, at baseline, the program children were thinner than the control children (table <ref type="table" target="#tab_2">3</ref> and figs. <ref type="figure" target="#fig_0">3</ref> and <ref type="figure" target="#fig_1">4</ref>). A significant (-0.32 z-score, p = .01) program-control difference was observed in the age category of 24 to 35 months. In 2006, program children aged 24 to 35 months and 36 to 60 months became better off than control children. The difference of differences in children aged 24 to 35 months of -0.35 was statistically significant (p = .05), indicating an interaction between program and year; the difference of differences was also statistically significant (p = .03) in the double-difference (fixed-effects) analysis. Therefore, the improvement in mean weight-for-height z-scores found in this age category was an effect of the program.</p><p xml:id="_jcDy8UN">Considering within-group changes from baseline to 2006, both the program and the control children, in general, improved in height-for-age and deteriorated in weight-for-height (table 3 and figs. <ref type="figure">2</ref><ref type="figure" target="#fig_0">3</ref><ref type="figure" target="#fig_1">4</ref>). The older children gained less in height-for-age over the years than the younger children. Because of a better nutritional status than all other age categories at baseline, this group in 2006, however, was not different from the children aged 12 to 35 and 36 to 60 months. On the other hand, although the children aged 6 to 11 months improved as much as did children in the other age categories, they moved from moderately stunted to mildly stunted status in 2006 because of a better start at baseline.</p><p xml:id="_VXx8m5Q">The increase in thinness was significant (p &lt; .01) in all age categories of the control children except 6 to 11 months (table <ref type="table" target="#tab_2">3</ref> and fig. <ref type="figure" target="#fig_0">3</ref>). In contrast, with the exception of the age category 12 to 23 months (p = .01), we did not find any significant baseline-to-2006 change in the program children.</p><p xml:id="_nHX3Wag">We found no significant program-control difference at baseline or in 2006 in women's anthropometric status expressed as BMI. Neither group showed improvement from baseline to 2006. Running separate models with women's age categorized into different groups also did not show any differences between program and control subjects or over time (table <ref type="table" target="#tab_2">3</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_6by76eE">Discussion</head><p xml:id="_Qz4PKFn">This study investigated the effect of the CFPR-TUP program on the nutritional status of children under 5 years of age and women aged 15 to 45 years. Our primary interest was to estimate the differential impact of the program on thinness (weight-for-height) and linear growth (length-or height-for-age) in different FIG. <ref type="figure">2</ref>. Comparison of height-for-age z-scores of children in program and control groups over time age categories of children 2 years after the end of the grant phase of the program. These two indices refer to the short period of weight loss and the chronic interference of growth in the children, respectively, and helped us to explain the differential effect on child nutritional status due to variation in the duration of exposure to the program <ref type="bibr" target="#b21">[21]</ref>.</p><p xml:id="_WjfHxkM">Poverty is the basic determinant of child undernutrition. Undernutrition, however, is distal to poverty in the causal pathway. The link between the two is complex and is influenced by underlying causes that include food security, resources for care, and access to health, water, and sanitation services at the household and community levels <ref type="bibr" target="#b10">[10]</ref>. The CFPR-TUP program improved food security and provided better access to health and sanitation services <ref type="bibr" target="#b15">[15,</ref><ref type="bibr" target="#b16">16]</ref>. It is also likely that women who were more empowered due to the program had more access to resources and therefore dealt with illnesses in the children better <ref type="bibr" target="#b22">[22]</ref>. Nevertheless, anthropometric outcomes are influenced by factors other than poverty <ref type="bibr" target="#b23">[23]</ref>.</p><p xml:id="_6M6AuGu">At baseline, program children aged 24 to 35 months were significantly thinner than control children. The CFPR-TUP program ameliorated this gap by significantly reducing thinness in program children relative to control children from baseline to 2006. In general, weight-for-height deteriorated in both groups, but not significantly so in the children of program households. We also found that, except for the age category 36 to 60 months, height-for-age significantly improved in both program and control children from baseline to 2006. No difference between households was found in the nutritional status of women measured as BMI.</p><p xml:id="_tNs7A3M">We conducted the analysis with children in four age categories for two reasons. First, the growth of children in different age categories is differentially susceptible to intervention or insult <ref type="bibr" target="#b24">[24]</ref>. Children in developing countries are born with heights close to the 50th percentile of standard growth charts, but their heightfor-age begins to fall precipitously some time during the second to the sixth months of their lives <ref type="bibr" target="#b25">[25]</ref>. A similar pattern is seen in weight-for-height, particularly -1.5 -1.0 -0.5 0 0.5 -1.5 -1.0 -0.5 0 0.5 -1.5 -1.0 -0.5 0 0.5 -1.5 -1.0 -0.5 0 0.5 2002 2003 2004 2005 2006 Mean weight-for-height z-score Children 6-11 mo 2002 2003 2004 2005 2006 Mean weight-for-height z-score Children 24-35 mo 2002 2003 2004 2005 2006 Children 12-23 mo 2002 2003 2004 2005 2006 Children 36-60 mo Program Control Year Year</p><p xml:id="_KyeVwqy">among children on the Indian subcontinent <ref type="bibr" target="#b26">[26,</ref><ref type="bibr" target="#b27">27]</ref>. Second, the CFPR-TUP program grant phase was operational for 18 months beginning toward the end of 2002. Children of different age categories, therefore, had different periods of exposure to the grant phase of the program (fig. <ref type="figure">1</ref>).</p><p xml:id="_WRJQDUy">Most of the children in the age category 24 to 35 months were born or were in utero during the grant phase. Compared with children in the other age categories, children of this age, therefore, received more benefits of the program during their critical stage of growth and development that started in their mother's uterus <ref type="bibr" target="#b8">[8,</ref><ref type="bibr" target="#b28">28,</ref><ref type="bibr" target="#b29">29]</ref>. Children who were born during the few months following the end of the grant phase of the program also benefited from their mothers being in the program while pregnant <ref type="bibr" target="#b30">[30]</ref><ref type="bibr" target="#b31">[31]</ref><ref type="bibr" target="#b32">[32]</ref>. Previous studies on CFPR-TUP showed that, although the control households increased food consumption compared with their baseline status, the program significantly improved energy and nutrient consumption in children and adults of program households both compared with their previous status and compared with that of the control households. The improvement was in both macro-and micronutrients <ref type="bibr" target="#b16">[16,</ref><ref type="bibr" target="#b33">33]</ref>, perhaps leading to better pregnancy outcomes and healthier children in their early lives <ref type="bibr" target="#b34">[34]</ref>. The program also improved the participants' food security, household purchasing capacity, access to healthcare, and health-seeking behavior <ref type="bibr" target="#b15">[15,</ref><ref type="bibr" target="#b16">16,</ref><ref type="bibr" target="#b35">35]</ref>. Better nutrition and access to healthcare for the program children may also have resulted in better immunity and resilience against morbidity <ref type="bibr" target="#b36">[36]</ref>. Therefore, it was reasonable to find that the program children of the age category 24 to 35 months had better nutritional status (anthropometric outcome) than the control children. To ensure that the program-control difference in the age category 24 to 35 months was not due to an anomaly in the data, we did a thorough investigation by looking at height and weight data of children grouped by age in months. No anomaly in the pattern was detected.</p><p xml:id="_3hBQ2k2">Compared with children in 2002, both program and control children in 2006 were taller and thinner across all age categories. The difference was smaller in the oldest age category than in the other age categories. There are two possible explanations for these differences between 2002 and 2006: differential measurement of length and height and change in underlying conditions. Differential measurement is not a likely explanation, for two reasons. First, the same measurement training methods and protocol were used in 2002 and 2006. Second, if interviewers performed poorly in one of the two years, we would expect opposite effects on accuracy of length (measures too small) and height (measures too large), but this was not observed. The likely explanation is change in underlying conditions. During the period around and after 2002, it is apparent that the underlying economic and food situation improved in the overall study area, resulting in improved pre-and/or postnatal linear growth <ref type="bibr" target="#b37">[37]</ref>. Rapid change in height-for-age accompanying changes in underlying conditions has been previously demonstrated <ref type="bibr" target="#b22">[22]</ref>. The differences between 2002 and 2006 in weight-for-height could also have been due to a short-term event (e.g., food shortage, morbidity) that occurred shortly before the 2006 data collection.</p><p xml:id="_e3AKs7Q">In relative terms, both program and control children in 2006 were taller across all age categories. In the oldest age category, the effect was small compared with the other age categories. Weight-for-height showed the opposite trend. On average, these children are getting taller in these communities and they are also getting thinner. In both instances, the time-dependent magnitude of both changes is greater than the differences across the program-control gaps for either index. Nonetheless, the aforementioned divergent phenomenon is consistent with the idea that if the increase in height is at a faster rate, then weight increases relatively more slowly. Although the difference was not significant, the program children started being worse off in height-for-age than the control children at baseline (2002) and the program-control difference remained the same, although both groups improved over the -1.2 -1.0 -0.8 -0.6 -0.4 -0.2 0 0.2 Children 6-11 mo Children 12-23 mo Children 24-35 mo Children 36-60 mo Mean weight-for-height z-score Year: 2002 -1.50 -1.25 -1.00 -0.75 -0.50 -0.25 Children 6-11 mo Children 12-23 mo Children 24-35 mo Children 36-60 mo Mean weight-for-height z-score Year: 2006 Age Program Control Program Control years.</p><p xml:id="_2SHuJMq">Theoretically, the overall reduction of stunting and the increase in thinness at the village level could be due to a variety of reasons. First, it is expected that there had been increased economic activity in the village due to the program's income-generating activities leading to a better economy at the village level in general. There could also have been other national-level programs or policies that improved the overall socioeconomic status and food security. These factors may have led to the improvement in height of the children <ref type="bibr" target="#b37">[37]</ref>. Second, there could have been a short-term event (e.g., food shortage, morbidity) occurring shortly before data collection that differentially affected program and control children in weight gain. Such events could not have affected the height of the children, as reduced height gain is a result of chronic detrimental effects. Third, although we found no difference between program and control women in measures of BMI, evidence shows that the micronutrient status of the program women could have been better than that of the control women <ref type="bibr" target="#b33">[33]</ref>, leading to better pregnancy outcomes and healthier children in their early lives <ref type="bibr" target="#b34">[34]</ref>.</p><p xml:id="_4yMtwba">The CFPR-TUP program has been highly successful in targeting the extreme poor and had shown sustainable benefit to the participants in economic, biologic, and human terms 2 years after the intervention was over. This study provides further evidence that if implemented well, an economic intervention program directed to the poorest of the poor may improve child nutrition and ensure further sustainable gain in productivity of households in future. This provides a strong argument for evaluating poverty reduction programs, particularly those targeted to the extreme poor, beyond economic terms, and for mobilizing internal and external resources to further support such programs.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>FIG. 3 .</head><label>3</label><figDesc xml:id="_m5PbXvd">FIG. 3. Comparison of weight-for-age z-scores of children in program and control groups over time</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>FIG. 4 .-</head><label>4</label><figDesc xml:id="_nYMgkCc">FIG. 4. Comparison of weight-for-height z-scores of children across age categories in program (solid lines) and control groups (dotted lines) in 2002 and 2006</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>TABLE 1 .</head><label>1</label><figDesc xml:id="_MhPW4JD">Unadjusted means and standard deviations (in parentheses) by age, year, and household type</figDesc><table><row><cell>Age group 6-11 mo 12-23 mo 24-35 mo 36-60 mo</cell><cell>Year 2002 2006 2002 2006 2002 2006 2002 2006</cell><cell>Household type Program Control Program Control Program Control Program Control Program Control Program Control Program Control Program Control</cell><cell>Sample size 142 142 68 97 231 210 117 203 273 218 115 242 654 598 334 487</cell><cell>Male/female 1.09 0.97 1.19 0.94 0.85 1.26 0.95 0.85 0.90 1.00 1.30 0.94 1.08 1.00 1.07 1.02</cell><cell>ratio</cell><cell>Age (mo) 8.29 8.37 8.49 8.92 17.01 17.31 17.62 17.21 29.13 29.45 30.10 29.39 48.41 48.61 47.54 47.19</cell><cell>(1.65) (1.51) (1.76) (1.59) (3.15) (3.04) (3.36) (3.45) (3.16) (3.36) (3.18) (3.24) (8.18) (8.11) (7.01) (6.77)</cell><cell>Weight (kg) 6.52 6.57 6.75 6.87 7.60 7.88 8.17 8.16 9.22 9.97 10.09 9.98 11.48 11.69 12.20 12.18</cell><cell>(1.53) (1.70) (1.16) (1.07) (2.41) (2.18) (1.50) (1.31) (2.50) (4.40) (1.54) (1.45) (5.37) (4.05) (1.88) (1.68)</cell><cell>Height (cm) 62.53 62.47 65.88 67.07 67.67 69.07 74.69 74.40 76.20 77.75 82.71 83.08 84.76 86.57 92.72 92.58</cell><cell>(11.42) (12.57) (6.50) (4.02) (17.89) (16.33) (5.85) (6.04) (18.64) (20.80) (8.72) (6.17) (28.04) (25.10) (6.26) (7.50)</cell><cell>Height-for-age -2.50 -2.34 -1.83 -1.71 -2.98 -2.98 -2.29 -2.22 -2.95 -2.85 -2.32 -2.19 -2.39 -2.34 -2.32 -2.24</cell><cell>z-score (1.74) (1.60) (1.22) (1.20) (1.74) (1.78) (1.88) (1.39) (1.84) (1.79) (1.42) (1.61) (1.54) (1.63) (1.26) (1.17)</cell><cell>Weight-fo -0.51 -0.54 -1.21 -1.15 -0.96 -0.82 -1.50 -1.39 -1.07 -0.76 -1.35 -1.39 -1.14 -1.13 -1.22 -1.28</cell><cell>height (2.15) (2.29) (1.08) (1.07) (1.68) (1.52) (1.32) (1.21) (1.33) (1.40) (1.04) (0.93) (1.25) (1.21) (1.11) (0.98)</cell><cell>z-score</cell><cell>Weight-for-age -1.98 -1.87 -2.01 -1.86 -2.22 -2.12 -2.25 -2.12 -2.39 -2.12 -2.24 -2.20 -2.19 -2.14 -2.19 -2.18</cell><cell>z-score (1.19) (1.42) (1.19) (1.13) (1.40) (1.25) (1.33) (1.20) (1.20) (1.25) (1.14) (1.15) (1.09) (1.16) (1.08) (0.97)</cell><cell>BMI-for-age -0.68 -0.67 -1.28 -1.18 -0.52 -0.38 -1.16 -1.07 -0.64 -0.34 -1.07 -1.14 -0.89 -0.88 -0.98 -1.05</cell><cell>z-score (1.95) (2.12) (1.09) (1.08) (1.78) (1.63) (1.40) (1.25) (1.53) (1.57) (1.10) (1.00) (1.32) (1.27) (1.11) (0.98)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>TABLE 2 .</head><label>2</label><figDesc xml:id="_5zGhJUm">Unadjusted means and standard deviations (in parentheses) of women's age, weight, height, and body mass index (BMI) by year and household type</figDesc><table><row><cell>Year</cell><cell>2002</cell><cell></cell><cell>2006</cell><cell></cell></row><row><cell>Household type</cell><cell>Program</cell><cell>Control</cell><cell>Program</cell><cell>Control</cell></row><row><cell>Sample size</cell><cell>984</cell><cell>910</cell><cell>634</cell><cell>1,023</cell></row><row><cell>Age (yr)</cell><cell>27.66</cell><cell>26.80</cell><cell>27.41</cell><cell>26.20</cell></row><row><cell></cell><cell>(6.38)</cell><cell>(6.49)</cell><cell>(5.76)</cell><cell>(5.66)</cell></row><row><cell>Weight (kg)</cell><cell>41.41</cell><cell>42.10</cell><cell>41.96</cell><cell>42.33</cell></row><row><cell></cell><cell>(4.98)</cell><cell>(5.31)</cell><cell>(5.38)</cell><cell>(5.56)</cell></row><row><cell>Height (cm)</cell><cell>147.63</cell><cell>148.28</cell><cell>148.93</cell><cell>149.53</cell></row><row><cell></cell><cell>(6.47)</cell><cell>(5.81)</cell><cell>(5.65)</cell><cell>(5.49)</cell></row><row><cell>BMI</cell><cell>18.99</cell><cell>19.14</cell><cell>18.90</cell><cell>18.91</cell></row><row><cell></cell><cell>(1.88)</cell><cell>(2.10)</cell><cell>(2.05)</cell><cell>(2.09)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>TABLE 3 .</head><label>3</label><figDesc xml:id="_DDmxnC7">Adjusted means of height-for-age and weight-for-height z-scores of children and body mass index (BMI) of women between 15 and 45 years of age a</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell>2002</cell><cell></cell><cell></cell><cell>2006</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>Program</cell><cell>Control</cell><cell cols="2">Difference Program</cell><cell>Control</cell><cell>Difference</cell><cell cols="2">Interaction</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>(C -D) -</cell><cell></cell></row><row><cell>Variable</cell><cell>N</cell><cell>A</cell><cell>B</cell><cell>A -B</cell><cell>C</cell><cell>D</cell><cell>C -D</cell><cell>(A -B)</cell><cell>p</cell></row><row><cell></cell><cell></cell><cell></cell><cell cols="3">Children's height-for-age z-score</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>6-11 mo</cell><cell>440</cell><cell>-2.42</cell><cell>-2.31</cell><cell>-0.12</cell><cell>-1.65</cell><cell>-1.58</cell><cell>-0.08</cell><cell>0.04</cell><cell>.89</cell></row><row><cell>12-23 mo</cell><cell>737</cell><cell>-2.98</cell><cell>-2.93</cell><cell>-0.05</cell><cell>-2.21</cell><cell>-2.18</cell><cell>-0.03</cell><cell>0.01</cell><cell>.96</cell></row><row><cell>24-35 mo</cell><cell>824</cell><cell>-2.92</cell><cell>-2.83</cell><cell>-0.09</cell><cell>-2.29</cell><cell>-2.16</cell><cell>-0.13</cell><cell>-0.04</cell><cell>.88</cell></row><row><cell>36-60 mo</cell><cell>1,973</cell><cell>-2.31</cell><cell>-2.28</cell><cell>-0.03</cell><cell>-2.22</cell><cell>-2.17</cell><cell>-0.05</cell><cell>-0.03</cell><cell>.83</cell></row><row><cell></cell><cell></cell><cell></cell><cell cols="3">Children's weight-for-height z-score</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>6-11 mo</cell><cell>440</cell><cell>-0.08</cell><cell>0.02</cell><cell>-0.10</cell><cell>-0.38</cell><cell>-0.23</cell><cell>-0.15</cell><cell>-0.06</cell><cell>.87</cell></row><row><cell>12-23 mo</cell><cell>737</cell><cell>-0.94</cell><cell>-0.79</cell><cell>-0.15</cell><cell>-1.44</cell><cell>-1.32</cell><cell>-0.12</cell><cell>0.03</cell><cell>.91</cell></row><row><cell>24-35 mo</cell><cell>820</cell><cell>-1.04</cell><cell>-0.72</cell><cell>-0.32 b</cell><cell>-1.27</cell><cell>-1.30</cell><cell>0.03</cell><cell>0.35</cell><cell>.05</cell></row><row><cell>36-60 mo</cell><cell>1,973</cell><cell>-1.04</cell><cell>-1.02</cell><cell>-0.03</cell><cell>-1.13</cell><cell>-1.19</cell><cell>0.06</cell><cell>0.08</cell><cell>.43</cell></row><row><cell cols="2">Women's BMI 3,547</cell><cell>19.0</cell><cell>19.17</cell><cell>-0.17</cell><cell>18.95</cell><cell>18.98</cell><cell>-0.03</cell><cell>0.14</cell><cell>.29</cell></row></table><note xml:id="_PUsWp4h"><p>a. Adjusted for age, sex, and height in children and height, age, and log-transformed age in women. b. Significant at .01 level.</p></note></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head xml:id="_mpfKFSw">Acknowledgments</head><p xml:id="_Rf9XMga">This study was supported by funding from the <rs type="funder">Canadian International Development Agency (CIDA)</rs>, the <rs type="funder">Department for International Development (DFID) of the UK</rs>, the <rs type="funder">European Commission, NOVIB</rs>, and the <rs type="programName">World Food Programme</rs> through BRAC. These organizations, however, did not have any role in the conceptualization, design, analysis, or interpretation of the study, in the writing of the report, or the decision to submit for publication. The authors are grateful to <rs type="person">Mr. Mizan</rs> for his support in field management, training, and logistics. We thank all interviewers and participants in the study.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_SWgrM56">
+					<orgName type="program" subtype="full">World Food Programme</orgName>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_VMcNNjX">Authors' contributions</head><p xml:id="_MxnyUE6">Chowdhury Jalal and Edward Frongillo conceptualized and designed the study. Chowdhury Jalal coordinated and conducted the data collection and had the primary responsibility for analyzing the data and drafting the manuscript. Edward Frongillo made substantial contributions to writing and finalizing the manuscript.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="consolidated"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main" xml:id="_ycYmM3f">Number of Days in the Past 30 Days, Mental Health Not Good by State, County, Gender, DOH Race-Ethnicity, BRFSS Age Group, County-Community, Education Level, Employment Status (Grouped), Marital Status (Grouped), Household Income, Poverty Level, Island, for the Years 2000-2002, 2001-2003, 2002-2004, 2003-2005, 2004-2006, 2004-2008</title>
+		<idno type="DOI">10.1037/e570022010-001</idno>
+		<idno>12-23 mo -3.0 -2.8 -2.6 -2.4 -2.2 -2.0 -1.8 -1.6</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_UsyVHzP">Mean height-for-age z-score Children 6</title>
+		<imprint>
+			<publisher>American Psychological Association (APA)</publisher>
+			<date type="published" when="2002">2002 2003 2004 2005 2006. 6 2002 2003 2004 2005 2006. -1.6 2002 2003 2004 2005 2006. 2002 2003 2004 2005 2006</date>
+		</imprint>
+	</monogr>
+	<note>Mean height-for-age z-score Children 24-35 mo -3. Children 36-60 mo Program Control Year Year References</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main" xml:id="_XuerprN">Comparison of the WHO Child Growth Standards and the CDC 2000 Growth Charts</title>
+		<author>
+			<persName><forename type="first">Mercedes</forename><surname>De Onis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cutberto</forename><surname>Garza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Adelheid</forename><forename type="middle">W</forename><surname>Onyango</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Elaine</forename><surname>Borghi</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/jn/137.1.144</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_wNF6E2u">The Journal of Nutrition</title>
+		<title level="j" type="abbrev">The Journal of Nutrition</title>
+		<idno type="ISSN">0022-3166</idno>
+		<imprint>
+			<biblScope unit="volume">137</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="144" to="148" />
+			<date type="published" when="2006">2006</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main" xml:id="_BmbMFHP">Maternal and child undernutrition: global and regional exposures and health consequences</title>
+		<author>
+			<persName><forename type="first">Robert</forename><forename type="middle">E</forename><surname>Black</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lindsay</forename><forename type="middle">H</forename><surname>Allen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zulfiqar</forename><forename type="middle">A</forename><surname>Bhutta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Laura</forename><forename type="middle">E</forename><surname>Caulfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mercedes</forename><surname>De Onis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Majid</forename><surname>Ezzati</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Colin</forename><surname>Mathers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Juan</forename><surname>Rivera</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0140-6736(07)61690-0</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_HGNPMku">The Lancet</title>
+		<title level="j" type="abbrev">The Lancet</title>
+		<idno type="ISSN">0140-6736</idno>
+		<imprint>
+			<biblScope unit="volume">371</biblScope>
+			<biblScope unit="issue">9608</biblScope>
+			<biblScope unit="page" from="243" to="260" />
+			<date type="published" when="2008-01">2008</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main" xml:id="_zvqM25j">The State of the World&apos;s Children 2011</title>
+		<idno type="DOI">10.18356/7f132111-en</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_QY2Mxpj">United Nations Children&apos;s Education Fund. The state of the world&apos;s children 2011</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>UN</publisher>
+			<date type="published" when="2011-12-31">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main" xml:id="_J4D7q3r">Development of a WHO growth reference for school-aged children and adolescents</title>
+		<author>
+			<persName><forename type="first">Mercedes</forename><surname>De Onis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Onyango</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Borghi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Siyam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Nishida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Siekmann</surname></persName>
+		</author>
+		<idno type="DOI">10.2471/blt.07.043497</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_bgUrKkh">Bulletin of the World Health Organization</title>
+		<title level="j" type="abbrev">Bull World Health Organ</title>
+		<idno type="ISSN">0042-9686</idno>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="issue">09</biblScope>
+			<biblScope unit="page" from="660" to="667" />
+			<date type="published" when="2007-09-01">2007</date>
+			<publisher>WHO Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main" xml:id="_7qU2gv3">Body mass index, height, weight, arm circumference, and mortality in rural Bangladeshi women: a 19-y longitudinal study</title>
+		<author>
+			<persName><forename type="first">Victoria</forename><surname>Hosegood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Oona</forename><forename type="middle">Mr</forename><surname>Campbell</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/ajcn/77.2.341</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_8kY42m3">The American Journal of Clinical Nutrition</title>
+		<title level="j" type="abbrev">The American Journal of Clinical Nutrition</title>
+		<idno type="ISSN">0002-9165</idno>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="341" to="347" />
+			<date type="published" when="2003-02">2003</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main" xml:id="_2dW8xd3">Trends of under- and overweight among rural and urban poor women indicate the double burden of malnutrition in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Sohana</forename><surname>Shafique</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nasima</forename><surname>Akhter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gudrun</forename><surname>Stallkamp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Saskia</forename><surname>De Pee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dora</forename><surname>Panagides</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Martin</forename><forename type="middle">W</forename><surname>Bloem</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/ije/dyl306</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_mhR52zq">International Journal of Epidemiology</title>
+		<idno type="ISSN">0300-5771</idno>
+		<idno type="ISSNe">1464-3685</idno>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="449" to="457" />
+			<date type="published" when="2007-01-22">2007</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b7">
+	<monogr>
+		<title level="m" xml:id="_Q2KXGCS">Physical status: use and interpretation of anthropometry</title>
+		<meeting><address><addrLine>Geneva</addrLine></address></meeting>
+		<imprint>
+			<publisher>WHO</publisher>
+			<date type="published" when="1995">1995</date>
+		</imprint>
+		<respStmt>
+			<orgName>World Health Organization</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main" xml:id="_RXGSXB7">Developmental potential in the first 5 years for children in developing countries</title>
+		<author>
+			<persName><forename type="first">Sally</forename><surname>Grantham-Mcgregor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yin</forename><forename type="middle">Bun</forename><surname>Cheung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Santiago</forename><surname>Cueto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Glewwe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Linda</forename><surname>Richter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Barbara</forename><surname>Strupp</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0140-6736(07)60032-4</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_4dTgPKk">The Lancet</title>
+		<title level="j" type="abbrev">The Lancet</title>
+		<idno type="ISSN">0140-6736</idno>
+		<imprint>
+			<biblScope unit="volume">369</biblScope>
+			<biblScope unit="issue">9555</biblScope>
+			<biblScope unit="page" from="60" to="70" />
+			<date type="published" when="2007-01">2007</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main" xml:id="_CWRCB4R">Maternal and child undernutrition: consequences for adult health and human capital</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Victora</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Adair</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Fall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Hallal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Martorell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Richter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Sachdev</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_p3ECqmk">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">371</biblScope>
+			<biblScope unit="page" from="340" to="357" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main" xml:id="_fCteuxd">The State of the World&apos;s Children 1998</title>
+		<idno type="DOI">10.18356/5c9fcb62-en</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_327K8wX">United Nations Children&apos;s Education Fund. The state of the world&apos;s children 1998</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>UN</publisher>
+			<date type="published" when="1998-12-31">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b11">
+	<monogr>
+		<title level="m" type="main" xml:id="_FgAZRGr">Stories of targeting: process documentation of selecting the ultra poor for CFPR/TUP programme</title>
+		<author>
+			<persName><forename type="first">Research</forename><surname>Brac</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Evaluation</forename><surname>Division</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<publisher>BRAC Research and Evaluation Division and Aga Khan Foundation</publisher>
+		</imprint>
+		<respStmt>
+			<orgName>Dhaka and Ottawa</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">CFPR/TUP Working Paper Series 1</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b12">
+	<monogr>
+		<title level="m" type="main" xml:id="_vE7rbAR">Combining methodologies for better targeting of the extreme poor: lessons from BRAC&apos;s CFPR/TUP Programme</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Matin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Halder</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<publisher>BRAC Research and Evaluation Division and Aga Khan Foundation</publisher>
+			<biblScope unit="volume">2</biblScope>
+		</imprint>
+		<respStmt>
+			<orgName>Dhaka and Ottawa</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">CFPR/TUP Working Paper</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b13">
+	<monogr>
+		<title level="m" type="main" xml:id="_NmjhmKz">Targeting effectiveness of CFPR/ TUP in scale-up environment</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sulaiman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Matin</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>BRAC Research and Evaluation Division and Aga Khan Foundation</publisher>
+			<biblScope unit="volume">8</biblScope>
+		</imprint>
+		<respStmt>
+			<orgName>Dhaka and Ottawa</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">CFPR/TUP Working Paper</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b14">
+	<monogr>
+		<title level="m" type="main" xml:id="_UP7rmkS">Integration of the ultra poor into mainstream development: how effective is CFPR? CFPR/TUP Working Paper Series</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Shams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mahmud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">C</forename><surname>Das</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>BRAC Research and Evaluation Division</publisher>
+			<biblScope unit="volume">21</biblScope>
+			<pubPlace>Dhaka</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b15">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Ahmed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Rana</surname></persName>
+		</author>
+		<title level="m" xml:id="_X7MrWv7">Customized development interventions for the ultra poor: preliminary change assessments of health and health-seeking behavior (CFPR/ TUP 2002 to 2004)</title>
+		<imprint>
+			<publisher>BRAC Research and Evaluation Division and Aga Khan Foundation</publisher>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="volume">7</biblScope>
+		</imprint>
+		<respStmt>
+			<orgName>Dhaka and Ottawa</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">CFPR/TUP Working Paper</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b16">
+	<monogr>
+		<title level="m" type="main" xml:id="_k2aqt9S">Change in food and nutrient consumption among the ultra poor: is the CFPR/TUP programme making a difference? CFPR/TUP Working Paper Series 11</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Haseen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>BRAC Research and Evaluation Division and Aga Khan Foundation</publisher>
+		</imprint>
+		<respStmt>
+			<orgName>Dhaka and Ottawa</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b17">
+	<monogr>
+		<title level="m" type="main" xml:id="_wstvMva">Impact assessment of CFPR/TUP: a descriptive analysis based on 2002-2005 panel data</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rabbani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">A</forename><surname>Prakash</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sulaiman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>BRAC Research and Evaluation Division and Aga Khan Foundation</publisher>
+		</imprint>
+		<respStmt>
+			<orgName>Dhaka and Ottawa</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">CFPR/TUP Working Paper Series 12</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b18">
+	<analytic>
+		<title level="a" type="main" xml:id="_93kxFug">Impact assessment of credit programme for the tenant farmers in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Mohammad</forename><forename type="middle">Abdul</forename><surname>Malek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Abu</forename><surname>Ahasan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Md.</forename><forename type="middle">Amzad</forename><surname>Hossain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Md.</forename><forename type="middle">Shakil</forename><surname>Ahmed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marup</forename><surname>Hossain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Md.</forename><forename type="middle">Hasib</forename><surname>Reza</surname></persName>
+		</author>
+		<idno type="DOI">10.23846/ow31222</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_KCMeda6">Dhaka and Ottawa</title>
+		<imprint>
+			<publisher>International Initiative for Impact Evaluation</publisher>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main" xml:id="_qByNt3H">WHO Child Growth Standards based on length/height, weight and age</title>
+		<author>
+			<persName><forename type="first">Mercedes</forename><surname>De Onis</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1651-2227.2006.tb02378.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_M2fdrC5">Acta Paediatrica</title>
+		<title level="j" type="abbrev">Acta Paediatrica</title>
+		<idno type="ISSN">0803-5253</idno>
+		<idno type="ISSNe">1651-2227</idno>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="issue">S450</biblScope>
+			<biblScope unit="page" from="76" to="85" />
+			<date type="published" when="2006-04">2006</date>
+			<publisher>Wiley</publisher>
+			<pubPlace>Geneva</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b20">
+	<monogr>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Gertler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Martinez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Premand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Rawlings</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cmj</forename><surname>Vermeersch</surname></persName>
+		</author>
+		<title level="m" xml:id="_djJDPsJ">Impact evaluation in practice</title>
+		<meeting><address><addrLine>DC</addrLine></address></meeting>
+		<imprint>
+			<publisher>World Bank</publisher>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note>Washington</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main" xml:id="_XERxYYf">Classification and definition of protein-calorie malnutrition.</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Waterlow</surname></persName>
+		</author>
+		<idno type="DOI">10.1136/bmj.3.5826.566</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_zWuhdtX">BMJ</title>
+		<title level="j" type="abbrev">BMJ</title>
+		<idno type="ISSN">0959-8138</idno>
+		<idno type="ISSNe">1468-5833</idno>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">5826</biblScope>
+			<biblScope unit="page" from="566" to="569" />
+			<date type="published" when="1972-09-02">1972</date>
+			<publisher>BMJ</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main" xml:id="_u8hqHmF">The deterioration in children&apos;s nutritional status in rural Chad: the effect of mothers&apos; influence on feeding</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Bégin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Habicht</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Frongillo</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Jr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Delisle</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_akynJmp">Am J Public Health</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="page" from="1356" to="1359" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main" xml:id="_BQCm6Vs">Development and Validation of an Experience-Based Measure of Household Food Insecurity within and across Seasons in Northern Burkina Faso</title>
+		<author>
+			<persName><forename type="first">Edward</forename><forename type="middle">A</forename><surname>Frongillo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Siméon</forename><surname>Nanama</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/jn/136.5.1409s</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_UKUd5VF">The Journal of Nutrition</title>
+		<title level="j" type="abbrev">The Journal of Nutrition</title>
+		<idno type="ISSN">0022-3166</idno>
+		<imprint>
+			<biblScope unit="volume">136</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1409S" to="1419S" />
+			<date type="published" when="2006-05">2006</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b24">
+	<analytic>
+		<title level="a" type="main" xml:id="_HywTCx7">Growth in Early Childhood in Developing Countries</title>
+		<author>
+			<persName><forename type="first">Reynaldo</forename><surname>Martorell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jean-Pierre</forename><surname>Habicht</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-1-4615-7198-8_12</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_hAmQezx">Methodology Ecological, Genetic, and Nutritional Effects on Growth</title>
+		<editor>
+			<persName><forename type="first">F</forename><surname>Falkner</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Tanner</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer US</publisher>
+			<date type="published" when="1986">1986</date>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="241" to="262" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b25">
+	<analytic>
+		<title level="a" type="main" xml:id="_QGmgdYQ">Why Does Nutrition Deteriorate Rapidly among Children under 2 Years of Age? Using Qualitative Methods to Understand Community Perspectives on Complementary Feeding Practices in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Sabrina</forename><surname>Rasheed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rukhsana</forename><surname>Haider</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nazmul</forename><surname>Hassan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Helena</forename><surname>Pachón</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sanjeeda</forename><surname>Islam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Chowdhury</forename><forename type="middle">S B</forename><surname>Jalal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tina</forename><forename type="middle">G</forename><surname>Sanghvi</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/156482651103200302</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_ZdkkGGC">Food and Nutrition Bulletin</title>
+		<title level="j" type="abbrev">Food Nutr Bull</title>
+		<idno type="ISSN">0379-5721</idno>
+		<idno type="ISSNe">1564-8265</idno>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="192" to="200" />
+			<date type="published" when="2011-09">2011</date>
+			<publisher>SAGE Publications</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b26">
+	<analytic>
+		<title level="a" type="main" xml:id="_R9Dea8T">Patterns of physical growth in a longitudinal study of young children in rural Bangladesh</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">H</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Black</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Becker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hoque</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/ajcn/36.2.294</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_3UNM8Qp">The American Journal of Clinical Nutrition</title>
+		<title level="j" type="abbrev">The American Journal of Clinical Nutrition</title>
+		<idno type="ISSN">0002-9165</idno>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="294" to="302" />
+			<date type="published" when="1982-08">1982</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b27">
+	<analytic>
+		<title level="a" type="main" xml:id="_WFXKJ7w">Characteristics and determinants of child nutritional status in Nepal</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Martorell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Leslie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Moock</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/ajcn/39.1.74</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_bWqEy5a">The American Journal of Clinical Nutrition</title>
+		<title level="j" type="abbrev">The American Journal of Clinical Nutrition</title>
+		<idno type="ISSN">0002-9165</idno>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="74" to="86" />
+			<date type="published" when="1984-01">1984</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b28">
+	<analytic>
+		<title level="a" type="main" xml:id="_yRdfwhN">Introduction</title>
+		<author>
+			<persName><forename type="first">Edward</forename><forename type="middle">A</forename><surname>Frongillo</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/jn/129.2.529s</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_ksBy77B">The Journal of Nutrition</title>
+		<title level="j" type="abbrev">The Journal of Nutrition</title>
+		<idno type="ISSN">0022-3166</idno>
+		<imprint>
+			<biblScope unit="volume">129</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="529S" to="530S" />
+			<date type="published" when="1999-02">1999</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note>suppl</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b29">
+	<analytic>
+		<title level="a" type="main" xml:id="_vdmYz2K">Developmental science and the media: early brain development</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Nelson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Skxfq8J">Am Psychol</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="5" to="15" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b30">
+	<analytic>
+		<title level="a" type="main" xml:id="_tQxVFVC">Prenatal influence on postnatal growth: overview and pointers for needed research</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Falkner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Holzqreve</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Schloo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_M74JPej">Eur J Clin Nutr</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">suppl 1</biblScope>
+			<biblScope unit="page" from="15" to="24" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b31">
+	<analytic>
+		<title level="a" type="main" xml:id="_ESTYr37">Low Birth Weight and Perinatal Mortality</title>
+		<author>
+			<persName><forename type="first">Michael</forename><forename type="middle">S</forename><surname>Kramer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cesar</forename><forename type="middle">G</forename><surname>Victora</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-1-59259-225-8_3</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_8x6sVTr">Nutrition and Health in Developing Countries</title>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Semba</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Bloem</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Totowa, NJ, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Humana Press</publisher>
+			<date type="published" when="2001">2001</date>
+			<biblScope unit="page" from="57" to="69" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b32">
+	<analytic>
+		<title level="a" type="main" xml:id="_MKmzKhg">Maternal Nutrition and Birth Outcomes: Effect of Balanced Protein‐Energy Supplementation</title>
+		<author>
+			<persName><forename type="first">Aamer</forename><surname>Imdad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zulfiqar</forename><forename type="middle">A</forename><surname>Bhutta</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1365-3016.2012.01308.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_8FY9A6T">Paediatric and Perinatal Epidemiology</title>
+		<title level="j" type="abbrev">Paediatric Perinatal Epid</title>
+		<idno type="ISSN">0269-5022</idno>
+		<idno type="ISSNe">1365-3016</idno>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">s1</biblScope>
+			<biblScope unit="page" from="178" to="190" />
+			<date type="published" when="2012-06-28">2012</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b33">
+	<analytic>
+		<title level="a" type="main" xml:id="_PanD58t">Change in food and energy consumption among the ultra poor: is the poverty reduction programme making a difference?</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Haseen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_6WurSqV">Asia Pac J Clin Nutr</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">suppl 1</biblScope>
+			<biblScope unit="page" from="58" to="64" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b34">
+	<analytic>
+		<title level="a" type="main" xml:id="_GV95Cue">Malnourished mothers maintain their weight throughout pregnancy and lactation: results from Guatemala</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Winkvist</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J-P</forename><surname>Habicht</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Rasmussen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Frongillo</surname><genName>Jr</genName></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_CR7sx6U">Adv Exp Biol Med</title>
+		<imprint>
+			<biblScope unit="volume">478</biblScope>
+			<biblScope unit="page" from="415" to="416" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b35">
+	<monogr>
+		<title level="m" type="main" xml:id="_nJasgus">Taking doctors where the ultra poor are: assessment of the panel doctor scheme of CFPR/TUP programme</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Ahmed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Hossain</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>BRAC Research and Evaluation Division and Aga Khan Foundation</publisher>
+			<biblScope unit="volume">17</biblScope>
+		</imprint>
+		<respStmt>
+			<orgName>Dhaka and Ottawa</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">CFPR/TUP Working Paper</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b36">
+	<analytic>
+		<title level="a" type="main" xml:id="_cYhTf9Z">Child development: Vulnerability and resilience</title>
+		<author>
+			<persName><forename type="first">Patrice</forename><forename type="middle">L</forename><surname>Engle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sarah</forename><surname>Castle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Purnima</forename><surname>Menon</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0277-9536(96)00110-4</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_scDWsWg">Social Science &amp; Medicine</title>
+		<title level="j" type="abbrev">Social Science &amp; Medicine</title>
+		<idno type="ISSN">0277-9536</idno>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="621" to="635" />
+			<date type="published" when="1996-09">1996</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b37">
+	<analytic>
+		<title level="a" type="main" xml:id="_qng68D4">Socioeconomic and Demographic Factors Are Associated with Worldwide Patterns of Stunting and Wasting of Children</title>
+		<author>
+			<persName><forename type="first">Edward</forename><forename type="middle">A</forename><surname>Frongillo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mercedes</forename><surname>De Onis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kathleen</forename><forename type="middle">M P</forename><surname>Hanson</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/jn/127.12.2302</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_pSk9vhy">The Journal of Nutrition</title>
+		<title level="j" type="abbrev">The Journal of Nutrition</title>
+		<idno type="ISSN">0022-3166</idno>
+		<imprint>
+			<biblScope unit="volume">127</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="2302" to="2309" />
+			<date type="published" when="1997-12">1997</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

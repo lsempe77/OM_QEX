@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" xml:id="_qpfX5xv"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">5801C16D42B7717EC94E45A6A748362B</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2025-11-04T21:42+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a292bac</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=1, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=true, generateTeiCoordinates=[true], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="960.0" lry="540.0"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="960.0" lry="540.0"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="960.0" lry="540.0"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="960.0" lry="540.0"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="960.0" lry="540.0"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="960.0" lry="540.0"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="960.0" lry="540.0"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="960.0" lry="540.0"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="960.0" lry="540.0"/>
+		<surface n="10" ulx="0.0" uly="0.0" lrx="960.0" lry="540.0"/>
+		<surface n="11" ulx="0.0" uly="0.0" lrx="960.0" lry="540.0"/>
+		<surface n="12" ulx="0.0" uly="0.0" lrx="960.0" lry="540.0"/>
+		<surface n="13" ulx="0.0" uly="0.0" lrx="960.0" lry="540.0"/>
+		<surface n="14" ulx="0.0" uly="0.0" lrx="960.0" lry="540.0"/>
+		<surface n="15" ulx="0.0" uly="0.0" lrx="960.0" lry="540.0"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_ErksWF5">Motivation</head><p xml:id="_KrQB3mh">• In recent years, a growing literature in development economics has examined the multifaceted constraints faced by households in extreme poverty.</p><p xml:id="_q3TWjak">• Given the salience of these multiple constraints, multifaceted "graduation model" interventions that simultaneously address several barriers are widely viewed as promising -and higher-quality evidence is growing.</p><p xml:id="_MAexGfs">• However, the effectiveness of these interventions when implemented at large scale has not been widely explored to date.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_aCmDes8">SPIR (Strengthen PSNP Institutions and Resilience)</head><p xml:id="_RFqhskF">• In this talk, I will present new evidence from a randomized trial of a lighter-touch graduation model implemented at scale in rural Ethiopia, during the first phase of SPIR.</p><p xml:id="_DHryxu7">• SPIR targets households who are beneficiaries of the Productive Safety Net Program (PSNP), and thus are among the poorest 20% of rural Ethiopian households.</p><p xml:id="_5ffq8yR">• The core set of interventions includes $200 lump sum transfer for the poorest households; membership in village-level savings associations; and training in new productive value chains. SPIR graduation model: Light-touch, large-scale • SPIR is lighter-touch than other similar interventions • For example, the graduation model interventions across six countries evaluated by Banerjee et al. (2015) encompass asset transfers of $600-$1000 in conjunction with cash transfers, training, savings' groups and household-level coaching.</p><p xml:id="_dYc9ZEG">• SPIR is delivered at large scale (150,000 households)</p><p xml:id="_9y2SXag">• This is larger than other projects analyzed to date, with the exception only of BRAC's Targeting the Ultrapoor program in Bangladesh analyzed by <ref type="bibr">Bandiera et al. (2017)</ref>, serving nearly 400,000 households.</p><p xml:id="_eQgamMh">The SPIR trial</p><p xml:id="_uMsXjZs">• We evaluate the effects of SPIR in a large randomized controlled trial.</p><p xml:id="_Rqcb8gS">• We focus on the main randomization dimensions around livelihoods, although the main trial included cross-randomized interventions focused on nutrition.</p><p xml:id="_E9efQaD">• The primary livelihoods intervention package is a $200 transfer (randomly assigned to be cash or poultry) in conjunction with training and establishment of savings groups.</p><p xml:id="_pgPBgMS">• A secondary, even lighter-touch package encompasses only training and savings groups.</p><p xml:id="_PyA4cvN">• The primary vs secondary packages were randomly assigned at the kebele level. Within "primary" kebeles, this package was targeted to the extreme poor (poorest 50%); less poor households received the secondary package.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_w8JTUZZ">The Sample and Data Collection</head><p xml:id="_HdtAFYS">• The sample includes 3,314 households at baseline in 192 kebeles in 13 woredas in two regions, Amhara and Oromia.</p><p xml:id="_VPFxgMu">• All households have a child aged 0 to 36 months at baseline.</p><p xml:id="_DH5gJ8q">• All households (including control households) are receiving PSNP cash/food transfers.</p><p xml:id="_7gawdq7">• Our sample includes subsistence agricultural households characterized by average monthly consumption per adult of less than $2.70 a day at baseline (baseline poverty rate of 45%).</p><p xml:id="_9CFe3Kg">• Data collection included survey rounds at baseline (2018), midline approximately six months post-transfer (2019), and endline (2021).</p><p xml:id="_kVFjnrJ">• The endline was delayed by 9 months due to pandemic lockdowns.</p><p xml:id="_SD7Y2FV">Outcomes of interest</p><p xml:id="_vf8kWxN">Outcome family Variables Assets Total asset value; value of productive assets, consumer durables, livestock assets Midline: livestock assets only Credit and savings Any access to credit; access to formal credit; total amount of credit (all past-year); any savings, amount of savings Midline and endline Income Income from livestock sales; income from sales of livestock products; crop income; total livestock and crop income (past-year) Not reported at midline Any non-agricultural income Any regular wage labor; any casual wage labor; any non-agricultural business Any non-agricultural business not reported at midline Consumption and food security Consumption expenditure (total, food, nonfood); food insecurity experience scale Not reported at midline</p><p xml:id="_h6CGgSe">Primary findings</p><p xml:id="_Xvg68kq">• In the short-run, the interventions (inclusive of transfer) lead to a significant increase in livestock asset value (43% for poultry recipients, and 11% for cash recipients) and in the probability of reporting any savings (32-35 pp).</p><p xml:id="_MWSpT4q">• In the medium-run, for transfer recipients we observe (noisily estimated, attenuated) positive effects on the household asset stock and (precisely estimated) consistent effects on the probability of savings.</p><p xml:id="_2XgDTmv">• There are large positive effects on total agricultural and livestock income, but no shift in consumption or food security.</p><p xml:id="_tjGG2xw">Primary findings, cont.</p><p xml:id="_YxEefQ5">• There is little detectable heterogeneity comparing across the cash and poultry transfers.</p><p xml:id="_MxbYeAG">• The intervention package exclusive of transfers generally does not have any significant effects, other than an increase in the probability the household reports any savings (26 pp at midline, 30 pp at endline).</p><p xml:id="_JSCJHNM">Programmatic differences from other graduation models</p><p xml:id="_pX2AK3A">• The ratio of transfer size to average monthly household consumption per capita is relatively low in SPIR (around 7) compared to some other graduation models.</p><p xml:id="_7k3ApTj">• Higher than in Niger and Bangladesh; notably lower than other sites</p><p xml:id="_7zX6rsm">• There is no high-frequency household-level coaching in SPIR</p><p xml:id="_jxkVx5k">• Model analyzed in <ref type="bibr">Banerjee et al. (2015)</ref> included weekly visits for two years.</p><p xml:id="_mjd27HK">• The training provided does not achieve a high level of penetration (by design), with around 20% of eligible households participating in intensive training.</p><p xml:id="_QApxYXc">• All households receive consumption support transfers of cash and food during the lean season (no experimental variation in transfers)</p><p xml:id="_zqZcz89">Programmatic differences: Lighter touch, larger scale Author Context Year project launched Monthly per capita consumption (PPP $2021) Transfer value (PPP $2021) Transfer / cons. Intervention population Bossuroy et al. Niger 2016 91.84 360.53 3.39 22,507 Bandiera et al. Bangladesh 2007 105.51 847.05 5.31 360,000 Brune et al. Yemen 2010 133.99 1333.02 7.19 505 Alderman et al. Ethiopia 2017 53.26 408.00 7.66 150,000 Banerjee et al. Peru 2011 122.32 1346.71 8.95 785 Banerjee et al. Ghana 2011 66.38 836.31 10.24 666 Banerjee et al. Pakistan 2008 163.02 2518.78 12.56 660 Banerjee et al. Honduras 2009 56.91 890.43 12.72 800 Banerjee et al. India 2007 49.05 860.91 14.27 541 Banerjee et al. Ethiopia 2010 58.41 1510.29 21.02 458 Thank you! <ref type="url" target="mailto:d.gilligan@cgiar.org">d.gilligan@cgiar.org</ref> </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><graphic coords="10,166.73,88.06,580.63,422.42" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><graphic coords="11,175.28,95.93,562.00,408.87" type="bitmap" /></figure>
+		</body>
+		<back>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_37jZtmF"><p xml:id="_YQHYWZ7">Summary of experimental effects: extreme poor Summary of experimental effects: less poor Interpretation • Generally, our findings suggest that a lighter-touch graduation model is not sufficient to lift households out of poverty (i.e., increase consumption and food security).</p><p xml:id="_Uk7G6qh">• However, there are some persistent effects on assets (primarily livestock) and income.</p><p xml:id="_PjQESSx">• The discrepancy between income and consumption may in part reflect seasonality.</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl/>
+			</div>
+		</back>
+	</text>
+</TEI>

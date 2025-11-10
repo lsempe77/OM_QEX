@@ -1,0 +1,1121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" xml:id="_mDYd9nY">Evaluation of a disability-inclusive ultra-poor graduation programme in Uganda: study protocol for a cluster-randomised controlled trial with process evaluation</title>
+				<funder>
+					<orgName type="full">National Institute for Health and Care Research</orgName>
+					<orgName type="abbreviated">NIHR</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">FCDO under Inclusive Futures, Comic Relief and National Lottery</orgName>
+				</funder>
+				<funder ref="#_FRnVCNm">
+					<orgName type="full">Arts &amp; Humanities Research Council</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">BRAC Uganda</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">National Union of Women with Disabilities of Uganda (NUWODU)</orgName>
+				</funder>
+				<funder ref="#_zakzYVx">
+					<orgName type="full">United Kingdom Foreign, Commonwealth and Development Office</orgName>
+					<orgName type="abbreviated">FCDO</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Mildmay Uganda Research Ethics Committee and London , BRAC Uganda</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Humanity and Inclusion</orgName>
+					<orgName type="abbreviated">HI</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Springer Science and Business Media LLC</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2024-03-21">2024-03-21</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Elijah</forename><surname>Kipchumba</surname></persName>
+							<idno type="ORCID">0000-0003-4996-6802</idno>
+							<affiliation key="aff0">
+								<orgName type="department">School of Hygiene and Tropical Medicine</orgName>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">Trinity Col- lege Dublin</orgName>
+								<address>
+									<settlement>Dublin</settlement>
+									<country>Ireland;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff10">
+								<orgName type="laboratory">Independent Evaluation and Research Cell (IERC)</orgName>
+								<orgName type="institution">BRAC International</orgName>
+								<address>
+									<settlement>Kam- pala</settlement>
+									<country key="UG">Uganda</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff11">
+								<orgName type="institution">Trinity College Dublin</orgName>
+								<address>
+									<settlement>Dublin</settlement>
+									<country key="IE">Ireland</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="department">School of Hygiene and Tropical Medicine</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="laboratory">Independent Evaluation and Research Cell (IERC)</orgName>
+								<orgName type="institution">BRAC International</orgName>
+								<address>
+									<settlement>Kampala</settlement>
+									<country>Uganda;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">Trinity Col- lege Dublin</orgName>
+								<address>
+									<settlement>Dublin</settlement>
+									<country>Ireland;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department">Centre for Evaluation</orgName>
+								<orgName type="institution">London School of Hygiene &amp; Tropical Medicine</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country>United Kingdom;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff10">
+								<orgName type="laboratory">Independent Evaluation and Research Cell (IERC)</orgName>
+								<orgName type="institution">BRAC International</orgName>
+								<address>
+									<settlement>Kam- pala</settlement>
+									<country key="UG">Uganda</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff11">
+								<orgName type="institution">Trinity College Dublin</orgName>
+								<address>
+									<settlement>Dublin</settlement>
+									<country key="IE">Ireland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Calum</forename><surname>Davey</surname></persName>
+							<idno type="ORCID">0000-0002-4283-3030</idno>
+							<affiliation key="aff3">
+								<orgName type="department">International Centre for Evidence in Disability</orgName>
+								<orgName type="institution">London School of Hygiene &amp; Tropical Medicine</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country>United Kingdom;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff12">
+								<orgName type="department">International Centre for Evidence in Disability</orgName>
+								<orgName type="institution">London School of Hygiene &amp; Tropical Medicine</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff13">
+								<orgName type="department">Centre for Evaluation</orgName>
+								<orgName type="institution">London School of Hygiene &amp; Tropical Medicine</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="laboratory">Independent Evaluation and Research Cell (IERC)</orgName>
+								<orgName type="institution">BRAC International</orgName>
+								<address>
+									<settlement>Kampala</settlement>
+									<country>Uganda;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">International Centre for Evidence in Disability</orgName>
+								<orgName type="institution">London School of Hygiene &amp; Tropical Medicine</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country>United Kingdom;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department">Centre for Evaluation</orgName>
+								<orgName type="institution">London School of Hygiene &amp; Tropical Medicine</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country>United Kingdom;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff12">
+								<orgName type="department">International Centre for Evidence in Disability</orgName>
+								<orgName type="institution">London School of Hygiene &amp; Tropical Medicine</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff13">
+								<orgName type="department">Centre for Evaluation</orgName>
+								<orgName type="institution">London School of Hygiene &amp; Tropical Medicine</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Sarah</forename><surname>Marks</surname></persName>
+							<idno type="ORCID">0000-0003-4804-3694</idno>
+							<affiliation key="aff3">
+								<orgName type="department">International Centre for Evidence in Disability</orgName>
+								<orgName type="institution">London School of Hygiene &amp; Tropical Medicine</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country>United Kingdom;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff12">
+								<orgName type="department">International Centre for Evidence in Disability</orgName>
+								<orgName type="institution">London School of Hygiene &amp; Tropical Medicine</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="laboratory">Independent Evaluation and Research Cell (IERC)</orgName>
+								<orgName type="institution">BRAC International</orgName>
+								<address>
+									<settlement>Kampala</settlement>
+									<country>Uganda;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">International Centre for Evidence in Disability</orgName>
+								<orgName type="institution">London School of Hygiene &amp; Tropical Medicine</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country>United Kingdom;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department">Centre for Evaluation</orgName>
+								<orgName type="institution">London School of Hygiene &amp; Tropical Medicine</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country>United Kingdom;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff12">
+								<orgName type="department">International Centre for Evidence in Disability</orgName>
+								<orgName type="institution">London School of Hygiene &amp; Tropical Medicine</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Anthony</forename><surname>Mugeere</surname></persName>
+							<idno type="ORCID">0000-0002-7349-9901</idno>
+							<affiliation key="aff5">
+								<orgName type="department">Department of Sociology and Anthropology</orgName>
+								<orgName type="institution">Makerere University</orgName>
+								<address>
+									<settlement>Kampala</settlement>
+									<country>Uganda;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff14">
+								<orgName type="department">Department of Sociology and Anthropology</orgName>
+								<orgName type="institution">Mak- erere University</orgName>
+								<address>
+									<settlement>Kampala</settlement>
+									<country key="UG">Uganda</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="laboratory">Independent Evaluation and Research Cell (IERC)</orgName>
+								<orgName type="institution">BRAC International</orgName>
+								<address>
+									<settlement>Kampala</settlement>
+									<country>Uganda;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department">Centre for Evaluation</orgName>
+								<orgName type="institution">London School of Hygiene &amp; Tropical Medicine</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country>United Kingdom;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="department">Department of Sociology and Anthropology</orgName>
+								<orgName type="institution">Makerere University</orgName>
+								<address>
+									<settlement>Kampala</settlement>
+									<country>Uganda;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff14">
+								<orgName type="department">Department of Sociology and Anthropology</orgName>
+								<orgName type="institution">Mak- erere University</orgName>
+								<address>
+									<settlement>Kampala</settlement>
+									<country key="UG">Uganda</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Shanquan</forename><surname>Chen</surname></persName>
+							<idno type="ORCID">0000-0002-4724-4892</idno>
+							<affiliation key="aff3">
+								<orgName type="department">International Centre for Evidence in Disability</orgName>
+								<orgName type="institution">London School of Hygiene &amp; Tropical Medicine</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country>United Kingdom;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff12">
+								<orgName type="department">International Centre for Evidence in Disability</orgName>
+								<orgName type="institution">London School of Hygiene &amp; Tropical Medicine</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="laboratory">Independent Evaluation and Research Cell (IERC)</orgName>
+								<orgName type="institution">BRAC International</orgName>
+								<address>
+									<settlement>Kampala</settlement>
+									<country>Uganda;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">International Centre for Evidence in Disability</orgName>
+								<orgName type="institution">London School of Hygiene &amp; Tropical Medicine</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country>United Kingdom;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department">Centre for Evaluation</orgName>
+								<orgName type="institution">London School of Hygiene &amp; Tropical Medicine</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country>United Kingdom;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff12">
+								<orgName type="department">International Centre for Evidence in Disability</orgName>
+								<orgName type="institution">London School of Hygiene &amp; Tropical Medicine</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Lena</forename><forename type="middle">Morgon</forename><surname>Banks</surname></persName>
+							<idno type="ORCID">0000-0002-4585-1103</idno>
+							<affiliation key="aff3">
+								<orgName type="department">International Centre for Evidence in Disability</orgName>
+								<orgName type="institution">London School of Hygiene &amp; Tropical Medicine</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country>United Kingdom;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff12">
+								<orgName type="department">International Centre for Evidence in Disability</orgName>
+								<orgName type="institution">London School of Hygiene &amp; Tropical Medicine</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Kazi</forename><forename type="middle">Eliza</forename><surname>Islam</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="institution">BRAC International</orgName>
+								<address>
+									<settlement>Dhaka</settlement>
+									<country>Bangladesh;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff15">
+								<orgName type="institution">BRAC International</orgName>
+								<address>
+									<settlement>Dhaka</settlement>
+									<country key="BD">Bangladesh</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="laboratory">Independent Evaluation and Research Cell (IERC)</orgName>
+								<orgName type="institution">BRAC International</orgName>
+								<address>
+									<settlement>Kampala</settlement>
+									<country>Uganda;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department">Centre for Evaluation</orgName>
+								<orgName type="institution">London School of Hygiene &amp; Tropical Medicine</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country>United Kingdom;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff6">
+								<orgName type="institution">BRAC International</orgName>
+								<address>
+									<settlement>Dhaka</settlement>
+									<country>Bangladesh;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff15">
+								<orgName type="institution">BRAC International</orgName>
+								<address>
+									<settlement>Dhaka</settlement>
+									<country key="BD">Bangladesh</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Tom</forename><surname>Shakespeare</surname></persName>
+							<idno type="ORCID">0000-0003-2571-2787</idno>
+							<affiliation key="aff3">
+								<orgName type="department">International Centre for Evidence in Disability</orgName>
+								<orgName type="institution">London School of Hygiene &amp; Tropical Medicine</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country>United Kingdom;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff12">
+								<orgName type="department">International Centre for Evidence in Disability</orgName>
+								<orgName type="institution">London School of Hygiene &amp; Tropical Medicine</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="laboratory">Independent Evaluation and Research Cell (IERC)</orgName>
+								<orgName type="institution">BRAC International</orgName>
+								<address>
+									<settlement>Kampala</settlement>
+									<country>Uganda;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">International Centre for Evidence in Disability</orgName>
+								<orgName type="institution">London School of Hygiene &amp; Tropical Medicine</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country>United Kingdom;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department">Centre for Evaluation</orgName>
+								<orgName type="institution">London School of Hygiene &amp; Tropical Medicine</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country>United Kingdom;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff12">
+								<orgName type="department">International Centre for Evidence in Disability</orgName>
+								<orgName type="institution">London School of Hygiene &amp; Tropical Medicine</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Hannah</forename><surname>Kuper</surname></persName>
+							<email>hannah.kuper@lshtm.ac.uk</email>
+							<idno type="ORCID">0000-0002-8952-0023</idno>
+							<affiliation key="aff3">
+								<orgName type="department">International Centre for Evidence in Disability</orgName>
+								<orgName type="institution">London School of Hygiene &amp; Tropical Medicine</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country>United Kingdom;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff12">
+								<orgName type="department">International Centre for Evidence in Disability</orgName>
+								<orgName type="institution">London School of Hygiene &amp; Tropical Medicine</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">International Centre for Evidence in Disability</orgName>
+								<orgName type="institution">London School of Hygiene &amp; Tropical Medicine</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country>United Kingdom;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff12">
+								<orgName type="department">International Centre for Evidence in Disability</orgName>
+								<orgName type="institution">London School of Hygiene &amp; Tropical Medicine</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Munshi</forename><surname>Sulaiman</surname></persName>
+							<idno type="ORCID">0000-0001-6061-933X</idno>
+							<affiliation key="aff7">
+								<orgName type="department">BRAC Institute of Governance and Development</orgName>
+								<orgName type="institution">BRAC University</orgName>
+								<address>
+									<settlement>Dhaka</settlement>
+									<country key="BD">Bangladesh</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff16">
+								<orgName type="department">BRAC Institute of Governance and Development</orgName>
+								<orgName type="institution">BRAC University</orgName>
+								<address>
+									<settlement>Dhaka</settlement>
+									<country key="BD">Bangladesh</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff8">
+								<orgName type="institution">BRAC Uganda</orgName>
+								<address>
+									<addrLine>Plot 880 Heritage Road Nsambya</addrLine>
+									<postBox>P.O: Box 31817</postBox>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff9">
+								<orgName type="institution">(</orgName>
+								<address>
+									<settlement>Clock Tower Kampala</settlement>
+									<country key="UG">Uganda</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main" xml:id="_jQYfTqW">Evaluation of a disability-inclusive ultra-poor graduation programme in Uganda: study protocol for a cluster-randomised controlled trial with process evaluation</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main" xml:id="_M3vuVFP">Trials</title>
+						<title level="j" type="abbrev">Trials</title>
+						<idno type="eISSN">1745-6215</idno>
+						<imprint>
+							<publisher>Springer Science and Business Media LLC</publisher>
+							<biblScope unit="volume">25</biblScope>
+							<biblScope unit="issue">1</biblScope>
+							<date type="published" when="2024-03-21" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">E2342E5D9238A2A8B7B57DCFB5188038</idno>
+					<idno type="DOI">10.1186/s13063-024-08040-w</idno>
+					<note type="submission">Received: 25 August 2023 Accepted: 7 March 2024</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2025-11-04T19:03+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a292bac</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=1, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=true, generateTeiCoordinates=[true], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term xml:id="_Zhytn2a">Disability</term>
+					<term xml:id="_hZnKT4h">Income generation</term>
+					<term xml:id="_jpdENUt">Financial support</term>
+					<term xml:id="_BdKMxNG">Social protection</term>
+					<term xml:id="_mpVcB7b">Randomised controlled trial</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_xXTZXuy"><p xml:id="_ReFPfK8">Background There is little evidence on how to support ultra-poor people with disabilities to adopt sustainable livelihoods. The Disability-Inclusive Graduation (DIG) programme targets ultra-poor people with disabilities and/or women living in rural Uganda. The programme is an adaptation of an ultra-poor graduation model that has been shown to be effective in many contexts but not evaluated for people with disabilities.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_uy5ZXWp">Methods</head><p xml:id="_Y4hHMm6">The DIG programme works with project participants over a period of 18 months. Participants receive unconditional cash transfers for 6 months, training, access to savings-and-loans groups, and a capital asset that forms the basis of their new livelihood. The programme is also adapted to address specific barriers that people with disabilities face. Eligible households are clustered by geographical proximity in order to deliver the intervention. Eligibility is based on household screening to identify the 'ultra-poor' based on proxy means testing-both households with and without people with disabilities are included in the programme. Clusters are randomly selected prior to implementation, resulting in 96 intervention and 89 control clusters. The primary outcome of the trial is per-capita household consumption. Before the start of the intervention, a baseline household survey is conducted (November 2020) among project participants and those not offered the programme, a similar endline survey is conducted with participants with disabilities at the end of programme implementation in July 2022, and a second endline survey for all participants in October 2023. These activities are complemented by a process evaluation to understand DIG programme implementation, mechanisms, and context using complementary qualitative and quantitative methods.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="595.276" lry="790.866"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="595.276" lry="790.866"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="595.276" lry="790.866"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="595.276" lry="790.866"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="595.276" lry="790.866"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="595.276" lry="790.866"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="595.276" lry="790.866"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="595.276" lry="790.866"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="595.276" lry="790.866"/>
+		<surface n="10" ulx="0.0" uly="0.0" lrx="595.276" lry="790.866"/>
+		<surface n="11" ulx="0.0" uly="0.0" lrx="595.276" lry="790.866"/>
+		<surface n="12" ulx="0.0" uly="0.0" lrx="595.276" lry="790.866"/>
+		<surface n="13" ulx="0.0" uly="0.0" lrx="595.276" lry="790.866"/>
+		<surface n="14" ulx="0.0" uly="0.0" lrx="595.276" lry="790.866"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_cUg34QD">Introduction</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_dxufjkc">Background and rationale {6a}</head><p xml:id="_8XyEz6T">The first Sustainable Development Goal (SDG) is to 'End poverty in all its forms everywhere' , and this ambition has gained further urgency in the wake of the economic devastation caused by the Coronavirus Disease-2019 (COVID-19) pandemic. Social protection, often through cash transfers, has become a dominant mode for poverty reduction <ref type="bibr" target="#b0">[1]</ref>. While an important policy tool, the size of the transfers can be too small to be transformative, leaving many recipients still in poverty <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b2">3]</ref>. Recipients are rarely provided with the skills, assets, linkages with other services, and social networks needed to tackle the underlying drivers of poverty, making it difficult to break the poverty cycle <ref type="bibr" target="#b3">[4]</ref>.</p><p xml:id="_XbPrk7S">As a result of these concerns, the non-governmental organisation (NGO) BRAC has developed an 'Ultra-Poor Graduation Programme' (UPG programme) that aims to help extremely poor people move out of poverty. This programme combines support for immediate needs with longer-term investments in skills training, asset transfers, enterprise development, saving, and planning. The UPG programme is characterised by a 'graduation' model that aims to lift poor households from extreme poverty into long-term sustainable livelihoods living in less-poor conditions.</p><p xml:id="_A3hemES">BRAC's UPG programme has been delivered in several contexts around the world <ref type="bibr" target="#b0">[1]</ref><ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref>. This includes a scaled programme in Bangladesh <ref type="bibr">(2002-present)</ref>, as well as pilot projects in Afghanistan (2010-2013), Pakistan (2010-2015), South Sudan (2013-2015), and Uganda (2016-Present). Randomised controlled trials (RCTs) of the graduation programme have been undertaken in Bangladesh, Ethiopia, Ghana, Honduras, India, Pakistan, and Peru <ref type="bibr" target="#b0">[1]</ref>. The trials investigated effects on multiple primary outcomes for each of the following domains: expenditure; food security; assets; finance; time use; income; physical health; mental health; political involvement; and women's decision making. Overall, there was evidence that the programme improved outcomes, although not physical health or women's decision making <ref type="bibr" target="#b0">[1]</ref>.</p><p xml:id="_VuyZCwN">There are more than 800 million people with disabilities living in low-and middle-income countries that could benefit from the UPG programme <ref type="bibr" target="#b4">[5]</ref>. People with disabilities are on average poorer than their peers without disabilities <ref type="bibr" target="#b4">[5,</ref><ref type="bibr" target="#b5">6]</ref>. Meaningful inclusion of people with disabilities in poverty reduction programmes is challenging because of multi-level barriers. These include negative attitudes and low expectations held by programme staff, family members and people with disabilities themselves, poor physical or informational accessibility, lack of access to needed accommodations, and failure of programmes to consider disability-related extra costs <ref type="bibr" target="#b2">[3,</ref><ref type="bibr" target="#b6">7]</ref>. Previous impact evaluations of the UPG programme have not included people with disabilities and there is consequently a lack of evidence regarding whether the graduation model can be adapted to their needs and the impacts of such an adapted model-important questions for development policy and programming.</p><p xml:id="_FVu8qWD">BRAC Uganda has been funded to adapt the UPG programme for households of people with disabilities in Uganda with funding from the United Kingdom's Foreign Commonwealth and Development Office (UK FCDO), as part of Inclusive Futures, Comic Relief, and the National Lottery. The project is referred to as the 'disability-inclusive graduation' (DIG) programme and is implemented in partnership with Humanity and Inclusion (HI) and the National Union of Women with Disability in Uganda (NUWODU), a national Organization of Persons with Disabilities (OPD).</p><p xml:id="_RCyrqBW">Implementation of the DIG programme in Uganda provides an opportunity to determine whether it can have a positive effect on people with disabilities' livelihoods and well-being. The FCDO-funded Programme for Evidence to Inform Disability Action (PENDA), led by London School of Hygiene and Tropical Medicine (LSHTM), aims to fill the evidence gap in disability and development. PENDA will evaluate the DIG programme, in partnership with BRAC Institute of Governance and Development (BIGD) and its affiliated Independent Evaluation and Research Cell (IERC) in BRAC International, which works independently of BRAC Uganda. It is hoped that the outcome of the evaluation will inform governments and other NGOs seeking to deliver similar programmes for people with disabilities.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_85DKp27">Objectives {7}</head><p xml:id="_EpFD6Gc">The aim of the impact evaluation is to estimate the effect of the DIG Programme on the livelihoods and well-being of people with disabilities and their families in Uganda. Consequently, the primary objective is to estimate the effect of the DIG programme on per-capita expenditure, livelihood, and social participation of people with disabilities and their families. The secondary objective of the impact evaluation is to estimate the differential effect of the DIG programme on per-capita expenditure, livelihood, and social participation of people with disabilities and their families, compared to the effect among people without disabilities. The study is complemented by a process evaluation. The objectives of the process evaluation, in accordance with MRC guidance for process evaluations of complex interventions <ref type="bibr" target="#b7">[8]</ref>, are to describe the intervention implementation as delivered, test evaluation hypotheses, and generate theoretical learning to inform future intervention designs.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_QKhKAx9">Trial design {8}</head><p xml:id="_HMJNvUc">The overall effect of the intervention is estimated using a two-arm, parallel group, longitudinal, pair-matched cluster-randomised controlled superiority trial design. Clusters are defined as villages with 10-75 eligible households, within which households act as the observational unit (see 'Eligibility criteria {10}' section for further details).</p><p xml:id="_Rznfcaa">The DIG programme has identified more than 11,000 eligible households, but only has funding to reach 2700 households under the programme. Randomisation is therefore an equitable way to select households for inclusion. It is also not yet clear that the intervention is effective for people with disabilities and their families. Cluster randomisation was chosen in part because of the nature of the DIG programme, which includes components delivered at the village level.</p><p xml:id="_pCSVjJw">After random allocation of villages into intervention and control arms, but prior to implementation of the intervention, a baseline survey at household level is conducted (November 2020). The DIG programme is then implemented for 18 months from December 2020 to June 2022. Two endline household surveys are undertakenthe first in July 2022 for participants with a disability to determine the effects of DIG at programme end (endline 1); and a second one in October 2023 for all participants (endline 2), inclusive of participants with disabilities, to assess the longer-term differential effects of the DIG programme between households with and without disabilities.</p><p xml:id="_Zdy7dCD">This work is complemented by a process evaluation to further understand implementation of the DIG programme. The process evaluation is guided by theoretical considerations, such as What underlying theory are we testing with this intervention? What is the theory underlying the design of the graduation programme? And what is the theory underlying the adaptations to make them inclusive? These considerations ground the process evaluation in the relevant wider literature, and support generalisability to future intervention designs that draw on similar theories. To facilitate consideration of theory, an unambiguous articulation of project theory as supposed by the delivery team is developed iteratively in the form of a directed acyclic graph (DAG), based on the theory of change and using set rules for specifying how change is expected to happen.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_mKwGdh9">Methods: participants, interventions and outcomes</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_gN57aWS">Study setting {9}</head><p xml:id="_whnt6sc">Kiryandongo, Gulu, Nwoya, and Oyam districts in Uganda are the selected sites for DIG programme implementation. These districts are characterised by higher than national average levels of poverty, social deprivation, and prevalence of disability. A map of programme locations is shown in Fig. <ref type="figure" target="#fig_1">1</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_2XnaPFg">Eligibility criteria {10}</head><p xml:id="_t6RdD2C">For the purposes of intervention delivery and evaluation, clusters are villages with 10-75 eligible households. This cluster size is necessary for the Village Savings and Loans Associations (VSLAs) and Village Poverty Reduction Committees (VPRCs) (described further under Intervention description). To create a cluster, either nearby small villages are grouped or larger villages split to create a manageable cluster, that is, having between 10 and 75 eligible households. For small villages, the geographic distance from its centroid was calculated to the centroid of its adjacent villages, using eligible household's GPS coordinates. The village concerned was then grouped with adjacent villages having the shortest distance. To split larger villages, we relied on k-means clustering to iteratively group neighbouring households, using their GPS coordinates, within a village into clusters. From the 156 villages identified near the BRAC Uganda branch offices in the target districts as potential sites for the DIG programme, 185 of these artificial clusters were created, each with at least 10 eligible households.</p><p xml:id="_VeymTrK">Identification of eligible households is based on household-level data collected by the implementing partners (BRAC, HI, and NUWODU). Households are eligible if they meet at least three out of five criterions, as this was felt to be an adequate threshold and would also reflect variations in household experiences of poverty. That is, (1) having a person with disability, (2) being a femaleheaded household or dependent on earnings from a female member of the household, (3) having children who are out of school, (4) poor housing conditions (floor, roof, and wall), and (5) low productive asset endowment. The Washington Group short set of questions is used to identify households with people with disabilities, based on those that report 'a lot' of difficulty on at least one dimension of the six-question set (i.e. walking, seeing, hearing, communicating, understanding and self-care) <ref type="bibr" target="#b7">[8]</ref>. Ultra-poor households without a person with disabilities are still eligible for inclusion in the DIG programme in order to ensure there are enough households within each cluster for village-level interventions to operate.</p><p xml:id="_5SfD4zA">The unit of participation in the programme is the household; however, a single individual within each household is the 'project participant' who is the main recipient of the training and enterprise. This person is expected to take responsibility for managing the enterprise and participate in the programme activities, such as training on enterprise management or savings group meetings. At least 15% of the project participants should be people with disabilities, in line with the proportion of Ugandans living with a disability <ref type="bibr" target="#b8">[9]</ref>. Women are also prioritised as project participants, in line with previous UPG programme implementation, and to promote gender equity within DIG for participants with and without disabilities. Children (i.e. people aged below 18 years) are not eligible to be project participants within the DIG programme.</p><p xml:id="_MNatGye">BRAC and collaborators have developed a suite of locally appropriate enterprise options that are accessible to people with disabilities. However, for households where a person with a disability is not able to manage the available enterprise options, such as a person with severe cognitive impairment, the primary caregiver for that person may act as the participant instead.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_Apcyr4m">Interventions</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_kBCHgZ6">Explanation for the choice of comparators {6b}</head><p xml:id="_nG9NMKp">Participants in the control arm do not receive the DIG programme. Control arm participants identified as having disabilities are counselled on how and where to seek health and/or rehabilitation services that they may require. Additionally, they are provided with information on all the social protection programmes to which they may be eligible, and how to make an application. This is a suitable comparator to the intervention, as it enables the study to establish if the DIG programme has any additional impact as compared to currently available services.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_T2ZyMCz">Intervention description {11a}</head><p xml:id="_PfxHKUp">The four main graduation programme components of DIG are: Additional disability-specific components are intended to reduce barriers and enable inclusive participation in the poverty graduation programme. These disabilityspecific components include (1) access to occupational, physical and psychosocial therapy, and referrals through local technical staff hired by the project; (2) bi-monthly home visits provide inclusive life-skills training, coaching, and emotional support; (3) attitudinal barriers among project participants, project staff, BRAC Uganda staff, and key external stakeholders are addressed through sensitivity training provided by NUWODU and HI. The sensitivity training aims to improve disability inclusion at the organisational level by conducting a disability inclusion self-assessment of BRAC Uganda, led by NUWODU and HI, to develop a disability inclusion plan, and monitor its implementation-including changes at programme, management, human resources, and policy levels; (4) The programme supports advocacy, including sensitising village leaders on disability inclusion through NUWODU's District Women's Associations. DIG aims to shift norms and behaviours at the community level by bringing together local OPD leaders, local and religious leaders in VPRCs to advocate for the empowerment of people with disabilities. DIG also delivers disabilityawareness training to civil-society organisations.</p><p xml:id="_y2fsKSF">A Theory of Change (ToC) describing the DIG programme is shown in Fig. <ref type="figure" target="#fig_3">2</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_X6p6ABs">Criteria for discontinuing or modifying allocated interventions {11b}</head><p xml:id="_YMStbmJ">Project participants and households can choose to discontinue participating in the intervention or study at any time with no obligation to give a reason for withdrawal and without prejudice to future engagement in the DIG programme or other BRAC projects. No modification of allocated interventions will be conducted.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_6xWsGrg">Strategies to improve adherence to interventions {11c}</head><p xml:id="_yHz5hGK">No specific strategies to improve adherence to interventions. However, a compliance survey undertaken by BRAC Uganda mid-way through DIG programme implementation (July 2021) is used to determine engagement with the intervention components among project participants.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_eYKaqZ2">Relevant concomitant care permitted or prohibited during the trial {11d}</head><p xml:id="_QUcFFtn">No restrictions on concomitant care.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_QKg8Zjw">Provisions for post-trial care {30}</head><p xml:id="_YNWjMNx">No specific provisions for post-trial care.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_GqkcNPf">Outcomes {12}</head><p xml:id="_4F844NG">The primary outcome is per-capita annual household expenditure, which is arrived at by dividing the total annual household expenditure by the number of individuals that habitually reside in the household. Expenditures covered include food items, non-food household items (e.g. electricity, utilities), healthcare, and education, collected in Ugandan Shillings. Amounts are adjusted for inflation and expressed as constant 2017 purchasing power parity (PPP) United States Dollars. Household expenditure has a closer link with household well-being and is often used to evaluate transfer programmes. Household poverty status will also be derived, whether per-capita consumption expenditure is below US$1.90 per day and the household poverty gap, the shortfall in per-capita consumption expenditure from the poverty line-US$1.90 per day. Further secondary outcomes measure anticipated changes based on the theory of change. These are annual household income from agricultural and non-agricultural sources in the last 1 year preceding the survey (household level); participation in livelihood activities by project participants; participation in social activities by project participants in the last 1 week preceding the survey; and the health and wellbeing of project participants. For the process evaluation, outcomes include the programme's fidelity, reach, and dose; mechanisms of impact (e.g. mediators); and context-dependencies (e.g. moderators).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_WD7yd83">Participant timeline {13}</head><p xml:id="_eCKM9Cy">Table <ref type="table" target="#tab_0">1</ref> shows the participant timeline.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_apJMehD">Sample size {14}</head><p xml:id="_uEscwqu">The DIG programme plans to reach 2700 households, of whom at least 15% of the project participants are people with disabilities, in line with the proportion of Ugandans living with a disability <ref type="bibr" target="#b8">[9]</ref>. Thus, a minimum of 405 project participants are to be people with disabilities.</p><p xml:id="_Fxra3fw">The sample size calculations are based on the effect of the intervention on the primary outcome among people with disabilities. The number of programme recipients, and consequently the size of the study, is fixed by the implementation partners' funding. These calculations determine whether the study has sufficient precision to estimate the effect on per-capita expenditure in households with people with disabilities as the project participant.</p><p xml:id="_U6UuvwZ">Available data from the screening and verification visits informed the estimated total number of clusters that would be needed to reach 5400 eligible households. During the screening and verification process, BRAC Uganda found that approximately 25% of project participants were people with disabilities, and as such it was expected that the trial would include 675 people with disabilities in each arm. The distribution of eligible households per village was used to simulate the trial, 185 villages sampled with replacement from the verified villages gave approximately 5400 research participants in a simulated trial. A value of 0.8 was used from a recent evaluation of the graduation programme in Ghana for the standard deviation of the distribution of the normalised per-capita expenditure at baseline <ref type="bibr" target="#b9">[10]</ref>. Since the degree of clustering in the outcome was unknown, the intraclass correlation coefficient (ICC) was allowed to vary between 0.05 and 0.3. The estimated between-village variation in mean level of the outcome at baseline and individual-level outcomes were drawn from the village-level means with a constant within-village variance. The endline results were generated using the simulated baseline data and a covariance matrix with a pre-post correlation of either 0.4, 0.6, or 0.8. The 185 clusters were pair-matched by the number of people with disabilities and a constant intervention effect was applied to the clusters allocated to the intervention arm. The intervention effects ranged from a difference between the intervention and control arms in the mean per-capita expenditure of zero standard deviations of the baseline per-capita expenditure, to 0.2 standard deviations, which is as high as the largest effects on per-capita expenditure observed in previous trials <ref type="bibr" target="#b0">[1]</ref>. Multi-level linear regression was used to estimate the effects, controlling for baseline per-capita expenditure, accounting for clustering with a villagelevel random effect, and for the randomised design with fixed-effect for the pairs.</p><p xml:id="_nwBXhmz">The results from the simulated analyses are shown in Fig. <ref type="figure" target="#fig_4">3</ref>. The darker CIs correspond to scenarios with higher ICCs. Estimates were precise when the pre-post correlation was high (right-hand panel), and sufficiently precise to exclude the null with a low correlation and true effect of a difference between the arms of 0.1 standard deviation of per-capita expenditure at baseline (lefthand panel). Under conservative assumptions, we would reject the null hypothesis at conventional levels (p &lt; 0.05) if the true effect of the intervention on per-capita expenditure was at least 0.1 standard deviations of the baseline distribution. This effect size is similar in magnitude to the overall effect on per-capita expenditure found in trials of the original (non-inclusive) version of the programme <ref type="bibr" target="#b0">[1]</ref>; therefore, this trial would have sufficient power to detect an effect if the adaptations of the intervention for people with disabilities worked such that the effect was as strong as it had been for people without disabilities.</p><p xml:id="_RkPpVAu">How big is 0.1 standard deviations in per-capita expenditure in real terms? Pooled analysis of studies in six countries shows that the 0.1 standard deviation effect on per-capita expenditure was equivalent to US$5 per-capita per month (adjusted for purchasing power parity <ref type="bibr" target="#b0">[1]</ref>). In households with on average six members, this would amount to US$27 increased expenditure per month per household. Many ultra-poor families live on less than $US0.80 per person per day, and this would constitute an 18% increase in per-capita expenditure. In contrast, where available, disability allowances in Uganda amount to around $5 per person with disability per month <ref type="bibr" target="#b6">[7]</ref>. Therefore, an effect of 0.1 standard deviations would be a substantial increase compared to other benefits.</p><p xml:id="_4jJ25EH">An effect of this size would also have policy implications since it would likely mean that the programme was cost effective. Aside from Honduras (where there was a negative effect on expenditure), in previous studies the UPG programme had cost-effectiveness ratios between 133% in Ghana to 433% in India, based on the improvement in per-capita expenditure alone <ref type="bibr" target="#b0">[1]</ref>. Such a result for people with disabilities would be important not only for the families involved, but also for motivating investment in an under-served population.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_Y6V3MJG">Recruitment {15}</head><p xml:id="_zAaxe7Z">The implementing partners (BRAC, HI, and NUWODU) are responsible for selection of households to take part in the programme. Since the graduation model entails a large investment in participating households, accurate targeting of beneficiary households is important to avoid waste <ref type="bibr" target="#b10">[11]</ref>. Selection into the programme is based on household-level indicators, and achieved by a two-stage process:</p><p xml:id="_pNTxBSy">Stage 1: Selection of potentially eligible households. BRAC Uganda screens households in villages near to their branch offices in the target districts. Eligible households are identified based on the eligibility criteria, as earlier described. Stage 2: Verification of eligibility. Verification is completed by the project manager of the DIG programme. The project manager confirms that households meet the eligibility criteria, as earlier described.</p><p xml:id="_B8z4yhy">The unit of participation in the programme is the household; however, a single individual within each household is the 'project participant' who is the main recipient of the training and assets. This person is expected to take responsibility for managing the enterprise and participate in other activities, such as training on enterprise management or savings group meetings. Project participants are selected before randomisation. The field worker and the household members discuss who is best suited to manage the enterprise and take part in the training. When discussing with household members who should be the participant, the fieldworkers encourage people with disabilities and/or womenusually spouse to the household head-to be the participants where possible even if they are not the head of household.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_eeK5xbw">Who will take informed consent? {26a}</head><p xml:id="_pcZSSMh">For the evaluation, informed consent is obtained prior to each round of data collection. The informed consent process is conducted by the BIGD/IERC interviewer, trained in the informed consent process. Before taking informed consent, the interviewer provides hard copies and reads aloud the participant information sheet and consent forms to the participants. Consent and data collection procedures are adapted to support the participation of people with different impairments, such as sign language for participants with profound hearing impairments and knowledge of a standard sign language. Written informed consent is then obtained by means of participant-dated signature (or thumbprint) and dated signature of the person who presented and obtained the consent.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_2ZNdrXU">Additional consent provisions for collection and use of participant data and biological specimens {26b}</head><p xml:id="_cBqq8jk">Participants provide their consent for their data to be uploaded into a public repository and for it to be used in ancillary studies during the informed consent process (see Supplemental file 1 for model consent form). No biological specimens will be collected.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_eT8XVQw">Assignment of interventions: allocation</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_4B8Vgj8">Sequence generation {16a}</head><p xml:id="_bcmWFdp">Randomisation is stratified by BRAC office branch, to ensure sufficient programmatic support to the clusters in the intervention arm, and pair-matched based on the number of people with disabilities. For each branch, clusters are ranked by the number of project participants who are people with disabilities. Adjacent clusters in the ranked lists are paired. Each cluster in a pair is randomly allocated to each arm using random number allocation in using Stata (StataCorp. College Station, TX: StataCorp LLC).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_qqYwUSf">Concealment mechanism {16b}</head><p xml:id="_dsYZvMd">No concealment mechanism, clusters are randomly allocated using Stata (StataCorp. College Station, TX: Stata-Corp LLC).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_kwzgG6k">Implementation {16c}</head><p xml:id="_AAfwzjM">Assignment of clusters to intervention and control arms is led by the implementing partners (BRAC, HI, and NUWODU) with support from IERC and BIGD, in order to meet the criteria for the evaluation. Allocation is conducted at one time point prior to the baseline survey and implementation of the DIG programme. The programme team preidentified the desired number of intervention beneficiary households that each of the eight BRAC branches could support based on the sample size of 2700 households. This number ranged from 320 to 420 households. <ref type="foot" target="#foot_0">1</ref> The number of eligible households, identified during the screening and verification process, within each cluster was calculated. Permutations of cluster allocation were then run in Stata, until the desired total number of 2700 households for the DIG programme was reached in the intervention arm. Remaining clusters were assigned to the control. In the end, 96 clusters were assigned to the intervention arm and the remaining 89 clusters to the control arm. Overall, 2898 households were assigned to the intervention arm while 2402 households were retained as control-the distribution of households by district and BRAC branch is shown in Table <ref type="table" target="#tab_1">2</ref>. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_2t39E2A">Plans for assessment and collection of outcomes {18a}</head><p xml:id="_fdD7P2w">Baseline data is collected for the impact evaluation (November 2020), before the DIG programme starts; after the DIG programme ends following 18 months of implementation, data is collected for the first endline from households with people with disabilities (July 2022), and for the second endline from all households and participants (October 2023). Data is collected for the baseline and endlines using questionnaires that have been piloted prior to use. Questionnaires are administered by experienced and trained data collectors, overseen by BIGD/IERC, to members of selected households in both the control and intervention arms (see Table <ref type="table" target="#tab_2">3</ref> for questionnaire domains, full questionnaires available in Supplemental file 2). One questionnaire refers to features of the household and should be completed by the female head of household. Another questionnaire refers to the person with disabilities and should be completed by this person, if different to the female head of household. The female head of household survey includes a tool that has been adapted and verified for the Ugandan context to measure per-capita monthly expenditure at the household level. The survey for the person with disabilities collects disability-related information and was adapted from the World Health Organization's Model Disability Survey <ref type="bibr" target="#b11">[12]</ref>.</p><p xml:id="_Zdq7YP8">The process evaluation uses data from the impact evaluation in conjunction with other data sources. This includes programme monitoring data collected by BRAC Uganda at the branch and national level, such as records of asset transfer timings, number of household visits (and by whom), and other project activities. A compliance survey conducted by BRAC Uganda as part of their programme monitoring activities is conducted halfway through programme implementation (July 2021), this will inform the level of exposure to the intervention among project participants. This is complemented by questions in the endline surveys on exposure to intervention components. Qualitative interviews with the project staff (approximately 10) and project participants (approximately 30; 15 in each arm, 10 with disabilities and 5 without) are conducted at the end of the project to address domains such as fidelity, adaption, reach, mediators, unintended consequences, and context of programme implementation, and to further understand participant responses to the intervention. The endline surveys also provide data for the process evaluation regarding factors expected to be on the causal pathway, and contextual factors. Further information on the process evaluation domains can be found in Supplemental file 3.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_9AexHuk">Plans to promote participant retention and complete follow-up {18b}</head><p xml:id="_EUe7fZZ">Consent and data collection procedures are adapted to support the participation of people with different impairments (e.g. sign language for participants with profound hearing impairments and knowledge of a standard sign language). Interviews take 60-120 min per visit and could be tiring for participants. To compensate for this fatigue, participants are offered a small token (bar of soap or a kilogramme of sugar) at the end of the interview as an appreciation. Participants are given the opportunity to stop at any time if they become fatigued and would no longer like to continue participating.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_DCB2ppA">Data management {19}</head><p xml:id="_rdefs9e">Quantitative data collection is conducted by IERC and BIGD, and qualitative data collection for the process evaluation done by Makerere University. Qualitative data collected through interviews with beneficiaries and key informants are audio recorded, then transcribed and translated into English. Audio recordings and transcripts are securely stored by the head of the qualitative evaluation team. Quantitative data, collected through the household surveys, is collected electronically using SurveyCTO (Dobility, Inc. Cambridge, MA, USA), where all data is password protected on devices and servers. Once BIGD have cleaned and ensured the data is anonymized, data is shared with LSHTM in the UK using a secure data transfer protocol, where it is securely stored on LSHTM servers.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_GbdsH2m">Confidentiality {27}</head><p xml:id="_6p6UwgQ">All study staff undergo ethics training and sign a confidentiality agreement. The research team ensures that all research data collected are anonymised using unique identification numbers.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_6NqCxHZ">Plans for collection, laboratory evaluation and storage of biological specimens for genetic or molecular analysis in this trial/future use {33}</head><p xml:id="_HwrdVJy">Not applicable, as no biological specimens collected.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_TVq6h2c">Statistical methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_WGW8Yxc">Statistical methods for primary and secondary outcomes {20a}</head><p xml:id="_sqDFcuZ">For basic description, we will report the mean and standard deviation (or median and interquartile range) for continuous variable and the number and percentage for categorical variables, by intervention status (yes or no), and by data wave (baseline vs follow-up). We will test the balance of the covariates by t-test (or Mann Whitney U test) for continuous variables and by chi-square test for any categorical variables. Covariates include socio-demographic factors (e.g., age, sex), as well as any other factors likely to affect the implementation of the intervention. Data will be fitted with multi-level linear regression to test the effect of the intervention, with the difference of the primary or secondary outcomes between followup and baseline as the outcome, and intervention status as the exposure, controlling for potential imbalance in covariates at baseline. To account for the data structure, we will consider the random intercept and random slope for exposure at the level of district and pair indicators. To address multiplicity concerns the Bonferroni Correction or Bayesian modelling approaches will be applied. The model's adequacy will be assessed through residual plots, with log transformations of variables considered if residuals are not randomly distributed. All analysis will be conducted in Stata and R. We will report the estimation as coefficient for continuous outcome and OR for binary outcome, as well as their 95% confidence interval (CI). P value &lt; 0.05 will the level of statistical significance.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_PqrwDbM">Interim analyses {21b}</head><p xml:id="_Vh6kZEE">No interim analyses.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_FG4mVVA">Methods for additional analyses (e.g. subgroup analyses) {20b}</head><p xml:id="_skGcnP4">Subgroup analyses will be conducted to ascertain the differential efficacy of the intervention. These analyses will include stratification by sex, disability status (whether the household has people with disabilities), and by whether the recipient of the intervention is the person with disabilities within the household. The objective of these subgroup analyses is to elucidate whether the intervention's effectiveness varies across these distinct demographic segments, thereby providing a deeper insight into its targeted impact.</p><p xml:id="_kS7b2W3">For the process evaluation, we will combine data sources to determine fidelity, reach and dose, in order to describe the actual intervention as experienced by programme participants. To identify mechanisms of impact, we are working with the FCDO-funded POInT (processoutcome integration with theory) project led by LSHTM <ref type="bibr" target="#b12">[13]</ref>, to build a framework for jointly interpreting certain aspects of the qualitative and quantitative data gathered to make inferences about the causal pathways that are most important for this intervention to work (mediators). Similarly, for general theoretical learning, we will use qualitative data to learn about unexpected context contingencies, and quantitative data to explore moderation by contextual factors.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_9ttjDb9">Methods in analysis to handle protocol non-adherence and any statistical methods to handle missing data {20c}</head><p xml:id="_f742X2d">The full analysis set (FAS) will be defined according to the intention-to-treat (ITT) principle. The FAS will consist of all randomised subjects analysed according to the study arm to which they were assigned at randomisation. Participants who withdraw consent for continued followup will be included in the analysis by modern imputation methods for missing data as sensitivity analysis. Where possible, reasons for withdrawal for each group will be reported and compared qualitatively.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_3x4yZPC">Plans to give access to the full protocol, participant-level data, and statistical code {31c}</head><p xml:id="_EWQKesH">Twelve months after the end of the study, the anonymized survey data will be made available on LSHTM's Data Compass (<ref type="url" target="https://datacompass.lshtm.ac.uk/">datac ompass. lshtm. ac. uk</ref>), for which explicit consent has been included in the consent form, alongside project documentation and a data user guide.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_Sjgwqr3">Oversight and monitoring</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_Hc5CaMS">Composition of the coordinating centre and trial steering committee {5d}</head><p xml:id="_FRCZKJV">BRAC Uganda is responsible for the intervention design, allocation, implementation, and programme monitoring. BIGD and IERC lead household survey data collection, and Makerere University leads qualitative data collection for the process evaluation. Evaluation design and analysis is led by LSHTM, in partnership with BIGD, IERC, and Makerere University. Monitoring data collected from implementing partners is shared with LSHTM for the purpose of the process evaluation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_tbbyx2x">Composition of the data monitoring committee, its role and reporting structure {21a}</head><p xml:id="_3qVNT3y">As the evaluation is not blinded and the interventions pose a limited risk to participants, a data monitoring committee is not required.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_Gx7p3NW">Adverse event reporting and harms {22}</head><p xml:id="_mp5e8dB">Delivery of interventions is monitored by BRAC Uganda. As the intervention is targeted at the worstoff households, many households within the intervention villages do not actually receive the intervention. It is possible that the targeting methods are imperfect or appear imperfect to members of the communities, and that there is resentment within the villages. This is not a feature of the random allocation but is a feature of the programme. Resentment may lead to perpetration of violence of theft, particularly targeting people with disabilities, which is monitored by BRAC Uganda through a feedback and complaint handling mechanism, and will inform the process evaluation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_ZwWXSy3">Frequency and plans for auditing trial conduct {23}</head><p xml:id="_ukAApKC">Data is quality assured in the field by the data collection team supervisor and checked after submission by the data manager. Any discrepancies are followed up with the relevant data collector as required.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_btyBQGr">Plans for communicating important protocol amendments to relevant parties (e.g. trial participants, ethical committees) {25}</head><p xml:id="_MYp39Dn">Any important modifications to the study protocol are agreed between BRAC Uganda, Makerere University, and LSHTM, and approved by LSHTM Ethics Committee and Mildmay Uganda Research Ethics Committee prior to implementation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_ZfpaCsT">Dissemination plans {31a}</head><p xml:id="_j3tChbB">To disseminate findings from this research, we will write academic articles, present at conferences and publicise the results through our network of academic and non-academic partners.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_GbxUYzn">Discussion</head><p xml:id="_7GUj7pd">The DIG programme is an ambitious attempt to deliver an intervention that aims to sustainably change the levels of poverty among people with disabilities in rural Uganda. There is currently a lack of evidence on the impact of interventions designed to improve livelihoods among people with disabilities <ref type="bibr" target="#b13">[14]</ref>. DIG is a promising intervention to evaluate, as it has been adapted to be disability inclusive across programme components through extensive consultations and collaboration with people with disabilities, OPDs, and other disability experts. Furthermore, it has proved effective at reducing poverty among other target groups in several different contexts <ref type="bibr" target="#b0">[1]</ref>. This is a pragmatic trial <ref type="bibr" target="#b14">[15]</ref>, where the intervention is being delivered in 'real-life' conditions. Pragmatic trials delivered in 'real-life' conditions have advantages and disadvantages for informing policy. They are inherently realistic, so any evidence of effect is a good indication that a scaled-up programme could replicate the effects. However, by being so dependent and contingent on the context at all levels, generalising the effects (or lack thereof ) to other settings-or even the same setting in the future <ref type="bibr" target="#b15">[16]</ref>-can be challenging. We are addressing this disadvantage with a theory-driven process evaluation that will identify key mediators and moderators of the processes that occurred and will combine this with other data to make recommendations on how interventions should be informed by this evaluation when delivered elsewhere.</p><p xml:id="_AQEySTQ">Finally, pragmatic trials have challenges relating to the ethics of randomisation and data collection from people who are not directly receiving the intervention. Questions arise since the programme is not an intervention developed for the purposes of research about which there is 'equipoise' , but an NGO-led programme that has been shown to be effective in other contexts. The decision to randomise was itself pragmatic; the funds were limited, and many more eligible people had been identified. More importantly for the cause of generating evidence for people with disabilities, while the intervention has been shown to be effective before it has not been for people with disabilities. Given the programme's emphasis on inclusion, it is difficult to design an intervention that would both allow all people without disabilities to get the intervention (because it has been previously shown to be effective) but not people with disabilities (because a trial is justified by the lack of evidence). Striking the balance between the interests of generating evidence for a marginalised group and rolling out a proven approach to poverty alleviation is a challenge for this and for future research.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_ucB62un">Trial status</head><p xml:id="_ZABZQd6">This manuscript is based on protocol version 2, 24 August 2020. Baseline data collection and recruitment was conducted in November 2020. The first endline evaluation was conducted in July 2022 and the second endline is planned for October 2023. It was not possible to submit the manuscript prior to participant recruitment as funding for the second endline was pending (now approved) and this would have influenced the study design.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><figDesc xml:id="_Rp54Ryz">Registry for International Development Impact Evaluations, RIDIE-STUDY-ID-626008898983a on (20/04/22). ISRCTN registry, ISRCTN 78592382. Retrospectively registered on 17/08/2023, https:// www. isrctn. com/ ISRCT N7859 2382. Protocol version {3} Version 2 (24/08/2020) Funding {4} The study is funded by the United Kingdom Foreign, Commonwealth and Development Office (FCDO) under the Programme for Evidence to Inform Disability Action (PENDA) (IATI Identifier: GB-EDU-133903-PENDA). Hannah Kuper is funded by a National Institute for Health and Care Research (NIHR) Global Research Professorship. Intervention implementation is conducted under a separate project led by BRAC Uganda, in partnership with Humanity and Inclusion (HI) and the National Union of Women with Disability in Uganda (NUWODU), with funding from FCDO under Inclusive Futures, Comic Relief and National Lottery.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 1</head><label>1</label><figDesc xml:id="_XE67Y9f">Fig. 1 Study districts (A) and villages (B). Study district boundaries in blue, while study villages are shown as red dots</figDesc><graphic coords="4,360.27,88.58,122.76,57.60" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>( 1 )</head><label>1</label><figDesc xml:id="_YBsr6Ek">Livelihood: The livelihood component should lead to improved enterprise management skills, asset accumulation or diversification, and increased income, through receipt of assets (e.g. livestock), technical training, and individual-level support for income generation. Assets are chosen based on local market opportunities and the skills and capabilities of the recipients.(2) Social protection: Social protection should increase access to health services, social safety nets, and support mechanisms and consequently improve household food intake and dietary diversity and improve health. Intervention activities under this component includes unconditional cash transfers for 6 months; healthcare subsidy and rehabilitation, physiotherapy, and psychosocial support; activities to support beneficiaries to overcome access barriers to government and NGO social entitlements (both disability-specific and general); and support services, including health, education, and social protection. (3) Financial inclusion: Financial inclusion should result in improved financial management skills and increased savings, developing ability and confidence to access financial services, cope with shocks, and invest in productive assets. Activities encompass: financial literacy training; village savings and loans association (VSLAs) formation; and on-going coaching. Training materials are adapted by HI and NUWODU to ensure that the VSLAs do not exclude people with disabilities. (4) Social empowerment: Social empowerment should result in better social integration within households and communities and improve participant confidence and aspirations. DIG provides home coaching for individual counselling and life-skills, individual empowerment plans (supported by HI), and the formation of inclusive Village Poverty Reduction Committees (VPRCs). VPRCs act as local governance structures with government/community leadership representation. The presence of these, and the VSLAs, means that while principally a house-hold-level programme, the programme also has important village-level components.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 2</head><label>2</label><figDesc xml:id="_y5DJUXb">Fig. 2 Theory of change for the DIG programme</figDesc><graphic coords="6,63.34,88.58,468.60,274.92" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. 3</head><label>3</label><figDesc xml:id="_wZv8Kau">Fig.3Precision of estimates of effect using simulated data. Darker confidence intervals are from scenarios with higher levels of clustering</figDesc><graphic coords="9,65.62,88.58,216.00,144.60" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc xml:id="_TuXTpsU">Participant timeline for the DIG programme's cluster randomised controlled trial</figDesc><table><row><cell>(6) Endline 2 (All</cell><cell>participants)</cell><cell></cell><cell></cell><cell>October 2023</cell><cell></cell><cell>BIGD</cell><cell></cell><cell>□ Informed con-</cell><cell>sent of respond-</cell><cell>ents</cell><cell>□ Household sur-</cell><cell>vey with female</cell><cell>head of house-</cell><cell>hold and person</cell><cell>with disabilities (if</cell><cell>not female head</cell><cell>of household)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>(5) Process</cell><cell>Evaluation</cell><cell></cell><cell></cell><cell>January-Feb-</cell><cell>ruary 2023</cell><cell>Makerere Uni-</cell><cell>versity</cell><cell>□ Informed</cell><cell>consent</cell><cell>of respondents</cell><cell>□ Semi-struc-</cell><cell>tured interviews</cell><cell>with pro-</cell><cell>gramme benefi-</cell><cell>ciaries and key</cell><cell>informants</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>(4) Endline 1</cell><cell>(Participants</cell><cell>with disabili-</cell><cell>ties)</cell><cell>July 2022</cell><cell></cell><cell>BIGD</cell><cell></cell><cell>□ Informed</cell><cell>consent</cell><cell>of respondents</cell><cell>□ House-</cell><cell>hold survey</cell><cell>with female</cell><cell>head of house-</cell><cell>hold and person</cell><cell>with dis-</cell><cell>abilities (if</cell><cell>not female head</cell><cell>of household).</cell><cell>Limited to just</cell><cell>households</cell><cell>with a person</cell><cell>with disabilities</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>12-18 months</cell><cell>BRAC Uganda</cell><cell></cell><cell>□ Training</cell><cell>□ Individual</cell><cell>follow-up</cell><cell>□ Group dis-</cell><cell>cussion</cell><cell>□ Confidence-</cell><cell>building</cell><cell>training</cell><cell>□ Social</cell><cell>development</cell><cell>and health ser-</cell><cell>vices support</cell><cell>□ Formal</cell><cell>weekly meet-</cell><cell>ings</cell><cell>□ Loan activi-</cell><cell>ties</cell><cell>□ Savings</cell><cell>activities</cell><cell>□ Monthly</cell><cell>group-level</cell><cell>follow-up</cell><cell></cell></row><row><cell>DIG Programme Implementation</cell><cell></cell><cell></cell><cell></cell><cell>(December 2020-June 2022)</cell><cell>1-6 months 6-12 months</cell><cell>BRAC Uganda BRAC Uganda</cell><cell></cell><cell>□ Training □ Training</cell><cell>□ Asset transfer □ Further asset</cell><cell>□ One-to-one transfer</cell><cell>follow-up □ One-to-one</cell><cell>and supervision follow-up and</cell><cell>□ Social supervision</cell><cell>development □ Group forma-</cell><cell>and health ser-tion</cell><cell>vices support □ Village sav-</cell><cell>□ Expenditure ings and loans</cell><cell>support: a regu-groups</cell><cell>lar transfer □ Informal</cell><cell>of cash group discus-</cell><cell>sions</cell><cell>□ Social</cell><cell>development</cell><cell>and health ser-</cell><cell>vices support</cell><cell>□ Compli-</cell><cell>ance survey</cell><cell>via phone</cell><cell>with female</cell><cell>head of house-</cell><cell>hold in inter-</cell><cell>vention arm</cell><cell>(with informed</cell><cell>consent)</cell></row><row><cell>(3) Baseline</cell><cell></cell><cell></cell><cell></cell><cell>November</cell><cell>2020</cell><cell>BIGD</cell><cell></cell><cell>□ Informed</cell><cell>consent</cell><cell>of respondents</cell><cell>□ House-</cell><cell>hold survey</cell><cell>with female</cell><cell>head of house-</cell><cell>hold and person</cell><cell>with disabilities</cell><cell>(if not female</cell><cell>head of house-</cell><cell>hold)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Visit (1) Screening (2) Verification RANDOMISATION</cell><cell></cell><cell></cell><cell></cell><cell>Timepoint July 2020 August 2020</cell><cell></cell><cell>Conducted by BRAC Uganda BRAC Uganda</cell><cell></cell><cell>Activities □ Household □ Verification</cell><cell>survey to screen of ultra-poor</cell><cell>for eligibility households</cell><cell>□ Identifica-</cell><cell>tion of project</cell><cell>participants</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc xml:id="_REHcqAr">Distribution of households in control and intervention arms by district and BRAC branch</figDesc><table><row><cell>District</cell><cell cols="3">BRAC Branch Number of Households</cell><cell></cell></row><row><cell></cell><cell></cell><cell cols="2">Control Arm Intervention</cell><cell>Total</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Arm</cell><cell></cell></row><row><cell>Gulu</cell><cell>Gulu</cell><cell>367</cell><cell>355</cell><cell>722</cell></row><row><cell></cell><cell>Lacor</cell><cell>288</cell><cell>340</cell><cell>628</cell></row><row><cell></cell><cell>Goma</cell><cell>280</cell><cell>406</cell><cell>686</cell></row><row><cell>Nwoya</cell><cell>Anaka</cell><cell>366</cell><cell>370</cell><cell>736</cell></row><row><cell>Oyam</cell><cell>Minakulu</cell><cell>324</cell><cell>402</cell><cell>726</cell></row><row><cell></cell><cell>Kamdini</cell><cell>285</cell><cell>357</cell><cell>642</cell></row><row><cell></cell><cell>Loro</cell><cell>263</cell><cell>311</cell><cell>574</cell></row><row><cell cols="2">Kiryandongo Kigumba</cell><cell>229</cell><cell>357</cell><cell>586</cell></row><row><cell>Total</cell><cell></cell><cell>2402</cell><cell>2898</cell><cell>5300</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc xml:id="_fYVKBQZ">Questionnaire domains</figDesc><table><row><cell>Female head of household</cell><cell>Person with disability</cell></row><row><cell>□ Identification and household characteristics</cell><cell>□ Self-rated health / perceived well-being; self-stigma/negative attitudes</cell></row><row><cell>□ Household welfare and assets</cell><cell>□ Quality of life</cell></row><row><cell>□ Household expenditure</cell><cell>□ Household decision making</cell></row><row><cell>□ Household agriculture, livelihoods, and other income-generating activi-</cell><cell>□ Participation</cell></row><row><cell>ties</cell><cell>□ Attitudes &amp; behaviour of others</cell></row><row><cell>□ Household loans and savings</cell><cell>□ Environmental factors</cell></row><row><cell>□ Household use of assistance</cell><cell>□ Personal assistance and assistive devices</cell></row><row><cell>□ Food security</cell><cell></cell></row><row><cell>□ Vulnerability to shocks</cell><cell></cell></row><row><cell>□ Health of household members</cell><cell></cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_0"><p xml:id="_3u2vFn3">Loro (320), Lacor (350), Kigumba (360), Gulu (370), Kamdini (380), Anaka (380), Goma (420) and Minakulu (420).</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head xml:id="_Zyr3M4q">Acknowledgements</head><p xml:id="_u9ZpEgw"><rs type="person">Eliud Marangu</rs>, <rs type="institution">BRAC Uganda</rs>, reviewed intervention descriptions and implementation in an earlier draft of this manuscript.</p></div>
+			</div>
+			<div type="funding">
+<div xml:id="_4NbZrvs"><p xml:id="_sJxMwFZ">Ethical approval for the research has been received from <rs type="funder">Mildmay Uganda Research Ethics Committee and London , BRAC Uganda</rs>, is involved in the study design; collection, management, analysis, and interpretation of data; and writing of the report. Ultimate authority regarding study design and decision to submit the report for publication lies with LSHTM.</p></div>
+			</div>
+			<div type="funding">
+<div xml:id="_uGkAwT5"><p xml:id="_fDmnkDf">Funding {4} The trial is funded through the <rs type="funder">United Kingdom Foreign, Commonwealth and Development Office (FCDO)</rs> under the <rs type="programName">LSHTM led Programme for Evidence to Inform Disability Action (PENDA)</rs>. Implementation of the interventions is through a separate project delivered by <rs type="funder">BRAC Uganda</rs> in partnership with <rs type="funder">Humanity and Inclusion (HI)</rs> and the <rs type="funder">National Union of Women with Disabilities of Uganda (NUWODU)</rs>, with funding from <rs type="funder">FCDO under Inclusive Futures, Comic Relief and National Lottery</rs>. <rs type="person">Hannah Kuper</rs> is funded by a <rs type="funder">National Institute for Health and Care Research (NIHR) Global Research Professorship</rs>. Part of <rs type="person">Lena Morgon Banks</rs>' time and the Open Access fee is covered by the <rs type="funder">Arts &amp; Humanities Research Council</rs> (grant: <rs type="grantNumber">AH/X009580/1</rs>).</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_zakzYVx">
+					<orgName type="program" subtype="full">LSHTM led Programme for Evidence to Inform Disability Action (PENDA)</orgName>
+				</org>
+				<org type="funding" xml:id="_FRnVCNm">
+					<idno type="grant-number">AH/X009580/1</idno>
+				</org>
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_TjkKvrn"><p xml:id="_wfqWSPv">item numbers. The order of the items has been modified to group similar items (see <ref type="url" target="http://www.equator-network.org/reporting-guidelines/spirit-2013-statement-defining-standard-protocol-items-for-clinical-trials/">http://  www. equat or-netwo rk. org/ repor</ref> </p></div>
+			</div>
+
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_yTMMfZS">Data collection and management</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_Szg4c4P">Availability of data and materials {29}</head><p xml:id="_HEdtPFC">Twelve months after the completion of the endline data collection, the data will be made available on LSHTM's Data Compass, along with project documentation and a data user guide. The data will be made available open access, ensuring that no identifiers are included in the data. Explicit consent has been included for making data open access.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_FNXkUma">Assignment of interventions: masking</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_6BqAcN7">Who will be masked {17a}</head><p xml:id="_geAkEne">Post-intervention allocation, there is no masking as households and project participants in clusters assigned to intervention or control will be aware of their allocation given the nature of the intervention.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_tvgS3NU">Procedure for unmasking if needed {17b}</head><p xml:id="_w7P822b">Not applicable.</p><p xml:id="_RMChyMK">Abbreviations BIGD BRAC Institute of Governance and Development CI Confidence interval COVID-19 Corona virus disease 2019 DIG Disability-inclusive graduation programme FAS Full Analysis Set FCDO Foreign, Commonwealth and Development Office GPS Global Positioning System HI Humanity and Inclusion ICC Intraclass correlation coefficient IERC Independent Evaluation and Research Cell ITT Intention-to-treat LSHTM London School of Hygiene and Tropical Medicine MRC Medical Research Council NGO Non-governmental organisation NUWODU National Union of Women with Disabilities of Uganda OPD Organization of persons with disabilities PENDA Programme for Evidence to Inform Disability Action POInt Process-outcome integration with theory RCT Randomised controlled trial SDG Sustainable development goals ToC Theory of change UK United Kingdom US United States UPG Ultra-poor graduation programme VPRC Village Poverty Reduction Committees VSLA Village Savings and Loans Associations</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_f3GsZqH">Supplementary Information</head><p xml:id="_P7WJd7w">The online version contains supplementary material available at <ref type="url" target="https://doi.org/10.1186/s13063-024-08040-w">https:// doi.  org/ 10. 1186/ s13063-024-08040-w</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_535MUcB">Supplementary Material 1.</head><p xml:id="_kqqqzXh">Supplementary Material 2.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_84BEMHg">Supplementary Material 3.</head><p xml:id="_ZvFpT8x">Authors' contributions {31b} HK is the principle investigator; she conceived the study and led the proposal in conjunction with MS. EK, CD, LMB and KFEI contributed to the study design and protocol development for the impact evaluation. CD, TS and AM led development of the process evaluation design and protocol development. SC contributed to the planning of the statistical analysis. EK and CD drafted the initial manuscript. SM substantially revised the manuscript for publication. All authors read and approved the final manuscript.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_zWgS6rH">Declarations</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_9cVwa95">Ethics approval and consent to participate {24}</head><p xml:id="_dT64Fak">The protocol received ethical approval from the Mildmay Uganda Research Ethics Committee (Reference: 0604-2020, Approved: 06/07/2020, Amended: 16/06/2022), London School of Hygiene and Tropical Medicine Research Ethics Committee (Reference: 22619/RR/21198, Approved: 21/09/2020, Amended: 10/05/2023; and for process evaluation under the POInT project, Reference: 28134; Approved: 03/01/2023) and a research permit from the Uganda National Council for Science and Technology (UNCST) (Reference: SS529ES, Received: 22/10/2020). All participants will be required to provide written, informed consent to participate in the study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_7H6nAZQ">Consent for publication {32}</head><p xml:id="_ZdhTPNJ">Model consent forms are provided in Supplemental file 1.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_6HDbMNu">Competing interests {28}</head><p xml:id="_u2aWsSD">The authors declare that they have no competing interests.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_9G3ydHP">Publisher's Note</head><p xml:id="_rcXp65x">Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="consolidated"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main" xml:id="_7KvqAgC">A multifaceted program causes lasting progress for the very poor: Evidence from six countries</title>
+		<author>
+			<persName><forename type="first">Abhijit</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Esther</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nathanael</forename><surname>Goldberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dean</forename><surname>Karlan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Osei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">William</forename><surname>Parienté</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeremy</forename><surname>Shapiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bram</forename><surname>Thuysbaert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Udry</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.1260799</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_ZTB8KZN">Science</title>
+		<title level="j" type="abbrev">Science</title>
+		<idno type="ISSN">0036-8075</idno>
+		<idno type="ISSNe">1095-9203</idno>
+		<imprint>
+			<biblScope unit="volume">348</biblScope>
+			<biblScope unit="issue">6236</biblScope>
+			<biblScope unit="page">1260799</biblScope>
+			<date type="published" when="2015-05-15">2015</date>
+			<publisher>American Association for the Advancement of Science (AAAS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main" xml:id="_CEX2wHA">Reaching the poorest: lessons from the graduation model</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Hashemi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">De</forename><surname>Montesquiou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename></persName>
+		</author>
+		<ptr target="https://www.cgap.org/sites/default/files/CGAP-Focus-Note-Reaching-the-Poorest-Lessons-from-the-Graduation-Model-Mar-2011.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_HuGw9a3">Focus Note</title>
+		<imprint>
+			<biblScope unit="issue">69</biblScope>
+			<date type="published" when="2011">2011</date>
+			<publisher>CGAP</publisher>
+			<pubPlace>Washington DC</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main" xml:id="_zGQdTc8">Crafting a graduation pathway for the ultra poor: lessons and evidence from a BRAC Programme in Bangladesh</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Matin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sulaiman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rabbani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_fyHVqJ6">Social protection as development policy</title>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Cook</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">N</forename><surname>Kabeer</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge India</publisher>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main" xml:id="_eQRrN2G">Disability-inclusive responses to COVID-19: Lessons learnt from research on social protection in low- and middle-income countries</title>
+		<author>
+			<persName><forename type="first">Lena</forename><forename type="middle">Morgon</forename><surname>Banks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Calum</forename><surname>Davey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tom</forename><surname>Shakespeare</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hannah</forename><surname>Kuper</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.worlddev.2020.105178</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_ZCbUB4T">World Development</title>
+		<title level="j" type="abbrev">World Development</title>
+		<idno type="ISSN">0305-750X</idno>
+		<imprint>
+			<biblScope unit="volume">137</biblScope>
+			<biblScope unit="page">105178</biblScope>
+			<date type="published" when="2021-01">2021</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main" xml:id="_q4RGRgZ">WHO Expert Committee on Drug Dependence: Twenty-eighth report.</title>
+		<idno type="DOI">10.1037/e412352004-001</idno>
+		<ptr target="https://www.who.int/teams/noncommunicable-diseases/sensory-functions-disability-and-rehabilitation/world-report-on-disability" />
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_jwr3tvu">World report on disability 2011</title>
+		<meeting><address><addrLine>Geneva</addrLine></address></meeting>
+		<imprint>
+			<publisher>American Psychological Association (APA)</publisher>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main" xml:id="_yfeUrhM">Poverty and disability in low- and middle-income countries: A systematic review</title>
+		<author>
+			<persName><forename type="first">Lena</forename><forename type="middle">Morgon</forename><surname>Banks</surname></persName>
+			<idno type="ORCID">0000-0002-4585-1103</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Hannah</forename><surname>Kuper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sarah</forename><surname>Polack</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0189996</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_nafbwb5">PLOS ONE</title>
+		<title level="j" type="abbrev">PLoS ONE</title>
+		<idno type="ISSNe">1932-6203</idno>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page">e0189996</biblScope>
+			<date type="published" when="2017-12-21">2017</date>
+			<publisher>Public Library of Science (PLoS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main" xml:id="_pbU3S4y">Disability and social protection programmes in low- and middle-income countries: a systematic review</title>
+		<author>
+			<persName><forename type="first">Lena</forename><forename type="middle">Morgon</forename><surname>Banks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rachel</forename><surname>Mearkle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Islay</forename><surname>Mactaggart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Matthew</forename><surname>Walsham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hannah</forename><surname>Kuper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Karl</forename><surname>Blanchet</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/13600818.2016.1142960</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_QHdnsZW">Oxford Development Studies</title>
+		<title level="j" type="abbrev">Oxford Development Studies</title>
+		<idno type="ISSN">1360-0818</idno>
+		<idno type="ISSNe">1469-9966</idno>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="223" to="239" />
+			<date type="published" when="2017">2017</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main" xml:id="_EH3ZzWq">Measuring mental health status for international comparisons: Washington Group on Disability Statistics</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Pratt</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.comppsych.2013.07.056</idno>
+		<ptr target="https://www.washingtongroup-disability.com/question-sets/" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_BQzEyJs">Comprehensive Psychiatry</title>
+		<title level="j" type="abbrev">Comprehensive Psychiatry</title>
+		<idno type="ISSN">0010-440X</idno>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="e33" to="e34" />
+			<date type="published" when="2013-11" />
+			<publisher>Elsevier BV</publisher>
+			<pubPlace>Washington, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main" xml:id="_2hMk4dj">Population and Housing Census, Main Findings for Jerusalem, 2017</title>
+		<author>
+			<persName><forename type="first">Palestinian</forename><surname>Central Bureau Of Statistics</surname></persName>
+		</author>
+		<idno type="DOI">10.70190/jq.i80.p108</idno>
+		<ptr target="https://www.ubos.org/wp-content/uploads/publications/03_20182014_National_Census_Main_Report.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_YYPb2Hb">Jerusalem Quarterly</title>
+		<title level="j" type="abbrev">JQ</title>
+		<idno type="ISSN">2521-9731</idno>
+		<idno type="ISSNe">2521-974X</idno>
+		<imprint>
+			<biblScope unit="issue">80</biblScope>
+			<biblScope unit="page">108</biblScope>
+			<date type="published" when="2016">2016</date>
+			<publisher>Institute for Palestine Studies</publisher>
+			<pubPlace>UBOS; Kampala</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b9">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Karlan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Osei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Thuysbaert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Udry</surname></persName>
+		</author>
+		<ptr target="https://www.3ieimpact.org/sites/default/files/2018-08/3ie%20Grantee%20Final%20Report%20OW2.206.pdf" />
+		<title level="m" xml:id="_jR9B2Gn">Graduation from ultra poverty in Ghana, 3ie grantee final report</title>
+		<meeting><address><addrLine>New Delhi</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b10">
+	<monogr>
+		<title level="m" type="main" xml:id="_txWzQdq">Targeting effectiveness of CFPR/TUP in scale-up environment</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sulaiman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Matin</surname></persName>
+		</author>
+		<idno>BRAC:</idno>
+		<ptr target="https://bigd.bracu.ac.bd/wp-content/uploads/2020/03/Targeting-Effectiveness-of-CFPR-TUP-in-Scale-up-Environment.pdf" />
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<pubPlace>Gazipur</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">CFPR/TUP Working Paper Series</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main" xml:id="_JVFF45f">Candau, Marcolino Gomes, (30 May 1911–25 Jan. 1983), Director-General Emeritus, World Health Organization, Geneva, since 1973</title>
+		<idno type="DOI">10.1093/ww/9780199540884.013.u162662</idno>
+		<ptr target="https://www.who.int/publications/i/item/9789241512862" />
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_MYUq9VX">Model Disability Survey (MDS): Survey manual</title>
+		<meeting><address><addrLine>Geneva</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b12">
+	<monogr>
+		<title level="m" type="main" xml:id="_j7TGzG2">POInT research design paper</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Davey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Juden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Allan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Prost</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Humphreys</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Jacobs</surname></persName>
+		</author>
+		<ptr target="https://cedilprogramme.org/download/8810/" />
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<publisher>CEDIL</publisher>
+			<pubPlace>London and Oxford</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b13">
+	<monogr>
+		<title level="m" type="main" xml:id="_brTkAcj">Rapid Evidence Assessment (REA) of what works to improve educational outcomes for people with disabilities in low-and middle-income countries. Campbell Collaboration and International Centre for Evidence and Disability: New Delhi and London</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kuper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Saran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>White</surname></persName>
+		</author>
+		<ptr target="https://assets.publishing.service.gov.uk/media/5b8ea83040f0b67d9a6fe669/Education_Rapid_Review_full_report.pdf" />
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main" xml:id="_YkSktY6">Understanding controlled trials: What are pragmatic trials?</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Roland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Torgerson</surname></persName>
+		</author>
+		<idno type="DOI">10.1136/bmj.316.7127.285</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_F3gEXrw">BMJ</title>
+		<title level="j" type="abbrev">BMJ</title>
+		<idno type="ISSN">0959-8138</idno>
+		<idno type="ISSNe">1468-5833</idno>
+		<imprint>
+			<biblScope unit="volume">316</biblScope>
+			<biblScope unit="issue">7127</biblScope>
+			<biblScope unit="page" from="285" to="285" />
+			<date type="published" when="1998-01-24">1998</date>
+			<publisher>BMJ</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main" xml:id="_pdwzWjA">The generalizability puzzle</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Bates</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Glennerster</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Rdq6vCe">Stanf Soc Innov Rev</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="50" to="54" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

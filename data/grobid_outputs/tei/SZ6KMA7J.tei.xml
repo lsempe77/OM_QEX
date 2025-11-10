@@ -1,0 +1,1072 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" xml:id="_EUBwU54">The impact of recipient choice on aid effectiveness</title>
+				<funder ref="#_u77eSeR">
+					<orgName type="full">Gates Foundation</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">IRB</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Kenya Medical Research Institute</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2019-04">2019-04</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Jeremy</forename><surname>Shapiro</surname></persName>
+							<email>jeremy.shapiro@busaracenter.org</email>
+							<affiliation key="aff0">
+								<orgName type="department">Busara Center for Behavioral Economics</orgName>
+								<address>
+									<country key="KE">Kenya</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Busara Center for Behavioral Economics</orgName>
+								<address>
+									<addrLine>5th Floor Daykio Plaza Ngong Lane</addrLine>
+									<postBox>P.O. Box 43298</postBox>
+									<postCode>-00100</postCode>
+									<settlement>Nairobi</settlement>
+									<country key="KE">Kenya</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main" xml:id="_bJt99WQ">The impact of recipient choice on aid effectiveness</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main" xml:id="_hnYJ2nQ">World Development</title>
+						<title level="j" type="abbrev">World Development</title>
+						<idno type="ISSN">0305-750X</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">116</biblScope>
+							<biblScope unit="page" from="137" to="149"/>
+							<date type="published" when="2019-04" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">062A317E86AC03C13887C74C4BF9213F</idno>
+					<idno type="DOI">10.1016/j.worlddev.2018.10.010</idno>
+					<note type="submission">Accepted 25 October 2018</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2025-11-05T00:24+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a292bac</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=1, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=true, generateTeiCoordinates=[true], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords xml:id="_njjeWmN">Cash transfers Willingness</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_CnX2PBr"><p xml:id="_D6tsX3f">This study compares the impact of several common development programs (agricultural extension, subsidized agricultural inputs and poultry transfers) to cash transfers equal to the cost of each program. Prior to program delivery, recipients were asked their valuation for each program (i.e., their cash indifference point between cash and the program) as a proxy for their preference between cash and the program. Subsequently, recipients were randomly assigned to receive cash or a program. Six months after delivery of cash and programs, we do not find that individuals who receive the intervention they value most are different from others in terms of consumption, food security, assets, psychological well-being or feelings of autonomy, and can rule out effects of any meaningful size. When comparing cash transfers directly to common development programs, the point estimates indicate no difference in impacts and confidence intervals rule out large differences. We do find that cash transfers increase feelings of autonomy and respect compared to non-cash interventions.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="793.701" lry="595.276"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="10" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="11" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="12" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="13" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1." xml:id="_6AfapZ6">Introduction</head><p xml:id="_Nza2yQk">In the past three decades, cash transfer programs have spread across countries and continents to reach an estimated 700 million people <ref type="bibr" target="#b18">(Evans, 2017)</ref>. These programs serve a variety of goals, including increasing human capital, providing emergency assistance and furnishing a general social safety net. The rise of cash transfer programs has been driven by a combination of philosophical beliefs, political economics and the perception that cash transfers are attractive from a cost-benefit perspective. In recent years multiple countries have turned to cash transfers as a general form of social protection and as a means to provide targeted assistance to vulnerable groups <ref type="bibr" target="#b5">(Bank, 2018)</ref>. Similarly, a variety of international non-governmental organizations have begun to deploy cash transfers in humanitarian aid <ref type="bibr">(Hidrobo, Hoddinott, Peterman, Margolies, &amp; Moreira, 2014a)</ref>. The increasing deployment of cash transfers, as well as the research that has accompanied that trend, has led some prominent individuals and institutions in international development to suggest substituting cash transfers for other forms of aid. For example, India shifted its large cooking fuel subsidy program to a direct cash benefit transfer <ref type="bibr" target="#b6">(Barnwal, 2014;</ref><ref type="bibr" target="#b30">Mittal, Mukherjee, &amp; Gelb, 2017)</ref>. Some have also suggested a cash transfer would be a more efficient program than India's massive food transfer program (Times of India, 2013 1 ). The Center for Global Development and The Gates Foundation have suggested the potential for cash transfers to replace fuel subsidies, and perhaps other commodity subsidies as well. 2  The deployment of cash transfers at all represents a monumental change in the philosophy of aid. Whereas aid has historically focused on meeting needs of the poor as perceived by the aid community, cash transfers enable aid recipients to meet needs as perceived by themselves. This change belatedly mirrors a shift in the theoretical and philosophical underpinnings of international aid: from paternalistic colonial origins to a focus on the poor as agents in bringing about economic development. Extending cash transfers as substitutes for traditional forms of aid, such as commodity grants and subsidies, would be an act of faith in the ''poor but efficient" hypothesis, pioneered by <ref type="bibr" target="#b33">Schultz et al. (1964)</ref>. Schultz posited that traditional agricultural households, a category describing a large portion of the world's poor, make efficient allocation decisions about the resources available to them, assuming that the factors of production and technology are relatively constant. According to that hypothesis a cash transfer in lieu of commodity subsidies and various traditional forms of aid would enable recipients to efficiently allocate the cash to procure what is needed, whether that be food to enable their own labor, fertilizer, or hired skilled and unskilled labor.</p><p xml:id="_F73tfts">The poor but efficient hypothesis, however, is not broadly accepted. Some opponents of cash transfers retain the view that the poor will misuse or squander cash, although the literature has generally allayed that concern. In particular, the literature shows that transfers do not result in unwanted impacts such as increased spending on alcohol or tobacco <ref type="bibr" target="#b19">(Evans &amp; Popova, 2017)</ref> and reduced labor supply <ref type="bibr" target="#b24">(Izmalkov, 2004)</ref>, and that cash transfers have positive impacts on a wide variety of welfare indicators, such as consumption, assets and educational status. The literature has firmly established that cash transfers have significant benefits and limited costs <ref type="bibr" target="#b7">(Bastagli et al., 2016)</ref>, partially legitimizing the poor but efficient hypothesis. In addition, though Schultz's hypothesis was highly influential <ref type="bibr" target="#b31">(Nerlove, 1999</ref><ref type="bibr" target="#b0">, Abler &amp; Sukhatme, 2006)</ref>, some researchers contend that empirical data is inconsistent with efficient allocation of resources by agricultural households, or holds only for specific forms of efficiency <ref type="bibr" target="#b3">(Ball &amp; Pounder, 1996;</ref><ref type="bibr" target="#b34">Shapiro, 1983;</ref><ref type="bibr" target="#b32">Nyariki, 2011;</ref><ref type="bibr" target="#b37">Umar, 2014)</ref>.</p><p xml:id="_62e9Ub3">Finally, the application of behavioral economics to development has suggested that behavioral biases may lead to irrational decision making, and perhaps an inefficient allocation of resources. The view put forth is not that the poor are intrinsically less rational than the rich, but that they are equally irrational, and that the condition of poverty may augment the negative effects of irrational decisions <ref type="bibr" target="#b10">(Bertrand, Mullainathan, &amp; Shafir, 2004;</ref><ref type="bibr" target="#b8">Bernheim, Ray, &amp; Yeltekin, 2015;</ref><ref type="bibr" target="#b29">Mani, Mullainathan, Shafir, &amp; Zhao, 2013)</ref>. The behavioral economics view has spawned a new class of behaviorally informed development interventions (e.g., <ref type="bibr" target="#b2">Ashraf, Karlan, &amp; Yin, 2006;</ref><ref type="bibr" target="#b17">Duflo, Kremer, &amp; Robinson, 2011;</ref><ref type="bibr" target="#b16">Duflo &amp; Hanna, 2005)</ref>. In light of this research, the behavioralist view of aid suggests that interventions should be designed to shape the decisions of aid recipients to generate optimal long-term outcomes, and cash transfers fully at the disposal of recipients may not generate these optimal outcomes.</p><p xml:id="_5hnrJMB">While behavioral interventions in development have become more common, and though traditional commodity based assistance continues, the enthusiasm of the aid industry for cash transfers appears to have grown in recent years. The mutual existence of these approaches to aid creates a tension between the behavioralist and Schultzian view: are development outcomes best achieved by enabling aid recipients to optimize according to their unique information and constraints? Or is it better for the aid industry to implicitly or explicitly influence the decisions of recipients and the use of aid resources?</p><p xml:id="_jkxNcC2">This study addresses this question empirically by assessing whether individuals who express a high valuation for a particular assistance program benefit more from that program than similar individuals who receive an equally valuable resource. Through a randomized controlled trial, low-income Kenyans were selected to receive either a particular non-cash development program (agricultural extension, agricultural inputs, poultry transfers) or an amount of cash equal to the cost of the program. Prior to receiving any intervention, we elicited respondents' indifference point between cash and the program in question. Subsequently, we randomly assigned individuals to receive a program or a cash transfer equal to its cost. This design allows us to assess whether individuals who receive the intervention (cash or program) they value more, which is a proxy for their preferences, benefit differentially from the intervention, as would be expected according to the poor but efficient hypothesis. Further, by comparing cash transfers directly to various alternative interventions, we can assess whether constraining the choices of aid recipients to ''spend" resources on common development interventions outperforms simple transfers, as might be expected according to the behavioral view.</p><p xml:id="_e5nkUAh">Utilizing a variety of proxies for recipient preference, there is no discernible relationship between whether a recipient receives their preferred intervention (a program or cash) and components of well-being including consumption, food security, assets, psychological well-being and feelings of autonomy. When comparing cash transfers equal to the cost of common poverty reduction programs to the programs themselves, on average and irrespective of the recipient's preference (inferred by valuation) for cash or the program, we can rule out large differences in impacts on economic outcomes. Based on 95% confidence intervals, cash transfer recipients consume no more than $4.25 USD more per person per month ($10% of mean consumption) than program recipients and score no higher than 0.07 standard deviations on an index of food security than program recipients. Program recipients have no more than $$25 USD (8% of mean assets) than cash transfer recipients. Regardless of recipients' valuation for specific interventions, we do find that cash transfers increase feelings of autonomy and produce more favorable views of the implementing organization than non-cash interventions. Cash transfer recipients score 0.13 standard deviations (CI = 0.05 to 0.20 standard deviations) on an index of autonomy related questions. They are more likely to believe they are trusted by the implementing NGO, that the aid they received was tailored to their needs and that they were treated as an individual.</p><p xml:id="_sDs65aF">In sum it does not appear that utilizing recipients' stated valuation for programs, as a proxy for preferences, to allocate aid dollars between cash and programs improves the impact of aid resources. Nor do the findings imply that constraining the choices of aid recipients by delivering goods and services directly results in dramatically improved returns on aid dollars. Simply providing cash, however, does appear to improve recipients' subjective experience of aid, without reducing the poverty reducing impact of such aid.</p><p xml:id="_mKhvhEB">In addition to exploring the empirical implications of a rational/efficient view of poverty and a behavioral one, this study contributes to two additional branches of the literature: one contrasting cash transfers with other programs and the other exploring the relationship between preferences and outcomes. While, to our knowledge, there are no studies that evaluate whether incorporating recipient preferences in the allocation of resources alters the welfare impacts of aid spending, there is an emerging literature comparing cash transfers to alternative uses of aid dollars. <ref type="bibr">Hidrobo, Hoddinott, Peterman, Margolies, and Moreira (2014b)</ref> compare cash transfers, food vouchers and in-kind food transfers in Ecuador, Uganda and Yemen, finding little impact of different modalities on food consumption overall but some impact on the composition of the basket consumed. <ref type="bibr" target="#b15">Cunha (2014)</ref> finds similar results comparing cash to food transfers in Mexico. Other research contrasts studies evaluating the impacts of specific interventions with separate studies assessing the impact of cash transfers. <ref type="bibr" target="#b13">Buera, Kaboski, and Shin (2016)</ref>, for example, summarize the impacts of studies pertaining to cash transfers to microentrepreneurs, the impact of ''graduation programs" targeting the very poor and micro-finance programs. Similarly a CGAP study compares studies evaluating the impacts of livelihood development programs, graduation programs and cash transfer programs <ref type="bibr" target="#b36">(Sulaiman, Goldberg, Karlan, &amp; de Montesquiou, 2016)</ref>. <ref type="bibr" target="#b12">Blattman, Jamison, and Sheridan (2017)</ref> compare cash transfers and cognitive behavioral therapy in terms of ability to reduce future crime and violence. Though illuminating, these studies are hindered by limited comparability across individual studies -each is conducted at separate times, in separate geographies using distinct measurement techniques and evaluating delivery by different implementing organizations. Thus it is difficult to make precise comparisons of the impact of cash transfers vs. alternative poverty reduction programs. This study provides a controlled comparison of cash transfers vs. several common aid programs.</p><p xml:id="_6nfG2h4">Another strand of literature assesses how individual preferences, expressed by valuations, affects outcomes. This is relevant in that cash may be a more effective mode of resource delivery than alternative interventions because aid recipients have private information about what is most likely to reduce poverty. A farmer, for instance, may know her skill and whether subsidized inputs will be of any use. Jack (2013), for example, shows that landholders induced to reveal their private valuation for a tree-growing contract are more likely to produce surviving trees than randomly selected landholders. Similarly, <ref type="bibr" target="#b9">Berry, Fischer, and Guiteras (2015)</ref> show that individuals with high willingness to pay for water filters experience greater benefits from acquisition of the filter. Additionally, a variety of studies have explored the ability to use elicited demand or subsidies as a mechanism for targeting <ref type="bibr" target="#b14">(Cohen, Dupas, &amp; Schaner, 2015;</ref><ref type="bibr" target="#b27">Johnson &amp; Lipscomb, 2017;</ref><ref type="bibr" target="#b28">Lybbert, Magnan, Spielman, Bhargava, &amp; Gulati, 2018)</ref>. This study builds on related literature by precisely holding constant the value of the transfer to the recipient, while exploring the relationship between recipient valuation and outcomes. Studies concerned with targeting focus on the efficiency loss of improper targeting, for example providing subsidies to individuals who are likely to purchase a good regardless of the subsidy. By holding constant the value of resources transferred, this study allows us to answer the question of whether valuation-based targeting will lead to improved outcomes. While <ref type="bibr" target="#b9">Berry et al. (2015)</ref> can compare the outcomes for individuals with similar valuations for a water filter who either did or did not purchase the filter, this does not hold all else constant in that individuals had to pay for the filter. Thus an individual who values the filter highly and can purchase it for a (randomly) low price receives an implicit transfer which a similar individual not given the chance to purchase the filter does not receive. Jack (2013) finds that individuals who self-select into a contract to grow trees based on a lower willingness-to-accept for the contract perform better than randomly selected individuals, but this design does not enable direct comparison between individuals with the same willingness-to-accept who either do or do not receive the contract. It is possible that willingness-to-accept correlates with another variable determining response to any economic opportunity. In contrast, this study considers individuals with the same value for different interventions, who receive a transfer of precisely the same value. The studies mentioned above address the question of which households should be allocated a scarce resource (subsidized water filters or other goods, contracts to grow trees, etc.), whereas this study addresses the question of which form of aid, holding cost constant, will maximally benefit a recipient.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2." xml:id="_ZGNe83t">Study design</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1." xml:id="_bzPRzpN">Location selection</head><p xml:id="_KyzD4TV">Our goal in location selection was to identify a low-income Kenyan population, who either receive or are similar to recipients of aid. Beginning with a list of Kenyan counties, we filtered all counties with less than a 40% poverty rate, or just below the national rate of 46% <ref type="bibr">(World Bank, 2015)</ref>. Due to logistical considerations, we then filtered out counties with household density below the 33rd percentile. Remaining counties were then prioritized based on further proxies for poverty (fertilizer use, HIV, diarrhea and malaria prevalence, bed net use and secondary school enrollment rates). All data used comes from Kenya Open Data. <ref type="foot" target="#foot_1">3</ref> Ultimately, we chose to work in Makueni county, specifically in the regions of Mbooni and Kilungu.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2." xml:id="_Tyn7jtX">Program selection</head><p xml:id="_NbQtTVK">Our aim in program selection was not to identify the ''most important" aid program, but to assess whether recipient preferences are associated with outcomes across a variety of common large-scale aid programs. Detailed aid spending by specific program (e.g., agricultural extension, vaccinations) is rare, disbursed and incomplete. Thus we took a multi-step process to select programs for this study. First, we identified entities primarily responsible for funding and/or delivery of development programs in Kenya, specifically the Government of Kenya, official development assistance by multilateral and bilateral donors, philanthropic foundations and international non-governmental organization. For each of these entities we collected data on development program spending in Kenya and identified priority sectors based on the share of budget allocated to each sector. Based on this analysis, important sectors include: education, health, agriculture, water and sanitation, and humanitarian, emergency and disaster assistance (see <ref type="bibr">Shapiro, 2017 for details)</ref>.</p><p xml:id="_9zmn46H">From these sectors, we chose to focus on agriculture for three reasons. First, a majority of the world's poor live in rural areas where agriculture represents a significant part of the local economy. Second, because agricultural development spending is significant in Kenya (e.g., GoK budgets $$700 million for agriculture programs annually). Third, in contrast to important sectors such as health and education, we expect to observe impacts of agricultural interventions within the time frame of this study.</p><p xml:id="_83hUDMd">Even within sector, it remains difficult to identify line-item expenditures or operational details for specific aid interventions. Aside from high level expenditure aggregates, detailed information on development activities is usually spelled out in project plans and reports (e.g., pertaining to the use of large scale ODA). We reviewed 8 such documents pertaining to large-scale agricultural programs (budget &gt;$5 million) in Kenya. Of these programs, the most commonly mentioned specific intervention was agricultural extension (in 6 of 8 programs). Several programs mentioned the provision of inputs to farmers, including water, soil inputs and capital. One prominent program (the Kenya Cereal Enhancement Programme) provides a package of inputs (seeds, fertilizer, pesticides, etc.) directly to farmers. Other specific programs mentioned are livelihood development and diversification, and market linkages. We thus chose to include extension, inputs and livelihood development (poultry) in the study. These programs are suitable for the study in that they can be replicated by an NGO, are likely to have short run impacts, and are relevant in the Kenyan context as well as globally as agricultural extension and fertilizer subsides are common across the developing world.</p><p xml:id="_n96BUPS">Program details include:</p><p xml:id="_vUPAvzS">1. Agricultural extension: we hired a team of 11 agriculture experts, with a combined experience of 66 years in the agricultural sector, to deliver in-person group training to randomly selected farming households. The training sessions ran from September to October 2016 -leading up to the ''short rains" agricultural season in Kenya. The training included education on: land preparation, planting, soil fertility, crop selection, soil and water management, field management (fertilization, pest and disease management, weeding), record keeping and financial management, farmer group dynamics and conflict resolution, harvesting, post-harvest management, value addition and marketing. 2. Agricultural inputs: based on the advice of agricultural experts, we provided recipients with enough inputs to plant approximately 0.5 acres of cabbages or maize. The type of inputs to be provided were recommended by our agricultural consultants who determined the requirements based on terrain and crops grown in the study areas. Specifically, for the cabbage-growing region of Mbooni, we provided 50 grams of Baraka F1 seeds and 75 kg of planting fertilizer. For the maize-growing region of Kilungu, we provided 4 kg of Duma 43 seeds, 25 kg of planting fertilizer and 25 kg of top-dressing fertilizer. These inputs are roughly modeled after the Government of Kenya's National Accelerated Agriculture Inputs Access Program. The program includes a voucher, valued at USD 60-80, to cover the cost of 10 kg of hybrid maize seed, 50 kg of basal fertilizer, and 50 kg of top-dressing fertilizer, inputs sufficient for approximately 1 acre (0.4 ha) of maize. Our agricultural inputs package also included a one-time information session on proper input usage provided by our extension agents. 3. Poultry transfers: recipients received 25 one-month old chicks vaccinated for common diseases as well as a starter pack of feed ($10 kg). Recipients were also provided with basic information about taking care of their chicks by our team of agricultural experts and were visited occasionally by the agriculture team over the following 4 months. 4. Cash transfers: some households were randomly selected to receive direct cash transfers. The size of these transfers match the per-recipient cost of one of the above programs -$15 for agricultural extension, $75 for agricultural inputs in Mbooni and $35 for agricultural inputs in Kilungu, and $120 for poultry transfers. These transfers account for the direct value of items transferred as well overhead costs, however we ignore any implicit labor costs (e.g., labor that is complimentary to the program delivered or the use of the cash). Cash transfers were delivered using the M-Pesa mobile money platform.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3." xml:id="_BZxrqXu">Baseline survey</head><p xml:id="_UWeF4jV">Eligible individuals comprised those over 18 years of age residing in a home made of all or partially natural materials (e.g., wood, local stone or mud, excluding homes which include cement or cinder blocks) and with relatively small land holdings (less than 6 hectares). We surveyed 3008 individuals meeting these criteria. Each respondent was administered a baseline survey that elicited their indifference point between cash and the relevant programs (agricultural extension, agricultural inputs or poultry transfer). We chose a valuation based approach to estimate whether a respondent prefers cash or the program, as opposed to a direct choice between the two. This choice was made as a valuation approach could potentially be extended to multiple interventions of various costs (if preferences matter, it may be wise to provide the program with the highest ratio of valuation to cost). To obtain a valuation, we simply asked what amount of cash, if given directly to the respondent, would make them as well off as receiving the intervention. A prior exercise investigating various methods to obtain valuations suggested this method was as reliable as various other common valuation techniques, such at the Becker-DeGroot-Marschakh method and multiple price lists <ref type="bibr" target="#b26">(Jang &amp; Shapiro, 2018)</ref>. The survey also measured a variety of baseline characteristics. The survey was administered on tablet computers using Sur-veyCTO software. The baseline survey was conducted from August 10th, 2016 to September 24th, 2016.</p><p xml:id="_vuG3HZB">Data integrity was maintained through continuous monitoring of data coming into the server to check for missing observations and inconsistencies in responses, back check surveys to establish the reliability of data, GPS checks to establish the presence of a structure at the recorded interview site and random spot checks of interviews.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4." xml:id="_98G24nU">Randomization</head><p xml:id="_dyHQZuf">Study participants were randomly assigned to receive a particular non-cash program or a cash transfer equal to the cost of the program. As described above, the interventions differed by study location on account of agricultural characteristics. Study participants in Kilungu were randomly assigned to receive agricultural extension, a transfer of $14, inputs for maize or a transfer of $35. Study participants in Mbooni were randomly assigned to receive agricultural inputs for cabbage, a transfer of $75, 25 month-old chicks or a transfer of $120. Randomization was conducted at the individual level. Though the informational components of extension may have spillover effects, individual randomization is a deliberate choice: the primary goal of this study is to compare across cash or program arms in order to isolate the effect of the choice mechanism. In equilibrium, were recipients to be given a choice between programs and cash transfers, we expect some would choose the program, thus having a mix of those receiving cash and the program in the same village provides the most relevant comparison.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.5." xml:id="_RCr6D7F">Intervention implementation</head><p xml:id="_SWkDHF6">For respondents receiving a non-cash intervention, the goods or services were delivered in person by an individual not involved in the initial data collection. At that visit, the respondent's name, ID number and location were verified. In the event of discrepancies, the program delivery was delayed until further investigation. For respondents receiving cash, a transfer was sent through the M-Pesa digital payment platform. This platform allowed the researchers to confirm the name from the survey matches the name associated with the mobile money account. Finally, we followed up with a sample of recipients (by phone or in person) to confirm receipt of goods, services or cash. 1. Agricultural extension: An agricultural training curriculum consisting of 6 sessions was developed by contracted agricultural consultants. These sessions were administered by our team of agriculture experts at a location convenient for the respondents to attend. Respondents randomly selected to receive this intervention were contacted via phone for identity verification and invited to attend training sessions at a nearby venue on specific dates. A few farmers who could not come to the training venue received training on their farms instead. Out of 500 respondents, 431 attended these training sessions. 2. Agricultural inputs: Inputs were procured from a well-known seed distributor in Nairobi and transported to the target areas by the supplier. Before the goods were disbursed, participants were contacted via phone and all identity and contact information provided at baseline was verified. After verification, respondents were contacted via phone and informed of the inputs collection point and were advised and encouraged to collect their inputs. 280 respondents in Mbooni and 179 in Kilungu collected their inputs, meaning 459 of 500 recipients collected the inputs. 3. Poultry transfers: The chicks were procured from a well-known seed and livestock distributor in Nairobi and transported to the target areas by the supplier. Before the goods were disbursed, respondents were contacted via phone and advised to construct suitable chicken coops in preparation for the storage of the birds. This call was made two weeks before the chicks were scheduled to be collected by the respondents. A week after the first preparation call, respondents were again contacted via phone and reminded to construct suitable chicken coops if they had not yet done so. They were also advised on suitable storage conditions for the chicks. After the preparation reminder calls, respondents were contacted via phone and informed of a date and venue to collect the chicks. At collections, respondents were advised on basic upkeep and care. 489 out of 505 respondents showed up to collect their chicks. Agricultural trainers visited the chick recipients on a rotating basis to answer any queries and assist with care for the chicks. 4. Cash transfers: As cash transfers were to be implemented through M-Pesa, respondents' M-Pesa numbers were verified before the transfer was initiated. Additionally, the name of the respondent was matched with the name under which the M-Pesa account was registered before the transfer was initiated. All respondents scheduled to receive cash transfers were contacted on the phone to be informed of the impending transfer and the amount. Out of targeted respondents in each category, 491 respondents received the agricultural extension equivalent cash transfer, 483 received the agricultural inputs equivalent cash transfer, and 497 received the poultry equivalent cash transfer. The remaining respondents refused the cash transfer when contacted.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.6." xml:id="_dKXtBU6">Endline survey and outcomes</head><p xml:id="_ZeJap7D">The endline survey was conducted from April 6th, 2017 to June 10th, 2017, or approximately 6 months after the intervention. This timing was selected by our agricultural team, to coincide with the harvest time (allowing time for sale) and when chicks were sufficiently mature to sell. We chose this time horizon because it is when individuals receiving programs will reap the maximal benefit in terms of the outcomes considered here (e.g., consumption, food security, subjective well-being). Moreover, cash transfers have been shown to have measurable impacts at time-horizons as short as 6 to 9 months <ref type="bibr" target="#b11">(Blattman, Fiala, &amp; Martinez, 2013;</ref><ref type="bibr" target="#b20">Fafchamps, McKenzie, Quinn, &amp; Woodruff, 2011;</ref><ref type="bibr" target="#b21">Haushofer &amp; Shapiro, 2016)</ref> thus we also expect to detect impacts of cash transfers at this time horizon.</p><p xml:id="_tD9Vb7e">Our primary outcomes of interest for this study are:</p><p xml:id="_yY5paqM">1. Consumption -total monthly per capita consumption, including the value of own production, in Kenyan shillings. Consumption is winsorized at the 99th percentile. 2. Food security -weighted standardized index. 3. Assets -total value of household assets, excluding land and buildings, in Kenyan shillings. Assets are winsorized at the 99th percentile and the 1st percentile (due to negative outliers occurring due to household debt). 4. Psychological well-being -weighted standardized index. 5. Autonomy, dignity, trust -weighted standardized index.</p><p xml:id="_QwrYhPS">In constructing weighted standardized indices we follow <ref type="bibr" target="#b1">Anderson (2008)</ref>. For a group of related outcomes, we first calculate the covariance matrix. We then invert the matrix and define weights for each variable as the row sums of the inverted co-variance matrix. Related outcomes are then de-meaned and divided by the standard deviation of one treatment group (cash recipients). The index is constructed as the weighted sum of standardized outcomes, and is finally re-centered by the mean and standard deviation of the index for the cash recipient group. When estimating each of the equations below for these primary outcomes, we adjust p-values based on 5 outcomes of interest and report Family Wise Error Rate adjustments.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.7." xml:id="_2SkkuBT">Design summary</head><p xml:id="_g2xmtWK">The figure below provides an overview of the study, including: baseline dates, number of respondents allocated to each treatment group at baseline, number of respondents actually receiving each treatment, number of respondents reached at endline.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3." xml:id="_QMRjgwN">Results</head><p xml:id="_kssu9EU">The aim of this study is to understand whether recipient preferences over various aid programs impact outcomes, while holding the value of aid received constant. To minimize the chance that particular program characteristics drive results, we chose to implement three programs. In the analysis, we pool data across the three programs and use fixed effect to control for the aggregate value of the resources received by the recipient (whether cash or non-cash goods and services). Note the pooled sample remains balanced according to the (randomly determined) proportion who receive either cash or a program and whether an individual receives cash or a program is uncorrelated with sample characteristics. This analysis is similar to <ref type="bibr" target="#b4">Banerjee et al. (2015)</ref>, who pool data from several related, but operationally distinct Graduation programs.</p><p xml:id="_wQ2sNCF">The analysis below was pre-registered with the AEA RCT Registry (<ref type="url" target="https://www.socialscienceregistry.org/trials/2015">AEARCTR-0002015</ref>) on February 23, 2017, two months before the start of endline data collection. Deviations from the preanalysis plan are described in footnotes below, and all analyses specified in the pre-analysis plan, including results by individual program, are presented in the Online appendix.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1." xml:id="_XwsmMRm">Sample characteristics and balance</head><p xml:id="_3kVZqDe">Of the initial 3008 respondents, we resurveyed 2887 or a recontact rate of 96%. Though small overall, we also confirm that attrition is not correlated with treatment status: attrition is 3.6% in the cash recipient group and 4.2% in the program recipient group (p = 0.41). In Table <ref type="table" target="#tab_0">1</ref> we show the means of various baseline characteristics in the estimation (endline) sample by intervention group. The table confirms that treatment assignment is not correlated with observed baseline characteristics in the estimation sample, and thus should not be correlated with the error term in endline specifications. Further, the table indicates that differential attrition based on baseline covariates did not occur. Of 27 comparisons, we observe two differences significant at the 5% level and one difference significant at the 10% level.</p><p xml:id="_nrrZrgV">The table also shows summary statistics related to the valuations respondents ascribe to the various programs in question. On average, respondents value agricultural extension at KES 29100 (the average among the three intervention groups varies between ~20000 and 30000), with a median value of KES 10000, relative to an estimated cost of KES 1500. Poultry is valued, on average, at KES 38800, with a median of KES 20000, compared to a cost of KES 12000. In Kilungi, inputs are valued on average at KES 15100, with a median of KES 10000, relative to a cost of KES 3700, and at KES 23000 in Mbooni, also with a median of 10000, relative to a cost of KES 7600. As would be expected based on the relatively high valuations ascribed to the programs, a higher percentage of individuals randomly assigned to receive the program instead of cash get their more valued intervention. In the extension intervention group, 95% of those receiving the program got their more highly valued intervention compared to 4% among those randomly assigned to receive cash. In the inputs intervention group, 78% of those that received inputs valued them more than cash, while only 22% of those that received cash valued the cash more than the inputs. In the poultry group, 62% in the group receiving poultry value that more than the cash, while 36% of those receiving cash value the cash more than the poultry. Since valuation is not randomly assigned, we explore what characteristics are correlated with the valuation placed on each program. In Table <ref type="table" target="#tab_1">2</ref> we regress recipient valuation for each program on a set of individual and household characteristics. Household wealth is positively correlated with valuation, which may be the result of wealthier households being more able to generate economic returns from programs or simply that wealthier households have a higher willingness to pay for programs. Households with a higher expenditure on food value programs less than others, which may be the result of having a higher desire for liquid cash to meet immediate needs. Women value programs significantly less than men. The age of a respondent, which may be a proxy for experience farming and raising livestock, is negatively correlated with valuations. Given that most valuations are significantly higher than the costs of the programs, this may reflect the effect of experience causing individuals to have valuations of programs that are more in line with the cost of providing those programs. Finally, individuals scoring higher on the psychological Grit scale have significantly higher valuation, this may reflect optimism about the respondent's ability to generate returns from the program. The valuation placed on a program by the respondent may be an arbitrarily complex function of demographic characteristics and psychological attributes, and we are not able to fully map out that function. The implication is that in the analysis below, we take the valuation as a meaningful variable in its own right, in that inquiring about valuation may allow programs to be better targeted, but do not investigate what may underlie the effects related to valuation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2." xml:id="_8eXASwJ">Heterogeneous impacts by recipient valuation</head><p xml:id="_UQVWhfu">To answer the question of whether individuals who value a particular program benefit more from receiving that program as compared to similar individuals receiving a cash transfer, we pool data across the three interventions and estimate:</p><formula xml:id="formula_0">y i ¼ a p þ b 1 Program i þ b 2 Program i v i þ b 3 v i þ e i<label>ð1Þ</label></formula><p xml:id="_sgs4X4h">where v is the ratio of the respondent's expressed value for the program to the cost of the program for person i, and Program is an indicator that recipient i received a program rather than cash. a p are dummies controlling for the aggregate value of the resources received by the recipient (cash or a program costing that cash value). The variation exploited here is the random variation, conditional on value of resources received, in whether a recipient gets cash or a non-cash intervention. Receiving a cash transfer of any value is the omitted category. In this and all specifications we use robust standard errors. If individuals who value programs much more than the cost benefit from the programs more than others, we expect that b 2 &gt; 0. As v is unbounded, we assess the impact of outliers by reporting results for several transformations of v, including: v winsorized at 95th percentile, logðvÞ and v where any value-cost ratio above 10 is capped at 10. <ref type="foot" target="#foot_2">4</ref>In Table <ref type="table">3</ref> we present the coefficient of interest ðb 2 Þ for all transformations of v. For the sake or readability, other terms in the regressions are omitted. The results do not indicate that recipient valuations of programs have any discernible impact on outcomes, and the 95% confidence intervals rule out any meaningful effects. With respect to consumption, column 1 suggests that, for program recipients, moving from the 25th percentile of valuation (1.25X program cost) to the 75th percentile (6.5X program value) results in an increase of KSH 13 ($0.13) in monthly consumption. Removing outliers (column 4) implies a similarly modest KSH 45 increase. Moreover, in the primary specification (column 1) the 95% confidence interval includes only changes in consumption of less than 1%. Even in the most favorable estimation (column 4) the 95% confidence interval indicates that shifting from the 25th to 75th percentile of valuation increases consumption by less than $9%.</p><p xml:id="_RTNavwN">The results are similar with respect to assets. In the primary specification (column 1), shifting from the 25th to 75th percentile of valuation for program recipients increases assets by at most 2%, according to the 95% confidence interval. The 95% confidence interval of the most favorable estimation, when top-coding the valuation cost ratio, suggests that the maximum difference in assets between those that received the program but valued it little (25th percentile) and those that valued it more (75th percentile) is 16% of assets, although the point estimate is a more modest 6% difference.</p><p xml:id="_Ya6WwkE">Turning to the indices, the 95% confidence intervals for the food security, psychological well-being and autonomy indices indicate that program recipients with a valuation in the 75th percentile score no higher than 0.1 standard deviations (~0.15 in the most favorable on these indices than those in the 25th percentile. The point estimate in column 1 is statistically different from zero for the psychological well-being index, but the remaining columns indicate this is due to outliers. Thus it appears that the degree to which respondents value the program they receive has very little impact on outcomes. As seen in Table <ref type="table" target="#tab_1">2</ref>, various individual and household characteristics are correlated with valuation. It is therefore possible that one of these characteristics is driving the lack of relationship between valuation and outcomes. These results, however, are robust to controlling for the variables included in Table <ref type="table" target="#tab_1">2</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_PrVSkHy">(see Appendix).</head><p xml:id="_QCH9MQQ">A possible concern with this conclusion is that measurement error in recipient valuations (i.e., the recipient's reported valuation is not precisely equal to their true valuation) would lead to attenuation bias, and an underestimate of the relationship between recipient valuation and outcomes. While possible, given the relatively small estimated magnitude of most of the coefficients, such bias would have to be severe for attenuation bias to mask an economically meaningful relationship between recipient valuations and other outcomes. Also, while such bias could cause us to erroneously conclude there is no relationship between recipient's true preferences and outcomes (as might be predicted by economic theory), from a policy perspective (in terms of deciding how to target interventions) we can still confidently conclude that there is no relationship between outcomes and expressed valuations, since the latter relationship is estimated without bias.</p><p xml:id="_jdyDPBz">As an alternative proxy for recipient preferences, we define an indicator variable R which is equal to 1 if the respondent values what they received more than the alternative. Specifically, R equals 1 if either: (a) the respondent received a cash transfer equal to the cost of the program and they value the program less than its cost or (b) the respondent received the program and they value it more than its cost. R is equal to 0 otherwise. We pool data across the three programs and estimate:</p><formula xml:id="formula_1">y i ¼ a p þ b 1 R i þ e i<label>ð2Þ</label></formula><p xml:id="_kAkm6fD">where a p again control for the aggregate value of resources transferred.</p><p xml:id="_wH7A8B5">Considering the impact of respecting a respondents' preferences (i.e., provide cash if they value the program less than the cost and the program otherwise) Table <ref type="table" target="#tab_3">4</ref> presents the results. We can rule out meaningful impacts on economic outcomes (consumption, food security and assets), however it appears providing respondents with the item they value most reduces psychological wellbeing by 0.07 standard deviations (not significant when correcting for multiple hypotheses) and reduces feelings of autonomy by 0.11 standard deviations. The latter result is robust to accounting for multiple hypotheses via FWER ðp ¼ 0:03Þ. This result is driven primarily by individuals receiving a program: of those who received what they most valued, 79% received a program and 21% received cash. Thus, to the extent receiving a program is correlated with receiving the more valued intervention, the former might also influence the results. When controlling for whether the individual received a program or cash, which is randomly determined, the relationship between receiving the more valued intervention no longer holds, as show in Table <ref type="table" target="#tab_2">5</ref>. In this table we also see a positive impact of receiving cash on our autonomy index, even when controlling for whether the respondent receives the intervention they value most.</p><p xml:id="_uYTdGbZ">Table <ref type="table">3</ref> Effect of type of program or cash allocation on primary outcome variables.</p><formula xml:id="formula_2">Program X Val-Cost Ratio Program X Val-Cost Ratio (trimmed) Program X ln(Val-Cost Ratio) Program X Val-Cost Ratio (<label>capped</label></formula><p xml:id="_NJMUaTk">) N Mean of dependent variable Monthly Per-Capita Cons (KES) 2.540 7.230 41.661 8.726 2887 4486.27 (1.658) (13.970) (90.645) (36.209) [0.810] [0.950] [0.840] [0.960] Food Security Index 0.000 À0.002 À0.032 À0.014 2887 0 (0.001) (0.004) (0.025) (0.011) [0.890] [0.950] [0.680] [0.640] Household Assets (KES) 30.940 181.974 1025.844 383.446 2887 34282.49 (27.892) (146.093) (916.244) (339.552) [0.760] [0.670] [0.680] [0.750] Psychological Wellbeing Index 0.002 ⁄⁄⁄ 0.000 0.006 0.003 2887 À.03 (0.001) (0.004) (0.027) (0.011) [0.150] [0.950] [0.840] [0.960] Autonomy Index 0.000 À0.005 À0.040 À0.008 2887 À.06 (0.001) (0.005) (0.030) (0.011) [0.890] [0.700] [0.630] [0.820]</p><p xml:id="_gtxas4J">Notes: Outcome variables are listed on the left. Each cell displays the coefficient for the interaction term from a regression of the outcome variable on program assignment, variants of the valuation-cost ratio and their interaction along with intervention fixed effects. Program is a dummy which takes the value 1 if respondent received a program instead of cash. Valuation is the respondent's stated valuation at baseline for the program into which they were randomized. Cost is estimated as the cost incurred to deliver a program per respondent. Costs are fixed for all respondents who were randomized to receive a given program or its cash equivalent in a given location. Standard errors are reported in parenthesis, FWER-adjusted p-values are reported in brackets. ⁄ p &lt; 0.1, ⁄⁄ p &lt; 0.05, ⁄⁄⁄ p &lt; 0.01.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3." xml:id="_bUfRZWg">Assessing the relative impacts of constrained and unconstrained choice</head><p xml:id="_rzWAQ6r">While including recipient preferences in aid allocation decisions has little impact, its possible that the allocation decisions of the aid industry perform better on average than the sum of individual decisions by recipients. To assess this possibility, we estimate the impact of receiving a cash transfer compared to receiving goods and services costing an amount equal to the cash transfer:</p><formula xml:id="formula_3">y i ¼ a p þ b 1 Cash i þ e i<label>ð3Þ</label></formula><p xml:id="_pPPBvfP">Table <ref type="table" target="#tab_4">6</ref> shows the results from this specification. The point estimate suggests that households receiving cash transfers have monthly per capital consumption KSH 169 ($1.5 USD) higher than those who received programs costing an equivalent amount but this difference is not significantly different from zero. Moreover, the 95% confidence interval rules out large differences in consumption among cash and program recipients -the upper bound of the interval is $4.25 USD which is approximately 10% of the sample mean monthly consumption. The results similarly rule out large  Notes: Outcome variables are listed on the left. Each cell displays the coefficient for the interaction term from a regression of the outcome variable on program assignment, variants of the valuation-cost ratio and their interaction along with intervention fixed effects. Program is a dummy which takes the value 1 if respondent received a program instead of cash. Valuation is the respondent's stated valuation at baseline for the program into which they were randomized. Cost is estimated as the cost incurred to deliver a program per respondent. Costs are fixed for all respondents who were randomized to receive a given program or its cash equivalent in a given location. Standard errors are reported in parenthesis, FWER-adjusted p-values are reported in brackets. ⁄ p &lt; 0.1, ⁄⁄ p &lt; 0.05, ⁄⁄⁄ p &lt; 0.01. impacts of cash on food security and assets in comparison to programs -the 95% confidence interval puts the maximum increment of cash over programs at 0.07 standard deviations for food security and negative $25 USD, or 8% of the sample mean for assets. With regards to psychological well-being, there are no significant differences between cash and program recipients with the 95% confidence interval ruling out differences greater than 0.13 standard deviations. Even when adjusting for multiple hypotheses, the estimates suggest that cash transfer recipients score 0.13 standard deviations higher on the autonomy index, significant at the 1% level.</p><p xml:id="_T5arZGC">Table <ref type="table" target="#tab_5">7</ref> shows the drivers of the autonomy index. The results indicate that cash transfer recipients are more likely to believe they are trusted by the implementing NGO, that the aid they received was tailored to their needs and that they were treated as an individual. They are less likely to report being treated with contempt by the implementing organization, that they were persuaded to make a particular choice and that they can ask the NGO for what they need.</p><p xml:id="_3rgXEsp">All additional analysis discussed in the pre-analysis plan, including detailed index component results, results by program and heterogeneous results, are shown in the Online appendix.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4." xml:id="_T58nWVa">Conclusion</head><p xml:id="_R29UWz3">Through a randomized controlled trial low-income Kenyans were randomly selected to receive either a particular development program (agricultural extension, agricultural inputs, poultry transfers) or an amount of cash equal to the cost of the program. Prior to receiving any intervention, we elicited respondents' indifference point between cash and the program in question. Subsequently, we randomly assigned individuals to receive the program in question or a cash transfer equal to the cost of the program. This design addresses two questions: first, what is the relative impact of common development programs relative to cash transfers equal to the cost of the program? Second, would incorporating recipients' valuation for programs into the decision of how to allocate aid dollars affect the impact of aid programs?</p><p xml:id="_RcyrFDW">Utilizing a variety of proxies for recipient preference, there is no discernible relationship between whether a recipient receives their more valued intervention (a program or cash) and components of well-being including consumption, food security, assets, psychological well-being and feelings of autonomy. Moreover, the 95% confidence intervals rule out effects of any meaningful magnitude. When comparing cash transfers to common aid programs we can rule out large differences in impacts on economic outcomes. Based on 95% confidence intervals, cash transfer recipients consume no more than $4.25 USD more per person per month ($10% of mean consumption) than program recipients and score no higher than 0.07 standard deviations on an index of food security than program recipients. Program recipients have no more than $$25 USD (8% of mean assets) than cash transfer recipients. We do find that cash transfers increase feelings of autonomy and produce more favorable views of the implementing organization than non-cash interventions.</p><p xml:id="_nUPvddj">The results speak directly to the theoretical ambiguity about whether replacing traditional forms of direct aid with cash transfers will lead to optimal or sub-optimal outcomes. The Schultzian view suggests cash will be allocated efficiently by recipients, while the behavioral view suggests behavioral frictions might reduce the efficacy of cash. These results suggest that behavioralist concerns are not warranted with respect to the provision of cash transfers. Previous research has established that cash transfers do not result in increased expenditure on temptation goods like alcohol or tobacco, as might be predicted e.g., by hyperbolic discounting. This study goes a step further and suggests that other behavioral frictions do not reduce the impact of cash transfers in comparison to traditional forms of direct aid, which constrain the choices of recipients. We show that the poor are reasonably efficient in their allocation of cash resources, in the sense that they do as well as aid professionals who have indicated a tendency towards programs such as extension and inputs. Thus the results indicate that, with respect to cash transfers, the poor-but-efficient hypothesis is reasonable, and interference to constrain recipient choices is not warranted.</p><p xml:id="_cfVMeaw">An important caveat is that this conclusion may not apply to all interventions and it does not contradict the behavioralist view in total, as behavioral concerns may impact domains such as health and education. Nevertheless, when aid is intended to augment the income of the poor in a domain where market imperfections are unlikely (e.g., as in the provision of subsidized agricultural inputs or knowledge) the poor make equally good use of resources as aid professionals.</p><p xml:id="_p5Ucqur">From a policy perspective, the results offer two specific implications. The first is that the means of aid interventions have welfare implications in addition to the ends of those programs. While there is little gain from an impact perspective (e.g., on income) of incorporating recipient preferences into allocating aid resources, we do find that the choice enabled by cash transfers results in greater feelings of autonomy and favorable opinions of NGOs. Thus aid organizations and governments should consider a holistic view of recipient welfare, including perceptions of the process as well as ''hard" economic outcomes in choosing among available interventions. Second, in the arena of the transfer of private, or even semi-private, goods and services, cash transfers are likely a dominant intervention whenever alternative programs necessitate high overheads. This study finds no difference in impact from cash transfers equal to the all-in cost of interventions (including the specific value of items transferred and delivery cost), but does not account for general administrative and overhead costs. Thus, when agencies operate programs providing goods and services such as subsidized commodities and basic agricultural extension with high overhead costs, they are likely destroying value for recipients relative to cash transfers. Notes: Outcome variables are listed on the left. Each cell displays the coefficient for the interaction term from a regression of the outcome variable on program assignment, variants of the valuation-cost ratio and their interaction along with intervention fixed effects. Program is a dummy which takes the value 1 if respondent received a program instead of cash. Valuation is the respondent's stated valuation at baseline for the program into which they were randomized. Cost is estimated as the cost incurred to deliver a program per respondent. Costs are fixed for all respondents who were randomized to receive a given program or its cash equivalent in a given location. Control variable include: Age of respondent, Age -squared, Gender, Psychological wellbeing index, Growth mindset, Grit, Number of household members, Share of household expenditure on food in past week, Household wealth. Standard errors are reported in parenthesis, FWER-adjusted p-values are reported in brackets. ⁄ p &lt; 0.1, ⁄⁄ p &lt; 0.05, ⁄⁄⁄ p &lt; 0.01.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><graphic coords="5,320.77,67.92,232.57,241.63" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc xml:id="_GhHaMzK">Baseline balance across extension, inputs and poultry recipients at endline.Table shows balance of mean of variables measured at baseline which are listed on the left across all baseline recipients allocated to receive extension, inputs or poultry, or a cash equivalent. Respondent's valuation for interventions and household wealth are top-coded at 99th percentile. Standard errors are in parenthesis. ⁄ p &lt; 0.1, ⁄⁄ p &lt; 0.05, ⁄⁄⁄ p &lt; 0.01.</figDesc><table><row><cell></cell><cell>(1)</cell><cell>(2)</cell><cell>p-value:</cell><cell>N</cell><cell>(3)</cell><cell>(4)</cell><cell>p-value:</cell><cell>N</cell><cell>(5)</cell><cell>(6)</cell><cell>p-value:</cell><cell>N</cell></row><row><cell></cell><cell>Cash Extension</cell><cell>Extension</cell><cell>(1) = (2)</cell><cell></cell><cell>Cash Inputs</cell><cell>Inputs</cell><cell>(3) = (4)</cell><cell></cell><cell>Cash Poultry</cell><cell>Poultry</cell><cell>(5) = (6)</cell><cell></cell></row><row><cell>Age of respondent</cell><cell>44.397</cell><cell>43.288</cell><cell>0.267</cell><cell>961</cell><cell>43.567</cell><cell>44.420</cell><cell>0.377</cell><cell>959</cell><cell>43.598</cell><cell>43.370</cell><cell>0.817</cell><cell>967</cell></row><row><cell></cell><cell>(0.698)</cell><cell>(0.714)</cell><cell></cell><cell></cell><cell>(0.672)</cell><cell>(0.694)</cell><cell></cell><cell></cell><cell>(0.700)</cell><cell>(0.696)</cell><cell></cell><cell></cell></row><row><cell>Gender of respondent (dummy = 1 if female)</cell><cell>0.570</cell><cell>0.623</cell><cell>0.093 ⁄</cell><cell>961</cell><cell>0.636</cell><cell>0.624</cell><cell>0.694</cell><cell>959</cell><cell>0.619</cell><cell>0.624</cell><cell>0.875</cell><cell>967</cell></row><row><cell></cell><cell>(0.022)</cell><cell>(0.022)</cell><cell></cell><cell></cell><cell>(0.022)</cell><cell>(0.022)</cell><cell></cell><cell></cell><cell>(0.022)</cell><cell>(0.022)</cell><cell></cell><cell></cell></row><row><cell>Psychological wellbeing index (CESD, GHQ-12, WVS)</cell><cell>À0.003</cell><cell>0.032</cell><cell>0.590</cell><cell>961</cell><cell>0.060</cell><cell>À0.007</cell><cell>0.287</cell><cell>959</cell><cell>À0.019</cell><cell>À0.063</cell><cell>0.502</cell><cell>967</cell></row><row><cell></cell><cell>(0.046)</cell><cell>(0.046)</cell><cell></cell><cell></cell><cell>(0.044)</cell><cell>(0.045)</cell><cell></cell><cell></cell><cell>(0.046)</cell><cell>(0.047)</cell><cell></cell><cell></cell></row><row><cell>Growth mindset</cell><cell>31.932</cell><cell>31.878</cell><cell>0.911</cell><cell>961</cell><cell>32.745</cell><cell>31.927</cell><cell>0.101</cell><cell>959</cell><cell>32.230</cell><cell>32.343</cell><cell>0.816</cell><cell>967</cell></row><row><cell></cell><cell>(0.343)</cell><cell>(0.341)</cell><cell></cell><cell></cell><cell>(0.350)</cell><cell>(0.355)</cell><cell></cell><cell></cell><cell>(0.349)</cell><cell>(0.337)</cell><cell></cell><cell></cell></row><row><cell>Grit</cell><cell>3.381</cell><cell>3.410</cell><cell>0.368</cell><cell>961</cell><cell>3.385</cell><cell>3.454</cell><cell>0.038 ⁄⁄</cell><cell>959</cell><cell>3.380</cell><cell>3.395</cell><cell>0.643</cell><cell>967</cell></row><row><cell></cell><cell>(0.022)</cell><cell>(0.023)</cell><cell></cell><cell></cell><cell>(0.023)</cell><cell>(0.024)</cell><cell></cell><cell></cell><cell>(0.023)</cell><cell>(0.023)</cell><cell></cell><cell></cell></row><row><cell>Valuation for Extension (in 10,000 KES)</cell><cell>2.765</cell><cell>2.993</cell><cell>0.496</cell><cell>961</cell><cell>2.378</cell><cell>2.571</cell><cell>0.520</cell><cell>959</cell><cell>2.179</cell><cell>2.097</cell><cell>0.693</cell><cell>967</cell></row><row><cell></cell><cell>(0.226)</cell><cell>(0.247)</cell><cell></cell><cell></cell><cell>(0.202)</cell><cell>(0.223)</cell><cell></cell><cell></cell><cell>(0.151)</cell><cell>(0.142)</cell><cell></cell><cell></cell></row><row><cell>Valuation for Inputs (in 10,000 KES)</cell><cell>1.993</cell><cell>1.994</cell><cell>0.992</cell><cell>961</cell><cell>1.741</cell><cell>1.725</cell><cell>0.911</cell><cell>959</cell><cell>1.510</cell><cell>1.384</cell><cell>0.155</cell><cell>967</cell></row><row><cell></cell><cell>(0.112)</cell><cell>(0.123)</cell><cell></cell><cell></cell><cell>(0.102)</cell><cell>(0.099)</cell><cell></cell><cell></cell><cell>(0.063)</cell><cell>(0.062)</cell><cell></cell><cell></cell></row><row><cell>Valuation for Poultry (in 10,000 KES)</cell><cell>4.023</cell><cell>4.170</cell><cell>0.619</cell><cell>961</cell><cell>3.662</cell><cell>3.627</cell><cell>0.898</cell><cell>959</cell><cell>2.774</cell><cell>2.602</cell><cell>0.367</cell><cell>967</cell></row><row><cell></cell><cell>(0.200)</cell><cell>(0.216)</cell><cell></cell><cell></cell><cell>(0.198)</cell><cell>(0.195)</cell><cell></cell><cell></cell><cell>(0.136)</cell><cell>(0.133)</cell><cell></cell><cell></cell></row><row><cell>Valuation for intervention allocated (in 10,000 KES)</cell><cell>2.765</cell><cell>2.993</cell><cell>0.496</cell><cell>961</cell><cell>1.741</cell><cell>1.725</cell><cell>0.911</cell><cell>959</cell><cell>2.774</cell><cell>2.602</cell><cell>0.367</cell><cell>967</cell></row><row><cell></cell><cell>(0.226)</cell><cell>(0.247)</cell><cell></cell><cell></cell><cell>(0.102)</cell><cell>(0.099)</cell><cell></cell><cell></cell><cell>(0.136)</cell><cell>(0.133)</cell><cell></cell><cell></cell></row><row><cell>Respondent preferences respected (based on cost)</cell><cell>0.035</cell><cell>0.954</cell><cell>0.000 ⁄⁄⁄</cell><cell>961</cell><cell>0.224</cell><cell>0.784</cell><cell>0.000 ⁄⁄⁄</cell><cell>959</cell><cell>0.356</cell><cell>0.624</cell><cell>0.000 ⁄⁄⁄</cell><cell>967</cell></row><row><cell></cell><cell>(0.008)</cell><cell>(0.010)</cell><cell></cell><cell></cell><cell>(0.019)</cell><cell>(0.019)</cell><cell></cell><cell></cell><cell>(0.022)</cell><cell>(0.022)</cell><cell></cell><cell></cell></row><row><cell>Number of household members</cell><cell>5.202</cell><cell>5.032</cell><cell>0.255</cell><cell>961</cell><cell>4.937</cell><cell>5.164</cell><cell>0.154</cell><cell>959</cell><cell>4.950</cell><cell>4.884</cell><cell>0.669</cell><cell>967</cell></row><row><cell></cell><cell>(0.102)</cell><cell>(0.108)</cell><cell></cell><cell></cell><cell>(0.116)</cell><cell>(0.110)</cell><cell></cell><cell></cell><cell>(0.106)</cell><cell>(0.112)</cell><cell></cell><cell></cell></row><row><cell>Share of household expenditure on food in past week</cell><cell>0.646</cell><cell>0.667</cell><cell>0.150</cell><cell>961</cell><cell>0.644</cell><cell>0.646</cell><cell>0.866</cell><cell>959</cell><cell>0.666</cell><cell>0.646</cell><cell>0.161</cell><cell>967</cell></row><row><cell></cell><cell>(0.010)</cell><cell>(0.010)</cell><cell></cell><cell></cell><cell>(0.010)</cell><cell>(0.010)</cell><cell></cell><cell></cell><cell>(0.010)</cell><cell>(0.010)</cell><cell></cell><cell></cell></row><row><cell>Household wealth (in 10,000 KES)</cell><cell>85.709</cell><cell>75.503</cell><cell>0.232</cell><cell>961</cell><cell>63.190</cell><cell>79.111</cell><cell>0.029 ⁄⁄</cell><cell>959</cell><cell>53.965</cell><cell>48.437</cell><cell>0.306</cell><cell>967</cell></row><row><cell></cell><cell>(6.490)</cell><cell>(5.542)</cell><cell></cell><cell></cell><cell>(4.442)</cell><cell>(5.757)</cell><cell></cell><cell></cell><cell>(3.899)</cell><cell>(3.737)</cell><cell></cell><cell></cell></row><row><cell>Notes:</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc xml:id="_5rbEge7">Determinates of valuation.Table shows correlation between recipient valuation for each program and various characteristics. Age is in years, psychological index is mean zero with SD = 1, Growth mindset is a scale from 0 to 50, Grit is a scale from 1 to 5, and share of expenditure on food is expressed as a decimal percent. Respondent's valuation for interventions and household wealth are top-coded at 99th percentile. Standard errors are in parenthesis. ⁄ p &lt; 0.1, ⁄⁄ p &lt; 0.05, ⁄⁄⁄ p &lt; 0.01.</figDesc><table><row><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell></row><row><cell>Extension</cell><cell>Inputs</cell><cell>Poultry</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 5</head><label>5</label><figDesc xml:id="_VaV7e97">Effect of recipient preferences being respected in allocation on primary outcome variables, with controls.Outcome variables are listed on the left. Regression includes intervention fixed effects with agricultural extension as omitted category. Respondent preferences respected is an indicator that takes the value 1 if either the respondent values the program less than the cost and receives cash, or the respondent values the program more than the cost and receives the program. Standard errors are reported in parenthesis, FWER-adjusted p-values are reported in brackets. ⁄ p &lt; 0.1, ⁄⁄ p &lt; 0.05, ⁄⁄⁄ p &lt; 0.01.</figDesc><table><row><cell></cell><cell>Constant</cell><cell>Respondent preferences respected (as per cost)</cell><cell>Cash</cell><cell>N</cell></row><row><cell>Monthly Per-Capita Cons (KES)</cell><cell>4257.767 ⁄⁄⁄</cell><cell>À62.885</cell><cell>132.797</cell><cell>2887</cell></row><row><cell></cell><cell>(179.374)</cell><cell>(164.139)</cell><cell>(164.320)</cell><cell></cell></row><row><cell></cell><cell></cell><cell>[0.770]</cell><cell>[0.800]</cell><cell></cell></row><row><cell>Food Security Index</cell><cell>0.069</cell><cell>À0.065</cell><cell>À0.040</cell><cell>2887</cell></row><row><cell></cell><cell>(0.049)</cell><cell>(0.040)</cell><cell>(0.040)</cell><cell></cell></row><row><cell></cell><cell></cell><cell>[0.430]</cell><cell>[0.800]</cell><cell></cell></row><row><cell>Household Assets (KES)</cell><cell>35669.138 ⁄⁄⁄</cell><cell>À922.266</cell><cell>À857.347</cell><cell>2887</cell></row><row><cell></cell><cell>(1637.535)</cell><cell>(1411.689)</cell><cell>(1411.359)</cell><cell></cell></row><row><cell></cell><cell></cell><cell>[0.770]</cell><cell>[0.800]</cell><cell></cell></row><row><cell>Psychological Wellbeing Index</cell><cell>À0.056</cell><cell>À0.049</cell><cell>0.030</cell><cell>2887</cell></row><row><cell></cell><cell>(0.051)</cell><cell>(0.045)</cell><cell>(0.045)</cell><cell></cell></row><row><cell></cell><cell></cell><cell>[0.570]</cell><cell>[0.800]</cell><cell></cell></row><row><cell>Autonomy Index</cell><cell>À0.280 ⁄⁄⁄</cell><cell>À0.058</cell><cell>0.091 ⁄⁄</cell><cell>2887</cell></row><row><cell></cell><cell>(0.052)</cell><cell>(0.046)</cell><cell>(0.046)</cell><cell></cell></row><row><cell></cell><cell></cell><cell>[0.570]</cell><cell>[0.150]</cell><cell></cell></row><row><cell>Notes:</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4</head><label>4</label><figDesc xml:id="_6MtVef3">Effect of type of program or cash allocation on primary outcome variables.</figDesc><table><row><cell></cell><cell>Constant</cell><cell>Respondent preferences respected (as per cost)</cell><cell>N</cell></row><row><cell>Monthly Per-Capita Cons (KES)</cell><cell>4362.703 ⁄⁄⁄</cell><cell>À140.129</cell><cell>2887</cell></row><row><cell></cell><cell>(117.575)</cell><cell>(131.417)</cell><cell></cell></row><row><cell></cell><cell></cell><cell>[0.580]</cell><cell></cell></row><row><cell>Food Security Index</cell><cell>0.037</cell><cell>À0.041</cell><cell>2887</cell></row><row><cell></cell><cell>(0.044)</cell><cell>(0.035)</cell><cell></cell></row><row><cell></cell><cell></cell><cell>[0.580]</cell><cell></cell></row><row><cell>Household Assets (KES)</cell><cell>34991.659 ⁄⁄⁄</cell><cell>À423.570</cell><cell>2887</cell></row><row><cell></cell><cell>(1188.447)</cell><cell>(1174.823)</cell><cell></cell></row><row><cell></cell><cell></cell><cell>[0.720]</cell><cell></cell></row><row><cell>Psychological Wellbeing Index</cell><cell>À0.032</cell><cell>À0.067 ⁄</cell><cell>2887</cell></row><row><cell></cell><cell>(0.036)</cell><cell>(0.036)</cell><cell></cell></row><row><cell></cell><cell></cell><cell>[0.290]</cell><cell></cell></row><row><cell>Autonomy Index</cell><cell>À0.207 ⁄⁄⁄</cell><cell>À0.111 ⁄⁄⁄</cell><cell>2887</cell></row><row><cell></cell><cell>(0.038)</cell><cell>(0.038)</cell><cell></cell></row><row><cell></cell><cell></cell><cell>[0.000] ⁄⁄⁄</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 6</head><label>6</label><figDesc xml:id="_4gHV4uf">Effect of cash allocation on primary outcome variables.Outcome variables are listed on the left. Regression includes intervention fixed effects with agricultural extension as omitted category. Cash is a dummy which takes the value 1 if respondent received a cash transfer instead of a program. Standard errors are reported in parenthesis, FWER-adjusted p-values are reported in brackets. ⁄ p &lt; 0.1, ⁄⁄ p &lt; 0.05, ⁄⁄⁄ p &lt; 0.01.</figDesc><table><row><cell>Constant</cell><cell>Cash</cell><cell>N</cell></row></table><note xml:id="_Hv6w9Ck"><p>Notes:</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Table 7</head><label>7</label><figDesc xml:id="_WKGcjsw">Effect of cash allocation on autonomy sub-outcome variables.Notes: Outcome variables are listed on the left. Regression includes intervention fixed effects with agricultural extension as omitted category. Cash is a dummy which takes the value 1 if respondent received a cash transfer instead of a program. Standard errors are reported in parenthesis, FWER-adjusted p-values are reported in brackets. ⁄ p &lt; 0.1, ⁄⁄ p &lt; 0.05, ⁄⁄⁄ p &lt; 0.01.</figDesc><table><row><cell></cell><cell>Constant</cell><cell>Cash</cell><cell>N</cell></row><row><cell>Autonomy Index</cell><cell>À0.325 ⁄⁄⁄</cell><cell>0.125 ⁄⁄⁄</cell><cell>2887</cell></row><row><cell></cell><cell>(0.040)</cell><cell>(0.038)</cell><cell></cell></row><row><cell></cell><cell></cell><cell>[0.000] ⁄⁄⁄</cell><cell></cell></row><row><cell>I make important decisions in my life for</cell><cell>3.611 ⁄⁄⁄</cell><cell>À0.014</cell><cell>2883</cell></row><row><cell>myself</cell><cell>(0.022)</cell><cell>(0.021)</cell><cell></cell></row><row><cell></cell><cell></cell><cell>[0.940]</cell><cell></cell></row><row><cell>Other people and orgs enable me to live</cell><cell>3.076 ⁄⁄⁄</cell><cell>À0.022</cell><cell>2880</cell></row><row><cell>with dignity</cell><cell>(0.037)</cell><cell>(0.035)</cell><cell></cell></row><row><cell></cell><cell></cell><cell>[0.940]</cell><cell></cell></row><row><cell>NGOs trust the people they seek to help</cell><cell>3.374 ⁄⁄⁄</cell><cell>0.065 ⁄⁄</cell><cell>2866</cell></row><row><cell></cell><cell>(0.030)</cell><cell>(0.026)</cell><cell></cell></row><row><cell></cell><cell></cell><cell>[0.080] ⁄</cell><cell></cell></row><row><cell>I would rather have little money but make</cell><cell>3.534 ⁄⁄⁄</cell><cell>0.026</cell><cell>2876</cell></row><row><cell>my own decisions</cell><cell>(0.026)</cell><cell>(0.024)</cell><cell></cell></row><row><cell></cell><cell></cell><cell>[0.860]</cell><cell></cell></row><row><cell>Org from whom I received aid treated me as</cell><cell>3.620 ⁄⁄⁄</cell><cell>0.025</cell><cell>2407</cell></row><row><cell>an equal</cell><cell>(0.030)</cell><cell>(0.027)</cell><cell></cell></row><row><cell></cell><cell></cell><cell>[0.880]</cell><cell></cell></row><row><cell>Org from whom I received aid treated me</cell><cell>1.655 ⁄⁄⁄</cell><cell cols="2">À0.111 ⁄⁄⁄ 2412</cell></row><row><cell>with contempt</cell><cell>(0.047)</cell><cell>(0.038)</cell><cell></cell></row><row><cell></cell><cell></cell><cell>[0.020] ⁄⁄</cell><cell></cell></row><row><cell>Org from whom I received aid was arrogant</cell><cell>1.175 ⁄⁄⁄</cell><cell>À0.006</cell><cell>2413</cell></row><row><cell></cell><cell>(0.023)</cell><cell>(0.021)</cell><cell></cell></row><row><cell></cell><cell></cell><cell>[0.950]</cell><cell></cell></row><row><cell>Aid was tailored to solve my problems</cell><cell>3.187 ⁄⁄⁄</cell><cell>0.250 ⁄⁄⁄</cell><cell>2415</cell></row><row><cell></cell><cell>(0.035)</cell><cell>(0.032)</cell><cell></cell></row><row><cell></cell><cell></cell><cell>[0.000] ⁄⁄⁄</cell><cell></cell></row><row><cell>Org from whom I received aid treated me as</cell><cell>3.223 ⁄⁄⁄</cell><cell>0.247 ⁄⁄⁄</cell><cell>2411</cell></row><row><cell>an individual</cell><cell>(0.041)</cell><cell>(0.032)</cell><cell></cell></row><row><cell></cell><cell></cell><cell>[0.000] ⁄⁄⁄</cell><cell></cell></row><row><cell>Org from whom I received aid ridiculed me</cell><cell>0.011 ⁄⁄⁄</cell><cell>À0.004</cell><cell>2416</cell></row><row><cell></cell><cell>(0.004)</cell><cell>(0.003)</cell><cell></cell></row><row><cell></cell><cell></cell><cell>[0.830]</cell><cell></cell></row><row><cell>I felt that I could ask the org for what I</cell><cell>0.380 ⁄⁄⁄</cell><cell cols="2">À0.064 ⁄⁄⁄ 2416</cell></row><row><cell>needed</cell><cell>(0.021)</cell><cell>(0.019)</cell><cell></cell></row><row><cell></cell><cell></cell><cell>[0.000] ⁄⁄⁄</cell><cell></cell></row><row><cell>Org from whom I received aid reduced my</cell><cell>0.213 ⁄⁄⁄</cell><cell>0.004</cell><cell>2416</cell></row><row><cell>sense of control</cell><cell>(0.018)</cell><cell>(0.016)</cell><cell></cell></row><row><cell></cell><cell></cell><cell>[0.950]</cell><cell></cell></row><row><cell>Org tried to persuade me to make a</cell><cell>0.177 ⁄⁄⁄</cell><cell cols="2">À0.038 ⁄⁄⁄ 2416</cell></row><row><cell>particular decision</cell><cell>(0.017)</cell><cell>(0.015)</cell><cell></cell></row><row><cell></cell><cell></cell><cell>[0.070] ⁄</cell><cell></cell></row><row><cell>Org made me feel in control of my life</cell><cell>0.774 ⁄⁄⁄</cell><cell>0.020</cell><cell>2416</cell></row><row><cell></cell><cell>(0.017)</cell><cell>(0.016)</cell><cell></cell></row><row><cell></cell><cell></cell><cell>[0.830]</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6"><head>Table 8</head><label>8</label><figDesc xml:id="_CxM8QMg">Effect of type of program or cash allocation on primary outcome variables -with controls.</figDesc><table><row><cell></cell><cell>Program X</cell><cell>Program X</cell><cell>Program X</cell><cell>Program X</cell><cell>N</cell><cell>Mean of</cell></row><row><cell></cell><cell>Val-Cost Ratio</cell><cell>Val-Cost Ratio (trimmed)</cell><cell>ln(Val-Cost Ratio)</cell><cell>Val-Cost Ratio (capped)</cell><cell></cell><cell>dependent</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>variable</cell></row><row><cell>Monthly Per-Capita Cons (KES)</cell><cell>4.283 ⁄⁄⁄</cell><cell>13.608</cell><cell>65.971</cell><cell>14.633</cell><cell>2887</cell><cell>4486.27</cell></row><row><cell></cell><cell>(1.437)</cell><cell>(11.870)</cell><cell>(75.432)</cell><cell>(28.745)</cell><cell></cell><cell></cell></row><row><cell></cell><cell>[0.880]</cell><cell>[0.940]</cell><cell>[0.870]</cell><cell>[0.980]</cell><cell></cell><cell></cell></row><row><cell>Food Security Index</cell><cell>0.000</cell><cell>À0.003</cell><cell>À0.036</cell><cell>À0.015</cell><cell>2887</cell><cell>0</cell></row><row><cell></cell><cell>(0.001)</cell><cell>(0.004)</cell><cell>(0.025)</cell><cell>(0.011)</cell><cell></cell><cell></cell></row><row><cell></cell><cell>[0.880]</cell><cell>[0.940]</cell><cell>[0.620]</cell><cell>[0.590]</cell><cell></cell><cell></cell></row><row><cell>Household Assets (KES)</cell><cell>39.887</cell><cell>161.293</cell><cell>920.680</cell><cell>316.134</cell><cell>2887</cell><cell>34282.49</cell></row><row><cell></cell><cell>(26.126)</cell><cell>(143.893)</cell><cell>(897.752)</cell><cell>(335.252)</cell><cell></cell><cell></cell></row><row><cell></cell><cell>[0.750]</cell><cell>[0.660]</cell><cell>[0.620]</cell><cell>[0.670]</cell><cell></cell><cell></cell></row><row><cell>Psychological Wellbeing Index</cell><cell>0.002 ⁄⁄⁄</cell><cell>À0.000</cell><cell>0.003</cell><cell>0.001</cell><cell>2887</cell><cell>À.03</cell></row><row><cell></cell><cell>(0.001)</cell><cell>(0.004)</cell><cell>(0.028)</cell><cell>(0.011)</cell><cell></cell><cell></cell></row><row><cell></cell><cell>[0.110]</cell><cell>[0.940]</cell><cell>[0.870]</cell><cell>[0.980]</cell><cell></cell><cell></cell></row><row><cell>Autonomy Index</cell><cell>0.000</cell><cell>À0.006</cell><cell>À0.044</cell><cell>À0.010</cell><cell>2887</cell><cell>À.06</cell></row><row><cell></cell><cell>(0.001)</cell><cell>(0.005)</cell><cell>(0.030)</cell><cell>(0.012)</cell><cell></cell><cell></cell></row><row><cell></cell><cell>[0.880]</cell><cell>[0.710]</cell><cell>[0.580]</cell><cell>[0.890]</cell><cell></cell><cell></cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p xml:id="_VBnrQWY">J. Shapiro / World Development 116 (2019) 137-149</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="3" xml:id="foot_1"><p xml:id="_seFHgvt">https://opendata.go.ke/dataset/Kenya-Government-Funded-Projects-2015/ncdd-s55u; https://opendata.go.ke/dataset/Kenya-Open-Budget-Program-Based-Budget-2015/5jh8-v7sc. J. Shapiro / World Development 116 (2019) 137-149</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_2"><p xml:id="_GSv3BfZ">These transformations of v were not specified in the pre-analysis plan and were added upon observing the distribution of v.</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head xml:id="_8XXny6g">Acknowledgments</head><p xml:id="_y8SBkjD">Many thanks to the staff of the <rs type="institution">Busara Center for Behavioral Economics</rs> for making this work possible, including <rs type="person">Akanksha Arora</rs> and especially <rs type="person">Esther Owelle</rs> for excellent research assistance, and to <rs type="person">Tom Wein</rs> for his valuable inputs on the autonomy module. This study was funded by the <rs type="funder">Gates Foundation</rs> and the author is a co-founder and former director of GiveDirectly, all views are those of the author. This study was pre-registered in the <rs type="projectName">AEA RCT Registry</rs> (ID #: <rs type="grantNumber">AEARCTR-0002015</rs>) and received <rs type="funder">IRB</rs> approval from the <rs type="funder">Kenya Medical Research Institute</rs> (ID #: 531).</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funded-project" xml:id="_u77eSeR">
+					<idno type="grant-number">AEARCTR-0002015</idno>
+					<orgName type="project" subtype="full">AEA RCT Registry</orgName>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_4ayE2fF">Declaration of interest</head><p xml:id="_YgPBTPj">None.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_FV7yFUW">Appendix A</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_hQnnuPU">Indices and variables</head><p xml:id="_DdRTzdj">Variables or indices below marked with a þ are primary outcomes of interest. Variables or indices below marked with a # are secondary outcomes. Impacts on variables or indices below marked with a ⁄ will also be reported to illuminate the specific cause of the change in the primary outcome. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_7"><head>Table 8 .</head><label>8</label><figDesc xml:id="_N7tft5z">Appendix B. Supplementary data Supplementary data associated with this article can be found, in the online version, at https://doi.org/10.1016/j.worlddev.2018.10. 010.</figDesc><table><row><cell>1. Consumption + -monthly KES consumption per capita</cell></row><row><cell>(a) Food ⁄</cell></row><row><cell>i. Food own production ⁄</cell></row><row><cell>ii. Food bought</cell></row><row><cell>A. Meat, fish &amp; dairy ⁄</cell></row><row><cell>B. Fruit &amp; vegetables ⁄</cell></row><row><cell>C. Cereals ⁄</cell></row><row><cell>D. Other food ⁄</cell></row><row><cell>(b) Temptation good expenditure ⁄</cell></row><row><cell>i. Alcohol</cell></row><row><cell>ii. Tobacco</cell></row><row><cell>iii. Gambling</cell></row><row><cell>(c) Airtime, internet, other phone expenses ⁄</cell></row><row><cell>(d) Travel, transport, hotels ⁄</cell></row><row><cell>(e) Personal and household items ⁄</cell></row><row><cell>i. Clothing and shoes</cell></row><row><cell>ii. Personal items such as soap, shampoo, etc.</cell></row><row><cell>iii. Household items such as matches, kerosene, etc.</cell></row><row><cell>iv. Cooking fuel</cell></row><row><cell>(f) Recreation/entertainment ⁄</cell></row></table><note xml:id="_z9THxmb"><p>⁄ i. Cows A. Value of milk (sold and consumed) B. Value of meat (sold and consumed) C. Value of animals sold D. Value of other products E. Cost of care (e.g. fodder, veterinary care, etc.) ii. Small ruminants A. Value of meat (sold and consumed) B. Value of animals sold C. Value of other products D. Cost of care (e.g. fodder, veterinary care, etc.) iii. Birds A. Value of eggs (sold and consumed) B. Value of meat (sold and consumed) C. Value of animals sold D. Cost of care (e.g. fodder, veterinary care, etc.) (b) Agricultural income (monthly average) ⁄ i. Value of crops harvested in short</p></note></figure>
+			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="consolidated"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main" xml:id="_gfc8pTa">The &quot;Efficient but Poor&quot; Hypothesis*</title>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">G</forename><surname>Abler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Vasant</forename><forename type="middle">A</forename><surname>Sukhatme</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1467-9353.2006.00296.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_HQASMuQ">Review of Agricultural Economics</title>
+		<title level="j" type="abbrev">Rev Agricultural Economics</title>
+		<idno type="ISSN">1058-7195</idno>
+		<idno type="ISSNe">1467-9353</idno>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="338" to="343" />
+			<date type="published" when="2006-09">2006</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main" xml:id="_ZsJJVUV">Multiple Inference and Gender Differences in the Effects of Early Intervention: A Reevaluation of the Abecedarian, Perry Preschool, and Early Training Projects</title>
+		<author>
+			<persName><forename type="first">Michael</forename><forename type="middle">L</forename><surname>Anderson</surname></persName>
+		</author>
+		<idno type="DOI">10.1198/016214508000000841</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_hzkrkXS">Journal of the American Statistical Association</title>
+		<title level="j" type="abbrev">Journal of the American Statistical Association</title>
+		<idno type="ISSN">0162-1459</idno>
+		<idno type="ISSNe">1537-274X</idno>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="issue">484</biblScope>
+			<biblScope unit="page" from="1481" to="1495" />
+			<date type="published" when="2008-12-01">2008</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main" xml:id="_UAwEpJn">Tying Odysseus to the mast: Evidence from a commitment savings product in the Philippines</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Ashraf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Karlan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Yin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_7TqdCbA">The Quarterly Journal of Economics</title>
+		<imprint>
+			<biblScope unit="volume">121</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="635" to="672" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main" xml:id="_YEbp5ep">&quot;Efficient but Poor&quot; Revisited</title>
+		<author>
+			<persName><forename type="first">Richard</forename><surname>Ball</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Laurie</forename><surname>Pounder</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/452243</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_u5f9pgD">Economic Development and Cultural Change</title>
+		<title level="j" type="abbrev">Economic Development and Cultural Change</title>
+		<idno type="ISSN">0013-0079</idno>
+		<idno type="ISSNe">1539-2988</idno>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="735" to="760" />
+			<date type="published" when="1996-07">1996</date>
+			<publisher>University of Chicago Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main" xml:id="_hNJ3ErX">A multifaceted program causes lasting progress for the very poor: Evidence from six countries</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Goldberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Karlan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Osei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Parienté</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">.</forename><forename type="middle">.</forename><surname>Udry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_NBtdQ8x">Science</title>
+		<imprint>
+			<biblScope unit="volume">348</biblScope>
+			<biblScope unit="issue">6236</biblScope>
+			<biblScope unit="page">1260799</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main" xml:id="_eB4TK4H">Spending on Social Safety Nets</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Bank</surname></persName>
+		</author>
+		<idno type="DOI">10.1596/978-1-4648-1254-5_ch2</idno>
+		<ptr target="http://www.worldbank.org/en/topic/socialprotectionandjobs/publication/the-state-of-social-safety-nets-2018" />
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_ct8a2sG">The State of Social Safety Nets 2018</title>
+		<title level="s" xml:id="_ewTPYK4">World Bank Report</title>
+		<imprint>
+			<publisher>The World Bank</publisher>
+			<date type="published" when="2018-03-22">2018</date>
+			<biblScope unit="page" from="16" to="30" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main" xml:id="_9sEb5Xt">Curbing Leakage in Public Programs: Evidence from India’s Direct Benefit Transfer Policy</title>
+		<author>
+			<persName><forename type="first">Prabhat</forename><surname>Barnwal</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/aer.20161864</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_DRZjW8b">American Economic Review</title>
+		<title level="j" type="abbrev">American Economic Review</title>
+		<idno type="ISSN">0002-8282</idno>
+		<idno type="ISSNe">1944-7981</idno>
+		<imprint>
+			<biblScope unit="volume">114</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="3812" to="3846" />
+			<date type="published" when="2014">2014</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main" xml:id="_2Ymn49e">The Impact of Cash Transfers: A Review of the Evidence from Low- and Middle-income Countries</title>
+		<author>
+			<persName><forename type="first">Francesca</forename><surname>Bastagli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jessica</forename><surname>Hagen-Zanker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Luke</forename><surname>Harman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Valentina</forename><surname>Barca</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Georgina</forename><surname>Sturge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tanja</forename><surname>Schmidt</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/s0047279418000715</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_NtrAQ23">Journal of Social Policy</title>
+		<title level="j" type="abbrev">J. Soc. Pol.</title>
+		<idno type="ISSN">0047-2794</idno>
+		<idno type="ISSNe">1469-7823</idno>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">03</biblScope>
+			<biblScope unit="page" from="569" to="594" />
+			<date type="published" when="2016-07">2016, July</date>
+			<publisher>Cambridge University Press (CUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main" xml:id="_WKs9mCF">Poverty and Self-Control</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">Douglas</forename><surname>Bernheim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Debraj</forename><surname>Ray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Şevin</forename><surname>Yeltekin</surname></persName>
+		</author>
+		<idno type="DOI">10.3982/ecta11374</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_SkgM39G">Econometrica</title>
+		<title level="j" type="abbrev">Econometrica</title>
+		<idno type="ISSN">0012-9682</idno>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1877" to="1911" />
+			<date type="published" when="2015">2015</date>
+			<publisher>The Econometric Society</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main" xml:id="_eCHheEG">Eliciting and Utilizing Willingness to Pay: Evidence from Field Trials in Northern Ghana</title>
+		<author>
+			<persName><forename type="first">James</forename><surname>Berry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Greg</forename><surname>Fischer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Raymond</forename><surname>Guiteras</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/705374</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_pKzEPwb">Journal of Political Economy</title>
+		<title level="j" type="abbrev">Journal of Political Economy</title>
+		<idno type="ISSN">0022-3808</idno>
+		<idno type="ISSNe">1537-534X</idno>
+		<imprint>
+			<biblScope unit="volume">128</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1436" to="1473" />
+			<date type="published" when="2015-07">2015, July</date>
+			<publisher>University of Chicago Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main" xml:id="_WcXPgzM">A Behavioral-Economics View of Poverty</title>
+		<author>
+			<persName><forename type="first">Marianne</forename><surname>Bertrand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sendhil</forename><surname>Mullainathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eldar</forename><surname>Shafir</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/0002828041302019</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_5E2wJXa">American Economic Review</title>
+		<title level="j" type="abbrev">American Economic Review</title>
+		<idno type="ISSN">0002-8282</idno>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="419" to="423" />
+			<date type="published" when="2004-04-01">2004</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main" xml:id="_2gqQq6g">Generating Skilled Self-Employment in Developing Countries: Experimental Evidence from Uganda *</title>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Blattman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nathan</forename><surname>Fiala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sebastian</forename><surname>Martinez</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/qje/qjt057</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_kN7SzgX">The Quarterly Journal of Economics</title>
+		<idno type="ISSN">0033-5533</idno>
+		<idno type="ISSNe">1531-4650</idno>
+		<imprint>
+			<biblScope unit="volume">129</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="697" to="752" />
+			<date type="published" when="2013-12-15">2013</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main" xml:id="_8CKtPRv">Reducing Crime and Violence: Experimental Evidence from Cognitive Behavioral Therapy in Liberia</title>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Blattman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Julian</forename><forename type="middle">C</forename><surname>Jamison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Margaret</forename><surname>Sheridan</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/aer.20150503</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Zdt6ZAn">American Economic Review</title>
+		<title level="j" type="abbrev">American Economic Review</title>
+		<idno type="ISSN">0002-8282</idno>
+		<imprint>
+			<biblScope unit="volume">107</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1165" to="1206" />
+			<date type="published" when="2017-04-01">2017</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b13">
+	<monogr>
+		<title level="m" type="main" xml:id="_RtKRbwq">Taking Stock of the Evidence on Micro-Financial Interventions</title>
+		<author>
+			<persName><forename type="first">Francisco</forename><surname>Buera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Joseph</forename><surname>Kaboski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yongseok</forename><surname>Shin</surname></persName>
+		</author>
+		<idno type="DOI">10.3386/w22674</idno>
+		<imprint>
+			<date type="published" when="2016-09">2016</date>
+			<publisher>National Bureau of Economic Research</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main" xml:id="_3eH6pDj">Price Subsidies, Diagnostic Tests, and Targeting of Malaria Treatment: Evidence from a Randomized Controlled Trial</title>
+		<author>
+			<persName><forename type="first">Jessica</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pascaline</forename><surname>Dupas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Simone</forename><surname>Schaner</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/aer.20130267</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_CjDJ9nZ">American Economic Review</title>
+		<title level="j" type="abbrev">American Economic Review</title>
+		<idno type="ISSN">0002-8282</idno>
+		<imprint>
+			<biblScope unit="volume">105</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="609" to="645" />
+			<date type="published" when="2015-02-01">2015</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main" xml:id="_cFnMfuu">Testing Paternalism: Cash versus In-Kind Transfers</title>
+		<author>
+			<persName><forename type="first">Jesse</forename><forename type="middle">M</forename><surname>Cunha</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/app.6.2.195</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_bsAFtrp">American Economic Journal: Applied Economics</title>
+		<title level="j" type="abbrev">American Economic Journal: Applied Economics</title>
+		<idno type="ISSN">1945-7782</idno>
+		<idno type="ISSNe">1945-7790</idno>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="195" to="230" />
+			<date type="published" when="2014-04-01">2014</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b16">
+	<monogr>
+		<title level="m" type="main" xml:id="_QTaD5xH">Monitoring works: Getting teachers to come to school Technical report</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hanna</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<publisher>National Bureau of Economic Research</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main" xml:id="_fJEnfzp">Nudging Farmers to Use Fertilizer: Theory and Experimental Evidence from Kenya</title>
+		<author>
+			<persName><forename type="first">Esther</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Kremer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jonathan</forename><surname>Robinson</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/aer.101.6.2350</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_JTzkPk8">American Economic Review</title>
+		<title level="j" type="abbrev">American Economic Review</title>
+		<idno type="ISSN">0002-8282</idno>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="2350" to="2390" />
+			<date type="published" when="2011-10-01">2011</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b18">
+	<monogr>
+		<title level="m" type="main" xml:id="_9JPwfZa">Cash transfer programmes, poverty reduction and empowerment of women in South Africa</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Evans</surname></persName>
+		</author>
+		<idno type="DOI">10.1163/2210-7975_hrd-4022-2015065</idno>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>Walter de Gruyter GmbH</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main" xml:id="_nJMja9r">Cash transfers and temptation goods</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Evans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Popova</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_4BXk48z">Economic Development and Cultural Change</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="189" to="221" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b20">
+	<monogr>
+		<title level="m" type="main" xml:id="_AtJcDXH">When is capital enough to get female microenterprises growing? Evidence from a randomized experiment in Ghana</title>
+		<author>
+			<persName><forename type="first">Marcel</forename><surname>Fafchamps</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><surname>Mckenzie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Simon</forename><surname>Quinn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Woodruff</surname></persName>
+		</author>
+		<idno type="DOI">10.3386/w17207</idno>
+		<imprint>
+			<date type="published" when="2011-07">2011</date>
+			<publisher>National Bureau of Economic Research</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main" xml:id="_2nrFeqd">The Short-term Impact of Unconditional Cash Transfers to the Poor: Experimental Evidence from Kenya*</title>
+		<author>
+			<persName><forename type="first">Johannes</forename><surname>Haushofer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeremy</forename><surname>Shapiro</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/qje/qjw025</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_zEC53mr">The Quarterly Journal of Economics</title>
+		<idno type="ISSN">0033-5533</idno>
+		<idno type="ISSNe">1531-4650</idno>
+		<imprint>
+			<biblScope unit="volume">131</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1973" to="2042" />
+			<date type="published" when="2016-07-19">2016</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main" xml:id="_nVtSGVz">Cash, food, or vouchers? Evidence from a randomized experiment in northern Ecuador</title>
+		<author>
+			<persName><forename type="first">Melissa</forename><surname>Hidrobo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><surname>Hoddinott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Amber</forename><surname>Peterman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Amy</forename><surname>Margolies</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Vanessa</forename><surname>Moreira</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jdeveco.2013.11.009</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_gdmhHSX">Journal of Development Economics</title>
+		<title level="j" type="abbrev">Journal of Development Economics</title>
+		<idno type="ISSN">0304-3878</idno>
+		<imprint>
+			<biblScope unit="volume">107</biblScope>
+			<biblScope unit="page" from="144" to="156" />
+			<date type="published" when="2014-03">2014</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main" xml:id="_P2gYrhJ">Cash, food, or vouchers? Evidence from a randomized experiment in northern Ecuador</title>
+		<author>
+			<persName><forename type="first">Melissa</forename><surname>Hidrobo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><surname>Hoddinott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Amber</forename><surname>Peterman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Amy</forename><surname>Margolies</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Vanessa</forename><surname>Moreira</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jdeveco.2013.11.009</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_svgjbMz">Journal of Development Economics</title>
+		<title level="j" type="abbrev">Journal of Development Economics</title>
+		<idno type="ISSN">0304-3878</idno>
+		<imprint>
+			<biblScope unit="volume">107</biblScope>
+			<biblScope unit="page" from="144" to="156" />
+			<date type="published" when="2014-03">2014</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b24">
+	<analytic>
+		<title level="a" type="main" xml:id="_7Sa6Fxt">Multi-Unit Open Ascending Price Efficient Auction</title>
+		<author>
+			<persName><forename type="first">Sergei</forename><surname>Izmalkov</surname></persName>
+		</author>
+		<idno type="DOI">10.2139/ssrn.556242</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_wDBkMqA">SSRN Electronic Journal</title>
+		<title level="j" type="abbrev">SSRN Journal</title>
+		<idno type="ISSNe">1556-5068</idno>
+		<imprint>
+			<date type="published" when="2004">2004. 2004</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b25">
+	<analytic>
+		<title level="a" type="main" xml:id="_CnNPw29">Private information and the allocation of land use subsidies in Malawi</title>
+		<author>
+			<persName><forename type="first">Fondazione</forename><surname>Eni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Enrico</forename><forename type="middle">Mattei</forename><surname>Jack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">K</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_MQuAwAt">American Economic Journal: Applied Economics</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="113" to="135" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b26">
+	<monogr>
+		<title level="m" type="main" xml:id="_XTCMQgM">Validity and reliability</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Jang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shapiro</surname></persName>
+		</author>
+		<idno type="DOI">10.4337/9781781009727.00020</idno>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<publisher>Edward Elgar Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b27">
+	<monogr>
+		<title level="m" type="main" xml:id="_DTga6KR">Pricing people into the market: Targeting through mechanism design</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">R</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lipscomb</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b28">
+	<analytic>
+		<title level="a" type="main" xml:id="_8wwAPzA">Targeting Technology to Increase Smallholder Profits and Conserve Resources: Experimental Provision of Laser Land-Leveling Services to Indian Farmers</title>
+		<author>
+			<persName><forename type="first">Travis</forename><forename type="middle">J</forename><surname>Lybbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nicholas</forename><surname>Magnan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">J</forename><surname>Spielman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anil</forename><forename type="middle">K</forename><surname>Bhargava</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kajal</forename><surname>Gulati</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/695284</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_aDTxQqH">Economic Development and Cultural Change</title>
+		<title level="j" type="abbrev">Economic Development and Cultural Change</title>
+		<idno type="ISSN">0013-0079</idno>
+		<idno type="ISSNe">1539-2988</idno>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="265" to="306" />
+			<date type="published" when="2018-01">2018</date>
+			<publisher>University of Chicago Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b29">
+	<analytic>
+		<title level="a" type="main" xml:id="_2S2RRPx">Poverty impedes cognitive function</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mullainathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Shafir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zhao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_XKUru39">Science</title>
+		<imprint>
+			<biblScope unit="volume">341</biblScope>
+			<biblScope unit="issue">6149</biblScope>
+			<biblScope unit="page" from="976" to="980" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b30">
+	<monogr>
+		<title level="m" type="main" xml:id="_ZZtgB6b">Fuel subsidy reform in developing countries: Direct benefit transfer of LPG cooking gas subsidy in India</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Mittal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mukherjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gelb</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b31">
+	<analytic>
+		<title level="a" type="main" xml:id="_cpjyYWa">Transforming Economics: Theodore W. Schultz, 1902-1998 in Memoriam</title>
+		<author>
+			<persName><forename type="first">Marc</forename><surname>Nerlove</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/1468-0297.00482</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_KWPsvnE">The Economic Journal</title>
+		<title level="j" type="abbrev">Economic Journal</title>
+		<idno type="ISSN">0013-0133</idno>
+		<idno type="ISSNe">1468-0297</idno>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="issue">459</biblScope>
+			<biblScope unit="page" from="726" to="748" />
+			<date type="published" when="1999-11">1999</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b32">
+	<analytic>
+		<title level="a" type="main" xml:id="_GxFJYHx">Farm Size, Modern Technology Adoption, and Efficiency of Small Holdings in Developing Countries: Evidence from Kenya</title>
+		<author>
+			<persName><forename type="first">Dickson</forename><forename type="middle">M</forename><surname>Nyariki</surname></persName>
+		</author>
+		<idno type="DOI">10.1353/jda.2011.0016</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_CqVTK7s">The Journal of Developing Areas</title>
+		<title level="j" type="abbrev">jda</title>
+		<idno type="ISSNe">1548-2278</idno>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="35" to="52" />
+			<date type="published" when="2011-09">2011</date>
+			<publisher>Project MUSE</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b33">
+	<analytic>
+		<title level="a" type="main" xml:id="_9ZQT2uj">Transforming traditional agriculture</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">W</forename><surname>Schultz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_tMcsyEy">Transforming Traditional Agriculture</title>
+		<imprint>
+			<date type="published" when="1964">1964</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b34">
+	<analytic>
+		<title level="a" type="main" xml:id="_sMkGbdS">Efficiency differentials in peasant agriculture and their implications for development policies</title>
+		<author>
+			<persName><forename type="first">Kenneth</forename><forename type="middle">H</forename><surname>Shapiro</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00220388308421857</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_ayEp2kZ">The Journal of Development Studies</title>
+		<title level="j" type="abbrev">The Journal of Development Studies</title>
+		<idno type="ISSN">0022-0388</idno>
+		<idno type="ISSNe">1743-9140</idno>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="179" to="190" />
+			<date type="published" when="1983-01">1983</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b35">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shapiro</surname></persName>
+		</author>
+		<ptr target="http://jeremypshapiro.com/papers/Benchmarking_Aid_Preferences_201710101.pdf" />
+		<title level="m" xml:id="_YDf72jG">Benchmarking development programs: A preference-based approach</title>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Mimeo</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b36">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sulaiman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Goldberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Karlan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>De Montesquiou</surname></persName>
+		</author>
+		<ptr target="https://www.cgap.org/sites/default/files/Forum-Eliminating-Extreme-Poverty-Dec-2016.pdf" />
+		<title level="m" xml:id="_TK7wSKV">Eliminating extreme poverty: Comparing the cost-effectiveness of livelihood, cash transfer, and graduation approaches</title>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b37">
+	<analytic>
+		<title level="a" type="main" xml:id="_UW24wge">A critical review and re-assessment of theories of smallholder decision-making: A case of conservation agriculture households, Zambia</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">B</forename><surname>Umar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_vuUsevw">Renewable Agriculture and Food Systems</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="277" to="290" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

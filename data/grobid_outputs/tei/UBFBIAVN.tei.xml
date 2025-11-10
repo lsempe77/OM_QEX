@@ -1,0 +1,1228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" xml:id="_67BP3cx">Can Integrated Social Protection Programmes Affect Social Cohesion? Mixed-Methods Evidence from Malawi</title>
+				<funder>
+					<orgName type="full">Projekt DEAL</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Springer Science and Business Media LLC</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2017-12">c Dec 2017 Dec 2017</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Francesco</forename><surname>Burchi</surname></persName>
+							<email>francesco.burchi@die-gdi.de</email>
+							<idno type="ORCID">0000-0003-2095-5181</idno>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Research Programme &quot;Transformation of Economic and Social Systems&quot;</orgName>
+								<orgName type="institution">German Development Institute (DIE)</orgName>
+								<address>
+									<settlement>Bonn</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Federico</forename><surname>Roscioli</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">Roma Tre University</orgName>
+								<address>
+									<settlement>Rome</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">University of Florence</orgName>
+								<address>
+									<settlement>Florence</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main" xml:id="_JM563aq">Can Integrated Social Protection Programmes Affect Social Cohesion? Mixed-Methods Evidence from Malawi</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main" xml:id="_ReJ3Tnh">The European Journal of Development Research</title>
+						<title level="j" type="abbrev">Eur J Dev Res</title>
+						<idno type="ISSN">0957-8811</idno>
+						<idno type="eISSN">1743-9728</idno>
+						<imprint>
+							<publisher>Springer Science and Business Media LLC</publisher>
+							<biblScope unit="volume">34</biblScope>
+							<biblScope unit="issue">3</biblScope>
+							<biblScope unit="page" from="1240" to="1263"/>
+							<date type="published" when="2017-12">c Dec 2017 Dec 2017</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">2B32B0C7C6BD3136D63D7D8C359E14B3</idno>
+					<idno type="DOI">10.1057/s41287-022-00535-z</idno>
+					<note type="submission">Accepted: 21 March 2022 / Last meeting July 2019 Dec 2017 Apr 2017 Jan 2019 Dec 2017 Dec 2017 Dec 2017 b May 2018 No Dec 2017</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2025-11-05T00:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a292bac</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=1, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=true, generateTeiCoordinates=[true], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term xml:id="_YDWy9nY">Social protection</term>
+					<term xml:id="_BDC4X5W">Social cohesion</term>
+					<term xml:id="_4YjNewf">Graduation programmes</term>
+					<term xml:id="_GxpB8DB">Mixed methods</term>
+					<term xml:id="_AF7AU8R">Malawi</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_cj7ZDPb"><p xml:id="_vZC6ew9">Through a sequential mixed-methods approach, the paper investigates the effects of the different components of the Tingathe Economic Empowerment Programme (TEEP) on social cohesion in Malawi. The TEEP is an integrated social protection scheme offering to three different groups these services: a lump-sum transfer, a financial/business training connected to the creation of saving groups, and a combination of both. While other studies assessed the impacts of similar programmes on other outcomes, none focussed on social cohesion. The econometric analysis shows no concrete effect of the lump-sum, while both training and participation in savings groups affect within-group trust and cooperation. The qualitative analysis reveals a decline in trust towards local institutions and other village members; however, this was not related to the TEEP but to the social cash transfer (SCT) on whose infrastructure the TEEP rests. Other village members considered unfair that the beneficiaries received the SCT and this caused tensions.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="439.37" lry="666.142"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="439.37" lry="666.142"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="439.37" lry="666.142"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="439.37" lry="666.142"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="439.37" lry="666.142"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="439.37" lry="666.142"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="439.37" lry="666.142"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="439.37" lry="666.142"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="439.37" lry="666.142"/>
+		<surface n="10" ulx="0.0" uly="0.0" lrx="439.37" lry="666.142"/>
+		<surface n="11" ulx="0.0" uly="0.0" lrx="439.37" lry="666.142"/>
+		<surface n="12" ulx="0.0" uly="0.0" lrx="439.37" lry="666.142"/>
+		<surface n="13" ulx="0.0" uly="0.0" lrx="439.37" lry="666.142"/>
+		<surface n="14" ulx="0.0" uly="0.0" lrx="439.37" lry="666.142"/>
+		<surface n="15" ulx="0.0" uly="0.0" lrx="439.37" lry="666.142"/>
+		<surface n="16" ulx="0.0" uly="0.0" lrx="439.37" lry="666.142"/>
+		<surface n="17" ulx="0.0" uly="0.0" lrx="439.37" lry="666.142"/>
+		<surface n="18" ulx="0.0" uly="0.0" lrx="439.37" lry="666.142"/>
+		<surface n="19" ulx="0.0" uly="0.0" lrx="439.37" lry="666.142"/>
+		<surface n="20" ulx="0.0" uly="0.0" lrx="439.37" lry="666.142"/>
+		<surface n="21" ulx="0.0" uly="0.0" lrx="439.37" lry="666.142"/>
+		<surface n="22" ulx="0.0" uly="0.0" lrx="439.37" lry="666.142"/>
+		<surface n="23" ulx="0.0" uly="0.0" lrx="439.37" lry="666.142"/>
+		<surface n="24" ulx="0.0" uly="0.0" lrx="439.37" lry="666.142"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_TpnRXJX">Résumé</head><p xml:id="_rrR4STv">Grâce à une approche séquentielle à méthodes mixtes, l'article étudie les effets des différentes composantes du programme d'autonomisation économique de Tingathe (TEEP) sur la cohésion sociale au Malawi. Le programme TEEP propose un régime intégré de protection sociale offrant à trois groupes distincts les services suivants : le transfert d'une somme forfaitaire, une formation financière/commerciale liée à la création de groupes d'épargne, et une combinaison de ces deux services. Alors que</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_eMz6N3B">Introduction</head><p xml:id="_xcHBH4M">The primary objective of social protection is to reduce poverty and vulnerability <ref type="bibr">(OECD 2009)</ref>. <ref type="foot" target="#foot_0">1</ref> However, it has been increasingly argued that it can generate important effects on other societal outcomes. This paper contributes to this (limited) literature, focussing on social cohesion.</p><p xml:id="_ummss6B">Social cohesion is a complex, multi-faceted concept and there is not much agreement on its meaning <ref type="bibr" target="#b10">(Burchi et al. 2022;</ref><ref type="bibr" target="#b32">Schiefer and van der Noll 2017)</ref>. In this paper, we endorse the following definition provided by <ref type="bibr" target="#b23">Leininger et al. (2021)</ref>: "social cohesion refers to both the vertical and the horizontal relations among members of society and the state as characterised by a set of attitudes and norms that includes trust, an inclusive identity and cooperation for the common good". It identifies three key attributes of social cohesion: trust, inclusive identity and cooperation, each of them analysed in a horizontal dimension-relationship between individuals or groups-and a vertical dimension-relationship between individuals/groups and public institutions.</p><p xml:id="_aQRJ9wy">The definition makes reference to both trust among people outside their close circle (horizontal dimension) and trust towards public institutions (vertical dimension) <ref type="bibr" target="#b26">(Mattes and Moreno 2018)</ref>. For a society to be considered cohesive, then, people should feel part of a broader entity (the nation) that bridges different identities (inclusive identity). The third attribute is cooperation: a manifestation of high levels of social cohesion is that many people/groups cooperate for non-individualistic reasons.</p><p xml:id="_6s4BzBb">Social protection programmes have the potential to improve social cohesion, conceived this way, through different channels <ref type="bibr" target="#b29">(Pavanello et al. 2016)</ref>. By increasing their employment opportunities, access to income or access to social services previously closed to them, disadvantaged groups may experience a greater sense of belonging in society and improved interactions with other groups. The design and implementation of these programmes is, therefore, crucial. Lack of transparency in the targeting of the beneficiaries, for example, can create feeling of unfairness and resentment, and generate conflicts between those who were finally selected and those who were excluded but perceived to be in similar conditions <ref type="bibr" target="#b0">(Adato and Roopnaraine 2004;</ref><ref type="bibr" target="#b28">Molyneux et al. 2016)</ref>. Specifically, cash benefits targeted to the poor can increase stigma and thus reduce social inclusion and social cohesion when not conscientiously designed <ref type="bibr" target="#b24">(Li and Walker 2017;</ref><ref type="bibr" target="#b30">Roelen 2020)</ref>.</p><p xml:id="_MbXmzv2">There are also important arguments supporting the premises that social protection may affect the vertical dimension of social cohesion. When governments play a key role in the financing and/or management of the programme, beneficiaries can take that as a signal that the state cares about their interests <ref type="bibr" target="#b11">(Burchi et al. 2020)</ref>, and thus trust more public institutions <ref type="bibr" target="#b15">(Evans et al. 2019;</ref><ref type="bibr" target="#b20">Hunter and Sugiyama 2014)</ref>. However, citizens often have scarce information about who is actually financing and/or implementing a social protection scheme. Consequently, there is the possibility that an effective programme characterised by high national ownership would not lead to an increase in trust towards the state if the beneficiaries were unable to associate the programme with the real implementer; similarly, there could be an increase in vertical trust if the government were to get credit for a programme in which it played no role <ref type="bibr" target="#b25">(Loewe et al. 2020)</ref>. If the programmes were ineffective, non-transparent or clearly politicised, the inverse of these considerations would apply.</p><p xml:id="_6nTyJFs">In general, the empirical evidence is limited and refers mostly to the horizontal dimension. Here, we refer predominantly to "development" contexts rather emergency/humanitarian settings. Some studies in Sub-Saharan Africa point to the positive contribution of cash transfers to the strengthening of social relationships <ref type="bibr">(FAO 2014)</ref>. Using an experimental design, <ref type="bibr" target="#b3">Attanasio et al. (2015)</ref> find that a conditional cash transfer in Colombia significantly increased beneficiaries' willingness to cooperate for altruistic reasons and that these benefits remained over time. Evidence from countries in different world regions shows how inadequately designed schemes, in which the targeting of beneficiaries is not clear, non-transparent or simply not properly communicated, generate tensions between selected and non-selected households, leading to a deterioration of social cohesion <ref type="bibr" target="#b0">(Adato and Roopnaraine 2004;</ref><ref type="bibr" target="#b29">Pavanello et al. 2016)</ref>.</p><p xml:id="_rPZGgGG">Moving to the evidence concerning vertical relationships, <ref type="bibr" target="#b15">Evans et al. (2019)</ref> find that a conditional cash transfer in Tanzania significantly increased trust in local leaders and willingness to participate in community projects, especially where beneficiaries were better informed about the central role played by the local government. <ref type="bibr" target="#b13">Camacho (2014)</ref> shows that Juntos, a conditional cash transfer in Peru, had no effects on social engagement, but positive and significant effects on trust in those institutions eligible households were supposed to engage with to satisfy the conditionalities. A few cases of overall negative effects of social protection programmes on societal perceptions of government were reported in the literature <ref type="bibr" target="#b4">(Aytaç 2014;</ref><ref type="bibr" target="#b7">Bruhn 1996;</ref><ref type="bibr" target="#b19">Guo 2009)</ref>.</p><p xml:id="_XrPTzwE">Thus, the studies are limited, and the evidence so far is mixed. One of the points emerging from both the theoretical and empirical literature is that a single social protection scheme alone is unlikely to accomplish broader objectives, such as social cohesion. Social protection schemes coordinated in a systemic way or integrated, multi-component interventions may provide larger benefits. This statement is, however, based on theoretical considerations: while there are empirical studies assessing the impacts of this kind of interventions on traditional outcomes, such as poverty and food security (e.g. <ref type="bibr" target="#b5">Blattman et al. 2016;</ref><ref type="bibr" target="#b18">Gobin et al. 2018)</ref>, to the best of our knowledge, none of them focuses on social cohesion.</p><p xml:id="_eKADkmw">This paper contributes to filling the research gap by analysing the specific effects of the different measures of an integrated social protection programme in Malawi on social cohesion. <ref type="foot" target="#foot_2">2</ref> The project that is examined is the Tingathe Economic Empowerment Project (TEEP), which was designed and implemented by the Government of Malawi in cooperation with the German Corporation for International Cooperation (GIZ) in the Malawian district of Mwanza. It aimed at providing households in extreme poverty with the means to exit poverty. To one group of beneficiaries, it offered business capital, to a second group, it offered financial and business training, and to a third group it offered a combination of both. The training was intended to incentivise participation in the village savings and loans (VSL) groups, which were generated through the project. These types of programmes are often categorised as "social protection plus", "cash plus" or "graduation programmes" as they combine elements of social protection-a monetary transfer and some forms of trainingwith additional services-the creation of VSL groups-which have a more economic orientation. The underlying idea is that this combination of activities may improve the effectiveness of traditional social protection measures and ensure a sustainable exit of the beneficiaries out of poverty <ref type="bibr" target="#b31">(Roelen et al. 2017;</ref><ref type="bibr" target="#b14">Chakrabarti et al. 2020)</ref>.</p><p xml:id="_UCQuvJF">While one study <ref type="bibr" target="#b12">(Burchi and Strupat 2018)</ref> evaluated the effects of the TEEP on outcomes, such as access to loans, consumption and engagement in economic activities, none looked at the impacts on social cohesion. This is also because, as for all the interventions reviewed earlier, promoting social cohesion was not an explicit primary objective of the project.</p><p xml:id="_EYwYFR2">To examine the impacts of the TEEP on social cohesion, we use a two-step mixed-methods approach. First, we exploit the random allocation of the different project components to households located in different village clusters to assess their specific impacts on indicators of social cohesion. As the TEEP took place on top of the existing social cash transfer (SCT), we use data from the SCT targeting registry as baseline and primary data collected in summer 2017 as endline. This quantitative assessment highlights the importance of the training and hints at the value added of participation in the VSL groups.</p><p xml:id="_NtXspTd">Given the findings of the quantitative analysis, in a second step, we conducted a qualitative analysis to dig into the dynamics of these groups and their contribution to social cohesion. Our qualitative analysis of the TEEP highlights that horizontal cohesion among members was indeed strengthened by VSL group activities, while horizontal trust among a wider spectrum of people and vertical cohesion were often deteriorated.</p><p xml:id="_ASu68Xz">The paper is structured as follows. "The Tingathe Economic Empowerment Project" section presents the main features of the TEEP and the theory of change. "Quantitative Analysis" section describes the methods and results of the quantitative analysis. "Qualitative analysis" section concentrates on the qualitative analysis. Finally, conclusions and policy recommendations are provided in "Findings" section.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_8qrqcfk">The Tingathe Economic Empowerment Project</head><p xml:id="_sg9XuJe">This paper analyses the TEEP, an integrated social protection programme that was implemented in 2016 by the Government of Malawi with the technical assistance of GIZ in the Malawian district of Mwanza. All beneficiaries of the TEEP were already benefitting from the nation-wide SCT programme: households living in extreme poverty and with strong labour impediments. Though these programmes did not explicitly target women, due to these eligibility criteria, about 80% of the beneficiary households were female-headed households. While the SCT provided them with a bimonthly payment of between USD 4 and USD 13, the TEEP provided a larger set of benefits, which varied depending on the village cluster in which they lived. The TEEP reached six of the 20 village clusters of Mwanza and provided<ref type="foot" target="#foot_3">foot_3</ref> : (a) a one-time lump-sum payment equivalent to USD 70 to households in two village clusters; (b) a financial and business training to households in two village clusters; and (c) both the lump-sum and the training to households in two village clusters.</p><p xml:id="_GSEM8zA">The design of the project is based on the idea that poverty is mostly due to a lack of capital for investments and poor information/knowledge. Though the households were free to decide how to use the money, the expectation was that they would use the lump-sum to make productive investments to start or expand a micro-business activity. On the other hand, the training-provided by the local cooperative Malawian Community Savings and Investment Promotion (COMSIP)-was meant to lead to the creation of VSL groups: the first phase of the training consisted of group formation and the second phase focussed mainly on saving behaviours. Here, the underlying idea was that, by pooling risks, people could gain access to loans to which they were previously excluded in the formal banking sector. By saving and having access to loans, people could smooth their consumption and better deal with shocks. The project aimed to place beneficiaries on a trajectory to exit poverty by enabling them to engage in a stable micro-business and improving their financial knowledge and practices.</p><p xml:id="_GhzjXwQ">The project's theory of change, as highlighted in the preceding paragraphs, did not focus on social cohesion. However, we do argue that this type of intervention can have an impact on different attributes of social cohesion. Figure <ref type="figure" target="#fig_0">1</ref> shows a simplified illustration of the channels through which the TEEP could have affected</p><p xml:id="_pbQzNCj">TEEP SCT Training Village Cluster 1 Village Cluster 2 Village Cluster 3 Village Cluster 4 Village Cluster 5 Village Cluster 6 Village Clusters 7 to 20 Productive investments Active participation in the VSL Increased resilience toward exogenous shocks Micro-business expansion Outputs of TEEP Expected outcomes of TEEP Expected social cohesion outcomes Financial literacy Targeted population Activities Program Identity Trust Cooperation Creation of the VSL Lump sum social cohesion. TEEP targeting and activities are depicted from left to right in Fig. 1. TEEP outputs are on the centre-right side of the figure, and the expected social cohesion outcomes are on the right.<ref type="foot" target="#foot_4">foot_4</ref> </p><p xml:id="_2BkUU9g">The channels indicated in the diagram were identified mostly based on the literature reviewed in "Introduction" section. For example, the lump-sum received could allow the beneficiaries to invest in an economic activity, and thus being further integrated into the community. Like for any monetary transfer, this can also worsen especially trust and cooperation, if the targeting is not transparent or if its criteria are not adequately communicated. We then expect the interactions generated through participation in the training sessions and in the activities of the VSL groups to strengthen the identity of members of these groups, as well as trust and cooperation among themselves <ref type="bibr" target="#b17">(Gash 2017;</ref><ref type="bibr" target="#b38">Waller 2014;</ref><ref type="bibr" target="#b37">Vanmeenen 2010)</ref>: whether this affects-positively or negatively-the relationship with other members of the community is difficult to predict. Having access to all the three services could retrieve the higher outcome given its potential additive effect.</p><p xml:id="_u5Xtp47">Clearly, the vertical dimension of social cohesion may be affected, too. A positive perception of the different components of the TEEP may improve trust in national and local government-as long as they are aware of their involvement in the management of the programme-and more generally may ensure a more fruitful interaction with the various institutions involved in the area (village, district and region).</p><p xml:id="_Mgswjqn">It is important to stress once more that for the six TEEP-recipient clusters, the targeting of the TEEP was the same as that of the SCT: in other words, in these clusters, all the participants in the TEEP received the SCT, too. The opposite is not necessarily the case; in particular, SCT beneficiaries who were offered participation in the VSL groups may have declined. While the creation of the VSL groups is a project input (thus, exogenous), whether to participate in a VSL group-though incentivised-was ultimately a decision left to the targeted person (thus, participation is partially endogenous).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_N2yKB4Q">Quantitative Analysis</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_dBeyuhJ">Methodology</head><p xml:id="_rmDD9SY">The clusters that benefited from the different components of the TEEP were selected randomly; within these clusters, all those households that were already receiving the SCT were eligible for the TEEP. Given this setting, the quantitative assessment exploits an experimental design. The registry used by the SCT for the targeting of its beneficiaries was used as baseline. Then, an extensive household survey was conducted in June-July 2017, about 12-13 months after the disbursement of the lumpsum. As a sampling strategy, 50% of SCT households were randomly selected in each of the six "treated" clusters; 25% of SCT households were, instead, randomly selected in each of the remaining 14 clusters of Mwanza, which formed the control group. To increase the power of the study, 10 clusters from the neighbouring district of Neno were also included in the control group; 25% of those SCT households were also interviewed. In total, about 85 households belonged to each treatment arm and 530 belonged to the control group. 5 Previous research focussing on the same sample of households shows that there are no systematic differences between the treatment groups and the control group over several variables measured at the baseline, thus pointing to the effectiveness of the randomisation <ref type="bibr" target="#b12">(Burchi and Strupat 2018)</ref>.</p><p xml:id="_jyZwvR7">While <ref type="bibr" target="#b12">Burchi and Strupat (2018)</ref> looked at the impacts of the different project components on several variables, the present study concentrates on outcomes related to social cohesion. The questionnaire indeed includes four questions in this area. The first asked interviewees to indicate to what extent they agreed with the following statement: "Most people in this village/neighbourhood are basically honest and can be trusted". Answers ranged from "strongly disagree" (coded "1") to "strongly agree" (coded "4"). The second question asked respondents whether at the time of the survey they trusted people in their village "less", "about the same" or "more" than they had 1 year earlier (before implementation of the TEEP). The third question asked interviewees to indicate to what extent they agreed with the following sentence: "If I have a problem, there is always someone to help me". Like for the first question, answers ranged from "strongly disagree" ("1") to "strongly agree" ("4"). The fourth question asked, "Do the majority of people in this village generally have good relationships with each other?". Pre-coded answers were "no" ("0"), "sometimes" ("1") and "yes" ("2").</p><p xml:id="_HzEmxmT">The first two questions capture the attribute "trust" in the social cohesion definition provided in "Introduction" section, while the third and fourth capture the attribute "cooperation". No direct question was posed with regard to the attribute "inclusive identity". <ref type="foot" target="#foot_5">6</ref> Moreover, all these attributes are analysed exclusively in the horizontal dimension. Thus, we cannot assess impacts on all the social cohesion outcomes illustrated in Fig. <ref type="figure" target="#fig_0">1</ref>.</p><p xml:id="_8Z4P995">Four outcome variables were initially generated from the above questions as ordinal variables. In addition, for the two questions with four potential answers, we created dummy variables, taking value "1" if the respondent answered "agree" or "strongly agree" and value "0" otherwise. Table <ref type="table" target="#tab_0">1</ref> shows the descriptive statistics for the four groups. The highest mean values are found either in the training-only group or in the lump-sum plus training group, while the lowest mean value is always found either in the control group or in the lump-sum-only group.</p><p xml:id="_edbWBHk">To assess the impacts of the different components of the TEEP on the above dependent variables, we employ the econometric strategy used in <ref type="bibr" target="#b12">Burchi and Strupat (2018)</ref>. Despite the randomisation, we control for household-and beneficiary-level variables measured at the baseline. The first group includes number of children in primary school, number of able-bodied household members, housing conditions, asset wealth index and changes in household size between baseline and endline. The second group includes age, sex, marital status, school attendance, whether they have a chronic illness or a disability.</p><p xml:id="_vUAjMkK">The model includes three dummy variables indicating whether the household lives in the cluster that received only the lump-sum payment, in the cluster that received only the training or in the cluster that received both. The coefficients of these variables indicate the impacts of the different interventions. We estimate the intention-to-treat effects, that is, the effect of an offer to participate in the training, as the participation in the training is voluntary. Equation (1) represents the model estimated where SC ihc indicates the social cohesion outcome of interest derived from the end- line survey for respondent i of household h residing in cluster c; LT c , L c , and T c are binary variables that indicate whether the cluster c received both the lump-sum payment and the training, only the lump-sum payment or only the training, respectively. X ihc represents the set of individual and household characteristics from the base- line survey described above, and ihc is the standard error term. As we include all three indicators of the treatment arms, the coefficients of interest are 1 , 2 , and 3 , which indicate the impact of the respective treatment arm compared with the control group. Given the ordinal nature of the dependent variables, we used Poisson regressions, except for the two binary dependent variables where we used logit regressions. Since the randomisation took place at the village cluster level, the estimates include standard errors clustered at the village cluster level.</p><p xml:id="_MMgZFF5">(1) Though we only have few outcomes (four original variables) and all refer to the same construct (social cohesion), we decided to conduct a robustness analysis using the multiple hypothesis correction given that we are testing several hypotheses simultaneously. Specifically, in addition to the standard p values, we computed <ref type="bibr" target="#b1">Anderson' (2008)</ref> sharpened false discovery rate (FDR) q-values. <ref type="bibr" target="#b12">Burchi and Strupat (2018)</ref> find that the different components of the TEEP had a positive impact on several dependent variables. In particular, they find that the addition of the financial and business training to the lump-sum payments generated important benefits in terms of investment in productive activities, employment opportunities, livestock ownership, food and overall consumption. On the other hand, lumpsum payments alone did not seem to generate significant improvements. Finally, the financial and business training-with or without the lump-sum-played a crucial role in increasing financial literacy, promoting savings and accessing loans.</p><formula xml:id="formula_0">SC ihc = LT c 1 + L c 2 + T c 3 + X ihc + ihc ,</formula></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_8MXExYx">Findings</head><p xml:id="_tX3vYC5">Clearly, a general improvement in the wellbeing of the beneficiaries could improve social relationships among themselves as well as between them and the other village members. Moreover, if they perceived that the national and local institutions played a key role in the design and implementation of the TEEP, this could also improve their feeling of belonging to, and their willingness to cooperate with, the state. However, these effects are not straightforward. In particular, the different components may have different effects on social cohesion. Here, we directly examine their impacts on the social cohesion indicators illustrated in "Methodology" section (Table <ref type="table">2</ref>).</p><p xml:id="_EmhsEd3">Some results are striking. Regardless of the specific indicators considered, households that received only the training experienced significantly higher social cohesion than households in the control group, whereas the differences between households receiving the lump-sum and those in the control group were never statistically significant. Finally, the group that received both interventions showed significantly higher trust towards village members than the control group (Table <ref type="table">2</ref>, column 1); however, when the same dependent variable is dichotomised, the effect is no longer significant.</p><p xml:id="_b33KzMC">One possible interpretation is that the lump-sum, on the one hand, may improve social cohesion by ensuring productive inclusion and general wellbeing of the beneficiaries, but on the other hand, being a cash benefit, it may increase stigma and, thus, reduce social cohesion <ref type="bibr" target="#b24">(Li and Walker 2017;</ref><ref type="bibr" target="#b30">Roelen 2020)</ref>. This could explain the insignificant effects for the lump-sum-only group. The training and participation in the VSL groups, instead, are a different form of intervention in which people have to participate actively, thus, it may improve the social status of the beneficiary-in addition to their financial and business knowledge and capacity-and, along these lines, improve social cohesion. Another possible interpretation is that, since training recipients are usually members of VSL groups, they had VSL group members mostly in mind when they answered these questions. Indeed, the literature shows</p><p xml:id="_52ETuqX">Table 2 estimates of the impact of project components on social cohesion ***P &lt; 0.01, **P &lt; 0.05, *P &lt; 0.1 (1) (2) (3) (4) (5) (6) Most village members can be trusted Most village members can be trusted (no/yes) Change in trust towards village members Receives help when has a problem Receives help when has a problem (no/ yes) Majority village members have good relationships Lump-sum plus Training Coeff. 0.268 0.118 -0.004 0.122 0.045 0.120 P value 0.017** 0.119 0.974 0.509 0.589 0.407 Q value 0.038** 0.179 0.974 0.764 0.710 0.535 Lump-sum-only Coeff. 0.098 -0.019 -0.050 0.041 -0.023 -0.059 P value 0.523 0.656 0.586 0.818 0.710 0.535 Q value 0.523 0.656 0.879 0.818 0.710 0.535 Training-only Coeff. 0.150 0.138 0.131 0.180 0.201 0.175 P value 0.025** 0.023** 0.007*** 0.004*** 0.000*** 0.000*** Q value 0.038** 0.069** 0.021** 0.012** 0.000*** 0.000*** Control variables Yes Yes Yes Yes Yes Yes Observations 786 786 786 786 786 786</p><p xml:id="_DY8DR6h">that in the specific cases of the questions related to trust, respondents usually have in mind "people outside one's familiar or kinship circles" <ref type="bibr" target="#b26">(Mattes and Moreno 2018)</ref>.</p><p xml:id="_zksjazS">The interpretation of the estimates for the lump-sum plus training group is more complex. Coefficients are positive for five of the six outcomes and always higher than those for the lump-sum-only group, but significant only for the first trust variable. In general, it seems that the positive effect of this combination of interventions on possible drivers of social cohesion <ref type="bibr" target="#b12">(Burchi and Strupat 2018)</ref> and the direct positive contribution of participation in training/VSL groups on the social cohesion outcomes is largely offset by the mild negative direct effect of the lump-sum transfer on the same outcomes (through increase of stigma).</p><p xml:id="_j6bgUge">With the introduction of the multiple hypothesis correction, the results remain largely unchanged: only the effect of the training-only component on outcomes 2-4 is now significant at one lower significance level. Then, to better understand the results above and verify the validity of our initial interpretations, we explored the contribution of the VSL groups and checked whether it was mostly the participation in these structured groups that triggered the above results. In other words, we tried to disentangle the effect of the training from that of the participation in VSL groups. We did so by re-running the same regressions as in Table <ref type="table">2</ref>, but for the training participants, we focussed only on those that joined the VSL groups within 1 year from their creation. We are, however, aware that participation in these groups may be endogenous. By adding all the control variables at the baseline, we alleviate that problem, but the results should nevertheless be treated with caution and be considered only as indicative of the role of VSL groups.</p><p xml:id="_BsUkbK8">The results on these sub-groups are presented in Table <ref type="table" target="#tab_1">3</ref>. Comparing them with the previous results, we notice that for the training-only group, the coefficients are always higher and in the case of the first two variables related to trust the impacts are now significant at the 1% level and no longer only at the 5% level. For the lumpsum plus training group, we notice an increase in the magnitude and significance of the effect on the first trust variable; moreover, the effect on the dichotomised variable is now statistically significant (at the 5% level).</p><p xml:id="_rTzvPyA">All these results point to a clear positive role of the VSL groups on social cohesion. In order to better comprehend the dynamics within these groups and their specific contribution to the different attributes of social cohesion, we carried out a qualitative analysis, which will be presented in the next section.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_NDBpSPQ">Qualitative Analysis</head><p xml:id="_k6n2zvu">As the TEEP was successful in the creation of VSL groups in 2016, the qualitative study aimed to understand the functioning of these groups and whether their activities affected mutual trust among group members and led to the creation of group businesses or any form of non-economic cooperation. The data collection was carried out between September and October 2019.</p><p xml:id="_K8JeVUn">We did not have a priori expectations as the specific literature assessing the relationship between VSL groups, or microfinance's informal structures, and social cohesion is scarce and even in this case is mostly focussed on the horizontal dimension <ref type="bibr" target="#b36">(van Rooyen et al. 2012)</ref>. A study in Malawi reveals that participation in VSL groups increased women's self-confidence, self-esteem and ability to control and take action in their lives <ref type="bibr" target="#b38">(Waller 2014)</ref>. It also improved trust and respect and strengthened social bonds among members thanks to the continuous interactions among them and helped them overcome the fear of speaking in public and of sharing personal problems with the others. Other studies describe group solidarity in a similar way, demonstrating how group members assisted one another with daily activities and provided support to members in times of need <ref type="bibr" target="#b17">(Gash 2017;</ref><ref type="bibr" target="#b37">Vanmeenen 2010)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_P8VbnK2">Methodology</head><p xml:id="_cmZucHz">The study involves all 10 VSL groups established by the TEEP in 2016 in the four clusters that received the training. Two main qualitative methods were employed to help understand the multiple aspects of social cohesion: (1) a focus group activity involving open questions to the whole group and a participatory card game and (2) three individual interviews with pre-selected profiles of people.</p><p xml:id="_Fm9ErDv">The qualitative methodology used here allows for analysis of the phenomenon from different angles. Focus groups can lead to a deliberative debate with participants expressing their opinions and dissenting with each other. This process allows participants to make sense of their experiences, and, in interaction with others, modify them, leading to the construction of new knowledge <ref type="bibr" target="#b22">(Kitzinger 1994)</ref>. It represents a socially or culturally distinct understanding of the landscape and sheds some light on points that may have been missed in an individual interview.</p><p xml:id="_3rRh9ex">During this first activity, we also carried out a card game, which is a participatory method based on the premise that local inhabitants possess expert knowledge of their local environments. In the empirical literature on the capability approach, card games have been used to assess people's capabilities and agency <ref type="bibr" target="#b35">(Van Scoy et al. 2017;</ref><ref type="bibr" target="#b8">Burchi et al. 2015)</ref>. To apply this method, 31 cards were initially drawn to indicate different aspects of the following three categories: feelings, institutions and economic activities. The aim of this exercise was to explore the three attributes of social cohesion (trust, identity and cooperation) under the horizontal and vertical dimensions. The cards were distributed to the members and discussed one by one under the guidance of a facilitator.</p><p xml:id="_fJmpuNq">Individual interviews focussed on some specific aspects of the VSL group activity and included questions on social cohesion in line with those used in the quantitative analysis. The questions were as follows:</p><p xml:id="_nqg3wAb">• Did you establish new personal contacts/friendships due to the VSL/saving group membership?</p><p xml:id="_yesXpx3">• Did you have any conflicts/issues with other VSL/saving group members? • To what extent do you trust the other VSL group members? • Do you trust the people inside your VSL/saving group more than other people in your village/community? • Compared with 3 years ago, do you trust people in this village more, less or the same? • Do you trust the following district institutions: the local village development committee (VDC) and area executive committee (AEC)?.<ref type="foot" target="#foot_6">foot_6</ref> <ref type="foot" target="#foot_7">foot_7</ref> </p><p xml:id="_2p8R4RN">In each group, with the help of the group's secretary or treasurer, the three interviewees were selected based on the following criteria (where available):</p><p xml:id="_hvtUes8">• A member who obtained a conspicuous loan, • A member with a problematic repayment history, • A member who took part in a collective economic activity or carried out a successful activity made possible by the loan.</p><p xml:id="_2ATkbQw">We finally interviewed 22 members from nine VSL groups. Given the limited sample size and the difference in the profiles of the respondents, a proper inference based on the data acquired through the interviews cannot be made.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_3b722fX">Findings</head><p xml:id="_3s3XXzD">About 3 years after the creation of the VSL groups, only five of the 10 groups were still active (Table <ref type="table">4</ref>). This initial finding seems to provide a hint into the limitations of the TEEP-and in particular in the training component with the associated creation of VSL groups-to enhance social cohesion in the long term, and that briberies and conflicts probably led to this result. This intuitive argument only partially explains the reality. An in-depth investigation highlights how exogenous factors play a big role in the survival of the VSL groups and their impact on social cohesion.</p><p xml:id="_2N84bvv">By "exogenous factors", we mean factors that are not themselves affected by the TEEP. In particular, at the beginning of 2017, Mwanza was hit by major floods followed by a drought that damaged houses and harvest and raised food prices. Moreover, since 2017, there have been several suspensions or delays in the disbursement of the bimonthly SCT: this implies at least four months without these transfers. Though at the end, SCT beneficiaries receive all the backlogs, not being able to access the (expected) social transfers for so long may have major impacts on households living in extreme poverty, especially in periods of climate shock. That is what happened in 2017: the extreme weather conditions followed by two missed payments between March and June reduced the resilience of the vulnerable beneficiaries and consequently that of their VSL groups. This is confirmed by the fact that two groups closed their activities for lack of money right at the end of 2017.</p><p xml:id="_fTM3mdx">Table 4 Profile of the VSL groups Only sporadic cases of internal conflicts within the VSL groups were reported for the period of more than 3 years. Two of them arose due to stealing accusations-one was confirmed by the accused person-while the other three developed from problems in repayment. With the exception of one single case, all these conflicts happened between 2017 and the beginning of 2018.</p><p xml:id="_WX4TZb5">Interestingly, the VSL groups that ceased their activities between 2017 and the beginning of 2018 were all located in the clusters characterised by higher socioeconomic and climatic vulnerability. Based on a small survey on the 10 clusters involved in the TEEP, conducted in October-November 2015, it emerges clearly that two were significantly better-off than the others, especially in terms of distance from the main road of Mwanza, the presence of trading centres and climatic conditions. Indeed, despite being exposed to the same external shocks, none of the four groups located in the two better-off clusters closed, while five of the six groups located in the worse-off clusters did close. This means that the interactions of the adverse exogenous conditions/shocks led to the closure of the groups: two because of lack of money (no conflicts reported here), and three due to conflicts that probably emerged from the economic stress.</p><p xml:id="_kGwFEF9">Of course, endogenous factors are important, too. They entail programme-specific aspects such as the VSL group design and the typology and frequency of training. In one case in particular, the fact that the group was composed of members of two different villages caused feelings of jealousy related to the holding of the physical money and the roles/tasks inside the group. Moreover, several interviewees from different groups identified the lack of follow-up training and mentoring sessions as one of the reasons for the definite ceasing of the activities of many groups between 2017 and 2018.</p><p xml:id="_dsb2m5h">For VSL groups that successfully overcame the 2017 climatic and economic struggles and did not experience conflicts caused by illicit actions, trust among the group members increased. This was confirmed by the focus group activities and by all the interviewees from the active VSL groups. Group identity and in-group trust and cooperation were both drivers and outcomes of survival and resilience of the VSL groups. As an example, in one VSL group, the treasurer's home was robbed and the group lost a considerable amount of money; despite this, everyone asked the treasurer to keep working for the group and the next year, they re-started all the activities from nothing.</p><p xml:id="_tjanrTH">Group identity was strong in most of the groups. All methods employed showed that members of the VSL groups trusted each other more than the rest of the village. They also appreciated the "social" value of the group thanks to which they made new friendships, but, above all, they highly valued the common, exclusive training they received, which was viewed as a fundamental bond among group members and which contributed to the development of a "common language" <ref type="bibr" target="#b21">(Kilpatrick et al. 1999)</ref>. Last but not least, respondents also reported that their joint experiences and shared struggles over more than 3 years strengthened their identity as a group.</p><p xml:id="_BjaJKBn">The members of the well-performing VSL groups saw themselves on a path of "graduation" out of dependence on external assistance and out of poverty. Only in one case, the group cooperation led to the creation of a group business that proved to be sustainable over time<ref type="foot" target="#foot_8">foot_8</ref> : a cassava farm established in 2016 that involved eight members. However, cooperation among the members was appreciable also in other aspects of life, such as the exchange of help in individual businesses and the tolerance with which late repayment was accepted if justified by important external factors.</p><p xml:id="_euY4TRQ">As TEEP participants were also members of other VSL groups not promoted by TEEP, we asked which group they trusted more. In all eight VSL groups where we gathered this information, the interviewees considered the members of the TEEP-VSL groups more trustworthy and reliable, having received a complete, common training. Finally, when asked if they would have actively participated in the VSL groups even without the lump-sum, all the interviewees that received both lumpsum and training answered positively, stressing that the training was really important for their life, while the lump-sum did not bring major long-term benefits.</p><p xml:id="_Dps3c8R">When inquiring if the level of trust towards the village (horizontal, out-group trust) changed compared to the period before the establishment of the VSL group, we did not find a clear pattern of answers. However, once we consider only VSL groups that are still open, we find that almost 43% of the interviewees (six people) felt that it worsened, 28.5% (four people) felt that was the same and 28.5% felt that it improved. Finally, 60% of all the interviewees (71% in VSL groups that were still open) trusted their group more than they trusted the rest of the village.</p><p xml:id="_9vSeNg7">While caution should be used in interpreting these findings due to the very small sample considered, an in-depth exploration of this important issue revealed a widely shared view of the motivations: people reported jealousy and incomprehension within their communities due to their receipt of the SCT. In any case, these feelings were not directly related to the TEEP, but to the intervention on top of which the TEEP was built, namely the SCT. This is confirmed by the interviewees' admission that the situation was even worse in the periods in which they were waiting for a big amount of money to make up for the SCT suspensions. Talking about this problem, participants in the focus groups repeatedly used terms like exclusion, side-lined and privileged. It must be noted that, in order to minimise the reporting bias, we did not ask directly about pre-and post-TEEP, but simply that respondents compare the current level of trust with what they felt 3 years earlier. Bringing the interviewees back to 3 years earlier proved to be difficult, as often happens with retrospective questions <ref type="bibr" target="#b6">(Blome and Augustin 2015)</ref>. Further discussion revealed clearly that the respondents had in mind 2014-when the SCT started in Mwanza-as "baseline".</p><p xml:id="_Ww47Q77">Respondents reported low trust towards local institutions (vertical trust), in particular the VDC: 54% of the interviewees reported not trusting it. The AEC, a higher-ranking institution than the VDC, was not trusted by a much lower share (25%) of the interviewees. The reasons for the distrust emerged clearly during the discussions with almost all the groups. The interviewees reported being discriminated against by the institutions in terms of access to other development interventions because they were already benefiting from the SCT, confirming the findings of a previous study in Malawi <ref type="bibr" target="#b2">(Ansell et al. 2019)</ref>. In line with <ref type="bibr" target="#b2">Ansell et al. (2019)</ref>, the extension workers of the district argued that the discrimination happens due to the fact that the VDCs-usually in charge of the targeting and facilitation of development programmes in the local communities-were, instead, not directly involved in the targeting of the SCT. Due to the lack of communication between community authorities and SCT institutions, the former gained little understanding of the SCT targeting and thus contributed to spreading the idea that it was "money from the sky" <ref type="bibr" target="#b2">(Ansell et al. 2019)</ref>. This had two consequences. First, it created jealousy among excluded households, who considered actual SCT beneficiaries lucky and non-deserving. Second, it lead to the exclusion of SCT beneficiaries from other programmes-the emergency and the food for work programmes, above all-where VDCs played an active role.</p><p xml:id="_mtDcPwU">Even though this was not explicitly discussed during the focus groups and the interviews, through a direct observation of group dynamics, we reached the conclusion that the common feeling of jealousy by the rest of the village and discrimination by some local institutions had probably contributed to the strengthening of group identity. This would also be in line with the findings of other studies focussing on group dynamics that reveal that discriminated groups are more united <ref type="bibr" target="#b33">(Stronge et al. 2016)</ref>.</p><p xml:id="_UQJkWBD">In two of the three VSL groups in which discrimination was not reported, the members fully trusted both the AEC and the VDC, and it was stressed that the VSL group brought unity in the whole village. In the other VSL group, the VDC had recently changed, so they were still unsure of whether to trust it or not. <ref type="foot" target="#foot_9">10</ref>Finally, a generally acknowledged precondition for a cohesive community is a good relationship between the genders. As stressed earlier, only about 20% of TEEP beneficiaries were men, thus they made up a small share of VSL groups. It is worth highlighting that no tension between genders was reported within any group. All female members claimed they received full support from their husbands regarding their participation in the VSL group, and, in many cases, the husbands contributed to the repayment. Only in two groups were some husbands defined as sceptical at the beginning, but after the training, the women were able to explain to them the power of the VSL group. They changed their minds fully when they saw that they had money even in the most difficult periods. Finally, all single women participating in the qualitative analysis reported improved livelihoods and empowerment, thanks to the VSL group's activities and the training received. They mentioned having learned to keep track of their expenses and income throughout the year, having started a business activity from zero, and being able to actively contribute to the payment of the school fees of their children though the loans from the VSL group.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_aKDYvBb">Conclusions</head><p xml:id="_7jcsXhH">Social protection is a key tool for reducing poverty, but there are good arguments to support the idea that it can also contribute to more complex outcomes, such as social cohesion. This paper examined the effects of the TEEP-an integrated social protection programme-on three key pillars of social cohesion, namely trust, social identity and cooperation. The TEEP offers three different sets of services to three groups of beneficiaries: a lump-sum transfer, a financial training connected to the creation of VSL groups, and a combination of both. The impact assessment was carried out through a sequential mixed-methods approach: a quantitative analysis based on an experimental design and primary data collected 1 year after project implementation was followed by a qualitative analysis, consisting of focus group discussions and individual interviews.</p><p xml:id="_rAtBUJC">This study reveals that the lump-sum does not have a concrete effect on social cohesion outcomes. Indeed, the quantitative analysis shows that there is no significant difference between the group that received only the lump-sum transfer and the "control" group in different measures of trust and cooperation among individuals. Also, in the qualitative interviews, the value added of receiving extra cash in terms of group relationships did not emerge. One possible reason is that the transfer size is not big enough to influence social cohesion: however, it should be pointed out that the lump-sum payment is almost double the average yearly amount of SCT received by a household and equivalent to about 58% of the 2013 national poverty line in Malawi <ref type="bibr" target="#b12">(Burchi and Strupat 2018)</ref>.</p><p xml:id="_x43PFfQ">The comprehensive training-composed of group formation, financial and micro-business training-did make a difference for social cohesion. The quantitative analysis clearly shows that all indicators of trust and cooperation are significantly and substantially higher in the group that participated in the training as compared with both the control group and the group that benefited only from the lump-sum. Moreover, an analysis on a sub-group of training participants that also joined the VSL groups highlights an even larger effect, hinting at the possible value added of participating in these groups in terms of social cohesion. For this reason, we conducted the qualitative study, which confirmed the importance of being part of these groups. High within-group trust was detected in almost all the VSL groups examined and the common experience of participating in a training that they regarded as very valuable was viewed as a key factor for that. At the same time, different forms of cooperation between members of the same VSL group were activated for economic and non-economic purposes. However, the VSL group activities did not reach the above results when major external shocks hit them especially for those located in clusters characterised by higher socioeconomic and climatic vulnerability.</p><p xml:id="_PVTv8ZQ">Another important finding, which emerged only from the qualitative analysis, is that the vast majority of members of the VSL groups reported being discriminated against by the local institutions and treated with jealousy by other village members. In particular, they reported being excluded from other development interventions by the VDC because they were receiving the SCT. As a consequence, their trust towards the VDC declined (vertical trust), while their trust towards other village members (horizontal, out-group trust) in the vast majority of the cases worsened or remained stable. It is important, however, to specify that this reduction of social cohesion is not directly related to the TEEP analysed in this paper, but to the SCT programme on whose infrastructure the TEEP rested. We cannot make any claim regarding the specific impact of the participation in training/VSL groups on the social relationships between group members and the rest of the community.</p><p xml:id="_Xnp3uxr">Though not directly concerning the TEEP, the above finding is interesting as it speaks to the general debate on the relationship between cash benefit programmes and social cohesion and especially in two sub-debates. First, poverty-related targeted cash benefit schemes may create tensions between those excluded from and those included in the programmes, especially if the former feel they have the same (poor) economic conditions as the latter <ref type="bibr" target="#b0">(Adato and Roopnaraine 2004;</ref><ref type="bibr" target="#b30">Roelen 2020)</ref>. This is especially the case when the targeting criteria are not adequately communicated or there are clear pitfalls in their operationalisation <ref type="bibr" target="#b28">(Molyneux et al. 2016)</ref>, a problem detected in the SCT in Malawi but also in other countries, such as Lesotho <ref type="bibr" target="#b2">(Ansell et al. 2019)</ref>. Second, the clear involvement of the community in the targeting of final beneficiaries has advantages and disadvantages, and whether the former prevail on the latter or vice versa depends especially on local institutional arrangements. Some programmes rely heavily on communities to identify the beneficiaries, while others do not use this channel at all. The SCT in Malawi is situated somewhere in the middle: communities are consulted for a final adjustment of the list of beneficiaries.</p><p xml:id="_KV2anjP">A general remark is necessary. As all interviewees for both the quantitative and the qualitative analysis received the SCT, we cannot say what the impact of the TEEP components on social cohesion would be without this other scheme. In particular, in an attempt to expand or replicate a programme like TEEP in contexts where no cash transfer is active, it would be necessary to understand whether the participants in the training and VSL groups would be able to have enough savings to actively contribute to group activities and, through that channel, enhance social cohesion. Given that due to extreme weather conditions and SCT suspension in 2017, many groups ceased the activities and/or suffered conflicts, we believe there would be some difficulties.</p><p xml:id="_72kYCH7">Another limitation of the analysis is that it cannot take into account all the different aspects of the complex concept of social cohesion. In particular, the quantitative analysis concentrates only on the horizontal dimension and on two of the three attributes: trust and cooperation, thus, leaving out inclusive identity. The qualitative analysis, instead, tries to sort out the relationship between the VSL groups and all the attributes of social cohesion, but once more focuses primarily on the horizontal dimension. Moreover, it provides better evidence for the within-VSL-group social cohesion than for the level of social cohesion between members of these groups and the rest of the village.</p><p xml:id="_b9GppMe">Some relevant policy implications can be drawn from this paper. First, at the risk of generalising, money does not necessarily increase social cohesion. To the contrary, when targeted cash benefit programmes are not adequately designed and implemented, paying major attention to issues such as targeting and regularity of the payments (UNICEF-ESARO 2015), they can reduce social cohesion. Therefore, policy-makers aiming to expand social cohesion should be aware of the possible limitations of just giving cash, especially large amounts of money provided in one single instalment.</p><p xml:id="_MXNHU8D">Second, another important policy lesson is that VSL groups-already widespread in Malawi for the middle class-can work for the poor, too. There is, however, a need for longer-term support from external agencies/organisations. Indeed, interviewees themselves stated that with more support from the cooperative COMSIP, some groups that had to close may have re-started their activities. Interviewees also clearly highlighted the importance of follow-up training to retain the skills/knowledge acquired earlier.</p><p xml:id="_uRnJbbx">Finally, in the elaboration of possible ways to further exploit the social-cohesion-enhancing potential of the VSL groups, a development dilemma emerges. Is it advisable to open the VSL groups generated through the TEEP to those who do not receive the SCT, and/or people not trained by TEEP? On the one hand, this may be viewed as a way to smooth out the contrasts between current members and nonmembers and expand social cohesion for a wider population. On the other hand, increasing the heterogeneity of the group may generate the opposite effect if not properly managed <ref type="bibr" target="#b27">(Mkpado et al. 2010;</ref><ref type="bibr" target="#b39">Zeller 1998)</ref>: within-group cohesion may indeed decline and, thus, overall social cohesion. Two pieces of information seem to confirm this in the case of the TEEP. First, all members of the TEEP-VSL groups highly valued the common training, and saw it as a key bonding factor. This also led them to declare that they preferred these groups to other VSL groups in which they were often included. To overcome this, a new project could consider training a larger part of the population, but this may be financially unsustainable. Second, in one of the very few cases where a VSL group included people from two different villages, there were increased conflicts concerning the management of the savings. While a careful design and implementation of the project may minimise these negative effects, in some cases this may be difficult.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1</head><label>1</label><figDesc xml:id="_VRhkstU">Fig. 1 From TEEP to social cohesion</figDesc><graphic coords="6,93.16,441.40,264.38,108.98" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>a</head><figDesc xml:id="_jmJQ6mA">The group is on standby, waiting for SCT to restart b Meetings were interrupted in December 2017, but members have not yet shared out and 11 loans are still out c Twelve members are willing to restart the VSL group</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc xml:id="_YdzFjw3">Descriptive statistics of social cohesion outcomes(endline survey, 2017)    </figDesc><table><row><cell></cell><cell>Lump-sum</cell><cell cols="3">Lump-sum-only Training-only Control group</cell></row><row><cell></cell><cell>plus train-</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>ing</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Most village members can be trusted</cell><cell>3.128</cell><cell>2.952</cell><cell>2.988</cell><cell>2.858</cell></row><row><cell>Most village members can be trusted</cell><cell>0.814</cell><cell>0.679</cell><cell>0.814</cell><cell>0.696</cell></row><row><cell>(yes/no)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Change in trust towards village members 2.093</cell><cell>2.071</cell><cell>2.256</cell><cell>2.111</cell></row><row><cell>Receives help when has a problem</cell><cell>2.953</cell><cell>2.892</cell><cell>2.977</cell><cell>2.830</cell></row><row><cell>Receives help when has a problem (yes/</cell><cell>0.732</cell><cell>0.666</cell><cell>0.837</cell><cell>0.677</cell></row><row><cell>no)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Majority village members have good</cell><cell>2.430</cell><cell>2.273</cell><cell>2.488</cell><cell>2.330</cell></row><row><cell>relationships</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Observations</cell><cell>86</cell><cell>84</cell><cell>86</cell><cell>530</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 3</head><label>3</label><figDesc xml:id="_3Kv9Era">estimates of the impact of project components on social cohesion (sub-sample of training recipients that joined VSL groups)</figDesc><table><row><cell>***P &lt; 0.01, **P &lt; 0.05, *P &lt; 0.1</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_0"><p xml:id="_cJWAKXB">In line with the whole special issue, by social protection we mean all the interventions aiming at protecting individuals from poverty and risk(Burchi et al.  </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p xml:id="_GENPyjk">2022).</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_2"><p xml:id="_vJ4RqMJ">Malawi is one of the poorest countries in the world based on both income poverty and multidimensional poverty indices<ref type="bibr" target="#b9">(Burchi et al. 2021)</ref> and has one of the lowest levels of social cohesion in Africa<ref type="bibr" target="#b23">(Leininger et al. 2021)</ref>.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="3" xml:id="foot_3"><p xml:id="_mTHkCfe">A village cluster is a group of villages located very close to one another. This classification was introduced for the administration of the SCT.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_4"><p xml:id="_KSwB9eA">Figure1illustrates a theory of change and not an evaluation framework. Thus, it includes also channels and outcomes that are not directly explored in this paper.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="6" xml:id="foot_5"><p xml:id="_HAW2vXp">This attribute has been, instead, investigated in depth in the qualitative analysis ("Qualitative analysis" section).5  The control group has a sample size much larger than the three treatment arms. This could increase the likelihood of type 1 error-wrong rejection of a null hypothesis-only as long as unequal sample sizes is accompanied by unequal sampling variance of the covariates across the groups. We tested the overlapping region of the propensity score for each group, finding perfect overlap. We also used the Levene's and Bartlett test of homogeneity of variance across the groups and the hypothesis of equal variance was never rejected at the 10% significance level. Therefore, there is no serious risk of increased type 1 error.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="7" xml:id="foot_6"><p xml:id="_hffP68A">A VDC is a representative body from a group of villages responsible for identifying needs and facilitating planning and development in local communities. It is at this level that the communities raise their needs and demand projects. The VDC is composed by an elected board and directed by the group-village leader.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="8" xml:id="foot_7"><p xml:id="_yNwxnmX">An AEC is composed of extension workers from both governmental and non-governmental organisations operating in the Traditional Area, responsible for advising superior institutions on all aspects of development.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="9" xml:id="foot_8"><p xml:id="_gG7ZUqx">Motivated by the training, all VSL groups managed to start at least one group activity during their lifespan, but most were ultimately unsuccessful.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="10" xml:id="foot_9"><p xml:id="_eCA4rAP">One hypothesis for this finding is that different VDCs simply behave differently. An analysis of the quantitative data collected in 2017 provides some empirical support of this: some members of the two groups that had some trust in the local institutions had access to other development programmes, especially the emergency food assistance, while in the other groups no one had access to them.</p></note>
+		</body>
+		<back>
+
+			<div type="funding">
+<div xml:id="_HD4VCXG"><p xml:id="_tB57RBZ">Funding Open Access funding enabled and organized by <rs type="funder">Projekt DEAL</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_pDeESWQ">Declarations</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_skBc4vv">Conflict of interest</head><p xml:id="_sfAxYSk">The authors have no financial or personal conflicts of interest related to this work.</p><p xml:id="_WzTr3t8">Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <ref type="url" target="http://creativecommons.org/licenses/by/4.0/">http:// creat iveco mmons. org/ licen  ses/ by/4. 0/</ref>.</p><p xml:id="_hmHQnpj">Publisher's Note On behalf of all authors, the corresponding author states that there is no conflict of interest.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted"  xml:id="b0">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><surname>Adato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Roopnaraine</surname></persName>
+		</author>
+		<title level="m" xml:id="_vN94nQp">Sistema de Evaluación de la Red de Protección Social de Nicaragua: Un análisis social de la &quot;Red de Protección Social</title>
+		<meeting><address><addrLine>Washington, DC</addrLine></address></meeting>
+		<imprint>
+			<publisher>RPS) en Nicaragua</publisher>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+		<respStmt>
+			<orgName>International Food Policy Research Institute</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main" xml:id="_F7Aun7Q">Multiple Inference and Gender Differences in the Effects of Early Intervention: A Reevaluation of the Abecedarian, Perry Preschool, and Early Training Projects</title>
+		<author>
+			<persName><forename type="first">Michael</forename><forename type="middle">L</forename><surname>Anderson</surname></persName>
+		</author>
+		<idno type="DOI">10.1198/016214508000000841</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_EDePHBZ">Journal of the American Statistical Association</title>
+		<title level="j" type="abbrev">Journal of the American Statistical Association</title>
+		<idno type="ISSN">0162-1459</idno>
+		<idno type="ISSNe">1537-274X</idno>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="issue">484</biblScope>
+			<biblScope unit="page" from="1481" to="1495" />
+			<date type="published" when="2008-12-01">2008</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<monogr>
+		<author>
+			<persName><forename type="first">N</forename><surname>Ansell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Van Blerk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Robson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Hajdu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Mwathunga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hlabana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hemsteede</surname></persName>
+		</author>
+		<title level="m" xml:id="_8a5kBEj">Social cash transfers, generational relations, and youth poverty trajectories in rural Lesotho and Malawi</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+		<respStmt>
+			<orgName>Brunel University</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main" xml:id="_BahDdgF">Building social capital: Conditional cash transfers and cooperation</title>
+		<author>
+			<persName><forename type="first">Orazio</forename><surname>Attanasio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sandra</forename><surname>Polania-Reyes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Luca</forename><surname>Pellerano</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jebo.2015.04.004</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_AV3mbyS">Journal of Economic Behavior &amp; Organization</title>
+		<title level="j" type="abbrev">Journal of Economic Behavior &amp; Organization</title>
+		<idno type="ISSN">0167-2681</idno>
+		<imprint>
+			<biblScope unit="volume">118</biblScope>
+			<biblScope unit="page" from="22" to="39" />
+			<date type="published" when="2015-10">2015</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main" xml:id="_yPhEU8f">Distributive Politics in a Multiparty System</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Aytaç</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0010414013495357</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_pATy8UN">Comparative Political Studies</title>
+		<title level="j" type="abbrev">Comparative Political Studies</title>
+		<idno type="ISSN">0010-4140</idno>
+		<idno type="ISSNe">1552-3829</idno>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="1211" to="1237" />
+			<date type="published" when="2014">2014</date>
+			<publisher>SAGE Publications</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main" xml:id="_DaRc7Yy">The Returns to Microenterprise Support among the Ultrapoor: A Field Experiment in Postwar Uganda</title>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Blattman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eric</forename><forename type="middle">P</forename><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Julian</forename><surname>Jamison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Christian</forename><surname>Lehmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeannie</forename><surname>Annan</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/app.20150023</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_cWurjSv">American Economic Journal: Applied Economics</title>
+		<title level="j" type="abbrev">American Economic Journal: Applied Economics</title>
+		<idno type="ISSN">1945-7782</idno>
+		<idno type="ISSNe">1945-7790</idno>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="35" to="64" />
+			<date type="published" when="2016-04-01">2016</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main" xml:id="_uM8v445">Measuring Change in Quality of Life: Bias in Prospective and Retrospective Evaluation</title>
+		<author>
+			<persName><forename type="first">Christine</forename><surname>Blome</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Matthias</forename><surname>Augustin</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jval.2014.10.007</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_AYTa3P2">Value in Health</title>
+		<title level="j" type="abbrev">Value in Health</title>
+		<idno type="ISSN">1098-3015</idno>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="110" to="115" />
+			<date type="published" when="2015-01">2015</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main" xml:id="_9Ya7wWC">Social Spending and Political Support: The &quot;Lessons&quot; of the National Solidarity Program in Mexico</title>
+		<author>
+			<persName><forename type="first">Kathleen</forename><surname>Bruhn</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/421979</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_nwYqHEW">Comparative Politics</title>
+		<title level="j" type="abbrev">Comparative Politics</title>
+		<idno type="ISSN">0010-4159</idno>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">151</biblScope>
+			<date type="published" when="1996-01">1996</date>
+			<publisher>JSTOR</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main" xml:id="_EUwe2du">The Development Project as an Institution for Agency and Capability Expansion: The Case of the Njombe Milk Project</title>
+		<author>
+			<persName><forename type="first">Francesco</forename><surname>Burchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pasquale</forename><surname>De Muro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sara</forename><surname>Vicari</surname></persName>
+		</author>
+		<idno type="DOI">10.1057/ejdr.2014.22</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_S5B72cW">The European Journal of Development Research</title>
+		<title level="j" type="abbrev">Eur J Dev Res</title>
+		<idno type="ISSN">0957-8811</idno>
+		<idno type="ISSNe">1743-9728</idno>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="19" to="36" />
+			<date type="published" when="2015">2015</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main" xml:id="_ug9Ejbg">An individual-based index of multidimensional poverty for low-and middle-income countries</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Burchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Espinoza-Delgado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Montenegro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Rippin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_49zp5pv">Journal of Human Development and Capabilities</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="682" to="705" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main" xml:id="_jR8c3K2">Disentangling the Relationship Between Social Protection and Social Cohesion: Introduction to the Special Issue</title>
+		<author>
+			<persName><forename type="first">Francesco</forename><surname>Burchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Markus</forename><surname>Loewe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Daniele</forename><surname>Malerba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Julia</forename><surname>Leininger</surname></persName>
+		</author>
+		<idno type="DOI">10.1057/s41287-022-00532-2</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_c4qxUEk">The European Journal of Development Research</title>
+		<title level="j" type="abbrev">Eur J Dev Res</title>
+		<idno type="ISSN">0957-8811</idno>
+		<idno type="ISSNe">1743-9728</idno>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="1195" to="1215" />
+			<date type="published" when="2022-05-02">2022</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+	<note>Introduction to the special issue</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main" xml:id="_HRjMRDy">Social protection and revenue collection: How they can jointly contribute to strengthening social cohesion</title>
+		<author>
+			<persName><forename type="first">Francesco</forename><surname>Burchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Armin</forename><surname>Von Schiller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christoph</forename><surname>Strupat</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/issr.12243</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Jte9Tnz">International Social Security Review</title>
+		<title level="j" type="abbrev">Int Social Security Review</title>
+		<idno type="ISSN">0020-871X</idno>
+		<idno type="ISSNe">1468-246X</idno>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="13" to="32" />
+			<date type="published" when="2020-07">2020</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main" xml:id="_mdKHnQ5">Can Integrated Social Protection Programmes Affect Social Cohesion? Mixed-Methods Evidence from Malawi</title>
+		<author>
+			<persName><forename type="first">Francesco</forename><surname>Burchi</surname></persName>
+			<idno type="ORCID">0000-0003-2095-5181</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Federico</forename><surname>Roscioli</surname></persName>
+		</author>
+		<idno type="DOI">10.1057/s41287-022-00535-z</idno>
+		<idno>32/18</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_CbpS2zC">The European Journal of Development Research</title>
+		<title level="j" type="abbrev">Eur J Dev Res</title>
+		<idno type="ISSN">0957-8811</idno>
+		<idno type="ISSNe">1743-9728</idno>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="1240" to="1263" />
+			<date type="published" when="2018">2018</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+			<pubPlace>Bonn</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>German Development Institute</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Discussion paper</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main" xml:id="_KPaPxMX">The Effects of Conditional Cash Transfers on Social Engagement and Trust in Institutions: Evidence from Peru&apos;s Juntos Programme</title>
+		<author>
+			<persName><forename type="first">Luis</forename><forename type="middle">A</forename><surname>Camacho</surname></persName>
+		</author>
+		<idno type="DOI">10.2139/ssrn.2512666</idno>
+		<idno>24/2014</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Ep2BDcs">SSRN Electronic Journal</title>
+		<title level="j" type="abbrev">SSRN Journal</title>
+		<idno type="ISSNe">1556-5068</idno>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>Elsevier BV</publisher>
+			<pubPlace>Bonn</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>German Development Institute</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Discussion paper</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main" xml:id="_vWmX8es">A cash plus program reduces youth exposure to physical violence in Zimbabwe</title>
+		<author>
+			<persName><forename type="first">Averi</forename><surname>Chakrabarti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sudhanshu</forename><surname>Handa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gustavo</forename><surname>Angeles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><surname>Seidenfeld</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.worlddev.2020.105037</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_yus83KY">World Development</title>
+		<title level="j" type="abbrev">World Development</title>
+		<idno type="ISSN">0305-750X</idno>
+		<imprint>
+			<biblScope unit="volume">134</biblScope>
+			<biblScope unit="page">105037</biblScope>
+			<date type="published" when="2020-10">2020. 2020</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main" xml:id="_Ad2H9QZ">Cash transfers increase trust in local government</title>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">K</forename><surname>Evans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Brian</forename><surname>Holtemeyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Katrina</forename><surname>Kosec</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.worlddev.2018.08.020</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_ugfV4NA">World Development</title>
+		<title level="j" type="abbrev">World Development</title>
+		<idno type="ISSN">0305-750X</idno>
+		<imprint>
+			<biblScope unit="volume">114</biblScope>
+			<biblScope unit="page" from="138" to="155" />
+			<date type="published" when="2019-02">2019</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b16">
+	<monogr>
+		<title level="m" type="main" xml:id="_fyYzPnE">The Household and Individual-level Economic Impacts of Cash Transfer Programmes in Sub-Saharan Africa</title>
+		<author>
+			<persName><forename type="first">Silvio</forename><surname>Daidone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Benjamin</forename><surname>Davis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sudhanshu</forename><surname>Handa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Winters</surname></persName>
+		</author>
+		<idno type="DOI">10.18356/005ab3f5-en</idno>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>UN</publisher>
+			<pubPlace>Rome, Italy</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Policy Brief</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main" xml:id="_D7WTsuN">Understanding the impact of savings groups</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gash</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_wnHHSj9">Learning Brief</title>
+		<meeting><address><addrLine>Arlington, VA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+		<respStmt>
+			<orgName>SEEP Network</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b18">
+	<analytic>
+		<title level="a" type="main" xml:id="_Wa2pRmX">No Longer Trapped? Promoting Entrepreneurship Through Cash Transfers to Ultra‐Poor Women in Northern Kenya</title>
+		<author>
+			<persName><forename type="first">Vilas</forename><forename type="middle">J</forename><surname>Gobin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Paulo</forename><surname>Santos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Russell</forename><surname>Toth</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/ajae/aax037</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Jp2sqYy">American Journal of Agricultural Economics</title>
+		<title level="j" type="abbrev">American J Agri Economics</title>
+		<idno type="ISSN">0002-9092</idno>
+		<idno type="ISSNe">1467-8276</idno>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1362" to="1383" />
+			<date type="published" when="2018">2018</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main" xml:id="_T4muuse">China&apos;s local political budget cycles</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Guo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_WK5gVZw">American Journal of Political Science</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="621" to="632" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main" xml:id="_wnRsU2p">Transforming Subjects into Citizens: Insights from Brazil’s Bolsa Família</title>
+		<author>
+			<persName><forename type="first">Wendy</forename><surname>Hunter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Natasha</forename><forename type="middle">Borges</forename><surname>Sugiyama</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/s1537592714002151</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_MXYuqnG">Perspectives on Politics</title>
+		<title level="j" type="abbrev">Perspect. polit.</title>
+		<idno type="ISSN">1537-5927</idno>
+		<idno type="ISSNe">1541-0986</idno>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="829" to="845" />
+			<date type="published" when="2014-12">2014</date>
+			<publisher>Cambridge University Press (CUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main" xml:id="_eK6Waer">The role of group learning in building social capital</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kilpatrick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Falk</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_2tYbPvc">Journal of Vocational Education and Training</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="129" to="144" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main" xml:id="_arnTxDM">The methodology of Focus Groups: the importance of interaction between research participants</title>
+		<author>
+			<persName><forename type="first">Jenny</forename><surname>Kitzinger</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/1467-9566.ep11347023</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_4HkewDe">Sociology of Health &amp; Illness</title>
+		<title level="j" type="abbrev">Sociology Health &amp;amp; Illness</title>
+		<idno type="ISSN">0141-9889</idno>
+		<idno type="ISSNe">1467-9566</idno>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="103" to="121" />
+			<date type="published" when="1994-01">1994</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b23">
+	<monogr>
+		<title level="m" type="main" xml:id="_SV2tRZU">Social cohesion: a new definition and a proposal for its measurement in Africa</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Leininger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Burchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Fiedler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mross</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Nowack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Schiller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Sommer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Strupat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ziaja</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2021">2021. 2021</date>
+			<biblScope unit="volume">31</biblScope>
+			<pubPlace>Bonn</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>German Development Institute</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">DIE Discussion Paper</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b24">
+	<analytic>
+		<title level="a" type="main" xml:id="_uqzHkSc">Shame, stigma and the take‐up of social assistance: Insights from rural&lt;scp&gt;C&lt;/scp&gt;hina</title>
+		<author>
+			<persName><forename type="first">Mianguan</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Walker</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/ijsw.12242</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_YxqFnps">International Journal of Social Welfare</title>
+		<title level="j" type="abbrev">Int J Soc Welfare</title>
+		<idno type="ISSN">1369-6866</idno>
+		<idno type="ISSNe">1468-2397</idno>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="230" to="238" />
+			<date type="published" when="2017">2017</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b25">
+	<analytic>
+		<title level="a" type="main" xml:id="_QXUJ3pq">Do social transfers benefit local economic development? The case of cash-for-work programmes in Jordan</title>
+		<author>
+			<persName><forename type="first">Markus</forename><surname>Loewe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Zintl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fritzenkötter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Gantner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kaltenbach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Pohl</surname></persName>
+		</author>
+		<idno type="DOI">10.2139/ssrn.3817044</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_ckjnbx7">SSRN Electronic Journal</title>
+		<title level="j" type="abbrev">SSRN Journal</title>
+		<idno type="ISSNe">1556-5068</idno>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<date type="published" when="2020">2020</date>
+			<publisher>Elsevier BV</publisher>
+			<pubPlace>Bonn</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>German Development Institute</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b26">
+	<analytic>
+		<title level="a" type="main" xml:id="_puWvS4P">Social and Political Trust in Developing Countries</title>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Mattes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alejandro</forename><surname>Moreno</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/oxfordhb/9780190274801.013.10</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_bvnKRYN">The Oxford handbook of social and political trust</title>
+		<editor>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Uslaner</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page" from="357" to="382" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b27">
+	<analytic>
+		<title level="a" type="main" xml:id="_7aK5eRR">Effects of Membership Homogeneity on the Performance of Agricultural Micro-Credit Groups in Rural Credit Markets, Nigeria</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mkpado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Idu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Arene</surname></persName>
+		</author>
+		<idno type="DOI">10.3923/pjssci.2010.304.317</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_gQUPpRZ">Pakistan Journal of Social Sciences</title>
+		<title level="j" type="abbrev">Pakistan J. of Social Sciences</title>
+		<idno type="ISSN">1683-8831</idno>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="304" to="317" />
+			<date type="published" when="2010-04-01">2010</date>
+			<publisher>Medwell Publications</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b28">
+	<analytic>
+		<title level="a" type="main" xml:id="_MyadSwD">Can Cash Transfer Programmes Have ‘Transformative’ Effects?</title>
+		<author>
+			<persName><forename type="first">Maxine</forename><surname>Molyneux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">With</forename><forename type="middle">Nicola</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fiona</forename><surname>Samuels</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00220388.2015.1134781</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_bHCr6mU">The Journal of Development Studies</title>
+		<title level="j" type="abbrev">The Journal of Development Studies</title>
+		<idno type="ISSN">0022-0388</idno>
+		<idno type="ISSNe">1743-9140</idno>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1087" to="1098" />
+			<date type="published" when="2009">2016. 2009</date>
+			<publisher>Informa UK Limited</publisher>
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Promoting pro-poor growth: Employment</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b29">
+	<analytic>
+		<title level="a" type="main" xml:id="_dpuUexm">Effects of cash transfers on community interactions: Emerging evidence</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pavanello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Watson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Onyango-Ouma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bukuluki</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_QueT8rX">Journal of Development Studies</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1147" to="1161" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b30">
+	<analytic>
+		<title level="a" type="main" xml:id="_YVyTcyh">Receiving social assistance in low-and middle-income countries: Negating shame or producing stigma?</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Roelen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_k2KnBGy">Journal of Social Policy</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="705" to="723" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b31">
+	<monogr>
+		<title level="m" type="main" xml:id="_GyVx8Q2">How to Make ‘Cash Plus’ Work</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Roelen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Devereux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A.-G</forename><surname>Abdulai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Martorano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Palermo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">P</forename><surname>Ragno</surname></persName>
+		</author>
+		<idno type="DOI">10.18356/0e6268b5-en</idno>
+		<imprint>
+			<date type="published" when="2017-08-31">2017</date>
+			<publisher>United Nations Publications</publisher>
+			<pubPlace>Florence</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Innocenti Working Papers 10</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b32">
+	<analytic>
+		<title level="a" type="main" xml:id="_JTwdWcB">The Essentials of Social Cohesion: A Literature Review</title>
+		<author>
+			<persName><forename type="first">David</forename><surname>Schiefer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jolanda</forename><surname>Van Der Noll</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11205-016-1314-5</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_SnKjJX5">Social Indicators Research</title>
+		<title level="j" type="abbrev">Soc Indic Res</title>
+		<idno type="ISSN">0303-8300</idno>
+		<idno type="ISSNe">1573-0921</idno>
+		<imprint>
+			<biblScope unit="volume">132</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="579" to="603" />
+			<date type="published" when="2017">2017</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b33">
+	<analytic>
+		<title level="a" type="main" xml:id="_Tnegspt">Perceived discrimination predicts increased support for political rights and life satisfaction mediated by ethnic identity: A longitudinal analysis</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Stronge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">K</forename><surname>Sengupta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">K</forename><surname>Barlow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Osborne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Houkamau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Sibley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_wR56hY8">Cultural Diversity and Ethnic Minority Psychology</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="359" to="368" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b34">
+	<monogr>
+		<ptr target="https://www.unicef.org/esa/media/2181/file/UNICEF-ESA-2015-Social-Cash-Transfer-Publication.pdf" />
+		<title level="m" xml:id="_yBvnduj">Social cash transfers and children&apos;s outcomes: A review of evidence from Africa</title>
+		<imprint>
+			<publisher>UNICEF-ESARO</publisher>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b35">
+	<analytic>
+		<title level="a" type="main" xml:id="_7bzHyK7">Community game day: Using an end-of-life conversation game to encourage advance care planning</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Van Scoy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Reading</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hopkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Dillon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">H</forename><surname>Levi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_NxfK8fB">Journal of Pain and Symptom Management</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="680" to="691" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b36">
+	<analytic>
+		<title level="a" type="main" xml:id="_nFrjA3P">The Impact of Microfinance in Sub-Saharan Africa: A Systematic Review of the Evidence</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Van Rooyen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Stewart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>De Wet</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.worlddev.2012.03.012</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_TKfUVEj">World Development</title>
+		<title level="j" type="abbrev">World Development</title>
+		<idno type="ISSN">0305-750X</idno>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="2249" to="2262" />
+			<date type="published" when="2012-11">2012</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b37">
+	<monogr>
+		<author>
+			<persName><forename type="first">G</forename><surname>Vanmeenen</surname></persName>
+		</author>
+		<title level="m" xml:id="_MNPzBD6">Savings and internal lending communities (SILC): Voices from Africa</title>
+		<meeting><address><addrLine>Nairobi, Kenya</addrLine></address></meeting>
+		<imprint>
+			<publisher>Catholic Relief Services</publisher>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b38">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Waller</surname></persName>
+		</author>
+		<title level="m" xml:id="_etS2FSZ">Empowering women through savings groups: A study from the Wellness and Agriculture for Life Advancement (WALA) Program</title>
+		<meeting><address><addrLine>Baltimore, MD</addrLine></address></meeting>
+		<imprint>
+			<publisher>Catholic Relief Services</publisher>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b39">
+	<analytic>
+		<title level="a" type="main" xml:id="_ZndSgkc">Determinants of Repayment Performance in Credit Groups: The Role of Program Design, Intragroup Risk Pooling, and Social Cohesion</title>
+		<author>
+			<persName><forename type="first">Manfred</forename><surname>Zeller</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/452360</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Ze75VZs">Economic Development and Cultural Change</title>
+		<title level="j" type="abbrev">Economic Development and Cultural Change</title>
+		<idno type="ISSN">0013-0079</idno>
+		<idno type="ISSNe">1539-2988</idno>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="599" to="620" />
+			<date type="published" when="1998-04">1998</date>
+			<publisher>University of Chicago Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,1535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" xml:id="_DPQgwrs">A multifaceted program causes lasting progress for the very poor: Evidence from six countries</title>
+				<funder>
+					<orgName type="full">Asociación Arariwa</orgName>
+				</funder>
+				<funder ref="#_nw4XUAt">
+					<orgName type="full">Yale University Human Subjects Committee</orgName>
+				</funder>
+				<funder ref="#_X5Hqcdh">
+					<orgName type="full">IRB Protocol</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">3ie</orgName>
+				</funder>
+				<funder ref="#_GW6rp5B">
+					<orgName type="full">FHI 360</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Aga Khan Planning and Building Services Pakistan</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Ford Foundation</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Pakistan Poverty Alleviation Fund</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">PLAN International Peru</orgName>
+				</funder>
+				<funder ref="#_wRxktdu #_4jcgKBy #_v65RfHE #_UGhHKZd #_U3XG3XU #_bhDpfBG #_5WTWkYH">
+					<orgName type="full">unknown</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Bandhan</orgName>
+				</funder>
+				<funder ref="#_tPEFmpH">
+					<orgName type="full">Innovations for Poverty Action Human Subjects Committee</orgName>
+				</funder>
+				<funder ref="#_ZQFN7mP">
+					<orgName type="full">U.S. Agency for International Development</orgName>
+					<orgName type="abbreviated">USAID</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Organización de Desarollo Empresarial Feminino Social, Relief Society of Tigray, Presbyterian Agricultural Services</orgName>
+					<orgName type="abbreviated">PAS</orgName>
+				</funder>
+				<funder ref="#_9shPNz8">
+					<orgName type="full">MIT Human Subjects Committee</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Badin Rural Development Society, Indus Earth Trust, Sindh Agricultural and Forestry Workers Coordinating Organization</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">PLAN International Honduras</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Association for the Advancement of Science (AAAS)</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2025-10-20">October 20, 2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Abhijit</forename><surname>Banerjee</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Massachusetts Institute of Technology (MIT)</orgName>
+								<address>
+									<settlement>Cambridge</settlement>
+									<region>MA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Center for Economic and Policy Research (CEPR)</orgName>
+								<address>
+									<settlement>Washington</settlement>
+									<region>DC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">National Bureau of Economic Research (NBER)</orgName>
+								<address>
+									<settlement>Cambridge</settlement>
+									<region>MA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Jameel Poverty Action Lab (J-PAL)</orgName>
+								<orgName type="institution">MIT</orgName>
+								<address>
+									<settlement>Cambridge</settlement>
+									<region>MA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Esther</forename><surname>Duflo</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Massachusetts Institute of Technology (MIT)</orgName>
+								<address>
+									<settlement>Cambridge</settlement>
+									<region>MA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Center for Economic and Policy Research (CEPR)</orgName>
+								<address>
+									<settlement>Washington</settlement>
+									<region>DC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">National Bureau of Economic Research (NBER)</orgName>
+								<address>
+									<settlement>Cambridge</settlement>
+									<region>MA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Jameel Poverty Action Lab (J-PAL)</orgName>
+								<orgName type="institution">MIT</orgName>
+								<address>
+									<settlement>Cambridge</settlement>
+									<region>MA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Nathanael</forename><surname>Goldberg</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Innovations for Poverty Action (IPA)</orgName>
+								<address>
+									<settlement>New Haven</settlement>
+									<region>CT</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Dean</forename><surname>Karlan</surname></persName>
+							<email>dean.karlan@yale.edu</email>
+							<affiliation key="aff1">
+								<orgName type="department">Center for Economic and Policy Research (CEPR)</orgName>
+								<address>
+									<settlement>Washington</settlement>
+									<region>DC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">National Bureau of Economic Research (NBER)</orgName>
+								<address>
+									<settlement>Cambridge</settlement>
+									<region>MA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Jameel Poverty Action Lab (J-PAL)</orgName>
+								<orgName type="institution">MIT</orgName>
+								<address>
+									<settlement>Cambridge</settlement>
+									<region>MA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department">Innovations for Poverty Action (IPA)</orgName>
+								<address>
+									<settlement>New Haven</settlement>
+									<region>CT</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="institution">Yale University</orgName>
+								<address>
+									<settlement>New Haven</settlement>
+									<region>CT</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Robert</forename><surname>Osei</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="institution">University of Ghana-Legon</orgName>
+								<address>
+									<settlement>Accra</settlement>
+									<country key="GH">Ghana</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">William</forename><surname>Parienté</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Jameel Poverty Action Lab (J-PAL)</orgName>
+								<orgName type="institution">MIT</orgName>
+								<address>
+									<settlement>Cambridge</settlement>
+									<region>MA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff7">
+								<orgName type="department">Institut de Recherches Economiques et Sociales (IRES)</orgName>
+								<orgName type="institution" key="instit1">Université Catholique de Louvain</orgName>
+								<orgName type="institution" key="instit2">Louvain-La-Neuve</orgName>
+								<address>
+									<country key="BE">Belgium</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jeremy</forename><surname>Shapiro</surname></persName>
+							<affiliation key="aff8">
+								<orgName type="institution">Princeton University</orgName>
+								<address>
+									<settlement>Princeton</settlement>
+									<region>NJ</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Bram</forename><surname>Thuysbaert</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Innovations for Poverty Action (IPA)</orgName>
+								<address>
+									<settlement>New Haven</settlement>
+									<region>CT</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff9">
+								<orgName type="institution">Ghent University</orgName>
+								<address>
+									<settlement>Ghent</settlement>
+									<country key="BE">Belgium</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Christopher</forename><surname>Udry</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Center for Economic and Policy Research (CEPR)</orgName>
+								<address>
+									<settlement>Washington</settlement>
+									<region>DC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">National Bureau of Economic Research (NBER)</orgName>
+								<address>
+									<settlement>Cambridge</settlement>
+									<region>MA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Jameel Poverty Action Lab (J-PAL)</orgName>
+								<orgName type="institution">MIT</orgName>
+								<address>
+									<settlement>Cambridge</settlement>
+									<region>MA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="institution">Yale University</orgName>
+								<address>
+									<settlement>New Haven</settlement>
+									<region>CT</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main" xml:id="_SavQKae">A multifaceted program causes lasting progress for the very poor: Evidence from six countries</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main" xml:id="_MsezakZ">Science</title>
+						<title level="j" type="abbrev">Science</title>
+						<idno type="ISSN">0036-8075</idno>
+						<idno type="eISSN">1095-9203</idno>
+						<imprint>
+							<publisher>American Association for the Advancement of Science (AAAS)</publisher>
+							<biblScope unit="volume">348</biblScope>
+							<biblScope unit="issue">6236</biblScope>
+							<date type="published" when="2025-10-20">October 20, 2025</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">56C3D50C3EB1BF06A4A8FA4E59641A09</idno>
+					<idno type="DOI">10.1126/science.1260799</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2025-11-05T22:54+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a292bac</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=1, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=true, generateTeiCoordinates=[true], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_ZUPTM2Z"><p xml:id="_pka967d">INTRODUCTION: Working in six countries with an international consortium, we investigate whether a multifaceted Graduation program can help the extreme poor establish sustainable self-employment activities and generate lasting improvements in their well-being. The program targets the poorest members in a village and provides a productive asset grant, training and support, life skills coaching, temporary cash consumption support, and typically poor is sustainable and cost-effective. ▪</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="594.0" lry="756.0"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="594.0" lry="756.0"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="594.0" lry="756.0"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="594.0" lry="756.0"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="594.0" lry="756.0"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="594.0" lry="756.0"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="594.0" lry="756.0"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="594.0" lry="756.0"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="594.0" lry="756.0"/>
+		<surface n="10" ulx="0.0" uly="0.0" lrx="594.0" lry="756.0"/>
+		<surface n="11" ulx="0.0" uly="0.0" lrx="594.0" lry="756.0"/>
+		<surface n="12" ulx="0.0" uly="0.0" lrx="594.0" lry="756.0"/>
+		<surface n="13" ulx="0.0" uly="0.0" lrx="594.0" lry="756.0"/>
+		<surface n="14" ulx="0.0" uly="0.0" lrx="594.0" lry="756.0"/>
+		<surface n="15" ulx="0.0" uly="0.0" lrx="594.0" lry="756.0"/>
+		<surface n="16" ulx="0.0" uly="0.0" lrx="594.0" lry="756.0"/>
+		<surface n="17" ulx="0.0" uly="0.0" lrx="594.0" lry="756.0"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_BPxtSZe"><p xml:id="_t56S3cC">access to savings accounts and health information or services. In each country, the program was adjusted to suit different contexts and cultures, while staying true to the same overall principles. This multipronged approach is relatively expensive, but the theory of change is that the combination of these activities is necessary and sufficient to obtain a persistent impact. We do not test whether each of the program dimensions is individually necessary. Instead, we examine the "sufficiency" claim: A year after the conclusion of the program, and 3 years after the asset transfer, are program participants earning more income and achieving stable improvements in their well-being?</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_XNB7KMr">RATIONALE:</head><p xml:id="_7NwXAFU">We conducted six randomized trials in Ethiopia, Ghana, Honduras, India, Pakistan, and Peru with a total of 10,495 participants. In each site, our implementing partners selected eligible villages based on being in geographies associated with extreme poverty, and then identified the poorest of the poor in these villages through a participatory wealth-ranking process. About half the eligible participants were assigned to treatment, and half to control. In three of the sites, to measure within village spillovers, we also randomized half of villages to treatment and half to control. We conducted a baseline survey on all eligible participants, as well as an endline at the end of the intervention (typically 24 months after the start of the intervention) and a second endline 1 year after the first endline. We measure impacts on consumption, food security, productive and household assets, financial inclusion, time use, income and revenues, physical health, mental health, political involvement, and women's empowerment.</p><p xml:id="_B6nQZfH">RESULTS: At the end of the intervention, we found statistically significant impacts on all 10 key outcomes or indices. One year after the end of the intervention, 36 months after the productive asset transfer, 8 out of 10 indices still showed statistically significant gains, and there was very little or no decline in the impact of the program on the key variables (consumption, household assets, and food security). Income and revenues were significantly higher in the treatment group in every country. Household consumption was significantly higher in every country except one (Honduras). In most countries, the (discounted) extra earnings exceeded the program cost.</p><p xml:id="_h4bNYHP">CONCLUSION: The Graduation program's primary goal, to substantially increase consumption of the very poor, is achieved by the conclusion of the program and maintained 1 year later. The estimated benefits are higher than the costs in five out of six sites. Although more can be learned about how to optimize the design and implementation of the program, we establish that a multifaceted approach to increasing income and well-being for the ultra-We present results from six randomized control trials of an integrated approach to improve livelihoods among the very poor. The approach combines the transfer of a productive asset with consumption support, training, and coaching plus savings encouragement and health education and/or services. Results from the implementation of the same basic program, adapted to a wide variety of geographic and institutional contexts and with multiple implementing partners, show statistically significant cost-effective impacts on consumption (fueled mostly by increases in self-employment income) and psychosocial status of the targeted households. The impact on the poor households lasted at least a year after all implementation ended. It is possible to make sustainable improvements in the economic status of the poor with a relatively short-term intervention.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_zaAM7Qx">M</head><p xml:id="_b6hQ8Ja">ore than one-fifth of the world's population lives on less than purchasing power parity (PPP) US$1.25 a day, and there is an emerging international consensus that this share should (and can) be driven close to zero by 2030 <ref type="bibr" target="#b0">(1,</ref><ref type="bibr" target="#b1">2)</ref>. Reaching this objective will require enabling the poorest families, who are often the most marginalized within their villages, to shift from insecure and fragile sources of income to more sustainable income-generating activities. One possible avenue, popular with both development organizations and governments, is to promote self-employment activities (such as cow rearing or petty trading). Past efforts to reduce poverty by encouraging these types of activities among the poor, however, have often been plagued by implementation problems and been deemed failures <ref type="bibr" target="#b2">(3)</ref>. For example, India's Integrated Rural Development Program (IRDP) is believed to have been both poorly targeted and ineffective <ref type="bibr" target="#b3">(4,</ref><ref type="bibr" target="#b4">5)</ref>. However, in recent years, several large nongovernmental organizations (prominent international northern NGOs such as Oxfam, World Vision, and Heifer, as well as many local NGOs) have gone back to this "livelihood" approach. This past experience raises the question: Is it actually pos-sible to reliably improve the livelihoods of the poorest households by giving them access to selfemployment activities, or is this entire approach flawed? In particular, is it possible to come up with a model for doing so that can be implemented by a wide variety of organizations and works in a wide range of geographic, institutional, and cultural contexts?</p><p xml:id="_83FyN98">We present results from randomized control trials (RCTs) in six countries of a particular approach to foster self-employment activities among the very poor. Originally designed and implemented by BRAC, a large Bangladeshi NGO that runs several country-wide programs, the "Graduation" program provides a holistic set of services, including the grant of a productive asset, to the poorest households in a village (referred to by BRAC as the "ultra-poor"). The beneficiaries are identified through a participatory process in a village meeting, followed by a verification visit by the organization's staff. Selected beneficiaries are then given a productive asset that they choose from a list, training and support for the asset they have chosen, as well as general life skills coaching, weekly consumption support for some fixed period, and typically access to savings accounts and health information or services. These different activities (plus regular interactions with the households over the course of a year) are designed to complement each other in helping households to start a productive self-employment activity. The idea is to provide a "big push," over a limited period of time, with the hope of unlocking a poverty trap. The program costs per household average 100% (range from 62 to 145%) of baseline household consumption. Although the program may initially be relatively expensive (compared to just providing training, coaching or a cash transfer), the thinking behind the program is that the combination of these activities is necessary and sufficient to obtain a persistent impact on a large fraction of the beneficiaries.</p><p xml:id="_5dzdHB3">We address the "sufficiency" claim: Is the Graduation approach effective and cost-effective, and can it be implemented at scale and in different contexts and cultures? Whether all the ingredients of the program are individually necessary is not tackled here and will need to be dealt with in future work.</p><p xml:id="_5SbaQZ7">A key feature of the BRAC approach is that, while comprehensive, it is well codified, scalable, and replicable. BRAC has already implemented the program at scale in Bangladesh. As of 2011, BRAC had reached close to 400,000 households, and a further 250,000 were scheduled to be reached between 2012 and 2016 <ref type="bibr" target="#b5">(6)</ref>. It has now also been replicated in about 20 countries, including the six countries that are studied here. A high-quality RCT, conducted independently but simultaneously with this study, has shown the BRAC program in Bangladesh to be very effective <ref type="bibr" target="#b5">(6)</ref>. Two years after graduation, households have expanded their self-employment activities, diversified out of agriculture and livestock, reduced casual labor, and increased consumption. Previous nonrandomized studies of the BRAC program (7-9) found similar impacts.</p><p xml:id="_Ma4VdkB">Between 2007 and 2014, we conducted a multisite RCT of the Graduation program. The sites were chosen as part of an effort led by the Ford Foundation and Consultative Group to Assist the Poor (CGAP), referred to here as the Graduation Program Consortium. The programs were implemented by six different organizations in six countries (Ethiopia, Ghana, Honduras, India, Pakistan, and Peru), but overall planning on the programs and evaluation were coordinated from the onset (10). Treatment was randomly assigned among eligible households. Data were collected at baseline and immediately after the programs ended, 2 years later ("endline 1"), and again 1 year after the programs ended, i.e., about 3 years after the beginning of the programs ("endline 2"). We report pooled results from all the sites (21,063 adults in 10,495 households), as well as site-bysite results.</p><p xml:id="_QAKvaGW">The main contribution of this study is the evaluation of the cost-effectiveness of the same potentially important intervention across a diverse set of contexts. The sites span three continents, and different cultures, market access and structures, religions, subsistence activities, and overlap with government safety net programs. This diversity should give us a high level of confidence in the robustness of the impact to variations in both the context and implementation agency. The core components of the program are similar in substance and magnitude, although the program design includes adjustments as are necessary for local contexts. For example, country-specific market analysis was conducted to determine viable livelihoods to promote, rather than simply promoting the same livelihood in every context. In addition, because the study was conceived from the onset as one multisite study, variables were collected in a comparable manner on a broad array of outcomes. Finally, households were surveyed over 3 years, including 1 year after the end of the program, which directly speaks to the sustainability of the changes we observe.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_uahCDtX">The program: Commonalities and variations</head><p xml:id="_umSgXmw">The basic approach of the program is to combine six different activities designed to complement each other to help households start, and continue with, a self-employment activity. The core of the program is a productive asset transfer, but the premise of the program is that the support has to be sufficiently broad and long-lasting to ensure that households continue to benefit from that asset into the future.</p><p xml:id="_cz68chx">Following identification of the beneficiary households through a participatory process in the village, the six activities are:</p><p xml:id="_aUSSGwv">1. Productive asset transfer: a one-time transfer of a productive asset 2. Consumption support: a regular transfer of food or cash for a few months to about a year (11)</p><p xml:id="_SN4ndvt">3. Technical skills training on managing the particular productive assets 4. High-frequency home visits 5. Savings: access to a savings account and in some instances a deposit collection service and/ or mandatory savings 6. Some health education, basic health services, and/or life-skills training</p><p xml:id="_fTukJxM">The Graduation Program Consortium organized global learning events at which staff from each of the sites, along with researchers, gathered to discuss site-specific design considerations. The Consortium also hosted a dedicated website to foster ongoing knowledge exchange between sites and a wider community of practice. There were five global learning events between 2008 and 2014, plus several regional workshops. The first two global meetings featured exposure visits to the BRAC program in Bangladesh and the Bandhan program in India. Each partner thus participated in at least two field visits, with some additional exchange visits arranged on an ad hoc basis (e.g., the Ghana team visited the Ethiopia site as they designed their program).</p><p xml:id="_qYeTDbh">We now detail the core components of the program. We first discuss the commonalities across all sites, and then discuss the important variations across sites. Table <ref type="table" target="#tab_0">1</ref> has a detailed description of the program features in each site.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_GBF2p6z">Targeting</head><p xml:id="_MfUXJdY">The Graduation program is intended to serve the poorest of the poor within villages. The targeting process starts with selection of a poor region based on national survey data, and a list of villages within the target area (often selected in consultation with program staff). At most program sites, ultrapoor households are then identified using a Participatory Wealth Ranking (PWR) during which villagers create an economic ranking of all village households. In Indonesia, Alatas et al. <ref type="bibr" target="#b9">(12)</ref> find that a PWR used to identify recipients of a gov-ernment program successfully identified the poorer households. The households selected for the Graduation program through the PWR are then visited by field officers from the implementing organizations to verify their poverty status with an asset checklist [often the Progress out of Poverty (PPI) scorecard (13)]. Of the selected households, 48% have daily per capita consumption below PPP US$1.25, compared to 19% of the population at-large in these countries (table <ref type="table" target="#tab_0">S1a</ref>).</p><p xml:id="_Z32uMKA">A fraction of households in the resulting list are then randomly assigned to receive the program and are invited to participate. In all sites but India, all intended beneficiaries enrolled. We provide more discussion of take-up in the India program below.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_EeHq4qE">Productive-asset transfer</head><p xml:id="_Jas3ugY">The asset transfer is the core component of the program and also one of its largest costs. Each household chose, in consultation with the field officer, one of the assets (or asset bundle options) in a list proposed by the implementing organization (often, this list was created after hiring local experts to analyze markets and the viability of livelihood options). Common choices included raising livestock (sheep, goats, chicken, cattle, etc.) and petty trade, and are detailed in Table <ref type="table" target="#tab_0">1</ref>. The value of assets varied between sites, ranging from PPP US$437 to PPP US$1228 per household. The differences in transfer costs partially reflect the differences in local livestock prices: All but one site (Peru) transferred productive assets worth between four to eight goats at local prices (see Table <ref type="table" target="#tab_0">1</ref> for exact figures). Furthermore, although the asset type differed across countries, the principle in choosing the asset was consistent. In four of the six sites, the asset transferred was the most or the second most commonly held asset at baseline. In Peru and Ethiopia, the most commonly transferred assets were guinea pigs, and sheep and goats, respectively, because they were believed to be more profitable than the most commonly held assets. Different assets generated quite different cash flow patterns: Some produced immediate revenue (e.g., petty trade), whereas others (like cows) produced far more delayed and lumpy revenue flows.</p><p xml:id="_xETzw6x">The asset transfer generally happened between 0 and 15 months, largely depending on the site, after the identification of the beneficiaries and the baseline survey. In Pakistan, where the intervention was run by several organizations, it took several months, and in some cases a year or more, to complete all rounds of asset transfers. Honduras also had delays in starting the program. In Ethiopia, the transfers were spread out over 6 months.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_SwM5XVZ">Consumption support</head><p xml:id="_PJzawPf">Consumption support-generally a cash stipendwas distributed typically weekly or monthly. The purpose of the consumption stipend is both to immediately improve and stabilize consumption, and to reduce incentives to sell (or eat up) the productive assets being distributed. The distribution of consumption support lasted between 4 and 13 months, depending on the site, and ranged from PPP US$24 to PPP US$72 per month <ref type="bibr" target="#b11">(14)</ref>. This variation partly reflects the fact that the PPP in each country is not based on the bundle of goods purchased by the poor: In all sites but Ethiopia (where the consumption support was part of an existing program), the transfer corresponds roughly to the monetary equivalent of between 2,402 and 5,142 calories per day (or roughly a kilogram of rice at local price) <ref type="bibr" target="#b12">(15)</ref>.</p><p xml:id="_AjZQGvf">Consumption support was provided everywhere, but in two sites (Ethiopia and Peru), a form of consumption support already existed before the program started, so it was available for all (Ethiopia) or part (Peru) of the control group, as well. In Ethiopia, both treatment and control households received benefits from the Productive Safety Net Programme (PSNP), a food-forwork program for food-insecure households. For this reason, the program did not offer any additional consumption support to treatment households. In Peru, a conditional cash transfer program, Juntos, was active in 51 of the 86 project villages. Juntos provides PEN 200 (PPP US$143.33) every 2 months, on the condition that female heads of households meet the following conditions: obtain identity cards for their children, take children under 5 to health check-ups, and send children to school. In the non-Juntos villages, the treatment households received a "Juntos-like" consumption support: PEN 100 (PPP US$71.96) per month for 9 months, conditional on children attending school and receiving health check-ups. In our sample, 57% of control households report receiving support from Juntos during the baseline survey, whereas all the treatment households receive either Juntos or the replacement. Thus, Peru is an intermediate case between Ethiopia and the other sites.</p><p xml:id="_D3xqUw9">Honduras implemented its consumption support by providing a one-time food transfer intended to cover the 6-month lean season.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_3CX5NsM">Training</head><p xml:id="_FHbyxvz">Before receiving their assets, households were provided with training on running a business and managing their chosen livelihood. For example, those selecting livestock received information on how to rear the livestock, including vaccinations, feed, and treatment of diseases.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_7MDBdmj">High-frequency home visits</head><p xml:id="_jhPn3UU">Households received regular training and coaching from a field officer throughout the 2-year program. The visits were intended to provide accountability (i.e., making sure that the households carry out the tasks necessary to maintain and grow their livelihood into a stable incomegenerating activity), as well as to be encouraging (e.g., helping households believe that they can have control of their lives and put themselves on a path out of extreme poverty) <ref type="bibr" target="#b13">(16)</ref>. During the home visits, field staff provided health education and financial capabilities coaching. In Peru, where traveling to the villages proved to be logistically challenging, visits happened only every 6 weeks, and in Pakistan, similar difficulties led the implementing NGOs to shift gradually to biweekly or monthly visits. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_fQcszc6">1260799-3</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_MjthDZt">Savings</head><p xml:id="_ypAhXmw">Households were encouraged (and in some sites, required) to save in order to improve their ability to cope with shocks. This is one component that varied from site to site. Four sites (Ethiopia, Honduras, India, and Peru) partnered with microfinance institutions able to provide access to savings accounts. In Pakistan, households were encouraged to save through savings groups, and in Ghana, households received savings accounts. In India and Ghana, individuals were able to save at program meetings or with a visit by a field agent, but in the other four sites, households had to make deposits at the financial institution.</p><p xml:id="_29MbbzC">In Honduras, savings were further encouraged through financial incentives. Beneficiary households opened a savings account and were randomized into two groups: (i) savings matching semi-annually equal to 50% of the average account balance, or (ii) monthly direct savings transfers. Both groups received savings incentives equal to a maximum value of HNL 800 (PPP US$90.42). We do not analyze this experimental variation in this paper.</p><p xml:id="_txwR8Fg">Ethiopia had a strong forced savings component. The government prohibited unconditional transfers to the poor. To satisfy this prohibition but still implement the program, the implementing partner, Relief Society of Tigray (REST) and the government agreed to allow the asset transfers to be described as "like" a loan, as recipients had to make deposits into a savings account in exchange for receiving the asset. Households were not able to withdraw their savings from the account until they saved an amount equal to ETB 4724 (PPP US$1228), the value of the asset transfer. However, once households achieved the required savings threshold, they had full access to their deposits and could withdraw from their accounts as they saw fit. Furthermore, if they failed to make the deposits, they did not forfeit their asset. Compliance with the deposits was very high, with only 15 households (out of 458) not fulfilling the commitment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_c5fuSAq">Health and other services</head><p xml:id="_bAeY4f7">Finally, all sites but one (Ethiopia) included a health component such as health, nutrition, and hygiene training. Some sites also facilitated access to health care, either as direct services from community health workers, referring them to government or NGO health clinics, or by enrolling beneficiaries in national health insurance. Several of the sites organized support from village assistance committees comprising village leaders who helped advise the households, mediated problems, and connected beneficiaries with additional services.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_ShAfesr">Experimental methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_CqGw5re">Experimental design</head><p xml:id="_DjRG59u">Of the six experiments, three are individual randomized trials with randomization at the household level within each village (India, Ethiopia, and Pakistan) and three are clustered randomized trials, with randomization at both the village and household level (Ghana, Honduras, and Peru). In the countries with clustered randomization, villages were randomly selected to be treatment or control villages, and then treatment households were randomly selected within the set of eligible households in treatment villages. The goal of this design was to be able to measure spillovers. For the main analysis in this paper, we ignore possible externalities and include all control households (within villages or across villages). In the Results section, we provide a discussion of whether any spillovers within the sample may bias our results. Randomization was carried out either remotely by the research team (using a computer), or on-site via a public lottery.</p><p xml:id="_UXj4XNd">One site (Ghana) had a more complex design with two additional treatment groups (savings only, and productive asset grant only) to "unpack" those aspects of the intervention. In this paper, we are using only the group that received the pooled intervention. This is because none of the other studies systematically tried to unpack the effects, and therefore even with the full Ghana results we would have just one "data-point" and would not be able to answer the unpacking questions with anything approaching the degree of confidence that we have about the overall program effect.</p><p xml:id="_bhUesVx">The sample size used in the analysis varies from 925 households (Ethiopia) to 2,606 households (Ghana) from site to site. The overall sample size pooling all sites is 10,495 households.</p><p xml:id="_zJBYp3G">Table <ref type="table" target="#tab_1">2</ref> provides details by site of key experimental design features, including sample sizes; Fig. <ref type="figure" target="#fig_0">1</ref>  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_F74AsH2">Integrity of the experimental design</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_AuHXZNa">Balance</head><p xml:id="_XQrX5cG">Table <ref type="table" target="#tab_0">S1b</ref> presents baseline data for the same variables and indices used as the primary outcome measures. Panel A presents the mean comparisons and t tests for equality of means. At baseline, we fail to reject at the 5% level the equality of means of treatment and control groups for any of the 10 primary outcome measures. Panel B presents similar analysis, but with a regression framework that includes fixed effects by country, and finds similar balances. The aggregate test, reported in panel C, finds that we are not able to reject equality of means across all 10 measures (p-value = 0.689). Tables <ref type="table" target="#tab_0">S1c to S1e</ref>, present similar results for each country. Overall, the sample balance was good in every individual country.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_DT6MMDa">Survey attrition</head><p xml:id="_X975DRU">Table <ref type="table" target="#tab_0">S1f</ref> presents an analysis of survey attrition for both endlines 1 and 2. The follow-up rate was excellent. We resurveyed 94% of baseline respondents in endline 1, and 91% in endline 2 (panel A). Panel B presents analysis on the type of people that were more likely to be resurveyed.</p><p xml:id="_6tk4V29">Panel C presents a test of whether the treatment affected the type of person who completed the endline surveys, i.e., whether the treatment caused a sample composition bias. The p-values on a full set of baseline characteristics interacted with treatment are 0.75 (endline 1) and 0.17 (endline 2), thus supporting the contention that the survey attrition did not lead to a different sample frame across treatment and control groups (17). Tables <ref type="table" target="#tab_0">S1g</ref> and <ref type="table" target="#tab_0">S1h</ref> present similar results for each country. At 17%, attrition was the worst in India in endline 1; Pakistan was the worst at endline 2, at 21%. In neither country was attrition differential in the treatment group.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_NR82Thr">Compliance with treatment assignment</head><p xml:id="_DYSPjrb">In all sites but one, the experimental design was strictly adhered to: No control received the program, and all treatment households received the program. The India site was the only site in which some individuals refused participation: 52% of those selected in the randomization participated in the program. According to Bandhan, the implementing organization, 35% of households declined the offer, for two unrelated reasons: First, in some villages, a section of villagers held the (erroneous) belief that Bandhan was a Christian organization trying to convert beneficiaries, and acceptance of the livestock constituted agreeing in some way to participating in Christian rituals. Second, some wives were worried that their husband would mishandle the asset and they would lose face in front of their village. A further 13% were deemed ineligible by Bandhan because they were participating in microcredit or self-help group activities. The analysis below is an "intent-to-treat" (ITT): We compare households assigned to control to those assigned to treatment, irrespective of whether they received treatment or not.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_mWbFCVM">Analysis methods for pooled results</head><p xml:id="_WUycQDP">Following standard practice in the analysis of multi-site trials, we estimate a single model, with strata and country dummies. Each column of each table represents the results of a separate ordinary least squares (OLS) regression of the form</p><formula xml:id="formula_0">Y k i ¼ a þ b 1 assignment i þ bZ k i þ T country þ U shortsurveys þ V stratification þ e i<label>ð1Þ</label></formula><p xml:id="_6Uwyneu">where Y k i is the outcome k of interest for either household or adult i (details of the variable constructions are presented in the supplementary SCIENCE sciencemag.org 15 MAY 2015 • VOL 348 ISSUE 6236 1260799-7 Ethiopia Ghana Honduras India Pakistan Peru Number of months between end of household visits (i.e., end of program interaction with households) and midpoint of endline 1 1 1 3 5 Varied by partner 2 Number of months between midpoint of endline 1 and midpoint of endline 2 13 12 13 15 7 12 </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_U7TPzVT">RESEARCH | RESEARCH ARTICLE</head><p xml:id="_wm9V9Zd">Downloaded from <ref type="url" target="https://www.science.org">https://www.science.org</ref> at University of Sussex on October 20, 2025 text 1 to 3), assignment i is an indicator for having been randomly selected into the program, Z k i is the household or adult's baseline value of the outcome variable k (coded as zero, with an indicator for missing baseline, whenever it was not available), T country is a vector of dummy variables for each of the countries in the study, U shortsurveys is a vector of dummy variables indicating whether or not the household was surveyed in a short survey round (in some countries, data were collected through both long and short surveys), and V stratification is the vector of all variables included in stratification in each of the six countries (18).</p><p xml:id="_nnWMFDN">In the main analysis of the pooled sample, no adjustments are made to reflect the differences in sample sizes between countries; every observation is weighted equally. Again, this follows standard practice in the analysis of multisite RCTs. Regressions that instead weigh each country equally generate similar results. For each variable that we report, we also present the result of a test for equality of the effects across sites (which we discuss in the next subsection).</p><p xml:id="_KEmPSKz">Because of the comprehensive nature of the program, a large number of outcome variables are reported. Therefore, we expect some of the variables to show significant results due to chance. To avoid overemphasis on any single significant result, we take several steps. First, following Kling et al. <ref type="bibr" target="#b14">(19)</ref>, for each "family" of outcomes, we report an index of all of the outcomes taken together, which we report in Table <ref type="table" target="#tab_2">3</ref>. This is our main results table. We construct indices first by defining each outcome Y k ijl (outcome k, for observation i in family j, within country l) so that higher values correspond to better outcomes. Then we standardize each outcome into a z-score, by subtracting the country control group mean at the corresponding survey round and dividing by the country l's control group standard deviation (SD) at the corresponding survey round. We then average all the z-scores, and again standardize to the control group within each country and round (20).</p><p xml:id="_6BkgtqW">Second, given that multiple families of outcomes are being reported, we correct for the potential issue of simultaneous inference using multiple inference testing. We calculate q-values using the Benjamini-Hochberg step-up method <ref type="bibr" target="#b15">(21)</ref> to control for the false discovery rate (FDR). We follow the procedure outlined in Anderson <ref type="bibr" target="#b16">(22)</ref>, and test a at all significance levels (1.000, 0.999, 0.998… 0.000). Our q-value is the smallest a at which the null hypothesis is rejected. It is reported in Table 3 <ref type="bibr" target="#b17">(23)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_HuVWPgU">Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_gcKhnKg">Pooled sample</head><p xml:id="_6VbKaaX">Table 3 (both endlines), fig. <ref type="figure" target="#fig_2">S2</ref> (endline 1), and Fig. <ref type="figure" target="#fig_2">2</ref> (endline 2) present an overview of the results pooled across all sites. Table <ref type="table" target="#tab_2">3</ref> shows the results aggregated by "families," including q-values corrected for the fact that we are presenting the results from 10 indices <ref type="bibr" target="#b18">(24)</ref>.</p><p xml:id="_qhfQS6p">At endline 1 (year 2 of the study, just after the end of the program in most sites), all the families of outcomes have improved in the treatment group (compared to the control group). We use two outcome measures for consumption: Per capita consumption increases by 0.12 SDs (q-value 0.001), which is equivalent to PPP US$4.55 per capita per month, or roughly 5% of control group mean of PPP US$78.80; and an index of food security increases by 0.11 SDs (q-value 0.001). An index of productive and household assets increases by 0.26 SDs (q-value 0.001). Household income and revenues increase by 0.38 SDs (q-value 0.001). There are also improvements in personal lives: Physical health improves by 0.034 SDs (q-value 0.078), and mental health improves by 0.10 SDs (q-value 0.001). Political involvement increases by 0.064 SDs (q-value 0.001), and women's empowerment by 0.046 SDs (q-value 0.049).</p><p xml:id="_VGGqsqk">By endline 2 (year 3 of the study, typically 1 year after the program ended), all the effects on economic variables are still significant, and usually similar to or larger than after endline 1. It is striking that there is no evidence of mean reversion in the per capita consumption, food security, or assets. The gains in financial inclusion, total time spent working, income and revenue, and mental health have declined but are still positive and statistically significant. The gains in physical health and women's empowerment have declined and are no longer statistically significant.</p><p xml:id="_Nvds8jK">Figure <ref type="figure" target="#fig_2">S2</ref> and Fig. <ref type="figure" target="#fig_2">2</ref>, which present the variableby-variable results at a glance, tell a similar story: The indices are not driven by specific variables. Most individual variables show significant impacts at endline 1. At endline 2, most variables stay significant, and the various variables in the women's decision-making families and the mental health families have either declined or become not significant.</p><p xml:id="_nTsErHJ">Tables <ref type="table" target="#tab_1">S2a to S2h</ref>, contain the detailed variableby-variable results for the entire sample.</p><p xml:id="_QBpREE9">In table <ref type="table" target="#tab_1">S2a</ref>, we see that food consumption increases more than nonfood consumption, both in absolute value and in proportion (specifically, food consumption increases 7.5% from a control group mean of $51.60, and nonfood consumption increases 2.4% from a control group mean of $25.30). The elasticity of food consumption to overall expenditure appears to be greater than 1, a striking result given prior estimates of well below 1 <ref type="bibr" target="#b19">(25)</ref>. Durable goods expenditures do not increase significantly in either time period, but we do see that treatment households have more household assets than the control households in both periods (table <ref type="table" target="#tab_1">S2c</ref>), so the expenditure variable may fail to pick up some durable goods expenditures. The consequence of the increase in food expenditure is a greater sense of food security (table <ref type="table" target="#tab_1">S2b</ref>), which is as strong in endline 2 as in endline 1 (for example, 14% reported at least one person not eating at all for an entire day, compared to 17% in the control group; table <ref type="table" target="#tab_1">S2b</ref>, column 3).</p><p xml:id="_ZzbpMts">In table <ref type="table" target="#tab_1">S2c</ref>, we see that households have statistically significantly more assets both in endline 1 and in endline 2. The asset index we construct in all countries is 0.26 SDs larger in endline 1 and 0.25 SDs larger in endline 2. Likewise, the effect size for productive assets (those used in household self-employment activities) does not change between endlines 1 and 2, with an effect size of 0.27 SDs at endline 1 and 0.25 SDs at endline 2. There is an increase both in household and productive assets, but the increase in productive assets is larger in both years (productive asset value increases by 15.1 and 13.6% compared to control group means of PPP US$1964 and PPP US$1576 in endline 1 and 2, respectively). Row 12 of Table <ref type="table" target="#tab_3">4</ref> compares the value of the assets held by households by year 3 to the value of the asset that was transferred to them. The impact of the program on asset values is lower than the cost of the assets. However, the program impact on asset holdings is stable from year 2 to year 3 (Table <ref type="table" target="#tab_2">3</ref>), so after the households made an initial adjustment to asset holdings, there was no further decline.</p><p xml:id="_MTZZHHb">The increase in asset holding does not come at the expense of more borrowing or less savings. Instead, we see in table <ref type="table" target="#tab_1">S2d</ref> large increase in savings in both endlines (PPP US$151, or 155.5% of control mean in endline 1, and PPP US$75, or 95.7% of control means in endline 2). Savings was mandatory during the first year in many sites, so it is not entirely surprising that we see an increase at endline 1. But continued savings was not required after the program, and the increase in net savings is still large.</p><p xml:id="_hPHJ7mk">These productive assets are being put to use: Adult labor supply increases by 17.5 min per adult per day (10.4% increase over control households) at endline 1, and 11.2 min (6.1% increase) at endline 2 (table <ref type="table" target="#tab_1">S2e</ref>). The increase is concentrated on livestock and agricultural activities, consistent with the assets chosen by most people. More assets and more labor translate into increased revenue from livestock (table <ref type="table" target="#tab_1">S2f</ref>, column 1) (26) and net income from agriculture (column 2). At endline 1, the revenue from livestock is 41.6% larger, compared to a control group mean of PPP US$73.50). At endline 2 it is 37.5% larger, compared to a control group mean of PPP US$80.60. The households also feel better off economically: 0.33 points improvement on a scale of 1 to 10 at endline 1 (control group mean = 3.74), and 0.30 points improvement at endline 2 (control group mean = 3.65). All of the gains to income and revenue persist 1 year after the end of the program, including the increase in self-reported economic status.</p><p xml:id="_KrY3tHQ">Table <ref type="table" target="#tab_1">S2g</ref> presents the detailed health and mental health results. The only significant positive impact on physical health seen at either endline at the 5% level is on the activities of daily living score at endline 1. At endline 1, the mental health index is 0.10 SDs higher, driven by the overall self-reported happiness and lack of symptoms of mental distress (27). By endline 2, the positive impact on the mental health index has declined to 0.071 SDs, but it remains significantly positive and continues to be driven by both self-reported happiness and lack of stress. This minor decrease in the treatment effect may be another instance of the well-known "hedonic treadmill" <ref type="bibr" target="#b20">(28)</ref>.</p><p xml:id="_BXErUkB">Table <ref type="table" target="#tab_1">S2h</ref> presents results on political and social empowerment, and women's empowerment within the household. Beneficiaries, who are at the outset often marginalized within their village, become more likely to be involved in political activity (except voting) and village-level actions. This improvement is true both immediately after the program ends and 1 year later. At endline 1, treatment women report having a greater say in decisions within the household related to health expenditures and home improvements. However, this gain in empowerment does not persist over time.</p><p xml:id="_2P5y4mx">In table <ref type="table" target="#tab_2">S3</ref>, we present bounds for our treatment effects, depending on different assumption with respect to attrition, using Horowitz-Manski-Lee bounds <ref type="bibr" target="#b21">(29,</ref><ref type="bibr" target="#b22">30)</ref>. The conclusions are robust to this exercise, with all lower bounds except that for women's empowerment significantly positive at endline 1.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_rD63gdX">Country-by-country variation</head><p xml:id="_2Md3epj">There are too many countries and too many variables to comment on the country-by-country and variable-by-variable results in detail, though the tables are all available in the supplementary materials. Figure <ref type="figure" target="#fig_4">S3</ref> (endline 1) and Fig. <ref type="figure" target="#fig_4">3</ref> (endline 2) have a format similar to that of fig. <ref type="figure" target="#fig_2">S2</ref> and Fig. <ref type="figure" target="#fig_2">2</ref>, but they present the country-by country results for the summary indices. Tables <ref type="table" target="#tab_3">S4a</ref> through S4f present the impacts on the 10 indexed family outcomes, one table per country. Tables <ref type="table" target="#tab_4">S5a-1</ref> through S5h-2 present the impacts on each of the components in each of the coun-tries, one table per family of outcomes per endline. Here, we highlight some particularly relevant information from this analysis.</p><p xml:id="_mqpW5f2">The first and most important point is that the results are not driven by any one country. The differences across countries can be seen in fig. <ref type="figure" target="#fig_4">S3</ref> and Fig. <ref type="figure" target="#fig_4">3</ref>. We present tests for the hypothesis that the results are the same for all countries for each outcome variable. The hypothesis is rejected for almost all pooled outcomes (Table <ref type="table" target="#tab_2">3</ref>), which suggests that there is significant site-by-site variation (and enough data to pick it up), which would be important to study in future work. However, in endline 1, the program appears to have positive impacts on most indices for most countries (tables <ref type="table" target="#tab_3">S4a to S4f</ref>). An exception is</p><p xml:id="_nY64zbW">SCIENCE sciencemag.org 15 MAY 2015 • VOL 348 ISSUE 6236 1260799-9 1. Results presented are mean standardized intent-to-treat estimates, including country dummies and controls for every variable used in both block stratification and in rerandomization procedures. All indices are standardized with respect to the control group in that same time period.</p><p xml:id="_wT5vvwA">2. Dummy variables are included in endline 1 regressions for wave of data, i.e., for whether observation was from endline 1 or one of the short surveys conducted prior to endline 1.</p><p xml:id="_fYQTM7g">3. See supplementary text 2 for the components of each index 4. Endline 1 was conducted immediately following the end of the household visits, which was typically 2 years after the transfer of productive assets.</p><p xml:id="_qKX3Ebr">5. Endline 2 was conducted 12 months after endline 1, i.e., 1 year after the end of all program activities. 6. Indices measured at the household level are total per capita consumption, food security, assets, financial inclusion, and incomes and revenues. For these indices, our sample size ranges from 9,613 to 9,785 for endline 1, and from 9,482 to 9,508 at endline 2. Use of time, physical health, mental health, and political involvement are asked of adults in each household (normally one or two adults, but as many as seven in India). Sample sizes for these indices range from 12,493 to 15,662 at endline 1 and from 14,051 to 15,136 at endline 2. Pakistan did not include a mental health module in endline 1. India did not include a women's empowerment module in endline 2.</p><p xml:id="_j272PNQ">7. For both household-and adult-level indices, standard errors are clustered at the unit of randomization.</p><p xml:id="_8hbUPmK">Peru, where we see 3 results out of 10 statistically significant at the 5% level. In endline 2, four of the countries (Ethiopia, Ghana, India, and Pakistan) continue to have statistically significant and positive impacts on most variables, but Honduras and Peru have weaker results, with positive and statistically significant impacts on 3 out of 10 and 4 out of 10 families of outcomes before multiple hypothesis adjustments, respectively (and Honduras also has a negative, and statistically significant prior to multiple hypothesis adjustment, impact on assets).</p><p xml:id="_wA6azqV">Turning to the key variables, the gains in per capita consumption, for example, are statistically significant for both endlines in every country except Honduras and Peru. However, we do find a statistically significant increase in food consumption for Honduras in endline 1 and Peru in endline 2 (tables S5a-1 and S5a-2). Likewise, there is an increase in livestock revenues (live-stock was the most frequently chosen asset in all sites) in all countries by endline 2. There is significant improvement in assets in all countries except Honduras (where it actually declines by endline 2). When looking at the variables individually, some results are different from country to country, no doubt partly due to local specificities and probably partly due to pure luck, but the overall bottom line is that the program appears to be effective in most places. Even in Peru, where we see gains on fewer variables than in other countries, the gains in food expenditures per capita, assets, livestock revenues, physical health, and mental health are all positive and significant.</p><p xml:id="_vAzMECK">Second, although it is dangerous to rationalize the Honduras results ex-post, there is a relatively simple explanation for the pattern of results we observe, with generally positive results in endline 1 declining by endline 2. Most households were given chickens. In both endlines we do see an increase in revenue coming from chickens, as well as a significant increase in food consumption. However, a large fraction of the chickens died due to illness. By the time households were interviewed at endline 2, the households had lost most of their productive asset (leading to a negative and statistically significant impact on the asset index by endline 2) and were not consuming more.</p><p xml:id="_pQQFa89">Third, the India results, which come from West Bengal, an area of India that is directly abutting Bangladesh and shares a language and a culture, are strikingly similar, down to most details, to the results in the RCT of the impact of BRAC reported in Bandiera et al. <ref type="bibr" target="#b5">(6)</ref>. In particular, as they do, we find that there is an increase in nonagricultural, nonlivestock income by endline 2 in West Bengal (table <ref type="table" target="#tab_4">S5f</ref>-2). None of these were promoted through the program, yet they materialized as the household's well-being improved <ref type="bibr" target="#b23">(31)</ref>. This result suggests a pathwayincome diversification-through which the results might persist over time.</p><p xml:id="_Y5Wa6MJ">Fourth, the strongest positive results across the board are obtained in Ethiopia. The Ethiopia case is interesting, because it is the one country where all of the control group also received the basic consumption support that, in other sites, is only provided to the treatment groups (in Peru, half of the control group was also on a government cash transfer program, Juntos). Because it is only one country, we have no counterfactual to what would have happened in Ethiopia if the control group had not received consumption support, but this design at least tells us that the consumption support on its own is not responsible for the entire impact of the program. Note, however, that the productive asset transfer in Ethiopia (equivalent to 7.98 goats) was also larger than in Ghana (6.00 goat equivalents), India (6.53 goat equivalents), or Pakistan (3.75 goat equivalents), so to the extent that assets are liquid, the larger asset transfer in Ethiopia may have compensated for the difference in consumption support.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_rcvTWv5">Effects on distribution of outcomes</head><p xml:id="_7FyM3bk">Table <ref type="table" target="#tab_4">5</ref> shows quantile regression estimates at the 10th, 25th, 50th, 75th and 90th percentiles of the distribution of the outcomes. There are several notable results. First, we see positive and significant impacts on income, consumption, and assets, at all tested quantiles. This is encouraging, in that it shows that the program did not push the poorest toward an activity that they did not have the means to manage successfully. Second, for the other variables, the pattern of results is what standard theory would predict. For example, we see impacts on food security only toward the bottom (at the 25th percentile): Those are the households that frequently miss meals and thus likely use any income gains to buy more food. On the other hand, we see impacts on financial inclusion only for the top quantiles (median and above at both endlines): If either access to credit or savings requires meeting some threshold of resources, the poorest of the  1260799-11 </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_bCajzAR">211% 88% 69%</head><p xml:id="_ujJTEDs">Notes: 1. Costs: The implementing partner in Honduras initially allocated all start-up costs and indirect costs into their direct supervision line items. We assume that 5% of costs were committed to start-up and 10% to indirect costs, while preserving the total costs equal to the organization's full budget for the project. In Pakistan, there were five implementing partners, each with different allocations of the nondirect costs. The total represents the average across these organizations. Staff costs associated with the selection of the beneficiaries (identifying the district and poorest individuals, and screening are included in the staff costs. The (nonstaff) costs associated with the identification process are included in Wother supervision expenses.W In India, note that the compliance rate was 52.0%; the cost-benefit conservatively uses the per-person cost of those who received the program (rather than the total costs divided by the number of all people selected in the randomization).</p><p xml:id="_Xg2JcQt">2. Benefits: In India and Ghana, individuals do not provide an estimate of the value of all assets. We use the relative value of assets across sites and the average purchase prices available in each country (e.g. goats and cattle in both sites) to provide an estimate of the asset ITT. In India and Pakistan, we do not directly ask about the savings balance. We use an OLS regression from the other four countries, with savings balance as our dependent variable and cumulative deposit amount as our independent variable, to predict the ITT of savings balance in those two countries. We calculate nondurable consumption equal to the total of columns (2) and (3) in tables S5a-1 and S5a2 (i.e., total consumption less durable good expenditures) multiplied by the average household size in the country times 12. The average household sizes used in Ethiopia, Ghana, Honduras, India, Pakistan, and Peru are 5.59, 8.34, 5.88, 3.96, 6.29, and 5.20 in endline 1, respectively, and 5.59, 8.48, 5.91, 3.79, 6.58, and 5.24 in endline 2, respectively.</p><p xml:id="_BsDXvcG">3. Benefit/ cost: To estimate the break-even dissipation rate (i.e., the rate of decline of the impact on consumption from one time period to the next), we calculate the net present value of consumption in perpetuity beginning in year 4 with the equation {[ITT consumption × (1dissipation rate)]/1.05}/(discount rate + dissipation rate). We then solve for the level of dissipation such that the net present value of the costs equals the net present value of the benefits. We do not offer a calculation for Honduras because the costs exceed the benefits even when assuming there is no dissipation.</p><p xml:id="_jkcXw6k">4. See supplementary text 5 for more details on the cost-benefit calculations. 5. Table <ref type="table">S7</ref> replicates Panel A of this table but using exchange rate conversions rather than PPP conversions poor may not have met that threshold even with the program. Third, the effects on consumption per capita and the income and revenues index are all increasing with the quantiles: for example, at endline 1, the 10th percentile of consumption (income and revenue index) increases by 0.027 SD (0.005 SD), whereas the 90th percentile increases by 0.491 SD (0.079 SD). Finally, we do see much larger asset growth at higher quantiles (0.038 SD for the 10th quantile versus 0.357 for the 90th quantile).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_VZ3mXZu">Are spillovers biasing the results?</head><p xml:id="_4TrFmKh">In supplementary text 4 and tables S6a and S6b, we examine spillover results in Ghana, Honduras, and Peru. These three sites employed a randomization at both the village and household levels to permit comparisons of control individuals in treatment villages to control individuals in control villages. Overall, these results suggest that neither externalities nor general equilibrium effects within villages substantially affect our outcomes. This finding implies that it is appropriate to pool the control households in treatment villages with the households in control villages to form the control group.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_q3qgVdV">Discussion</head><p xml:id="_YUHrJqS">The experiment, conducted in six countries on three continents, shows that the ultrapoor Graduation program improves the lives of the very poor along many dimensions. The program's primary goal, to increase consumption, is achieved by the conclusion of the program and maintained 1 year later. Furthermore, the pattern of impacts on intermediate and downstream outcomes accords with the theory of change: Productive assets, income, and revenue go up. Although results vary across countries, the general pattern of positive effects that persist for at least a year after the program concludes is common across all countries, with weaker impacts in Honduras and Peru.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_A4SaE5a">Cost-benefit analysis</head><p xml:id="_TBtEuh7">Naturally the benefits should not be considered without also considering the costs. Table <ref type="table" target="#tab_3">4</ref>, panel A presents costing details, broken down by direct costs (direct transfer and supervision costs), start-up expenses, and indirect costs (including local and international overhead costs). The total program costs for the full duration of the program (inflated to year 3 equivalent PPP dollars, using 5% as the social discount rate, range from PPP US$1455 per household (India) to PPP US $5962 (Pakistan). We use 5% as the social discount rate to harmonize with the joint World Bank and International Monetary Fund policy <ref type="bibr" target="#b24">(32)</ref>, but also calculate internal rates of return and show sensitivity to 7 and 10%. There is no single driver of costs to explain the differences; some of it can be attributed to in-country operating cost differences and some is presumably due to variations in the actual program design. Peru, for example, is a much richer country than Pakistan, so the wages paid to the implementing staff were a lot higher. It is not possible to precisely assign labor costs to specific activities; however, the majority of supervision costs in each country are likely attributable to the household visits and training activities. The asset costs and food stipends, by contrast, required little labor to distribute. Table <ref type="table" target="#tab_3">4</ref>, Panel B summarizes the consumption gains and asset value changes attributable to the program, all inflated to year 3 equivalent PPP dollars. We assume that the (unmeasured) year 1 ITT effect on per capita consumption is equal to that estimated for year 2, and we assume that the estimated impact on year 3 consumption continues indefinitely into the future (we then relax this assumption, below, as a sensitivity check). The overall impact of the program on consumption expenditure, reported in row 8, is the sum of the impact on the year 3 stock of household durables and the total impact on each year's nondurable consumption (in year 3 equivalent dollars). Rows 9 and 10 of Panel B also report the impact of the programs on the stock of productive assets and savings.</p><p xml:id="_3ZgXnZG">As noted previously, the increase in assets held by the households is lower than the value of the asset in all countries but Ethiopia. On average, households have drawn down part of the asset transfer in the first year, but there is no further decline between year 1 and year 2, and the consumption gains (the final objective of the programs) persist over time. The decline in asset holding in the first year, followed by a stable pattern in both assets and consumption, is somewhat surprising, as economic theory would suggest a slower adjustment to a steady-state level of assets (even if the initial transfer was larger than the optimal steady-state level of assets). We may capture imperfectly some informal assets or liabilities (such as debt or loans to or from other households in the village, which may be labeled as gifts or alms). We also do not capture the value of human capital, which has increased as a result of better nutrition,  physical and mental health: Spending on better food and needed health expenditures early in the program may have been a valuable investment.</p><p xml:id="_PudadTh">The ultimate goal of the program is to durably increase consumption, not merely to increase asset holding. Using total consumption as the measure for benefits, the total benefit-cost ratios presented in row 11 indicate that with the exception of Honduras, the programs all have benefits greater than their costs (ranging from 133% in Ghana to 433% in India).</p><p xml:id="_hjBqUP9">We explore the sensitivity of this conclusion to some of our crucial assumptions. First, we calculate the internal rate of return, to assess at what social discount rate costs equal benefits. They are 13.3% (Ethiopia), 6.9% (Ghana), not applicable (Honduras), 23.4% (India), 9.5% (Pakistan), and 7.5% (Peru). Second, we calculate in row 19 the rate at which nondurable consumption must dissipate after year 3 (rather than persist into the future) in order for benefits to equal costs. Third, in the subsequent two rows, 20 and 21, we show the sensitivity of the benefit-cost ratio to alternative social discount rates of 7 and 10%. Benefits con-tinue into the future while the costs are frontloaded, so the benefit-cost ratios decline with increases in the assumed social discount rate. See supplementary text 5 for details on the costbenefit analysis calculations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_b8tW46K">Mechanisms</head><p xml:id="_hdARmkr">As mentioned, the results are similar to the positive results of the evaluation of the BRAC program in Bangladesh <ref type="bibr" target="#b5">(6)</ref>. Two other studies of cash transfers and support for self-employment, both in Uganda, find similar results. Blattman et al. <ref type="bibr" target="#b25">(33)</ref> find that a program that provided a $150 grant (PPP US$401) toward a nonfarming self-employment activity along with training and follow-up guidance to very poor women in conflict-affected regions increased consumption, cash earnings, labor supply, and nonfarm selfemployment. Blattman et al. <ref type="bibr" target="#b26">(34)</ref> find that a program that provided both training and support and a cash grant to youth increased business assets by 57%, work hours by 17%, and earnings by 38%. The programs that we studied differ from those reported on in <ref type="bibr" target="#b25">(33)</ref> and <ref type="bibr" target="#b26">(34)</ref> on a few dimensions: choice of sample frame (representative ultrapoor, versus unemployed young men or poor women); the level of intervention [household, versus group-level investments as in (34)]; and the integration of other components (health and access to savings). Nevertheless, these studies add to an emerging picture from a variety of countries that these types of programs can be effective.</p><p xml:id="_JJvmVDZ">Although we see impacts on all outcomes, more work is needed on the mechanisms that underlie the positive impacts. The core fact is that a time-limited big push led to a sustained increase in consumption and income. One common way to think about the effect of a big push is through the lens of the large, primarily theoretical, literature on poverty traps <ref type="bibr" target="#b27">(35)</ref>. In such models, the combination of constraints and incentives faced by the poor act to keep them in place, ensuring that any small improvement in their well-being quickly dissipates. Only a big push that appreciably relaxes those constraints can set off a virtuous cycle where the beneficiaries move to an entirely different trajectory.  The fact that the effects of the program seem durable supports the interpretation that the program unlocked a poverty trap. Nevertheless, the average effects are not very large and do not correspond to our intuitive sense of what it would mean to be liberated from the trap of poverty. There are several possible ways to resolve this tension:</p><p xml:id="_b9egWwP">First, it could be that there is no trap-but rather what one might call a "poverty flat," a world in which small changes persist but neither unleash continued improvement, thus leading to large longer term changes, nor dissipate rapidly.</p><p xml:id="_9eaGacX">Second, it is possible that this particular trap is small-the beneficiaries have gotten out of it, only to join the broader mass of the poor, who might be in some other, bigger, trap.</p><p xml:id="_nsJkQ9c">Third, it is worth recalling that the theory predicts that the effect of a push will be heterogeneous, unless the push is simply enormous. Those who are closer to the edge of the trap will exit, but the rest will just slowly fall back in. Perhaps this is what happened-the heterogeneity in the impacts that we see across the distribution lends some support to this hypothesis. Even among the very poor households targeted by these programs, the impacts on income and revenues and consumption, though positive everywhere, are lower at the bottom of the distribution. Because everyone was offered the same menu of assets, under the standard assumptions of constant or decreasing returns to the assets and homotheticity of preferences, we would expect those impacts to be either constant or decreasing. Instead, it appears that the poorest of the poor either have a lower return to the asset, or that they chose to consume more of it, or both. The differences in terms of final asset accumulation are very large: by endline 2, the point estimate of the impact of the program at the 90th percentile of the asset index is more than 10 times that at the 10th percentile.</p><p xml:id="_uGssxtE">Fourth, another source of heterogeneity, the level of patience or return on investment, could also help to explain why the average impact is both durable and yet not very large. The more patient or productive would use the asset transfer as a springboard to accumulate more assets and permanently be on a different consumption trajectory, whereas the others would sell off some part of the transferred assets to consume more than they earn, and perhaps eventually end up where they started. In rows 13 to 17 of Table <ref type="table" target="#tab_3">4</ref>, we use quantile treatment effects to generate the total gain in assets at different quantiles and present them relative to value of the original transfer. The ratio of the asset gain to the cost of the transfer is less than 1 at all tested quantiles in every country except Ethiopia (above 1 for the 75th and 90th percentiles) and India (above 1 for the 90th percentile), suggesting that the general pattern of eating into assets holds at every quantile. Therefore, we do not find strong evidence for this kind of heterogeneity.</p><p xml:id="_dEyBqSP">But what would be the specific nature of a trap? One standard narrative for a poverty trap essentially says that poor people remain poor because they cannot afford enough food to make them strong enough to be productive <ref type="bibr" target="#b28">(36)</ref>. This theory has been discounted in recent years on grounds of empirical plausibility-essentially most poor people can afford to spend more on food if that were a priority for them <ref type="bibr" target="#b29">(37)</ref>. However, this may be a case where that theory does apply, at least to some participants in the program, because these people are poorer than most poor people and may actually not be able to afford enough food (Table <ref type="table" target="#tab_0">1</ref> reports the daily per capita calories that could be purchased if baseline expenditures were allocated solely to staple grains). As noted, for the very poor, we do see large increases in food security. Moreover, the elasticity of food consumption is greater than 1 in the overall experimental population. However, this is driven by the food expenditure responses in Ghana, Honduras, and Peru. In the three other countries, the proportional increase in nonfood consumption is either similar to or greater than the proportional increase in food consumption, and we see a persistent effect there as well. Moreover, we see even larger and persistent impact even at the quantiles where there is no impact on food security (although it could still be that they are eating more nutritional food). So nutrition cannot be the whole story, although it may well be a part.</p><p xml:id="_RbH5tfv">An alternative view of the poverty trap emphasizes underinvestment by the poor, either because they are unable to borrow enough to be able to make the necessary investment or because they find it too risky <ref type="bibr" target="#b27">(35,</ref><ref type="bibr" target="#b30">38,</ref><ref type="bibr" target="#b31">39)</ref>. For the poorest within our study, we do not find an impact on financial inclusion, and we find a weaker impact on assets. This is consistent with the need to satisfy some asset threshold before being eligible for credit, one of the key ingredients for a credit-based poverty trap. Again, however, the evidence for the existence of such traps is not very strong. There is a growing body of evidence on microcredit that was intended to improve credit access among the segment of the population only slightly less poor than our targeted group. For example, Banerjee et al. <ref type="bibr" target="#b32">(40)</ref> review six randomized studies of microcredit in six different countries <ref type="bibr" target="#b33">(41)</ref><ref type="bibr" target="#b34">(42)</ref><ref type="bibr" target="#b35">(43)</ref><ref type="bibr" target="#b36">(44)</ref><ref type="bibr" target="#b37">(45)</ref><ref type="bibr" target="#b38">(46)</ref> and conclude that although microcredit loans sometimes lead to an increase in business activity, the effect on average business profits is much more muted, and there is no effect of an impact on consumption over a 1-to 3-year time period. That is, for the average poor person, better access to microcredit does not seem to generate the kind of sustained consumption gains that we see with this program, suggesting that credit alone is not the explanation.</p><p xml:id="_pjw8Hj9">The programs that we analyze are different from microcredit in multiple ways. Here, households did not need to repay. This might have encouraged them to take more risks and genuinely invest themselves in the activity. Or it could be the training and personal encouragement that produced this effect on their behavior. Or these people may be in a different economic positionthe microcredit borrowers already have an occupation and an income and are merely trying to expand, not start a new activity. The participants in the Graduation programs are starting new activities, more or less from nothing. These are all important possibilities that deserve exploration.</p><p xml:id="_ezYFYhx">But perhaps we need to go beyond these standard theories. There are now behavioral theories of poverty traps that give an important role to positive expectations of the future <ref type="bibr" target="#b39">(47,</ref><ref type="bibr" target="#b40">48)</ref>. We do see some improvement in the self-reported well-being of the beneficiaries, which, at endline 1, are visible at all level of the distribution except for the 90th percentile. Much more detailed psychological measurement would be necessary to fully understand this result and its underlying mechanisms. Perhaps this program worked by making the beneficiaries feel that they mattered, that the rest of society cared about them, that with this initial help they now had some control over their future well-being, and therefore, the future could be better.</p><p xml:id="_yAaMry3">These positive results leave us with a number of important questions. First, is it better to deliver physical assets and support, rather than pure cash transfers? There is evidence-from an RCT evaluation of the GiveDirectly program in Kenya, which transferred on average PPP US $720 to poor households, either monthly or in one lump sum-that pure cash transfers also have positive impacts on consumption, food security, asset holdings in the short run (including productive assets), and on psychological well-being (49). Similarly, de Mel et al. <ref type="bibr" target="#b42">(50)</ref> find that a cash (or in-kind) transfer to existing self-employed individuals in Sri Lanka has a persistent positive effect on self-employment profits 4.5 to 5.5 years later. Because it is cheaper and easier to just deliver cash rather than physical assets and training, and the initial consumption increases from Kenya seem to be higher than what we observe after 2 and 3 years, it would be useful to have a direct comparison of the effects of these programs. The Ghana experimental design does include a comparison of the Graduation program to merely an asset transfer, and the results are forthcoming.</p><p xml:id="_JVGzHk9">However, the Kenya results are unfortunately not quite comparable, because the time to followup was much shorter (4 months). The Kenya study did employ random variation in survey timing to try to examine persistence of the impact, and found that the estimated treatment effect was reduced by about half from 1 month after the transfer to 7 months; however, this reduction was not statistically significant. We observe no decline in the gain in consumption per capita almost 3 years after the asset transfer. If the effects of one-time transfers dissipate rapidly in one case and are permanent in the other, this obviously has major consequences for the comparative cost-benefit analyses of the two programs. The evolution of the impacts over time over a longer horizon thus needs to be further explored, both for pure cash transfer programs and for these broader programs.</p><p xml:id="_HA5zt42">Second, how important was the training and coaching as a component in the full intervention? This is a particularly important component to test, because its costs are on average twice that of the direct transfer costs, and because operating at scale requires quality hiring, training, and staff supervision. As discussed above, we do not have experimental variation with which to test this question. Evidence from elsewhere suggests that the household visits, which are a large expenditure, may not be a cost-effective component. In Blattman et al. <ref type="bibr" target="#b25">(33)</ref>, for example, variation between zero and five household visits did not generate, after 9 months, large differences in income outcomes (but did lead to higher investment). Furthermore, a meta-analysis of self-employment training programs has found mixed but rarely transformative impacts from training <ref type="bibr" target="#b43">(51)</ref>.</p><p xml:id="_3UhyefG">This brings us to the next key question: How long will these results persist? This will not be known until some participants are followed for a longer period of time, but there are a number of encouraging signs. First, the effect on consumption does not decline over time as one would have expected had the program not led to longterm increases in income. Similarly, the increase in consumption was not generated by merely spending down the asset provided (52). Second, treatment households have more productive assets and have increased their labor supply 1 year after the program ends, and in some countries have diversified out of the original asset that was provided. Finally, in Bangladesh (3), households were followed for 2 more years after the end of the period of support, and the study continues to find robust impacts on consumption, productive assets, and earnings.</p><p xml:id="_TedkNDs">Another issue is the potential for externalities or general equilibrium effects, both positive and negative, from the program. Transferring (often) the same productive asset to many households in a small village may generate a negative externality on other asset owners, if, for example, the transfers result in a fall in the price of cows or milk. On the other hand, the benefits that accrue to the treatment households may be shared with others, as has been observed from a conditional cash transfer program in Mexico <ref type="bibr" target="#b44">(53)</ref>. It is worth pointing out that the program is designed to serve few people (the poorest) within each village, and in that sense, the current design probably picks up a fair share of the possible externalities. In endline 2, the evidence from the three sites where randomization allowed the examination of spillover shows no effects on primary economic outcomes such as consumption and income, and no significant effects at the 5% level on any variable after accounting for multiple hypothesis testing. These questions will become ever more important as these programs scale. The programs studied here were implemented at relatively small scale, and typically by NGOs. Moving forward, to reach the largest numbers of very poor households, either governments will have to implement the programs, or governments will fund implementation via subcontracts to local NGOs. Note that implementing the program at larger scale will mainly require increasing geographic coverage, rather than increasing the proportion of households reached in each village. This suggests that the smallish general equilibrium effects observed here are probably also representative of what one would expect from a larger program. Hence, the positive impacts generated by these programs are likely to be predictive of what a government could expect, if implemented similarly but at larger scale.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc xml:id="_xvnFttt">Fig. 1. Cross-site timeline. PWR, participatory wealth ranking. Only short surveys that occurred within 12 months of endline 1 are used in endline 1 analysis.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><figDesc xml:id="_4eHaMqk">1260799-10 15 MAY 2015 • VOL 348 ISSUE 6236 sciencemag.org SCIENCE</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 2 .</head><label>2</label><figDesc xml:id="_3ERRDHX">Fig. 2. Pooled average intent-to-treat effects, endline 2 at a glance.This figure summarizes treatment effects presented in tables S2a to S2h. Treatment effects on continuous variables are presented in SD units. Each entry shows the OLS estimate and 95% confidence interval for that outcome. (♦) Statistically significant, 5% level; (</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>1260799- 12</head><label>12</label><figDesc xml:id="_3WbJEkz">15 MAY 2015 • VOL 348 ISSUE 6236 sciencemag.org SCIENCE</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. 3 .</head><label>3</label><figDesc xml:id="_3QCuD64">Fig. 3. Average intent-to-treat effects by country, endline 2 at a glance. This figure summarizes the treatment effects presented in tables S3a to S3f. Treatment effects are presented as z-score indices, standardized to the control group at endline 2. Each entry shows the standardized index outcome and its 95% confidence interval. (♦) Statistically significant, 5% level; ( ⋄ ) not statistically significant, 5% level.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><figDesc xml:id="_sTCHDap">SCIENCE sciencemag.org 15 MAY 2015 • VOL 348 ISSUE 6236 1260799-13</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc xml:id="_Z6q7zeS">Implementation summary.</figDesc><table><row><cell></cell><cell>Ethiopia</cell><cell>Ghana</cell><cell>Honduras</cell><cell>India</cell><cell>Pakistan</cell><cell>Peru</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>13 districts of</cell></row><row><cell>Location</cell><cell>Kilte Awlaelo district in Tigray</cell><cell>Northern and Upper East regions</cell><cell>Lempira department</cell><cell>Murshidabad, a district north of Kolkata</cell><cell>Sindh region</cell><cell>the provinces of Canas and Acomayo, in the</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>department of Cusco</cell></row><row><cell>Implementing NGO</cell><cell>Relief Society of Tigray (REST)</cell><cell>Presbyterian Agricultural Services (PAS) and Innovations for Poverty Action (IPA); program called Graduation from Ultra Poverty (GUP)</cell><cell>Proyecto MIRE, a partnership between PLAN International Honduras and Organización de Desarollo Empresarial Feminino institution microfinance a Honduran Social (ODEF),</cell><cell>Bandhan</cell><cell>Pakistan Poverty Alleviation Fund, Aga Khan Planning and Organization Coordinating Forestry Workers Agricultural and Building Services Pakistan, Badin Rural Development Society, Indus Earth Trust, Sindh</cell><cell>Asociación Arariwa; PLAN International Peru</cell></row><row><cell>Type of NGO</cell><cell>Local NGO</cell><cell>Local NGO</cell><cell>Local NGO; international NGO</cell><cell>Local MFI</cell><cell>Local NGOs</cell><cell>Local NGO; international NGO</cell></row><row><cell></cell><cell>Dedebit Credit and</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Financial institution partner</cell><cell>Savings Institution (DECSI), an Ethiopian microfinance</cell><cell>Services provided by PAS</cell><cell>Services provided by ODEF</cell><cell>Services provided by Bandhan</cell><cell>None</cell><cell>Services provided by Arariwa</cell></row><row><cell></cell><cell>institution (MFI)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell>Household must</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell>have (i) monthly</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell>income of less</cell><cell>Household has</cell><cell></cell><cell></cell></row><row><cell>Eligibility requirements</cell><cell>Participant in food-for-work program, at least one member capable of work, no loans taken out by household</cell><cell>Exclusion criteria included: (i) ownership of &gt;30 small ruminants or &gt;50 fowl; (ii) member found to be alcoholic or drug addict; (iii) no strong, able-bodied adult; (iv) did not have a female member; (v) did not have a member between the ages of 18 and 65</cell><cell>than or equal to HNL 600 (PPP US$67.82); (ii) lived in community for at least 3 years; (iii) not received a loan in last year; (iv) not a benificiary of cash or food transfer program (excluding government conditional cash transfer); (v) at least one child (under 18). Households must satisfy two of the following three criteria: (i) one manzana or less of cultivated land; (ii) children in the</cell><cell>able-bodied female member, households are not associated with any MFI and receive below a certain threshold of aid from the government. Meet three of the following criteria: primary source of income is informal labor or begging, land holdings are below 0.2 acres, household has no productive assets other than land, no able-bodied males in the household, school-age children work instead of</cell><cell>Households meet at least three of the five selection criteria: no ownership of productive assets, no active male member in the households, income less than INR 25 (PPP US$1.74) per day, livelihood at risk, and no member working on salaried employment.</cell><cell>Household must (i) have head or spouse 60 years old or less; (ii) have at least one child under 18; (iii) have head not away from household for 6 months or more in a year; (iv) not borrow money from a formal financial institution; (v) not have a second home outside of the community; (vi) neither the head nor spouse has formal employment</cell></row><row><cell></cell><cell></cell><cell></cell><cell>household work; (iii)</cell><cell>attending school</cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell>not participating in</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell>development program</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Method of</cell><cell>Chosen by local</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>identifying</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>participants</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note xml:id="_T8YUyTm"><p>community's food security task force Participatory Wealth Ranking at village level Participatory Wealth Ranking at village level; followed by verification survey Participatory Rural Appraisal, followed by NGO verificiation Participatory Rural Appraisal, followed by NGO verification Participatory Wealth Ranking at village level; followed by verification survey Continued on next page RESEARCH | RESEARCH ARTICLE Downloaded from https://www.science.org at University of Sussex on October 20, 2025 1260799-4 15 MAY 2015 • VOL 348 ISSUE 6236 sciencemag.org SCIENCE per month) earns 15 kg of wheat, 0.66 kg of chickpeas, and 0.4 liters of oil, worth approximately ETB 100 (PPP US$25.99) (PPP US$143.33) Continued on next page RESEARCH | RESEARCH ARTICLE Downloaded from https://www.science.org at University of Sussex on October 20, 2025</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc xml:id="_RkJvzgx">Research design.</figDesc><table><row><cell></cell><cell>Ethiopia</cell><cell>Ghana</cell><cell>Honduras</cell><cell>India</cell><cell>Pakistan</cell><cell>Peru</cell></row><row><cell cols="2">Consumption support,</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>measured in</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>calories of cereals</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>that could be purchased for the</cell><cell>2,402</cell><cell>5,142</cell><cell>3,854</cell><cell>3,928</cell><cell>3,149</cell><cell>4,993</cell></row><row><cell>household if</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>transfer were</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>in cash</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Baseline daily</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>per capita</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>consumption,</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>measured in</cell><cell>4,389</cell><cell>7,885</cell><cell>4,929</cell><cell>4,179</cell><cell>6,000</cell><cell>7,099</cell></row><row><cell>number of</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>buyable calories</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>of cereals</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Consumption support provided to control households</cell><cell>Yes</cell><cell>No</cell><cell>No</cell><cell>No</cell><cell>No</cell><cell>Yes, in 51 of 86 project villages</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Weekly, over</cell><cell></cell></row><row><cell>Frequency of household visits from local NGO</cell><cell>Weekly, over 24 months</cell><cell>Weekly, over 24 months</cell><cell>Weekly, over 24 months</cell><cell>Weekly, over 18 months</cell><cell>24 months, with gradual shift to monthly in biweekly or</cell><cell>Every 6 weeks, over 24 months</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>some cases</cell><cell></cell></row><row><cell>Support provided</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>from village assistance</cell><cell>No</cell><cell>Yes</cell><cell>Yes</cell><cell>Yes</cell><cell>No</cell><cell>No</cell></row><row><cell>committees</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note xml:id="_4ZKe7F8"><p>provides a timeline for the typical implementation of both the program and the data collection; and figs. S1a to S1f provide a timeline for each site. SCIENCE sciencemag.org 15 MAY 2015 • VOL 348 ISSUE 6236 1260799-5 Continued on next page RESEARCH | RESEARCH ARTICLE Downloaded from https://www.science.org at University of Sussex on October 20, 2025</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 .</head><label>3</label><figDesc xml:id="_FqBFT8W">Indexed family outcome variables and aggregates.</figDesc><table><row><cell></cell><cell></cell><cell>Endline 1</cell><cell></cell><cell></cell><cell>Endline 2</cell><cell></cell></row><row><cell></cell><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell><cell>(4)</cell><cell>(5)</cell><cell>(6)</cell></row><row><cell>Indexed outcomes</cell><cell>Standardized mean treatment effect</cell><cell>q-value for all 10 hypotheses</cell><cell>F-test of equality of coefficients across sites, with q-values</cell><cell>Standardized mean treatment effect</cell><cell>q-value for all 10 hypotheses</cell><cell>F-test of equality of coefficients across sites, with q-values</cell></row><row><cell>Total per capita</cell><cell>0.122***</cell><cell>0.001</cell><cell>3.207</cell><cell>0.120***</cell><cell>0.001</cell><cell>5.307</cell></row><row><cell>consumption,</cell><cell>(0.023)</cell><cell></cell><cell>0.009</cell><cell>(0.024)</cell><cell></cell><cell>0.001</cell></row><row><cell>standardized</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Food security</cell><cell>0.107***</cell><cell>0.001</cell><cell>1.670</cell><cell>0.113***</cell><cell>0.001</cell><cell>2.405</cell></row><row><cell>index (five</cell><cell>(0.022)</cell><cell></cell><cell>0.139</cell><cell>(0.022)</cell><cell></cell><cell>0.050</cell></row><row><cell>components)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Asset index</cell><cell>0.258***</cell><cell>0.001</cell><cell>14.26</cell><cell>0.249***</cell><cell>0.001</cell><cell>23.90</cell></row><row><cell></cell><cell>(0.023)</cell><cell></cell><cell>0.001</cell><cell>(0.024)</cell><cell></cell><cell>0.001</cell></row><row><cell>Financial inclusion</cell><cell>0.367***</cell><cell>0.001</cell><cell>55.33</cell><cell>0.212***</cell><cell>0.001</cell><cell>10.70</cell></row><row><cell>index (four</cell><cell>(0.030)</cell><cell></cell><cell>0.001</cell><cell>(0.031)</cell><cell></cell><cell>0.001</cell></row><row><cell>components)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Total time</cell><cell>0.090***</cell><cell>0.001</cell><cell>7.520</cell><cell>0.054***</cell><cell>0.004</cell><cell>2.644</cell></row><row><cell>spent working,</cell><cell>(0.018)</cell><cell></cell><cell>0.001</cell><cell>(0.018)</cell><cell></cell><cell>0.038</cell></row><row><cell>standardized</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Incomes and</cell><cell>0.383***</cell><cell>0.001</cell><cell>12.05</cell><cell>0.273***</cell><cell>0.001</cell><cell>5.82</cell></row><row><cell>revenues index</cell><cell>(0.036)</cell><cell></cell><cell>0.001</cell><cell>(0.029)</cell><cell></cell><cell>0.001</cell></row><row><cell>(five components)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Physical health</cell><cell>0.034*</cell><cell>0.078</cell><cell>3.825</cell><cell>0.029</cell><cell>0.159</cell><cell>0.776</cell></row><row><cell>index (three</cell><cell>(0.019)</cell><cell></cell><cell>0.003</cell><cell>(0.020)</cell><cell></cell><cell>0.630</cell></row><row><cell>components)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Mental health</cell><cell>0.099***</cell><cell>0.001</cell><cell>5.189</cell><cell>0.071***</cell><cell>0.001</cell><cell>1.781</cell></row><row><cell>index (three</cell><cell>(0.022)</cell><cell></cell><cell>0.001</cell><cell>(0.020)</cell><cell></cell><cell>0.142</cell></row><row><cell>components)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Political Involvement</cell><cell>0.064***</cell><cell>0.001</cell><cell>4.176</cell><cell>0.064***</cell><cell>0.002</cell><cell>2.624</cell></row><row><cell>index (four</cell><cell>(0.018)</cell><cell></cell><cell>0.002</cell><cell>(0.019)</cell><cell></cell><cell>0.038</cell></row><row><cell>components)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Women's empowerment</cell><cell>0.046**</cell><cell>0.049</cell><cell>1.803</cell><cell>0.022</cell><cell>0.385</cell><cell>0.469</cell></row><row><cell>index (five</cell><cell>(0.023)</cell><cell></cell><cell>0.121</cell><cell>(0.025)</cell><cell></cell><cell>0.800</cell></row><row><cell>components)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Notes:</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4 .</head><label>4</label><figDesc xml:id="_eE9aZgy">Cost-benefit analysis.Panel A: Program costs per household, USD PPP 2014Ethiopia Ghana Honduras India Pakistan Peru</figDesc><table><row><cell>Direct transfer costs</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 5 .</head><label>5</label><figDesc xml:id="_vVYEDeN">Quantile treatment effects, indexed family outcomes.</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell>Endline 1</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Endline 2</cell><cell></cell><cell></cell></row><row><cell></cell><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell><cell>(4)</cell><cell>(5)</cell><cell>(6)</cell><cell>(7)</cell><cell>(8)</cell><cell>(9)</cell><cell>(10)</cell></row><row><cell>Indexed outcomes</cell><cell>10th</cell><cell>25th</cell><cell>50th</cell><cell>75th</cell><cell>90th</cell><cell>10th</cell><cell>25th</cell><cell>50th</cell><cell>75th</cell><cell>90th</cell></row><row><cell></cell><cell>percentile</cell><cell>percentile</cell><cell>percentile</cell><cell>percentile</cell><cell>percentile</cell><cell>percentile</cell><cell>percentile</cell><cell>percentile</cell><cell>percentile</cell><cell>percentile</cell></row><row><cell>Total per capita</cell><cell>0.065***</cell><cell>0.067***</cell><cell>0.045**</cell><cell>0.099***</cell><cell>0.140**</cell><cell>0.053***</cell><cell>0.061***</cell><cell>0.079***</cell><cell>0.105***</cell><cell>0.206***</cell></row><row><cell>consumption,</cell><cell>(0.014)</cell><cell>(0.013)</cell><cell>(0.019)</cell><cell>(0.032)</cell><cell>(0.058)</cell><cell>(0.013)</cell><cell>(0.014)</cell><cell>(0.019)</cell><cell>(0.030)</cell><cell>(0.063)</cell></row><row><cell>standardized</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p xml:id="_EnscqeN">1260799-2 15 MAY 2015 • VOL 348 ISSUE 6236 sciencemag.org SCIENCE RESEARCH | RESEARCH ARTICLE Downloaded from https://www.science.org at University of Sussex on October 20, 2025</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p xml:id="_4Ar9ZuX">June 2010-Jan 2011 July 2011-July 2012 August 2009-August 2010 February 2007-March 2008 December 2008-May 2010 February 2011-June 2011</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_2"><p xml:id="_ChEPSf8">1260799-8 15 MAY 2015 • VOL 348 ISSUE 6236 sciencemag.org SCIENCE RESEARCH | RESEARCH ARTICLE Downloaded from https://www.science.org at University of Sussex on October 20, 2025</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_3"><p xml:id="_3TnEHgE">Downloaded from https://www.science.org at University of Sussex on October 20, 2025</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_4"><p xml:id="_4v2xgQR">1260799-14 15 MAY 2015 • VOL 348 ISSUE 6236 sciencemag.org SCIENCE RESEARCH | RESEARCH ARTICLE Downloaded from https://www.science.org at University of Sussex on October 20, 2025</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="3" xml:id="foot_5"><p xml:id="_w2Ckg6f">September 2014; accepted 6 April 2015 10.1126/science.1260799</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head xml:id="_M4TCKue">ACKNOWLEDGMENTS</head><p xml:id="_q6FryV6">This study received approval from the <rs type="funder">Yale University Human Subjects Committee</rs>, <rs type="grantNumber">IRB 0705002656</rs>, <rs type="grantNumber">1002006308</rs>, <rs type="grantNumber">1006007026</rs>, and <rs type="grantNumber">1011007628</rs>; the <rs type="funder">MIT Human Subjects Committee</rs>, <rs type="grantNumber">IRB 0701002099</rs>; and from the <rs type="funder">Innovations for Poverty Action Human Subjects Committee</rs>, <rs type="funder">IRB Protocol</rs> <rs type="grantNumber">19</rs>.<rs type="grantNumber">08January-002</rs>, <rs type="grantNumber">09December-003</rs>, <rs type="grantNumber">59</rs>.<rs type="grantNumber">10June-002</rs>, and <rs type="grantNumber">10November-003</rs>.494.</p><p xml:id="_PPfSB2k">Thanks to the <rs type="funder">Ford Foundation</rs>, <rs type="funder">3ie</rs>, and <rs type="funder">U.S. Agency for International Development (USAID)</rs> [through the Financial Integration, <rs type="projectName">Economic Leveraging</rs>, broad-<rs type="projectName">based Dissemination and Support Leader with Associates (FIELD-Support LwA</rs>) managed by <rs type="funder">FHI 360</rs>] for funding. The contents of this paper are the responsibility of the authors and do not necessarily reflect the views of <rs type="institution">FHI 360</rs>, <rs type="institution">USAID</rs>, or the <rs type="institution">United States Government</rs>. Thanks to <rs type="person">A. Agarwal</rs>, <rs type="person">N. Barker</rs>, <rs type="person">A. Kemmis Betty</rs>, <rs type="person">C. Brewster</rs>, <rs type="person">A. Bukari</rs>, <rs type="person">D. Bullon Patton</rs>, <rs type="person">S. De Marco</rs>, <rs type="person">S. Devnani</rs>, <rs type="person">M. Dieci</rs>, <rs type="person">S. Fontenay</rs>, <rs type="person">A. Garcia</rs>, <rs type="person">Y. Guy</rs>, <rs type="person">J. Manuel Hernández-Agramonte</rs>, <rs type="person">S. Kant</rs>, <rs type="person">S. Khan</rs>, <rs type="person">H. Koizumi</rs>, <rs type="person">M. Lowes</rs>, <rs type="person">L. Luhana</rs>, <rs type="person">J. Prasad Mukhopadhyay</rs>, <rs type="person">E. Naah</rs>, <rs type="person">M. Polansky</rs>, <rs type="person">E. Safran</rs>, <rs type="person">E. Salgado Chavez</rs>, <rs type="person">D. Sánchez Liste</rs>, <rs type="person">J. Severski</rs>, <rs type="person">R. Strohm</rs>, <rs type="person">H. Trachtman</rs>, and <rs type="person">S. Vedder</rs> for outstanding research assistance and project management. The authors thank the leadership and staff at the implementing institutions for their partnership: <rs type="funder">Bandhan</rs>, <rs type="funder">Pakistan Poverty Alleviation Fund</rs>, <rs type="funder">Aga Khan Planning and Building Services Pakistan</rs>, <rs type="funder">Badin Rural Development Society, Indus Earth Trust, Sindh Agricultural and Forestry Workers Coordinating Organization</rs>, <rs type="funder">PLAN International Honduras</rs>, <rs type="funder">Organización de Desarollo Empresarial Feminino Social, Relief Society of Tigray, Presbyterian Agricultural Services (PAS)</rs>, <rs type="funder">Asociación Arariwa</rs>, and <rs type="funder">PLAN International Peru</rs>. Thanks to <rs type="person">F. DeGiovanni</rs> (<rs type="funder">Ford Foundation</rs>), <rs type="person">S. Hashemi</rs> (<rs type="affiliation">BRAC University</rs>), and <rs type="person">A. de Montesquiou</rs> and <rs type="person">A. Latortue</rs> (CGAP) for their support and encouragement of the research. No authors have any real or apparent conflicts of interest, except that D.K. is on the <rs type="institution">Board of Directors of Innovations for Poverty Action</rs>, which participated in oversight of the implementation of the Ghana site. All data and code are available at the IPA Dataverse (doi: 10.7910/DVN/NHIXNT).</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_nw4XUAt">
+					<idno type="grant-number">IRB 0705002656</idno>
+				</org>
+				<org type="funding" xml:id="_wRxktdu">
+					<idno type="grant-number">1002006308</idno>
+				</org>
+				<org type="funding" xml:id="_4jcgKBy">
+					<idno type="grant-number">1006007026</idno>
+				</org>
+				<org type="funding" xml:id="_9shPNz8">
+					<idno type="grant-number">1011007628</idno>
+				</org>
+				<org type="funding" xml:id="_tPEFmpH">
+					<idno type="grant-number">IRB 0701002099</idno>
+				</org>
+				<org type="funding" xml:id="_X5Hqcdh">
+					<idno type="grant-number">19</idno>
+				</org>
+				<org type="funding" xml:id="_v65RfHE">
+					<idno type="grant-number">08January-002</idno>
+				</org>
+				<org type="funding" xml:id="_UGhHKZd">
+					<idno type="grant-number">09December-003</idno>
+				</org>
+				<org type="funding" xml:id="_U3XG3XU">
+					<idno type="grant-number">59</idno>
+				</org>
+				<org type="funding" xml:id="_bhDpfBG">
+					<idno type="grant-number">10June-002</idno>
+				</org>
+				<org type="funding" xml:id="_5WTWkYH">
+					<idno type="grant-number">10November-003</idno>
+				</org>
+				<org type="funded-project" xml:id="_ZQFN7mP">
+					<orgName type="project" subtype="full">Economic Leveraging</orgName>
+				</org>
+				<org type="funded-project" xml:id="_GW6rp5B">
+					<orgName type="project" subtype="full">based Dissemination and Support Leader with Associates (FIELD-Support LwA</orgName>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_kF6nTqQ"><p xml:id="_tfwVZ4B">Food security index (five components) 0.013 0.073** 0.000 0.000 0.000 0.000 0.032** 0.000 0.000 0.000 (0.029) (0.034) (0.000) (0.006) (0.002) (0.020) (0.015) (0.010) (0.006) (0.002) Asset index (productive and household assets) 0.038*** 0.072*** 0.172*** 0.288*** 0.357*** 0.023*** 0.062*** 0.135*** 0.251*** 0.329*** (0.007) (0.010) (0.017) (0.028) (0.064) (0.007) (0.009) (0.014) (0.026) (0.054) Financial inclusion index (four components) 0.000 0.000 0.153*** 0.322*** 0.587*** 0.000 0.000 0.033*** 0.213*** 0.418*** (0.001) (0.001) (0.010) (0.023) (0.072) (0.002) (0.002) (0.011) (0.028) (0.095) Total time spent working, standardized 0.000 0.000 0.084*** 0.078** 0.000 0.000 0.000 0.038* 0.045* 0.022 (0.006) (0.005) (0.018) (0.034) (0.028) (0.006) (0.005) (0.021) (0.027) (0.039) Incomes and revenues index (five components) 0.027*** 0.053*** 0.098*** 0.314*** 0.491*** 0.001 0.029*** 0.171*** 0.307*** 0.538*** (0.005) (0.008) (0.014) (0.034) (0.079) (0.006) (0.009) (0.020) (0.034) (0.070) Physical health index (three components) 0.000 0.000 0.012 0.000 0.000 0.000 0.000 0.000 0.000 0.000 (0.033) (0.024) (0.019) (0.007) (0.006) (0.035) (0.022) (0.016) (0.008) (0.006) Mental health index (three components) 0.108*** 0.005 0.112*** 0.082*** 0.000 0.000 0.000 0.000 0.000 0.000 (0.038) (0.025) (0.027) (0.026) (0.015) (0.020) (0.018) (0.018) (0.011) (0.009) Political involvement index (four components) 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 (0.014) (0.010) (0.007) (0.008) (0.006) (0.004) (0.003) (0.010) (0.009) (0.006) Women's empowerment index (five components) 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 (0.014) (0.009) (0.008) 0.000 (0.023) (0.014) (0.015) (0.008) (0.008) (0.009) Notes:</p><p xml:id="_KrCmEbf">1. Regressions include baseline controls, country dummies, and controls of the variables used to ensure balance in rerandomizations at baseline. They do not include block stratification variables.</p><p xml:id="_8NEwQAR">2. The 0's as coefficients reflect the fact that several of our indices relied either partially our entirely upon categorical variables. Although the distributions of results differ at some points, at each percentile measured there is no treatment effect 3. We perform a Komolgorov-Smirnov test for the equality of distributions between treatment and control households for each indexed outcome in both endlines. The p-value for each of these 20 tests is 0.000.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_6MwqqFY">SUPPLEMENTARY MATERIALS</head><p xml:id="_Qxf2BVv"><ref type="url" target="http://www.sciencemag.org/content/348/6236/1260799/suppl/DC1">www.sciencemag.org/content/348/6236/1260799/suppl/DC1</ref> Supplementary Text 1 to 4 Figs. S1 to S3 Tables <ref type="table">S1 to S8</ref> </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="consolidated"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main" xml:id="_nNe6y3e">The World Bank Annual Report 2013</title>
+		<idno type="DOI">10.1596/978-0-8213-9937-8</idno>
+		<ptr target="https://openknowledge.worldbank.org/handle/10986/16091" />
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_AyrP7Na">The World Bank Annual Report 2013</title>
+		<meeting><address><addrLine>Washington, DC</addrLine></address></meeting>
+		<imprint>
+			<publisher>The World Bank</publisher>
+			<date type="published" when="2013-10-07">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main" xml:id="_CWHNYHT">Acknowledgements</title>
+		<idno type="DOI">10.18356/87f05349-en</idno>
+		<ptr target="www.un.org/sg/management/pdf/HLP_P2015_Report.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_Qcq79z4">A New Global Partnership</title>
+		<imprint>
+			<publisher>United Nations</publisher>
+			<date type="published" when="2013-05-30">2013</date>
+			<biblScope unit="page" from="3" to="3" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Ashley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Holden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B S</forename><surname>Bazeley</surname></persName>
+		</author>
+		<ptr target="www.theidlgroup.com/documents/IDLRedbook_000.pdf" />
+		<title level="m" xml:id="_rM5wSWf">Livestock in Development (Organisation), Livestock in Poverty-Focused Development (Livestock in Development</title>
+		<meeting><address><addrLine>Crewkerne, UK</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main" xml:id="_6Wkqn9G">Poverty in India and the IRDP Delusion</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Dreze</surname></persName>
+		</author>
+		<ptr target="www.epw.in/review-agriculture/poverty-india-and-irdp-delusion.html" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_aJZQfnz">Econ. Polit. Wkly</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<date type="published" when="1990-09-29">29 September 1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main" xml:id="_cShHGBf">Making the poor creditworthy: A case study of the Integrated Rural Development Program</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">V</forename><surname>Pulley</surname></persName>
+		</author>
+		<ptr target="www-wds.worldbank.org/external/default/WDSContentServer/IW3P/IB/2000/06/28/000178830_98101903572627/Rendered/PDF/multi_page.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_bfCTzvE">World Bank Discuss. Pap</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main" xml:id="_JBTubEk">Can Basic Entrepreneurship Transform the Economic Lives of the Poor?</title>
+		<author>
+			<persName><forename type="first">Oriana</forename><surname>Bandiera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robin</forename><surname>Burgess</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Narayan</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Selim</forename><surname>Gulesci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Imran</forename><surname>Rasul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Munshi</forename><surname>Sulaiman</surname></persName>
+		</author>
+		<idno type="DOI">10.2139/ssrn.2266813</idno>
+		<ptr target="http://sticerd.lse.ac.uk/dps/eopp/eopp43.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_zkmnDZS">SSRN Electronic Journal</title>
+		<title level="j" type="abbrev">SSRN Journal</title>
+		<idno type="ISSNe">1556-5068</idno>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main" xml:id="_vHcvhBW">Impact assessment of credit programme for the tenant farmers in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Mohammad</forename><forename type="middle">Abdul</forename><surname>Malek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Abu</forename><surname>Ahasan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Md.</forename><forename type="middle">Amzad</forename><surname>Hossain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Md.</forename><forename type="middle">Shakil</forename><surname>Ahmed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marup</forename><surname>Hossain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Md.</forename><forename type="middle">Hasib</forename><surname>Reza</surname></persName>
+		</author>
+		<idno type="DOI">10.23846/ow31222</idno>
+		<ptr target="http://research.brac.net/new/component/k2/livelihoods" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_VZfDW74">BRAC Res. Monogr. Ser</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<date type="published" when="2009">2009</date>
+			<publisher>International Initiative for Impact Evaluation</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main" xml:id="_aVcXySa">Assessing the Frontiers of Ultrapoverty Reduction: Evidence from Challenging the Frontiers of Poverty Reduction/Targeting the Ultra-poor, an Innovative Program in Bangladesh</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Emran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Robano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Smith</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/674110</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_56bNP5V">Econ. Dev. Cult. Change</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="page" from="339" to="380" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main" xml:id="_57VbxN9">Addressing extreme poverty in a sustainable manner: Evidence from CFPR programme</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">C</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Misha</surname></persName>
+		</author>
+		<ptr target="http://research.brac.net/reports/cfpr_wp19.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_yn7DvsM">BRAC CFPR Work. Pap</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main" xml:id="_MdtcNWv">Targeting the Poor: Evidence from a Field Experiment in Indonesia</title>
+		<author>
+			<persName><forename type="first">Vivi</forename><surname>Alatas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Abhijit</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rema</forename><surname>Hanna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Benjamin</forename><forename type="middle">A</forename><surname>Olken</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Julia</forename><surname>Tobias</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/aer.102.4.1206</idno>
+		<idno>pmid: 25197099</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_yjrjnJG">American Economic Review</title>
+		<title level="j" type="abbrev">American Economic Review</title>
+		<idno type="ISSN">0002-8282</idno>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1206" to="1240" />
+			<date type="published" when="2012-06-01">2012</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main" xml:id="_GXGDYyt">Figure 5: Construction of PPI and miRNA-mRNA networks. PPI: protein–protein interaction.</title>
+		<idno type="DOI">10.7717/peerj.12147/fig-5</idno>
+		<ptr target="www.progressoutofpoverty.org/ppi-construction" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_kY8QHMg">PPI Construction</title>
+		<imprint>
+			<date>null</date>
+			<publisher>PeerJ</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main" xml:id="_CkFxhXV">Peruvian Nuevo Soles (PEN) in 2011</title>
+		<idno>232.957</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_ESHZ225">PPP rates: for Ethiopian Birr (ETB)</title>
+		<imprint>
+			<publisher>The U.S. CPIs used</publisher>
+			<date type="published" when="2013">2013. 2014, 1.48, 1.53, and 2.03. 9111</date>
+			<biblScope unit="page">236</biblScope>
+		</imprint>
+	</monogr>
+	<note>All exchange rates used in this paper are in PPP terms. We convert all monetary figures from local currency to USD PPP, at the year of the program&apos;s inception for cost data, and the year of the relevant survey for our results data. We then convert from USD PPP for that year to 2014 USD by multiplying by the ratio of the 2014 U.S. Consumer Price Index (CPI) to the U.S. CPI for the year in question. We use the following in 2010, 2012, and 2013, 4.18, 6.45, and 6.66, respectively; for Ghanaian Cedis (GHS) in 2011, 2012, and 2014, 0.70, 0.79, and 0.91, respectively; for Honduran Lempiras (HNL) in 2009, 2012, and 2013, 9.77, 10.13, and 10.15, respectively; for Indian Rupees in 2007, 2009, and 2010, 11.76, 13.20, and 14.21, respectively; for Pakistan Rupees (PKR) in 2008, 2011, and 2013, 15.84, 24.35, and 26.83, respectively; for 2007 to 2014 are, respectively, 207</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main" xml:id="_tJ8zsKK">Purchasing Power Parity Exchange Rates for the Global Poor</title>
+		<author>
+			<persName><forename type="first">Angus</forename><surname>Deaton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Olivier</forename><surname>Dupriez</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/app.3.2.137</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_7Bhy4et">American Economic Journal: Applied Economics</title>
+		<title level="j" type="abbrev">American Economic Journal: Applied Economics</title>
+		<idno type="ISSN">1945-7782</idno>
+		<idno type="ISSNe">1945-7790</idno>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="137" to="166" />
+			<date type="published" when="2011-04-01">2011</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main" xml:id="_EHENGFe">Generalized expectancies for internal versus external control of reinforcement.</title>
+		<author>
+			<persName><forename type="first">Julian</forename><forename type="middle">B</forename><surname>Rotter</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/h0092976</idno>
+		<idno>pmid: 5340840</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_86hxgub">Psychological Monographs: General and Applied</title>
+		<title level="j" type="abbrev">Psychological Monographs: General and Applied</title>
+		<idno type="ISSN">0096-9753</idno>
+		<imprint>
+			<biblScope unit="volume">80</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="28" />
+			<date type="published" when="1966">1966</date>
+			<publisher>American Psychological Association (APA)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main" xml:id="_e6bT7rq">Experimental Analysis of Neighborhood Effects</title>
+		<author>
+			<persName><forename type="first">Jeffrey</forename><forename type="middle">R</forename><surname>Kling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeffrey</forename><forename type="middle">B</forename><surname>Liebman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lawrence</forename><forename type="middle">F</forename><surname>Katz</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1468-0262.2007.00733.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_54dKaqr">Econometrica</title>
+		<title level="j" type="abbrev">Econometrica</title>
+		<idno type="ISSN">0012-9682</idno>
+		<idno type="ISSNe">1468-0262</idno>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="83" to="119" />
+			<date type="published" when="2007-01">2007</date>
+			<publisher>The Econometric Society</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main" xml:id="_CXEeAUz">Failure vs. Displacement: Why an Innovative Anti-Poverty Program Showed No Net Impact</title>
+		<author>
+			<persName><forename type="first">Jonathan</forename><surname>Morduch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shamika</forename><surname>Ravi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jonathan</forename><surname>Bauchet</surname></persName>
+		</author>
+		<idno type="DOI">10.2139/ssrn.2134779</idno>
+		<idno>2012-05</idno>
+		<ptr target="www.ier.hit-u.ac.jp/primced/documents/No32-dp_up_Pdf_2012_000.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_ZjegEs3">SSRN Electronic Journal</title>
+		<title level="j" type="abbrev">SSRN Journal</title>
+		<idno type="ISSNe">1556-5068</idno>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>Elsevier BV</publisher>
+			<pubPlace>Tokyo</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Center for Economic Institutions, Institute of Economic Research, Hitotsubashi University</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">CEI Working Paper Series</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main" xml:id="_xk9kS3X">Multiple inference and gender differences in the effects of early intervention: A reevaluation of the Abecedarian, Perry Preschool, and Early Training Projects</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Anderson</surname></persName>
+		</author>
+		<idno type="DOI">10.1198/016214508000000841</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_UY7gyZe">J. Am. Stat. Assoc</title>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="page" from="1481" to="1495" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main" xml:id="_D5JqRm7">Table 3: Effect estimates (B), standard errors (SE), and significance levels for all fixed effects in the best-fitting model.</title>
+		<idno type="DOI">10.7717/peerj.7118/table-3</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_xaHdA4u">The significance levels reported in Table 3 (* 10%, ** 5%</title>
+		<imprint>
+			<publisher>PeerJ</publisher>
+			<date>null</date>
+		</imprint>
+	</monogr>
+	<note>, *** 1%) correspond to the naïve p-values, which can be inferred from the coefficient and standard errors</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b18">
+	<analytic>
+		<title level="a" type="main" xml:id="_mDY7PJX">Questions Asked during Interviews of Siblings and Other Family Members Affected by Serious Mental Illness</title>
+		<idno type="DOI">10.2307/j.ctv1khdpdg.14</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_bF3T2Qp">Dutiful Love</title>
+		<imprint>
+			<publisher>Fortress Press</publisher>
+			<date type="published" when="2021-08-17" />
+			<biblScope unit="page" from="173" to="174" />
+		</imprint>
+	</monogr>
+	<note>whereas in India, women&apos;s empowerment was not asked about in endline 2, and so in both cases the correction is for only 9 outcome families when reporting country-specific indexed family outcomes in tables S3a to S3f . However, it is for 10 families in all other cases</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main" xml:id="_3zXghK2">The Demand for Food and Calories</title>
+		<author>
+			<persName><forename type="first">Shankar</forename><surname>Subramanian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Angus</forename><surname>Deaton</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/262020</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_eG4etQv">Journal of Political Economy</title>
+		<title level="j" type="abbrev">Journal of Political Economy</title>
+		<idno type="ISSN">0022-3808</idno>
+		<idno type="ISSNe">1537-534X</idno>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="133" to="162" />
+			<date type="published" when="1996-02">1996</date>
+			<publisher>University of Chicago Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main" xml:id="_F7YvFhF">Hedonic relativism and planning the good society</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Brickman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">T</forename><surname>Campbell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_cektzbA">Adapt.-Level Theory</title>
+		<imprint>
+			<biblScope unit="page" from="287" to="305" />
+			<date type="published" when="1971">1971</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main" xml:id="_sKFZEw4">Nonparametric Analysis of Randomized Experiments with Missing Covariate and Outcome Data</title>
+		<author>
+			<persName><forename type="first">Joel</forename><forename type="middle">L</forename><surname>Horowitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Charles</forename><forename type="middle">F</forename><surname>Manski</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01621459.2000.10473902</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_gRsN2eF">Journal of the American Statistical Association</title>
+		<title level="j" type="abbrev">Journal of the American Statistical Association</title>
+		<idno type="ISSN">0162-1459</idno>
+		<idno type="ISSNe">1537-274X</idno>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="issue">449</biblScope>
+			<biblScope unit="page" from="77" to="84" />
+			<date type="published" when="2000-03">2000</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main" xml:id="_5paQTtX">Training, Wages, and Sample Selection: Estimating Sharp Bounds on Treatment Effects</title>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">S</forename><surname>Lee</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1467-937x.2009.00536.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_t4DE4Bd">Review of Economic Studies</title>
+		<idno type="ISSN">0034-6527</idno>
+		<idno type="ISSNe">1467-937X</idno>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="1071" to="1102" />
+			<date type="published" when="2009-07">2009</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b23">
+	<monogr>
+		<title level="m" type="main" xml:id="_mudnNa9">Base Redevelopment Planning for BRAC Sites</title>
+		<author>
+			<persName><surname>Air Command And Staff Coll Maxwell Afb Al</surname></persName>
+		</author>
+		<idno type="DOI">10.21236/ada476201</idno>
+		<imprint>
+			<date type="published" when="2006-05-01" />
+			<publisher>Defense Technical Information Center</publisher>
+		</imprint>
+	</monogr>
+	<note>Bandhan is also probably the organization that BRAC staff trained Bandhan staff at the onset of the program for example</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b24">
+	<analytic>
+		<title level="a" type="main" xml:id="_qdgKZs9">Staff Guidance Note on the Application of the Joint Bank-Fund Debt Sustainability Framework for Low-Income Countries</title>
+		<idno type="DOI">10.5089/9781498341172.007</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_SVyY8g9">Policy Papers</title>
+		<idno type="ISSN">2663-3493</idno>
+		<imprint>
+			<biblScope unit="volume">2013</biblScope>
+			<biblScope unit="issue">41</biblScope>
+			<biblScope unit="page" from="1" to="64" />
+			<date type="published" when="2013-05-10">2013</date>
+			<publisher>International Monetary Fund (IMF)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b25">
+	<analytic>
+		<title level="a" type="main" xml:id="_xCMChcx">The Returns to Cash and Microenterprise Support Among the Ultra-Poor: A Field Experiment</title>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Blattman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Julian</forename><surname>Jamison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eric</forename><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeannie</forename><surname>Annan</surname></persName>
+		</author>
+		<idno type="DOI">10.2139/ssrn.2439488</idno>
+		<ptr target="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2439488" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_EKCK5Kn">SSRN Electronic Journal</title>
+		<title level="j" type="abbrev">SSRN Journal</title>
+		<idno type="ISSNe">1556-5068</idno>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b26">
+	<analytic>
+		<title level="a" type="main" xml:id="_9ygjtdc">Generating Skilled Self-Employment in Developing Countries: Experimental Evidence from Uganda *</title>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Blattman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nathan</forename><surname>Fiala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sebastian</forename><surname>Martinez</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/qje/qjt057</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_7zdhVDq">The Quarterly Journal of Economics</title>
+		<idno type="ISSN">0033-5533</idno>
+		<idno type="ISSNe">1531-4650</idno>
+		<imprint>
+			<biblScope unit="volume">129</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="697" to="752" />
+			<date type="published" when="2014">2014</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b27">
+	<analytic>
+		<title level="a" type="main" xml:id="_vPQksn4">The Two Poverties</title>
+		<author>
+			<persName><forename type="first">Abhijit</forename><forename type="middle">V</forename><surname>Banerjee</surname></persName>
+		</author>
+		<idno type="DOI">10.2139/ssrn.271731</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_VnkDemS">SSRN Electronic Journal</title>
+		<title level="j" type="abbrev">SSRN Journal</title>
+		<idno type="ISSNe">1556-5068</idno>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="129" to="141" />
+			<date type="published" when="2000">2000</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b28">
+	<analytic>
+		<title level="a" type="main" xml:id="_6vUax4n">Inequality as a Determinant of Malnutrition and Unemployment: Theory</title>
+		<author>
+			<persName><forename type="first">Partha</forename><surname>Dasgupta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Debraj</forename><surname>Ray</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/2233171</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_kg7VEvW">The Economic Journal</title>
+		<title level="j" type="abbrev">The Economic Journal</title>
+		<idno type="ISSN">0013-0133</idno>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="issue">384</biblScope>
+			<biblScope unit="page">1011</biblScope>
+			<date type="published" when="1986-12">1986</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b29">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">V</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Duflo</surname></persName>
+		</author>
+		<title level="m" xml:id="_4MAtQ58">Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>PublicAffairs</publisher>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b30">
+	<analytic>
+		<title level="a" type="main" xml:id="_DJ7623y">Income Distribution and Macroeconomics</title>
+		<author>
+			<persName><forename type="first">Oded</forename><surname>Galor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Joseph</forename><surname>Zeira</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/2297811</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_fHUgrjC">The Review of Economic Studies</title>
+		<title level="j" type="abbrev">The Review of Economic Studies</title>
+		<idno type="ISSN">0034-6527</idno>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">35</biblScope>
+			<date type="published" when="1993-01">1993</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b31">
+	<analytic>
+		<title level="a" type="main" xml:id="_NT7XJ8k">Occupational Choice and the Process of Development</title>
+		<author>
+			<persName><forename type="first">Abhijit</forename><forename type="middle">V</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andrew</forename><forename type="middle">F</forename><surname>Newman</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/261876</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_MMDTYqY">Journal of Political Economy</title>
+		<title level="j" type="abbrev">Journal of Political Economy</title>
+		<idno type="ISSN">0022-3808</idno>
+		<idno type="ISSNe">1537-534X</idno>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="274" to="298" />
+			<date type="published" when="1993-04">1993</date>
+			<publisher>University of Chicago Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b32">
+	<analytic>
+		<title level="a" type="main" xml:id="_4VmDpu9">Six Randomized Evaluations of Microcredit: Introduction and Further Steps</title>
+		<author>
+			<persName><forename type="first">Abhijit</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dean</forename><surname>Karlan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jonathan</forename><surname>Zinman</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/app.20140287</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_QGv3aQx">American Economic Journal: Applied Economics</title>
+		<title level="j" type="abbrev">American Economic Journal: Applied Economics</title>
+		<idno type="ISSN">1945-7782</idno>
+		<idno type="ISSNe">1945-7790</idno>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="21" />
+			<date type="published" when="2015-01-01">2015</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b33">
+	<analytic>
+		<title level="a" type="main" xml:id="_xQyNCp2">Microcredit Impacts: Evidence from a Randomized Microcredit Program Placement Experiment by Compartamos Banco</title>
+		<author>
+			<persName><forename type="first">Manuela</forename><surname>Angelucci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dean</forename><surname>Karlan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jonathan</forename><surname>Zinman</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/app.20130537</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_pvNbXZz">American Economic Journal: Applied Economics</title>
+		<title level="j" type="abbrev">American Economic Journal: Applied Economics</title>
+		<idno type="ISSN">1945-7782</idno>
+		<idno type="ISSNe">1945-7790</idno>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="151" to="182" />
+			<date type="published" when="2015-01-01">2015</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b34">
+	<analytic>
+		<title level="a" type="main" xml:id="_WmRFesz">The Impacts of Microfinance: Evidence from Joint-Liability Lending in Mongolia</title>
+		<author>
+			<persName><forename type="first">Orazio</forename><surname>Attanasio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Britta</forename><surname>Augsburg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ralph</forename><surname>De Haas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Emla</forename><surname>Fitzsimons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Heike</forename><surname>Harmgart</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/app.20130489</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_3PTzVgz">American Economic Journal: Applied Economics</title>
+		<title level="j" type="abbrev">American Economic Journal: Applied Economics</title>
+		<idno type="ISSN">1945-7782</idno>
+		<idno type="ISSNe">1945-7790</idno>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="90" to="122" />
+			<date type="published" when="2015-01-01">2015</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b35">
+	<analytic>
+		<title level="a" type="main" xml:id="_juXEPrw">The Impacts of Microcredit: Evidence from Bosnia and Herzegovina</title>
+		<author>
+			<persName><forename type="first">Britta</forename><surname>Augsburg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ralph</forename><surname>De Haas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Heike</forename><surname>Harmgart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Costas</forename><surname>Meghir</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/app.20130272</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_X5n2DUM">American Economic Journal: Applied Economics</title>
+		<title level="j" type="abbrev">American Economic Journal: Applied Economics</title>
+		<idno type="ISSN">1945-7782</idno>
+		<idno type="ISSNe">1945-7790</idno>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="183" to="203" />
+			<date type="published" when="2015-01-01">2015</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b36">
+	<analytic>
+		<title level="a" type="main" xml:id="_4Ad3TR5">The miracle of microfinance? Evidence from a randomized evaluation</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Glennerster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Kinnan</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/app.20130533</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_bYdA4DS">Am. Econ. J. Appl. Econ</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="22" to="53" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b37">
+	<analytic>
+		<title level="a" type="main" xml:id="_PjWEYkQ">Estimating the Impact of Microcredit on Those Who Take It Up: Evidence from a Randomized Experiment in Morocco</title>
+		<author>
+			<persName><forename type="first">Bruno</forename><surname>Crépon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Florencia</forename><surname>Devoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Esther</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">William</forename><surname>Parienté</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/app.20130535</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_6ynz5G2">American Economic Journal: Applied Economics</title>
+		<title level="j" type="abbrev">American Economic Journal: Applied Economics</title>
+		<idno type="ISSN">1945-7782</idno>
+		<idno type="ISSNe">1945-7790</idno>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="123" to="150" />
+			<date type="published" when="2015-01-01">2015</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b38">
+	<analytic>
+		<title level="a" type="main" xml:id="_8VXkR83">The Impacts of Microcredit: Evidence from Ethiopia</title>
+		<author>
+			<persName><forename type="first">Alessandro</forename><surname>Tarozzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jaikishan</forename><surname>Desai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kristin</forename><surname>Johnson</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/app.20130475</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_A5wjeuQ">American Economic Journal: Applied Economics</title>
+		<title level="j" type="abbrev">American Economic Journal: Applied Economics</title>
+		<idno type="ISSN">1945-7782</idno>
+		<idno type="ISSNe">1945-7790</idno>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="54" to="89" />
+			<date type="published" when="2015-01-01">2015</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b39">
+	<analytic>
+		<title level="a" type="main" xml:id="_U2DE6SY">The Shape of Temptation: Implications for the Economic Lives of the Poor</title>
+		<author>
+			<persName><forename type="first">Abhijit</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sendhil</forename><surname>Mullainathan</surname></persName>
+		</author>
+		<idno type="DOI">10.3386/w15973</idno>
+		<ptr target="www.nber.org/papers/w15973" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_QuPa9RS">Natl. Bur. Econ. Res</title>
+		<imprint>
+			<biblScope unit="page">15973</biblScope>
+			<date type="published" when="2010-05">2010</date>
+			<publisher>National Bureau of Economic Research</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b40">
+	<analytic>
+		<title level="a" type="main" xml:id="_4eGfxAt">Poverty and Self-Control</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">Douglas</forename><surname>Bernheim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Debraj</forename><surname>Ray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sevin</forename><surname>Yeltekin</surname></persName>
+		</author>
+		<idno type="DOI">10.3386/w18742</idno>
+		<ptr target="www.nber.org/papers/w18742" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_wFr47AZ">Natl. Bur. Econ. Res</title>
+		<imprint>
+			<biblScope unit="page">18742</biblScope>
+			<date type="published" when="2013-01">2013</date>
+			<publisher>National Bureau of Economic Research</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b41">
+	<analytic>
+		<title level="a" type="main" xml:id="_n2Wsg65">Welfare Effects of Unconditional Cash Transfers</title>
+		<author>
+			<persName><forename type="first">Johannes</forename><surname>Haushofer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shapiro</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/rct.19-2.0</idno>
+		<ptr target="http://www.princeton.edu/~joha/publications/Haushofer_Shapiro_UCT_2013.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_BENdpBa">MIT Work. Pap</title>
+		<imprint>
+			<date type="published" when="2013-06-28">2013</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b42">
+	<analytic>
+		<title level="a" type="main" xml:id="_dZCBu8r">One-Time Transfers of Cash or Capital Have Long-Lasting Effects on Microenterprises in Sri Lanka</title>
+		<author>
+			<persName><forename type="first">Suresh</forename><surname>De Mel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><surname>Mckenzie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Woodruff</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.1212973</idno>
+		<idno>pmid: 22363007</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_9Yj2hfs">Science</title>
+		<title level="j" type="abbrev">Science</title>
+		<idno type="ISSN">0036-8075</idno>
+		<idno type="ISSNe">1095-9203</idno>
+		<imprint>
+			<biblScope unit="volume">335</biblScope>
+			<biblScope unit="issue">6071</biblScope>
+			<biblScope unit="page" from="962" to="966" />
+			<date type="published" when="2012-02-24">2012</date>
+			<publisher>American Association for the Advancement of Science (AAAS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b43">
+	<analytic>
+		<title level="a" type="main" xml:id="_uqdzQTf">What are we learning from business training and entrepreneurship evaluations around the developing world?</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Mckenzie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Woodruff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_3NNHDYZ">World Bank Policy Res. Work. Pap</title>
+		<imprint>
+			<biblScope unit="page">6202</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b44">
+	<analytic>
+		<title level="a" type="main" xml:id="_ecJZGej">Indirect Effects of an Aid Program: How Do Cash Transfers Affect Ineligibles&apos; Consumption?</title>
+		<author>
+			<persName><forename type="first">Manuela</forename><surname>Angelucci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Giacomo</forename><surname>De Giorgi</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/aer.99.1.486</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_nKUxncW">American Economic Review</title>
+		<title level="j" type="abbrev">American Economic Review</title>
+		<idno type="ISSN">0002-8282</idno>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="486" to="508" />
+			<date type="published" when="2009-02-01">2009</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

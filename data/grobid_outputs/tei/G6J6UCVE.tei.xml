@@ -1,0 +1,1782 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" xml:id="_pSVf7Qw">Targeted intervention for the ultra poor in rural Bangladesh: Does it make any difference in their health-seeking behaviour?</title>
+				<funder>
+					<orgName type="full">World Food Programme</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Department for International Development, European Commission, NOVIB</orgName>
+				</funder>
+				<funder ref="#_46NxJHu">
+					<orgName type="full">Canadian International Development Agency</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2006-09-06">6 September 2006</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Syed</forename><forename type="middle">Masud</forename><surname>Ahmed</surname></persName>
+							<email>ahmed.sm@brac.net</email>
+							<affiliation key="aff0">
+								<orgName type="institution">BRAC</orgName>
+								<address>
+									<settlement>Dhaka</settlement>
+									<country key="BD">Bangladesh</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Max</forename><surname>Petzold</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Nordic School of Public Health</orgName>
+								<address>
+									<country key="SE">Sweden</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Public Health Sciences</orgName>
+								<orgName type="laboratory">IHCAR</orgName>
+								<orgName type="institution">Karolinska Institutet</orgName>
+								<address>
+									<country key="SE">Sweden</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Zarina</forename><forename type="middle">Nahar</forename><surname>Kabir</surname></persName>
+							<email>zarina.kabir@neurotec.ki.se</email>
+							<affiliation key="aff3">
+								<orgName type="department">Division of Geriatric Epidemiology</orgName>
+								<orgName type="institution" key="instit1">Neurotec</orgName>
+								<orgName type="institution" key="instit2">Karolinska Institutet</orgName>
+								<address>
+									<country key="SE">Sweden</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Göran</forename><surname>Tomson</surname></persName>
+						</author>
+						<title level="a" type="main" xml:id="_sjFhBge">Targeted intervention for the ultra poor in rural Bangladesh: Does it make any difference in their health-seeking behaviour?</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main" xml:id="_7ZCfJw2">Social Science &amp; Medicine</title>
+						<title level="j" type="abbrev">Social Science &amp; Medicine</title>
+						<idno type="ISSN">0277-9536</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">63</biblScope>
+							<biblScope unit="issue">11</biblScope>
+							<biblScope unit="page" from="2899" to="2911"/>
+							<date type="published" when="2006-09-06">6 September 2006</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">5F3964D20CD00DBE40B46BC54E72818C</idno>
+					<idno type="DOI">10.1016/j.socscimed.2006.07.024</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2025-11-05T00:10+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a292bac</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=1, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=true, generateTeiCoordinates=[true], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term xml:id="_Ur4qAg3">Bangladesh</term>
+					<term xml:id="_59Bup9D">Disadvantaged populations</term>
+					<term xml:id="_QeActVg">Ultra-poor</term>
+					<term xml:id="_RsSXdRa">Health-seeking behaviour</term>
+					<term xml:id="_2XHADjK">Grants-based intervention</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_Xvz2DjW"><p xml:id="_m3q6CBk">It is now well recognised that regular microcredit intervention is not enough to effectively reach the ultra poor in rural Bangladesh, in fact it actively excludes them for structural reasons. A grants-based integrated intervention was developed (with health inputs to mitigate the income-erosion effect of illness) to examine whether such a targeted intervention could change the health-seeking behaviour of the ultra-poor towards greater use of health services and ''formal allopathic'' providers during illness, besides improving their poverty status and capacity for health expenditure. The study was carried out in three northern districts of Bangladesh with high density of ultra poor households, using a pretest/post-test control group design. A pre-intervention baseline (2189 interventions and 2134 controls) survey was undertaken in 2002 followed by an intervention (of 18 months duration) and a post-intervention follow-up survey of the same households in 2004. Structured interviews were conducted to elicit information on health-seeking behaviour of household members. Findings reveal an overall change in health-seeking behaviour in the study population, but the intervention reduced self-care by 7 percentage units and increased formal allopathic care by 9 percentage units. The intervention increased the proportion of non-deficit households by 43 percentage units, as well as the capacity to spend more than Tk. 25 for treatment of illness during the reference period by 11 percentage units. Higher health expenditure and time (pre-to -post-intervention period) was associated with increased use of health care from formal allopathic providers. However, gender differences in health-seeking and health-expenditure disfavouring women were also noted. The programmatic implications of these findings are discussed in the context of improving the ability of health systems to reach the ultra poor.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="544.252" lry="742.677"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="544.252" lry="742.677"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="544.252" lry="742.677"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="544.252" lry="742.677"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="544.252" lry="742.677"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="544.252" lry="742.677"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="544.252" lry="742.677"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="544.252" lry="742.677"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="544.252" lry="742.677"/>
+		<surface n="10" ulx="0.0" uly="0.0" lrx="544.252" lry="742.677"/>
+		<surface n="11" ulx="0.0" uly="0.0" lrx="544.252" lry="742.677"/>
+		<surface n="12" ulx="0.0" uly="0.0" lrx="544.252" lry="742.677"/>
+		<surface n="13" ulx="0.0" uly="0.0" lrx="544.252" lry="742.677"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_39Uwpwp">Introduction</head><p xml:id="_v9Geb5Z">In recent years, scientific evidence emphasises the critical role of health for economic development in low-income countries: better health translates into greater and more equitably distributed wealth by building human and social capital and increasing productivity (World Health Organization (WHO), 2001). However, it has been found that cost of health care itself can be a cause of poverty in lowincome countries through loss of income, catastrophic health expenditures, and potentially irreversible crisis coping mechanisms that involve asset and savings depletion <ref type="bibr" target="#b34">(Meesen et al., 2003;</ref><ref type="bibr" target="#b48">Segall et al., 2002;</ref><ref type="bibr" target="#b69">Xu et al., 2003)</ref>. Studies have shown that of all the risks that poor households are facing, health risks probably pose the greatest threat to their lives and livelihoods <ref type="bibr" target="#b29">(Krishna, 2004;</ref><ref type="bibr" target="#b38">Noponen, &amp; Kantor, 2004;</ref><ref type="bibr" target="#b44">Russell, 2004)</ref>. Health systems are frequently ineffective in reaching the poor, generate less benefit for the poor than the rich, and impose regressive cost burdens on poor households <ref type="bibr" target="#b16">(Fabricant, Kamara, &amp; Mills, 1999)</ref>. The consistently inequitable nature of health systems limits the access to health care by the poor <ref type="bibr" target="#b21">(Gwatkin, Bhuiya, &amp; Victora, 2004)</ref>. Concern has been raised recently about attaining the health-related Millenium Development Goals (MDGs) (reduce child mortality, improve maternal health, combat HIV/AIDS, malaria and other diseases) in low-income countries without improving the ability of health systems to reach the poor effectively <ref type="bibr" target="#b20">(Gwatkin, 2005;</ref><ref type="bibr" target="#b23">Haines &amp; Cassels, 2004;</ref><ref type="bibr">Task Force on Health Systems Research, 2004)</ref>.</p><p xml:id="_fMqpT4D">The society in Bangladesh is characterised by substantial socio-economic and gender differentials in health status <ref type="bibr" target="#b22">(Gwatkin, Rustein, Johnson, Pande, &amp; Wagstaff, 2000)</ref>, health care access and utilisation <ref type="bibr" target="#b14">(Cockcroft, Milne, &amp; Anderson, 2004)</ref>, and health benefits gained from public and private health expenditures (National Health Accounts (NHA), 1999), all disfavouring the poor. According to international comparison viz., people living below 1 dollar (Purchasing Power Parity, PPP dollar) a day, 36% of its 140+ million population live in extreme poverty <ref type="bibr">(UNDP, 2004)</ref>. The income erosion effect of ill health for the poor households, especially the bottom 15-20% is also well documented in Bangladesh <ref type="bibr" target="#b51">(Sen, 2003)</ref>. The poor and the disadvantaged households with only a few assets struggle to meet even small extra-budgetary expenses <ref type="bibr" target="#b41">(Pryer, 1989)</ref>. The overall health service consumption in Bangladesh from any source is low compared to levels in other developing countries as well as level of need <ref type="bibr">(World Bank, 2003)</ref>. <ref type="bibr" target="#b15">Ensor et al. (2002)</ref> found that overall levels of per capita consumption of essential service package (ESP) would have to increase by 40% in order to achieve the higher average level of other developing countries.</p><p xml:id="_jEpWaEK">Disadvantaged populations are defined as ''groups with diminished capacity to take advantage of opportunities for better health and who are often denied those opportunities, whether due to internal or external factors'' (UNI-SOL (Universities in Solidarity for the Health of the Disadvantaged), 1999). They are characterised by their inability to participate fully in social and economic activities, as well as those pertaining to decision making, and this social exclusion denies them the consumption of essential goods and services such as health care that are available to others <ref type="bibr" target="#b45">(Santana, 2002)</ref>. Their disadvantaged condition makes them vulnerable to differential treatment by the health system <ref type="bibr" target="#b64">(Woolf, 2004)</ref>. In the national context, the proportion of population falling below the lower poverty line (corresponding to the consumption of 1805 kcal per person per day) in Bangladesh is variously termed as 'extreme poor', 'poorest of the poor' or 'ultra poor' <ref type="bibr" target="#b49">(Sen, 2000;</ref><ref type="bibr" target="#b32">Matin &amp; Halder, 2004)</ref>. These ultra poor households have few or no asset base, highly vulnerable to any shock (e.g., natural disaster, illnesses requiring in-patient or costly out-patient care, death or disability of an income-earner), and mainly depend on wage-labour for survival. They comprise one of the major (around 36% of the population) disadvantaged population groups in rural Bangladesh.</p><p xml:id="_nTuTnMh">Bangladesh is committed to achieve the MDGs which include among others, to halve the proportion of people living on less than one dollar (PPP dollar) a day by 2015 in line with international commitment (GoB (Government of Bangladesh), 2004; SDNP (Sustainable Development Network Programme), 2004). Enhancing disadvantaged populations' ability to access quality health care at low-cost has a potential poverty-alleviating effect. It acts through mitigation of the income-erosion consequences of ill-health. In addition to better financial protection, changing health-seeking behaviour of disadvantaged populations towards greater use of formal health services and qualified providers during illness remains a major challenge for the health system in Bangladesh. This paper attempts to study whether a targeted intervention designed specifically for the ultra poor can facilitate this change. We also hypothesized that participation of the ultra poor people in such an intervention would increase their capacity to bear health expenditure through improvement in poverty status.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_abXjK9A">Materials and methods</head><p xml:id="_DAT4AQH">Challenging the frontiers of poverty reduction: targeting the ultra poor, targeting social constraints (henceforth CFPR/TUP) is an innovative programme of BRAC, a multi-faceted non-governmental development organization (NGO) <ref type="bibr" target="#b8">(BRAC, 2001)</ref>. The programme was designed when it became apparent that regular microcredit-based intervention is not enough to effectively reach the most vulnerable section among the poor, i.e. the ultra poor in rural Bangladesh, and may in fact actively exclude them for structural reasons <ref type="bibr" target="#b24">(Halder &amp; Mosley, 2004;</ref><ref type="bibr" target="#b42">Rahman &amp; Razzaque, 2000)</ref>. Experiences gained from working with these population groups in recent years <ref type="bibr" target="#b31">(Matin &amp; Hulme, 2003;</ref><ref type="bibr" target="#b62">Webb, Coates, &amp; Houser, 2002)</ref> were used to develop this grants-based, integrated intervention (including health intervention for mitigating the income-erosion effect of illness) for the ultra poor. The intervention was undertaken as an operation research project to develop a module of integrated health and social protection intervention for the ultra poor. Launched in 2002, the first phase of the intervention covered all the 21 sub-districts (upazilas) of the three purposively selected famine/floodprone districts (Rangpur, Kurigram, Nilphamari) in northern Bangladesh. From previous poverty mapping, these districts were found to have the highest concentration of extreme poor households in the country (BIDS (Bangladesh Institute of Development Studies), 2000).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_rNHRthZ">Study population</head><p xml:id="_MDTy4DG">Initially, villages under upazilas with high concentration of poor households were selected by the programme based on local level knowledge of BRAC field staff. The ultra poor households were identified by villagers in participatory wealth ranking exercises, verified later in a brief household survey by BRAC field staff against programme set targeting criteria which included both inclusion and exclusion criteria (Table <ref type="table">1</ref>). The exclusion criteria were mandatory so as to ensure that the households who have been bypassed by all types of development inputs till date are included in the intervention. The selection was cross-checked by senior staff through on-site evaluation, yielding a final list of households (for intervention) from all programme villages under the three districts <ref type="bibr" target="#b32">(Matin &amp; Halder, 2004)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_6s2xhHr">Sampling</head><p xml:id="_9EKSfZT">For the baseline survey conducted during July-September 2002, sample size calculation found that about 2000 households each for intervention and control would be adequate for studying most of the variables of interest requiring a precision of 75 percentage units for 95% confidence interval (e.g., immunization status of children o2 yr) and would be available from one-third of the total programme villages. Thus, one-third of the programme villages under each upazila were selected by systematic random sampling. All ultra poor households in these villages receiving asset grants and other intervention inputs in 2002 comprised our intervention households ðn ¼ 2189Þ. Approximately an equal number of control households ðn ¼ 2134Þ were recruited by simple random sampling from the pool of ultra poor households in the same villages not receiving intervention inputs from the CFPR/ TUP programme (due to exclusion criteria). A follow-up survey of these baseline households was</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_9F477Pp">ARTICLE IN PRESS</head><p xml:id="_wXvCxtn">Table 1 Programme set targeting criteria for selecting ultra poor households Inclusion criteria (household selected if satisfies at least two) Exclusion criteria (household excluded if) Owns less than 10 decimals of land (including homestead land) Any member of the household has current participation in a micro-credit providing NGO No productive assets Any member of the household receives benefit from Government programmes No adult working man in the household No physically able adult woman in the household who can put in labour towards the asset transferred Adult woman selling labour or begging Children of school-going age selling labour</p><p xml:id="_BGsUXbG">done during July-September 2004 after the completion of the 18-month intervention and a grace period of about 6 months (Fig. <ref type="figure" target="#fig_0">1</ref>). The response rate at follow-up was 96%, the few dropouts due to attrition from death and migration.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_x3fh5Up">The intervention</head><p xml:id="_ZAEc9Bp">Once selected, the women members of the ultra poor households were provided with two or more income-generating enterprise options including poultry rearing, livestock, vegetables farming, horticulture nursery, and non-farm activities. These were provided as grants along with specialised health and other supports delivered over 18 months <ref type="bibr" target="#b8">(BRAC, 2001)</ref>. The non-health intervention consisted of the following components:</p><p xml:id="_C8cGCPm">(1) income-generating asset grants (value range:</p><p xml:id="_gtRFcwZ">Tk. 3000-9000 (US$ 50-150)) (2) subsistence allowance for the duration till the asset began to generate income (Tk. 10 (US$ 0.17) daily for 12-15 months) (3) skill-development training (including poultry/ livestock rearing, vegetable cultivation, horticulture, shoe-making) (4) activities for social awareness development and confidence building, human rights and legal awareness training, social action on various pertinent issues (such as early marriage/dowry) (5) pro-poor advocacy for involving rural elites in support of the ultra poor <ref type="bibr" target="#b25">(Hossain &amp; Matin, 2004)</ref> Experiences have shown that the poor, especially the ultra poor, are often not able to take full advantage of officially free services provided under existing essential health care (EHC) package (maternal health, family planning, communicable disease control, child health and basic curative care) at primary facilities <ref type="bibr" target="#b8">(BRAC, 2001)</ref>. Reasons identified include lack of access to information (on available services), lack of health awareness (unfelt need), lack of opportunity (exclusion from social and health institutions) and inability to pay (income poverty). The health component tailored specifically to overcome these barriers consisted of EHC services, counselling and consumer information on health and health services, free installation of latrines and tubewells, identity card for facilitated access to health facilities, and financial assistance (for diagnostics and hospitalisation, if needed) through community mobilized fund. The latter was generated from the well-off people in the community through advocacy for engaging the village elites in support of the intervention <ref type="bibr" target="#b25">(Hossain &amp; Matin, 2004)</ref>. Thus, the health inputs served as a safety net against the income-erosion effect of illness. Once the grants phase is over, they are expected to attain the foundation of sustainable livelihood and continue benefiting from participation in the mainstream micorcredit-based intervention.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_FEtxugB">Health services in the study sites</head><p xml:id="_S4Mdg9a">A wide range of therapeutic choices is available in the programme upazilas as elsewhere in Bangladesh. The primary care in the public sector is organised around the Upazila Health Complex (UHC), with in-patient (31 bed) and basic laboratory facilities. These are complemented by two to three sub-centres at Union level which is the lowest administrative unit and a network of community health workers (CHWs) (GoB (Government of Bangladesh), 1998). The UHC is staffed by 8-10 qualified allopathic practitioners and supporting staff, while the subcentres are staffed by para-professionals (a medical assistant and a midwife), and provide in-patient and ambulatory care, and ambulatory care, respectively. These centres provide a basic package of EHC comprising maternal health, family planning, communicable disease control, child health and basic curative care free of cost <ref type="bibr" target="#b28">(Killingworth et al., 1999)</ref>. The CHWs provide a number of preventive and promotive health and family planning services through home visits. In the private/informal sector, there are traditional healers (kabiraj, pir/fakirs), a few homoeopathic practitioners, village doctors (palli chikitsoks), and quite a few drugstores in village markets that sell allopathic medicine on demand. The majority of the professional staff in UHC and Union sub-centres also practice privately <ref type="bibr" target="#b19">(Gruen, Anwar, Begum, Killingsworth, &amp; Normand, 2002)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_mgtgV5F">Data collection</head><p xml:id="_tymeRsY">Pre-tested structured questionnaires were used in face-to-face interviews by trained interviewers, after obtaining informed consent. The interviewers received 6 days training and were supervised by the research team including the first author. Demographic and socioeconomic data were furnished by the household head. Poverty status of the household was determined by eliciting respondent's perception about the state of household's annual consumption expenditure in relation to income in the past year, which is documented as a valid indicator of household stratification in rural Bangladesh <ref type="bibr" target="#b50">(Sen, 2001)</ref>. Households were thus categorised as being in 'chronic deficit' (when running in deficit always) or in a 'non-deficit' state.</p><p xml:id="_WNgHw3Y">Specific information on the longest illness episode among household member(s) (15-days recall) and related health-seeking behaviour was furnished by a knowledgeable female member or the ill member present at the time of survey. When a health care provider was said to be consulted, information about the initial choice made for treatment-seeking, and health care expenditure (user fees, out-of-pocket money, cost of medicines, transport) incurred for that person during the reference period was obtained. The treatments sought were grouped into five categories <ref type="bibr" target="#b2">(Ahmed, Tomson, Petzold, &amp; Kabir, 2005)</ref>:</p><p xml:id="_2fkPtQK">(1) Self-care (including self-treatment): extending from no medication other than rest and nursing</p><p xml:id="_ZTEUkCC">to the use of common home-remedies (e.g., oral saline), over-the-counter (OTC) drugs, or herbal preparations without consultation with any health care provider. (2) Drug store salesmen (unqualified allopath): when consultation was made with drug store salesmen for diagnosis and treatment (excluding purchase of OTC drugs without consultation). (3) Traditional: when treatment was sought from herbalists (Kabiraj) and faith healers; also included are homeopathic practitioners, although negligible in proportion. (4) Para-professionals: comprised providers who have had some kind of institutional training on 'modern', i.e., allopathic medicine: (a) village doctors (Palli Chikitsok) with variable training in diagnosing and treating common ailments, mostly from private institutions of questionable quality; (b) medical assistants who complete a 3-year medical assistant training programme from a public institution; and (c) various government and non-government community health workers who have had variable periods of basic preventive and curative health care training. (5) Professional allopaths: registered medical graduates, the MBBS (Bachelor of Medicine and Bachelor of Surgery) doctors.</p><p xml:id="_Gbqq9an">For analysis the para-professionals category was grouped with the professional allopaths to form the category 'formal allopathic' providers who have had varying levels of institutional training ( ¼ 1) to demarcate them from the untrained providers grouped as 'else' ( ¼ 0). Health expenditure was categorised into two groups based on median values: 4Tk. 25 ( ¼ 1) and pTk. 25 ( ¼ 0). Finally, time was categorised into post-intervention in 2004 ( ¼ 1) and baseline in 2002 ( ¼ 0).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_Ra29VWu">Analysis of data</head><p xml:id="_VjpG7yg">The analysis was done in two steps. In the first step, we explored the effect of intervention on outcomes of interest using a random coefficient model with an interaction effect. This mixed model has been used according to the longitudinal design with repeated measurements on individuals and families. On individual level there was a large proportion of missing observations (baseline or post-intervention) because of changes in health status (e.g., one individual might be sick at baseline but healthy at post-intervention), migration, mortality and births. In the applied mixed models, clustering thus has been limited to the family level nested within intervention/control condition as proxy. The intervention effect (difference in intervention-difference in control) with respect to a particular outcome of interest (e.g., health-seeking behaviour) has been estimated by an interaction effect of intervention/control condition and timepoint (baseline or post-intervention) by the following model <ref type="bibr" target="#b36">(Murray, 1998)</ref>:</p><p xml:id="_WZTwKrS">Outcome ðe:g:; healthÀseeking behaviour; etc:Þ</p><formula xml:id="formula_0">¼ GM þ B1 Ã X 1 þ B2 Ã X 2 þ B3 Ã X 1 Ã X 2 where GM (Grand mean) ¼ the overall mean/ intercept; B1 ¼ Group effect, mean over both time points; X1 ¼ 1 if intervention group, ¼ 0 if control group; B2 ¼ Time effect, mean over both groups; X2 ¼ 1 if post intervention, ¼ 0 if baseline;</formula><p xml:id="_6cxta7U">and B3 ¼ interaction effect of intervention/ control condition and time point (baseline or postintervention).</p><p xml:id="_eBcB8Y5">A significant intervention-effect is concluded if</p><formula xml:id="formula_1">H 0: B3 ¼ 0 is rejected.</formula><p xml:id="_A6bUnNU">To control for confounding several additional predictors were included and excluded systematically from the model based on significances, i.e., the stepwise procedure. For each outcome the following independent variables were evaluated: age and sex of the individual, sex and any formal education of the household head, and labour selling status of the household. Significant associations are given in the result section. The procedure Proc Mixed in SAS 8.2 has been used in the analysis.</p><p xml:id="_pqgGaEq">In the second step, we proceeded to identify the predictors of health-seeking behaviour ( ¼ 1 if 'formal allopathic care') based on the following variables: health expenditures ( ¼ 1 if expenditure 4Tk. 25), time ( ¼ 1 if at post-intervention period), and the interaction term 'health expenditure Â time'. The interaction term then extracts the effect that the intervention has had on the group spending more than Tk. 25 regarding their health-seeking behaviour.</p><p xml:id="_69nNC2q">In the results section the intervention effect and its confidence interval is given as the estimated interaction from a mixed model under the assumption of Gaussian distributed residuals. Also for Bernoulli distributed residuals this estimate has been preferred as an approximation due to its easy interpretation <ref type="bibr" target="#b36">(Murray, 1998)</ref>. However, the provided p-values were then calculated under the assumption of Bernoulli distributed residuals using the GLIMMIX procedure <ref type="bibr">(2005)</ref>.</p><p xml:id="_qwx4HeH">Stated significances are on the 5% level, and confidence intervals (CI) are given on the 95% level.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_xvgZVME">Results</head><p xml:id="_2fZuuPh">At baseline, the control households were found to be in a better condition than the intervention households with respect to initial endowments such as possession of land, chronic deficit status of households, female-headship and literacy of household head (Table <ref type="table">2</ref>). However, no discernible difference was found between the two groups with respect to self-care, treatment-seeking from 'formal allopathic' practitioners and health expenditure for illness during the 15-days recall period.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_6xJUvJz">ARTICLE IN PRESS</head><p xml:id="_c4WjKuP">Table 2 Characteristics of the study households at baseline (2002) 'Ultra poor' households Characteristics Intervention ðn ¼ 2189Þ Comparison ðn ¼ 2134Þ % of Households owning homestead land a 45 56 % of Households not owning any cultivable land a 55 43 % of Households reporting chronic deficit round the year a 64 44 % of Households with a literate head a 7 1 2 % of Households with a female head a 42 28 For major illness episode of sick person (15 days recall) % seeking self-care (no treatment+self-treatment) 46 38 % treatment-seeking from 'formal allopathic' (para-professionals+professional allopaths) providers 23 25 % spending more than taka 25 for recent illness 30 39 a Differences are statistically significant at 1% level.</p><p xml:id="_HNbAK5x">Table <ref type="table" target="#tab_0">3</ref> presents changes in health-seeking behaviour following intervention. A secular change in health-seeking behaviour was observed among the study population. During the study period, there was a decrease in self-care in the intervention group by 7 percentage units and an increase of around 4 percentage units in the use of allopathic care, whether from professional allopathic providers or para-professionals. A marginal reduction in the use of traditional healers was observed while the use of drug store salesmen remained the same.</p><p xml:id="_MT2n3A9">The intervention increased the proportion of nondeficit households by 43 percentage units (95% CI 41.4-45.2) (Table <ref type="table">4</ref>). In addition, male-headed households had increased odds (OR 1.81, 95% CI 1.7-1.9) of coming out of the chronic deficit status compared to female-headed households (not shown in table ). The intervention also increased the capacity to spend 4Tk. 25 for treatment of ill persons during the reference period by 11 percentage units (95% CI 5.8-16.6) (Table <ref type="table">4</ref>). In addition, sex of the ill person as well as the household head was found to be positively associated with increased capacity of households for health expenditure (not shown in table ). Households where the ill person or the household head were a male had increased odds (OR 1.5, 95% CI 1.3-1.7 and OR 1.4, 95% CI 1.2-1.6 respectively) of greater health expenditure (4Tk. 25) than others. Lastly, households seeking 'formal allopathic' care increased by 9 percentage units. No other significant predictors were found for this outcome. Logistic regression analysis was used to identify factors that were associated with seeking health care from 'formal allopathic' providers within intervention households (Table <ref type="table" target="#tab_1">5</ref>). Health-seeking from 'formal allopathic' care providers was found to be strongly associated with level of health expenditure and time (the odds of use increased for postintervention period). In other words, when larger amounts of money were spent, then it was spent on qualified allopathic care and that this use increased after intervention. However, the size of the interaction term (time Â health exp), although insignificantly different from unity, indicates a relatively lesser odds for households spending 4Tk.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_7jTgSnU">ARTICLE IN PRESS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="25" xml:id="_VnYWFbp">of seeking 'formal allopathic' care at post intervention (2004) compared to baseline (2002).</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_ybNqz9t">Discussion</head><p xml:id="_HFw9Dka">There was a major behavioural change in healthseeking among the study population during the study period. Following intervention, majority of the participating ultra poor households improved their poverty status. By increasing capacity for health-expenditure it also made changes in healthseeking behaviour of the ultra poor, towards greater use of health services and formal allopathic providers during illness, possible. However, persistent gender difference in treatment-seeking disfavouring women was observed.</p><p xml:id="_3MN7gCW">The intervention increased the possibilities of use of health services among the study households, as reflected in the substantial reduction of self-care and increased health-seeking from different providers during illness. It may be due to the more disadvantaged ultra poor households' immediate need for treating the cummulative burden of illnesses. This happened, presumably, through activities in the intervention to overcome specific demand-side barriers (e.g., informational, financial and social barriers) for accessing health care. Beside changes in health-seeking behaviour, the intervention also succeeded in improving consumer information on available health services, perceived self-health of the women member, child nutritional and immunization status, and use of contraceptives (data not shown here) <ref type="bibr" target="#b3">(Ahmed &amp; Rana, 2005;</ref><ref type="bibr" target="#b40">Prakash &amp; Rana, 2006)</ref>.</p><p xml:id="_XDmTe3T">Under the context, reduction of self-care following the intervention warrants our attention. Selfcare involves risks such as incorrect self-diagnosis, absence of knowledge of alternative treatments, irrational use of drugs and neglect of side-effects and drug interactions <ref type="bibr" target="#b12">(Chang &amp; Trivedi, 2003)</ref>. This is especially important for the ultra poor population with very low literacy level (7% in those above 15+ years in contrast to 41% national average) <ref type="bibr" target="#b9">(BRAC &amp; Aga Khan Foundation, Canada, 2004)</ref> where self-care is largely uninformed, and there is free availability of 'prescription only drugs' in the unlicensed and unregulated drug retail outlets <ref type="bibr">(Anonymous, 2004)</ref>. While people taking responsibility for their own health has gained increasing acceptance from both the health profession <ref type="bibr" target="#b43">(Rogers, Entwistle, &amp; Pencheon, 1998;</ref><ref type="bibr" target="#b52">Stevenson, Britten, Barry, Bradley, &amp; Barber, 2003)</ref> and World Health Organisation (WHO (World Health Organization), 2000), it remains critical that health care decisions and actions taken by ill individuals or their care-givers are both safe and appropriate. To use self-care to its full potential, its integration as an essential, informed and efficient component of the primary health care and as a cost-effective complement to the formal healthcare is needed. Unless this can be done, self-care should be viewed with reservation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_dE6ZFYn">ARTICLE IN PRESS</head><p xml:id="_s7cDkUH">The research design did not allow evaluation of the individual components of the intervention, e.g., the relative importance of financial vs. the nonfinancial components. However, another study on the same group of women exploring the factors underlying change found that ''health is a major factor in determining change in the TUP programme'' <ref type="bibr" target="#b33">(Matin &amp; Walker, 2004)</ref>. The authors concluded that if participants cannot work due to poor health and nutrition, they are never likely to see significant change that is sustainable. Similar conclusion about the importance of the health component was also reached by an independent mid-term review mission of the CFPR/TUP programme <ref type="bibr">(Mid-Term Review, 2005)</ref>. Thus, the value of the health component as a safeguard against costly morbidities cannot be overemphasized. The findings also support the assumption that a combination of components that includes both health and social protection measures in an intervention would be more effective in meeting the health-related needs of the very poor <ref type="bibr" target="#b18">(Green, 2005)</ref>.</p><p xml:id="_CZkf4YS">Another key finding was the increase in capacity of the ultra poor households to spend more on illnesses as a result of intervention. This is consistent with other research that monetary health expenditures are sensitive to changes in household income levels and that the group which is most responsive to such changes is the lower income group <ref type="bibr" target="#b39">(Parker &amp; Wong, 1997)</ref>. That the intervention succeeded in making a positive and sustainable impact on the livelihoods of the ultra poor households was documented by an independent mid-term review mission <ref type="bibr">(Mid-Term Review, 2005)</ref> as well as a community-based change ranking exercise of households in the study area done in 2005 <ref type="bibr" target="#b4">(Ali, Sulaiman, &amp; Rahman, 2005)</ref>. The latter study found that the probability of being ranked in the 'improved' category by the community in 2005 was 45 percentage points higher for the intervention households compared to the control households where both had similar household characteristics in 2002. The on-going analysis of economic data collected will be able to further provide the exact magnitude of this changed level of income in future.</p><p xml:id="_XmaQ7VU">Gender differences in health-seeking from costly professional allopaths (as proxied by health expenditure) disfavouring women observed in this study was also noted earlier among the poor in Bangladesh <ref type="bibr" target="#b1">(Ahmed, Adams, Chowdhury, &amp; Bhuiya, 2003;</ref><ref type="bibr" target="#b15">Ensor et al., 2002)</ref>. It has been observed that women in rural Bangladesh are less likely to have the opportunity to seek health care from relatively costlier professional allopathic providers <ref type="bibr" target="#b5">(Amin, Chowdhury, Kamal, &amp; Chowdhury, 1989;</ref><ref type="bibr" target="#b30">Levin, Rahman, Quayyum, Routh, &amp; Khuda, 2001)</ref>. This may be due to the prevailing patriarchal norms deeply rooted in the society <ref type="bibr" target="#b10">(Cain, Khanam, &amp; Nahar, 1979)</ref>. These norms discourage rural Bangladeshi women to be treated by male providers <ref type="bibr" target="#b46">(Schuler, Bates, &amp; Islam, 2002)</ref> in a scenario where available health care providers are predominantly males. They also require permission from husbands or in-laws, and also find someone to accompany them before seeking out care from qualified providers <ref type="bibr" target="#b30">(Levin et al., 2001;</ref><ref type="bibr" target="#b53">Streatfield, Hadley, &amp; Chakraborty, 2001)</ref>. Economic independence does not necessarily lead to improvements in gender equity as seen in case of Sweden, a country with dedicated policies for gender equity <ref type="bibr" target="#b26">(Jonsson, Schimd, Sparring, &amp; Tomson, 2006)</ref>. Moreover, the intervention though women focused, did not explicitly address gender issues and probably was too short (18 months) to have an effect on this aspect. This calls for a more concerted effort by the NGOs to raise social awareness about the value of women's health and well-being, and to increase their financial as well as cultural accessibility <ref type="bibr" target="#b58">(Thiede, 2005)</ref> to formal allopathic health care in its intervention. Health policies at public sector also need to be sensitive to the gender issue, because women's health outcomes are ultimately dependent on it <ref type="bibr" target="#b63">(Wisdom, Berlin, &amp; Lapidus, 2005)</ref>.</p><p xml:id="_R8JyURH">That level of health expenditure emerged to be strongly associated with health-seeking from formal allopathic providers is no surprise and reiterates the importance of socioeconomic status in determining health-seeking behaviour as observed earlier in Bangladesh <ref type="bibr" target="#b0">(Ahmed, Adams, Chowdhury, &amp; Bhuiya, 2000)</ref>. However, the results also show that the use of formal allopathic care did not increase proportional to the increase in expenditure on health care at post-intervention period (Table <ref type="table" target="#tab_1">5</ref>). This raises the issue of treatment-seeking from the unqualified allopathic providers, the other costly category of providers. This group comprises of the salespersons in drug retail outlets or drug vendors with little or no professional training in either dispensing of drugs or in diagnoses and treatment. Studies in Vietnam <ref type="bibr" target="#b13">(Chuc, 2002)</ref>, Laos <ref type="bibr" target="#b55">(Syhakhang, 2002)</ref>, and Thailand and Nepal <ref type="bibr" target="#b11">(Chalker, 2003)</ref> found that education and training efforts are necessary but not sufficient to change practice of irrational and harmful use of drugs by these providers. In addition, managerial and regulatory interventions are also needed <ref type="bibr" target="#b27">(Kamat &amp; Nichter, 1998)</ref>.</p><p xml:id="_z6ehAuK">Of special interest is the fact that greater proportion of this formal allopathic care was provided by the para-professionals and this shift in health-seeking behaviour is a step forward which will go a long way towards making the health systems reach the poor and the disadvantaged <ref type="bibr" target="#b21">(Gwatkin et al., 2004)</ref>. The quality of care provided by them needs to be addressed for ensuring better care in short-term. The intervention also prevented diminished use of professional allopathic providers compared to the control group, possibly through facilitated access to the formal health facilities provided through its health support activities, in addition to improved poverty condition. The reason underlying diminished use of professional allopathic providers in the control group is an issue of further investigation.</p><p xml:id="_h747KYK">As hypothesised, we noted evidence of change in health-seeking behaviour resulting from participation in the programme. This supports the assumption that increased income and awareness arising through involvement in socioeconomic development programmes will enhance capacities of the poor to seek appropriate and timely care, possibly thereby improving health <ref type="bibr">(World Bank, 1993)</ref>. What is unanticipated is the overall behaviour change in health-seeking observed in the whole study population. It is interesting to speculate about the possible reasons underlying this secular change. The control households were recruited from the same neighbourhoods/villages as the intervention households. This was done to control village level unobservable characteristics (endogenous variables). Contamination of the control group through demonstration effects, especially with respect to preventive and promotional health matters, could not be ruled out. Other factors like improvement in the responsiveness of public health services, possibly set into motion by intensive advocacy work of the intervention, might have increased the control household's access to health facilities. Qualitative studies could explore these underlying reasons. Lastly, we should be cautious about the preliminary nature of the results. This study tested the effects of the intervention in the first batch of 5000 households out of a total of 70,000 households to be included over 5 years <ref type="bibr" target="#b8">(BRAC, 2001)</ref>. At the end of intervention period, majority of these ultra poor households (around 54%) were able to join the mainstream development programme of BRAC and take microcredit loans to continue with their income-earning enterprises <ref type="bibr" target="#b54">(Sulaiman et al., 2006)</ref>. They also continued to receive regular EHC services provided by the programme. However, the authors concluded that with a lower borrower-member ratio and relatively smaller-sized credit taken by these 'graduated' ultra poor members, microcredit /microfinance for the poorest may take a longer time to achieve sustainability.</p><p xml:id="_c7GbdHE">One of the challenges posed by this data set is the fact that the two groups of households did not have the same initial endowment with respect to economic condition, though the groups were similar in health-related matters (Table <ref type="table">2</ref>). This happened because the exclusion criteria applied to the control households specifically identified those ultra poor households which have been receiving some occasional inputs from the government or elsewhere and thus was marginally better in economic condition. This problem of different baseline values is efficiently handled in the analysis by estimating the effect of intervention as an interaction term in a longitudinal model using the Proc Mixed procedure in SAS 8.2.</p><p xml:id="_SsMCYsC">Other methodological issues involve the fact that health-seeking behaviour for specific illness including severity was not considered. However, inclusion of all reported illnesses occurring in the reference period irrespective of severity obviated the potential confounding effect of illness stage in analysis. By limiting the recall period to 15 days, and focusing on the major morbidity experience, the problem of inaccurate recall was minimised. Pre-identification of households for possible inclusion in the programme might have prompted high response rates seen in both baseline (100%) and post-intervention (96%) surveys.</p><p xml:id="_zfZYYan">Mitigation of the income-erosion effect of illness is an essential pre-requisite for alleviation of poverty, especially for the poorest households in low-income countries <ref type="bibr" target="#b34">(Meesen et al., 2003)</ref>. However, existing evidence indicates that providing health services for the poorest is more expensive than the average cost in any population due to a number of reasons such as cost of targeting, varied service needs, and acceptable quality of care to attract people for service use <ref type="bibr" target="#b61">(Waddington, 2005)</ref>. In the CFPR/TUP model, a declining trend in the total cost of intervention per ultra poor household was seen with time (from US $ 344 in 2002 to <ref type="bibr">US$ 287 in 2004)</ref> which is expected to go down further to <ref type="bibr">US$ 278 in 2006</ref><ref type="bibr">(Mid-Term Review, 2005)</ref>. The model was concluded as cost-effective considering the impacts on livelihood which was found to be positive (improved income and asset base), comprehensive (economic, social and health changes) and apparently sustainable (maintenance of asset growth after 'graduation' and joining regular microcredit/microfinance programme). For scaling up of this kind of intervention, the problem of financing has to be resolved due to large resources needed in the initial phases. This is not the sole purview of health system, but collaboration with other sectors such as education, agriculture, employment generation, small and medium enterprise development, women's affairs, etc. is needed. The health system can play a stewardship function in guiding this collaboration. Facilitating tools developed for this intervention like health card, pro-poor advocacy for engaging the elites, mobilizing fund from the community for covering costly morbidities, etc. in the absence of any risk pooling mechanisms and pre-payment schemes, can be used in the formal/public sector for increasing access of the poorest and other similarly disadvantaged groups.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc xml:id="_h4N8KRh">Fig. 1. Study design.</figDesc><graphic coords="4,113.56,66.73,321.60,129.31" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 3</head><label>3</label><figDesc xml:id="_TPS2Vd7">Effect of intervention on health-seeking behaviour of the ill person(s) (15 days recall)</figDesc><table><row><cell></cell><cell cols="2">Observed percentage</cell><cell cols="3">Estimation of intervention effect controlled for confounding</cell></row><row><cell></cell><cell>Intervention</cell><cell>Control</cell><cell>Estimated intervention</cell><cell>95% Confidence</cell><cell>p value</cell></row><row><cell></cell><cell></cell><cell></cell><cell>effect (change in</cell><cell>Interval</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell>percentage unit)</cell><cell></cell><cell></cell></row><row><cell>Self-care/self-treatment</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Baseline (2002)</cell><cell>49.3</cell><cell>43.1</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Post-intervention (2004)</cell><cell>27.8</cell><cell>29.9</cell><cell>À7.2</cell><cell>À12.9-À1.5</cell><cell>o0.01</cell></row><row><cell>Traditional healers</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Baseline (2002)</cell><cell>8.5</cell><cell>7.5</cell><cell>À1.3</cell><cell>À4.8-2.2</cell><cell>ns</cell></row><row><cell>Post-intervention (2004)</cell><cell>11.1</cell><cell>11.8</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Drugstore salesman</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Baseline (2002)</cell><cell>19.4</cell><cell>24.4</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Post-intervention (2004)</cell><cell>22.4</cell><cell>26.5</cell><cell>À0.00</cell><cell>À5.1-5.1</cell><cell>ns</cell></row><row><cell>Para-professionals</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Baseline (2002)</cell><cell>14.5</cell><cell>14.3</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Post-intervention (2004)</cell><cell>30.2</cell><cell>25.9</cell><cell>3.9</cell><cell>À0.1-8.7</cell><cell>ns</cell></row><row><cell cols="2">Professional allopaths (MBBS doctors)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Baseline (2002)</cell><cell>8.2</cell><cell>10.7</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Post-intervention (2004)</cell><cell>8.5</cell><cell>5.9</cell><cell>4.4</cell><cell>1.1-7.7</cell><cell>o0.05</cell></row><row><cell>Table 4</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="6">Effect of intervention on non-deficit households, health care expenditure by households for the ill person(s) and households seeking</cell></row><row><cell>'formal allopathic' care</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell cols="2">Observed percentage</cell><cell cols="3">Estimation of intervention effect controlled for confounding</cell></row><row><cell></cell><cell>Intervention</cell><cell>Control</cell><cell>Estimated intervention</cell><cell>95% Confidence</cell><cell>p value</cell></row><row><cell></cell><cell></cell><cell></cell><cell>effect (change in</cell><cell>Interval</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell>percentage unit)</cell><cell></cell><cell></cell></row><row><cell cols="2">Non-deficit HHs a during past one year</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Baseline (2002)</cell><cell>38.2</cell><cell>58.7</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Post-intervention (2004)</cell><cell>97.6</cell><cell>75.1</cell><cell>43.27</cell><cell>41.38-45.16</cell><cell>o0.001</cell></row><row><cell cols="3">HHs spending 4taka 25 for ill persons (15 days recall)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Baseline (2002)</cell><cell>32.8</cell><cell>41.3</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Post-intervention (2004)</cell><cell>45.5</cell><cell>44.8</cell><cell>11.23</cell><cell>5.82-16.63</cell><cell>o0.01</cell></row><row><cell cols="3">HHs seeking 'formal allopathic' care b (15 days recall)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Baseline (2002)</cell><cell>22.7</cell><cell>25.0</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Post-intervention (2004)</cell><cell>38.7</cell><cell>31.8</cell><cell>9.20</cell><cell>4.25-14.18</cell><cell>o0.001</cell></row></table><note xml:id="_xxEEhhW"><p>a HHs ¼ Households. b 'formal allopathic' care ¼ para-professionals and professional allopaths grouped together.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 5</head><label>5</label><figDesc xml:id="_FcBufjZ">Odds ratios of seeking 'formal allopathic' care by households for illnesses during the 15 days recall period</figDesc><table><row><cell></cell><cell cols="2">Intervention</cell><cell>Control</cell></row><row><cell></cell><cell>OR</cell><cell>95% CI</cell><cell>OR</cell><cell>95% CI</cell></row><row><cell cols="2">Health expenditure(BD Tk a )</cell><cell></cell><cell></cell></row><row><cell>p25</cell><cell>1.00</cell><cell></cell><cell>1.00</cell></row><row><cell>25+</cell><cell cols="4">3.56 a 2.69-4.70 4.50 b 3.35-6.02</cell></row><row><cell>Time</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Baseline (2002)</cell><cell>1.00</cell><cell></cell><cell>1.00</cell></row><row><cell cols="5">Post-intervention (2004) 2.16 b 1.68-2.77 1.67 b 1.25-2.22</cell></row><row><cell>Time Â health exp.</cell><cell>0.80</cell><cell cols="2">0.56-1.14 0.71</cell><cell>0.49-1.03</cell></row><row><cell cols="2">a BD Taka 60 ¼ US $ 1 in 2004.</cell><cell></cell><cell></cell></row></table><note xml:id="_2VPMT9B"><p>b po0.001.</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p xml:id="_GS8bqQ7">S.M.Ahmed et al. / Social Science &amp; Medicine 63 (2006) 2899-2911  </p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head xml:id="_Cva4YbW">Acknowledgements</head><p xml:id="_3BACfxD">The authors like to thank the field survey team in Bangladesh, the members of the 'ultra-poor research' group and especially the ultra-poor people in the study areas for their kind cooperation and time. Thanks are also due to <rs type="person">Hasan Shareef Ahmed</rs> for his final editing of the manuscript. Funding: <rs type="projectName">CFPR/TUP</rs> donors consortium including <rs type="funder">Canadian International Development Agency</rs>, <rs type="funder">Department for International Development, European Commission, NOVIB</rs>, and <rs type="funder">World Food Programme</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funded-project" xml:id="_46NxJHu">
+					<orgName type="project" subtype="full">CFPR/TUP</orgName>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="consolidated"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main" xml:id="_d5A26gn">Gender, socioeconomic development and health-seeking behaviour in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Syed</forename><forename type="middle">Masud</forename><surname>Ahmed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alayne</forename><forename type="middle">M</forename><surname>Adams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mushtaque</forename><surname>Chowdhury</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Abbas</forename><surname>Bhuiya</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0277-9536(99)00461-x</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_PqcweMt">Social Science &amp; Medicine</title>
+		<title level="j" type="abbrev">Social Science &amp; Medicine</title>
+		<idno type="ISSN">0277-9536</idno>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="361" to="371" />
+			<date type="published" when="2000-08">2000</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main" xml:id="_qHSRjNs">Changing health-seeking behaviour in Matlab, Bangladesh: do development interventions matter?</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Ahmed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Adams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Chowdhury</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bhuiya</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/heapol/czg037</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_ertjAjk">Health Policy and Planning</title>
+		<title level="j" type="abbrev">Health Policy and Planning</title>
+		<idno type="ISSNe">1460-2237</idno>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="306" to="315" />
+			<date type="published" when="2003-09-01">2003</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main" xml:id="_U7Dq7da">Socioeconomic status overrides age and gender in determining health-seeking behaviour in rural Bangladesh</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Ahmed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Tomson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Petzold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">N</forename><surname>Kabir</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_DAscncJ">Bulletin of the World Health Organization</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="page" from="109" to="117" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b3">
+	<analytic>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Ahmed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K M M</forename><surname>Rana</surname></persName>
+		</author>
+		<ptr target="http://www.bracresearch.org/working_papers_details.php?scat=28&amp;v=0&amp;tid=303S" />
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_XfC68h3">Customized development interventions for the ultra poor: Preliminary change assessments of health and health-seeking behaviour (CFPR/ TUP 2002 to 2004)</title>
+		<title level="s" xml:id="_hFzWdjZ">CFPR/TUP Working Paper Series</title>
+		<meeting><address><addrLine>Dhaka and Ottawa; Canada</addrLine></address></meeting>
+		<imprint>
+			<publisher>BRAC and Aga Khan Foundation</publisher>
+			<date type="published" when="2005-04-10">2005. 10 April 2006</date>
+			<biblScope unit="volume">7</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b4">
+	<monogr>
+		<title level="m" type="main" xml:id="_7GBjrYq">Community based change ranking: How do the TUP households fare? CFPR/TUP Research Preview</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">O</forename><surname>Ali</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sulaiman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Rahman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="volume">13</biblScope>
+		</imprint>
+	</monogr>
+	<note>unpublished</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main" xml:id="_9hsTSnX">Community health services and health care utilization in rural Bangladesh</title>
+		<author>
+			<persName><forename type="first">Ruhul</forename><surname>Amin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shifiq</forename><forename type="middle">A</forename><surname>Chowdhury</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Kamal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Chowdhury</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0277-9536(89)90234-7</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_TbNgEXV">Social Science &amp; Medicine</title>
+		<title level="j" type="abbrev">Social Science &amp; Medicine</title>
+		<idno type="ISSN">0277-9536</idno>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1343" to="1349" />
+			<date type="published" when="1989-01">1989</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b6">
+	<monogr>
+		<title level="m" type="main" xml:id="_xMvUUZ4">Gallagher Creek flood of July 30, 1971, Meridian, Mississippi</title>
+		<author>
+			<persName><forename type="first">Charles</forename><forename type="middle">H</forename><surname>Tate</surname></persName>
+		</author>
+		<idno type="DOI">10.3133/ofr72374</idno>
+		<ptr target="http://www.drishtipat.org/modules.php?name=-News&amp;file=article&amp;sid=6" />
+		<imprint>
+			<date type="published" when="2004-07-30">2004. 30 July 2005</date>
+			<publisher>US Geological Survey</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b7">
+	<monogr>
+		<title level="m" type="main" xml:id="_WDRKR7R">Situational analysis of strengthening the national menstrual regulation (MR) programme in Bangladesh</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Mannan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M Zahedul Islam</forename><surname>Chowdhury</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Humayra</forename><surname>Ahmed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rumana</forename><surname>Huque</surname></persName>
+		</author>
+		<idno type="DOI">10.57138/hrzb1573</idno>
+		<imprint>
+			<date type="published" when="2000">2000. 2000</date>
+			<publisher>BIDS</publisher>
+			<biblScope unit="page" from="39" to="40" />
+			<pubPlace>Dhaka</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b8">
+	<monogr>
+		<author>
+			<persName><surname>Brac</surname></persName>
+		</author>
+		<title level="m" xml:id="_74A34TR">Challenging the frontiers of poverty reduction: targeting the ultra poor, targeting social constraints (CFPR/ TUP)</title>
+		<meeting><address><addrLine>Dhaka</addrLine></address></meeting>
+		<imprint>
+			<publisher>BRAC</publisher>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b9">
+	<monogr>
+		<title level="m" type="main" xml:id="_z34Xdsy">Towards a profile of the ultra poor in Bangladesh: Findings from CFPR/ TUP baseline survey</title>
+		<author>
+			<persName><forename type="first">&amp;</forename><surname>Brac</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Canada</forename><surname>Aga Khan Foundation</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<publisher>BRAC &amp; AKF Canada</publisher>
+			<pubPlace>Dhaka, Bangladesh and Ottawa, Canada</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main" xml:id="_FAHdkbZ">Class, Patriarchy, and Women&apos;s Work in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Mead</forename><surname>Cain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Syeda</forename><forename type="middle">Rokeya</forename><surname>Khanam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shamsun</forename><surname>Nahar</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/1972079</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_C8gJt2e">Population and Development Review</title>
+		<title level="j" type="abbrev">Population and Development Review</title>
+		<idno type="ISSN">0098-7921</idno>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">405</biblScope>
+			<date type="published" when="1979-09">1979</date>
+			<publisher>JSTOR</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b11">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Chalker</surname></persName>
+		</author>
+		<title level="m" xml:id="_ZFZywEf">Interventions for improved prescribing and dispensing in Nepal, Thailand and Vietnam</title>
+		<meeting><address><addrLine>Stockholm</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+		<respStmt>
+			<orgName>PhD) ; Karolinska Institutet</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Thesis</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main" xml:id="_mx6VQXx">Economics of self‐medication: theory and evidence</title>
+		<author>
+			<persName><forename type="first">Fwu‐ranq</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pravin</forename><surname>K. Trivedi</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/hec.841</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_yBDEYjF">Health Economics</title>
+		<title level="j" type="abbrev">Health Economics</title>
+		<idno type="ISSN">1057-9230</idno>
+		<idno type="ISSNe">1099-1050</idno>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="721" to="739" />
+			<date type="published" when="2003-07-18">2003</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main" xml:id="_G3TSYgd">MEDICAL PREPAREDNESS AND PATIENT MANAGEMENT IN SWEDEN</title>
+		<author>
+			<persName><forename type="first">Jack</forename><surname>Valentin</surname></persName>
+			<idno type="ORCID">0000-0003-3364-3355</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Christel</forename><surname>Hedman</surname></persName>
+			<idno type="ORCID">0000-0003-4183-7598</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Marita</forename><surname>Lagergren Lindberg</surname></persName>
+			<idno type="ORCID">0000-0002-8703-4320</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Karin</forename><surname>Lindberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Leif</forename><surname>Stenke</surname></persName>
+			<idno type="ORCID">0000-0002-3554-576X</idno>
+		</author>
+		<idno type="DOI">10.17721/3041-1491/2024.11-04</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_eB3thnC">Medical physics – the current status, problems, the way of development. Innovation technologies</title>
+		<title level="j" type="abbrev">Med. Phys.: Status, Probl., Dev. &amp; Innov</title>
+		<idno type="ISSN">3041-1491</idno>
+		<imprint>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="43" to="50" />
+			<date type="published" when="2002">2002</date>
+			<publisher>Taras Shevchenko National University of Kyiv</publisher>
+			<pubPlace>Stockholm</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>PhD) ; Karolinska Institutet</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Thesis</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b14">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><surname>Cockcroft</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Milne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Anderson</surname></persName>
+		</author>
+		<ptr target="http://www.ciet.org/www/image/country/bangladesh.html#1" />
+		<title level="m" xml:id="_FyBDpt7">The Third Service Delivery Survey 2003: Final report. Dhaka</title>
+		<imprint>
+			<publisher>CIETCanada and Ministry of Health and Family Welfare, Government of Bangladesh</publisher>
+			<date type="published" when="2004-05-05">2004. 5th May, 2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main" xml:id="_uVUCrhQ">Do essential service packages benefit the poor? Preliminary evidence from Bangladesh</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ensor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Dave-Sen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Ali</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hossain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Begum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Moral</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_caqK56r">Health Policy and Planning</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="247" to="256" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main" xml:id="_PMY3nzh">Why the poor pay more: Household curative expenditures in rural Sierra Leone</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Fabricant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Kamara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mills</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_x7Quusj">International Journal of Health Planning and Management</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="179" to="199" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main" xml:id="_62Jr5Bn">Foreign Aid, Government Sector and Bangladesh, by Khashruzzaman Choudhury, National Institute of Local Government, Dhaka, Bangladesh, 1990</title>
+		<author>
+			<persName><forename type="first">Anisul</forename><forename type="middle">M</forename><surname>Islam</surname></persName>
+		</author>
+		<idno type="DOI">10.57138/zsqb6079</idno>
+		<ptr target="http://www.sdnbd.org/sdi/issues/poverty/PRSP-FIRST%20DRAFT%2012%20JAN%202005" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_b4QQ8SV">The Bangladesh Development Studies</title>
+		<title level="j" type="abbrev">BDS</title>
+		<idno type="ISSN">0304-095X</idno>
+		<imprint>
+			<biblScope unit="volume">XXI</biblScope>
+			<biblScope unit="page" from="141" to="160" />
+			<date type="published" when="1998">1998. 2004. 20 July 2005</date>
+			<publisher>Bangladesh Institute of Development Studies</publisher>
+			<pubPlace>Dhaka; Dhaka</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Project implementation plan. Health and Population Sector Programme</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b18">
+	<monogr>
+		<author>
+			<persName><forename type="first">C</forename><surname>Green</surname></persName>
+		</author>
+		<title level="m" xml:id="_xSBTV7j">Summary of DFID workshop: Meeting the health related needs of the very poor</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>DFID Health Systems Resource Centre</publisher>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main" xml:id="_DRtmyNp">Dual job holding practitioners in Bangladesh: an exploration</title>
+		<author>
+			<persName><forename type="first">Reinhold</forename><surname>Gruen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Raqibul</forename><surname>Anwar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tahmina</forename><surname>Begum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">R</forename><surname>Killingsworth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Charles</forename><surname>Normand</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0277-9536(01)00026-0</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_QWC6PjX">Social Science &amp; Medicine</title>
+		<title level="j" type="abbrev">Social Science &amp; Medicine</title>
+		<idno type="ISSN">0277-9536</idno>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="267" to="279" />
+			<date type="published" when="2002-01">2002</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main" xml:id="_w2NDpvW">How much would poor people gain from faster progress towards the Millennium Development Goals for health?</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Gwatkin</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0140-6736(05)71008-4</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_8TXcxhR">The Lancet</title>
+		<title level="j" type="abbrev">The Lancet</title>
+		<idno type="ISSN">0140-6736</idno>
+		<imprint>
+			<biblScope unit="volume">365</biblScope>
+			<biblScope unit="issue">9461</biblScope>
+			<biblScope unit="page" from="813" to="817" />
+			<date type="published" when="2005-03-04">2005</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main" xml:id="_ypcZvRs">Making health systems more equitable</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Gwatkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bhuiya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Victora</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_mTvae6s">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">364</biblScope>
+			<biblScope unit="page" from="1273" to="1280" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b22">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Gwatkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Rustein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Pande</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Wagstaff</surname></persName>
+		</author>
+		<title level="m" xml:id="_T7uDYmh">Socioeconomic differences in health, population and nutrition in Bangladesh</title>
+		<meeting><address><addrLine>Washington, DC</addrLine></address></meeting>
+		<imprint>
+			<publisher>World Bank</publisher>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main" xml:id="_dBfYBzE">Can the millennium development goals be attained?: Fig 1</title>
+		<author>
+			<persName><forename type="first">Andy</forename><surname>Haines</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andrew</forename><surname>Cassels</surname></persName>
+		</author>
+		<idno type="DOI">10.1136/bmj.329.7462.394</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_MXjXcBe">BMJ</title>
+		<title level="j" type="abbrev">BMJ</title>
+		<idno type="ISSN">0959-8138</idno>
+		<idno type="ISSNe">1468-5833</idno>
+		<imprint>
+			<biblScope unit="volume">329</biblScope>
+			<biblScope unit="issue">7462</biblScope>
+			<biblScope unit="page" from="394" to="397" />
+			<date type="published" when="2004-08-12">2004</date>
+			<publisher>BMJ</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b24">
+	<analytic>
+		<title level="a" type="main" xml:id="_N2aUe93">Working with the ultra poor: Learning from BRAC experiences</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Halder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Mosley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_BwwTGcY">Journal of International Development</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="387" to="406" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b25">
+	<analytic>
+		<title level="a" type="main" xml:id="_S4FUGJJ">Engaging elite support for the poorest: BRAC&apos;s experience with the ultra poor programme</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Hossain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Matin</surname></persName>
+		</author>
+		<ptr target="http://www.BRACresearch.org/working_papers_de-tails.php?scat=28&amp;v=0&amp;tid=89" />
+	</analytic>
+	<monogr>
+		<title level="s" xml:id="_YXcB4Tn">CFPR/TUP Working Paper Series</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<date type="published" when="2004-05-05">2004. 5th May, 2005</date>
+			<publisher>BRAC and Aga Khan Foundation Canada</publisher>
+		</imprint>
+		<respStmt>
+			<orgName>Dhaka and Ottawa</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b26">
+	<analytic>
+		<title level="a" type="main" xml:id="_ecpnsaA">Gender equity in health care in Sweden-minor improvements since the 1990s</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Jonsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Schimd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Sparring</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Tomson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_mNk524u">Health Policy</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="page" from="24" to="36" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b27">
+	<analytic>
+		<title level="a" type="main" xml:id="_Qa64wqY">Pharmacies, self-medication and pharmaceutical marketing in Bombay, India</title>
+		<author>
+			<persName><forename type="first">Vinay</forename><forename type="middle">R</forename><surname>Kamat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mark</forename><surname>Nichter</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0277-9536(98)00134-8</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_HtPEjQR">Social Science &amp; Medicine</title>
+		<title level="j" type="abbrev">Social Science &amp; Medicine</title>
+		<idno type="ISSN">0277-9536</idno>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="779" to="794" />
+			<date type="published" when="1998-09">1998</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b28">
+	<analytic>
+		<title level="a" type="main" xml:id="_mApHqGA">Unofficial Fees in Bangladesh: Price, Equity and Institutional Issues</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Killingsworth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Hossain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Hedrick-Wong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rahman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Begum</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/heapol/14.2.152</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_JJ5ZzVR">Health Policy and Planning</title>
+		<title level="j" type="abbrev">Health Policy and Planning</title>
+		<idno type="ISSN">0268-1080</idno>
+		<idno type="ISSNe">1460-2237</idno>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="152" to="163" />
+			<date type="published" when="1999-01-01">1999</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b29">
+	<analytic>
+		<title level="a" type="main" xml:id="_y6Meb6q">Escaping Poverty and Becoming Poor: Who Gains, Who Loses, and Why?</title>
+		<author>
+			<persName><forename type="first">Anirudh</forename><surname>Krishna</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.worlddev.2003.08.002</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Z283pRR">World Development</title>
+		<title level="j" type="abbrev">World Development</title>
+		<idno type="ISSN">0305-750X</idno>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="121" to="136" />
+			<date type="published" when="2004-01">2004</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b30">
+	<analytic>
+		<title level="a" type="main" xml:id="_YqchStr">The demand for child curative care in two rural thanas of Bangladesh: effect of income and women&apos;s employment</title>
+		<author>
+			<persName><forename type="first">Ann</forename><surname>Levin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Rahman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zahidul</forename><surname>Quayyum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Subrata</forename><surname>Routh</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Barkat‐e‐khuda</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/hpm.630</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_5aNZWkx">The International Journal of Health Planning and Management</title>
+		<title level="j" type="abbrev">Health Planning &amp; Management</title>
+		<idno type="ISSN">0749-6753</idno>
+		<idno type="ISSNe">1099-1751</idno>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="179" to="194" />
+			<date type="published" when="2001-07">2001</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b31">
+	<analytic>
+		<title level="a" type="main" xml:id="_UfEFWaq">Programs for the Poorest: Learning from the IGVGD Program in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Imran</forename><surname>Matin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><surname>Hulme</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0305-750x(02)00223-1</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_a9RHMju">World Development</title>
+		<title level="j" type="abbrev">World Development</title>
+		<idno type="ISSN">0305-750X</idno>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="647" to="665" />
+			<date type="published" when="2003-03">2003</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b32">
+	<analytic>
+		<title level="a" type="main" xml:id="_mSVkSSA">Combining methodologies for better targeting of the extreme poor: lessons from BRAC&apos;s CFPR/TUP programme</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Matin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Halder</surname></persName>
+		</author>
+		<ptr target="http://www.BRACresearch.org/working_papers_details.php?scat=28&amp;v=0&amp;tid=89" />
+	</analytic>
+	<monogr>
+		<title level="s" xml:id="_5qmpz6x">CFPR/TUP Working Paper Series</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<date type="published" when="2004-05-05">2004. 5th May, 2005</date>
+			<publisher>BRAC and Aga Khan Foundation Canada</publisher>
+			<pubPlace>Dhaka and Ottawa</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b33">
+	<analytic>
+		<author>
+			<persName><forename type="first">I</forename><surname>Matin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Walker</surname></persName>
+		</author>
+		<ptr target="http://www.BRACresearch.org/working_papers_details.php?scat=28&amp;v=0&amp;tid=92" />
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_D8jt8vA">Exploring changes in the lives of the ultra poor: An exploratory study on CFPR/TUP members</title>
+		<title level="s" xml:id="_VYZCwJB">CFPR/TUP Working Paper Series</title>
+		<imprint>
+			<publisher>BRAC and Aga Khan Foundation Canada</publisher>
+			<date type="published" when="2004-04-10">2004. 10th April 2006</date>
+			<biblScope unit="volume">3</biblScope>
+		</imprint>
+		<respStmt>
+			<orgName>Dhaka and Ottawa</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b34">
+	<analytic>
+		<title level="a" type="main" xml:id="_MB9NdSZ">Editorial: Iatrogenic poverty</title>
+		<author>
+			<persName><forename type="first">Bruno</forename><surname>Meessen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zhang</forename><surname>Zhenzhong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wim</forename><forename type="middle">Van</forename><surname>Damme</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Narayanan</forename><surname>Devadasan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bart</forename><surname>Criel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gerald</forename><surname>Bloom</surname></persName>
+		</author>
+		<idno type="DOI">10.1046/j.1365-3156.2003.01081.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_tcYf9nA">Tropical Medicine &amp; International Health</title>
+		<title level="j" type="abbrev">Tropical Med Int Health</title>
+		<idno type="ISSN">1360-2276</idno>
+		<idno type="ISSNe">1365-3156</idno>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="581" to="584" />
+			<date type="published" when="2003-06-27">2003</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b35">
+	<monogr>
+		<title level="m" xml:id="_aUFBnFA">Mid-term review of BRAC CFPR specially targeted Ultra Poor Programme: Mission report</title>
+		<imprint>
+			<publisher>Mid-Term Review</publisher>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Final report</note>
+	<note>Unpublished</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b36">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Murray</surname></persName>
+		</author>
+		<title level="m" xml:id="_pdNMn32">Design and analysis of group-randomized trials</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="1998">1998</date>
+			<biblScope unit="page" from="295" to="315" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b37">
+	<monogr>
+		<title level="m" type="main" xml:id="_e3Pmtdf">Expanding basic MOHFW services key to improving equity impact of health spending</title>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>National Health Accounts (NHA)</publisher>
+			<biblScope unit="volume">3</biblScope>
+			<pubPlace>Dhaka</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>NHA Project, Health Economics Unit, MOHFW, Government of Bangladesh</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">NHA Policy Paper Brief</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b38">
+	<analytic>
+		<title level="a" type="main" xml:id="_TbrQMXm">Crises, setbacks and chronic problems—the determinants of economic stress events among poor households in India</title>
+		<author>
+			<persName><forename type="first">Helzi</forename><surname>Noponen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Paula</forename><surname>Kantor</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/jid.1076</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Hmu5DHW">Journal of International Development</title>
+		<title level="j" type="abbrev">J of Intl Development</title>
+		<idno type="ISSN">0954-1748</idno>
+		<idno type="ISSNe">1099-1328</idno>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="529" to="545" />
+			<date type="published" when="2004-05">2004</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b39">
+	<analytic>
+		<title level="a" type="main" xml:id="_2QXKCaB">Household income and health care expenditure in Mexico</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Parker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_bhSCzwf">Health Policy</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="237" to="255" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b40">
+	<analytic>
+		<title level="a" type="main" xml:id="_7NtAQZ6">Self-perceived health of ultra-poor women: The effect of an inclusive development intervention</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">A</forename><surname>Prakash</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K M M</forename><surname>Rana</surname></persName>
+		</author>
+		<ptr target="http://www.bracresearch.org/working_papers_details.php?scat=28&amp;v=0&amp;tid=336S" />
+	</analytic>
+	<monogr>
+		<title level="s" xml:id="_aXuHWyq">CFPR/TUP Working Paper Series</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<date type="published" when="2006-04-10">2006. 10 April 2006</date>
+			<publisher>BRAC and Aga Khan Foundation</publisher>
+			<pubPlace>Dhaka and Ottawa; Canada</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b41">
+	<analytic>
+		<title level="a" type="main" xml:id="_b7vYFYe">When breadwinners fall ill: Preliminary findings from a case study in Bangladesh</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pryer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_5ARGMTJ">IDS Bulletin</title>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Chambers</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+	<note>Vulnerability: How the poor cope</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b42">
+	<analytic>
+		<title level="a" type="main" xml:id="_JqszeFt">On Reaching the Hardcore Poor: Some Evidence on Social Exclusion in NGO Programmes</title>
+		<author>
+			<persName><forename type="first">Atiur</forename><surname>Rahman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Abdur</forename><surname>Razzaque</surname></persName>
+		</author>
+		<idno type="DOI">10.57138/hzhd1868</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_BTAFry6">The Bangladesh Development Studies</title>
+		<title level="j" type="abbrev">BDS</title>
+		<idno type="ISSN">0304-095X</idno>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="35" />
+			<date type="published" when="2000-03-01">2000</date>
+			<publisher>Bangladesh Institute of Development Studies</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b43">
+	<analytic>
+		<title level="a" type="main" xml:id="_g4QAXgc">Managing demand: A patient led NHS: managing demand at the interface between lay and primary care</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rogers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Entwistle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Pencheon</surname></persName>
+		</author>
+		<idno type="DOI">10.1136/bmj.316.7147.1816</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_G3YmG4h">BMJ</title>
+		<title level="j" type="abbrev">BMJ</title>
+		<idno type="ISSN">0959-8138</idno>
+		<idno type="ISSNe">1468-5833</idno>
+		<imprint>
+			<biblScope unit="volume">316</biblScope>
+			<biblScope unit="issue">7147</biblScope>
+			<biblScope unit="page" from="1816" to="1819" />
+			<date type="published" when="1998-06-13">1998</date>
+			<publisher>BMJ</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b44">
+	<analytic>
+		<title level="a" type="main" xml:id="_jjuBtYg">THE ECONOMIC BURDEN OF ILLNESS FOR HOUSEHOLDS IN DEVELOPING COUNTRIES: A REVIEW OF STUDIES FOCUSING ON MALARIA, TUBERCULOSIS, AND HUMAN IMMUNODEFICIENCY VIRUS/ACQUIRED IMMUNODEFICIENCY SYNDROME</title>
+		<author>
+			<persName><forename type="first">Steven</forename><surname>Russell</surname></persName>
+		</author>
+		<idno type="DOI">10.4269/ajtmh.2004.71.147</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_yzvyXAv">The American Journal of Tropical Medicine and Hygiene</title>
+		<title level="j" type="abbrev">Am J Trop Med Hyg</title>
+		<idno type="ISSN">0002-9637</idno>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="issue">2_suppl</biblScope>
+			<biblScope unit="page" from="147" to="155" />
+			<date type="published" when="2004-08">2004</date>
+			<publisher>American Society of Tropical Medicine and Hygiene</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b45">
+	<analytic>
+		<title level="a" type="main" xml:id="_ttpJ2np">Poverty, social exclusion and health in Portugal</title>
+		<author>
+			<persName><forename type="first">Paula</forename><surname>Santana</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0277-9536(01)00218-0</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_y5v3p3b">Social Science &amp; Medicine</title>
+		<title level="j" type="abbrev">Social Science &amp; Medicine</title>
+		<idno type="ISSN">0277-9536</idno>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="33" to="45" />
+			<date type="published" when="2002-07">2002</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b46">
+	<analytic>
+		<title level="a" type="main" xml:id="_bSQgxmM">Paying for reproductive health service in Bangladesh: Intersections between cost, quality and culture</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Schuler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Bates</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Islam</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_xRwQJ8F">Health Policy and Planning</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="273" to="280" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b47">
+	<monogr>
+		<title level="m" type="main" xml:id="_WeSBryF">Operationalization of MDG in Bangladesh</title>
+		<ptr target="http://www.mdgbangla.org/operationalization_mdg_bd/index.htm" />
+		<imprint>
+			<date type="published" when="2004-03-24">2004. 24 March 2004</date>
+			<publisher>SDNP (Sustainable Development Network Programme</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b48">
+	<analytic>
+		<title level="a" type="main" xml:id="_65PRVfM">Economic transition should come with a health warning: The case of Vietnam</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Segall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Tipping</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Lucas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">V</forename><surname>Dung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">T</forename><surname>Tam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">X</forename><surname>Vinh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_wUQjNh3">Journal of Epidemiology and Community Health</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="497" to="505" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b49">
+	<monogr>
+		<author>
+			<persName><forename type="first">B</forename><surname>Sen</surname></persName>
+		</author>
+		<ptr target="http://www.sdnpbd.org/sdi/international_day/poverty/2000/povertyinbd-bids.htmS" />
+		<title level="m" xml:id="_7KB2pXp">Poverty in Bangladesh: A review</title>
+		<imprint>
+			<date type="published" when="2000-10-22">2000. 22 October 2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b50">
+	<monogr>
+		<title level="m" type="main" xml:id="_dHhvBXf">The health divide: Analysis of inequality in health in Bangladesh</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Sen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>BIDS</publisher>
+			<pubPlace>Dhaka</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Bangladesh Institute of Development Studies</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b51">
+	<analytic>
+		<title level="a" type="main" xml:id="_J2dKJNY">Drivers of escape and descent: Changing household fortunes in rural Bangladesh</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Sen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_7HpyCud">World Development</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="513" to="534" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b52">
+	<analytic>
+		<title level="a" type="main" xml:id="_CMqmYuh">Self-treatment and its discussion in medical consultations: How is medical pluralism managed in practice</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Stevenson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Britten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Barry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Bradley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Barber</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_tGJuG3S">Social Science and Medicine</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="513" to="527" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b53">
+	<monogr>
+		<title level="m" type="main" xml:id="_ZgXY3Yu">Status of programme indicators: Annual program review 2001 of Health and Population Sector Review 1998-2003</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Streatfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hadley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Chakraborty</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>World Bank</publisher>
+			<pubPlace>Dhaka</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b54">
+	<analytic>
+		<title level="a" type="main" xml:id="_c9VNvEB">Microfinance engagements of the &apos;graduated&apos; TUP members</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sulaiman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Matin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S H</forename><surname>Siddiquee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Barua</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Alarakhaia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Iyer</surname></persName>
+		</author>
+		<ptr target="http://www.BRACresearch.org/working_papers_details.php?scat=28&amp;v=0&amp;tid=334" />
+	</analytic>
+	<monogr>
+		<title level="s" xml:id="_YpHzYpJ">CFPR/TUP Working Paper Series</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<date type="published" when="2006-04-10">2006. 10th April 2006</date>
+			<publisher>BRAC and Aga Khan Foundation Canada</publisher>
+			<pubPlace>Dhaka and Ottawa</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b55">
+	<analytic>
+		<title level="a" type="main" xml:id="_aaAbqh6">MEDICAL PREPAREDNESS AND PATIENT MANAGEMENT IN SWEDEN</title>
+		<author>
+			<persName><forename type="first">Jack</forename><surname>Valentin</surname></persName>
+			<idno type="ORCID">0000-0003-3364-3355</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Christel</forename><surname>Hedman</surname></persName>
+			<idno type="ORCID">0000-0003-4183-7598</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Marita</forename><surname>Lagergren Lindberg</surname></persName>
+			<idno type="ORCID">0000-0002-8703-4320</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Karin</forename><surname>Lindberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Leif</forename><surname>Stenke</surname></persName>
+			<idno type="ORCID">0000-0002-3554-576X</idno>
+		</author>
+		<idno type="DOI">10.17721/3041-1491/2024.11-04</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_q48JQJd">Medical physics – the current status, problems, the way of development. Innovation technologies</title>
+		<title level="j" type="abbrev">Med. Phys.: Status, Probl., Dev. &amp; Innov</title>
+		<idno type="ISSN">3041-1491</idno>
+		<imprint>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="43" to="50" />
+			<date type="published" when="2002">2002</date>
+			<publisher>Taras Shevchenko National University of Kyiv</publisher>
+			<pubPlace>Stockholm</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>PhD) ; Karolinska Institutet</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Thesis</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b56">
+	<analytic>
+		<title level="a" type="main" xml:id="_JW4bTJy">Informed choices for attaining the Millenium Development Goals: towards an international cooperative agenda for healthsystem research</title>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_k3BZBue">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">364</biblScope>
+			<biblScope unit="page" from="997" to="1003" />
+			<date type="published" when="2004">2004</date>
+			<publisher>Task Force on Health Systems Research</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b57">
+	<analytic>
+		<title level="a" type="main" xml:id="_FGXzU28">Supplemental Information 4: Results of mixed model ANOVA (based on GLIMMIX procedure in SAS) testing effects of sampling time (season), nitrogen fertilization and grass species on soil properties</title>
+		<idno type="DOI">10.7717/peerj.13874/supp-4</idno>
+		<ptr target="http://support.sas.-com/md/app/papers/glimmix.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_qpZH66M">The GLIMMIX procedure</title>
+		<imprint>
+			<publisher>PeerJ</publisher>
+			<date type="published" when="2005-06-02">2nd June, 2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b58">
+	<analytic>
+		<title level="a" type="main" xml:id="_cX7H7Gy">Information and access to health care: Is their a role for trust</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Thiede</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_8KZX7Fq">Social Science and Medicine</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="1452" to="1462" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b59">
+	<monogr>
+		<title level="m" type="main" xml:id="_3ERCwbq">Human Development Report</title>
+		<ptr target="http://hdr.undp.org/statistics/data/cty/cty_f_BGD.html" />
+		<imprint>
+			<date type="published" when="2004-07-12">2004. 2004. 12 July 2005</date>
+			<publisher>UNDP</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b60">
+	<monogr>
+		<ptr target="http://www.unisol.arizona.edu/arizona-charter.html" />
+		<title level="m" xml:id="_4C5WD3R">UNI-SOL (Universities in Solidarity for the Health of the Disadvantaged)</title>
+		<imprint>
+			<date type="published" when="1999-05-28">1999. 28th May, 2005</date>
+		</imprint>
+	</monogr>
+	<note>Arizona Charter: &apos;&apos;Universities and the Health of the Disadvantaged</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b61">
+	<analytic>
+		<title level="a" type="main" xml:id="_mvcpqk7">The marginal costs of health services for the poorest. Meeting the health-related needs of the very poor</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Waddington</surname></persName>
+		</author>
+		<ptr target="http://www.eldis.org/fulltext/verypoor/4_waddington.pdf" />
+	</analytic>
+	<monogr>
+		<title level="s" xml:id="_V8ee2mb">DFID Workshop Paper</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<date type="published" when="2005-09-15">2005. 15 September 2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b62">
+	<analytic>
+		<title level="a" type="main" xml:id="_fNNRZ3k">Does microcredit meet the needs of all poor women? Constraints to participation among destitute women in Bangladesh</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Webb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Coates</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Houser</surname></persName>
+		</author>
+		<ptr target="http://www.nutrition.tufts.edu/FPAN" />
+	</analytic>
+	<monogr>
+		<title level="s" xml:id="_acYW24R">Food Policy and Applied Nutrition Discussion Paper</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<date type="published" when="2002-03-30">2002. 30th March 2006</date>
+		</imprint>
+		<respStmt>
+			<orgName>TUFTS Nutrition, TUFTS University</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b63">
+	<analytic>
+		<title level="a" type="main" xml:id="_zGTU7c8">Relating health policy to women&apos;s health outcomes</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Wisdom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Berlin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Lapidus</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_6mB3BKw">Social Science and Medicine</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="1776" to="1784" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b64">
+	<analytic>
+		<title level="a" type="main" xml:id="_BjtjZaA">Society&apos;s choice: The tradeoff between efficacy and equity and the lives at stake</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Woolf</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_tXpJjG8">Americal Journal of Preventive Medicine</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="49" to="56" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b65">
+	<analytic>
+		<title level="a" type="main" xml:id="_x9uA6B8">World Development Report 1993: Investing in Health. The World Bank, Oxford University Press, Oxford, 1993. No. of pages: 329. ISBN 0‐19‐520890‐0</title>
+		<author>
+			<persName><forename type="first">Lou</forename><surname>Opit</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/hec.4730030209</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_yrMjWCE">Health Economics</title>
+		<title level="j" type="abbrev">Health Economics</title>
+		<idno type="ISSN">1057-9230</idno>
+		<idno type="ISSNe">1099-1050</idno>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="127" to="128" />
+			<date type="published" when="1993">1993</date>
+			<publisher>Wiley</publisher>
+			<pubPlace>Washington DC</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b66">
+	<analytic>
+		<title level="a" type="main" xml:id="_6PtQVdU">Private Sector Assessment for Health, Nutrition and Population in Bangladesh</title>
+		<idno type="DOI">10.1596/14667</idno>
+		<idno>No. 27005-BD</idno>
+		<ptr target="http://siteresources.worldbank.org/INTBANGLADESH/Data%20and%20Reference/20206318/Bangladesh_PSA_for_HNP-Full%20report.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_NzTTREq">Private sector assessment for Health, Nutrition and Population (HNP) in Bangladesh</title>
+		<meeting><address><addrLine>Washington DC</addrLine></address></meeting>
+		<imprint>
+			<publisher>Washington, DC</publisher>
+			<date type="published" when="2003-06-07">2003. 7th June, 2005</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Report</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b67">
+	<analytic>
+		<title level="a" type="main" xml:id="_sAzj33J">WHO guidelines for malaria, 30 November 2024</title>
+		<author>
+			<persName><surname>Who</surname></persName>
+		</author>
+		<idno type="DOI">10.2471/b09146</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_UpFhTaF">WHO Drug Information</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="18" to="26" />
+			<date type="published" when="2000">2000</date>
+			<publisher>World Health Organization</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b68">
+	<monogr>
+		<title level="m" xml:id="_y34jqJD">Macroeconomics and health: Investing in Health for Economic Development Report of the Commission on Macroeconomics and Health</title>
+		<meeting><address><addrLine>Geneva</addrLine></address></meeting>
+		<imprint>
+			<publisher>WHO</publisher>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b69">
+	<analytic>
+		<title level="a" type="main" xml:id="_BfjaZFM">Household catastrophic health expenditure: A multi country analysis</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Evans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kawabata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Zeramdini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Klavus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J L</forename><surname>Murray</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_tphdmBw">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">362</biblScope>
+			<biblScope unit="page" from="111" to="117" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

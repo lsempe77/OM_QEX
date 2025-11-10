@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" xml:id="_bvZKD2h">The effects of poultry and unconditional cash transfers on livelihoods outcomes Evidence from the SPIR midline survey</title>
+				<funder>
+					<orgName type="full">CGIAR Research Program on Policies, Institutions, and Markets</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">International Food Policy Research Institute</orgName>
+					<orgName type="abbreviated">IFPRI</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">PIM.</orgName>
+				</funder>
+				<funder ref="#_zkMM7Bj">
+					<orgName type="full">United States Agency for International Development</orgName>
+					<orgName type="abbreviated">USAID</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Chief of Party</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Jessica</forename><surname>Leight</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Harold</forename><surname>Alderman</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Daniel</forename><forename type="middle">O</forename><surname>Gilligan</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Melissa</forename><surname>Hidrobo</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Heleene</forename><surname>Tambet</surname></persName>
+						</author>
+						<title level="a" type="main" xml:id="_PuWJJbW">The effects of poultry and unconditional cash transfers on livelihoods outcomes Evidence from the SPIR midline survey</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">7F15AF6D96AB4AB256B0388B98774A74</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2025-11-04T18:02+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a292bac</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=1, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=true, generateTeiCoordinates=[true], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="10" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="11" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_G8kTjzw">Introduction</head><p xml:id="_Nd7g4vg">Recent policy debates have focused renewed international attention on poultry as an asset that is widely accessible to women and has low start-up costs, increasing its potential to have significant positive welfare effects for poor households in developing countries. In 2016, Bill Gates promoted investment in chickens as a development strategy that would meaningfully increase incomes for poor women. <ref type="bibr">1</ref> In response, Chris Blattman suggested that large cash grants of the kind provided by Give Directly (Haushofer and Shapiro 2016) may be more effective at enhancing outcomes, given heterogeneity in households' needs and capacity to raise chickens. <ref type="bibr">2</ref> This learning brief reports on evidence from an ongoing impact evaluation of a complementary program to Ethiopia's Productive Safety Net Program, Phase 4 (PSNP4), called SPIR (Strengthen PSNP4 Institutions and Resilience) in rural Ethiopia, in which a cross-randomization of interventions providing poultry and unconditional cash transfers allows us to generate evidence highly relevant to this debate.</p><p xml:id="_6wdb8Tb">The SPIR Development Food Security Activity (DFSA) in Ethiopia is a five-year program (2016-2021)  supporting implementation of the PSNP4 as well as complementary livelihood, nutrition, gender, and natural resource management activities intended to strengthen the program and expand its impacts. Under funding from USAID's Office of Food for Peace (FFP) and in close collaboration with the Government of Ethiopia, World Vision leads implementation of the SPIR DFSA in partnership with the Organization for Rehabilitation and Development in Amhara (ORDA) and CARE. SPIR DFSA targets more than 500,000 PNSP clients in 15 of the most vulnerable woredas in Amhara and Oromia regions of Ethiopia.</p><p xml:id="_VWZU4ZR">SPIR DFSA also incorporates a substantial learning agenda intended to use evidence to improve the design of the DFSA, provide feedback to strengthen its delivery, and draw lessons both for local government and other national and international stakeholders. World Vision, ORDA, and CARE provide SPIR LEARNING BRIEF -1 MARCH 2020</p><p xml:id="_Ayx53NR">guidance on the implementation of the learning agenda. IFPRI leads the planning and execution of the learning agenda activities.</p><p xml:id="_wwrHV7v">This learning brief reports midline effects of two specific dimensions of SPIR programming, a poultry package and a one-time unconditional cash transfer randomized to women in particularly poor households, on a set of livelihood outcomes measured in the midline survey conducted between July and October 2019.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_RJTH2zJ">Evaluation design and interventions</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_rXJsEQq">Evaluation design</head><p xml:id="_Qr52Yfy">The impact evaluation uses a clustered randomized controlled trial (RCT) design to learn about the effect of combinations of the primary dimensions of SPIR programming on the wellbeing of PSNP4 households: the livelihoods package (L), the nutrition package (N), and enhanced versions of each package (L* and N*, respectively). These packages were combined into multisectoral graduation model programs and randomized into four treatment arms: T1: L*+N*, T2: L*+N, T3: L+N*, T4: PSNP only.</p><p xml:id="_es9KUn3">The evaluation sample comprises 192 kebeles (subdistricts) in Amhara and Oromia regions.</p><p xml:id="_NKy9X7F">In addition, three supplemental interventions were cross-randomized across 94 kebeles in the experimental arms receiving the enhanced livelihoods intervention L*. This learning brief primarily focuses on two of these interventions: a one-time poultry package and a one-time unconditional cash transfer (UCT) described in more detail below. Both interventions targeted poorer households (or more specifically, 10 out of 18 poorest households in each kebele in the study according to a baseline asset index). Half of the L* kebeles were randomly selected to receive cash transfers targeted to women in these poorer households, and half of the L* kebeles were randomly selected to receive poultry packages targeted to women in the poorer households.</p><p xml:id="_f6yAhJR">In addition, 50% of the L* kebeles (n=47) were randomly assigned to receive an aspirations treatment (also described in more detail below). Randomization of the poultry/cash intervention and randomization of the aspirations treatment were balanced such that 25% of L* kebeles were assigned to poultry only, poultry + aspirations, cash only, and cash + aspirations, respectively. While this brief focuses on the effects of the poultry and cash, some variation in experimental effects in kebeles also targeted with aspirations treatment will be noted.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_4ZRsZPH">Interventions</head><p xml:id="_r83Ttqu">The poultry package and unconditional cash transfers implemented as part of SPIR are designed to mirror the PSNP4 targeted livelihoods transfer, an added transfer provided to the poorest PSNP4 beneficiaries. However, the SPIR poultry package and UCT are targeted to women. The poultry package included improved poultry start-up inputs (16 Sasso breed pullets --45 day old chickens, eight male and eight female --from EthioChicken, 75 kg of feed, chicken coop construction materials, a feeding trough, and $35 to purchase veterinarian services) valued at $200, in addition to a one-time training on poultry husbandry practices by EthioChicken poultry experts. The enhanced breed chickens can be sold for meat (the male chickens) and retained as egg producers (the female chickens). The cash transfer provides the Ethiopian birr equivalent of $200 (5,600 birr) paid in one installment of cash.</p><p xml:id="_dvkdh8H">The aspirations intervention entails a one-hour, kebele-level screening of documentaries (in Amharic and Afaan Oromo languages) designed to motivate individuals to undertake actions that will improve their well-being in the future. These documentaries, presented in the Amharic and Afaan Oromo languages, provide true, inspirational stories about the returns to hard work and the benefit of aiming high. IFPRI researchers and others have conducted experiments in Ethiopia showing substantial and longlived effects of the same video intervention employed here. 3</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_nntAC4r">Midline survey</head><p xml:id="_ErDGJay">This brief draws on data from the midline survey conducted as part of the SPIR impact evaluation. All 3,314 households who met the inclusion criteria in the baseline sample were revisited between July and October 2019 in order to administer a survey to both the head of household and the primary female. Of these, 3,237 households were successfully surveyed, for an attrition rate of 2.3%. Our analysis here draws primarily on data reported about the households' productive activities, including engagement in livestock and poultry raising; savings and credit access; agricultural investment; and engagement in labor outside the household. We do not have data on non-agricultural household businesses and thus cannot analyze this dimension of investment. It does not analyze the effects of the interventions on measures linked to household food security, diets and nutrition, though these effects will be explored further in the midline report.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_t44smXr">Analysis</head><p xml:id="_sYuHkaM">In this brief, we primarily present results in graphical form. <ref type="bibr">4</ref> We restrict the sample to the poor households that were randomized to receive either the poultry or cash intervention. We focus on binary variables indicating whether the household undertakes specific livelihood activities (variables that have the value one for a household who reports a certain activity, and the value zero for a household that does not report this activity). The graphs then report the difference between the probability that households who received a poultry package are engaged in this activity and the comparable probability for the control arm, and similarly the difference for households who received an unconditional cash transfer vis-avis households in the control arm. These differences are calculated conditional on the effects of the L and L* interventions as well as woreda fixed effects. The x-axis corresponds to the effect size (that is, the difference in probabilities between poultry or cash-receiving households and control arm households) in percentage points.</p><p xml:id="_6UrDnYJ">For some outcomes, we provide an additional graph to show the difference between households who received a poultry package + aspirations intervention vis-à-vis households in the control arm, and the difference between households who received cash + aspirations intervention vis-à-vis households in the control arm.</p><p xml:id="_HaEzvpZ">In addition, the graphs report the 95% confidence interval corresponding to the coefficient estimated. If the 95% confidence interval excludes zero, then the effect is considered statistically significant: that is, we can reject the hypothesis that the observed difference between treatment and control households arises by chance.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_YUbwEYz">Effects of the interventions on livelihoods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_x4fFXxP">Implementation of cash and poultry interventions</head><p xml:id="_ZngeRer">In order to interpret the effects of the interventions, we first report summary statistics from self-reports on treatment adherence. Figures <ref type="figure">1a</ref> and <ref type="figure">1b</ref> show the share of households reporting that they received a SPIR poultry or cash package among households who were assigned to receive those interventions, and households that were not assigned to receive the intervention but were within the subset of poor households who were eligible for the intervention. These figures enable us to assess intervention effects in the context of evidence around the targeting of the intervention to its intended beneficiaries.</p><p xml:id="_QTYmBfF">Around 65% of households assigned to receive cash reported receiving cash (as evident in Figure <ref type="figure">1a</ref>), and about 95% of households assigned to receive a poultry package did in fact report receiving this package (as evident in Figure <ref type="figure">1b</ref>). <ref type="bibr">1</ref> Reported receipt of poultry or cash by households who were not assigned to receive these interventions is relatively low (between 10% and 15%, as evident in the green bars in both Figures <ref type="figure">1a</ref> and <ref type="figure">1b</ref>), a rate that may primarily reflect households misidentifying other interventions or transfers they have received. The lower rate of reported cash receipt among targeted households should also be interpreted cautiously, as households may not recall the transfer or may not attribute it to the SPIR program in particular. Figure 1b: Receipt of poultry package (by household's original assignment)</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_pyxheRC">Household poultry production</head><p xml:id="_ZPyd76C">Given that one of the primary interventions of interest is improved breed poultry production, we first report the effects of both the poultry package and the cash transfer on household engagement in poultry production. Households who received the poultry package, perhaps unsurprisingly, report a significant increase in engagement in poultry production: the probability that they report ownership of any poultry increases by about 40 percentage points to 94%. This effect is evident in the first row of Figure <ref type="figure">2</ref>, and it is statistically significant at the one percent level. These effects are also evident in the poultry owned specifically by the female respondent (reported in the second row of Figure <ref type="figure">2</ref>), suggesting that intrahousehold targeting of the transfer has been effective.</p><p xml:id="_QG2DHen">In addition, the number of poultry owned by households who received a poultry package increases by about eight chickens, relative to a mean of two for transfer-eligible (poor) households in the control arm. In other words, the average household poultry flock increases by more than 500%, and the observed increase in flock size is consistent with the project's goal that eight of the sixteen chickens received would be sold for meat on a short timeline (within months).</p><p xml:id="_jrmuNyd">By contrast, there is no evidence that these households experience any significant increase in the probability of owning any other form of (nonpoultry) livestock. These results are reported in the third row of Figure <ref type="figure">2</ref>.</p><p xml:id="_73kkDZR">Households targeted by the poultry package are also much more likely to report income from sales of poultry: 64% of households who received a poultry package reported income from sales of poultry in the last year, while only 36% of households in the control arm report such income. However, men are differentially more likely to report income from the sale of poultry, suggesting they may be more likely to control this income. These effects are reported in the fourth and fifth rows of Figure <ref type="figure">2</ref>. The probability that a household reports income from sales of eggs (as distinct from meat) increases by 18 percentage points relative to a mean in the control arm of 19% (nearly doubling), as reported in the sixth row of Figure <ref type="figure">2</ref>.</p><p xml:id="_czWH6GE">Turning to the cash transfer, there is some evidence that households receiving a cash transfer also invest in poultry, but the effects are much smaller. The probability that they report ownership of any poultry increases by 8 percentage points to 62% and is significant at the ten percent level, as reported in the first row of Figure <ref type="figure">2</ref>. The average poor household receiving a cash transfer reports around one more chicken relative to the mean of two for poor households in the control arm.</p><p xml:id="_AMTSGKY">Again, there is no evidence of a significant increase in ownership of other non-poultry forms of livestock (as reported in the third row of Figure <ref type="figure">2</ref>), and the probability of reporting any income from poultry sales declines for cash recipients, though the coefficient is significant only for sales reported by women (as reported in the fourth and fifth rows of Figure <ref type="figure">2</ref>). The decline in reported poultry sales would be consistent with cash recipient households facing a reduced need to liquidate livestock assets for cash. However, the probability that a household reports income from sales of eggs (as distinct from meat) increases by 10 percentage points.</p><p xml:id="_QZtcx9v">Available data on poultry prices suggest that the cost of a chicken is between 60 and 110 birr, and thus households who have received cash transfers (valued at 5,600 birr) are estimated to have spent no more than 1.5% of the transfer on poultry purchases.</p><p xml:id="_RnhwGaU">There is also little evidence that the aspirations treatment has any additional effect on these outcomes for poultry and cash recipients, though households who receive both the cash transfer and the aspirations treatment may be somewhat less likely to engage in poultry production vis-à-vis households in the control arm. However, this difference is not statistically significant.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_rGfNaYW">Figure 2: Household livestock production</head><p xml:id="_5UUH5gP">Note: This figure reports the estimated coefficient and 95% confidence interval for two binary variables: assignment to receive a poultry package and assignment to receive a cash transfer. These coefficients are estimated in a regression in which the specified outcome variable is regressed on these two binary variables as well as their interaction with the aspirations binary variable, a binary variable for treatment arm two and its interaction with the aspirations binary, a binary variable for treatment arm three, and woreda fixed effects. Coefficients for these other variables are not reported. Standard errors are clustered at the kebele level. Livestock owned excludes poultry.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_52NcJKR">Savings and credit access</head><p xml:id="_CXCJvQV">We also examine the effects of these interventions on households' savings patterns and credit access.</p><p xml:id="_FGuFp9K">Here, we see both the poultry and the cash transfers had substantial positive effects on savings as reported by women. The first row in Figure <ref type="figure" target="#fig_1">3</ref> reports that 73% of female respondents in households who received a cash or poultry transfer report savings of their own, compared to only 25% of respondents in transfer-eligible households in the control arm. This is overwhelmingly due to increased savings in VE-SAs (Village Economic and Savings Associations) as reported in the second row in Figure <ref type="figure" target="#fig_1">3</ref>: 88% of female respondents in households who received a transfer and who are saving use a VESA as their savings vehicle (and they are less likely to save in a microfinance institution), while only 25% of respondents in the control arm who are saving in a village saving and lending group. The SPIR intervention uses VESA groups to encourage savings and improve access to credit, and VESAs also serve as the foundation for other social and economic programming.</p><p xml:id="_JJCKxFU">In addition, these effects are of similar magnitude for households who received poultry and households who received cash. The hypothesis that the increase in female savings is equal for these two sets of households cannot be rejected.</p><p xml:id="_NT3wyfM">For credit access, by contrast, there is little evidence of any enhanced access to credit or bank accounts for households receiving transfers, as reported in rows 3 and 4 of Figure <ref type="figure" target="#fig_1">3</ref>. In addition, there is little evidence that any of these effects are different for households also exposed to the aspirations treatment. Note: This figure reports the estimated coefficient and 95% confidence interval for two binary variables: assignment to receive a poultry package and assignment to receive a cash transfer. These coefficients are estimated in a regression in which the specified outcome variable is regressed on these two binary variables as well as their interaction with the aspirations binary variable, a binary variable for treatment arm two and its interaction with the aspirations binary, a binary variable for treatment arm three, and woreda fixed effects. Coefficients for these other variables are not reported. Standard errors are clustered at the kebele level.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_S2fE6sH">Outside labor</head><p xml:id="_NMnfNqe">Next, we examine the effects of these interventions on households' engagement in outside labor. In this analysis, wage work is defined as work in which the respondent receives wages at regular intervals, and casual wage work is defined as day labor. <ref type="bibr">2</ref> In general, Figure <ref type="figure">4</ref> suggests that there are not substantial effects of receipt of the poultry or cash transfers on engagement in outside labor. There is also little evidence of heterogeneity with respect to the aspirations treatment on average, though there is some heterogeneity in the first treatment arm only. (In the first treatment arm, households that were exposed to the aspirations treatment in conjunction with poultry or cash transfer exhibit a greater probabiltiy of engaging in wage work, for both men and women.)</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_VAbDtRV">Figure 4: Outside labor</head><p xml:id="_8ecdAPr">Note: This figure reports the estimated coefficient and 95% confidence interval for two binary variables: assignment to receive a poultry package and assignment to receive a cash transfer. These coefficients are estimated in a regression in which the specified outcome variable is regressed on these two binary variables as well as their interaction with the aspirations binary variable, a binary variable for treatment arm two and its interaction with the aspirations binary, a binary variable for treatment arm three, and woreda fixed effects. Coefficients for these other variables are not reported. Standard errors are clustered at the kebele level.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_7mfVA4v">Use of inputs for crops</head><p xml:id="_h87Jvty">Given that we did not observe significant increases in household poultry or other livestock production for cash transfer recipients, it seems relevant to explore whether these households (or the households who received poultry packages) invested more in inputs for crop production. There is no evidence of increased expenditure by households who received either transfer for seeds, fertilizer, pesticides, or hired labor for agriculture. This suggests that households are not redirecting these resources to invest in more input-intensive agriculture.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_Ff52Ekd">Conclusions</head><p xml:id="_uZaBwW7">This brief presents preliminary evidence about the relative effectiveness of the poultry and cash transfers implemented for poor SPIR recipients in shifting households' productive activities. In general, the poultry transfer led to significant increases in household poultry production, while the cash transfer households made only minimal investments in poultry; there is no evidence of significant increases in nonpoultry livestock for poultry or cash recipients. Sharp increases in female savings are observed in both arms, though there is little evidence of enhanced access to credit. There is no evidence of significant shifts in outside labor.</p><p xml:id="_JmmvCaE">In general, however, the cash transfer does not appear to have led to significant shifts in household productive activities along the dimensions measured. However, we recognize that there are many other productive activities in which cash may have been invested that were not measured at midline (e.g., investments in microenterprises). Further work will seek to determine if there was a substantial shift in consumption or other welfare measures in households who received cash transfers.</p><p xml:id="_HDvB64S">In terms of programmatic implications, the poultry transfer appears to be a very effective intervention at this early stage. One possible hypothesis around the poultry transfer would be that households sell all sixteen chickens quickly, due to lack of capacity or technical expertise to engage in poultry husbandry. That pattern is clearly not observed; women sold some of the chickens, as expected, and retained half of the birds as a source of nutrition and income for their families. This constitutes an interesting learning point from this intervention and suggests it may be worth scaling up. Also, our findings suggest that poultry and cash transfers are not substitutes for stimulating household investment in livestock production, where the poultry transfer is more effective; both transfers have positive effects on savings behavior. Further insights will be drawn from a comparison of these household welfare measures at endline.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_5kmxXvS">Box 1: Key lessons</head><p xml:id="_xMqwEQW"> Preliminary evidence suggests the poultry package was significantly more effective than cash transfers in stimulating household engagement in poultry production for poor households included in the SPIR evaluation.</p><p xml:id="_erqj53E"> Effects on female savings were significant and large for both poultry and cash recipients.</p><p xml:id="_YrMnnxH"> In general, there is no evidence that households who received cash invested differentially in other non-poultry related productive activities, though little data is available on non-agricultural household businesses.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_PQuJgmg">ENDNOTES</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_hJNh4h2">This publication was produced by IFPRI in collaboration with World Vision on the SPIR Program, Cooperative Agreement Number AID-FFP-A-16-00008, funded by the U.S. Agency for International Development.</head><p xml:id="_8FVzqj4">This Learning Brief is made possible by generous support of the American people through the United States Agency for Intenational Development (USAID). The contents are the responsibility of the authors and do not necessarily reflect the views of USAID or the United States Government.</p><p xml:id="_yTDSt4d">This publication has been prepared as an output of Strengthen PSNP4 Institutions and Resilience (SPIR) impact evaluation and has not been independently peer reviewed. Any opinions expressed here belong to the author(s) and are not necessarily representative of or endorsed by IFPRI.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1a :Figure 1b :</head><label>1a1b</label><figDesc xml:id="_uK5XXWY">Figure 1a: Receipt of cash grant (by household's original assignment)</figDesc><graphic coords="4,54.00,386.92,242.60,148.30" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 3 :</head><label>3</label><figDesc xml:id="_ckaMzWh">Figure 3: Household savings and credit</figDesc><graphic coords="7,54.00,78.18,351.30,255.74" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><graphic coords="6,57.06,78.18,300.84,218.50" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><graphic coords="8,54.00,246.77,285.19,207.20" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_0"><p xml:id="_sYK24EF">Implementation records do suggest that every household assigned to receive cash did receive the transfer; this is consistent with the hypothesis that the low reported rates of receipt do in fact reflect an absence of recall, or perhaps a false attribution of the cash transfer by the households to another project or source.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_1"><p xml:id="_vHAWZHK">In the survey, respondents receive the following clarifying examples: examples of wage work include working as mechanic, truck driver, or government workers such as a teacher or a nurse. Examples of casual work include agricultural day labor and work herding cattle.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1201" xml:id="foot_2"><p xml:id="_GbCkhGr">Eye Street, NW, Washington, DC 20005 USA | T. +1-202-862-5600 | F. +1-202-862-5606 | Email: ifpri@cgiar.org | www.ifpri.org | www.ifpri.info © 2020 International Food Policy Research Institute (IFPRI). This publication is licensed for use under a Creative Commons Attribution 4.0 International License (CC BY 4.0). To view this license, visit https://creativecommons.org/licenses/by/4.0.</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head xml:id="_8WtUp5q">ACKNOWLEDGMENTS</head><p xml:id="_gfzs8qJ">We gratefully acknowledge funding for the impact evaluation from the <rs type="funder">United States Agency for International Development (USAID)</rs> under Cooperative Agreement No <rs type="grantNumber">AID-FFP-A-16-00008</rs>. This work was undertaken as part of the <rs type="funder">CGIAR Research Program on Policies, Institutions, and Markets</rs> (PIM) led by the <rs type="funder">International Food Policy Research Institute (IFPRI)</rs>. Additional funding support for this study was also provided by <rs type="funder">PIM.</rs> <rs type="person">Michael Mulford</rs>, <rs type="funder">Chief of Party</rs> of the SPIR project, shares intellectual credit for study research design. We also thank our partners at <rs type="institution">World Vision, CARE and ORDA</rs> for their contributions to the study and overall support. Thanks also to the research teams at <rs type="institution">Ambo University and Hawassa University</rs> for their feedback on the study design.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_zkMM7Bj">
+					<idno type="grant-number">AID-FFP-A-16-00008</idno>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted"  xml:id="b0">
+	<monogr>
+		<author>
+			<persName><forename type="first">T</forename><surname>Bernard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Dercon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Orkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Taffesse</surname></persName>
+		</author>
+		<ptr target="https://ora.ox.ac.uk/objects/uuid:5eacb2a0-45f8-4a1d-9cc4-c023d0094564/download_file?safe_filename=CEPR-DP10224" />
+		<title level="m" xml:id="_3pZRdus">The Future in Mind: Long-Run Impact of an Aspirations Intervention in Rural Ethiopia</title>
+		<meeting><address><addrLine>Washington DC</addrLine></address></meeting>
+		<imprint>
+			<publisher>International Food Policy Research Institute</publisher>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main" xml:id="_ykHT267">Supplementary file 6. Code example for data normalization in. pdf format.</title>
+		<idno type="DOI">10.7554/elife.20148.042</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_5CQ5VMm">pdf&amp;file_format=application%2Fpdf&amp;type_of_work=Discussion+paper</title>
+		<imprint>
+			<publisher>eLife Sciences Publications, Ltd</publisher>
+			<date>null</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main" xml:id="_3qgUPUG">Parental Aspirations for Children’s Education: Is There a “Girl Effect”? Experimental Evidence from Rural Ethiopia</title>
+		<author>
+			<persName><forename type="first">Tanguy</forename><surname>Bernard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stefan</forename><surname>Dercon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kate</forename><surname>Orkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alemayehu</forename><forename type="middle">Seyoum</forename><surname>Taffesse</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/pandp.20191072</idno>
+		<ptr target="https://www.aeaweb.org/articles?id=10.1257/pandp.20191072" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_E3zcXYC">AEA Papers and Proceedings</title>
+		<title level="j" type="abbrev">AEA Papers and Proceedings</title>
+		<idno type="ISSN">2574-0768</idno>
+		<idno type="ISSNe">2574-0776</idno>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="page" from="127" to="132" />
+			<date type="published" when="2019-05-01">2019</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main" xml:id="_3knXFPK">Pathways Less Explored—Locus of Control and Technology Adoption</title>
+		<author>
+			<persName><forename type="first">Alemayehu</forename><forename type="middle">Seyoum</forename><surname>Taffesse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fanaye</forename><surname>Tadesse</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/jae/ejx013</idno>
+		<ptr target="https://academic.oup.com/jae/article-abstract/26/suppl_1/i36/3920769" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_y6MgFhm">Journal of African Economies</title>
+		<idno type="ISSN">0963-8024</idno>
+		<idno type="ISSNe">1464-3723</idno>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">suppl_1</biblScope>
+			<biblScope unit="page" from="i36" to="i72" />
+			<date type="published" when="2017-07-04">2017</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

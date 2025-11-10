@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" xml:id="_9qJRyUW">Long-Term Effects of the Targeting the Ultra Poor Program</title>
+				<funder ref="#_gCG9AfQ #_j5GeYb3">
+					<orgName type="full">unknown</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Economic Association</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2021-12-01">2021-12-01</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Abhijit</forename><surname>Banerjee</surname></persName>
+							<email>banerjee@mit.edu</email>
+						</author>
+						<author>
+							<persName><forename type="first">Esther</forename><surname>Duflo</surname></persName>
+							<email>eduflo@mit.edu</email>
+						</author>
+						<author>
+							<persName><forename type="first">Garima</forename><surname>Sharma</surname></persName>
+							<email>gsharma@mit.edu</email>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="institution">Massachusetts Institute of Technology</orgName>
+								<address>
+									<settlement>JPAL</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="institution">Massachusetts Institute of Technology</orgName>
+								<address>
+									<settlement>JPAL</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main" xml:id="_fEuUU2k">Long-Term Effects of the Targeting the Ultra Poor Program</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main" xml:id="_YyRmbxF">American Economic Review: Insights</title>
+						<title level="j" type="abbrev">American Economic Review: Insights</title>
+						<idno type="ISSN">2640-205X</idno>
+						<idno type="eISSN">2640-2068</idno>
+						<imprint>
+							<publisher>American Economic Association</publisher>
+							<biblScope unit="volume">3</biblScope>
+							<biblScope unit="issue">4</biblScope>
+							<biblScope unit="page" from="471" to="486"/>
+							<date type="published" when="2021-12-01" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">A96A213F47A869030C9839665DC2B695</idno>
+					<idno type="DOI">10.1257/aeri.20200667</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2025-11-04T23:00+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a292bac</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=1, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=true, generateTeiCoordinates=[true], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_3vSXXB5"><p xml:id="_9CmEDGJ">This paper studies the long-run effects of a " big-push" program providing a large asset transfer to the poorest Indian households. In a randomized controlled trial that follows these households over ten years, we find positive effects on consumption (0.6 SD), food security (0.1 SD), income (0.3 SD), and health (0.2 SD). These effects grow for the first seven years following the transfer and persist until year ten. One main channel for persistence is that treated households take better advantage of opportunities to diversify into more lucrative wage employment, especially through migration. (JEL I32, I38, J22, J31, O12, O18) Development economics has long posited that the poor may be poor for no good reason other than the fact that they started poor (for some early work see <ref type="bibr" target="#b19">Leibenstein 1958</ref><ref type="bibr" target="#b15">, Dasgupta and Ray 1986</ref><ref type="bibr" target="#b10">, Banerjee and Newman 1993</ref><ref type="bibr" target="#b16">, and Galor and Zeira 1993)</ref>. This is the idea of a poverty trap, which has the implication that a one-time capital grant that makes very poor households significantly less poor ("big push") might set off a virtuous cycle that takes them out of poverty. Forty-three countries now embrace some version of this idea and make large transfers to over 3.1 million of their poorest households. 1 In particular, the "Targeting the Ultra Poor" (TUP) intervention, pioneered by BRAC in Bangladesh, employs a multifaceted approach, offering poor households an asset transfer, consumption support, savings, and training in the hopes of unlocking a poverty trap.</p><p xml:id="_Eyr6F5f">Short-and medium-run evaluations across a number of contexts find large and positive treatment effects of the TUP program on poor households' economic well-being, including on measures of net worth, income, consumption, and health <ref type="bibr" target="#b6">(Banerjee et al. 2015</ref><ref type="bibr" target="#b2">, Bandiera et al. 2017</ref><ref type="bibr" target="#b11">, Bedoya et al. 2019)</ref>. The policy push for these programs was in large part based on these evaluations, which showed that if 1 Partnership for Economic Inclusion State of the Sector report, 2018.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="504.0" lry="720.0"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="504.0" lry="720.0"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="504.0" lry="720.0"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="504.0" lry="720.0"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="504.0" lry="720.0"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="504.0" lry="720.0"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="504.0" lry="720.0"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="504.0" lry="720.0"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="504.0" lry="720.0"/>
+		<surface n="10" ulx="0.0" uly="0.0" lrx="504.0" lry="720.0"/>
+		<surface n="11" ulx="0.0" uly="0.0" lrx="504.0" lry="720.0"/>
+		<surface n="12" ulx="0.0" uly="0.0" lrx="504.0" lry="720.0"/>
+		<surface n="13" ulx="0.0" uly="0.0" lrx="504.0" lry="720.0"/>
+		<surface n="14" ulx="0.0" uly="0.0" lrx="504.0" lry="720.0"/>
+		<surface n="15" ulx="0.0" uly="0.0" lrx="504.0" lry="720.0"/>
+		<surface n="16" ulx="0.0" uly="0.0" lrx="504.0" lry="720.0"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_ABPNnwQ"><p xml:id="_MDPG9Fp">the results were persistent over time, in the long run, the program benefits would be larger than the (considerable) initial costs. <ref type="bibr" target="#b1">Balboni et al. (2020)</ref> provide evidence that the pattern of short-and medium-run impacts in Bangladesh is indeed consistent with the presence of a poverty trap: if the program pushes household wealth above some threshold, households escape poverty, but if they were too poor to start with, they slide back into poverty.</p><p xml:id="_Jmq79wq">However, evidence of long-term impacts of such programs remains scarce. This paper fills this gap by tracking the four-, seven-, and ten-year impacts of a TUP program in West Bengal, India. Observing both treatment and control households over time is key to establishing the existence (or the lack thereof) of a poverty trap because it tells us whether households would have escaped poverty on their own over many years absent any intervention through their own efforts, potentially aided by larger, macroeconomic, tides that "raise all boats."</p><p xml:id="_KmMmpAQ">The results show large improvements in household well-being even for those who were not assigned to the program. Average household per capita consumption was $1.35 (2018 PPP) at baseline in the control group and $2.90 by year ten. Nevertheless, measures of economic well-being (consumption, wealth, health, income) improve significantly and substantially faster among treated households until year seven from the asset transfer, and the resulting treatment control gap persists between years seven and ten. Their per capita consumption is $0.60 per day (0.6 standard deviations) higher than the control group at both years seven and ten, and income is 0.3 standard deviations higher. This temporal pattern of growing effects followed by persistence is consistent with the alleviation of a poverty trap, what BRAC describes as the graduation of treated households. However, it is also consistent with there being persistent effects without actually getting out of a trap: the control households do become less poor over time, and the treatment households are still not very rich by the time the treatment effect stabilizes (although their average consumption is above the World Bank threshold for "moderate poverty"). It would take an even longer follow-up to conclude that the treatment households have reached a permanently higher steady state.</p><p xml:id="_rzGzYpz">What are the actual channels through which the effect of a one-time shock persists? This is the subject of much theoretical work (see, for example, <ref type="bibr" target="#b15">Dasgupta and Ray 1986</ref><ref type="bibr" target="#b10">, Banerjee and Newman 1993</ref><ref type="bibr" target="#b16">, Galor and Zeira 1993</ref><ref type="bibr">, and Banerjee 2000, among others)</ref>. These papers emphasize the idea that poor households are unable to reach the threshold level of investment at which productivity rises steeply, either because they cannot raise or save enough capital or because they are unwilling to absorb the accompanying increase in risk. The capital grant pushes them over that threshold, and as a result their income goes up sharply, allowing them to sustain the new higher level of investment. A more recent literature emphasizes psychological factors: becoming wealthier makes households more optimistic about the future and therefore more willing to save and/or put in effort <ref type="bibr" target="#b3">(Banerjee and</ref><ref type="bibr">Mullainathan 2010, Genicot and</ref><ref type="bibr" target="#b17">Ray 2017)</ref> or more able to focus and make good decisions <ref type="bibr" target="#b20">(Mullainathan and Shafir 2013)</ref>.</p><p xml:id="_h7dHgDh">These models conceptualize the effect of the big push as a one-time shift to a different mode of production. Our data, on the other hand, suggest a more complex dynamic response: initially (that is, at 18 months) these TUP beneficiaries are mainly richer because they have the asset that was transferred (mainly livestock). At three years they have diversified into new businesses in addition to the livestock and have significantly more earnings from nonfarm microenterprises than the control group. This divergence gets even more amplified by year seven, when the nonfarm microenterprise earnings in treatment are nearly twice that in control. However, we also see the emergence of a third major source of divergence: wage income. There is no treatment effect on wage earnings at 18 months or three years, but by year seven, the gap between treatment and control is the same order of magnitude as the effect on nonfarm microenterprises and twice the impact on livestock earnings. This seems to be almost entirely driven by a difference in the earnings of migrants from the family between treatment and control households.</p><p xml:id="_sJHsbwk">By year ten, we see another shift. The treatment effect on nonfarm microenterprises attenuates relative to year seven (though it is still higher than in year three), but the effect on remittances more than doubles. In other words, the household is increasingly specialized in labor earnings, coming mainly from migrants.</p><p xml:id="_vstzKdq">These multiple shifts are not per se inconsistent with the theory since the idea of the production technology in these models is sufficiently abstract to accommodate doing different things at different points of time. However, it does provide a quite different perspective on what is going on. The first transition, from livestock to nonfarm microenterprises, may not be particularly surprising since the households were not given much choice on what assets they can get from the program and they can use the earnings from the livestock to fund a move toward what they see as a better opportunity. The shift toward more labor earnings demands more of an explanation since in many models (for example, Banerjee and Newman 1993) the labor market is seen as the alternative that can be accessed even by those who have no capital. However, migration often requires an upfront investment <ref type="bibr" target="#b13">(Bryan, Chowdhury, and Mobarak 2014)</ref>, and it is possible that treated households are better placed to pay for that.</p><p xml:id="_gScAPuC">This last observation has another important implication: while it is of course true that a macro shock that creates new opportunities for everyone can eliminate a poverty trap and therefore make a TUP-like intervention unnecessary, it is also possible that the intervention made it easier to take advantage of new opportunities. This kind of macro shift seems to have transpired in our setting: in the control group wage earnings go up by a factor of three between the first endline (at 18 months) and the last (at ten years), probably because of a combination of growth in India and a demographic shift, coming from the fact that the children of the women who were selected for the study are now old enough to enter the labor market. However, the treatment group is better able to take advantage of these new opportunities-for one, compared to the control group, members of treated families are less likely to migrate to the nearest big city, Kolkata, as compared to urban centers farther away,<ref type="foot" target="#foot_0">foot_0</ref> and they migrate for longer. By year seven, wage earnings are almost 30 percent larger in the treatment group.</p><p xml:id="_CABwhmr">This could be because they have more access to capital, and migrating (especially migrating far) is expensive. Or it could be that they are better informed or more confident as a result of the head start they receive <ref type="bibr">(Banerjee et al. 2018</ref> make the case that the TUP intervention in Ghana raises labor supply through such psychological mechanisms). Whatever the explanation, the important insight is that an intervention like TUP might empower beneficiaries to take better advantage of whatever new opportunities arise over time, and for that reason, positive macroeconomic shifts may be complementary to a big-push intervention rather than a substitute.</p><p xml:id="_2PgBfaj">This paper is most closely related to a small number of recent papers studying whether a one-time positive shock has a long-term impact on the lives of the poor. The closest two are perhaps <ref type="bibr" target="#b12">Blattman, Fiala, and Martinez (2020)</ref>, who find that a big-push intervention in Uganda has a large impact four years after the intervention that disappears by year nine as the control group catches up with the treated group due to opportunities for wage employment, and <ref type="bibr" target="#b2">Bandiera et al. (2017)</ref>, who study TUP in Bangladesh and find a positive impact seven years after the intervention, using a combination of experimental and nonexperimental methods to deal with the fact that the control group was treated in year four.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_6sPArMh">I. Experimental Design and Data</head><p xml:id="_sua66A2">The nongovernmental organization Bandhan ran the TUP program in West Bengal starting in 2007. The poorest households were identified in two steps. First, residents across 120 village hamlets ranked households into five wealth quintiles. Among households ranked in the bottom quintile, Bandhan then verified eligibility per seven criteria: (i) presence of an able-bodied female member (to manage the asset), (ii) no credit access, (iii) landholding below 0.2 acres, (iv) no ownership of productive assets, (v) no able-bodied male member, (vi) presence of school-aged children who were working instead of attending school, and (vii) primary source of income being informal labor or begging. Households had to meet the first two criteria and at least three of the remaining five in order to be eligible for the TUP intervention. In total, 978 households were deemed eligible. Roughly half of these (514) were randomly assigned to receive the intervention, with stratification at the hamlet level. Of these, only 266 accepted treatment. All reported estimates are intent-to-treat estimates.</p><p xml:id="_tmNCPjp">Households in the treatment group who chose to participate chose a productive asset from a menu of options (two cows, four goats, one cow and two goats, nonfarm microenterprise inventory, etc). About 82 percent chose livestock. In addition to the asset, they received weekly consumption support for 30-40 weeks,<ref type="foot" target="#foot_1">foot_1</ref> access to savings, and weekly visits from Bandhan staff over a span of 18 months. These visits were designed to deliver training on generating income from the chosen asset, lifeskills coaching, and health information. Bandhan had no contact with beneficiary households starting 18 months after the asset transfer. 4  To collect information on baseline household characteristics, the research team administered a survey prior to the distribution of assets in 2007-2008, recording household demographics, consumption, food security, asset ownership, income, income sources, financial inclusion, adult time use, and physical and mental well-being. Online Appendix Table <ref type="table" target="#tab_1">A2</ref> confirms balance between treated and control households on baseline characteristics. Treated households had on average 3.9 members, including 1.6 children under 14 years old. They had monthly per capita consumption of $40 (2018 US dollar purchasing power parity, or PPP) and owned less than 0.1 acres of land. The median TUP recipient was a female aged 44 years old in 2007.</p><p xml:id="_nMzvhYu">We track economic and health outcomes for treated and control households through four subsequent survey waves administered at 18 months, 3 years, 7 years, and 10 years following the transfer of productive assets. These surveys capture the same information as described previously. Importantly, to study if constraints are alleviated intergenerationally, we track economic outcomes (income sources, migration, remittances) for all household members and not just the TUP recipient. All program activities had ceased by the first endline survey. Online Appendix Table <ref type="table" target="#tab_0">A1</ref> details the timeline of program and survey activities.</p><p xml:id="_r7xt8jU">Of 978 original households, 71 percent are tracked across all 4 survey waves (83 percent in endline 1, 89 percent in endline 2, 88 percent in endline 3, 90 percent in endline 4). Online Appendix Table <ref type="table" target="#tab_2">A3</ref> shows that attrition is not systematically different between treated and control households, and Table <ref type="table">A7</ref> shows that results are unchanged when restricting to households tracked across all four waves.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_skr7sxJ">II. Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_4swtXqF">A. Long-Term Effects of the TUP Program</head><p xml:id="_HpgNY4C">Empirical Strategy.-First, we consider how the TUP intervention affects households' economic well-being over time. Our results estimate TUP's causal effects on five economic indices capturing household wealth, per capita consumption, food security, financial inclusion, and income and revenues at the time of each of the four survey waves. These indices are constructed using the same methodology as in <ref type="bibr" target="#b6">Banerjee et al. (2015)</ref>, which studied the TUP's impact three years after the delivery of assets.</p><p xml:id="_8hRsgux">All indices are created by first constructing z-scores (that is, subtracting the baseline mean and dividing by the baseline standard deviation) for each variable, averaging over all variables that comprise the index, and standardizing to the baseline value of the index. Results are reported in units of baseline standard deviations of the index. One exception is the income and revenue index, for which we do not have baseline information about some subcomponents; it is therefore standardized to the control mean, and results are reported in units of control group standard deviation. The variables used in the construction of each index are described in detail in the following section.</p><p xml:id="_ctMbMtZ">Since the program was randomly assigned, the following regression specification estimates causal average treatment effects at each survey wave t :</p><p xml:id="_qvenUAv">(1)</p><formula xml:id="formula_0">Y iht = α 1t + β 1t Trea t i + κ 1t Y ihbaseline + γ 1ht + ϵ iht ,</formula><p xml:id="_SmvkFk8">where Y iht is the outcome of interest for household i residing in hamlet h during survey wave t . The coefficient β 1t on an indicator for treatment Trea t i at time t provides the average treatment effect of the program on studied outcomes at that wave. Since treatment was stratified by hamlet, all specifications include hamlet fixed effects ( γ 1h ). The specification controls for the baseline value of the outcome ( Y ihbaseline )</p><p xml:id="_mC5xRSw">and reports heteroskedasticity-robust standard errors. Similar regressions are estimated with individual-level outcomes (index of physical health, mental health, productive time use, and political involvement of adult members) with standard errors clustered by household. Both household and adult outcomes (variables in Table <ref type="table" target="#tab_0">1</ref>) are the same as in <ref type="bibr" target="#b6">Banerjee et al. (2015)</ref>, with the time frame extended to ten years post asset transfer. <ref type="foot" target="#foot_3">5</ref>The effect on political involvement is reported in online Appendix Table <ref type="table" target="#tab_3">A4</ref> because of column restrictions. Notes: Monthly per capita consumption and monthly household income are reported in 2018 US dollars corrected for PPP. Food security is reported in terms of the share of households reporting that every household member gets enough food every day. Per capita consumption is constructed using a detailed consumption module asking about households' food, nonfood, and durable purchases. Income sums over income earned by each individual member from various activities in a typical month, as reported in the household roster, and remittances received by the household. Ninety-five percent confidence intervals are reported.</p><p xml:id="_WvzPcAU">53 61 67 73 73 96 87 106 40 60 80 100 120 Monthly per capita consumption (2018 US dollar PPP) Control Treated 144 170 271 313 412 617 497 680 0 200 400 600 800 Monthly income (2018 US dollar PPP) 11 21 42 57 59 80 70 80 0 20 40 60 80 Every HH member gets enough food every day (percent)</p><p xml:id="_AujED9E">Month 18 Year 3 Year 7 Year 10 Month 18 Year 3 Year 7 Year 10 Month 18 Year 3 Year 7 Year 10 Panel A. Per capita consumption (2018 US dollar PPP) Panel C. Income (2018 US dollar PPP) Panel B. Every household member gets enough to eat every day (percent)</p><p xml:id="_4Kvfp46">group consumes $1.35 at baseline,<ref type="foot" target="#foot_4">foot_4</ref> $1.80/day by 18 months, $2.20/day by year three, $2.40/day by year seven, and $2.90/day by year ten. Per the World Bank's official definition of poverty, they move on average from a state of extreme poverty (under $2.10/day) to a moderate one (under $3.50/day). <ref type="foot" target="#foot_5">7</ref> The treated group consumes the same as control at baseline but consistently more across all four endline surveys: $2/day by 18 months, $2.50/day by year three, $3.10/day by year seven, and $3.53/day by year ten. Thus, by year ten, the treatment group's average reaches just beyond moderate poverty. Panel B plots another marker of extreme poverty: the share of households reporting that all household members had enough to eat for all days. In the control group, this variable increases from 10 percent to 70 percent between baseline and year 10, a considerable improvement. The treatment group does better every year, with treatment effects that are increasing until year seven and stabilizing between years seven and ten.</p><p xml:id="_8gHzpkZ">Panel C tracks income: control households earn $144 per month by 18 months, $271 by year three, $412 by year seven, and $497 by year ten. Treated households earn more per month on average than the control group at each of the four endlines: $170 by 18 months, $313 by year three, $617 by year seven, and $680 by year ten.</p><p xml:id="_Df9emJY">Household Outcomes: Table <ref type="table" target="#tab_0">1</ref> (columns 1-5) reports the TUP program's effects on households' economic well-being. The program had large, positive, and growing effects on wealth, income, consumption, and food security over the first seven years following the asset transfer. The effects on consumption, income, and food security persist even ten years later.</p><p xml:id="_nTPRsN2">The asset index in column 1 is constructed using principal component analysis aggregating ownership of livestock, other productive assets (for example, a bicycle or sewing machine), and durable household items (for example, a television or refrigerator). Treated households have 0.2 SD higher asset ownership than the control group at 18 months ( p &lt; 0.05 ) and 0.4 SD higher asset ownership at three years ( p &lt; 0.01 ). This effect grows to 0.8 SD by seven years ( p &lt; 0.01 ).</p><p xml:id="_GVskedt">Treatment effects on assets at year ten continue to be positive (0.35 SD) but smaller than in year seven. This is largely attributable to treated households diversifying out of livestock and nonfarm microenterprises and into labor income. We document the magnitude and importance of these changes in the following section.</p><p xml:id="_K7pPDp4">Per capita consumption in column 2 is constructed using a detailed consumption module asking about households' food, nonfood, and durable purchases. It rises among treated households for the first seven years following asset transfer, being 0.3 SD higher than the control group at 18 months and three years ( p &lt; 0.01 ) and growing to 0.7 SD higher at seven years. It remains persistently higher by 0.6 SD at ten years ( p &lt; 0.01 ).</p><p xml:id="_zTfKeSz">The food security index in column 3 aggregates whether everyone in the household gets enough food every day, whether it is not the case that any adult skipped a meal in the last year, that no household member went without food for a day, no children skipped meals, and everyone in the household regularly ate two meals a day. Treated households are 0.2 SD more food secure than the control group by 18 months and 0.25 SD by year three ( p &lt; 0.01 ). This effect grows to 0.4 SD by year seven and remains at 0.13 SD by year ten ( p &lt; 0.05 ). Notes: Robust standard errors are shown in parentheses. They are clustered by household for adult outcomes. The components of indices are described in detail in Section IIIA. Columns 1-5 refer to household-level outcomes and 6-8 refer to adult-level outcomes. The asset index is constructed by first performing principal component analysis on the constituent components, and then creating a z-score with respect to the baseline value of the index (that is, subtracting the baseline mean of the index and dividing by its baseline standard deviation). The per capita consumption, food security, financial inclusion, physical health, mental health, productive time, and political involvement indices are constructed by first constructing component-wise z-scores (that is, subtracting the baseline mean and dividing by the baseline standard deviation), averaging the z-scores, and then standardizing by the baseline value of the index (that is, subtracting the baseline mean of the index and dividing by its baseline standard deviation). Thus, all coefficients are reported in units of baseline standard deviation of the index. The income and revenues index does the analog by standardizing to the control group, that is, coefficients are reported in units of endline standard deviations of the control group (since not all components were measured at baseline). Time use is reported in minutes. To correct for multiple hypothesis testing, we calculate q-values per the Benjamini-Hochberg step-up method; reported q-values indicate the smallest false discovery rate at which the null hypothesis of zero effect is rejected.The political involvement index is not reported here due to space restrictions but is included in the online Appendix. It is included for calculating adjusted q-values. All specifications include baseline controls and hamlet-level fixed effects.</p><p xml:id="_4jfcmFw">finding similar patterns of growth and persistence by years seven and ten, respectively, for consumption and declining impact on food security, probably coming from an improvement in the situation in the control group, as shown in Figure <ref type="figure">1</ref>. The index in column 4 aggregates measures of income from livestock ownership, microenterprise, and other self-and wage-employment activities of household members (including remittances) as reported in the household roster. Treated households earn 0.14 SD more than the control group by 18 months and 0.17 SD by year three ( p &lt; 0.05 ). This effect grows to 0.3 SD by year seven and persists at this level until year ten ( p &lt; 0.01 ).</p><p xml:id="_U98zFuq">Finally, we explore the program's effect on an index of financial inclusion by aggregating monthly loans and savings in column 5. While the point estimates are positive and economically meaningful in size (0.12 SD at year ten), they are statistically indistinguishable from zero.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_5XCFkK6">Individual Outcomes:</head><p xml:id="_45RC7jQ">We next turn to the TUP program's effects on adult household members' physical health, mental health, productive work, and political involvement. We find a pattern of growing effects until year seven followed by persistence until year ten, similar to household-level outcomes. Table <ref type="table" target="#tab_0">1</ref>, columns 6-8, and online Appendix Table <ref type="table" target="#tab_3">A4</ref> report results. The physical health index in column 6 combines measures of individuals' perceived health, whether the individual missed a day of work in the past month due to poor health, and an activities-of-daily-living score. Physical health of treated household members is 0.06 SD higher by 18 months ( p &lt; 0.05 ); this grows to 0.13 SD by year seven and 0.19 SD by year ten ( p &lt; 0.01 ).</p><p xml:id="_83HyGk5">The mental health index in column 7 aggregates measures of life satisfaction, feelings of sadness, and periods of worry. It improves by 0.1 SD for treated households by 18 months, growing to 0.25 SD by year seven and remaining at this level until year ten ( p &lt; 0.01 ).</p><p xml:id="_HY6QHBf">Adults in treated households also spend more time on productive activities (column 8): on average 0.285 SD (60 more minutes) by 18 months, 0.1 SD (21 more minutes) by year three, and 0.15 SD (30 more minutes) by year seven and year ten ( p &lt; 0.01 ).</p><p xml:id="_AKTYCDh">We find no effect on political involvement, which aggregates whether they voted in the last election and ever approached a gram pradhan (village head) or booth member about village needs. the path of gains over time resembled that in India (that is, if they increased in the same proportion between years three and seven and years seven and ten). In Ghana, the program would almost break even (95 percent), and in Peru it would not. Of course, it remains to be seen whether such persistent benefits also occur in these different settings. As mentioned, Blattman, Fiala, and Martinez (2020) study a cash transfer program in Uganda, where there is a large impact at year four that vanishes by year nine. C. Channels of Persistence Diversification in Household Activities.-To explore the forces underlying the treatment effects at various points in time, we document changes in the composition of households' economic activities and income.</p><p xml:id="_2GMG7cr">Table <ref type="table" target="#tab_2">3</ref> decomposes treatment effects on household income into those attributable to revenue from livestock, microenterprise and self-employment, and wages. <ref type="foot" target="#foot_7">8</ref>Income is reported in 2018 US dollars corrected for PPP. Three clear and distinct patterns emerge regarding the relative importance of each source over time.</p><p xml:id="_ycB4zby">First, TUP households are initially able to leverage transferred livestock to earn higher income than the control group. Monthly livestock revenue among the treated is $10 and $8 higher than control at 18 months and three years following the transfer (column 1). This pattern continues through to year seven, when they earn $27 more livestock revenue than control ( p &lt; 0.01 ). The finding of higher livestock income even seven years following the asset transfer is consistent with <ref type="bibr" target="#b2">Bandiera et al. (2017)</ref>, who find something similar in Bangladesh. However, the difference in livestock earnings between treated and control groups falls to $17 by year ten, and the main source of earnings gains shifts away from livestock.</p><p xml:id="_PscgZwr">Second, treatment households relative to control households show increased diversification into nonfarm microenterprises. Net earnings from these enterprises are constructed from reports of household members' microbusiness earnings in the household roster. Column 2 shows that by year three, treated households earn $25 more from nonfarm microenterprises than their counterparts in control ( p &lt; 0.01 ). This effect is amplified by year seven, with treated households having $68 greater business earnings than the control group ( p &lt; 0.01 ). Treated households' businesses earnings are 70 percent higher than the control group at this time, and the treatment effect size is over twice that on livestock revenue, highlighting the importance of diversification in sustaining greater earnings for TUP households over time. However, this effect declines by year ten, paving way for a new occupational shift into wage income.</p><p xml:id="_bqNynnn">Column 3 reports the total of individual members' earnings from various economic activities reported in the household roster (other than livestock and business, these include, among others, fishery and horticulture). Observed patterns are broadly consistent with the previously described trend, that is, that the impact on self-employment earnings is initially low (at 18 months), grows to $108 (including livestock, business) by year seven ( p &lt; 0.01 ), and then falls marginally between years seven and ten.</p><p xml:id="_rfDsT8A">Third, the other main source of income diversification is wage employment. Column 4 shows that households are diversifying away from activities that require asset ownership. The treatment effect on the productive asset index, constructed using principal component analysis and then standardized to baseline, at first rises until year seven and then falls between years seven and ten. 9</p><p xml:id="_XQaxAc6">9 Productive assets include livestock, bicycle, sewing machines, and such. Notes: Robust standard errors are shown in parentheses. All values are in 2018 US dollar PPP. Column 1 reports revenue from the sale of livestock or livestock products in an average month. Column 2 reports the sum of household members' earnings from microenterprise in a typical month, as reported in the household roster. Column 3 reports self-employment income in a typical month, calculated as the sum of income earned by each individual member from various self-employment activities, as reported in the household roster. Column 4 reports an index of productive assets, constructed by first performing principal component analysis on the constituent components and then creating a z-score with respect to the baseline value of the index (that is, subtracting the baseline mean of the index and dividing by its baseline standard deviation). The components of this index are described in detail in Section IIIA. Columns 5-6 sum over income earned by each individual member from various activities in a typical month, as reported in the household roster. Wages comprise the sum of household members' earnings from agricultural labor, casual labor, and salaried employment. We sum over locally earned wage income as reported in the household roster and x times the remittances sent back as a migrant worker. We vary x to reflect different assumptions about the share of a migrant's earnings that are remitted back to a household: 100 percent remitted (column 5) or earning as much as they would in the village over a typical month (column 6). Column 7 reports the monthly average of remittances sent back by migrant members of a household. We do not collect data on remittances at the 18 month survey. Column 8 reports a measure of economic satisfaction on a scale of 1-10. All specifications include baseline controls and hamlet-level fixed effects.</p><p xml:id="_CsHGaMa">Columns 5-6 track treatment effects on wage income over time. Wages comprise the sum of household members' earnings from agricultural labor, casual labor, and salaried employment. They sum over individual members' locally earned monthly wages and x times the remittances they send back as migrant workers. We ask the total annual remittance sent back and divide by 12 to get the monthly value. We report wage earnings assuming migrants remit 100 percent (column 5). As an alternative we assume that they make the average amount they say they make in a typical month (column 6), ignoring the fact that this combines months that they are in the village and months that they are not.</p><p xml:id="_2rKYrHc">A consistent pattern emerges, robust across assumptions. Monthly wage income of treated households (including remittances) is at first no higher than that of the control group at 18 months or three years. By year seven, however, it grows to $ 76-89 ( p &lt; 0.01 ), which is the same order of magnitude as nonfarm microenterprise income. The magnitude of these gains also remains high in year ten. Column 7 shows that about a third of the effect over the long run (year ten) is driven by remittances sent back by migrant workers from treated households. The finding of diversifying into higher-paying wage employment is distinct from <ref type="bibr" target="#b2">Bandiera et al. (2017)</ref>, who find in Bangladesh that the TUP program enables households to transition away from low-wage casual employment in the village to higher-earning livestock activities. Similarly, <ref type="bibr" target="#b14">Crépon et al. (2015)</ref> find that microcredit spurs substitution away from casual wage employment and into self-employment. One possible explanation is that in our context, wage employment-especially among migrants-pays more than self-employment, while casual wage employment in Bangladesh or Morocco does not. Indeed, while they still work as casual laborers (we see very few earning money from business or salaried employment), the average migrant has 12 times the earnings of a nonmigrant earning household member typically engaged in self-employment activities. Finally, column 8 confirms that income increases among treated households are reflected in their own assessment of their economic situation: on a scale of 1-10, they rank themselves 1.6 (year seven) and 0.65 (year ten) points higher than the control group on economic satisfaction.</p><p xml:id="_VRxMJYP">Taken together, earnings patterns reflect a changing composition of economic activities for the treated group. The program at first enables them to increase their incomes through the transferred assets. Over the long run, treated households are able to translate these early gains into greater income from more lucrative opportunities for microbusiness and, especially, wage employment.</p><p xml:id="_W7exFQc">Migration.-As we saw, accounting for migration is important for the magnitude of treatment effects; absent this, the program's effect on wage income is underestimated by 30-50 percent (Table <ref type="table" target="#tab_2">3</ref>, columns 5-6). Similarly, not accounting for migration underestimates treatment effects on per capita consumption by 10-30 percent (Table <ref type="table" target="#tab_1">2</ref>, columns 1-2). Column 1 of Table <ref type="table" target="#tab_1">2</ref> estimates the treatment effect on consumption excluding migrant members, while column 2 assumes migrants consume the household average. The contribution of migrant workers to the treatment effect on consumption is thus likely an underestimate since migrants are traveling away from the village and probably consume more than those left behind.</p><p xml:id="_GTkF36e">Given its importance, we explore treatment effects on the nature of migration and migrant characteristics in Table <ref type="table" target="#tab_3">4</ref>. Columns 1 and 2 show that the TUP does not have a statistically significant effect on the share of households with migrants and the number of migrant workers. However, those who do migrate from treated households migrate for 25 days longer on average by year ten, which is 20 percent higher than the control group average (column 3). They are also less likely to migrate to Kolkata (14 percent points, column 4) but no less likely to migrate to an urban area (column 5), suggesting they travel farther away. While Kolkata is the largest city in West Bengal, Delhi is the most prominent destination for out-of-state migrants and one of the two biggest economic powerhouses of India (along with Mumbai) (India Ministry of Finance 2017).</p><p xml:id="_EZDVbeU">Migrating for longer and going to urban centers farther away than Kolkata translates into higher earnings for these migrant workers, as already indicated by higher remittances in Table <ref type="table" target="#tab_2">3</ref>.</p><p xml:id="_GyDszYJ">Finally, we explore whether these earnings differences might be explained by the productivity of migrant workers or by what they do at their destinations. The evidence suggests that these differences in productivity are not driven by what migrants do as coded in our data: treated household migrants are no more likely to be working in business activities or formal work (column 7). However, even if they do the same thing, they do it in different locations as we saw, and this means that the average earnings of those who migrate in treatment households are higher than average earnings of those in control households-they earn on average $89 more in a typical month in year seven and $51 in year ten (column 6).</p><p xml:id="_fFn983J">Treatment Effects against the Backdrop of Macroeconomic Changes.-The ten years of the study correspond with rapid growth in wages, income, and consumption in this context. This is best seen through the large improvements among control group households over this time period: by year ten, these households consume about twice as much as their baseline selves and have higher food security, with 70 percent reporting having enough food for every household member compared with 10 percent at baseline (Figure <ref type="figure">1</ref> and Table <ref type="table" target="#tab_1">2</ref>). They also earn over three times as much at year ten as their historical selves at 18 months following asset transfer (Figure <ref type="figure">1</ref> and Table <ref type="table" target="#tab_1">2</ref>). This appears predominantly driven by opportunities for migration and wage employment arising naturally over the course of the study. The former rises from 40 to 120 days on average (Table <ref type="table" target="#tab_3">4</ref>) and the latter by 3.7 times between month 18 and year ten (Table <ref type="table" target="#tab_2">3</ref>, columns 5-6).</p><p xml:id="_wsWTaQs">Even so, treated households maintain higher income (and, consequently, consumption and health) compared with the control even ten years after the TUP program. Young members of these households appear better able to take advantage of available opportunities. This is in contrast to <ref type="bibr" target="#b12">Blattman, Fiala, and Martinez (2020)</ref>, who find in the context of a cash transfer program for youth in Uganda that the comparison group is completely able to catch up with the treated group due to earnings opportunities generated outside the intervention. In contrast, our findings suggest that the multifaceted TUP program might be a complement to macroeconomic changes inducing poverty alleviation rather than a substitute.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_5ZkyfMJ">III. Conclusion</head><p xml:id="_kvNTpSb">This study finds that the TUP big-push intervention has a positive impact on the well-being of the poorest households over the long run, even ten years after asset transfer. It improves their consumption, income, and health at a growing rate for the first seven years and appears to durably lift them out of extreme poverty. The fact that the treatment effect on consumption and income grows until year seven and then stays high is consistent with the alleviation of a poverty trap: households receiving the asset transfer and accompanying consumption and savings support are able to sustain and improve investments, earnings, consumption, and their health over time. Just as in common models of poverty traps, receiving the program enables households to diversify their sources of income. Initially higher earnings due to the asset enable investing in nonfarm microbusinesses and pursuing opportunities for wage employment, both locally and in cities farther away. TUP households take greater advantage of opportunities for income gains, such as migration, that arise naturally in the course of time, migrating farther away, for longer, and earning more than other households. Of course, despite these gains, by year ten, treatment households have barely escaped poverty (their average daily consumption per capita rose from $1.35 at baseline to $3.53 at PPP, just above the World Bank moderate poverty line). Meanwhile, while control members are still poor, this is less true than when the program started. They may eventually catch up. Still, regardless of whether they have permanently escaped a poverty trap, at least in the Indian context, the TUP, for a one-time intervention, had a remarkably durable impact.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><figDesc xml:id="_WcaCJtV">Figure 1. Consumption and Income over Time</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 -</head><label>1</label><figDesc xml:id="_zU2MxSw">Table 2 disaggregates treatment effects on consumption and food security into individual components, Effect on Household and Adult Outcomes</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell>Food</cell><cell>Income</cell><cell>Financial</cell><cell>Physical</cell><cell>Mental</cell><cell>Productive</cell></row><row><cell></cell><cell>Asset</cell><cell>Per capita</cell><cell>security</cell><cell>and</cell><cell>inclusion</cell><cell>health</cell><cell>health</cell><cell>time</cell></row><row><cell></cell><cell>index</cell><cell>consumption</cell><cell>index</cell><cell>revenues</cell><cell>index</cell><cell>index</cell><cell>index</cell><cell>use</cell></row><row><cell></cell><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell><cell>(4)</cell><cell>(5)</cell><cell>(6)</cell><cell>(7)</cell><cell>(8)</cell></row><row><cell cols="2">Panel A. Endline 1 (18 months) Treatment 0.217 (0.111) q-value 0.041</cell><cell>0.311 (0.076) 0.001</cell><cell cols="4">0.184 (0.048) (0.075) 0.145 -0.004 (0.042) (0.028) 0.061 0.001 0.041 0.262 0.028</cell><cell>0.115 (0.029) 0.001</cell><cell>0.285 (0.049) 0.001</cell></row><row><cell>Control mean Baseline mean Observations</cell><cell>-0.20 -0.00 679</cell><cell>0.35 -0.00 813</cell><cell>0.35 -0.00 812</cell><cell>0.00 814</cell><cell>0.14 -0.00 812</cell><cell>0.12 -0.00 1,504</cell><cell>0.32 -0.00 1,502</cell><cell>0.23 -0.00 1,504</cell></row><row><cell cols="2">Panel B. Endline 2 (three years) Treatment 0.389</cell><cell>0.292</cell><cell>0.251</cell><cell>0.172</cell><cell>0.192</cell><cell>0.027</cell><cell>0.012</cell><cell>0.102</cell></row><row><cell>q-value</cell><cell>(0.103) 0.001</cell><cell>(0.079) 0.001</cell><cell cols="2">(0.059) (0.071) 0.001 0.015</cell><cell cols="2">(0.062) (0.027) 0.003 0.160</cell><cell>(0.037) 0.334</cell><cell>(0.044) 0.018</cell></row><row><cell>Control mean Baseline mean Observations</cell><cell>-0.25 -0.00 875</cell><cell>0.85 -0.00 875</cell><cell>0.94 -0.00 875</cell><cell>-0.00 875</cell><cell>0.30 -0.00 875</cell><cell>0.21 -0.00 1,757</cell><cell>0.75 -0.00 1,757</cell><cell>0.28 -0.00 1,756</cell></row><row><cell cols="2">Panel C. Endline 3 (seven years) Treatment 0.814</cell><cell>0.717</cell><cell>0.431</cell><cell>0.334</cell><cell>0.181</cell><cell>0.130</cell><cell>0.249</cell><cell>0.165</cell></row><row><cell>q-value</cell><cell>(0.132) 0.001</cell><cell>(0.125) 0.001</cell><cell cols="2">(0.062) (0.070) 0.001 0.001</cell><cell cols="2">(0.135) (0.031) 0.047 0.001</cell><cell>(0.042) 0.001</cell><cell>(0.044) 0.001</cell></row><row><cell>Control mean Baseline mean Observations</cell><cell>-0.46 -0.00 807</cell><cell>1.09 -0.00 867</cell><cell>1.09 -0.00 867</cell><cell>0.00 869</cell><cell>0.67 -0.00 867</cell><cell>0.57 -0.00 1,906</cell><cell>1.09 -0.00 1,900</cell><cell>-0.04 -0.00 1,915</cell></row><row><cell cols="2">Panel D. Endline 4 (ten years) Treatment 0.346</cell><cell>0.579</cell><cell>0.127</cell><cell>0.264</cell><cell>0.121</cell><cell>0.187</cell><cell>0.203</cell><cell>0.148</cell></row><row><cell>q-value</cell><cell>(0.121) 0.005</cell><cell>(0.175) 0.002</cell><cell cols="2">(0.063) (0.080) 0.020 0.002</cell><cell cols="2">(0.152) (0.040) 0.105 0.001</cell><cell>(0.044) 0.001</cell><cell>(0.052) 0.005</cell></row><row><cell>Control mean Baseline mean Observations</cell><cell>-0.26 -0.00 885</cell><cell>1.61 -0.00 880</cell><cell>1.21 -0.00 885</cell><cell>0.00 885</cell><cell>1.08 -0.00 885</cell><cell>0.12 -0.00 1,229</cell><cell>0.76 -0.00 1,229</cell><cell>-0.02 -0.00 1,229</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 -</head><label>2</label><figDesc xml:id="_HBKsH4u">Monthly Consumption and Food Security</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Everyone</cell><cell>No one in</cell><cell></cell></row><row><cell></cell><cell>Per capita</cell><cell>Per capita</cell><cell></cell><cell></cell><cell>Per capita</cell><cell>in HH gets</cell><cell>the HH went</cell><cell>No</cell></row><row><cell></cell><cell>consumption,</cell><cell>consumption,</cell><cell>Per capita</cell><cell>Per capita</cell><cell>durable</cell><cell>enough</cell><cell>a whole</cell><cell>children</cell></row><row><cell></cell><cell>excl.</cell><cell>HH avg. c for</cell><cell>food</cell><cell>nonfood</cell><cell>goods</cell><cell>food every</cell><cell>day without</cell><cell>skipped</cell></row><row><cell></cell><cell>migrant</cell><cell>migrant</cell><cell>consumption</cell><cell>consumption</cell><cell>consumption</cell><cell>day</cell><cell>food</cell><cell>meals</cell></row><row><cell></cell><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell><cell>(4)</cell><cell>(5)</cell><cell>(6)</cell><cell>(7)</cell><cell>(8)</cell></row><row><cell cols="2">Panel A. Endline 1 (18 months) Treatment 7.554 (1.837) Control mean 49.25</cell><cell>8.196 (2.255) 52.77</cell><cell>5.362 (1.195) 33.28</cell><cell>2.133 (1.082) 15.97</cell><cell>-0.356 (0.374) 2.28</cell><cell>0.074 (0.025) 0.11</cell><cell cols="2">0.128 (0.030) (0.034) 0.032 0.68 0.75</cell></row><row><cell>Baseline mean</cell><cell>40.74</cell><cell></cell><cell>26.76</cell><cell>14.00</cell><cell>0.97</cell><cell>0.11</cell><cell>0.28</cell><cell>0.51</cell></row><row><cell>Observations</cell><cell>813</cell><cell>813</cell><cell>813</cell><cell>813</cell><cell>813</cell><cell>812</cell><cell>811</cell><cell>613</cell></row><row><cell cols="2">Panel B. Endline 2 (three years) Treatment 7.080</cell><cell>7.429</cell><cell>3.021</cell><cell>4.010</cell><cell>0.881</cell><cell>0.141</cell><cell>0.038</cell><cell>0.085</cell></row><row><cell>Control mean</cell><cell>(1.913) 61.37</cell><cell>(2.441) 66.59</cell><cell>(1.151) 37.54</cell><cell>(1.139) 23.83</cell><cell>(0.385) 1.93</cell><cell>(0.034) 0.42</cell><cell cols="2">(0.023) (0.025) 0.85 0.86</cell></row><row><cell>Baseline mean</cell><cell>40.74</cell><cell></cell><cell>26.76</cell><cell>14.00</cell><cell>0.97</cell><cell>0.11</cell><cell>0.28</cell><cell>0.51</cell></row><row><cell>Observations</cell><cell>875</cell><cell>875</cell><cell>875</cell><cell>875</cell><cell>875</cell><cell>875</cell><cell>875</cell><cell>636</cell></row><row><cell cols="2">Panel C. Endline 3 (seven years) Treatment 17.385</cell><cell>21.252</cell><cell>9.778</cell><cell>7.542</cell><cell>2.471</cell><cell>0.205</cell><cell>0.095</cell><cell>0.045</cell></row><row><cell>Control mean</cell><cell>(3.030) 67.15</cell><cell>(3.916) 72.95</cell><cell>(1.731) 37.76</cell><cell>(1.681) 29.40</cell><cell>(0.507) 2.27</cell><cell>(0.032) 0.59</cell><cell cols="2">(0.022) (0.026) 0.83 0.87</cell></row><row><cell>Baseline mean</cell><cell>40.74</cell><cell></cell><cell>26.76</cell><cell>14.00</cell><cell>0.97</cell><cell>0.11</cell><cell>0.28</cell><cell>0.51</cell></row><row><cell>Observations</cell><cell>867</cell><cell>867</cell><cell>867</cell><cell>867</cell><cell>867</cell><cell>867</cell><cell>867</cell><cell>546</cell></row><row><cell cols="2">Panel D. Endline 4 (ten years) Treatment 14.037 (4.242) Control mean 79.88</cell><cell>18.454 (5.390) 86.88</cell><cell>7.354 (1.595) 39.09</cell><cell>6.700 (3.438) 40.85</cell><cell>4.204 (1.845) 5.75</cell><cell>0.075 (0.029) 0.70</cell><cell cols="2">0.029 (0.026) (0.036) -0.031 0.78 0.84</cell></row><row><cell>Baseline mean</cell><cell>40.74</cell><cell></cell><cell>26.76</cell><cell>14.00</cell><cell>0.97</cell><cell>0.11</cell><cell>0.28</cell><cell>0.51</cell></row><row><cell>Observations</cell><cell>880</cell><cell>880</cell><cell>880</cell><cell>880</cell><cell>880</cell><cell>885</cell><cell>884</cell><cell>451</cell></row></table><note xml:id="_kaWa8sU"><p>Notes: Robust standard errors are shown in parentheses. Columns 1-5 report monthly consumption. Column 1 does not include migrant workers in the calculation. Column 2 assumes migrant workers consume the household average. Columns 3-5 do not include migrant workers. All values are in 2018 US dollars adjusted for PPP. All specifications include baseline controls and hamlet-level fixed effects.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 -</head><label>3</label><figDesc xml:id="_asZ7mGR">Monthly Income and Revenue</figDesc><table><row><cell></cell><cell></cell><cell>Nonfarm</cell><cell></cell><cell></cell><cell>Wages:</cell><cell>Wages:</cell><cell></cell><cell>Self-reported</cell></row><row><cell></cell><cell>Live-</cell><cell>micro-</cell><cell>Self-</cell><cell>Productive</cell><cell>migrants</cell><cell>impute typical</cell><cell></cell><cell>economic</cell></row><row><cell></cell><cell>stock</cell><cell>enterprise</cell><cell>employment</cell><cell>asset</cell><cell>remit 100%</cell><cell>migrant</cell><cell></cell><cell>status</cell></row><row><cell></cell><cell>revenue (1)</cell><cell>income (2)</cell><cell>(typ. month) (3)</cell><cell>index (4)</cell><cell>of wage (5)</cell><cell>earnings (6)</cell><cell>Remittances (7)</cell><cell>(1-10) (8)</cell></row><row><cell cols="2">Panel A. Endline 1 (18 months) Treatment 10.258</cell><cell>7.927</cell><cell>18.665</cell><cell>0.444</cell><cell>3.902</cell><cell>5.083</cell><cell>0.000</cell><cell>0.204</cell></row><row><cell>Control mean Baseline mean Observations</cell><cell cols="2">(2.342) (4.538) 3.33 36.24 0.00 13.24 814 814</cell><cell>(5.796) 46.09 16.30 814</cell><cell>(0.086) -0.23 -0.00 681</cell><cell>(6.685) 96.06 814</cell><cell>(8.485) 106.45 814</cell><cell>( . ) 0.00 . 814</cell><cell>(0.071) 2.77 1.97 811</cell></row><row><cell cols="2">Panel B. Endline 2 (three years) Treatment 7.683</cell><cell>25.116</cell><cell>31.057</cell><cell>0.571</cell><cell>6.112</cell><cell>4.628</cell><cell>3.696</cell><cell>0.297</cell></row><row><cell>Control mean Baseline mean Observations</cell><cell cols="2">(2.652) (6.257) 7.99 49.47 0.00 13.24 875 875</cell><cell>(6.897) 60.50 16.30 875</cell><cell>(0.072) -0.30 -0.00 875</cell><cell>(11.663) 201.07 875</cell><cell>(13.674) 217.89 875</cell><cell>(2.369) 12.88 . 875</cell><cell>(0.080) 3.36 1.97 875</cell></row><row><cell cols="2">Panel C. Endline 3 (seven years) Treatment 27.262</cell><cell>67.592</cell><cell>108.360</cell><cell>0.795</cell><cell>75.675</cell><cell>89.024</cell><cell>8.871</cell><cell>1.575</cell></row><row><cell>Control mean Baseline mean Observations</cell><cell cols="2">(5.158) (14.264) 9.70 90.49 0.00 13.24 869 869</cell><cell>(15.149) 103.15 16.30 869</cell><cell>(0.083) -0.40 -0.00 807</cell><cell>(22.299) 279.06 869</cell><cell>(25.730) 301.31 869</cell><cell>(6.455) 34.87 . 869</cell><cell>(0.141) 4.73 1.97 867</cell></row><row><cell cols="2">Panel D. Endline 4 (ten years) Treatment 16.710</cell><cell>36.816</cell><cell>93.872</cell><cell>0.197</cell><cell>38.238</cell><cell>52.291</cell><cell>19.057</cell><cell>0.642</cell></row><row><cell>Control mean Baseline mean Observations</cell><cell cols="2">(8.756) (14.259) 17.80 98.49 0.00 13.24 885 885</cell><cell>(20.803) 144.27 16.30 885</cell><cell>(0.105) -0.10 -0.00 885</cell><cell>(24.526) 325.04 885</cell><cell>(30.057) 354.93 885</cell><cell>(7.440) 36.81 . 885</cell><cell>(0.129) 4.03 1.97 885</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4 -</head><label>4</label><figDesc xml:id="_9kqDfx4">MigrationRobust standard errors are shown in parentheses. Columns 3-7 restrict the sample to households with a migrant worker and average outcomes over migrant workers in the household. Column 6 is reported in 2018 US dollar PPP. All specifications include baseline controls and hamlet-level fixed effects.</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Earnings of</cell><cell>Working in</cell></row><row><cell></cell><cell></cell><cell>No. of</cell><cell></cell><cell>Migrates to</cell><cell>Migrates to</cell><cell>migrant worker,</cell><cell>business or</cell></row><row><cell></cell><cell>Migration</cell><cell cols="2">migrants Duration</cell><cell>Kolkata</cell><cell>urban area</cell><cell>typical month</cell><cell>formal work</cell></row><row><cell></cell><cell>(1)</cell><cell>(2)</cell><cell>(3)</cell><cell>(4)</cell><cell>(5)</cell><cell>(6)</cell><cell>(7)</cell></row><row><cell cols="4">Panel A. Endline 1 (18 months) Treatment -0.016 (0.034) (0.042) (6.798) 0.000 11.767 Control mean 0.35 0.39 37.08</cell><cell>-0.004 (0.066) 0.36</cell><cell>0.002 (0.055) 0.83</cell><cell>26.326 (19.011) 139.89</cell><cell>0.042 (0.046) 0.10</cell></row><row><cell>Observations</cell><cell>812</cell><cell>812</cell><cell>285</cell><cell>285</cell><cell>285</cell><cell>285</cell><cell>285</cell></row><row><cell cols="4">Panel B. Endline 2 (three years) Treatment 0.028 (0.032) (0.041) (15.332) 0.031 14.776 Control mean 0.29 0.33 125.09</cell><cell>-0.095 (0.069) 0.38</cell><cell>-0.039 (0.059) 0.83</cell><cell>30.574 (29.920) 231.18</cell><cell>0.032 (0.042) 0.15</cell></row><row><cell>Observations</cell><cell>838</cell><cell>838</cell><cell>256</cell><cell>256</cell><cell>256</cell><cell>256</cell><cell>256</cell></row><row><cell cols="5">Panel C. Endline 3 (seven years) Treatment 0.042 (0.034) (0.047) (12.466) (0.058) 0.067 0.042 -11.078 Control mean 0.37 0.46 123.26 0.30</cell><cell>0.012 (0.047) 0.78</cell><cell>89.788 (33.619) 361.21</cell><cell>0.017 (0.037) 0.11</cell></row><row><cell>Observations</cell><cell>842</cell><cell>842</cell><cell>332</cell><cell>332</cell><cell>332</cell><cell>332</cell><cell>332</cell></row><row><cell cols="5">Panel D. Endline 4 (ten years) Treatment 0.017 (0.032) (0.046) (12.753) 0.024 25.167 -0.138 (0.059) Control mean 0.34 0.44 124.24 0.35</cell><cell>0.033 (0.053) 0.80</cell><cell>51.238 (31.240) 362.12</cell><cell>-0.029 (0.042) 0.13</cell></row><row><cell>Observations</cell><cell>859</cell><cell>859</cell><cell>307</cell><cell>308</cell><cell>308</cell><cell>308</cell><cell>308</cell></row><row><cell>Notes:</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_0"><p xml:id="_mVKRfKz">Delhi is the most common urban destination for out-of-state migrants from Bengal (2018).</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="3" xml:id="foot_1"><p xml:id="_a7vS9w5">The exact duration was 30 weeks for households receiving goats and</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="40" xml:id="foot_2"><p xml:id="_G6EPXUN">weeks for households receiving cows. The allowance of 90 rupees/week ($7.60 in 2007 US dollar PPP) was meant to aid subsistence.4  Unless they became microfinance clients, which was rare.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="5" xml:id="foot_3"><p xml:id="_Npfs8z4">Women's empowerment was also included in<ref type="bibr" target="#b6">Banerjee et al. (2015)</ref> but is not included here because it was not measured after the first endline.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="6" xml:id="foot_4"><p xml:id="_A3rbn9S">Table A1 in online Appendix.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="7" xml:id="foot_5"><p xml:id="_AU42caj">The World Bank defined extreme poverty as living on less than $1.90/day and moderate poverty as living on less than $3.10/day in 2011. We update these to 2018 US dollars corrected for PPP.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_6"><p xml:id="_Bh5fXwp">Correction for Multiple Hypothesis Testing: As in<ref type="bibr" target="#b6">Banerjee et al. (2015)</ref>, this paper takes two steps to account for the fact that some outcomes might show statistically significant results by chance. First, we aggregate a number of outcome measures into the nine indices. Second, we consider these nine as constituting a family of outcomes and control for the false discovery rate, or the expected proportion of rejections of the null that are type I errors. Following the Benjamini-Hochberg step-up method outlined in<ref type="bibr" target="#b0">Anderson (2008)</ref>, we calculate q-values for each outcome, or the minimum false discovery rate at which the null hypothesis of zero effect on that outcome would be rejected. These are to be interpreted as adjusted p-values and are reported in Table1. All results are robust to correcting for multiple hypothesis testing.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="8" xml:id="foot_7"><p xml:id="_RrNQEvG">Wages covers income from casual and agricultural labor as well as income from salaried employment, but casual employment represents by far the major part of wage income.</p></note>
+		</body>
+		<back>
+
+			<div type="funding">
+<div xml:id="_8mmMVkW"><p xml:id="_2XSMtE5">Board under protocol #<rs type="grantNumber">701002099</rs> and #<rs type="grantNumber">1408006525</rs>. The analysis was pre-registered in the <rs type="projectName">AEA RCT Registry</rs>, with unique identification number AEARCTR-0000382.</p><p xml:id="_ZUmeMDS">† Go to <ref type="url" target="https://doi.org/10.1257/aeri.20200667">https://doi.org/10</ref>.</p><p xml:id="_UsmYmuN">for additional materials and author disclosure statement(s).</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_gCG9AfQ">
+					<idno type="grant-number">701002099</idno>
+				</org>
+				<org type="funded-project" xml:id="_j5GeYb3">
+					<idno type="grant-number">1408006525</idno>
+					<orgName type="project" subtype="full">AEA RCT Registry</orgName>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_zeQ5rWm">B. Cost-Benefit Analysis</head><p xml:id="_zpu5TyZ">The intervention cost the equivalent of $2,163 when corrected for PPP in 2018, of which 56 percent constituted a direct transfer to treatment households. Online Appendix Table <ref type="table">A8</ref> and the accompanying text provide details of the cost-benefit analysis, which is analogous to <ref type="bibr" target="#b6">Banerjee et al. (2015)</ref>. The program breaks even by year four. Its benefit-cost ratio is 379 percent by year 10 and would be 1,110 percent if year 10 gains are sustained in perpetuity. These estimates are larger than in <ref type="bibr" target="#b6">Banerjee et al. (2015)</ref>, which extrapolated year three gains over time, because treatment effects rise between years three and ten.</p><p xml:id="_fHWZw3a">Regardless of whether it permanently unlocked a poverty trap, the program in India is thus highly cost effective and pays for itself 2.8 times over within the first ten years. Of all the programs studied in <ref type="bibr" target="#b6">Banerjee et al. (2015)</ref>, however, India has the most favorable cost-benefit ratio, with low costs and high benefits in the short run. We extend the cost-benefit analysis to four other countries in online Appendix Table <ref type="table">A9</ref>. In Ethiopia and Pakistan, the program would break even after ten years if</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="consolidated"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main" xml:id="_X6dxery">Multiple Inference and Gender Differences in the Effects of Early Intervention: A Reevaluation of the Abecedarian, Perry Preschool, and Early Training Projects</title>
+		<author>
+			<persName><forename type="first">Michael</forename><forename type="middle">L</forename><surname>Anderson</surname></persName>
+		</author>
+		<idno type="DOI">10.1198/016214508000000841</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_5PFMQa5">Journal of the American Statistical Association</title>
+		<title level="j" type="abbrev">Journal of the American Statistical Association</title>
+		<idno type="ISSN">0162-1459</idno>
+		<idno type="ISSNe">1537-274X</idno>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="issue">484</biblScope>
+			<biblScope unit="page" from="1481" to="1495" />
+			<date type="published" when="2008-12-01">2008</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main" xml:id="_M6vDrMX">Why do people stay poor?</title>
+		<author>
+			<persName><forename type="first">Clare</forename><surname>Balboni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Oriana</forename><surname>Bandiera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robin</forename><surname>Burgess</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Maitreesh</forename><surname>Ghatak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anton</forename><surname>Heil</surname></persName>
+		</author>
+		<idno type="DOI">10.3386/w29340</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_sccqhd3">Why Do People Stay Poor?</title>
+		<imprint>
+			<publisher>National Bureau of Economic Research</publisher>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note>Unpublished</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main" xml:id="_43nSjUQ">Labor Markets and Poverty in Village Economies*</title>
+		<author>
+			<persName><forename type="first">Oriana</forename><surname>Bandiera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robin</forename><surname>Burgess</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Narayan</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Selim</forename><surname>Gulesci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Imran</forename><surname>Rasul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Munshi</forename><surname>Sulaiman</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/qje/qjx003</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_nTxH5Da">The Quarterly Journal of Economics</title>
+		<idno type="ISSN">0033-5533</idno>
+		<idno type="ISSNe">1531-4650</idno>
+		<imprint>
+			<biblScope unit="volume">132</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="811" to="870" />
+			<date type="published" when="2017-03-20">2017</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main" xml:id="_a7BV7fv">The Two Poverties</title>
+		<author>
+			<persName><forename type="first">Abhijit</forename><forename type="middle">V</forename><surname>Banerjee</surname></persName>
+		</author>
+		<idno type="DOI">10.2139/ssrn.271731</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_WJQpTx8">SSRN Electronic Journal</title>
+		<title level="j" type="abbrev">SSRN Journal</title>
+		<idno type="ISSNe">1556-5068</idno>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="129" to="141" />
+			<date type="published" when="2000">2000</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b4">
+	<monogr>
+		<title level="m" type="main" xml:id="_uDefX5J">Can Microfinance Unlock a Poverty Trap for Some Entrepreneurs?</title>
+		<author>
+			<persName><forename type="first">Abhijit</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Emily</forename><surname>Breza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Esther</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cynthia</forename><surname>Kinnan</surname></persName>
+		</author>
+		<idno type="DOI">10.3386/w26346</idno>
+		<idno>Paper 26346</idno>
+		<imprint>
+			<date type="published" when="2019-10">2019</date>
+			<publisher>National Bureau of Economic Research</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">NBER Working</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main" xml:id="_AJaUjJq">Helping the Ultra-Poor Use Microcredit in Murshidabad, India</title>
+		<author>
+			<persName><forename type="first">Abhijit</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Raghabendra</forename><surname>Chattopadhyay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Esther</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeremy</forename><surname>Shapiro</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/rct.382-3.0</idno>
+		<ptr target="https://doi.org/10.1257/rct.382-3" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_p6PCS2W">AEA RCT Registry</title>
+		<imprint>
+			<date type="published" when="2018-10-24">2018. October 24</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main" xml:id="_Ebczjs7">A Multifaceted Program Causes Lasting Progress for the Very Poor: Evidence from Six Countries</title>
+		<author>
+			<persName><forename type="first">Abhijit</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Esther</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nathanael</forename><surname>Goldberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dean</forename><surname>Karlan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Osei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">William</forename><surname>Parienté</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeremy</forename><surname>Shapiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bram</forename><surname>Thuysbaert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Udry</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/rct.382-3.0</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_tvNMK97">Science</title>
+		<imprint>
+			<biblScope unit="volume">348</biblScope>
+			<biblScope unit="issue">6236</biblScope>
+			<biblScope unit="page">1260799</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main" xml:id="_GPD8rDu">Replication Data for: Long-Term Effects of the Targeting the Ultra Poor Program</title>
+		<author>
+			<persName><forename type="first">Abhijit</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Esther</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Garima</forename><surname>Sharma</surname></persName>
+		</author>
+		<idno type="DOI">10.3886/E130362V1</idno>
+		<ptr target="https://doi.org/10.3886/E130362V1" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_UEna8tq">American Economic Association</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b8">
+	<monogr>
+		<title level="m" type="main" xml:id="_46v9UhW">Unpacking a Multi-Faceted Program to Build Sustainable Income for the Very Poor</title>
+		<author>
+			<persName><forename type="first">Abhijit</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dean</forename><surname>Karlan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><forename type="middle">Darko</forename><surname>Osei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hannah</forename><surname>Trachtman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Udry</surname></persName>
+		</author>
+		<idno type="DOI">10.3386/w24271</idno>
+		<idno>Paper 24271</idno>
+		<imprint>
+			<date type="published" when="2018-02">2018</date>
+			<publisher>National Bureau of Economic Research</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">NBER Working</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b9">
+	<monogr>
+		<title level="m" type="main" xml:id="_yGyn2ZV">The Shape of Temptation: Implications for the Economic Lives of the Poor</title>
+		<author>
+			<persName><forename type="first">Abhijit</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sendhil</forename><surname>Mullainathan</surname></persName>
+		</author>
+		<idno type="DOI">10.3386/w15973</idno>
+		<idno>Paper 15973</idno>
+		<imprint>
+			<date type="published" when="2010-05">2010</date>
+			<publisher>National Bureau of Economic Research</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">NBER Working</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main" xml:id="_E4XKMTz">Occupational Choice and the Process of Development</title>
+		<author>
+			<persName><forename type="first">Abhijit</forename><forename type="middle">V</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andrew</forename><forename type="middle">F</forename><surname>Newman</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/261876</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_kCJVqGE">Journal of Political Economy</title>
+		<title level="j" type="abbrev">Journal of Political Economy</title>
+		<idno type="ISSN">0022-3808</idno>
+		<idno type="ISSNe">1537-534X</idno>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="274" to="298" />
+			<date type="published" when="1993-04">1993</date>
+			<publisher>University of Chicago Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main" xml:id="_Eppd4w8">No Household Left Behind: Afghanistan Targeting the Ultra Poor Impact Evaluation</title>
+		<author>
+			<persName><forename type="first">Guadalupe</forename><surname>Bedoya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aidan</forename><surname>Coville</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Johannes</forename><surname>Haushofer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mohammad</forename><surname>Isaqzadeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeremy</forename><surname>Shapiro</surname></persName>
+		</author>
+		<idno type="DOI">10.1596/1813-9450-8877</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_PkYmNqK">World Bank Policy Research Working Paper</title>
+		<imprint>
+			<biblScope unit="page">8877</biblScope>
+			<date type="published" when="2019-06">2019</date>
+			<publisher>World Bank, Washington, DC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main" xml:id="_wkyk3EG">The Long-Term Impacts of Grants on Poverty: Nine-Year Evidence from Uganda’s Youth Opportunities Program</title>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Blattman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nathan</forename><surname>Fiala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sebastian</forename><surname>Martinez</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/aeri.20190224</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_U956WUF">American Economic Review: Insights</title>
+		<title level="j" type="abbrev">American Economic Review: Insights</title>
+		<idno type="ISSN">2640-205X</idno>
+		<idno type="ISSNe">2640-2068</idno>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="287" to="304" />
+			<date type="published" when="2020-09-01">2020</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main" xml:id="_VMgtzWu">Underinvestment in a Profitable Technology: The Case of Seasonal Migration in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Gharad</forename><surname>Bryan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shyamal</forename><surname>Chowdhury</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ahmed</forename><surname>Mushfiq</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mobarak</forename></persName>
+		</author>
+		<idno type="DOI">10.3982/ecta10489</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_4ZkZp8R">Econometrica</title>
+		<title level="j" type="abbrev">Econometrica</title>
+		<idno type="ISSN">0012-9682</idno>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1671" to="1748" />
+			<date type="published" when="2014">2014</date>
+			<publisher>The Econometric Society</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main" xml:id="_HHw3cuJ">Estimating the Impact of Microcredit on Those Who Take It Up: Evidence from a Randomized Experiment in Morocco</title>
+		<author>
+			<persName><forename type="first">Bruno</forename><surname>Crépon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Florencia</forename><surname>Devoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Esther</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">William</forename><surname>Parienté</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/app.20130535</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_GNqpJjW">American Economic Journal: Applied Economics</title>
+		<title level="j" type="abbrev">American Economic Journal: Applied Economics</title>
+		<idno type="ISSN">1945-7782</idno>
+		<idno type="ISSNe">1945-7790</idno>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="123" to="150" />
+			<date type="published" when="2015-01-01">2015</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main" xml:id="_uBqTayr">Inequality as a Determinant of Malnutrition and Unemployment: Theory</title>
+		<author>
+			<persName><forename type="first">Partha</forename><surname>Dasgupta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Debraj</forename><surname>Ray</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/2233171</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_EfFUtzz">The Economic Journal</title>
+		<title level="j" type="abbrev">The Economic Journal</title>
+		<idno type="ISSN">0013-0133</idno>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="issue">384</biblScope>
+			<biblScope unit="page">1011</biblScope>
+			<date type="published" when="1986-12">1986</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main" xml:id="_grpWQ4q">Income Distribution and Macroeconomics</title>
+		<author>
+			<persName><forename type="first">Oded</forename><surname>Galor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Joseph</forename><surname>Zeira</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/2297811</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_akjvaFS">The Review of Economic Studies</title>
+		<title level="j" type="abbrev">The Review of Economic Studies</title>
+		<idno type="ISSN">0034-6527</idno>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">35</biblScope>
+			<date type="published" when="1993-01">1993</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main" xml:id="_xP8trP7">Aspirations and Inequality</title>
+		<author>
+			<persName><forename type="first">Garance</forename><surname>Genicot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Debraj</forename><surname>Ray</surname></persName>
+		</author>
+		<idno type="DOI">10.3982/ecta13865</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_68ghXHJ">Econometrica</title>
+		<title level="j" type="abbrev">Econometrica</title>
+		<idno type="ISSN">0012-9682</idno>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="489" to="519" />
+			<date type="published" when="2017">2017</date>
+			<publisher>The Econometric Society</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b18">
+	<analytic>
+		<title level="a" type="main" xml:id="_Sp6y7BJ">Assessment of Land Use Potential for Sustainable Development of Chorgali Village of Hura block, Puruliya district, West Bengal</title>
+		<author>
+			<persName><forename type="first">Dolan</forename><forename type="middle">Champa</forename><surname>Sarkar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">P</forename><surname>Mitranag</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K Mohit</forename><surname>Pasha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Roychowdhury</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Munish</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">S</forename><surname>Arya</surname></persName>
+		</author>
+		<idno type="DOI">10.47114/j.agroped.2017.jun11</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_vuFkMAz">Agropedology</title>
+		<title level="j" type="abbrev">agroped</title>
+		<idno type="ISSN">0971-1570</idno>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2017">2017</date>
+			<publisher>Indian Society of Soil Survey and Land Use Planning</publisher>
+			<pubPlace>New Delhi</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main" xml:id="_mwBG4Gs">Underemployment in Backward Economies: Some Additional Notes</title>
+		<author>
+			<persName><forename type="first">Harvey</forename><surname>Leibenstein</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/258037</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_5awvMwM">Journal of Political Economy</title>
+		<title level="j" type="abbrev">Journal of Political Economy</title>
+		<idno type="ISSN">0022-3808</idno>
+		<idno type="ISSNe">1537-534X</idno>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="256" to="258" />
+			<date type="published" when="1958-06">1958</date>
+			<publisher>University of Chicago Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b20">
+	<monogr>
+		<title level="m" type="main" xml:id="_PnjkPxD">Scarcity: Why Having Too Little Means So Much</title>
+		<author>
+			<persName><forename type="first">Sendhil</forename><surname>Mullainathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eldar</forename><surname>Shafir</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<publisher>Times Books</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

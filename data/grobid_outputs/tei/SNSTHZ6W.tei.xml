@@ -1,0 +1,1388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" xml:id="_7tQpKyC">Assessing the Frontiers of Ultra-Poverty Reduction: Evidence from Targeting the Ultra-Poor (CFPR/TUP) program in Bangladesh</title>
+				<funder>
+					<orgName type="full">GWU Center for International Business Research (CIBER)</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">IIEP</orgName>
+				</funder>
+				<funder ref="#_mbPnzXC">
+					<orgName type="full">U.S. Department of State</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">GW Institute of Public Policy (GWIPP)</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><roleName>IPD</roleName><forename type="first">M</forename><surname>Shahe Emran</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Stephen</forename><forename type="middle">C Smith</forename><surname>George</surname></persName>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Stephen</forename><forename type="middle">C</forename><surname>Smith</surname></persName>
+							<email>ssmith@gwu.edu</email>
+						</author>
+						<author>
+							<persName><forename type="first">Atonu</forename><surname>Rabbani</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Rajeev</forename><surname>Dehejia</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Esther</forename><surname>Duflo</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Ahmed</forename><forename type="middle">Mushfiq</forename><surname>Mobarak</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Arif</forename><surname>Al Mamun</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Susan</forename><surname>Mccoskey</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Forhad</forename><surname>Shilpi</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Chao</forename><surname>Zhou</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Economics</orgName>
+								<orgName type="institution" key="instit1">Columbia University Virginia Robano</orgName>
+								<orgName type="institution" key="instit2">George Washington University</orgName>
+								<orgName type="institution" key="instit3">Washington University</orgName>
+								<orgName type="institution" key="instit4">George Washington University</orgName>
+								<address>
+									<addrLine>2115 G ST NW</addrLine>
+									<postCode>20052</postCode>
+									<region>Washington DC</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="institution" key="instit1">Northeast Universities Development Conference at Boston University</orgName>
+								<orgName type="institution" key="instit2">BRAC University/RED</orgName>
+								<orgName type="institution" key="instit3">International Food Policy Research Institute</orgName>
+								<orgName type="institution" key="instit4">George Washington University</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main" xml:id="_TjRQV88">Assessing the Frontiers of Ultra-Poverty Reduction: Evidence from Targeting the Ultra-Poor (CFPR/TUP) program in Bangladesh</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">0BA9BF53E5ADB78E91E9086958F54CFA</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2025-11-05T00:22+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a292bac</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=1, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=true, generateTeiCoordinates=[true], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term xml:id="_F2t5Vvz">Ultra-Poor</term>
+					<term xml:id="_NDXu4p5">CFPR/ TUP</term>
+					<term xml:id="_REvknDX">BRAC</term>
+					<term xml:id="_Z85fPRq">Microfinance</term>
+					<term xml:id="_VyQAS88">Bangladesh</term>
+					<term xml:id="_p8kk5ME">Assignment Error</term>
+					<term xml:id="_9XJ3vPx">Difference-in-Difference</term>
+					<term xml:id="_rc9GCbj">Matching</term>
+					<term xml:id="_sZwgGnX">Heteroskedasticity Based Identification JEL Clodes: O1</term>
+					<term xml:id="_zjAcGNt">I3 Ultra-Poor</term>
+					<term xml:id="_rRFd4r9">CFPR/ TUP</term>
+					<term xml:id="_UqwgJEz">BRAC</term>
+					<term xml:id="_yyM3ctS">Microfinance</term>
+					<term xml:id="_F74KPPf">Bangladesh</term>
+					<term xml:id="_WhPYqzq">Assignment Error</term>
+					<term xml:id="_yatCBxy">Difference-in-Difference</term>
+					<term xml:id="_PXqBhKT">Matching</term>
+					<term xml:id="_CRp4PZr">Heteroskedasticity-Based Identification JEL Codes: O1</term>
+					<term xml:id="_4ghqB7Z">I3</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_sSfEHZm"><p xml:id="_kE2S5tP">This paper uses household panel data to provide robust evidence on the effects of BRAC's Targeting the Ultra-poor Program in Bangladesh. We use alternative treatment-comparison pairs; in addition to BRAC's own classification, we exploit Type 1 errors in assignment in BRAC's selection process to create a second treatment-comparison pair. This allows us to estimate the program effects on the target group, not contaminated by mistargeting. To address selection on unobservables, we implement heteroskedasticity-based identification and two recent estimators based on matching and propensity score reweighting. The results show that participation had significant positive effects on per capita income, food security, clothing, shoes, livestock, and cash savings, but there is weak or no evidence of an impact on a number of household durables and assets, and indicators of health and women's empowerment. The effects on the poorest of the poor (the target group) may be different from the effects on an average participant in TUP program. Taking into account differences in initial conditions, the effects of the TUP program on the poorest of the poor are much larger (as measured by the program effect normalized by the initial mean value of an outcome), suggesting that the TUP program would have had a larger impact with better targeting.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="10" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="11" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="12" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="13" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="14" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="15" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="16" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="17" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="18" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="19" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="20" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="21" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="22" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="23" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="24" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="25" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="26" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="27" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="28" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="29" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="30" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="31" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="32" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="33" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="34" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="35" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="36" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="37" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="38" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="39" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="40" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="41" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="42" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="43" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="44" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="45" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="46" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="47" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="48" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_jYz9VJG">(1) Introduction</head><p xml:id="_eWwFz8N">It is widely appreciated, both by practitioners and academics, that extreme poverty (or ultrapoverty) may be different from other forms of poverty and deprivation (see, for example, IFPRI 2007; Matin et al. 2008; World Bank 2006; Lipton 1983). <ref type="bibr" target="#b37">1</ref> Ultra-poverty differs from conventional poverty in terms of depth (higher degree of deprivation), length (longer duration of time) and breadth (larger number of dimensions such as illiteracy, malnutrition etc.). <ref type="bibr">2</ref> The possible complementarity among the different dimensions can potentially result in multiple mutually reinforcing poverty traps, thus making ultra-poverty an especially difficult problem to address.</p><p xml:id="_d6ghdMY">The experience of the last few decades suggests that while the poverty programs of NGOs including microcredit programs have, in general, been successful in reaching the moderate poor (i.e., households below poverty line, but relatively close to it), the poorest of the poor are more often inadequately served or completely bypassed by such programs. <ref type="bibr">3</ref> This appreciation led to the development and implementation of innovative anti-poverty programs that are designed especially for the ultra-poor. These programs are supposed to address simultaneously the multitude of interrelated factors that create extreme poverty and make it a trap difficult to escape from. BRAC (acronym for Building Resources Across Countries), formerly known as the Bangladesh Rural Advancement Committee, is one of the first NGOs to design and implement a program specifically designed to address extreme poverty. In 2002, BRAC implemented an ultra-poverty program called "Challenging the Frontiers of Poverty Reduction: Targeting the Ultra-poor, Targeting Social Constraints" (henceforth TUP). The first phase of the TUP program was implemented over 2002-2006. It covered 100,000 ultra-poor households from 15 of the poorest districts of Bangladesh over a period of five years. <ref type="bibr">4</ref> TUP is a multidimensional program that incorporates both livelihood protection and promotion components and features significant innovations in targeting (through participatory wealth ranking by the villagers) and harnessing social capital (through village support networks and sponsorship of community leaders). It focuses on developing human capital (health, education, and training) and physical capital (asset transfers) for poor women. The program provides training in enterprise activities using the transferred asset, and also health services. A more complete discussion of the program is provided in Section 2. TUP as a strategy to tackle ultra-poverty has attracted much attention over last few years among NGO communities and academic researchers. Similar programs are being replicated in several other countries including India, China, Uganda, Tanzania, and Peru. <ref type="bibr">5</ref> This paper uses a two period panel data set (2002, 2005) to analyze the effects of the TUP program participation on a set of household outcomes including income, food security, clothing, health, child labor, schooling, and asset accumulation. The first phase of the TUP program was not a randomized intervention. Thus one has to carefully address the selection issues to identify and estimate the treatment effects of the program. Given the importance of the program, a carefully done analysis of the TUP program (phase I) with household panel data is of significant value.</p><p xml:id="_wbSEWc3">To provide credible evidence on the treatment effect of participation in the TUP program, we carefully address the possible biases due to omitted heterogeneity. We utilize BRAC's selection criteria and the assignment errors to construct an alternative treatment-comparison pair that represents the target households more faithfully, and also identifies an appropriate comparison group. An advantage of the panel data is that we can credibly address the time-invariant household level heterogeneity (additive) by using household fixed effects. This is important for understanding the effects of TUP (or any other microfinance program), as two of the salient omitted variables in this context are innate entrepreneurial ability and risk preference, both of which are time invariant.</p><p xml:id="_ezShahM">The main results in this paper thus utilize household level fixed effects. To estimate the effects of TUP membership on household outcomes we take advantage of the recent heteroskedasticitybased identification approach due to Klein and Vella (2009). We also report estimates from two different matching estimators. The results from matching estimators are especially useful for the binary outcomes, because the Klein and Vella (2009) approach is not designed for the binary outcomes.</p><p xml:id="_cxmh5ct">The matching estimators used in this paper are the minimum bias inverse probability weighted estimator (MB-IPW) due to Millimet and Tchernis (2012), and the difference-in-difference matchfirst phase of the TUP program. For more details on the second phase of the TUP program, see BRAC Annual Report 2007. <ref type="bibr">5</ref> Other examples of programs for ultra poverty include the Grameen beggars program and the Bandhan "Chartering into Unventured Frontiers -Targeting the Hardcore Poor (CUF-THP)" program.</p><p xml:id="_qdfwcMe">ing estimator due to Heckman et al. (1998) (henceforth called the DIDM estimator). <ref type="bibr">6</ref> The treatment effects from the DIDM approach can be biased if the counterfactual trend in the treatment group is different from the trend found among the comparison households after matching on observables and household fixed effects are used to control for potential heterogeneity. The MB-IPW estimator developed by Millimet and Tchernis (2012) minimizes the bias that arises from the violation of the conditional independence assumption by appropriately trimming the sample around the bias-minimizing propensity score.</p><p xml:id="_kgzUW8e">A standard approach to tackling selection on unobservables and measurement error is to develop an instrumental variables strategy that exploits some features of the program design or implementation to isolate exogenous variations in program participation. Unfortunately, it was not possible to develop a credible and strong enough instrumental variables strategy based on the features of the TUP program. In the absence of credible exclusion restrictions, we employ the heteroskedasticity-based identification approach that does not rely on the standard exclusion restrictions (Rigobon 2003; Klein and Vella 2009, 2010; and Lewbel, forthcoming). <ref type="bibr">7</ref> In particular, we implement the heteroskedasticity-based instrumental variables approach due to Klein and Vella   (2009).</p><p xml:id="_Rr6XV6M">An innovative feature of our study is that it uses alternative treatment and comparison groups using the type 1 assignment errors in the TUP selection process. BRAC's own treatment group is called the 'selected ultra-poor' (SU P ) that includes all the actual participants in the program irrespective of whether they meet the eligibility criteria set out by BRAC itself. The corresponding comparison group is called 'not selected ultra-poor' (N SU P ). However, there is significant mistargeting (assignment errors) in the TUP program when judged by the inclusion and exclusion criteria set out by BRAC for the TUP program participants. Such targeting errors usually result in a treatment group that is on average richer than the intended target group of a program. <ref type="bibr" target="#b47">8</ref> We use the assignment errors in the selection of participants in the TUP program to partition the sample to generate alternative treatment and comparison groups. <ref type="bibr">9</ref> The assignment errors can be <ref type="bibr">6</ref> The DIDM approach reduces the bias in estimated treatment effects compared to cross section studies with or without matching (Blundell and Dias 2009). The DIDM approach has been used by Petkova (2009) and Berlinski  and Galiani (2004), among others.</p><p xml:id="_QrzxzyM">7 For recent applications of heteroskedasticity-based identification, see Rigobon (2003), Rigobon and Rodrik  (2005), Farré et al. (2010), Schroeder (2010), Millimet and Tchernis (2012), Emran and Hou (forthcoming), Emran  and Shilpi (2012), Mallick (2012), Berg et al. (2012), Chowdhury et al. (2012) and Emran and Sun (2011). <ref type="bibr" target="#b47">8</ref> Mistargeting is common in microcredit programs including most well-known programs such as Grameen. For discussions on mistargeting in Grameen microfinance programs see Matin (1998), and for evidence on BRAC programs see Montogomery et al. (1996), and Zaman (1998). For a recent discussion on issues related to targeting in microcredit programs see Banerjee et al. (2008). Although mistargeting has become a concern in microfinance programs, it is well-known that optimal targeting does not imply zero assignment errors (Ravallion and Lipton  1995; Ravallion 2008; Kanbur 2010).</p><p xml:id="_8wjDESc">9 A descriptive analysis of the TUP program with some preliminary impact evaluation was done by BRAC's in-house research and evaluation division (RED) using the same panel data set (see Rabbani et al. 2006). They use used to create two treatment-comparison pairs based on type 1 and type 2 errors in assignment.</p><p xml:id="_V8PUPBg">The treatment and comparison groups based on type 1 errors are called SB 1 , or 'should be, one', and SB 0 or 'should be, zero'. The treatment group consists of the households who satisfy the BRAC inclusion and exclusion criteria and thus are correctly selected into the program, while the comparison group consists of the households who are incorrectly excluded from the program according to the stated criteria. As we show later, this comparison group is very similar to the treatment group in terms of initial characteristics and thus the possibility of selection bias is less compared to the SU P -N SU P groups. Also, the treatment group SB 1 consists of the poorest of the households in our sample (i.e., the 'true' ultra-poor). This treatment-comparison pair thus allows us to estimate the treatment effect of program participation on the intended beneficiaries of the TUP program. Given that the focus of the study is on the effects of the TUP program on the poorest of the poor, we omit the results from the treatment-comparison pair based on type-2 errors, because the treatment group consists of the richest households in the sample.</p><p xml:id="_sJXTcSG">The evidence from the matching estimators and Klein and Vella (2009) approach, both implemented with household fixed effects, shows that there is significant positive effect of participation in the TUP program on food security, cash savings, livestock (cows/bulls), housing (homestead land and tin roof house), and shoes for both the treatment groups: SU P and SB 1 . The evidence is also consistent with a positive effect of TUP membership on per capita income of a participant household, especially for the SB 1 group. <ref type="bibr">10</ref> There is, however, no evidence of a significant effect of the TUP program on subjective health outcomes, productive assets (such as fishing nets, big trees and rickshaw vans), child labor, and women's empowerment. <ref type="bibr">11</ref> We also find that there are some important differences in the program effects between the two treatment groups: SU P and SB 1 . For example, while the evidence that participation increases net income is very strong for the SB 1 group, it is weaker, both in terms of magnitude and statistical significance, for the SU P group. The households in both treatment groups seem to invest in productive assets such as livestock, the effect is stronger for the SB 1 group. Only the relatively richer SU P households seem to acquire luxury goods such as radio/TV. In fact, the program effect on radio/TV is negative for the SB 1 households according to the Klein and Vella   (2009) estimate, which is consistent with the idea that the poorest of the poor households cut back their other expenditure in order to make productive investments. When the differences in the initial conditions are taken into account, the program effects are significantly larger for the SB 1 the selected ultra poor (SU P ) as the treatment group and the not selected ultra-poor (N SU P ) as the comparison group. <ref type="bibr">10</ref> The definition of income is a broad one that takes into account the change in the value of household assets due to activities such as livestock fattening commonly undertaken by TUP participants. It is thus a comprehensive measure of the household welfare for the TUP participants. <ref type="bibr">11</ref> We, however, have limited indicators of women's empowerment. The conclusion that there is no program impact on women's empowerment thus should be interpreted with appropriate caveat.</p><p xml:id="_cT4CW9t">treatment group compared to the BRAC treatment group SU P . Had the program concentrated on the poorest of the poor, the program effects would have been larger than those found.</p><p xml:id="_N9k5qys">The rest of the paper is structured as follows. Section 2 provides a brief discussion of the BRAC TUP program. Section 3 describes our data set. Section 4 discusses the empirical strategy for identification and estimation of the treatment effects in full detail. Section 5 reports the results of our empirical analysis on the treatment effect of program participation in a sequential manner starting from a simple difference-in-difference approach. The paper concludes with a brief summary of the findings.</p><p xml:id="_XTjrB5w">(2) The BRAC Ultra-poverty Program One of the most comprehensive approaches to redressing ultra-poverty has been developed and implemented by BRAC in Bangladesh. BRAC is the world's largest NGO when measured in terms of membership, scope, and budget. Founded in 1972, it started microfinance in 1974, which by 2010 includes approximately eight million women members. The BRAC Education Program serves over 1 million (approximately 10%) Bangladeshi primary students in some 35,000 informal schools. Over 110 million individuals receive BRAC health and other services in Bangladesh. TUP (phase I) was launched in 2002 in three of the poorest districts in Northwest Bangladesh (Rangpur, Kurigram, and Nilphamari) identified on the basis of poverty mapping and selected from a larger group of potential participants, who together form the basis for our panel data set.</p><p xml:id="_jwNtb5r">All members of treatment and comparison groups were selected by villagers as among the poorest local families. A subset was selected by BRAC according to exclusion and inclusion criteria. The exclusion criteria required that participating women must be capable of doing work outside the home, must not belong to another NGO program and must not receive a food benefits card. In the inclusion criteria, participating women have to meet three of the following: child labor is present; ownership of less than 10 decimals of land (a tenth of an acre), lack of a male earner at home, adult women selling labor outside of the household, and lack of any productive assets (Noor et al. 2004, p. ix, BRAC Annual Report 2007, p. 24).</p><p xml:id="_mdHmqqU">To identify the ultra-poor women, several strategies were used. One is "Participatory Wealth</p><p xml:id="_GJJWaBb">Ranking" that utilizes local information available to the villagers. A meeting is held in which a village map is drawn on the ground with each household labeled. The villagers agree on a wealth ranking among the households, to identify those who are the poorest of the poor. Those who can afford tin plate walls or roofs are less poor than those with straw walls or thatched roofs. Those who are known to have a steady, formal job are categorized as among the well off. To keep the process manageable, only about 150 households were included in each wealth ranking exercise.</p><p xml:id="_8hKRSp3">There are incentives for people to try to rank themselves as poor to receive assistance; but the multiple checks done on family status means their ability to get away with this is limited. To supplement community meetings, BRAC staff members walk through the village, looking for any hut that gives the appearance of extreme poverty. They then try to bring potentially overlooked ultra-poor people to the attention of the community meetings. Village leaders, generally people who are relatively well educated such as the school teachers, were actively involved in all stages of the process. Although the BRAC selection mechanism was imperfect, it is important to appreciate that the resulting mistargeting may actually have made BRAC's own treatment and comparison groups (SU P -N SU P ) more comparable than it otherwise would be. <ref type="bibr" target="#b40">12</ref> The TUP program aims to improve the physical, human, and social capital of the poorest of the poor. A core activity of the program is to provide participants with a grant of specific physical assets. The TUP program then provides assistance for using the transferred assets effectively as a microenterprise. In particular, BRAC staff members offer ongoing training in specific enterprise activities notably livestock and poultry rearing, operation of tree nurseries, and village vending such as circulating around the village with a pushcart. Each training program is targeted to the specific asset transferred; periodic refresher training is offered. After enterprises are established, microfinance and related services are eventually provided through the equivalent of BRAC's primary Village Organizations.</p><p xml:id="_beCeuFP">The TUP program works to develop human capital through the microenterprise training, as well as general education including functional literacy, and improved health. BRAC provides the program participants (SU P ) with health services. BRAC staff including BRAC's village health volunteers known as Shastho Shebikas provide training, basic care, and referrals. Financial assistance for illness is also provided. Direct services include child health, immunization, diarrheal disease control, vitamin A supplements for children under 5, TB control, and family planning services and pregnancy care. Yet another activity is to install tube wells and sanitary latrines which are expected to provide health benefits.</p><p xml:id="_2UHuVk2">The program also seeks to build social capital through village support networks and sponsorship of community leaders for extremely poor women. The village support committees engage elites, often individuals who are known for public-spirited or religiously motivated charitable works. The committees are expected to assist the TUP participants when they are subjected to various types of shocks, such as by helping them to recover lost assets.</p><p xml:id="_FQqAK62">(3) The Data and Variables Description For the empirical analysis, we use the BRAC TUP panel data set. This is a two-year panel of about 5000 households. The baseline survey of 5626 households was done in 2002. In 2005, 5288 households were resurveyed, along with 278 newly formed households that had split from the initial set of households. Attrition was moderate and was due to migration, death, and marriage.</p><p xml:id="_XgyN6X2">The final matched panel contained 5067 households and was provided to us by Research and Evaluations Department (RED) of BRAC. <ref type="bibr">13</ref> The BRAC TUP panel data set provides information on a wide range of household characteristics and outcomes. The survey contains a rich body of information regarding the asset base of the household that includes physical (land, rickshaw van, fishing nets), human (schooling, child labor, health), and financial (cash savings) capital. The data include information about basic needs (food security, clothing, and shoes/sandals), stock of household durables and income. The data set also includes some information that can be used as indicators of women's empowerment, but they are limited in scope and likely to provide only an imperfect and a partial view of women's status in a household.</p><p xml:id="_5Mn43vm">The income variable we use includes both the level of income in last year and change in the value of assets over last year. It is very important to include a measure of the change in the value of assets in this context, because many households fatten livestock and almost all their returns are realized only when they actually sell the livestock. The income variable is thus a comprehensive measure of household welfare, much more informative than the standard income variable that fails to account for changes due to activities such as livestock fattening. We use 'per capita' income as the relevant income measure of household welfare.</p><p xml:id="_6VpcMpD">The cash savings is a binary variable that takes on the value of 1 if a household has cash savings in a given year. <ref type="bibr">14</ref> Food security is measured by two indicators; the first is 'food availability' which ranks food availability in a household among four possible outcomes: 'always deficit' [1], 'deficit some times' [2], 'neither deficit nor surplus' [3], or 'food surplus' [4]. The second indicator is a binary measure called 'two meals a day' that takes on the value of one when the household members can have at least two meals a day, and zero otherwise. The clothing variables refer to the main type of male and female clothing in Bangladesh: saree (female clothing), and lungi (male clothing). The 'shoe/sandal' is a binary variable with a value of one when all the household members own shoes or sandals and zero otherwise. <ref type="bibr">13</ref> Because only the balanced panel was coded, we cannot analyze the issue of panel attrition. <ref type="bibr">14</ref> It is important to note that most of the savings is not voluntary, it is part of the program. One might thus wonder if it useful to look at cash savings as an outcome. Our view is that it depends on what one is interested in. If the interest is to understand the changes in economic lives of the poor due to participation in TUP program, the cash saving is clearly an outcome of the program participation. But if one is interested in behavioral responses in savings due to income effect of the program, the "forced" savings is clearly not informative.</p><p xml:id="_gHy6syC">The physical assets include livestock (cows/bulls, ducks, hens, etc.) and other productive assets (such as a fishing nets, rickshaw vans, and "big trees"). The asset measures do not include any assets transferred from the TUP program. <ref type="bibr">15</ref> Household durable goods include tube wells as well as chairs, beds, radios, TVs and quilts. Some of the durable goods such as beds, chairs and quilts may be considered as basic needs of a household, and others such as TV and radio are 'luxury' goods, given the low level of income and assets of the households. There are two health indicators on subjective health conditions reported by the respondents. The 'health status' variable asks the respondent to rank his/her perceived current health status given five options: Excellent [2]; much worse [1]. Note that the subjective health indicators may have systematic measurement errors because the TUP program raises health awareness of the participants. Thus a negative response might reflect the fact that an individual is better aware of the preexisting conditions, rather than a worsening health status.</p><p xml:id="_jq3GVpf">As indicators of women's welfare and empowerment we use the ratio of saree (female clothing) to lungi (male clothing), child labor among girls, and schooling of girls. <ref type="bibr">16</ref> In Bangladeshi society, saree is prized by women, and for the poor households, the ratio of saree to lungi is a reasonable indicator of relative expenditure on feminine goods in the household. <ref type="bibr">17</ref> There is a large literature that uses relative expenditure on feminine goods as an indicator of female empowerment (see, for example, Deaton 1989). These indicators of women's welfare and empowerment, although useful, are admittedly limited, and thus the conclusions about women's empowerment in this paper should be treated with appropriate caution.</p><p xml:id="_JSWVRmM">Our analysis covers both flow and stock variables, and one might plausibly argue that three years may not be enough to capture long term effects of the program, and thus the evidence on the stock variables should be interpreted with appropriate caveats. It is possible that our analysis underestimates of the long-run effects of program participation on the stock variables.</p><p xml:id="_rgpcXxZ">Table 1 presents the summary statistics of the relevant variables used in this paper. One can see some interesting changes from 2002 to 2005 for the sample of households in the panel. (4) Empirical Strategy Since BRAC did not incorporate any randomized control trials in TUP phase I, we have to rely on the non-experimental data to estimate program effects on household outcomes. To address potential bias due to the non-experimental nature of the data, we use a two-pronged strategy: (1)   we pay careful attention to potential selection issues, and use a rich set of econometrics techniques to tackle them, and (2) we use alternative treatment and comparison groups. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_AsBMytK">(4.2) The Potential Selection Issues</head><p xml:id="_UuBNUGF">There are two levels of selection issues for any given treatment-comparison pair: (i) BRAC's selection process, and (ii) the participation decision by a household. As discussed earlier, BRAC's selection process was based on a set of explicit inclusion and exclusion criteria. To understand the nature of potential selection bias arising from BRAC's selection process we need to have an implicit model of the actual decision making by the BRAC employees.</p><p xml:id="_agrNbpH">A simple but not implausible model is to assume that BRAC employees were following the set of inclusion and exclusion criteria, and thus the assignment errors discovered in the data are largely due to either randomness arising from human fallibility and other factors, or due to the fact that some eligible households declined to participate in the program. If self-selection out of the program by eligible households is important then households in the treatment group may systematically differ from the comparison group. This potential bias arising from self-selection out of the TUP program, however, is not likely to be important, as non-participation in phase I of this program by a selected ultra-poor was reported by BRAC to have been uncommon.</p><p xml:id="_heJcCup">An alternative model is to assume that BRAC employees were using both the formal criteria and private information available to them. In this case, the objective function of the BRAC employees becomes relevant. If the objective was to identify the true ultra-poor, then the group of households who should have been in the program according to the set of formal criteria but were not selected (i.e., SB 0 ) must be relatively well off (more advantaged) in terms of initial economic conditions and characteristics in 2002. Under the alternative assumption that the objective was to identify and exclude potentially high risk households so as to help ensure the "success" of the program, then the SB 0 group is likely to be systematically more disadvantaged in 2002. In the presence of heterogeneity among the BRAC employees, both positive and negative selections are likely to characterize our data set. The relevant issue is whether such heterogeneity cancels out on average, or if there is either positive or negative selection in net terms. The evidence presented below is consistent with the interpretation that in net terms the negative selection dominates for both the treatment-comparison pairs; the treatment groups had systematically disadvantaged initial conditions in 2002.</p><p xml:id="_sxc87u7">Table <ref type="table">2a reports</ref>   <ref type="table">2a</ref> is that most of the entries are negative implying that a treatment group in general exhibits adverse initial conditions compared to the respective comparison group. The fact that the treatment group SU P was systematically disadvantaged in 2002 indicates that even in the presence of mistargeting the TUP program participants are on average poorer households among the poor. As noted before this also points to the possibility of negative selection biases under the plausible assumption that selection on unobservables is similar to the selection on observables (Altonji et al. 2005).</p><p xml:id="_58qzzq4">The evidence in Table <ref type="table">2a</ref> also shows that the difference in the means is, in general, much lower for the treatment-comparison pair SB 1 -SB 0 . In contrast, there are some significant and relatively large differences in the initial conditions in 2002 between the treatment and comparison groups as defined by BRAC (i.e., the subsets SU P and N SU P ) and used by BRAC's Research and Evaluation Division (RED) in its "descriptive analysis" of the TUP program (Rabbani, Prakash,   and Sulaiman, 2006). <ref type="bibr">18</ref> Consider for example, total land and number of cows and bulls owned by a household, which are among the most important household assets in rural Bangladesh. The differences in means for total land owned are: -0.59 (SB 1 -SB 0 ), and -3.94 (SU P -N SU P ), and for the number of cows and bulls are -0.03 (SB 1 -SB 0 ), and -0.15 (SU P -N SU P ). The same pattern holds for most of the other variables in Table <ref type="table">2a</ref>.</p><p xml:id="_rTZCPnt">It is reassuring that the subsamples SB 1 and SB 0 closely resemble each other according to the observable characteristics reported in Table <ref type="table">2a</ref>. It thus seems most appropriate to use SB 0 as the comparison group to estimate the effects of TUP program on the treatment group SB 1 . <ref type="bibr">19</ref> To tackle any remaining selection biases, we use a battery of recent econometric approaches (see below).</p><p xml:id="_B3hUqF2">The evidence indicates that there are important differences in the initial conditions across the different treatment groups. Table <ref type="table">2b</ref> reports the group averages of a set of variables in 2002 across the treatment groups. Although the groups are similarly situated according to some observables like food availability, and quality of houses as indicated by the roof made of tin, the SB 1 group is the poorest among them. An average SU P household owns 35 percent more land than an average (4.3) Econometric Approaches</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_NajHkXN">Matching Estimators and Beyond</head><p xml:id="_5zumgr9">Following Heckman et al. (1998), we combine the difference-in-difference approach with matching (the DIDM estimator). As mentioned earlier, the DIDM approach purges any time invariant additive heterogeneity at the individual level by time differencing (i.e., household fixed effects); and then matching on the pre-intervention characteristics takes care of selection on observables in a flexible way without imposing any particular functional form. This, however, may not adequately address the possibility that the estimated treatment effect may be contaminated by selection on unobservables that vary over time. The assumption that most unobservables are time invariant or change very slowly over time may not be appropriate in our context. The households are given training to use the transferred assets and also various forms of information (such as health) are provided on an ongoing basis by the TUP program. The sphere of their social interactions also broadens through the "village elders". The learning by doing effect may also be substantial because many borrowers manage productive assets for the first time in their life. <ref type="bibr">20</ref> Also, the BRAC field officers went through a learning process themselves, especially because it was the first phase of a new program. It is plausible that there is substantial heterogeneity in the ability of BRAC field officers, and this influenced the learning by the borrowers differentially over time.</p><p xml:id="_wWGVxFU">We use two alternative approaches to address possible biases in the DIDM estimates. First, we implement the 'minimum bias inverse probability weighted' (MB-IPW) estimator developed by Millimet and Tchernis (2012). The MB-IPW estimator starts from the inverse probability weighted matching estimator developed by Hirano and Imbens (2001), which weights the observations on the treatment group by the probability of being treated (the inverse of the propensity score) and weights the observations in the control group by the probability of not being treated (i.e. one minus the inverse of the propensity score) and minimizes any possible bias in the estimates arising from the failure of the conditional independence assumption by using an appropriately trimmed sample around the bias minimizing propensity score. <ref type="bibr">21</ref> In our case, we used θ = 0.25, which means that at least 25 percent of both the treatment and control groups have a propensity score in the interval used (described below). Second, and more importantly, we provide estimates of the effects of the TUP program that address possible selection on unobservables (omitted variables bias) by using the heteroskedasticity-based identification approach due to Klein and Vella   (2009). 22 <ref type="bibr">20</ref> The household fixed effects take care of the heterogeneity in the innate entrepreneurial ability, but not the dynamic learning by doing effect. Also, it is possible that the entrepreneurs themselves do not know their ability and learn about it over time when they participate in the TUP program. For a theoretical model of credit market failure in entrepreneurial development in such cases of discovery of ability, see Emran and Stiglitz (2009). <ref type="bibr">21</ref> Millimet and Tchernis call it the Minimum Bias (MB) estimator, but we find it informative to use the term Minimum Bias Inverse Probability Weighted (MB-IPW) estimator, because it builds on the IPW estimator due to Hirano and Imbens (2001). <ref type="bibr">22</ref> An increasingly popular approach to understanding the implications of violation of the conditional independence assumption in a matching estimator is to use sensitivity analysis following Aakvik (2001). An earlier version of this paper reported results from such sensitivity analysis in the context of the DIDM estimator. We, however, chose to omit those results from the paper, because such a sensitivity analysis is based on an arbitrary and implausible assumption that selection on unobservables is always positive. Such a sensitivity analysis is of little value, if not counterproductive, for two reasons. First, in Table <ref type="table">2a</ref> we provide evidence consistent with negative selection in our data set. The existing econometric evidence in fact supports the notion that selection may be negative in the case of the microfinance programs in Bangladesh (see, for example, Pitt and Khandker 1998; Schroeder 2010). Also, the sign of the selection bias (or omitted variables bias) is likely to depend on the outcome under focus. The evidence of negative selection provided by both Schroeder (2010) and Pitt and Khandker (1998) concerns household consumption as the relevant outcome. We are not aware of any formal evidence that shows positive selection into microfinance or TUP programs in Bangladesh. Second, sensitivity analysis using Rosenbaum bounds does not address the possible bias from measurement error.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_vEDs5tM">Heteroskedasticity Based Identification: the Klein and Vella (2009) Approach</head><p xml:id="_ZvkpNQp">There is now a substantial econometric literature that shows that in the absence of credible exclusion restrictions required for an instrumental variables strategy, one can use heteroskedasticity for identification (see Rigobon 2003; Klein and Vella 2009, 2010; Lewbel 1997, 2012). As noted by Rigobon (2003), analogous to the standard instrumental variables, heteroskedasticity can be understood as an exogenous 'probabilistic shifter' of the endogenous treatment variable which helps us trace out the causal relation between a dependent variable (household outcomes such as food availability) and the endogenous treatment variable (microfinance membership). In recent papers, Klein and Vella (2009, 2010) show that when the treatment equation in a triangular model exhibits heteroskedasticity, this effectively induces an exclusion restriction even though there is no standard exclusion restriction available. Monte Carlo evidence from a number of recent studies shows that the Klein and Vella approach (henceforth K-V for short) is effective in correcting for the endogeneity bias, and also the bias from measurement error (Ebbes et al. 2009; Klein and   Vella 2009, 2010; Millimet and Tchernis 2012).</p><p xml:id="_mnusy84">To provide intuition behind the approach, we consider the following triangular model:</p><formula xml:id="formula_0">∆Y i = α 0 + α i + αM i + X i ´γ1 + ξ i<label>(1)</label></formula><formula xml:id="formula_1">M i = 1{β 0 + β i + X i ´β1 + u i &gt; 0}<label>(2)</label></formula><p xml:id="_B5pbSU5">where ∆Y i is the change from 2002 to 2005 for an outcome of interest (such as income, assets, etc) of household i; M i is a dummy that equals one if the household i is a participant of TUP program and zero otherwise and α i and β i are household fixed effects. The focus is on the identification and estimation of the parameter α. The model does not impose any exclusion restrictions on equation (1), and identification of the causal effect α is not possible if the error terms are homoskedastic. <ref type="bibr">23</ref> Assume that the error term in the treatment equation is heteroskedastic of the following form:</p><formula xml:id="formula_2">u i = S u ( X i π)ũ i (<label>3</label></formula><formula xml:id="formula_3">)</formula><p xml:id="_nM4JQZd">where ũi is a zero mean homoskedastic error, Xi ⊆ X i are the variables generating heteroskedasticity, and S u ( Xi ) is a positive and nonconstant function. In this case, the probability of treatment (probability of TUP membership) can be written as follows (ignoring the fixed effects):</p><formula xml:id="formula_4">Pr (M i = 1) = P X i β 1 S u ( X i π)<label>(4)</label></formula><p xml:id="_kVB9fzJ">where P (•) is the distribution function for ũit . With homoskedastic errors, S u ( X i π) is a constant, and the only source of identification is possible non-linearity of the P (•) function such as a Normal distribution. However, such identification based on the non-linearity in the tails of the distribution may not be very useful because it relies on a small fraction of the data (for discussions on this point, see Altonji et al. 2005 and Klein and Vella 2009). In contrast, when there is heteroskedasticity,</p><formula xml:id="formula_5">S u ( X i π)</formula><p xml:id="_RKE2en7">is not a constant function, and identification also exploits data from the region where P (•) is approximately linear. The predicted probability of treatment from estimating equation ( <ref type="formula" target="#formula_1">2</ref>) above becomes a valid instrument in the presence of heteroskedasticity, because it is no longer a linear combination of the control variables in the outcome equation ( <ref type="formula" target="#formula_0">1</ref>). Note that if the amount of heteroskedasticity is not substantial, then there is little identifying variation in S u ( X i π), and the predicted probability may be a weak instrument. For the specification of the S u ( X i π), we follow the parametric approach developed in Farré, Klein and Vella (2010) which is based on the model of heteroskedastic probit due to Harvey (1976).</p><formula xml:id="formula_6">S u ( Xi ) = e X i π<label>(5)</label></formula><p xml:id="_wQVu99f">A limitation of the heteroskedasticity-based identification is that it is not appropriate for the binary outcomes. Another disadvantage of the heteroskedasticity-based instrumental variable approach is that the estimates are likely to be less efficient than the usual IV estimates, because identification here relies on information about the second moment of the data (Lewbel 2012).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_3fStqvK">(5) Estimated Effects of the TUP Program</head><p xml:id="_dJUzWXB">In this section, we report the estimated treatment effects on a set of household outcomes including income, land ownership, basic needs such as food availability and clothing, assets, child labor, schooling, and health related indicators. As a benchmark, we report estimates from an augmented difference-in-difference specification.</p><p xml:id="_Uhv2UdN">We use the following difference-in-difference specification:</p><formula xml:id="formula_7">Y it = α 0 + α 1 d 05 + α 1R (d 05 * d R ) + α 1K (d 05 * d K ) + α 2 d T + X 02 Π + β (d T * d 05 ) + it<label>(6)</label></formula><p xml:id="_R9gN8Pe">where Y it is the outcome variable of interest for household i in year t, d 05 is a dummy that equals 1 for the year 2005, and d T is a dummy that equals 1 when household i belongs to an appropriately defined treatment group (i.e., SB 1 , SU P ) and equals zero when a household belongs to the corresponding comparison group (i.e., SB 0 , N SU P ). The parameter of interest is β, which isolates the treatment effect on outcome Y under certain assumptions. The crucial difference-indifference identification assumption is that the treatment and comparison groups would follow the same trend in the absence of the program. If this assumption is not satisfied, the estimate of the treatment effect β will be biased when we use OLS to estimate equation ( <ref type="formula" target="#formula_0">1</ref>). Thus we augment the DID specification in two ways to make it more plausible that the counterfactual trend for the treatment group is well represented by the actual trend in the comparison group. First, we allow for differential time trends in the different districts where the households are situated in: d R and d K are dummies for Rangpur and Kurigram districts respectively. <ref type="bibr">24</ref> In addition, we allow for the possibility that the trends might differ across households with different observable characteristics.</p><p xml:id="_cQh9vea">Thus, we also control for a set of observables that are likely to be important for selection into the treatment (either because of BRAC's criteria, or the household's own outside option).</p><p xml:id="_3cG4vCm">The DID estimates, although useful as a benchmark, do not fully exploit the panel dimension of the data; and also rely on the assumption that the control variables do not have any nonlinear effects on the outcomes. To address these twin issues, we implement the DIDM approach with household fixed effects. The DIDM estimates are reported in column (3) of Tables 3a (for SU P ) and 3b (for SB 1 ). An important step in implementing the DIDM approach is to choose an appropriate set of observable characteristics that are likely to be important in determining the selection into treatment and may also affect the outcome variables (Heckman and Navarro-Lozano   2004; Blundell and Dias 2009). As discussed above, we need to consider two levels of selection:</p><p xml:id="_TfA9B4R">BRAC's selection process and also the participation decisions of the households. We thus use observables that reflect these two levels of selection problems for matching. To account for the BRAC selection process we use the TUP program's own set of inclusion criteria.</p><p xml:id="_4gr4ZRS">Moreover, we include indicators of physical and human capital (for example, land owned, household size, gender dummy, and the indicator of women working as day laborers). As emphasized by Emran, Morshed and Stiglitz (2007), the outside option of a household and thus the net return from participation in the TUP or other NGO programs depends on the nature of labor market interactions and the shadow value of labor, especially of women's labor. In a perfect labor market, the labor and land endowments would not affect the incentives to take loans, given the wage rate (i.e., separability holds). In contrast, in an imperfect labor market, more labor endowment, ceteris paribus, implies low shadow value of labor, and such a household would find it more attractive to borrow from microfinance NGOs. In effect, the microcredit allows a household to create demand for labor within the household; this is especially valuable when they cannot find employment outside, for example, because of high unemployment rate. We thus expect that the effect of labor endowment will be positive on the probability of joining into the microfinance programs. Similar arguments imply that the effects of higher land endowment will be negative, as more land, ceteris paribus, increases the shadow price of labor.</p><p xml:id="_T3Hp2pj">We include household size as an indicator of labor endowment of the household, and the variable "day labor" as a measure of labor market participation by women. We also include "land owned," as it is a crucial variable for the determination of the shadow price of labor and also whether a woman is excluded from the formal credit market (lack of collateral) and the labor market (efficiency wage effects). All of the matching variables are from the 2002 baseline survey.</p><p xml:id="_AKNXGfP">The estimated selection equations for the SU P and SB 1 treatment households are reported in</p><p xml:id="_DwpDcQE">Table A.1 in the appendix. The results from the probit regressions show that, for SU P , the participation/selection into the TUP program depends on a household's land and labor endowments. Consistent with the theoretical predictions of Emran et al. (2007), land has a negative and labor endowment a positive effect on the probability of participation in the TUP program.</p><p xml:id="_RtWDv6N">Also, among the five inclusion criteria, the fourth criterion (adult women working outside the home) and the fifth (no productive asset) have significant positive effects on the probability of selection into the program. The results from probit regressions for the SB 1 households show the importance of inclusion criteria four and five for their selection into the program. However, land and labor endowment do not have a significant effect in the case of the SB 1 households, although they bear theoretically consistent signs.</p><p xml:id="_A6fVrcs">Another important issue in the implementation of any matching estimator is the common support. We chose the set of covariates so as to ensure ex-ante a balanced matching quality, which we tested with a visual inspection of the density function of the propensity score in both treatment and control groups and with a test of differences of the mean propensity score for treatment and control. We imposed the common support region for each or our samples, SB 1 /SB 0 and SU P/N SU P . In the SB 1 /SB 0 group, the common support region is [0.22, 0.80] and used 1656 of the 1657 observations available. In the SU P/N SU P case, the common support region is [0.00, 0.78] and uses 4842 of the 4854 observations available. Thus, there is no selection in the information lost by the common support imposition. The results for the DIDM estimator reported in this paper are based on the radius caliper algorithm for matching. However, note that the estimates from alternatives such as kernel matching are very similar (the results are available from the authors).</p><p xml:id="_4QypzQB">The estimates from the MB-IPW estimator with household fixed effects are reported in column (4) of Tables <ref type="table">3a</ref> and <ref type="table">3b</ref>. We use a wide radius (θ = 0.25) for trimming the sample around the bias minimizing propensity score<ref type="foot" target="#foot_10">foot_10</ref> , as the Monte Carlo results in Millimet and Tchernis (2012)   show that MB-IPW with a wide radius effectively corrects for endogeneity bias.</p><p xml:id="_g5msp4D">Finally, in column (5) of tables 3a and 3b, we report estimates from the Klein and Vella (2009)   estimator with household fixed effects that correct for selection on unobservables and measurement error. They are our preferred estimates for continuous outcomes. <ref type="bibr">26</ref> Following Klein and Vella  (2009) and Farré et al. (2010), we include the full set of explanatory variables in the heteroskedastic probit specification, thus allowing for the possibility that potentially all of the variables can give rise to heteroskedasticity in the microfinance participation equation. An important issue here is whether the heteroskedasticity-based instrument derived from the heteroskedastic probit model is strong enough to identify the effects of the TUP program participation. <ref type="bibr">27</ref> The LR test for the null of homoskedasticity is convincingly rejected in both the samples; the P-value is 0.00 for SUP and 0.03 for We first consider the effects of the TUP program participation on the BRAC's own treatment group SU P . Despite the fact that it includes relatively better-off households, the effects of the program on the SU P treatment group can be interesting; a comparison with the effects on the treatment group SB 1 that excludes the relatively better-off households can be particularly illuminating. Table <ref type="table">3a</ref> reports the results for the SU P treatment group; the standard errors are clustered at the village level (there are 27 villages in the data set).</p><p xml:id="_ewXvt9W">The benchmark DID (column 1) estimates suggest that participation in the TUP program for an SU P household had positive effects on a number of outcomes including per capita income, cash savings, food security, land ownership, quality of housing (with tin roof), livestock (cows and bulls, goats and sheep, and ducks and hens), other productive assets (number of big trees and fishing nets, for example), and household durables (with the exception of radio/TV). <ref type="bibr">29</ref> However, there seems to be no significant effect on the indicators of female empowerment and child labor. Interestingly, the results indicate that TUP participation leads to improvements in women's clothing (number of sarees), but there is no significant effect on men's clothing (lungi). Participation in the TUP program also improves the probability that all the members of a households have shoes/sandals. The evidence on health outcomes is conflicting, while there is improvement compared to the health status in the last year, we do not find evidence of an improvement in over-all health status that can be attributed to the TUP program participation.</p><p xml:id="_UVwRJZb">The estimates from the two matching estimators, DIDM (column 2) and MB-IPW (column 3), are very close to each other, with the point estimates numerically identical in many cases. While for most of the household outcomes columns 2 and 3 show similar results, the estimates from the matching estimators reveals a few notable differences compared to the DID estimates. Probably the most important is the estimated effect on the total land endowment of a household; the effect is negative and insignificant according to both DIDM and MB-IPW, while it is positive, numerically substantial (1.41) and statistically significant at the 5 percent level in the DID specification in column (1). Moreover, the effects on the ownership of homestead land and number of big trees are much smaller according to the matching estimators when compared to the DID estimate.</p><p xml:id="_XS8dnqt">In contrast, the effect on male clothing is more than three times larger and also statistically significant at the 1 percent level according to the matching estimators. But it is numerically small and not statistically significant according to the DID estimate. <ref type="bibr">30</ref> The last column in Table <ref type="table">3a</ref> reports the estimates from the Klein and Vella (2009) approach, implemented with household fixed effects. The first thing to note is that the effect of TUP membership on per capita income of an SU P household is numerically much larger according to the heteroskedasticity-based instrumental variable estimate. But the standard error is also large, and the effect is not significant at the 10 percent level. A conservative interpretation of the results on income in Table <ref type="table">3a</ref> is that the evidence is not very strong that TUP participation has a positive effect on the income of an average SU P household. An alternative interpretation, which in our view is more plausible, is that, if anything, the evidence suggests that TUP membership increases income, because all four estimates in Table <ref type="table">3a</ref> are numerically large, and the large standard error of the K-V estimate probably reflects, at least partly, the inefficiency of the heteroskedasticity-based estimator noted earlier. This interpretation is also consistent with the robust evidence from the matching estimators of a positive effect on cash savings, ownership of homestead land and quality of housing (tin roof) for a SU P household. The K-V estimate also strengthens the conclusion that TUP improves significantly the over-all food availability (the effect is about 50 percent larger according to K-V). The TUP program effect is much larger for male clothing according to the K-V estimate; it increases from 0.22 (DIDM) to 0.70 (K-V) and is significant at the 10 percent level. The estimated effect for female clothing (saree) is somewhat smaller; it declines from 0.28 (DIDM, and MB-IPW) to 0.22 (K-V), and it is no longer significant at the 10 percent level.</p><p xml:id="_cGBSNRs">Considering the impact on livestock ownership, the effect on the number of cows/bulls a household owns seems to be very robust, but the evidence in favor of a substantial positive effect is much weaker according to the K-V estimates for the other livestock such as goats, sheep, ducks, and hens. The estimated effect for other livestock is numerically smaller compared to The DIDM and MB-IPW estimates for SB 1 are reported in columns (2) and (3) respectively in Table <ref type="table">3b</ref>. The results from DIDM and MB-IPW estimators are in general close to the DID estimates reported in column (1). Among the few exceptions are the number of big trees and two indicators of health. The effect on male clothing is much larger according to the matching estimators. In contrast, the positive effect on the two health outcomes found in DID becomes smaller and statistically not significant according to both DIDM and MB-IPW.</p><p xml:id="_P8gphXS">The last column in Table <ref type="table">3b</ref> reports the estimated program effects from the heteroskedasticitybased instrumental variables approach of Klein and Vella (2009) with household fixed effects for the SB 1 households. A comparison with the estimates from the matching estimators in columns (2) and (3) shows some interesting differences. The K-V estimates for per capita income are about 33 percent larger than the matching estimates, and significant at the 10 percent level. The K-V estimates for food availability are consistent with the conclusion that participation in the TUP program enhances food security of an average SB 1 household. The magnitude of the program effect on 'food availability' is about 20 percent larger, and it is significant at the 5 percent level.</p><p xml:id="_t7TqU8Z">The K-V estimates when combined with the estimates from the matching estimators provide strong evidence of a substantial and significant positive effect of TUP participation on livestock (cows, bulls, goats and sheep). However, the positive and significant program impact indicated by the matching estimators is not supported by K-V results for a number of household outcomes such as male clothing, ducks and hens, and some of the durables (chairs, tables, quilt/blankets, tube wells). The results thus suggest that the estimates from the matching estimators may be biased upward for these outcomes.</p><p xml:id="_7gThKGm">The K-V estimate of the effect on female clothing (saree) is numerically much larger than the estimates from the matching estimators, and it is also significant at the 5 percent level. The overall evidence thus is very robust that the TUP has a substantial positive effect on female clothing. But there is no evidence, according to the K-V estimates, that male clothing (lungi) or the ratio of female to male clothing (saree to lungi) are positively affected by the program participation in any appreciable manner. <ref type="bibr">31</ref> Interestingly, the K-V instrumental variable estimates suggest that the TUP program participation increases productive investment such as livestock and big trees, but reduces the expenditure on luxury items such as radio/TV. <ref type="bibr">32</ref> . The results on female clothing and radio/TV thus indicate that, in some cases, the estimates from the matching estimators may under-estimate the program effect. Applying the sensitivity analysis within a matching approach that arbitrarily assumes a positive selection effect (upward omitted variables bias) would clearly be counterproductive in such cases.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_hAaV9ZZ">(5.3) Comparison Between the Treatment Groups, and Broader Implications of the Empirical Results</head><p xml:id="_V885JM7">The evidence presented in Tables <ref type="table">3a</ref> and <ref type="table">3b</ref> is interesting for three reasons: (i) TUP program seems to have robust beneficial effects on food security, cash savings, and household assets such as livestock and housing for both the treatment groups, (ii) the TUP program effect may be different for different treatment groups (for example, on income and expenditure and on luxury goods), and (iii) the estimates from the sophisticated difference-in-difference and matching estimators may be biased in some cases.</p><p xml:id="_73tk77p">The evidence in Tables <ref type="table">3a</ref> and <ref type="table">3b</ref> shows that, in many cases, the estimates of the program effects from difference-in-difference and matching estimators are consistent with those from alternatives such as heteroskedasticity-based identification. However, a comparison with the Klein and   Vella (2009) estimates also suggest that the estimates from sophisticated difference-in-difference and matching estimators can potentially under or overestimate the causal effects of a microfinance program. This is consistent with other recent evidence on the performance of the matching estimators (see, in particular, the evidence on the effects of school breakfast program in Millimet   and Tchernis 2012).</p><p xml:id="_cdGNTaC">The evidence strongly suggests that TUP participation confers significant benefits to a participant household, irrespective of the treatment group considered. A comparison of Tables <ref type="table">3a</ref> and <ref type="table">3b</ref> shows that, for many outcomes, the estimated effects are similar between the two treatment groups, but this apparent similarity hides important differences. This is because of the fact that the households in two treatment groups start from very different initial conditions in 2002. Since households in the SB 1 treatment group are poorer with lower initial income and asset positions, the gains from participation when normalized by the initial conditions are, in general, much higher for the SB 1 households. For example, the mean stock of cows/bulls was 0.01 for SB 1 and 0.04 for SU P in 2002. The estimated program effect is 1.57 for SB 1 and 1.31 for SU P . If we express as proportion of the initial stock to get a measure of 'normalized program effects', the program effects on cows/bulls become 157 times of the initial stock for SB 1 and 32.75 times of the initial stock for SU P . This dramatically illustrates the importance of taking into account the fact that the poorest of the poor start from much worse initial asset positions. We report the normalized program effects in Tables 4a (for SU P treatment group) and 4b (for SB 1 treatment group). Had the program concentrated on the poorest of the poor, the program effects would have been larger than those found.</p><p xml:id="_yWBnNFY">While all the participant households seem to invest in livestock and housing improvements, the poorest of the poor households who are the target group of the TUP program (i.e., the SB 1 treatment group) do not spend their money on luxury goods such as radio/TV.</p><p xml:id="_DF5kAPW">On the other hand, the evidence also suggests that the TUP participation does not have any significant effect on our indicators of women's empowerment, health, and child labor.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_9MV6AWv">(6.) Conclusions</head><p xml:id="_K8cMnH6">Using a two-period household level panel data set, this paper provides robust evidence on the effects of BRAC's Targeting Ultra-poor Program (TUP Phase I) on a set of important household outcomes for the ultra-poor. We use a battery of recent econometric approaches and alternative treatment-comparison groups to identify and estimate the effects of TUP program participation.</p><p xml:id="_p8t3DwQ">In addition to BRAC's own treatment-comparison groups, we utilize the type 1 errors in assignment (mistargeting) in BRAC's screening to create an alternative treatment-comparison pair. This allows us to identify a treatment group composed of the poorest of the poor (i.e., ultra-poor) among the sample households and also an appropriate comparison group for this treatment group.</p><p xml:id="_xcmFBCy">To estimate the effects of the TUP program, we use recently developed matching estimators and a heteroskedasticity based identification approach that takes into account selection on both observables and unobservables. The results show that there is significant impact of TUP program participation on food security, cash savings and livestock of the ultra-poor households. The evidence also indicates that the TUP program may not have any significant effects on health related outcomes, women's empowerment and some of the productive assets examined. When the differences in the initial conditions are taken into account, we find that the normalized program effects are significantly larger for the treatment group consisting of the poorest of the poor households, i.e., SB 1 . Had the program concentrated on the poorest of the poor, the program effects would have been larger than those found.</p><p xml:id="_Aj28eMP">An interesting finding from our analysis with potentially broad policy implications is that the effects of an ultra-poverty program on the poorest of the poor may be different from the effects on an average participant in the program when there is mistargeting. Compared to an average program participant, the poorest participants (i.e., SB 1 ) gain more in per capita income, invest more in productive assets such as cows/bulls and goats/sheep, and do not increase expenditure on the luxury goods such as radio/TV. This implies that the researchers should carefully define the treatment and comparison groups using program criteria, especially when there is significant mistargeting in a program. The substantive conclusions can differ depending on the treatment group under focus in an analysis. The evidence also indicates that the effectiveness of the TUP program would improve substantially with better targeting.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_nUYGnSN">Appendix 1: Creating Variables for the Errors in Assignment Analysis</head><p xml:id="_aUWBYxp">Initial eligibility for people living in poverty to join the program is based upon selection at a meeting of the village, which designates households in the lower two socioeconomic strata; but among those selected as potentially eligible ultra-poor by the village, the NGO then selects participants according to three exclusion criteria and the presence of at least 3 out of 5 inclusion criteria (Noor et al. 2004, p. ix). The exclusion criteria are EC1 (the household is not a member of another NGO), EC2 (the household is not a recipient of a government welfare food distribution program), and EC3 (there is no female able to work in the household.)</p><p xml:id="_83SPpb8">We created our own designation of those eligible using the survey data. To do so for the case of NGO membership we used the responses to: (i) whether the household had NGO savings (variable "ngos" -selected 340 observations); (ii) whether the household had a loan from an NGO (variable "ngoln" -selected 64 observations); (iii) whether the materials for the house wall and roof were provided by an NGO -tins1=3, (selected 32 observations); (iv) whether the source of a loan was from an NGO (variable srln -selected 1 observation), and (v) whether the household was indicated as a member of more than one NGO (selecting 23 observations). This classification selected 444 observations for the year 2002, of which 49 had been selected as SU P members for the program despite apparent ineligibility.</p><p xml:id="_VUeU7YT">Exclusion criterion 2 was composed of the following variables: (i) whether the household had government benefits (gprben1=2), which selected 28 observations; (ii) whether main source of income was government benefits, in main source of income, for three primary sources (variables msoi1, msoi2, msoi3), which selected 3, 11 and 7 observations respectively. This classification selected 127 observations, of which 35 had been selected as SU P members for the program.</p><p xml:id="_87vUaUd">To create EC3 we used the variable disab1, those women who presented a disability. This selected 48 observations, of which 22 previously had been selected as SU P members. Overall, according to the exclusion criteria, we identified 103 participants who were selected despite being ineligible.</p><p xml:id="_2zgEpJE">With respect to the inclusion criteria, the household had to meet at least three out of five conditions in order to be considered for the TUP program. They were: IC1: owning less than 10 decimals of land (a tenth of an acre), including homestead; IC2: no male income earner at home; IC3 children of school-age working; IC4: adult women of household selling labor outside homestead; and IC5: household having no productive assets.</p><p xml:id="_2yPPYMk">With respect to the first inclusion criterion (ownership of less than 10 decimals of land, including for their homestead), we created a dummy variable for whether the household owns self cultivated land, owns land that others cultivate, owns homestead land, or owns land that is un-cultivated. This criterion selects (as eligible) 4624 out of the 5067 for the year 2002, of which 2279 had been selected for SU P .</p><p xml:id="_K36n6kr">For the second inclusion criterion, no male income earner present at home, we first created a dummy variable for the presence of no male income earner at home, as the intersection of males of working age (more than 14 years old) that are not working. There are 66 observations that fulfill this criterion, of which 27 already had been selected as SU P . The second auxiliary variable constructed was a dummy for the presence of no male at home (additional to the previous one, no male earner). This variable selects 1893 observations, of which 1085 had been selected for SU P participation.</p><p xml:id="_53ESgNK">For the third inclusion variable, that school-age children present in the household are working, we used questionnaire data to that effect, which selected 740 observations, of which 372 had been selected as an SU P .</p><p xml:id="_EEu4R5N">For the fourth inclusion criterion, that there are adult women selling labor outside the homestead, we selected those observations for which the main source of income (for the first three primary occupations) were: 5 =daylabor (agriculture), 6=daylabor (non-agriculture), 7=small business/trading, 9=begging, 10=servant, 11=professional. This selected 1627 observations, of which 994 had been already selected as SU P .</p><p xml:id="_yf7qkNA">For the fifth inclusion criterion that the household had no productive assets, we used the dummy variable "prodasst", which selected 2791 observations, of which 1520 were already SU P members.</p><p xml:id="_Ms3yngy">Finally, to construct the inclusion criteria, we considered those observations that fulfilled at least three out of the five conditions. According to these data, there were 1727 observations that should have been classified as SU P , of which 641 were not.</p><p xml:id="_seEEqgw">According to the exclusion and inclusion criteria, we have created the following groups: Table 1a: Variable description, cont. Household Durables Number of chair/tables Number of assets owned Number of beds Number of assets owned Number of radio/TVs Number of assets owned Number of quilt/blankets Number of assets owned Number of tube wells Number of assets owned Health Health status Answer to the following question: 'How do you perceive your current health status?' Excellent [5], Very good [4], Good [3], Fair [2], Poor/Bad [1] Health improvement Answer to 'How do you consider your health compared to last year?' Much better than one year ago [5]; somewhat better now [4]; about the same [3], somewhat worse [2]; much worse [1]. Female Empowerment Ratio of saree to lungi Ratio of the female clothing to male clothing. Presence of female children working (dummy) Presence of female child labor. Ability of female children to read and write a letter (dummy) Years of schooling of female children Child Labor Presence of child labor (dummy) Binary variable equal to one if the household declares that there are children under 15 working Observable Characteristics Household size Size of household Female working as daylabor (dummy) Binary variable equal to one if the household female works as a daylabor. Sex of household head (dummy) Binary variable equal to one if the household head is a female Total amount of land owned In tenth of acres</p><p xml:id="_M8vQH7b">Table 1b: Summary statistics Year Mean Std. Dev. Obs Income and savings Per capita income 2002 2660.30 2258.69 5035 2005 3980.69 2647.00 5067 Cash savings (dummy) 2002 0.15 0.35 5067 2005 0.61 0.49 5067 Food security Food availability 2002 1.55 0.63 5067 2005 2.06 0.78 5067 Meals twice a day (dummy) 2002 0.60 0.49 5067 2005 0.40 0.49 5067 Land and housing Total amount of land owned 2002 4.30 14.57 5067 2005 4.36 15.11 5067 Own homestead land (dummy) 2002 0.54 0.50 5067 2005 0.53 0.50 5067 Roof made of tin (dummy) 2002 0.50 0.50 5067 2005 0.78 0.41 5067 Clothing Number of sarees 2002 1.81 0.59 5067 2005 2.21 0.82 5067 Number of lungis 2002 1.75 0.54 3644 2005 1.59 1.25 5067 Shoes (dummy) 2002 0.62 0.48 5067 2005 0.90 0.30 5067 Livestock Number of cows/bulls 2002 0.11 0.51 5067 2005 0.94 1.21 5067 Number of goats/sheep 2002 0.11 0.49 5067 2005 0.34 0.97 5067 Number of ducks/hens 2002 1.15 2.83 5067 2005 2.53 3.69 5067 Productive assets Number of fishing nets 2002 0.00 0.05 5067 2005 0.15 0.60 5067 Number of big trees 2002 0.89 5.97 5067 2005 0.61 2.76 5067 Number of rickshaw/vans 2002 0.03 0.27 5067 2005 0.07 0.28 5067 Number of bicycles 2002 0.01 0.08 5067 2005 0.02 0.15 5067</p><p xml:id="_TVCsKc7">Table 1b: Summary statistics, cont. Year Mean Std. Dev. Obs Household durables Number of chair/tables 2002 0.37 0.80 5067 2005 0.65 1.05 5067 Number of beds 2002 0.88 0.73 5067 2005 1.14 0.76 5067 Number of radio/TVs 2002 0.01 0.12 5067 2005 0.03 0.18 5067 Number of quilt/blankets 2002 0.03 0.21 5067 2005 0.16 0.44 5067 Number of tube wells 2002 0.03 0.16 5067 2005 0.45 0.50 5067 Indicators of health Health status 2002 2.32 0.97 5055 2005 2.50 1.07 5013 Health improvement 2002 2.61 1.10 5055 2005 2.93 1.06 5013 Indicators of female empowerment Ratio of saree to lungi 2002 1.11 0.42 3627 2005 1.03 0.36 3514 Presence of female children working (dummy) 2002 0.07 0.26 5067 2005 0.11 0.32 5067 Ability of female children to read and write (dummy) 2002 0.08 0.27 5067 2005 0.07 0.26 5067 Years of schooling of female children 2002 0.35 0.48 5067 2005 0.23 0.42 5067 Child labor Presence of child labor (dummy) 2002 0.15 0.35 5067 2005 0.19 0.39 5067</p><p xml:id="_ycaW34b">Table 2a: Test of differences in mean characteristics between treatment and control groups in 2002 SB1-SB0 SUP-NSUP SNB1-SNB0 SB1-SNB0 Income and savings Per capita income -106.75 -323.75*** -371.40*** -437.55*** (94.30) (63.62) (86.12) (87.96) Cash savings (dummy) -0.01 -0.12*** -0.15*** -0.19*** (0.01) (0.01) (0.01) (0.01) Food security Food availability -0.12*** -0.29*** -0.31*** -0.42*** (0.03) (0.02) (0.02) (0.02) Meals twice a day (dummy) -0.15*** -0.18*** -0.18*** -0.22*** (0.02) (0.01) (0.02) (0.02) Land and housing Total amount of land owned -0.59** -3.94*** -4.69*** -5.73*** (0.21) (0.41) (0.62) (0.66) Own homestead land (dummy) -0.08*** -0.14*** -0.12*** -0.25*** (0.02) (0.01) (0.02) (0.02) Roof made of tin (dummy) -0.09*** -0.11*** -0.13*** -0.10*** (0.02) (0.01) (0.02) (0.02) Clothing Number of sarees -0.05 -0.15*** -0.16*** -0.23*** (0.03) (0.02) (0.02) (0.02) Number of lungis -0.10* -0.13*** -0.13*** -0.16*** (0.05) (0.02) (0.02) (0.03) Shoes (dummy) -0.06* -0.11*** -0.12*** -0.12*** (0.02) (0.01) (0.02) (0.02) Livestock Number of cows/bulls -0.03*** -0.15*** -0.17*** -0.22*** (0.01) (0.01) (0.02) (0.02) Number of goats/sheep -0.01 -0.04** -0.03 -0.09*** (0.02) (0.01) (0.02) (0.02) Number of ducks/hens -0.05 -0.57*** -0.65*** -0.96*** (0.09) (0.08) (0.11) (0.12) Productive assets Number of fishing nets 0.00 0.00 0.00 0.00 (0.00) (0.00) (0.00) (0.00) Number of big trees -0.22 -0.74*** -0.85*** -1.04*** (0.11) (0.17) (0.25) (0.27) Number of rickshaw/vans 0.01 -0.03*** -0.04*** -0.04*** (0.01) (0.01) (0.01) (0.01) Number of bicycles 0.00 -0.01*** -0.01** -0.01** (0.00) (0.00) (0.00) (0.00) Number of observations 1727 5067 3340 3137 (1) Standard errors in parentheses (2) Significance levels are denoted as * * * p &lt; 0.01; * * p &lt; 0.05; * p &lt; 0.1 Table 2a: Test of differences in mean characteristics between treatment and control groups in 2002, cont. SB1-SB0 SUP-NSUP SNB1-SNB0 SB1-SNB0 Household durables Number of chair/tables -0.12*** -0.31*** -0.33*** -0.45*** (0.03) (0.02) (0.03) (0.03) Number of beds -0.07* -0.26*** -0.30*** -0.38*** (0.03) (0.02) (0.03) (0.03) Number of radio/TVs 0.00 -0.01** -0.01** -0.02*** (0.00) (0.00) (0.00) (0.01) Number of quilt/blankets 0.00 -0.03*** -0.04*** -0.05*** (0.01) (0.01) (0.01) (0.01) Number of tube wells -0.01 -0.02*** -0.03*** -0.02*** (0.01) (0.00) (0.01) (0.01) Indicators of health Health status 0.03 -0.02 0.02 -0.17*** (0.05) (0.03) (0.03) (0.04) Health improvement 0.12* 0.02 0.04 -0.14*** (0.05) (0.03) (0.04) (0.04) Indicators of female empowerment Ratio of saree to lungi 0.03 -0.01 -0.01 -0.02 (0.04) (0.01) (0.02) (0.02) Presence of female children working (dummy) -0.02 0.02* 0.01 0.09*** (0.02) (0.01) (0.01) (0.01) Ability of female children to read and write (dummy) -0.01 -0.02** -0.03** -0.03** (0.01) (0.01) (0.01) (0.01) Years of schooling of female children 0.04 0.00 0.02 -0.07*** (0.03) (0.02) (0.02) (0.02) Child labor Presence of child labor (dummy) -0.02 0.02* -0.02* 0.17*** (0.02) (0.01) (0.01) (0.01) Number of observations 1727 5067 3340 3137 (1) Standard errors in parentheses (2) Significance levels are denoted as * * * p &lt; 0.01; * * p &lt; 0.05; * p &lt; 0.1 Table 2b: Mean values of outcome variables in 2002 for different treatment groups SB1 SUP SNB1 Income and savings Per capita income 2452.63 2488.62 2518.78 (1896.60) (2078.63) (2219.92) Cash savings (dummy) 0.06 0.08 0.10 (0.01) (0.01) (0.01) Food security Food availability 1.33 1.39 1.44 (0.02) (0.01) (0.02) Meals twice a day (dummy) 0.48 0.51 0.53 (0.02) (0.01) (0.01) Land and housing Total land owned 1.64 2.21 2.68 (0.12) (0.11) (0.18) Own homestead land (dummy) 0.40 0.47 0.53 (0.01) (0.01) (0.01) Roof made of tin (dummy) 0.45 0.44 0.42 (0.02) (0.01) (0.01) Clothing Number of sarees 1.70 1.73 1.76 (0.02) (0.01) (0.01) Number of lungis 1.65 1.68 1.68 (0.03) (0.01) (0.02) Shoes (dummy) 0.56 0.57 0.57 (0.02) (0.01) (0.01) Livestock Number of cows/bulls 0.01 0.04 0.06 (0.00) (0.01) (0.01) Number of goats/sheep 0.06 0.09 0.12 (0.01) (0.01) (0.02) Number of ducks/hens 0.67 0.84 0.99 (0.06) (0.04) (0.06) Productive assets Number of fishing nets 0.00 0.00 0.00 (0.00) (0.00) (0.00) Number of big trees 0.40 0.50 0.58 (0.06) (0.06) (0.09) Number of rickshaw/vans 0.01 0.02 0.02 (0.01) (0.01) (0.00) Number of bicycles 0.00 0.00 0.00 (0.00) (0.00) (0.00) Number of observations 1086 2375 1289 Table 2b: Mean values of outcome variables in 2002 for different treatment groups, cont. SB1 SUP SNB1 Household durables Number of chair/tables 0.14 0.21 0.26 (0.01) (0.01) (0.02) Number of beds 0.70 0.74 0.78 (0.02) (0.01) (0.02) Number of radio/TVs 0.00 0.01 0.01 (0.00) (0.00) (0.00) Number of quilt/blankets 0.01 0.02 0.02 (0.00) (0.00) (0.00) Number of tube wells 0.02 0.01 0.01 (0.00) (0.00) (0.00) Indicators of health Health status 2.21 2.31 2.40 (0.03) (0.02) (0.03) Health improvement 2.52 2.62 2.70 (0.03) (0.02) (0.03) Indicators of female empowerment Ratio of saree to lungi 1.10 1.11 1.11 (0.02) (0.01) (0.01) Presence of female children working (dummy) 0.13 0.08 0.04 (0.01) (0.01) (0.01) Ability of female children to read and write (dummy) 0.07 0.07 0.07 (0.01) (0.01) (0.01) Years of schooling of female children 0.30 0.35 0.39 (0.02) (0.01) (0.02) Child labor Presence of child labor (dummy) 0.26 0.16 0.07 (0.01) (0.01) (0.01) Number of observations 1086 2375 1289</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><figDesc xml:id="_VeeMSUT">[5], Very good [4], Good [3], Fair [2], Poor/Bad [1]. The second health indicator is 'health improvement' that ranks one's health compared to last year among five possible cases: Much better than one year ago [5]; somewhat better now [4]; about the same [3], somewhat worse</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><figDesc xml:id="_tEtUprK">There are significant improvements for an average household from 2002 to 2005 in terms of most of the indicators including large gains in per capita income, food availability, housing (tin roof), livestock, and most of the other assets. There is, however, some evidence that the ownership of homestead land has worsened on average from 2002 to 2005.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><figDesc xml:id="_XSFyczC">(4.1) Alternative Treatment and Comparison Groups Like many other microfinance programs, there is significant mistargeting (or assignment errors) in the TUP program. Based on the formal selection criteria of BRAC, one can partition the sample of households in the panel data set into four subsets. They are: (i) households that are eligible according to the stated criteria and are included in the program (the subset called the "should be, one" (SB 1 ) group henceforth), (ii) the eligible households not selected (called the "should be, zero" group (SB 0 )), (iii) households ineligible according to formal criteria but selected in the program (called the "should not be, one" group (SN B 1 )), and (iv) households ineligible and not selected (called the "should not be, zero" group (SN B 0 )). For details on the construction of these four subsets, please see Appendix 1. As discussed above, our empirical analysis is based on two pairs of treatment-comparison groups: BRAC's own SU P -N SU P and SB 1 -SB 0 .</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><figDesc xml:id="_gaHZSP7">the difference in means and the associated standard errors for a set of observable characteristics in the baseline (2002) across different pairs of treatment-comparison groups. The first column gives the initial difference in means for the SB 1 -SB 0 , the second for SU P -N SU P , the third for SN B 1 -SN B 0 , and the last for SB 1 -SN B 0 . The first striking feature in Table</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><figDesc xml:id="_NNUzwAC">SB 1 household, and the SN B 1 households own more land than the SB 1 households. While the percentage of households who own their homestead land is 40 percent for the SB 1 group, the corresponding numbers for SU P and SN B 1 are 47 percent and 53 percent respectively. The per capita income measure was T k.2452.63 for an average SB 1 household, T k.2488.62 for SU P, and T k.2518.78 for SN B 1 . Given the above analysis, our focus is on the estimates of treatment effects (ATT) from two alternative pairs of treatment-comparison groups: SB 1 (treatment) and SB 0 and SU P (treatment) and N SU P (comparison). Note that the SU P consists of both SB 1 and SN B 1 , although we do not discuss separately the treatment effect estimates for the treatment group SN B 1 as it is composed of the richer households, and thus clearly not the target group of the TUP program.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>SB 1 .</head><label>1</label><figDesc xml:id="_wrcHEJD">The Kleibergen-Paap F statistics for SU P and SB 1 show that the heteroskedasticity-based instrument is strong enough to identify the effects of the TUP program participation; the Kleibergen-Paap F statistic is 35.43 for SU P and 33.98 for SB 1 , much higher than the Stock et al. rule of thumb value of 10 for one endogenous variable.28    (5.1) Effects of the TUP Program on Treatment Group "Selected Ultra Poor" (SUP)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>SB 1 (</head><label>1</label><figDesc xml:id="_wV6pAar">selected as SU P , and fulfilling both inclusion and exclusion criteria), composed of 1086 observations; SN B 1 (selected as SU P , not fulfilling the criteria), composed of 1289 observations; SN B 0 (correctly not selected as SU P , criteria not met), composed of 2051 observations and SB 0 (not selected as SUP, but fulfilling criteria), with 641 observations.</figDesc></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_0"><p xml:id="_37eeUdg">A second phase of the TUP program covering 40 districts was initiated in 2007. 863000 households are expected to participate in the second phase over five years(2007)(2008)(2009)(2010)(2011). This paper provides evidence of the effects of the</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="12" xml:id="foot_1"><p xml:id="_JbQctng">This point can be seen clearly if we compare the subgroups that would result from perfect targeting in the sample of households in our data set. The differences between the treatment and comparison groups are most pronounced in this case when compared to both the treatment-comparison pairs used for the analysis in this paper. Please see Table2abelow.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="15" xml:id="foot_2"><p xml:id="_mEEhDRC">As pointed out by an anonymous referee, the assets transferred by the TUP program are part of the endowment of a household in 2005 and thus one should include them as part of the asset measures. However, information on the transferred assets in 2005 were not included in the data set.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="16" xml:id="foot_3"><p xml:id="_hbxZzjA">We thank an anonymous referee for suggesting child labor and schooling among girls as indicators of women's empowerment. Note, however, that the presence of child labor is one of the five inclusion criteria for TUP eligibility. This means that the treatment households are expected to have more incidence of child labor at the baseline by design.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="17" xml:id="foot_4"><p xml:id="_krwbG2M">For middle class and richer households in Bangladesh, a particularly revealing indicator of "feminine good" is gold jewelry.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="18" xml:id="foot_5"><p xml:id="_bfqa6Pw">The standard errors reported in this paper are clustered at the village level. There are 27 villages in the data set.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="19" xml:id="foot_6"><p xml:id="_WHAzRug">Note that the treatment group SB1 and the comparison group SN B0 satisfy the BRAC inclusion and exclusion criteria perfectly. The difference in means in</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2002" xml:id="foot_7"><p xml:id="_mVpwcWE">between these two groups is much more pronounced than the differences across SU P and N SU P (see Table2a).</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="23" xml:id="foot_8"><p xml:id="_4jzpxVC">As noted before, one can argue that identification in the above model can be achieved without exclusion restrictions, because the treatment equation is nonlinear. But such identification depends critically on the validity of the Normality assumption and the nonlinearity of the Normal CDF. The model is in general poorly identified. For discussions, see<ref type="bibr" target="#b24">Klein and Vella (2009)</ref>,<ref type="bibr" target="#b1">Altonji, Elder and Taber (2005)</ref>.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="24" xml:id="foot_9"><p xml:id="_VYAHKUa">The omitted district is Nilphamari.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="25" xml:id="foot_10"><p xml:id="_Rq9SFAA">In addition, the sample is trimmed around the 2 percent tails of the propensity score to minimize the bias arising from the failure of the conditional independence assumption.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="26" xml:id="foot_11"><p xml:id="_fwbGdBt">Because K-V is not suitable to use on binary outcomes, our preferred set of estimates in that case are the MB-IPW ones.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="27" xml:id="foot_12"><p xml:id="_pyH6UHu">It is now widely appreciated in the literature that the IV estimates may be more biased than the OLS if the instrument is weak.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="28" xml:id="foot_13"><p xml:id="_C56eat9">Note that we do not report the estimates for the binary outcomes from the<ref type="bibr" target="#b24">Klein and Vella (2009)</ref> estimator, as it not appropriate in such cases.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="29" xml:id="foot_14"><p xml:id="_8VzUvCd">The effect on fishing net, rickshaw van, and bicycles is numerically small.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="30" xml:id="foot_15"><p xml:id="_JV6NvCK">We again emphasize here that both the DIDM and MB-IPW estimates are built on household fixed effects to take care of the time invariant heterogeneity such as innate entrepreneurial ability.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="31" xml:id="foot_16"><p xml:id="_KDSQWES">The ratio of saree to lungi is an indicator of women's bargaining power in household expenditure choices.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="32" xml:id="foot_17"><p xml:id="_e64jKZm">The negative significant effect on radio/TV is in contrast to the DIDM and MB-IPW estimates that do not show any perceptible effect</p></note>
+		</body>
+		<back>
+
+			<div type="funding">
+<div xml:id="_ByZSrty"><p xml:id="_F5jdSnf">and <rs type="institution">James Madison University</rs> for helpful comments and/or discussions. We would like to thank the <rs type="institution">Research and Evaluation Division (RED) of BRAC</rs> for providing us with the panel data used in this paper and for arranging three field visits of authors to the project. Support from <rs type="funder">U.S. Department of State</rs> (<rs type="grantNumber">S-ECAAS-04-GR216</rs>(MA)), the <rs type="funder">GW Institute of Public Policy (GWIPP)</rs>, and the <rs type="funder">GWU Center for International Business Research (CIBER)</rs> and <rs type="funder">IIEP</rs> is gratefully acknowledged. The standard disclaimers apply. from the Targeting the <rs type="institution">Ultra-Poor (CFPR/TUP) Program in Bangladesh</rs></p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_mbPnzXC">
+					<idno type="grant-number">S-ECAAS-04-GR216</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_MtpcZxW"><p xml:id="_wBNcY2z">the estimates from DIDM and MB-IPW, and statistically not significant at the 10 percent level.</p><p xml:id="_tvhScny">The K-V instrumental variable estimates for productive assets (fishing nets, big trees, rickshaw van, and bicycles), a number of household durables (chairs, tables and beds), self-reported health outcomes, child labor, and women's empowerment indicators also fail to show any significant effect of TUP membership. One should however be careful in interpreting the lack of a program effect on some of these outcomes. For example, the TUP program may not increase the number of fishing nets owned by a household, as fishing is not the main economic activity for most of the households in Bangladesh. With respect to the lack of impact on child labor reduction, we speculate that children participate in the newly formed enterprises during their initial start-up.</p><p xml:id="_t6xCasn">Interestingly, the K-V estimates suggest that there is significant program impact on a set of household durables: radio, TV, quilts, blankets and tube wells. While the effects on radio, TVs and quilt/blankets are positive, the effect on tube wells is negative according to the K-V estimate.</p><p xml:id="_zeDwSFR">The negative effect may appear to be a bit puzzling. It might, however, be useful to recall that the asset measures (including tube wells) in 2005 do not include the transfers from the TUP program.</p><p xml:id="_TXAKya3">Thus even though the TUP program might have installed many new tube wells as part of the health intervention to ensure safe drinking water, our data do not capture this effect. This implies that if the TUP replaced some existing tube wells (presumably not working properly), it would be measured as a negative program effect.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_jWP5NAU">(5.2) Effects of the TUP Program on the Poorest of the Poor: SB 1 Treatment Group</head><p xml:id="_ZBDgKrc">Turning to the effects of the TUP Program on the poorest of the poor (the SB 1 treatment group), we begin with the benchmark DID estimates reported in column (1) of Table <ref type="table">3b</ref>. Similar to the results on the SU P treatment group, the benchmark estimates suggest beneficial effects of TUP membership on a number of important household outcomes including per capita income, ownership of homestead land, better quality of housing (tin roof), food security, livestock, and most of the household durables. Consistent with the effects on SU P treatment group in Table <ref type="table">3a</ref>, the DID results in Table <ref type="table">3b</ref> also suggest that there is no significant effect of TUP membership on the SB 1 households regarding women's empowerment and child labor. However, there are three important differences between the results for SU P and SB 1 . First, unlike SU P treatment group, the effect on per capita income is significant at the 10 percent confidence level for SB 1 . Second, the effect on rickshaw vans, bicycles and fishing nets are not significant at the 10 percent level for SB 1 , although they were found significant for the SU P . Third, the program effect on health status is significant at the 5 percent level for SB 1 , but it is numerically smaller and not significant at the 10 percent level for SU P .</p><p xml:id="_pDNcKnx">Table 1a: Variable description Income and savings Per capita income Summary variable to the answer of 'Last year employment and income related information -Increased net income in tk' for the TUP member divided by household size Cash savings (dummy) Binary variable equal to one if the answer to the question 'Do you have any cash savings?' is yes. Food Security Food availability What would you say the status of your household is in terms of food availability? Always deficit[1], deficit some times [2], neither deficit nor surplus [3], food surplus [4] Meals twice a day (dummy) Binary variable equal to 1 when the answer to the following question is yes: Could your household afford two meals per day most of the time during last year? Land and Housing Total land owned Total amount of land owned by the household (in tenth of acres) Own homestead land (dummy) Binary variable that equals one if the household owns homestead land Roof made of tin (dummy) Binary variable that equals one if the material of household's main living room is tin (sign of good quality). Clothing Number of sarees Number of sarees (female clothing) owned by the TUP member. Number of lungis Number of lungis (male clothing) owned by the household head. Shoes (dummy) Answer to the question 'Do all household members have shoes/sandals?' yes[1] no[0]. Livestock Number of cows/bulls Number of assets owned, not including program transfers Number of goats/sheep Number of assets owned, not including program transfers Number of ducks/hens Number of assets owned, not including program transfers Productive Assets Number of fishing nets Number of assets owned, not including program transfers Number of big trees Number of assets owned, not including program transfers Number of rickshaw/vans Number of assets owned, not including program transfers Number of bicycles Number of assets owned, not including program transfers</p><p xml:id="_V4hfZvn">Table 3a: Effects of the TUP Program on Treatment Group 'Selected Ultra Poor' (SUP) DID DIDM MB-IPW K-V (1) (2) (3) (4) Income and savings Per capita income 1126.69 1067.81 932.58 1377.06 (110.72)*** (93.1)*** [678.86, 1175.82]*** (968.62) Cash savings (dummy) 0.83 0.81 0.81 (0.01)*** (0.01)*** [0.79, 0.83]*** Food security Food availability 0.66 0.65 0.66 0.99 (0.03)*** (0.03)*** [0.62, 0.71]*** (0.27)*** Meals twice a day (dummy) 0.37 0.37 0.37 (0.02)*** (0.02)*** [0.34, 0.40]*** Land and housing Total amount of land owned 1.41 -0.10 -0.07 10.94 (0.52)** (0.42) [-0.47, 0.28] (13.14) Own homestead land (dummy) 0.09 0.05 0.05 (0.01)*** (0.02)*** [0.02, 0.08]*** Roof made of tin (dummy) 0.13 0.13 0.13 (0.01)*** (0.02)*** [0.11, 0.16]*** Clothing Number of sarees 0.29 0.28 0.28 0.22 (0.03)*** (0.03)*** [0.23, 0.32]*** (0.16) Number of lungis 0.06 0.22 0.20 0.70 (0.04) (0.04)*** [0.15, 0.25]*** (0.38)* Shoes (dummy) 0.15 0.14 0.14 (0.01)*** (0.02)*** [0.11, 0.17]*** Livestock Number of cows/bulls 1.74 1.71 1.71 1.31 (0.05)*** (0.03)*** [1.67, 1.75]*** (0.41)*** Number of goats/sheep 0.46 0.45 0.45 0.36 (0.08)*** (0.03)*** [0.39, 0.50]*** (0.29) Number of ducks/hens 0.64 0.56 0.56 0.34 (0.12)*** (0.13)*** [0.39, 0.73]*** (1.30) Productive assets Number of fishing nets 0.03 0.05 0.06 -0.02 (0.01)* (0.02)*** [0.03, 0.09]*** (0.24) Number of big trees 0.55 0.24 0.25 -1.14 (0.22)** (0.18) [0.09, 0.41]*** (5.00) Number of rickshaw/vans 0.04 0.04 0.04 0.06 (0.01)*** (0.01)*** [0.02, 0.06]*** (0.08) Number of bicycles 0.01 0.01 0.01 0.00 (0.01) (0.00) [0.00, 0.01] (0.04) Number of observations 9708 4854 4854 4854 Kleibergen-Paap Wald F 35.43 Likelihood Ratio Test of Heteroskedasticity in the probit model for Selection into the TUP Program 30.89 p-value for the LR test 0.00 (1) Robust Standard errors in parentheses are clustered at the village level. There are 24 clusters. (2) Significance levels are denoted as * * * p &lt; 0.01; * * p &lt; 0.05; * p &lt; 0.1 (3) Column (3) presents 95 percent confidence intervals calculated by the bootstrap percentile method, using 250 replications. (4) The number of observations for the outcome 'Number of lungis' is 8343 in column ( <ref type="formula">1</ref>) and is 3489 in columns (2) to ( <ref type="formula">4</ref>).</p><p xml:id="_tksGXyG">(5) Additional explanations are provided at the end of the table.</p><p xml:id="_XwTxbeR">Table 3a: Effects of the TUP Program on Treatment Group 'Selected Ultra Poor' (SUP) (cont.) DID DIDM MB-IPW K-V (1) (2) (3) (4) Household durables Number of chair/tables 0.10 0.11 0.12 0.08 (0.03)*** (0.03)*** [0.07, 0.17]*** (0.40) Number of beds 0.17 0.16 0.16 0.21 (0.02)*** (0.02)*** [0.12, 0.20]*** (0.21) Number of radio/TVs 0.00 0.01 0.01 0.14 (0.01) (0.01) [0.00, 0.02] (0.05)*** Number of quilt/blankets 0.16 0.16 0.16 0.44 (0.02)*** (0.01)*** [0.14, 0.18]*** (0.11)*** Number of tube wells 0.09 0.14 0.15 -0.53 (0.02)*** (0.02)*** [0.12, 0.17]*** (0.13)*** Indicators of health Health status 0.07 0.06 0.06 -0.16 (0.04) (0.04) [-0.02, 0.12] (0.47) Health improvement 0.13 0.11 0.10 -0.03 (0.06)** (0.05)*** [0.04, 0.17]*** (0.28) Indicators of female empowerment Ratio of saree to lungi 0.03 0.03 0.02 -0.21 (0.02) (0.02) [0.00, 0.04] (0.13) Presence of female children working (dummy) 0.00 0.01 0.01 (0.01) (0.01) [-0.01, 0.02] Ability of female children to read and write (dummy) 0.00 0.01 0.01 (0.01) (0.01) [-0.01, 0.03] Years of schooling of female children 0.01 0.02 0.02 -0.17 (0.01) (0.01) [-0.01, 0.03] (0.14) Child labor Presence of child labor (dummy) 0.00 0.03 0.03 (0.01) (0.01)* [0.00, 0.05] Number of observations 9708 4854 4854 4854 Kleibergen-Paap Wald F 35.43 Likelihood Ratio Test of Heteroskedasticity in the probit model for Selection into the TUP Program 30.89 p-value for the LR test 0.00 (1) Robust Standard errors in parentheses are clustered at the village level. There are 24 clusters. (2) Significance levels are denoted as * * * p &lt; 0.01; * * p &lt; 0.05; * p &lt; 0.1 (3) Column ( <ref type="formula">3</ref>) presents 95 percent confidence intervals calculated by the bootstrap percentile method, using 250 replications.</p><p xml:id="_NTUpzGt">(4) Estimates presented in columns (2) to ( <ref type="formula">4</ref>) use household fixed effects.</p><p xml:id="_Q97TpZU">(5) Estimates in Column (1) come from the augmented Difference-in-Difference specification and for the binary outcomes they correspond to marginal effects from probit regressions; in column (2) from the differencein-difference matching estimator due to Heckman et al. (1998); in column (3) from the minimum bias inverse probability weighted estimator due to Millimet and Tchernis (2012); in column (4) from the Klein-Vella (2009) identification through heteroskedasticity method.</p><p xml:id="_2bBzxmP">(6) The number of observations for the Health outcomes is 9647 in column (1) and is 4795 in columns (2) to ( <ref type="formula">4</ref>); it is 6845 for the ratio of saree to lungi in column (1) and is 3230 in the other columns.</p><p xml:id="_ah4ZvWT">(7) The variables included in the selection equation are: household size, dummy if daylabor activities, total amount of land owned, sex of household head (female=1) and the five inclusion criteria (IC) established by BRAC (IC1: less than ten decimals of land including homestead; IC2: no male income earner at home; IC3: presence of child labor; IC4: female working outside the household; IC5: lack of productive assets).</p><p xml:id="_GaAbrYX">Table 3b: Effects of the TUP Program on the poorest of the poor, SB1 treatment group DID DIDM MB-IPW K-V (1) (2) (3) (4) Income and savings Per capita income 1313.12 1325.01 1328.36 1779.59 (159.82)*** (168.15)*** [684.40, 1701.99]*** (910.96)* Cash savings (dummy) 0.86 0.80 0.80 (0.02)*** (0.02)*** [0.76, 0.84]*** Food security Food availability 0.67 0.67 0.69 0.83 (0.04)*** (0.05)*** [0.60, 0.78]*** (0.38)** Meals twice a day (dummy) 0.36 0.35 0.36 (0.04)*** (0.03)*** [0.29, 0.43]*** Land and housing Total amount of land owned 0.04 -0.06 -0.07 2.45 (0.31) (0.37) [-0.73, 0.59] (4.41) Own homestead land (dummy) 0.10 0.07 0.07 (0.03)*** (0.03)*** [0.02, 0.12]*** Roof made of tin (dummy) 0.13 0.13 0.13 (0.02)*** (0.03)*** [0.08, 0.18]*** Clothing Number of sarees 0.27 0.26 0.27 0.69 (0.04)*** (0.04)*** [0.18, 0.34]*** (0.35)** Number of lungis 0.08 0.29 0.16 -1.28 (0.07) (0.12) [0.01, 0.29]*** (0.80) Shoes (dummy) 0.10 0.10 0.09 (0.02)*** (0.03)*** [0.05, 0.14]*** Livestock Number of cows/bulls 1.69 1.68 1.69 1.57 (0.07)*** (0.04)*** [1.62, 1.75]*** (0.31)*** Number of goats/sheep 0.45 0.46 0.45 0.59 (0.08)*** (0.04)*** [0.39, 0.52]*** (0.34)* Number of ducks/hens 0.60 0.67 0.62 0.13 (0.15)*** (0.17)*** [0.33, 0.91]*** (1.37) Productive assets Number of fishing nets 0.02 0.02 0.03 -0.06 (0.02) (0.02) [-0.01, 0.06] (0.12) Number of big trees 0.27 0.25 0.29 1.63 (0.18) (0.16) [0.04, 0.51]*** (1.23) Number of rickshaw/vans 0.01 0.02 0.01 0.08 (0.01) (0.01) [-0.01, 0.04] (0.10) Number of bicycles -0.00 -0.00 0.00 -0.04 (0.01) (0.01) [-0.01, 0.01] (0.05) Number of observations 3314 1657 1657 1657 Kleibergen-Paap Wald F 33.98 Likelihood Ratio Test of Heteroskedasticity in the probit model for Selection into the TUP Program 18.45 p-value for the LR test 0.03 (1) Robust Standard errors in parentheses are clustered at the village level. There are 23 clusters. (2) Significance levels are denoted as * * * p &lt; 0.01; * * p &lt; 0.05; * p &lt; 0.1 (3) Column (3) presents 95 percent confidence intervals calculated by the bootstrap percentile method, using 250 replications. (4) The outcome 'Number of lungis' has 2217 observations in column (1) and has 560 observations in columns ( <ref type="formula">2</ref>) to ( <ref type="formula">4</ref>).</p><p xml:id="_mKkr6dN">(5) Additional explanations are provided at the end of the table.</p><p xml:id="_dTERU4t">Table 3b: Effects of the TUP Program on the poorest of the poor, SB1 treatment group (cont.) DID DIDM MB-IPW K-V (1) (2) (3) (4) Household durables Number of chair/tables 0.13 0.14 0.15 0.01 (0.04)*** (0.05)*** [0.08, 0.23]*** (0.42) Number of beds 0.16 0.17 0.17 0.59 (0.04)*** (0.04)*** [0.10, 0.24]*** (0.34)* Number of radio/TVs 0.01 0.01 0.01 -0.09 (0.01) (0.01) [0.00, 0.02] (0.06)* Number of quilt/blankets 0.21 0.22 0.21 0.11 (0.02)*** (0.02)*** [0.18, 0.25]*** (0.19) Number of tube wells 0.15 0.16 0.16 -0.08 (0.03)*** (0.02)*** [0.12, 0.29]*** (0.23) Indicators of health Health status 0.11 0.08 0.09 0.07 (0.05)** (0.07) [-0.04, 0.21] (0.60) Health improvement 0.11 0.09 0.09 0.92 (0.06)* (0.08) [-0.04, 0.20] (0.77) Indicators of female empowerment Ratio of saree to lungi -0.01 -0.03 -0.02 0.56 (0.05) (0.06) [-0.26, 0.16] (0.48) Presence of female children working (dummy) 0.02 0.01 0.01 (0.02) (0.02) [-0.03, 0.03] Ability of female children to read and write (dummy) -0.01 -0.00 0.00 (0.01) (0.02) [-0.03, 0.03] Years of schooling of female children -0.02 -0.02 -0.01 0.13 (0.02) (0.03) [-0.05, 0.03] (0.19) Child labor Presence of child labor (dummy) 0.02 0.01 -0.01 (0.03) (0.03) [-0.04, 0.03] Number of observations 3314 1657 1657 1657 Kleibergen-Paap Wald F 33.98 Likelihood Ratio Test of Heteroskedasticity in the probit model for Selection into the TUP Program 18.45 p-value for the LR test 0.03 (1) Robust Standard errors in parentheses are clustered at the village level. There are 23 clusters. (2) Significance levels are denoted as * * * p &lt; 0.01; * * p &lt; 0.05; * p &lt; 0.1 (3) Column ( <ref type="formula">3</ref>) presents 95 percent confidence intervals calculated by the bootstrap percentile method, using 250 replications.</p><p xml:id="_jxnZv69">(4) Estimates presented in columns (2) to ( <ref type="formula">4</ref>) use household fixed effects.</p><p xml:id="_nAHrhyx">(5) Estimates in Column (1) come from the augmented Difference-in-Difference specification and for the binary outcomes they correspond to marginal effects from probit regressions; in column (2) from the differencein-difference matching estimator due to Heckman et al. (1998); in column (3) from the minimum bias inverse probability weighted estimator due to Millimet and Tchernis (2012); in column (4) from the Klein-Vella (2009) identification through heteroskedasticity method.</p><p xml:id="_RuYr3dt">(6) The number of observations for the Health outcomes is 3301 in column (1) and is 1644 in columns (2) to ( <ref type="formula">4</ref>); for the ratio of saree to lungi is 1002 in column (1) and is 373 in the other columns.</p><p xml:id="_H446H7J">(7) The variables included in the selection equation are: household size, dummy if daylabor activities, total amount of land owned, sex of household head (female=1) and the five inclusion criteria (IC) established by BRAC (IC1: less than ten decimals of land including homestead; IC2: no male income earner at home; IC3: presence of child labor; IC4: female working outside the household; IC5: lack of productive assets).</p><p xml:id="_GKjDTvK">Table 4a: Normalized Program Effects on Treatment Group 'Selected Ultra Poor' (SUP) DID DIDM MB-IPW K-V (1) (2) (3) (4) Income and savings Per capita income 0.45 0.43 0.37 0.55 Cash savings (dummy) 10.21 9.96 9.93 Food security Food availability 0.47 0.47 0.48 0.71 Meals twice a day (dummy) 0.73 0.73 0.73 Land and housing Total amount of land owned 0.64 -0.05 -0.03 4.96 Own homestead land (dummy) 0.19 0.11 0.10 Roof made of tin (dummy) 0.30 0.30 0.30 Clothing Number of sarees 0.17 0.16 0.16 0.13 Number of lungis 0.04 0.13 0.12 0.42 Shoes (dummy) 0.27 0.25 0.24 Livestock Number of cows/bulls 49.15 48.31 48.36 37.01 Number of goats/sheep 4.94 4.83 4.78 3.87 Number of ducks/hens 0.76 0.67 0.67 0.40 Productive assets Number of fishing nets 11.86 19.76 21.74 -7.91 Number of big trees 1.11 0.48 0.51 -2.30 Number of rickshaw/vans 2.31 2.31 2.31 3.47 Number of bicycles 4.74 4.74 3.32 0.00</p><p xml:id="_uu2C4jA">Table 4a: Normalized Program Effects on Treatment Group 'Selected Ultra Poor' (SUP) (cont.) DID DIDM MB-IPW K-V (1) (2) (3) (4) Household durables Number of chair/tables 0.49 0.54 0.59 0.39 Number of beds 0.23 0.22 0.22 0.28 Number of radio/TVs 0.00 1.25 0.75 17.50 Number of quilt/blankets 10.00 10.00 10.06 27.50 Number of tube wells 6.12 9.52 9.93 -36.05 Indicators of health Health status 0.03 0.03 0.03 -0.07 Health improvement 0.05 0.04 0.04 -0.01 Indicators of female empowerment Ratio of saree to lungi 0.03 0.03 0.02 -0.19 Presence of female children working (dummy) 0.00 0.12 0.10 Ability of female children to read and write (dummy) 0.00 0.14 0.14 Years of schooling of female children 0.06 0.06 0.04 -0.37 Child labor Presence of child labor (dummy) 0.00 0.19 0.17 Table 4b: Normalized Program effects on the poorest of the poor SB1 treatment group DID DIDM MB-IPW K-V (1) (2) (3) (4) Income and savings Per capita income 0.54 0.54 0.54 0.73 Cash savings (dummy) 15.58 14.49 14.49 Food security Food availability 0.50 0.50 0.52 0.62 Meals twice a day (dummy) 0.75 0.73 0.75 Land and housing Total amount of land owned 0.02 -0.04 -0.04 1.49 Own homestead land (dummy) 0.25 0.18 0.18 Roof made of tin (dummy) 0.29 0.29 0.29 Clothing Number of sarees 0.16 0.15 0.16 0.41 Number of lungis 0.05 0.18 0.10 -0.77 Shoes (dummy) 0.18 0.18 0.16 Livestock Number of cows/bulls 167.33 166.34 167.33 155.45 Number of goats/sheep 7.64 7.81 7.64 10.02 Number of ducks/hens 0.90 1.00 0.93 0.19 Productive assets Number of fishing nets n/a n/a n/a n/a Number of big trees 0.68 0.63 0.73 4.10 Number of rickshaw/vans 0.72 1.45 0.72 5.80 Number of bicycles 0.00 0.00 0.00 -21.74</p><p xml:id="_BV8rBHK">Table 4b: Normalized Program effects on the poorest of the poor SB1 treatment group (cont.) DID DIDM MB-IPW K-V (1) (2) (3) (4) Household durables Number of chair/tables 0.95 1.02 1.09 0.07 Number of beds 0.23 0.24 0.24 0.84 Number of radio/TVs 2.17 2.17 2.17 -19.57 Number of quilt/blankets 19.09 20.00 19.09 10.00 Number of tube wells 8.15 8.70 8.70 -4.35 Indicators of health Health status 0.05 0.04 0.04 0.03 Health improvement 0.04 0.04 0.04 0.37 Indicators of female empowerment Ratio of saree to lungi -0.01 -0.03 -0.02 0.51 Presence of female children working (dummy) 0.16 0.08 0.08 Ability of female children to read and write (dummy) -0.15 0.00 0.00 Years of schooling of female children -0.07 -0.07 -0.03 0.43 Child labor Presence of child labor (dummy) 0.08 0.04 -0.04 Table A1: Probit Regressions for Selection into the TUP Program SUP/NSUP SB1/SB0 Household size 0.03 0.04 (0.01)** (0.02) Dummy if daylabor activities 0.14 0.04 (0.04)*** (0.07) Total amount of land owned -0.02 -0.01 (0.00)*** (0.01) Sex of household head (female=1) 0.04 0.23 (0.20) (0.26) IC1: Less than ten decimals of land including homestead 0.27 0.29 (0.11)** (0.30) IC2: No male income earner at home -0.07 -0.36 (0.16) (0.23) IC3: Presence of child labor 0.05 0.02 (0.06) (0.09) IC4: Female working outside the household 0.57 0.52 (0.11)*** (0.16)*** IC5: Lack of productive assets 0.34 0.21 (0.04)*** (0.07)*** Constant -0.81 -0.49 (0.13)*** (0.37) Number of observations 4854 1657 (1) Standard errors in parentheses. Significance levels are denoted as * * * p &lt; 0.01; * * p &lt; 0.05; * p &lt; 0.1 (2) Covariates are 2002 pre intervention characteristics. (3) 'IC' stands for 'inclusion criterion'. IC1 to IC5 are the five BRAC criteria for inclusion into the TUP program</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main" xml:id="_2n3zGwN">Bounding a Matching Estimator: The Case of a Norwegian Training Program</title>
+		<author>
+			<persName><forename type="first">Arild</forename><surname>Aakvik</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_FMjkq9u">Oxford Bulletin of Economics and Statistics</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="115" to="143" />
+			<date type="published" when="2001-02">2001. February</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main" xml:id="_cQGJVbx">Selection on Observed and Unobserved Variables: Assessing the Effectiveness of Catholic Schools</title>
+		<author>
+			<persName><forename type="first">Joseph</forename><forename type="middle">G</forename><surname>Altonji</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Todd</forename><forename type="middle">E</forename><surname>Elder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christopher</forename><forename type="middle">R</forename><surname>Taber</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/426036</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_eRnN7zX">Journal of Political Economy</title>
+		<title level="j" type="abbrev">Journal of Political Economy</title>
+		<idno type="ISSN">0022-3808</idno>
+		<idno type="ISSNe">1537-534X</idno>
+		<imprint>
+			<biblScope unit="volume">113</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="151" to="184" />
+			<date type="published" when="2005-02">2005. February</date>
+			<publisher>University of Chicago Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<monogr>
+		<title level="m" type="main" xml:id="_CJBM2ws">Targeting Efficiency: How Well Can We Identify the Poor?</title>
+		<author>
+			<persName><forename type="first">Abhijit</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Esther</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Chattopadhya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mukhopadhya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shapiro</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008">2008. 2008</date>
+			<pubPlace>India</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Paper presented at CMFR</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main" xml:id="_xkyMBBh">Does Microfinance Help the Ultrapoor Cope with Seasonal Shocks? Evidence from Seasonal Famine (Monga) in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Claudia</forename><surname>Berg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Shahe Emran</surname></persName>
+		</author>
+		<idno type="DOI">10.2139/ssrn.1802073</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_YmJGgDZ">SSRN Electronic Journal</title>
+		<title level="j" type="abbrev">SSRN Journal</title>
+		<idno type="ISSNe">1556-5068</idno>
+		<imprint>
+			<date type="published" when="2010">2011. 2010</date>
+			<publisher>Elsevier BV</publisher>
+			<pubPlace>Dhaka Bangladesh</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Department of Economics ; The George Washington University and Institute of Microfinance (InM)</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Working Paper</note>
+	<note>Available on SSRN</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b4">
+	<monogr>
+		<title level="m" type="main" xml:id="_Qmu7nZS">Microfinance and Moneylenders: The Effects of MFIs on Informal Credit Market in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Claudia</forename><surname>Berg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Shahe Emran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Forhad</forename><surname>Shilpi</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>TheGeorge Washington University and World Bank</publisher>
+			<pubPlace>Washington, DC</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Working Paper</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main" xml:id="_KQPnBu8">The effect of pre-primary education on primary school performance</title>
+		<author>
+			<persName><forename type="first">Samuel</forename><surname>Berlinski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sebastian</forename><surname>Galiani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Gertler</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jpubeco.2008.09.002</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_eS3zdQ3">Journal of Public Economics</title>
+		<title level="j" type="abbrev">Journal of Public Economics</title>
+		<idno type="ISSN">0047-2727</idno>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="219" to="234" />
+			<date type="published" when="2009-02">2009</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main" xml:id="_sYrEg7h">How robust is the evidence on the effects of college quality? Evidence from matching</title>
+		<author>
+			<persName><forename type="first">Dan</forename><forename type="middle">A</forename><surname>Black</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeffrey</forename><forename type="middle">A</forename><surname>Smith</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jeconom.2003.10.006</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_5PXYNHp">Journal of Econometrics</title>
+		<title level="j" type="abbrev">Journal of Econometrics</title>
+		<idno type="ISSN">0304-4076</idno>
+		<imprint>
+			<biblScope unit="volume">121</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="99" to="124" />
+			<date type="published" when="2004-07">2004</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main" xml:id="_rdfABKq">Alternative Approaches to Evaluation in Empirical Microeconomics</title>
+		<author>
+			<persName><forename type="first">Richard</forename><surname>Blundell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Monica</forename><surname>Costa Dias</surname></persName>
+		</author>
+		<idno type="DOI">10.1353/jhr.2009.0009</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_X9CfcNK">Journal of Human Resources</title>
+		<title level="j" type="abbrev">Journal of Human Resources</title>
+		<idno type="ISSNe">1548-8004</idno>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="565" to="640" />
+			<date type="published" when="2009">2009</date>
+			<publisher>University of Wisconsin Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b8">
+	<monogr>
+		<title level="m" type="main" xml:id="_QwwAFX9">Longterm Effects of Microfinance on Household Outcomes in Bangladesh: Evidence from Multiple Panel Data Sets</title>
+		<author>
+			<persName><forename type="first">Shamal</forename><surname>Chowdhury</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Shahe Emran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Debdulal</forename><surname>Mallick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Forhad</forename><surname>Shilpi</surname></persName>
+		</author>
+		<idno>2008-09</idno>
+		<imprint>
+			<date type="published" when="2008">2012. 2008</date>
+			<publisher>Chronic Poverty Research Center</publisher>
+			<pubPlace>Washington, DC</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Chronic Poverty Report</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main" xml:id="_qGhjmDm">Looking for Boy-Girl Discrimination in Household Expenditure Data</title>
+		<author>
+			<persName><forename type="first">Angus</forename><surname>Deaton</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/wber/3.1.1</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_zkBMTfa">The World Bank Economic Review</title>
+		<title level="j" type="abbrev">World Bank Econ Rev</title>
+		<idno type="ISSN">0258-6770</idno>
+		<idno type="ISSNe">1564-698X</idno>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="15" />
+			<date type="published" when="1989-01">1989. January</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main" xml:id="_7BsKFXx">Frugal IV alternatives to identify the parameter for an endogenous regressor</title>
+		<author>
+			<persName><forename type="first">Peter</forename><surname>Ebbes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michel</forename><surname>Wedel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ulf</forename><surname>Böckenholt</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/jae.1058</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_MTE9uNN">Journal of Applied Econometrics</title>
+		<title level="j" type="abbrev">J of Applied Econometrics</title>
+		<idno type="ISSN">0883-7252</idno>
+		<idno type="ISSNe">1099-1255</idno>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="446" to="468" />
+			<date type="published" when="2009-03-03">2009</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main" xml:id="_H4qEHGa">Access to Markets and Rural Poverty: Evidence from Household Consumption in China</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Emran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zhaoyang</forename><surname>Shahe</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Hou</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_7D8V5cr">Review of Economics and Statistics</title>
+		<imprint/>
+	</monogr>
+	<note>forthcoming</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main" xml:id="_ZFEJNcY">The Extent of the Market and Stages of Agricultural Specialization</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Emran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Forhad</forename><surname>Shahe</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Shilpi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_9DqgUt6">Canadian Journal of Economics</title>
+		<imprint>
+			<date type="published" when="2012-08">2012. August</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b13">
+	<monogr>
+		<title level="m" type="main" xml:id="_jzczH7D">Financial Liberalization, Financial Restraint and Entrepreneurial Development</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Emran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Joseph</forename><forename type="middle">E</forename><surname>Shahe</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Stiglitz</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+		<respStmt>
+			<orgName>Columbia University</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Working Paper</note>
+	<note>Available at SSRN</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b14">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><surname>Emran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yan</forename><surname>Shahe</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Sun</surname></persName>
+		</author>
+		<title level="m" xml:id="_7J3EVTP">Magical Transition? Intergenerational Educational and Occupational Mobility in Rural China: 1988-2002</title>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+		<respStmt>
+			<orgName>The George Washington University</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Working Paper</note>
+	<note>Available on SSRN</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b15">
+	<monogr>
+		<title level="m" type="main" xml:id="_SBxfnJw">Microfinance and Missing Markets</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Emran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Akm</forename><surname>Shahe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Joseph</forename><forename type="middle">E</forename><surname>Morshed</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Stiglitz</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+		<respStmt>
+			<orgName>The George Washington University</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Working Paper</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b16">
+	<monogr>
+		<title level="m" type="main" xml:id="_3ZnYDvf">De Soto vs. Yunus: Microfinance, Property Rights and Poor</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Emran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Forhad</forename><surname>Shahe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Joseph</forename><forename type="middle">E</forename><surname>Shilpi</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Stiglitz</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<pubPlace>San Francisco</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Paper presented at the ASSA 2009 Conference</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main" xml:id="_Fe8xFxU">A Parametric Control Function Approach to Estimating the Returns to Schooling in the Absence of Exclusion Restrictions: an Application to the NLSY</title>
+		<author>
+			<persName><forename type="first">Lidia</forename><surname>Farré</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Roger</forename><surname>Klein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Francis</forename><surname>Vella</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_AMHRQSs">Empirical Economics</title>
+		<imprint>
+			<biblScope unit="page" from="1" to="23" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b18">
+	<analytic>
+		<title level="a" type="main" xml:id="_5Nkyjsq">Estimating Regression Models with Multiplicative Heteroscedasticity</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Harvey</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/1913974</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_reftW9D">Econometrica</title>
+		<title level="j" type="abbrev">Econometrica</title>
+		<idno type="ISSN">0012-9682</idno>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">461</biblScope>
+			<date type="published" when="1976-05">1976</date>
+			<publisher>JSTOR</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main" xml:id="_PNfTRPB">Using Matching, Instrumental Variables, and Control Functions to Estimate Economic Choice Models</title>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">J</forename><surname>Heckman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Salvador</forename><surname>Navarro-Lozano</surname></persName>
+		</author>
+		<idno type="DOI">10.1162/003465304323023660</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_yneu657">Review of Economics and Statistics</title>
+		<title level="j" type="abbrev">Review of Economics and Statistics</title>
+		<idno type="ISSN">0034-6535</idno>
+		<idno type="ISSNe">1530-9142</idno>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="30" to="57" />
+			<date type="published" when="2004-02">2004</date>
+			<publisher>MIT Press - Journals</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main" xml:id="_QMz3jWQ">Matching as an Econometric Evaluation Estimator</title>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">J</forename><surname>Heckman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hidehiko</forename><surname>Ichimura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Petra</forename><surname>Todd</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Hx6D3SY">Review of Economic studies</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="261" to="294" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main" xml:id="_aEXSf3W">Estimation of Causal Effects using Propensity Score Weighting: An Application to Data on Right Heart Catheterization</title>
+		<author>
+			<persName><forename type="first">Keisuke</forename><surname>Hirano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Guido</forename><forename type="middle">W</forename><surname>Imbens</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_5D5VHky">Health Services and Outcomes Research Methodology</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="259" to="278" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b22">
+	<monogr>
+		<title level="m" type="main" xml:id="_nkYQnwZ">The world&apos;s most deprived: Characteristics and Causes of Extreme Poverty and Hunger</title>
+		<author>
+			<persName><surname>Ifpri</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007-10">2007. October</date>
+			<publisher>Intl Food Policy Res Inst</publisher>
+			<biblScope unit="volume">43</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main" xml:id="_vjFgYcT">Macro Crises and Targeting Transfers to the Poor</title>
+		<author>
+			<persName><forename type="first">Ravi</forename><surname>Kanbur</surname></persName>
+		</author>
+		<idno type="DOI">10.1596/27786</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_YJGM4ef">Journal of Globalization and Development</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2010-01">2010. January</date>
+			<publisher>World Bank, Washington, DC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b24">
+	<analytic>
+		<title level="a" type="main" xml:id="_ZFhUsCt">A Semiparametric Model for Binary Response and Continuous Outcomes under Index Heteroscedasticity</title>
+		<author>
+			<persName><forename type="first">Roger</forename><surname>Klein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Francis</forename><surname>Vella</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Cw7GYCG">Journal of Applied Econometrics</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="735" to="762" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b25">
+	<analytic>
+		<title level="a" type="main" xml:id="_eGJq2FA">Estimating a class of triangular simultaneous equations models without exclusion restrictions</title>
+		<author>
+			<persName><forename type="first">Roger</forename><surname>Klein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Francis</forename><surname>Vella</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jeconom.2009.05.005</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_GN3zB5g">Journal of Econometrics</title>
+		<title level="j" type="abbrev">Journal of Econometrics</title>
+		<idno type="ISSN">0304-4076</idno>
+		<imprint>
+			<biblScope unit="volume">154</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="154" to="164" />
+			<date type="published" when="2010-02">2010. February</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b26">
+	<analytic>
+		<title level="a" type="main" xml:id="_Tc3s9GD">Constructing Instruments for Regressions With Measurement Error When no Additional Data are Available, with An Application to Patents and R&amp;D</title>
+		<author>
+			<persName><forename type="first">Arthur</forename><surname>Lewbel</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/2171884</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_wPVMCCd">Econometrica</title>
+		<title level="j" type="abbrev">Econometrica</title>
+		<idno type="ISSN">0012-9682</idno>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page">1201</biblScope>
+			<date type="published" when="1997-09">1997</date>
+			<publisher>JSTOR</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b27">
+	<analytic>
+		<title level="a" type="main" xml:id="_psJF2Qw">Using Heteroscedasticity to Identify and Estimate Mismeasured and Endogenous Regressor Models</title>
+		<author>
+			<persName><forename type="first">Arthur</forename><surname>Lewbel</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Forthcoming</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/07350015.2012.643126</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_nhFJV9W">Journal of Business &amp; Economic Statistics</title>
+		<title level="j" type="abbrev">Journal of Business &amp; Economic Statistics</title>
+		<idno type="ISSN">0735-0015</idno>
+		<idno type="ISSNe">1537-2707</idno>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="67" to="80" />
+			<date type="published" when="2012-01" />
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b28">
+	<monogr>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Lipton</surname></persName>
+		</author>
+		<title level="m" xml:id="_dvGmDrt">Poverty, Undernutrition, and Hunger</title>
+		<meeting><address><addrLine>Washington, DC</addrLine></address></meeting>
+		<imprint>
+			<publisher>World Bank</publisher>
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b29">
+	<analytic>
+		<title level="a" type="main" xml:id="_8sQVBR2">Microfinance and Moneylender Interest Rate: Evidence from Bangladesh</title>
+		<author>
+			<persName><forename type="first">Debulal</forename><surname>Mallick</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.worlddev.2011.12.011</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_UMswebK">World Development</title>
+		<title level="j" type="abbrev">World Development</title>
+		<idno type="ISSN">0305-750X</idno>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1181" to="1189" />
+			<date type="published" when="2012-06">2012. June</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b30">
+	<analytic>
+		<title level="a" type="main" xml:id="_bDE4pkK">Mis-Targeting by the Grameen Bank: A Possible Explanation</title>
+		<author>
+			<persName><forename type="first">Imran</forename><surname>Matin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_bRKrAQF">IDS Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="51" to="58" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b31">
+	<analytic>
+		<title level="a" type="main" xml:id="_FTC63Pg">Programs for the Poorest: Learning from the IGVGD Program in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Imran</forename><surname>Matin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><surname>Hulme</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Y4VZNdh">World Development</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="647" to="665" />
+			<date type="published" when="2003-03">2003. March</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b32">
+	<analytic>
+		<title level="a" type="main" xml:id="_72QnVSt">Impact assessment of credit programme for the tenant farmers in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Mohammad</forename><forename type="middle">Abdul</forename><surname>Malek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Abu</forename><surname>Ahasan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Md.</forename><forename type="middle">Amzad</forename><surname>Hossain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Md.</forename><forename type="middle">Shakil</forename><surname>Ahmed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marup</forename><surname>Hossain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Md.</forename><forename type="middle">Hasib</forename><surname>Reza</surname></persName>
+		</author>
+		<idno type="DOI">10.23846/ow31222</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_cNqnM5C">Chronic Poverty Research Center BRAC Research and Evaluation Division</title>
+		<imprint>
+			<biblScope unit="page">109</biblScope>
+			<date type="published" when="2008-03">2008. March</date>
+			<publisher>International Initiative for Impact Evaluation</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b33">
+	<analytic>
+		<title level="a" type="main" xml:id="_FKpQRkb">Estimation of Treatment Effects without an Exclusion Restriction: with an Application to the Analysis of the School Breakfast Program</title>
+		<author>
+			<persName><forename type="first">Daniel</forename><forename type="middle">L</forename><surname>Millimet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rusty</forename><surname>Tchernis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_vRJEwqn">Journal of Applied Econometrics</title>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note>forthcoming</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b34">
+	<analytic>
+		<title level="a" type="main" xml:id="_wGC3Emv">Credit for the Poor in Bangladesh: The BRAC Rural Development Programme and the Government Thana Resource Development and Employment Programme</title>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">R</forename><surname>Montgomery</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bhattacharya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><surname>Hulme</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_FMdTymJ">Finance Against Poverty</title>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Hulme</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Mosley</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="1996">1996</date>
+			<biblScope unit="volume">2</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b35">
+	<analytic>
+		<title level="a" type="main" xml:id="_nNmSSKD">Impact assessment of credit programme for the tenant farmers in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Mohammad</forename><forename type="middle">Abdul</forename><surname>Malek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Abu</forename><surname>Ahasan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Md.</forename><forename type="middle">Amzad</forename><surname>Hossain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Md.</forename><forename type="middle">Shakil</forename><surname>Ahmed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marup</forename><surname>Hossain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Md.</forename><forename type="middle">Hasib</forename><surname>Reza</surname></persName>
+		</author>
+		<idno type="DOI">10.23846/ow31222</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_H3DshWa">Beacon of Hope: An Impact Assessment Study of BRAC&apos;s RDP</title>
+		<imprint>
+			<publisher>International Initiative for Impact Evaluation</publisher>
+			<date type="published" when="1996-02">1996. February</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b36">
+	<analytic>
+		<title level="a" type="main" xml:id="_HnNN66Z">Stories of Targeting</title>
+		<author>
+			<persName><forename type="first">Marufia</forename><surname>Noor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Abu</forename><surname>Muhammad Shihab</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rezvina</forename><surname>Parveen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hasanur</forename><surname>Rahman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tariq</forename><surname>Mamun Ur Rashid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shahaduz</forename><surname>Ali</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Imran</forename><surname>Zaman</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Matin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s" xml:id="_SBrkNCm">BRAC CFPR/TUP Working Paper Series</title>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b37">
+	<analytic>
+		<title level="a" type="main" xml:id="_mkBfNjG">Does Foreign Ownership Improve Firm Performance?</title>
+		<author>
+			<persName><forename type="first">Neviana</forename><surname>Petkova</surname></persName>
+		</author>
+		<idno type="DOI">10.2139/ssrn.1343665</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_SPkVaaH">SSRN Electronic Journal</title>
+		<title level="j" type="abbrev">SSRN Journal</title>
+		<idno type="ISSNe">1556-5068</idno>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+		<respStmt>
+			<orgName>University of Oregon, Department of Finance, Working Paper</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b38">
+	<analytic>
+		<title level="a" type="main" xml:id="_PeRswxX">The Impact of Group-Based Credit Programs on Poor Households in Bangladesh: does the Gender of Participants Matter?</title>
+		<author>
+			<persName><forename type="first">Mark</forename><forename type="middle">M</forename><surname>Pitt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Shahidur</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Khandker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_KNfsJwB">Journal of Political Economy</title>
+		<imprint>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="958" to="996" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b39">
+	<analytic>
+		<title level="a" type="main" xml:id="_a7Cv8u6">Impact Assessment of CFPR/ TUP: a Descriptive Analysis based on 2002-2005 Panel Data</title>
+		<author>
+			<persName><forename type="first">Mehnaz</forename><surname>Rabbani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Munshi</forename><surname>Prakash</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Sulaiman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s" xml:id="_DC6Aqy2">BRAC CFPR/TUP Working Paper Series</title>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b40">
+	<analytic>
+		<title level="a" type="main" xml:id="_sg7UssG">Evaluating Anti-poverty Programs</title>
+		<author>
+			<persName><forename type="first">Martin</forename><surname>Ravallion</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_nVCbA6E">Handbook of Development Economics</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="3787" to="3846" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b41">
+	<analytic>
+		<title level="a" type="main" xml:id="_VzRMT3U">Poverty and Policy</title>
+		<author>
+			<persName><forename type="first">Martin</forename><surname>Ravallion</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Lipton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_4HGj6DR">Handbook of Development Economics</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="2551" to="2657" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b42">
+	<analytic>
+		<title level="a" type="main" xml:id="_GEbC3aB">Identification Through Heteroskedasticity</title>
+		<author>
+			<persName><forename type="first">Roberto</forename><surname>Rigobon</surname></persName>
+		</author>
+		<idno type="DOI">10.1162/003465303772815727</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_MWacG2T">Review of Economics and Statistics</title>
+		<title level="j" type="abbrev">Review of Economics and Statistics</title>
+		<idno type="ISSN">0034-6535</idno>
+		<idno type="ISSNe">1530-9142</idno>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="777" to="792" />
+			<date type="published" when="2003-11">2003</date>
+			<publisher>MIT Press - Journals</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b43">
+	<analytic>
+		<title level="a" type="main" xml:id="_xg4JkYC">Rule of Law, Democracy, Openness, and Income</title>
+		<author>
+			<persName><forename type="first">Roberto</forename><surname>Rigobon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dani</forename><surname>Rodrik</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_q2PPX5E">Economics of Transition</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="533" to="564" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b44">
+	<analytic>
+		<title level="a" type="main" xml:id="_MnD3Z9G">The impact of microcredit borrowing on household consumption in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Elizabeth</forename><surname>Schroeder</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00036846.2020.1743815</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_hVYPn6J">Applied Economics</title>
+		<title level="j" type="abbrev">Applied Economics</title>
+		<idno type="ISSN">0003-6846</idno>
+		<idno type="ISSNe">1466-4283</idno>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="issue">43</biblScope>
+			<biblScope unit="page" from="4765" to="4779" />
+			<date type="published" when="2010">2010</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+		<respStmt>
+			<orgName>Oregon State University Economics Department</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Mimeo</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b45">
+	<analytic>
+		<title level="a" type="main" xml:id="_FA48mCJ">New evidence on earnings and benefit claims following changes in the retirement earnings test in 2000</title>
+		<author>
+			<persName><forename type="first">Jae</forename><forename type="middle">G</forename><surname>Song</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Joyce</forename><surname>Manchester</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jpubeco.2006.11.002</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_fGqN3uH">Journal of Public Economics</title>
+		<title level="j" type="abbrev">Journal of Public Economics</title>
+		<idno type="ISSN">0047-2727</idno>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="issue">3-4</biblScope>
+			<biblScope unit="page" from="669" to="700" />
+			<date type="published" when="2007-04">2007. April</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b46">
+	<analytic>
+		<title level="a" type="main" xml:id="_zRsnrcS">Targeting Effectiveness of CFPR/TUP in Scaled Up Environment</title>
+		<author>
+			<persName><forename type="first">Munshi</forename><surname>Sulaiman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Imran</forename><surname>Matin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s" xml:id="_3Su3zcE">BRAC CFPR/TUP Working Paper Series</title>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b47">
+	<analytic>
+		<title level="a" type="main" xml:id="_eHAkkFd">Matching Estimators</title>
+		<author>
+			<persName><forename type="first">Petra</forename><surname>Todd</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_Dr4JGr9">Entry for New Palgrave Dictionary of Economics</title>
+		<imprint>
+			<publisher>Palgrave Macmillan</publisher>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note>Second Edition</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b48">
+	<monogr>
+		<title level="m" xml:id="_9Uh2eeh">World Development Report 2006</title>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b49">
+	<analytic>
+		<title level="a" type="main" xml:id="_YpZauny">Can Mis-Targeting be Justified?: Insights from BRAC&apos;s Micro-CreditProgramme</title>
+		<author>
+			<persName><forename type="first">Hassan</forename><surname>Zaman</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1759-5436.1998.mp29004007.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_EFJMhTH">IDS Bulletin</title>
+		<idno type="ISSN">0265-5012</idno>
+		<idno type="ISSNe">1759-5436</idno>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="59" to="65" />
+			<date type="published" when="1998-10">1998</date>
+			<publisher>Institute of Development Studies</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
