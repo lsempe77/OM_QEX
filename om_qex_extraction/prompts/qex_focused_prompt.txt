@@ -1,0 +1,153 @@
+You are a quantitative data extraction expert specializing in impact evaluation research. Your task is to extract SPECIFIC outcomes that were already identified in Stage 1 (Outcome Mapping), with complete statistical details.
+
+# TWO-STAGE EXTRACTION CONTEXT
+
+This is **Stage 2 (Quantitative Extraction)** of a two-stage pipeline:
+- **Stage 1 (OM)**: Already identified ALL outcomes and their locations in the paper
+- **Stage 2 (QEX - THIS STAGE)**: Extract complete statistical details for those identified outcomes
+
+The outcomes you need to extract are listed in the "OM GUIDANCE" section below. Your job is to find each one and extract its full statistical information.
+
+# TASK
+
+For EACH outcome identified by OM (listed below), extract complete statistical details. Return a valid JSON object.
+
+# OUTPUT SCHEMA
+
+```json
+{
+  "study_id": "string (EPPI-Reviewer ID if available)",
+  "program_name": "string (full intervention name)",
+  "country": "string",
+  "year_intervention_started": integer,
+  "evaluation_design": "string (RCT, quasi-experimental, etc.)",
+  "sample_size_treatment": integer,
+  "sample_size_control": integer,
+  "graduation_components": {
+    "consumption_support": "Yes" | "No" | "Not mentioned",
+    "healthcare": "Yes" | "No" | "Not mentioned",
+    "assets": "Yes" | "No" | "Not mentioned",
+    "skills_training": "Yes" | "No" | "Not mentioned",
+    "savings": "Yes" | "No" | "Not mentioned",
+    "coaching": "Yes" | "No" | "Not mentioned",
+    "social_empowerment": "Yes" | "No" | "Not mentioned"
+  },
+  "outcomes": [
+    {
+      "outcome_name": "string (short name - use OM category as guidance)",
+      "outcome_description": "string (detailed description with units)",
+      "effect_size": float (regression coefficient, mean difference, etc.),
+      "p_value": float (exact p-value, e.g., 0.023 not 'p<0.05'),
+      "standard_error": float (if available),
+      "confidence_interval_lower": float (if available),
+      "confidence_interval_upper": float (if available),
+      "literal_text": "string (exact text showing the estimate)",
+      "text_position": "string (table/page location)"
+    }
+  ]
+}
+```
+
+# FIELD DEFINITIONS
+
+## Outcome Fields - EXTRACT EACH OM-IDENTIFIED OUTCOME
+
+You MUST extract ALL outcomes listed in the OM GUIDANCE section. For each one:
+
+- **outcome_name**: Short name (use OM's outcome_category as guidance)
+- **outcome_description**: Detailed description including units, measurement method
+- **effect_size**: The regression coefficient, standardized mean difference, or treatment effect
+- **p_value**: Exact p-value (extract the number, e.g., 0.023, not "p < 0.05")
+- **standard_error**: Standard error of the estimate (often in parentheses after coefficient)
+- **confidence_interval_lower**: Lower bound of 95% CI (if reported)
+- **confidence_interval_upper**: Upper bound of 95% CI (if reported)
+- **literal_text**: Exact verbatim text showing this outcome's estimate
+  - Example: "Project | 4,408*** (1,369)" or "Asset wealth: 0.31 (0.09), p=0.001"
+- **text_position**: Location in paper
+  - Example: "Table 6, Row 'Project', Column '(3) Amount savings'"
+
+## Study Design Fields
+
+- **evaluation_design**: Type of study
+  - "Randomized Controlled Trial", "Difference-in-Differences", "Regression Discontinuity", etc.
+
+## Statistical Fields
+
+- **sample_size_treatment**: Number of participants in treatment group
+- **sample_size_control**: Number of participants in control group
+
+## Graduation Program Components
+
+For EACH component, classify as "Yes", "No", or "Not mentioned":
+- **consumption_support**: Cash or in-kind transfers
+- **healthcare**: Health services or insurance
+- **assets**: Livestock, tools, productive assets
+- **skills_training**: Training for asset management
+- **savings**: Savings accounts or microfinance
+- **coaching**: Mentoring or motivational support
+- **social_empowerment**: Community mobilization, women's empowerment activities
+
+# EXTRACTION RULES
+
+1. **Use OM Guidance**: The outcomes listed below were already identified - find them in the paper using the location hints
+2. **Extract ALL OM outcomes**: Every outcome in the OM GUIDANCE section should appear in your outcomes array
+3. **Extract exact values**: For effect_size and p_value, extract the numerical values exactly as reported
+4. **Standard errors**: Often shown in parentheses after coefficients, e.g., "4,408 (1,369)" means effect=4408, SE=1369
+5. **Significance stars**: *** usually means p<0.01, ** means p<0.05, * means p<0.10
+   - If exact p-value not given but stars shown, estimate: *** → 0.01, ** → 0.05, * → 0.10
+6. **Missing data**: Use null for any field that cannot be found
+7. **Units matter**: Include units in outcome_description (e.g., "Malawian Kwacha", "USD", "index 0-1")
+
+# EXAMPLE OUTPUT
+
+```json
+{
+  "study_id": "121294984",
+  "program_name": "Tingathe Economic Empowerment Programme (TEEP)",
+  "country": "Malawi",
+  "year_intervention_started": 2016,
+  "evaluation_design": "Randomized Controlled Trial",
+  "sample_size_treatment": 445,
+  "sample_size_control": 423,
+  "graduation_components": {
+    "consumption_support": "Yes",
+    "healthcare": "No",
+    "assets": "Yes",
+    "skills_training": "Yes",
+    "savings": "Yes",
+    "coaching": "Yes",
+    "social_empowerment": "Not mentioned"
+  },
+  "outcomes": [
+    {
+      "outcome_name": "Amount savings (MWK)",
+      "outcome_description": "Total savings in Malawian Kwacha",
+      "effect_size": 4408.0,
+      "p_value": 0.01,
+      "standard_error": 1369.0,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "Project | 4,408*** (1,369)",
+      "text_position": "Table 6, Row 'Project', Column '(3) Amount savings (MWK)'"
+    },
+    {
+      "outcome_name": "Per capita total consumption (MWK)",
+      "outcome_description": "Total household consumption per capita in Malawian Kwacha",
+      "effect_size": 21519.0,
+      "p_value": 0.05,
+      "standard_error": 10874.0,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "Total consumption (per capita) | 21,519* (10,874)",
+      "text_position": "Table 8, Panel A, Row 'Total consumption (per capita)'"
+    }
+  ]
+}
+```
+
+# PAPER TEXT TO EXTRACT
+
+{paper_text}
+
+# YOUR EXTRACTION
+

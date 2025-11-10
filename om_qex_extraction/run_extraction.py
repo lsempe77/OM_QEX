@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 """
 Run data extraction on papers.
 
@@ -8,6 +10,11 @@ Usage:
 """
 
 import sys
+import io
+
+# Force UTF-8 output encoding for Windows console
+if sys.platform == 'win32':
+    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 import argparse
 from pathlib import Path
 
@@ -19,6 +26,8 @@ from src.extraction_engine import ExtractionEngine, load_metadata_from_master
 
 def main():
     parser = argparse.ArgumentParser(description="Run LLM-based data extraction")
+    parser.add_argument('--mode', type=str, choices=['om', 'qex'], default='qex',
+                        help='Extraction mode: "om" for outcome mapping or "qex" for quantitative extraction')
     parser.add_argument('--test', action='store_true', help='Test on 1 paper')
     parser.add_argument('--sample', type=int, help='Run on N sample papers')
     parser.add_argument('--all', action='store_true', help='Run on all papers')
@@ -32,7 +41,12 @@ def main():
     config_path = Path(__file__).parent / "config" / "config.yaml"
     tei_dir = project_root / "data" / "grobid_outputs" / "tei"
     master_file = project_root / "data" / "raw" / "Master file of included studies (n=95) 10 Nov(data)_with_key.csv"
-    output_dir = Path(args.output) if args.output else (Path(__file__).parent / "outputs" / "extractions")
+    
+    # Default output directory based on mode
+    if args.output:
+        output_dir = Path(args.output)
+    else:
+        output_dir = Path(__file__).parent / "outputs" / f"{args.mode}_extractions"
     
     # Get TEI files
     all_tei_files = sorted(list(tei_dir.glob("*.tei.xml")))
@@ -44,19 +58,19 @@ def main():
     # Select files based on arguments
     if args.test:
         tei_files = all_tei_files[:1]
-        print(f"🧪 TEST MODE: Running on 1 paper")
+        print(f"🧪 TEST MODE ({args.mode.upper()}): Running on 1 paper")
     elif args.sample:
         tei_files = all_tei_files[:args.sample]
-        print(f"📊 SAMPLE MODE: Running on {len(tei_files)} papers")
+        print(f"📊 SAMPLE MODE ({args.mode.upper()}): Running on {len(tei_files)} papers")
     elif args.keys:
         # Extract key from filename (remove .tei.xml extension)
         tei_files = [f for f in all_tei_files if f.name.replace('.tei.xml', '') in args.keys]
-        print(f"🎯 SPECIFIC KEYS: Running on {len(tei_files)} papers")
+        print(f"🎯 SPECIFIC KEYS ({args.mode.upper()}): Running on {len(tei_files)} papers")
         if len(tei_files) != len(args.keys):
             print(f"⚠️  Warning: Found {len(tei_files)} of {len(args.keys)} requested keys")
     elif args.all:
         tei_files = all_tei_files
-        print(f"🚀 FULL RUN: Running on all {len(tei_files)} papers")
+        print(f"🚀 FULL RUN ({args.mode.upper()}): Running on all {len(tei_files)} papers")
     else:
         print("Please specify --test, --sample N, --keys [KEYS], or --all")
         parser.print_help()
@@ -72,8 +86,8 @@ def main():
         metadata_map = None
     
     # Initialize engine
-    print(f"\n🔧 Initializing extraction engine...")
-    engine = ExtractionEngine(config_path)
+    print(f"\n🔧 Initializing extraction engine ({args.mode.upper()} mode)...")
+    engine = ExtractionEngine(config_path, mode=args.mode)
     
     # Run extraction
     print(f"\n{'='*60}")

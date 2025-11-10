@@ -9,18 +9,12 @@ Extract the following fields from the provided research paper text. Return your 
 ```json
 {
   "study_id": "string (EPPI-Reviewer ID if available, or unique identifier)",
-  "author_name": "string (last name only for single author, 'Smith and Jones' for 2 authors, 'Smith et al.' for 3+)",
-  "year_of_publication": integer,
   "program_name": "string (full intervention name)",
   "country": "string",
   "year_intervention_started": integer,
-  "outcome_name": "string (short name of primary outcome)",
-  "outcome_description": "string (detailed description)",
   "evaluation_design": "string (RCT, quasi-experimental, etc.)",
   "sample_size_treatment": integer,
   "sample_size_control": integer,
-  "effect_size": float (or null),
-  "p_value": float (or null),
   "graduation_components": {
     "consumption_support": "Yes" | "No" | "Not mentioned",
     "healthcare": "Yes" | "No" | "Not mentioned",
@@ -29,7 +23,17 @@ Extract the following fields from the provided research paper text. Return your 
     "savings": "Yes" | "No" | "Not mentioned",
     "coaching": "Yes" | "No" | "Not mentioned",
     "social_empowerment": "Yes" | "No" | "Not mentioned"
-  }
+  },
+  "outcomes": [
+    {
+      "outcome_name": "string (short name of outcome variable)",
+      "outcome_description": "string (detailed description)",
+      "effect_size": float (or null),
+      "p_value": float (or null),
+      "literal_text": "string (exact text from paper showing the estimate)",
+      "text_position": "string (precise location in document)"
+    }
+  ]
 }
 ```
 
@@ -37,24 +41,31 @@ Extract the following fields from the provided research paper text. Return your 
 
 ## Bibliographic Fields
 - **study_id**: EPPI-Reviewer ID if mentioned (starts with 121...), otherwise extract DOI or create from "AuthorYear"
-- **author_name**: Follow format rules: 1 author = "Smith", 2 authors = "Smith and Jones", 3+ = "Smith et al."
-- **year_of_publication**: 4-digit year (publication date, NOT preprint or first online date)
+  
+  NOTE: Author name and year of publication will be provided from the master dataset - do NOT extract these fields.
 
 ## Intervention Fields
 - **program_name**: Full official name of the intervention/program
-- **country**: Country where intervention was implemented
+- **country**: Country where intervention was implemented (if not already provided in metadata)
 - **year_intervention_started**: The earliest year participants were exposed to the intervention
 
-## Outcome Fields
-- **outcome_name**: Short name for the PRIMARY outcome variable being measured (use author's terminology)
-- **outcome_description**: Detailed description including units, measurement method
+## Outcome Fields - EXTRACT ALL OUTCOMES
+- **outcomes**: Array of ALL outcome variables reported in results tables
+  - **outcome_name**: Short name for each outcome variable (use author's terminology)
+  - **outcome_description**: Detailed description including units, measurement method
+  - **effect_size**: Effect size for this specific outcome (regression coefficient, standardized mean difference, etc.)
+  - **p_value**: P-value for this specific outcome (extract exact value, e.g., 0.023 not "p < 0.05")
+  - **literal_text**: The exact verbatim text from the paper showing this outcome and its statistical estimate. Include the row/column labels and the numerical value exactly as printed. Example: "Project | 4,408** (1,369)" or "Total consumption: 0.023 (0.045)"
+  - **text_position**: The precise location where this outcome appears. Format: "Table X, Row 'label', Column 'label'" or "Page X, Section Y". Example: "Table 6, Row 'Project', Column '(3) Amount savings (MWK)'" or "Page 25, Table 4, Panel A"
+  
+  IMPORTANT: Extract ALL outcomes from the results tables, not just the primary outcome. If a paper reports 5 outcomes, return 5 items in the outcomes array. If it reports 20 outcomes, return 20 items.
+
+## Study Design Fields
 - **evaluation_design**: Type of study (e.g., "Randomized Controlled Trial", "Difference-in-Differences", "Regression Discontinuity")
 
 ## Statistical Fields
 - **sample_size_treatment**: Number of participants in treatment group (post-intervention, or total if only one measurement)
 - **sample_size_control**: Number of participants in control/comparison group
-- **effect_size**: Main effect size reported (Cohen's d, standardized mean difference, regression coefficient, etc.). Use the PRIMARY reported effect.
-- **p_value**: P-value for the main effect (extract exact value if available, e.g., 0.023 not "p < 0.05")
 
 ## Graduation Program Components
 For EACH component below, classify as:
@@ -75,13 +86,17 @@ Components:
 
 1. **Missing data**: Use `null` for numeric fields if not found. Use `"Not mentioned"` for graduation components if unclear.
 
-2. **Multiple estimates**: If the paper reports multiple outcomes, extract data for the PRIMARY or FIRST outcome mentioned in the abstract/results.
+2. **Multiple outcomes**: Extract ALL outcomes reported in the results section. Look for:
+   - Results tables with multiple rows showing different outcome variables
+   - Different outcome categories (e.g., economic, social, health outcomes)
+   - Subgroup analyses or different time periods for the same outcome
+   - Create one entry in the "outcomes" array for each distinct outcome variable
 
 3. **Graduation components**: Only mark "Yes" if there is EXPLICIT evidence in the text. When in doubt, use "Not mentioned".
 
 4. **Sample sizes**: Use post-intervention sample sizes if available. If only baseline reported, use those.
 
-5. **Effect sizes**: Extract the main effect size. Common formats include:
+5. **Effect sizes**: Extract effect size for EACH outcome. Common formats include:
    - Regression coefficients
    - Standardized mean difference (Cohen's d, Hedges' g)
    - Mean difference
@@ -94,18 +109,12 @@ Components:
 ```json
 {
   "study_id": "121294984",
-  "author_name": "Burchi and Strupat",
-  "year_of_publication": 2018,
   "program_name": "Tingathe Economic Empowerment Programme (TEEP)",
   "country": "Malawi",
   "year_intervention_started": 2016,
-  "outcome_name": "Food security index",
-  "outcome_description": "Composite measure of household food security including dietary diversity and hunger experience",
   "evaluation_design": "Randomized Controlled Trial",
   "sample_size_treatment": 445,
   "sample_size_control": 423,
-  "effect_size": 0.23,
-  "p_value": 0.012,
   "graduation_components": {
     "consumption_support": "Yes",
     "healthcare": "No",
@@ -114,7 +123,33 @@ Components:
     "savings": "Yes",
     "coaching": "Yes",
     "social_empowerment": "Not mentioned"
-  }
+  },
+  "outcomes": [
+    {
+      "outcome_name": "Amount savings (MWK)",
+      "outcome_description": "Total savings in Malawian Kwacha",
+      "effect_size": 4408.0,
+      "p_value": 0.002,
+      "literal_text": "Project | 4,408** (1,369)",
+      "text_position": "Table 6, Row 'Project', Column '(3) Amount savings (MWK)'"
+    },
+    {
+      "outcome_name": "Per capita total consumption (MWK)",
+      "outcome_description": "Total household consumption per capita in Malawian Kwacha",
+      "effect_size": 21519.0,
+      "p_value": 0.05,
+      "literal_text": "Total consumption (per capita) | 21,519* (10,874)",
+      "text_position": "Table 8, Panel A, Row 'Total consumption (per capita)'"
+    },
+    {
+      "outcome_name": "Asset wealth index",
+      "outcome_description": "Composite index of household asset ownership",
+      "effect_size": 0.31,
+      "p_value": 0.001,
+      "literal_text": "Asset wealth index | 0.31*** (0.09)",
+      "text_position": "Table 7, Row 'Asset wealth index', Column '(1)'"
+    }
+  ]
 }
 ```
 
