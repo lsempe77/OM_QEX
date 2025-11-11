@@ -50,7 +50,36 @@ Manually extracted data from studies - serves as:
   - Study 121294984 has **9 outcome rows**
 
 **Test dataset:**
-- `8WR OM SOF - LLM Test(8wr).csv` - LLM test dataset
+- `OM_human_extraction.csv` - Human-coded outcome measures for LLM comparison
+  - **60 total rows** (individual outcome extractions)
+  - **12 unique studies** (9 valid + 3 special cases - see below)
+  - **57 valid outcome rows** from **9 studies** for OM comparison
+  - Contains detailed location info (page, table, row, column)
+  - Used to validate LLM's ability to identify all outcomes in a paper
+
+**⚠️ Special Cases in OM_human_extraction.csv (3 studies to exclude):**
+
+These 3 entries should be **excluded** from OM comparison:
+
+1. **121498800** - Duplicate of 121294984 (Burchi 2018)
+   - Same paper, different EPPI-Reviewer ID
+   - Outcomes already coded under 121294984 (9 outcomes)
+   - ❌ NOT in Master file
+
+2. **121498801** - Duplicate of 121058363 (Burchi 2022)
+   - Same paper, different EPPI-Reviewer ID
+   - Outcomes already coded under 121058363 (1 outcome)
+   - ❌ NOT in Master file
+
+3. **121498803** - Beierl (2017) - Qualitative only
+   - "Economic Empowerment Pilot Project in Malawi. Qualitative survey report"
+   - No quantitative outcomes (interviews only, no control group)
+   - Title & Abstract included, Fulltext excluded from systematic review
+   - ❌ NOT in Master file
+
+**Validation:** The `compare_om_extractions.py` script automatically excludes these 3 studies.
+
+**Valid studies for OM comparison:** 9 studies with 57 outcome rows total.
 
 ### Test Papers for Comparison
 

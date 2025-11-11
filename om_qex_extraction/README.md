@@ -17,14 +17,19 @@ Automated quantitative data extraction from research papers using LLMs.
 # 1. Extract 2 test papers (with human ground truth)
 python run_extraction.py --keys PHRKN65M ABM3E3ZP
 
-# 2. Compare against human extraction
+# 2a. Compare QEX (detailed field extraction)
 python compare_extractions.py
+
+# 2b. Compare OM (outcome identification)
+python compare_om_extractions.py
 
 # 3. Review results
 notepad outputs\comparison\comparison_report.txt
+notepad outputs\om_comparison\om_comparison_report.txt
 ```
 
-**Expected**: ~35% agreement (baseline) on 1-2 papers
+**Expected QEX**: ~35% agreement (baseline) on 1-2 papers  
+**Expected OM**: Outcome count recall per study
 
 See **[TESTING_WORKFLOW.md](TESTING_WORKFLOW.md)** for detailed instructions.
 
@@ -138,8 +143,11 @@ python run_extraction.py --all
 ### Compare with Human Extraction
 
 ```python
-# Compare using default paths
+# Compare QEX (quantitative extraction) - default
 python compare_extractions.py
+
+# Compare OM (outcome measures identification)
+python compare_om_extractions.py
 
 # Custom paths
 python compare_extractions.py --llm outputs/extractions/extracted_data.csv --human data/human_extraction/custom.csv
@@ -147,6 +155,9 @@ python compare_extractions.py --llm outputs/extractions/extracted_data.csv --hum
 # Adjust numeric tolerance
 python compare_extractions.py --tolerance 0.05  # 5% tolerance
 ```
+
+**QEX Comparison**: Validates detailed field extraction (effect sizes, p-values, etc.)  
+**OM Comparison**: Validates outcome identification (did LLM find all outcomes in paper?)
 
 ### Programmatic Usage
 

@@ -47,8 +47,12 @@ OM_QEX/
 
 ### Human Extraction (`data/human_extraction/`)
 - **Manual data extraction** - Ground truth for comparison with LLM extraction
+  - **QEX validation**: `8 week SR QEX Pierre SOF and TEEP(Quant Extraction Form).csv` (3 studies, detailed fields)
+  - **OM validation**: `OM_human_extraction.csv` (9 valid studies, 57 outcomes total)
 - **Prompt engineering input** - Reference data for developing extraction prompts
 - **Quality benchmark** - Validation standard for automated extraction
+
+**⚠️ Note on OM_human_extraction.csv**: Contains 3 special case studies (121498800, 121498801, 121498803) that are excluded from comparison (duplicates and qualitative-only). See `data/README.md` for details.
 
 ### Full-Text Outputs (`data/grobid_outputs/`)
 - **tei/** - 114 TEI XML files (structured with sections, references, metadata)
@@ -246,6 +250,10 @@ python run_twostage_extraction.py --keys PHRKN65M
 # Or run modes separately:
 python run_extraction.py --mode om --keys PHRKN65M    # Find all outcomes
 python run_extraction.py --mode qex --keys PHRKN65M   # Extract detailed stats
+
+# Compare with human ground truth
+python compare_om_extractions.py    # Validate outcome identification
+python compare_extractions.py       # Validate detailed extraction
 
 # View results
 python -c "import pandas as pd; df = pd.read_csv('outputs/twostage/stage2_qex/extracted_data.csv'); print(df[['outcome_category', 'literal_text', 'text_position']])"

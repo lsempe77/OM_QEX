@@ -58,7 +58,7 @@
   - Contains study IDs and metadata
   - 114 studies total, 95 with complete metadata
 - **Human QEX**: `data/human_extraction/8 week SR QEX Pierre SOF and TEEP.csv` (skiprows=2)
-- **Human OM**: `data/human_extraction/8WR OM SOF - LLM Test(8wr).csv`
+- **Human OM**: `data/human_extraction/OM_human_extraction.csv`
 
 ### Test Papers
 - **PHRKN65M**: Study 121294984 (Burchi 2018, Malawi TEEP) - 9 human outcomes
