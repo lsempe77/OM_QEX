@@ -4,23 +4,20 @@
 
 CSV files containing study metadata:
 
-1. **Master file of included studies (n=95) 10 Nov(data).csv** ✅ **USE THIS**
-   - Primary dataset: **95 studies** on poverty graduation programs
-   - Cleaned version with duplicate removed (Study 121475488 - Gulesci 2020)
-   - Each study has a unique GROBID file
+1. **Master file of included studies (n=114) 11 Nov(data).csv** ✅ **USE THIS**
+   - Primary dataset with study metadata
+   - 114 total studies (95 with complete metadata, 19 pending)
+   - Links to fulltext_metadata.csv via study ID → paper_id
+   - Source: EPPI-Reviewer systematic review database
+   - Primary dataset: **114 studies** on poverty graduation programs
+   - Cleaned version (duplicate Study 121475488 removed from original n=96)
+   - All 114 studies have GROBID files ready for extraction
    
-2. **Master file of included studies (n=96) 10 Nov(data).csv** ⚠️ **DEPRECATED**
-   - Contains duplicate entry (Studies 121306716 and 121475488 share same Key/PDF)
-   - Do not use - kept for reference only
-
-3. **Master file of included studies (n=95) 10 Nov(data)_with_key.csv**
-   - Older version with Key column pre-merged
-   
-4. **fulltext_metadata.csv**
+2. **fulltext_metadata.csv**
    - Mapping file linking paper IDs to GROBID output Keys
    - Essential for connecting master file IDs to full-text files
-   - **How to use:** Look up a paper's ID (starts with 121...) to find its corresponding Key for GROBID files
-   - Contains 654 records (includes papers not in final master file)
+   - **How to use:** Look up a paper's ID (starts with 121... or 122...) to find its corresponding Key for GROBID files
+   - Contains 673 records (includes papers not in final master file)
 
 ## 🔗 How to Find Files
 
@@ -33,7 +30,7 @@ Papers have two identifiers:
 2. Look up that ID in `fulltext_metadata.csv` → get the Key
 3. Use the Key to find the GROBID files: `[Key].tei.xml` and `[Key].txt`
 
-**Quick tip:** `Master file (n=95) 10 Nov(data)_with_key.csv` already has the Key column merged in for convenience.
+**Quick tip:** Use `scripts/map_ids_to_keys.py` to map study IDs to Keys for batch processing.
 
 ## 👤 Human Extraction (`human_extraction/`)
 

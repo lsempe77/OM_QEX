@@ -40,7 +40,7 @@ def main():
     project_root = Path(__file__).parent.parent
     config_path = Path(__file__).parent / "config" / "config.yaml"
     tei_dir = project_root / "data" / "grobid_outputs" / "tei"
-    master_file = project_root / "data" / "raw" / "Master file of included studies (n=95) 10 Nov(data)_with_key.csv"
+    master_file = project_root / "data" / "raw" / "Master file of included studies (n=114) 11 Nov(data).csv"
     
     # Default output directory based on mode
     if args.output:

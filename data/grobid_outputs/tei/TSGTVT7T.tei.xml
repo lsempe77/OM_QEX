@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" xml:id="_QVTJwa4">Does a Grant-based Approach Work for Addressing Extreme Poverty? A RCT Approach</title>
+				<funder>
+					<orgName type="full">The Rockefeller Foundation</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Narayan</forename><surname>Chandra</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Das</forename><surname>Wameq</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Azfar</forename><surname>Raza</surname></persName>
+						</author>
+						<title level="a" type="main" xml:id="_zckzamM">Does a Grant-based Approach Work for Addressing Extreme Poverty? A RCT Approach</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">A4DBF15287C22F7C269ED09F287B3839</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2025-11-11T10:52+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a292bac</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=1, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=true, generateTeiCoordinates=[true], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_XR9be9q"><p xml:id="_BKHGWQY">Addressing extreme poverty remains a key challenge for development in Bangladesh. BRAC initiated the "Challenging the Frontiers of Poverty Reduction" (CFPR) programme-a grant-based approach to tackle extreme poverty. This study provides an assessment of the cogency of this grant-based programme using a RCT design. We found that the grant-based approach of the programme positively influenced the livelihoods of the participants and their households in the short-term including increasing their income and reducing multifaceted vulnerabilities. This paper suggests that through the CFPR approach investment for the extreme poor may better help them by creating pathways out of abject poverty.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="595.28" lry="841.89"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="595.44" lry="841.68"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="595.44" lry="841.68"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="595.44" lry="841.68"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="595.44" lry="841.68"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="595.44" lry="841.68"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="595.44" lry="841.68"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="595.44" lry="841.68"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="595.44" lry="841.68"/>
+		<surface n="10" ulx="0.0" uly="0.0" lrx="595.44" lry="841.68"/>
+		<surface n="11" ulx="0.0" uly="0.0" lrx="595.44" lry="841.68"/>
+		<surface n="12" ulx="0.0" uly="0.0" lrx="595.44" lry="841.68"/>
+		<surface n="13" ulx="0.0" uly="0.0" lrx="595.44" lry="841.68"/>
+		<surface n="14" ulx="0.0" uly="0.0" lrx="595.44" lry="841.68"/>
+		<surface n="15" ulx="0.0" uly="0.0" lrx="595.44" lry="841.68"/>
+		<surface n="16" ulx="0.0" uly="0.0" lrx="595.44" lry="841.68"/>
+		<surface n="17" ulx="0.0" uly="0.0" lrx="595.44" lry="841.68"/>
+		<surface n="18" ulx="0.0" uly="0.0" lrx="595.44" lry="841.68"/>
+		<surface n="19" ulx="0.0" uly="0.0" lrx="595.44" lry="841.68"/>
+		<surface n="20" ulx="0.0" uly="0.0" lrx="595.44" lry="841.68"/>
+		<surface n="21" ulx="0.0" uly="0.0" lrx="595.44" lry="841.68"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_WeFFHGg">I: Introduction</head><p xml:id="_85qrFNh">Poor communities versus prosperous economic growth and social development of individuals of these communities appear to be counterintuitive at the first glance. However, sustainably bringing community members out of poverty has been the holy grail of development practitioners for the past several decades. Glaring examples of microfinance institutions, food and/or cash transfer for work programmes are available across developing nations. Similarly, Bangladesh also has a handsome portfolio of such programmes run by the government and Non Government Organizations (NGOs) in the likes of safety net interventions for the poor. <ref type="bibr">Ahmed et al. (2007)</ref> showed that there are approximately 27 safety net programmes operating in Bangladesh. However, Bangladesh's expenditure through transfers is far less than the optimum amount required to reach all poor households. (1) Bangladesh also spends a great deal of resources whenever faced with immediate shocks such as food price hike and natural disasters. For example, faced with dramatic food price hike during 2007/08, Bangladesh government responded by implementing employment generation programmes for the poor throughout the country. (2) However, the issue that many of the countries including Bangladesh face is that these interventions are often not inclusive enough to the reach the poorest of the poor and even when reached they are very often unlikely to create a sustainable pathways for them. (3) Empirical evidence suggests that microfinance plays a key role in nurturing livelihood improvement of the participant households in Bangladesh <ref type="bibr" target="#b13">(Pitt and</ref><ref type="bibr">Khandker 1998: 958-96, Khandker 2003)</ref>. However, there is a growing recognition that the representation of the poorest of the poor in microfinance is quite low <ref type="bibr" target="#b10">(Morduch 1999</ref><ref type="bibr">: 1569</ref><ref type="bibr">-616, Rahman and Razzaque, 2000: 1-36)</ref>. It is found that even if it targets the extreme poor, it cannot bring sustainable growth for them in the long-run <ref type="bibr" target="#b10">(Morduch 1999)</ref>. The low representation of the extreme poor in microfinance is often attributed to both the demand and supply side constraints of such a programme. The pressure to make optimal use of the microfinance funds to generate enough income all the while maintaining a strict repayment schedule tends to act as a deterrent for these extreme poor often leading to self exclusion. From the supply side, the extreme poor are often considered to be poor credit risks, leading to further exclusion. About one-fifth of Bangladesh's population falls in the extreme poor category. (4) This indicates that despite the tremendous influx of poverty eradication programmes in Bangladesh buttressed by the fairly good economic growth achieved over the recent years, addressing the extreme poverty still remains a substantial challenge.</p><p xml:id="_GZH57Aa">In an effort to combat extreme poverty, BRAC, one of the largest development organizations in the world, initiated a programme dubbed 'Challenging the Frontiers of Poverty Reduction' (CFPR). CFPR is a grant-based approach for addressing extreme poverty which aims to improve the beneficiaries' livelihoods through a combination of asset transfer, subsistence allowance, and livelihood support services including preliminary health support and social awareness. Initiated in 2002, the first phase of the programme ended in 2006 followed by the second and currently running phase since 2007.</p><p xml:id="_KJRqngq">The impact assessment of the first phase of the programme showed that programme had significant positive impacts on the livelihoods of the participants <ref type="bibr" target="#b1">(Ahmed et al 2009</ref><ref type="bibr" target="#b14">, Rabbani et al 2006</ref><ref type="bibr">, Haseen 2007: 58-64)</ref>. These impact assessment studies were conducted using a non-randomized method. The comparison group used for programme assessment were those households who were identified as extreme poor in the community wealth ranking but failed to meet the inclusion and exclusion criteria for CFPR programme support <ref type="bibr" target="#b14">(Rabbani et al 2006)</ref>. This study also reveals that in most of socio-economic characteristics analyzed, the comparison groups were relatively better off than the intervened households in the baseline Therefore, it is quite strong an assumption that both the groups were on the same growth trajectory, which is the key to double difference estimate. Secondly, there were concerns and anecdotes that the program has important spill-over effects, since the comparison group of Phase-I was selected from the same communities.</p><p xml:id="_huUQZ4R">These are some of the primary reasons that led BRAC to adopt a RCT evaluation design for the second phase of the programme, assuming that it would provide rigorous evidence of impact of the large scale intervention. There are a number of inherent benefits to using the RCT approach such as it constructs a control group to control for the counterfactuals. However, there are also caveats to RCT designs as well <ref type="bibr">(Karlan et al 2010)</ref>. Additionally, ethical considerations have been called into question recently upon the case of using RCT trials in social settings in the sense that it is difficult to justify depriving deserving individuals from benefits they would otherwise receive if the RCT was not designed. However, given the cluster level randomization, the fact that BRAC has decided to include the control group to receive benefits in 2011 and the obvious benefit of using RCT designs has paved the way to incorporating such methodologies for impact assessments.</p><p xml:id="_KAfmus5">This paper provides an assessment of the cogency of this grant-based programme using a RCT design effectively addressing much of the data limitations of the earlier studies. This paper also details the CFPR approach in terms of its selection process and support packages. This study finds that programme participation enabled households increase their per capita income and savings. Assets holdings such as cows/goats/sheep had increased as did the value of their houses. Furthermore, we also found that the level of food security had improved among the participant households. This paper is organized as follows. Section II describes details of the CFPR programme. Section III provides data and analytical framework used for assessing the programme effectiveness followed by the discussion and conclusion in Section IV and V respectively.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_hwegUqN">II: BRAC'S Programme: CFPR</head><p xml:id="_TFAx39u">CFPR phase I was implemented during 2002-06. This phase encompassed 100,000 extreme poor women and their families under its grant-based support package. The currently ongoing CFPR phase <ref type="bibr">II (2007</ref><ref type="bibr">II ( -2011))</ref>, has been extended to provide services to 370,300 households in its grant-based packages.</p><p xml:id="_fRqPKx5">Targeting is a key component of CFPR not only because of the high costs of inclusion error but also to foster a sense of ownership and fairness among the community members. To be eligible for membership of the grant-based package of CFPR, a household needs to meet three of five prerequisites. (5) However, if a household lacks an active female member, they are automatically disqualified as CFPR is specifically targeted towards the extreme poor women and their ability to optimally utilize the assets provided by the programme. ( <ref type="formula">6)</ref>A geographical targeting procedure is undertaken as the very first step of the participant selection process. Based on the poverty and vulnerability mapping by the World Food Programme <ref type="bibr" target="#b2">(BBS and WFP 2004)</ref>, the poorest districts and sub-districts are identified. Within each sub-district, further geographical selection is carried out in consultation with field level BRAC staff armed with an in-depth knowledge about the locality. During the second stage, a wealth ranking exercise, developed by Robert <ref type="bibr" target="#b3">Chambers (1994</ref><ref type="bibr">Chambers ( : 1253-68) -68)</ref> known as the Participatory Rural Appraisal (PRA) is carried out and households of the bottom wealth ranks are called community defined extreme poor. The community defined extreme poor are then re-checked against the inclusion and exclusion criteria. A final round of verification is carried out by high level BRAC staff to generate the final list of households eligible for CFPR support. <ref type="bibr" target="#b17">Sulaiman and Das (2008)</ref> conducted a targeting effectiveness study of the CFPR and showed that more than 80% of the intervened households were from the poorest quartile, indicating that programme was remarkably successful to target mostly the poorest households from the community (Figure <ref type="figure">1</ref>). In terms of targeting the poorest CFPR seems to be relatively better off than other programmes designed for the extreme poor in Bangladesh; for example Government's employment generation programme targeted only 37% households from the poorest quintile <ref type="bibr" target="#b12">(NFPCSP, BDI and BRAC, 2009)</ref>. <ref type="bibr">(7)</ref> Figure <ref type="figure">1</ref>: Poverty concentration of CFPR participants (relative to national rural) Source: <ref type="bibr" target="#b17">Sulaiman and Das (2008)</ref> Following the completion of the selection process of the participants, a training session on their selected Income Generating Assets (IGA) ensues. These IGAs consist of options such as poultry rearing, livestock rearing, vegetable cultivation, horticulture nursery, and non-farm activities. The training component of the programme begins with an intense 3 to 5 day sessions and are followed up by monthly refresher courses to ensure that the provided IGAs are properly cared for and utilized to reach their full yield potential. The support package also provides the necessary inputs required to maintain the said IGAs, such as vaccinations for the livestock and poultry and sheds for their housing. In an effort to create a holistic support package for the extreme poor, all the participants receive a weekly subsistence allowance of approximately BDT 175 (US $2.50), the goal of which is to smooth consumption and compensate the opportunity cost of the time beneficiaries spend in nurturing the IGAs until maturity as opposed to working for an income. Another rather subversive aim of this stipend is to deter the beneficiaries from selling off their assets to meet immediate consumption needs. This stipend is provided to them for 8 to 12 months depending on the type of IGA they have received.</p><p xml:id="_YaNYs7J">As a part of the comprehensive package being provided to the participant, regular health services are provided, especially more so to those who are currently pregnant. From previous endeavours, a support infrastructure of BRAC health workers is already in place in most parts of the country. The hierarchy of the health programme is set so that the service providers are accessible by anyone in the village. The front line workers are known as Shastho Shebikas (health monitors) who are assigned approximately 100 to 150 families to look after. These Shebikas are initially selected from the village resident themselves and trained in the ten most frequently occurring problems such as diarrhoea, dysentery, coughs etc. Furthermore, also as a core part of the programme, hygiene related items such as sanitary latrines and tube-wells are supplied and the uses of which are strongly encouraged.</p><p xml:id="_xZA5cgE">The Social Development (SD) aspect of the CFPR programme is multifaceted as a number of different components work in conjunction to increase social awareness of the different issues that plague local societies. The SD programme is designed to empower the poor by increasing their human, social and political assets so that they are aware of their rights, can claim their entitlements and actively resist exploitation. One example of this aspect of the programme is the Popular Theatre where the local people themselves participate to entertain their fellow villagers through theatre on social messages such as facts that HIV/AIDS is not transferable through simple contact and reduce the stigma around it.</p><p xml:id="_facuxky">For social protection of the participants, a committee known as Gram Daridra Bimochon Committee (GDBC or village poverty alleviation committee) representing the local elites are formed. An interesting concept, the idea of GDBC is to mobilize the local elite support for the extreme poor and to ensure security of the assets transferred to them. The way GDBC works is by creating a committee that will apply socially cumulative pressure on those who may be in a position to help others in the village to provide assistance. As part of the support package, BRAC also provides free legal services to the participants. In this facility, if the member had complaints that required legal attention such as spousal abuse, abandonment and other related issues, BRAC steps in with their local legal team to assist the complainant.</p><p xml:id="_vRjwHMS">In terms of the costs for such an inclusive programme, the comprehensive expenditure per beneficiary is stated to be at USD $292 for the duration of two years. This figure includes the costs related to the income generating assets provided, administration and also for all the background support provided to the beneficiaries during the duration of the programme. One of the components here to understand is that although it is said that the USD $292 is per individual; it in fact, is for the entire household that it being reached. ( <ref type="formula">8</ref>) What this means is that the assets, both social and capital, are provided for the entire household, who reap the benefits provided from components such as social protection, health benefits for the mother and children and education. However, the comprehensive package was found to be highly cost effective, having the benefit-cost ratio at 5.07 <ref type="bibr" target="#b16">(Sinha et al. 2008)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_dAfTNEN">III: Methodology</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_x4Qrbv9">Data</head><p xml:id="_EENc5Dn">This study is based on the primary data collected by BRAC's Research and Evaluation Division (RED). To reiterate, second phase of the CFPR programme was initiated in 2007. In order to evaluate the programme, a baseline survey was carried out in 2007 by RED. The survey was designed using randomized control trial (RCT). Initially, the CFPR II programme decides which branch offices in the targeted districts will be included in the programme since 2007 onward. Then after selecting 20 sub-districts (upazilas) randomly, the evaluation team randomly chose one treatment and one control branch office in each sub-district. It should be noted here that CFPR programme operates at the branch level; i.e., areas within a 5 km radius of the branch are covered. Once the selection of the households is completed, RED conducts the baseline survey in the respective areas. Besides the finally selected households both in the control and treatment areas, a proportion from the rest of the households listed in the PRA were surveyed for the purpose of tracking any spill over effects that may take place in addition to gauging the targeting effectiveness of the process. The survey was conducted from May to December, 2007.</p><p xml:id="_WqQDRSM">Originally the survey was designed to repeat every two years, i.e. the first follow up survey was held in 2009. However, in order to assess the programme impact for a shorter-term, for a sub-sample of the RCT baseline was repeated in October-November, 2008 as well. This study is based on the sub-sample of households.</p><p xml:id="_qUk3uM5">In this sub-sample, all the 40 branch offices were considered. From each branch office, four spots (PRA) were selected randomly from which only the finally selected extreme poor households were re-visited. (9) This sub-sample included 690 households (385 treatment households and 305 control households). A panel dataset was then constructed using two rounds of survey data. The time length between the baseline and repeat surveys of the subsample was around one year. (10)</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_hB9RYNf">Analytical technique</head><p xml:id="_e57e6Ms">Since the survey was conducted using RCT method, the difference-in-difference technique has been used to estimate impact of the programme on the treatment households. The difference-in-difference estimates the change in difference between the treatment and control group from the pre-programme period to the follow-up period. The difference-in-difference for the outcome variable can be estimated using the following regression equation:</p><formula xml:id="formula_0">Outcomevariable it =α+β 1 Year8 t +β 1 Treatment it +β2 Year8 t *Treatment i +ε it (1)</formula><p xml:id="_GQ8b3fs">In the above regression model, Year8 is a binary variable that takes on the value of 1 if after intervention (i.e. 2008) and 0 otherwise. This variable encapsulates the changes of the outcome among control households from 2007 to 2008. Treatment is also a binary variable that takes on the value of 1 if the household belongs to the treatment group and 0 otherwise. The interaction variable (Year8*Treatment) was added to capture the difference-in-difference (i.e. average treatment effect) for 2008 over 2007. The constant term in the regression model is the value of the outcome variable for the control households in the baseline.</p><p xml:id="_7kT9SB8">However, in order to check for robustness of the impact assessment using difference-indifference technique (i.e. equation 1), we have used cross sectional specification using the follow up data where we have controlled the baseline value of the outcome variables. The equation we used is as follows:</p><formula xml:id="formula_1">Outcomevariable i8 =α +β 1 Treatment i +β2(Outcome variable i7 ) +ε it (2)</formula><p xml:id="_9TdHk8u">Where outcomevariable i8 and outcomevariable i7 are the values of the outcome variable of household 'i'for 2008 and 2007 respectively. β 1 measures the average treatment effect of intervention. Aside from food expenditure, the analysis of all the outcome variables has been carried out using equation (1) and ( <ref type="formula">2</ref>).</p><p xml:id="_gHe9VTC">The effect on food expenditure has been analyzed using the cross section data of 2008. This is because the comparable data was not available for the baseline survey. Food expenditure data was collected using seven day recall. Therefore, assuming that there was no difference in the baseline between treatment and control households (11), the difference between them at the end-line can be attributable to the programme effect. We analyzed effect on food expenditure using the following equation:</p><formula xml:id="formula_2">Outcomevariable i8 =α+ β 1 Treatment i +ε i (3)</formula><p xml:id="_vPJPzTK">where β 1 measures the difference between treatment and control households in 2008, presuming it to be the programmatic effect.</p><p xml:id="_9aXW3yS">Considering that a clustered randomization was followed, we estimated the standard errors allowing for correlation within the clusters (for equations 1, 2 and 3). In this case, our definition of cluster consists of 80 to 120 households, on whom the PRA procedure is conducted. All the regression equations were estimated using OLS.</p><p xml:id="_dfcSej6">We also checked the orthogonality of randomization by estimating a single regression of assignment to treatment on the baseline variables. The baseline variable we have considered are mainly related to household's asset (physical and natural, financial), demographic characteristics, and main occupation and literacy of the household head.</p><p xml:id="_zWANa6V">For assessing the impacts of the programme we considered the following variables: per capita income, number of income sources, number of chickens/ducks, goats/sheep, livestock, the value of house, cash savings, outstanding loan, availability of sanitary latrines and the overall awareness. For the purpose of analyzing awareness among the beneficiary women, we have constructed an index using nine indicators. (12) During the survey, the respondents were asked these awareness related questions. To construct the index, for each question we assign a value of "1" for correct answer and "0" for incorrect answer. Then we sum up the scores for each respondent and divided by total number of indicators considered (i.e. 9). The value of the index lies between 0 and 1.</p><p xml:id="_dmwvEHG">One thing must be kept in mind that not all the programme components described in the pertinent section were assessed in this paper. As mentioned, primarily, this paper mainly attempts to ascertain the implications of the programme on its core targets that is related to the changes income and similar factors such as income generating assets, activities, food security status etc. Additionally, another reason we do not measure impacts related to changes in health status and social development is because as this paper focuses on short term impacts of CFPR, the impacts of the other related components cannot be feasibly ascertained over this duration.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_Z6zs4fs">Results and Discussion</head><p xml:id="_xFDc5TZ">Table <ref type="table" target="#tab_0">1</ref> provides a summary of baseline and follow up statistics of the outcome variables. Upon inspection, it is evident that all the variables show statistically insignificant difference between treatment and control, except the number of cow/bull and amount of cash savings. There however is vastly different when inspecting the follow up survey results. Aside from the amount of outstanding loans, all other variables showed higher for treatment compared to the control and the differences were statistically significant. For outstanding loan the value is higher for the control group and it is statistically significant. Table <ref type="table" target="#tab_1">2</ref> provides regression results of assignment to treatment on the baseline variables. The dependent variable takes the value of "1" for treatment and 0 for control. The regression was estimated using both logistic and OLS models. Expectedly since, the survey was designed following RCT; these variables would not significantly determine the assignment to treatment. We found that all the regressors are individually insignificant for both the models. Also, the F-statistics and chi-square statistics were found to be insignificant, implying that one cannot reject the null hypothesis that all the coefficients are simultaneously equal to zero, an indication that the treatment and control households have balanced in terms of their baseline characteristics. Table <ref type="table" target="#tab_2">3</ref> presents the impact results estimated using equation ( <ref type="formula">1</ref>) and ( <ref type="formula">2</ref>). As we see very little difference between the results of the two specifications in terms of the magnitude of impacts, we mainly discuss the results from equation (1) to avoid redundancy. Looking at the number of income sources the difference-in-difference or impact has been found to be 0.66 which is statistically significant at the 1% level, indicating that number of income sources of the treatment households increased significantly due to their programme participation. Coefficient of the Year8 variable was found to be statistically insignificant indicating that number of income sources of the control households remained fairly stable over time. Since programme transfers assets to the participants, an increase in their income sources is likely to indicate that they started to generate income from those assets. It has been found that programme participation enables the households to increase their per capita income. Effect of the programme on per capita income of the participant households was found to be statistically significant at 10% level. Analysis of asset holding shows that the mean number of cows, goats/sheep and of ducks/hen holding of the treatment households increased by 0.40, 0.60 and 2.29 respectively as a result of programme participation, all statistically significant at the 1% level. However, the impact on livestock and poultry holding may be, at least partly, attributable to the programme transfers.</p><p xml:id="_7EMTAtq">Dilapidated houses are often one of the key identifiers of the extreme poor families. When income increases, household improvements are often seen to have high priority after immediate consumption needs are met. We find significant positive impacts of programme participation on the housing status. On average, the value of the houses went up by BDT 1197 (US $ 17.16) due to programme participation and this increase was found to be statistically significant at the 5% level. The same phenomenon was also noticed for the amount of cash savings-effect on savings was found to be BDT 1564 (US $22.42) per participant woman on average. As a component of CFPR support, on a case by case basis in terms of access, many of the households receive sanitary latrines while others are strongly encouraged to use the ones from their neighbours. This is carried out by the programme in an effort to promote healthy living awareness and hygiene practices. CFPR also tries to allocate latrines for the households through GDBCs. Analyzing sanitary latrine holding it was found to have positive impacts on the number of sanitary latrines available for use to the beneficiaries and results reveal that the sanitary latrine holdings increased by 36% among the participant households as a net effect of the programme.</p><p xml:id="_97WnaBd">In addition to the material needs of the beneficiaries, the programme also focuses on building their awareness regarding their surroundings. To address this, the BRAC Programme Organizers (PO) teach the participant women about the laws regarding divorces, inheritances etc. during their regular households visits. Analysing the awareness index we found that the difference-in-difference of the awareness index bears positive sign and is statistically significant 1% level indicating that participant women became more aware about the social, political and legal related laws and their rights by participating in the programme.</p><p xml:id="_g8uJA8A">Increasing access to financial markets often considered as increase in ability to borrow and engage in self-employment through using it for productive purpose. However, analyzing the amount of outstanding loans, it was found that the difference-in-difference is statistically insignificant indicating that programme participation had no impact on credit market participation. Studies on first phase of CFPR showed that programme participation enhanced the participant households' credit market participation <ref type="bibr" target="#b14">(Rabbani et al 2006)</ref>. In fact, the beneficiary women are eligible to take loans from BRAC microfinance once they complete the requisite two years of programme participation and this is the driving force behind increase in credit market participation of the participant women during the previous phase.</p><p xml:id="_5SSFvVt">For the present study, we don't find any impact on credit market participation may be because when the repeat survey was conducted, the beneficiaries still had not completed the requisite part of the programme training process to enable them to borrow from BRAC microfinance programme. Improving the food security of the beneficiaries is one of the main points of interest for the programme as it is one of the key indicators of vulnerability. To reiterate, food expenditure analysis has been analyzed using cross-section data of the follow-up survey (using Equation <ref type="formula">3</ref>). The survey collected information on food expenditure from the respondents using a recall method for the last one week and its analysis is shown in Table <ref type="table" target="#tab_3">4</ref>. It can be seen from Table <ref type="table" target="#tab_3">4</ref> that there is no impact on per capita expenditure on cereal consumed-average treatment effect was found to be statistically insignificant. As regards per capita expenditure on lentil, we find positive impact of programme participation. We also find that the participant households are spending more on animal protein and fruits compared to the control households. Taking into account the fact that fruits are usually cheaper in rural areas, the increase in its consumption is by no means a surprise considering their increase in income.</p><p xml:id="_SjyGt6r">Overall, the expenditure on the total amount of food consumed was found to be, on average, BDT 16.70 more for the treatment households, compared to the control households and this is significant at the 5% level. Impact on food expenditure may not be direct results of the transfers. Because although many of the programme supports continue for two years, subsistence allowance continues for about 8 to 12 months depending on the type of IGA provided by the programme. The survey was conducted after the stop of the subsistence allowance. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_bMjEX6G">Conclusion</head><p xml:id="_KKMxWYD">Despite the strides taken forward in terms of poverty reduction, dealing with extreme poverty remains as much a key issue for Bangladesh as it does for the rest of the world. To address this challenge, BRAC initiated the "Challenging the Frontiers of Poverty Reduction" (CFPR) programme in 2002 for five years <ref type="bibr">(2002)</ref><ref type="bibr">(2003)</ref><ref type="bibr">(2004)</ref><ref type="bibr">(2005)</ref><ref type="bibr">(2006)</ref> as its debut phase. BRAC is currently implementing the second phase of the programme with greater coverage in terms of the number of extreme poor included and increased diversity in its packages to address the heterogeneity among the poor. This paper provides an assessment of the cogency of this grant-based programme using a RCT design, effectively addressing much of the earlier data limitations from the first phase's impact assessments.</p><p xml:id="_SGUxfnT">We find that the grant-based support and the holistic approach of the programme rapidly influenced the livelihoods of the beneficiaries. Upon engagement, the participant households are given a productive asset base which was found to significantly contribute to income source diversification and increase in per capita income of the participant households.</p><p xml:id="_qvxhYaw">We also find that programme has substantially reduced vulnerability of the households by increasing their food security and most interestingly it has been found that they have diversified their food items. This leads one to speculate that this would have a positive impact on the nutritional status of the household members. Sanitary latrine holding among the households have also increased remarkably due to programme participation, which is expected to improve health status through proper sanitation and hygiene practices.</p><p xml:id="_CsxU6st">Programme participation enabled the participant women' to increase their saving behaviour, which may further increase their investment opportunity while enabling them to cope with crisis if and when faced.</p><p xml:id="_MEVZ37J">Expense for the poor in poor countries is although not sufficient it is not negligible in volume. For example, the Government of Bangladesh spends approximately 5% of its public expenditure for the poor. What is necessary for sustainable reduction in extreme poverty is to design the mechanism for the delivery of the funds. This paper finds that CFPR approach is an innovative programme for addressing extreme poverty. This paper suggests through the CFPR approach investment for the extreme poor may better help them by creating livelihood pathways.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_UqwEdZY">Notes</head><p xml:id="_jUhXbn3">1. According to World <ref type="bibr">Bank (2006)</ref> poverty eradication in Bangladesh only through investment in social assistance would require about 35% of public expenditure. However, the actual rate of investment in social protection in 2004 was only about 5% of public expenditure.</p><p xml:id="_UN3s6jk">2. The programme was originally designed to provide 100-Days of employments at a wage rate of Tk. 100 per day. This was designed to implement in two phases of fiscal year 2008/09-September-October and March-May. However, the programme was not implemented during the later phase of that fiscal year.</p><p xml:id="_kgGYygM">3. For example, <ref type="bibr" target="#b7">Hashemi (2001)</ref> showed that in IGVGD, one of the well-known programmes for extreme poor in Bangladesh, the beneficiaries could not sustain all the gains that they had made during the intervention period. (iii) household is enjoying any intervention from other development programmes. The first criterion used in CFPR phase I is also followed in CFPR phase II; however, for the second and third criteria some modification has been made because learning from CFPR I was that those who were participating microfinance and eventually excluded from CFPR were later on found to be remained very inactive in microfinance. Therefore, in the second phase inclusion of this group of households is carefully scrutinized as regards size of outstanding loans, length of inactiveness in microfinance etc.</p><p xml:id="_DYXZk82">7. Estimated using CGAP poverty assessment tool developed by IFPRI <ref type="bibr" target="#b6">(Henry et al. (2003))</ref> 8. This information was collected during an interview with Ms. Rabeya Yasmin, Programme Head, CFPR Programme for the purposes of this paper. 9. In the baseline, on average there were 40 spots surveyed in each branch office 10. The instrument used for the survey may be collected from the authors upon request.</p><p xml:id="_AwxTNvv">11. In fact using the three day recall data, <ref type="bibr" target="#b4">Jalal et al (2009)</ref> showed that there was no different in food expenditure between treatment and control households of the full sample RCT survey.</p><p xml:id="_r9CE7VG">12. The indicators are: (i) Know legal age of marriage for male; (ii) Know legal age of marriage for female; (iii) Know about punishment for giving/taking dowry; (iv) Know correct divorce laws; (v) Know after how many days divorce is official; (vi) Know voting age; (vii) Know how to distribute assets among sons and daughters (for Muslims only); (viii) Heard about BRAC Legal Aid Clinic; and (ix) Know about the facilities at legal aid clinic</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><figDesc xml:id="_rPYHJUj">4. Based on the cost of basic needs (CBN) method 25% population of Bangladesh live below lower poverty line while based on calorie intake method the proportion is 19% (BBS 2007). 5. The five inclusion criteria for the CFPR programme include: (i) The household owns less than 10 decimals of land; (ii) The household is dependent upon female domestic work or begging; (iii) No male adult active members in the household; (iv) Children of school going age have to take paid work; and (v) No productive assets in the household 6. In the CFPR phase I, three exclusion criteria were used-(i) household does not have an active female member; (ii) any of the household members is participating microfinance; and</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><graphic coords="6,83.50,122.29,399.26,153.06" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 :</head><label>1</label><figDesc xml:id="_Ukd9yxP">Mean value of the outcome variables in the baseline and follow up</figDesc><table><row><cell>Baseline (2007)</cell><cell>Follow up (2008)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc xml:id="_xRKy3ad">Regression results of assignment to treatment on the baseline variables Dependent variable: dummy variable (treatment=1, control=0)</figDesc><table><row><cell></cell><cell>OLS</cell><cell>Logit</cell></row><row><cell>Independent variables</cell><cell>Coefficient (t-statistics)</cell><cell>Coefficient (z-statistics)</cell></row><row><cell></cell><cell>-0.0831</cell><cell>-0.3433</cell></row><row><cell>Owns goat/sheep=1</cell><cell>(-1.28))</cell><cell>(-1.29</cell></row><row><cell></cell><cell>0.1198</cell><cell>0.5298</cell></row><row><cell>Owns cow/bull=1</cell><cell>(1.35)</cell><cell>(1.36</cell></row><row><cell></cell><cell>0.0004</cell><cell>0.0016</cell></row><row><cell>Amount of own land (decimal)</cell><cell>(0.13)</cell><cell>(0.12</cell></row><row><cell></cell><cell>0.0246</cell><cell>0.1022</cell></row><row><cell>Has cash savings=1</cell><cell>(0.61)</cell><cell>(0.62)</cell></row><row><cell>No. of male working aged</cell><cell>0.0516</cell><cell>0.2190</cell></row><row><cell>members (15-64 years)</cell><cell>(1.34)</cell><cell>(1.35)</cell></row><row><cell>Main occupation of the</cell><cell>-0.0223</cell><cell>-0.0954</cell></row><row><cell>household head is day labor=1</cell><cell>(-0.53)</cell><cell>(-0.55)</cell></row><row><cell></cell><cell>-0.0266</cell><cell>-0.1120</cell></row><row><cell>Household head is literate=1</cell><cell>(-0.38)</cell><cell>(-0.39)</cell></row><row><cell></cell><cell>-0.0818</cell><cell>-0.3317</cell></row><row><cell>Female headed household=1</cell><cell>(-1.59)</cell><cell>(-1.57)</cell></row><row><cell></cell><cell>-0.0053</cell><cell>-0.0225</cell></row><row><cell>Household size</cell><cell>(-0.35)</cell><cell>(-0.36)</cell></row><row><cell></cell><cell>-0.0315</cell><cell>-0.1312</cell></row><row><cell>Owns duck/hen=1</cell><cell>(-0.81)</cell><cell>(-0.83)</cell></row><row><cell></cell><cell>0.5940***</cell><cell>0.3825</cell></row><row><cell>Constant</cell><cell>(8.74)</cell><cell>(1.36)</cell></row><row><cell>F-value (10, 679)/LR Chi(10)</cell><cell>1.460</cell><cell>14.720</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 :</head><label>3</label><figDesc xml:id="_NHR2Jgv">Core Impact of CFPR</figDesc><table><row><cell></cell><cell></cell><cell cols="3">Panel regression results (equation 1)</cell><cell cols="3">Cross-sectional regression results</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>(equation 2)</cell><cell></cell></row><row><cell>Outcome</cell><cell>Constant</cell><cell>Year8</cell><cell>Treatmen</cell><cell>Year8*Treatment</cell><cell cols="2">Constant Treatment</cell><cell>Outcom</cell></row><row><cell>variable</cell><cell></cell><cell></cell><cell>t</cell><cell>(Average Treatment</cell><cell></cell><cell>(Average</cell><cell>e</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Effect)</cell><cell></cell><cell>Treatment</cell><cell>variable</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Effect)</cell><cell>(Baselin</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>e value )</cell></row><row><cell>Per capita</cell><cell>6855***</cell><cell>1085**</cell><cell>-398</cell><cell>936*</cell><cell>6373***</cell><cell>629*</cell><cell>0.23***</cell></row><row><cell>income (BDT</cell><cell>(18.78)</cell><cell>(2.52)</cell><cell>(-0.82)</cell><cell>(1.67)</cell><cell>(17.07)</cell><cell>(1.67)</cell><cell>(5.46)</cell></row><row><cell>constant price)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>No. of income</cell><cell>2.30***</cell><cell>0.05</cell><cell>0.03</cell><cell>0.66***</cell><cell>1.68***</cell><cell>0.68***</cell><cell>0.29***</cell></row><row><cell>sources</cell><cell>(27.98)</cell><cell>(0.61)</cell><cell>(0.20)</cell><cell>(5.11)</cell><cell>(17.19)</cell><cell>(6.84)</cell><cell>(8.31)</cell></row><row><cell>No. of</cell><cell>0.04***</cell><cell>0.04</cell><cell>0.04</cell><cell>0.40***</cell><cell>0.06***</cell><cell>0.43***</cell><cell>0.33***</cell></row><row><cell>cow/bull</cell><cell>(3.06)</cell><cell>(1.65)</cell><cell>(1.42)</cell><cell>(5.62)</cell><cell>(2.88)</cell><cell>(5.66)</cell><cell>(2.73)</cell></row><row><cell>No. of</cell><cell>0.19***</cell><cell>0.09*</cell><cell>0.01</cell><cell>0.60***</cell><cell>0.21***</cell><cell>0.61***</cell><cell>0.38***</cell></row><row><cell>Goat/sheep</cell><cell>(5.18)</cell><cell>(1.74)</cell><cell>(0.16)</cell><cell>(4.87)</cell><cell>(4.22)</cell><cell>(5.01)</cell><cell>(5.54)</cell></row><row><cell>No. of</cell><cell>2.15***</cell><cell>-0.81***</cell><cell>-0.38</cell><cell>2.29***</cell><cell>0.97***</cell><cell>1.97***</cell><cell>0.17***</cell></row><row><cell>Duck/hen</cell><cell>(8.05)</cell><cell>(-3.07)</cell><cell>(-1.10)</cell><cell>(5.23)</cell><cell>(5.17)</cell><cell>(4.65)</cell><cell>(2.66)</cell></row><row><cell>Value of the</cell><cell>3617***</cell><cell>-391</cell><cell>-3.25</cell><cell>1197**</cell><cell>1819***</cell><cell>1195***</cell><cell>0.39***</cell></row><row><cell>house (BDT)</cell><cell>(12.37)</cell><cell>(-1.28)</cell><cell>(-0.01)</cell><cell>(2.53)</cell><cell>(5.47)</cell><cell>(3.24)</cell><cell>(5.00)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4 :</head><label>4</label><figDesc xml:id="_zfnTXAW">Impact on food security</figDesc><table><row><cell cols="2">Outcome variable (Per capita expenditure (BDT) on: ) Constant</cell><cell>Average treatment effect</cell></row><row><cell></cell><cell>96.63***</cell><cell>2.60</cell></row><row><cell>Cereal</cell><cell>(41.87)</cell><cell>(0.76)</cell></row><row><cell></cell><cell>2.69***</cell><cell>1.88***</cell></row><row><cell>Lentil</cell><cell>(9.63)</cell><cell>(3.56)</cell></row><row><cell></cell><cell>3.99***</cell><cell>5.22***</cell></row><row><cell>Animal protein</cell><cell>(5.31)</cell><cell>(3.42)</cell></row><row><cell></cell><cell>11.32***</cell><cell>1.46</cell></row><row><cell>Fish</cell><cell>(11.10)</cell><cell>(1.12)</cell></row><row><cell></cell><cell>0.40***</cell><cell>0.50*</cell></row><row><cell>Fruits</cell><cell>(3.32)</cell><cell>(1.88)</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head xml:id="_HnmrTDg">Acknowledgement</head><p xml:id="_yDAYqU4">We would like to acknowledge the contributions and the assistance of <rs type="person">Dr. AMR Chowdhury</rs>, Associate Director, <rs type="funder">The Rockefeller Foundation</rs>; <rs type="person">Dr. Masud Ahmed</rs>, Research Coordinator, BRAC; <rs type="person">Ms. Rabeya Yasmin</rs>, <rs type="affiliation">Programme Head of CFPR, BRAC</rs>; <rs type="person">Mr. Munshi Sulaiman</rs>, Senior Research Fellow, BRAC; <rs type="person">Dr. Imran Matin</rs>, Deputy Executive Director, <rs type="affiliation">BRAC International</rs> and <rs type="person">Farzana Aktar Misha</rs>, <rs type="affiliation">International Finance Corporation</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="consolidated"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main" xml:id="_sqtPX4D">Comparing Food and Cash Transfers to the Ultra-Poor in Bangladesh</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">U</forename><surname>Ahmed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Quismbing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Nasreen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Hoddinott</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Bryan</surname></persName>
+		</author>
+		<idno type="DOI">10.2499/9780896291737rr163</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_yXVFDBh">Relative efficacy of food and cash transfers in improving food security and livelihoods of the ultra poor in Bangladesh</title>
+		<meeting><address><addrLine>Washington, D.C.</addrLine></address></meeting>
+		<imprint>
+			<publisher>International Food Policy Research Institute</publisher>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note>Project report prepared for the World Food Programme</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main" xml:id="_cDeebe6">Changing of Asian Outlooks and New Travel Demands are the Emerging Factors for Expanding Tourism Markets Globally</title>
+		<author>
+			<persName><forename type="first">Dilip</forename><forename type="middle">Kumar</forename><surname>Bhadra</surname></persName>
+		</author>
+		<idno type="DOI">10.5176/2251-3426_thor16.20</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_VXgCYA7">4th Annual International Conference on Tourism and Hospitality Research (THoR 2016)</title>
+		<title level="s" xml:id="_rZ9pb9R">BRAC Research Monograph Series</title>
+		<meeting><address><addrLine>Dhaka</addrLine></address></meeting>
+		<imprint>
+			<publisher>Global Science &amp; Technology Forum (GSTF)</publisher>
+			<date type="published" when="2007">2009. 2007</date>
+			<biblScope unit="volume">39</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main" xml:id="_guATskh">United Nations World Food Programme, Afghanistan (WFP). /WFP Afghanistan Quarterly report / United Nations World Food Programme, Afghanistan. /Quarterly report / WFP Afghanistan.</title>
+		<author>
+			<persName><forename type="first">Wfp</forename><surname>Bbs</surname></persName>
+		</author>
+		<idno type="DOI">10.2458/azu_acku_serial_hv696_f6_u65_1st_quarter_2004</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_ZzDFs6R">Local estimation of poverty and malnutrition in Bangladesh. Ministry of planning</title>
+		<imprint>
+			<publisher>University of Arizona Libraries</publisher>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main" xml:id="_kfmtpYN">Participatory rural appraisal (PRA): Analysis of experience</title>
+		<author>
+			<persName><forename type="first">Robers</forename><surname>Chambers</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0305-750x(94)90003-5</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_bR8dgv4">World Development</title>
+		<title level="j" type="abbrev">World Development</title>
+		<idno type="ISSN">0305-750X</idno>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="1253" to="1268" />
+			<date type="published" when="1994-09">1994</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main" xml:id="_tKmC6tM">Food consumption Pattern and Dietery Diversity</title>
+		<author>
+			<persName><forename type="first">Csb;</forename><surname>Jalal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N;</forename><surname>Choudhury</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sulaiman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_43f2rp4">Pathways Out of Extreme Poverty: Findings from Round 1 Survey of CFPR Phase II</title>
+		<meeting><address><addrLine>Dhaka</addrLine></address></meeting>
+		<imprint>
+			<publisher>BRAC</publisher>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main" xml:id="_5cUr8pv">Change in food and energy consumption among the ultra poor: is the poverty reduction programme making a difference?</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Haseen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_hES6s3u">Asia Pacific Journal of Clinical Nutrition</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="58" to="64" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main" xml:id="_nNCQn9z">Microfinance Poverty Assessment Tool</title>
+		<author>
+			<persName><forename type="first">Carla</forename><surname>Henry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cecile</forename><surname>Lapenu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Manfred</forename><surname>Zeller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Manohar</forename><surname>Sharma</surname></persName>
+		</author>
+		<idno type="DOI">10.1596/0-8213-5674-7</idno>
+	</analytic>
+	<monogr>
+		<title level="s" xml:id="_2G3vmgD">Technical Tools Series</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<date type="published" when="2003-10-31">2003</date>
+			<publisher>The World Bank</publisher>
+			<pubPlace>Washington DC</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main" xml:id="_cHGjUJn">Linking microfinance and safety net programs to include the poorest: the case of IGVGD in Bangladesh</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hashemi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_cMraNrY">Focus Note</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b8">
+	<monogr>
+		<title level="m" type="main" xml:id="_WT8qmRK">Observing Unobservables: Identifying Information Asymmetries with a Consumer Credit Field Experiment</title>
+		<author>
+			<persName><forename type="first">Dean</forename><surname>Karlan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sneha</forename><surname>Stephen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jonathan</forename><surname>Zinman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Keesler</forename><surname>Welch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Violetta</forename><surname>Kuzmova</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/rct.1241</idno>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b9">
+	<monogr>
+		<title level="m" type="main" xml:id="_UxTAzb5">Micro-Finance and Poverty: Evidence Using Panel Data from Bangladesh</title>
+		<author>
+			<persName><forename type="first">Shahidur</forename><forename type="middle">R</forename><surname>Khandker</surname></persName>
+		</author>
+		<idno type="DOI">10.1596/1813-9450-2945</idno>
+		<imprint>
+			<date type="published" when="2003-01">2003. 2945</date>
+			<publisher>World Bank, Washington, DC</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">Policy Research Working Paper</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main" xml:id="_RKkaTVE">The Microfinance Promise</title>
+		<author>
+			<persName><forename type="first">Jonathan</forename><surname>Morduch</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/jel.37.4.1569</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_cRAMp98">Journal of Economic Literature</title>
+		<title level="j" type="abbrev">Journal of Economic Literature</title>
+		<idno type="ISSN">0022-0515</idno>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1569" to="1614" />
+			<date type="published" when="1999-12-01">1999</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b11">
+	<monogr>
+		<title level="m" type="main" xml:id="_SGAZ2WJ">Does microcredit really help the poor? New evidence from flagship programs in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Jonathan</forename><surname>Morduch</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998-05-08">1998. 8th May 2010</date>
+		</imprint>
+	</monogr>
+	<note>Available at www.nyu</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b12">
+	<monogr>
+		<title level="m" type="main" xml:id="_HP3UtxZ">Study on the first phase of the 100-Day Employment Generation Programme</title>
+		<author>
+			<persName><forename type="first">Bdi</forename><surname>Nfpcsp</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Brac</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009-05">2009. 5 th March 2010</date>
+		</imprint>
+	</monogr>
+	<note>Available at www.bracresearch.org</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main" xml:id="_vaJUtmT">The impact of Group‐Based Credit Programs on Poor Households in Bangladesh: Does the Gender of Participants Matter?</title>
+		<author>
+			<persName><forename type="first">Mark</forename><forename type="middle">M</forename><surname>Pitt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shahidur</forename><forename type="middle">R</forename><surname>Khandker</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/250037</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_AFFSjpF">Journal of Political Economy</title>
+		<title level="j" type="abbrev">Journal of Political Economy</title>
+		<idno type="ISSN">0022-3808</idno>
+		<idno type="ISSNe">1537-534X</idno>
+		<imprint>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="958" to="996" />
+			<date type="published" when="1998-10">1998. October</date>
+			<publisher>University of Chicago Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b14">
+	<monogr>
+		<title level="m" type="main" xml:id="_y7rtphx">Impact assessment of CFPR/TUP: A descriptive analysis based on 2002-2005 panel data</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rabbani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">A</forename><surname>Prakash</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sulaiman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006. 2006</date>
+			<publisher>BRAC and Aga Khan Foundation Canada</publisher>
+			<biblScope unit="page">30</biblScope>
+			<pubPlace>Dhaka and Ottawa</pubPlace>
+		</imprint>
+	</monogr>
+	<note>CFPR Working Paper Series No. 12</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main" xml:id="_XKTEPbm">On Reaching the Hardcore Poor: Some Evidence on Social Exclusion in NGO Programmes</title>
+		<author>
+			<persName><forename type="first">Atiur</forename><surname>Rahman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Abdur</forename><surname>Razzaque</surname></persName>
+		</author>
+		<idno type="DOI">10.57138/hzhd1868</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_WNChXNQ">The Bangladesh Development Studies</title>
+		<title level="j" type="abbrev">BDS</title>
+		<idno type="ISSN">0304-095X</idno>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="35" />
+			<date type="published" when="2000-03-01">2000</date>
+			<publisher>Bangladesh Institute of Development Studies</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main" xml:id="_DWWCNVc">BanglaBait: Semi-Supervised Adversarial Approach for Clickbait Detection on Bangla Clickbait Dataset</title>
+		<author>
+			<persName><forename type="first">Md.</forename><forename type="middle">Motahar</forename><surname>Mahtab</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Monirul</forename><surname>Haque</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mehedi</forename><surname>Hasan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Farig</forename><surname>Sadeque</surname></persName>
+		</author>
+		<idno type="DOI">10.26615/978-954-452-092-2_081</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_Kq2wNJk">Proceedings of the Conference Recent Advances in Natural Language Processing - Large Language Models for Natural Language Processings</title>
+		<meeting>the Conference Recent Advances in Natural Language Processing - Large Language Models for Natural Language Processings<address><addrLine>Dhaka</addrLine></address></meeting>
+		<imprint>
+			<publisher>INCOMA Ltd., Shoumen, BULGARIA</publisher>
+			<date type="published" when="2008-03">2008. March</date>
+			<biblScope unit="page" from="748" to="758" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main" xml:id="_dMNWjWg">Bangladesh - Policies for Mainstreaming Strategic Environmental Assessment in the Urban Development of Greater Dhaka</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sulaiman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">C</forename><surname>Das</surname></persName>
+		</author>
+		<idno type="DOI">10.1596/12491</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_aqCXHfB">Social safety nets in Bangladesh: an assessment</title>
+		<title level="s" xml:id="_yKt7tsa">Bangladesh Development Series</title>
+		<meeting><address><addrLine>Dhaka</addrLine></address></meeting>
+		<imprint>
+			<publisher>Washington, DC</publisher>
+			<date type="published" when="2006">2008. 2006</date>
+		</imprint>
+	</monogr>
+	<note>Unpublished report An assessment of OTUP: Targeting and Training Paper No. 9</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

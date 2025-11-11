@@ -171,8 +171,8 @@ print(f"Components: {result.graduation_components}")
 
 ## 🔗 Data Sources
 
-- **Input**: 95 TEI XML files in `../data/grobid_outputs/tei/`
-- **Metadata**: `../data/raw/Master file of included studies (n=95) 10 Nov(data).csv`
+- **Input**: 114 TEI XML files in `../data/grobid_outputs/tei/`
+- **Metadata**: `../data/raw/Master file of included studies (n=114) 11 Nov(data).csv`
 - **Human Ground Truth**: `../data/human_extraction/8 week SR QEX Pierre SOF and TEEP(Quant Extraction Form).csv` (3 studies, 2 in master)
 
 ## � Test Papers

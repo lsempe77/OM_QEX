@@ -1,17 +1,20 @@
 # OM_QEX - Outcome Mapping Quality of Evidence Exchange
 
-A curated dataset of 95 papers on poverty graduation programs with full-text extractions and LLM-based data extraction tools.
+A curated dataset of 114 studies on poverty graduation programs with full-text extractions and LLM-based data extraction tools.
 
 **📖 Comprehensive Documentation**: See [`docs/`](docs/) for technical reports and performance analysis
+
+**✅ Dataset Status (Nov 11, 2025)**: **114 studies ready for extraction** | All GROBID outputs complete
 
 ## 📁 Structure
 
 ```
 OM_QEX/
 ├── data/
-│   ├── raw/                  # 3 CSV metadata files
+│   ├── raw/                  # Master CSV (114 studies) + fulltext metadata (673 papers)
 │   ├── human_extraction/     # Manual extractions (ground truth)
-│   └── grobid_outputs/       # 95 papers × 2 formats (TEI XML + TXT)
+│   ├── grobid_outputs/       # 114 studies × 2 formats (TEI XML + TXT) ✅
+│   └── pdfs_from_zotero/     # 19 PDFs downloaded from Zotero (archived source)
 ├── om_qex_extraction/        # 🆕 LLM-based extraction app
 │   ├── src/                  # Extraction engine and parsers
 │   ├── prompts/              # LLM extraction prompts
@@ -22,17 +25,25 @@ OM_QEX/
 │   ├── BASELINE_RESULTS_EMAIL.md         # Stakeholder summary
 │   ├── HUMAN_COMPARISON_RESULTS.md       # LLM vs human comparison
 │   └── CLEANUP_LOG.md                    # Project organization log
-├── scripts/                  # Data processing utilities (2 reusable scripts)
-└── archive/                  # Historical files and one-time scripts
+├── scripts/                  # Data processing utilities (map IDs to keys, copy files)
+├── archive/                  # Historical files and one-time scripts
+│   └── zotero_sync_nov11/    # Zotero sync scripts, logs, and verification tools
+├── find_missing_in_zotero.py # Find studies in Zotero by EPPI-Reviewer ID
+└── download_missing_pdfs.py  # Download PDFs from Zotero library
 ```
 
 ## 📊 Dataset
 
-**95 included studies** on poverty graduation and ultra-poor programs
+**114 included studies** on poverty graduation and ultra-poor programs - **All ready for extraction ✅**
+
+### Dataset Expansion (Nov 11, 2025)
+- Expanded from **95 → 114 studies** (+19 studies)
+- All 114 studies processed through GROBID
+- 114 TEI XML files + 114 TXT files ready
 
 ### Raw Data (`data/raw/`)
-- **Master file (n=95)** - Primary dataset with study metadata
-- **fulltext_metadata** - Links paper IDs to GROBID outputs
+- **Master file (n=114)** - Primary dataset with study metadata
+- **fulltext_metadata (673 entries)** - Maps all 114 study IDs to GROBID file Keys
 
 ### Human Extraction (`data/human_extraction/`)
 - **Manual data extraction** - Ground truth for comparison with LLM extraction
@@ -40,8 +51,9 @@ OM_QEX/
 - **Quality benchmark** - Validation standard for automated extraction
 
 ### Full-Text Outputs (`data/grobid_outputs/`)
-- **tei/** - 95 TEI XML files (structured with sections, references, metadata)
-- **text/** - 95 plain text files (cleaned full-text extraction)
+- **tei/** - 114 TEI XML files (structured with sections, references, metadata)
+- **text/** - 114 plain text files (cleaned full-text extraction)
+- All files linked via Keys in fulltext_metadata.csv
 
 ## 🛠️ Tools & Scripts
 
@@ -151,25 +163,54 @@ See `om_qex_extraction/prompts/` for prompt templates.
 ### Data Processing Scripts (`scripts/`)
 
 **Utility scripts for data management and analysis:**
-**Utility scripts for data management and analysis:**
 
-- `add_key_column.py` - Links paper IDs to GROBID Keys via fulltext_metadata
+- `map_ids_to_keys.py` - Maps study IDs to GROBID Keys for extraction
 - `copy_files_by_key.py` - Extracts GROBID outputs for specific paper Keys
-- `analyze_extraction_fields.py` - Analyzes human extraction CSV structure
-- `get_human_study_ids.py` - Lists studies in human extraction dataset
-- `map_ids_to_keys.py` - Maps study IDs to GROBID Keys for testing
+
+---
+
+### Zotero Sync Tools (Project Root) 🆕
+
+**Download PDFs from Zotero library for studies missing GROBID outputs:**
+
+- **`find_missing_in_zotero.py`** - Search Zotero library for studies by EPPI-Reviewer ID
+  - Searches 1,600+ Zotero items
+  - Matches via `extra` field containing study IDs
+  - Outputs mapping: Study ID → Zotero Key → PDF status
+  
+- **`download_missing_pdfs.py`** - Download PDFs from Zotero
+  - Uses mapping CSV from `find_missing_in_zotero.py`
+  - Downloads only missing PDFs (skips existing)
+  - Saves to `data/pdfs_from_zotero/`
+
+**Usage:**
+```powershell
+# 1. Find studies in Zotero
+python find_missing_in_zotero.py
+
+# 2. Download PDFs
+python download_missing_pdfs.py
+```
+
+See `archive/zotero_sync_nov11/README.md` for full documentation.
 
 ---
 
 ### Diagnostic Scripts (`archive/`)
 
-**Historical diagnostic scripts used during data cleaning:**
+**Historical diagnostic scripts used during data cleaning and expansion:**
 
+**Data Cleaning (Oct-Nov 2025):**
 - `find_duplicate_keys.py` - Found duplicate study (121475488) sharing same Key
 - `remove_duplicate.py` - Cleaned master file from 96 → 95 studies
 - `test_stem.py` - Diagnosed Path.stem behavior with .tei.xml files
-- `check_121498842_human.py` - Verified study 121498842 not in master file
-- Other diagnostic tools from data validation phase
+
+**Dataset Expansion (Nov 11, 2025):**
+- `analyze_raw_files.py` - Analyzed Master CSV and fulltext_metadata relationship
+- `check_pdf_coverage.py` - Calculated initial PDF coverage (97/114)
+- `find_missing_files.py` - Identified 2 missing GROBID files
+- `verify_extraction_ready.py` - Final verification (114/114 complete)
+- Full logs and mapping files in `archive/zotero_sync_nov11/`
 
 These scripts are archived for reference but not needed for normal use.
 
@@ -187,7 +228,7 @@ git clone https://github.com/lsempe77/OM_QEX.git
 cd OM_QEX
 
 # View master dataset
-# data/raw/Master file of included studies (n=95) 10 Nov(data).csv
+cat "data/raw/Master file of included studies (n=114) 11 Nov(data).csv"
 
 # Access full-text files
 # data/grobid_outputs/tei/  (95 TEI XML files - structured)
@@ -253,7 +294,7 @@ Study ID: 121058352 (Bandiera 2009)
 → Files: CV27ZK8Q.tei.xml, CV27ZK8Q.txt
 ```
 
-**Shortcut**: Use `data/raw/Master file (n=95) 10 Nov(data).csv` which already has Key column merged.
+**Shortcut**: Map study IDs to Keys using `scripts/map_ids_to_keys.py`
 
 ---
 
@@ -299,10 +340,10 @@ OM_QEX/
 ├── data/                              # Dataset files
 │   ├── README.md                      # Data documentation with test papers
 │   ├── raw/                           # Metadata CSVs
-│   │   ├── Master file (n=95).csv     # Primary dataset ✅
+│   │   ├── Master file (n=114).csv    # Primary dataset ✅
 │   │   └── fulltext_metadata.csv      # ID → Key mapping
 │   ├── human_extraction/              # Ground truth (3 studies, 2 in master)
-│   └── grobid_outputs/                # Full-text extractions (95 × 2)
+│   └── grobid_outputs/                # Full-text extractions (114 × 2)
 │       ├── tei/                       # TEI XML (structured)
 │       └── text/                      # Plain text
 │
@@ -341,7 +382,7 @@ OM_QEX/
 ## 🔍 Key Files
 
 - **Start here**: `om_qex_extraction/TESTING_WORKFLOW.md`
-- **Master dataset**: `data/raw/Master file of included studies (n=95) 10 Nov(data).csv`
+- **Master dataset**: `data/raw/Master file of included studies (n=114) 11 Nov(data).csv`
 - **Test results**: `om_qex_extraction/TEST_RESULTS.md`
 - **Run extraction**: `om_qex_extraction/run_extraction.py`
 - **Compare results**: `om_qex_extraction/compare_extractions.py`

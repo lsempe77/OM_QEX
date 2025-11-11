@@ -54,7 +54,9 @@
 ### Key Files
 - **TEI XML**: `data/grobid_outputs/tei/{key}.tei.xml` - Structured paper text
 - **Plain Text**: `data/grobid_outputs/text/{key}.txt` - Backup text source
-- **Master CSV**: `data/raw/Master file (n=95) 10 Nov(data)_with_key.csv`
+- **Master CSV**: `data/raw/Master file of included studies (n=114) 11 Nov(data).csv`
+  - Contains study IDs and metadata
+  - 114 studies total, 95 with complete metadata
 - **Human QEX**: `data/human_extraction/8 week SR QEX Pierre SOF and TEEP.csv` (skiprows=2)
 - **Human OM**: `data/human_extraction/8WR OM SOF - LLM Test(8wr).csv`
 
@@ -107,7 +109,7 @@ if sys.platform == 'win32':
 
 ```powershell
 # Master CSV
-python -c "import pandas as pd; df = pd.read_csv('data/raw/Master file of included studies (n=95) 10 Nov(data)_with_key.csv'); print(df.head())"
+python -c "import pandas as pd; df = pd.read_csv('data/raw/Master file of included studies (n=114) 11 Nov(data).csv'); print(df.head())"
 
 # Extraction output
 python -c "import pandas as pd; df = pd.read_csv('om_qex_extraction/outputs/extractions/extracted_data.csv'); print(df[['study_id', 'outcome_name', 'effect_size']].head(10))"

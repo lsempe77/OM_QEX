@@ -54,7 +54,8 @@ extraction:
 
 paths:
   # Input data
-  master_file: "data/raw/Master file of included studies (n=95) 10 Nov(data)_with_key.csv"
+  # Data file paths (relative to project root)
+  master_file: "data/raw/Master file of included studies (n=114) 11 Nov(data).csv"
   metadata_file: "data/raw/fulltext_metadata.csv"
   grobid_tei_dir: "data/grobid_outputs/tei"
   grobid_text_dir: "data/grobid_outputs/text"

@@ -1,0 +1,1875 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" xml:id="_s9uAGUV">Tackling psychosocial and capital constraints to alleviate poverty</title>
+				<funder ref="#_EsMtaDd">
+					<orgName type="full">Niger Government</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Prime Minister</orgName>
+				</funder>
+				<funder ref="#_FdYEW46">
+					<orgName type="full">Niger Adaptive Safety Nets Project</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Government of Niger</orgName>
+				</funder>
+				<funder ref="#_v26SmJn #_2nmNEAY">
+					<orgName type="full">World Bank</orgName>
+				</funder>
+				<funder ref="#_MfN8wWz">
+					<orgName type="full">Wellspring Philanthropic Fund</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Executive Directors of the World Bank</orgName>
+				</funder>
+				<funder ref="#_GyFXpPK #_5APtUHE">
+					<orgName type="full">unknown</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Cellule Filets Sociaux</orgName>
+					<orgName type="abbreviated">CFS</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Springer Science and Business Media LLC</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2022-04-27">2022-04-27</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Thomas</forename><surname>Bossuroy</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Social Protection and Jobs Global Practice</orgName>
+								<orgName type="institution">World Bank</orgName>
+								<address>
+									<settlement>Washington DC</settlement>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Markus</forename><surname>Goldstein</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Africa Gender Innovation Lab</orgName>
+								<orgName type="institution">World Bank</orgName>
+								<address>
+									<settlement>Washington DC</settlement>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Bassirou</forename><surname>Karimou</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="institution">UGT/Cellule Filets Sociaux</orgName>
+								<address>
+									<settlement>Niamey</settlement>
+									<country key="NE">Niger</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Dean</forename><surname>Karlan</surname></persName>
+							<email>karlan@kellogg.northwestern.edu</email>
+							<idno type="ORCID">0000-0003-0164-1398</idno>
+							<affiliation key="aff3">
+								<orgName type="department">Kellogg School of Management</orgName>
+								<orgName type="institution">Northwestern University</orgName>
+								<address>
+									<settlement>Evanston</settlement>
+									<region>IL</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department">Innovations for Poverty Action</orgName>
+								<address>
+									<settlement>New York</settlement>
+									<region>NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="department">M.I</orgName>
+								<orgName type="institution">.T. Jameel Poverty Action Lab</orgName>
+								<address>
+									<settlement>Cambridge</settlement>
+									<region>MA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Harounan</forename><surname>Kazianga</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department">Department of Economics</orgName>
+								<orgName type="institution">Oklahoma State University</orgName>
+								<address>
+									<settlement>Stillwater</settlement>
+									<region>OK</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">William</forename><surname>Parienté</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="department">M.I</orgName>
+								<orgName type="institution">.T. Jameel Poverty Action Lab</orgName>
+								<address>
+									<settlement>Cambridge</settlement>
+									<region>MA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff7">
+								<orgName type="institution" key="instit1">IRES/LIDAM</orgName>
+								<orgName type="institution" key="instit2">UCLouvain</orgName>
+								<address>
+									<country key="BE">Belgium</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Patrick</forename><surname>Premand</surname></persName>
+							<email>ppremand@worldbank.org</email>
+							<idno type="ORCID">0000-0002-7447-5995</idno>
+							<affiliation key="aff8">
+								<orgName type="department">DIME</orgName>
+								<orgName type="institution">World Bank</orgName>
+								<address>
+									<settlement>Washington DC</settlement>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Catherine</forename><forename type="middle">C</forename><surname>Thomas</surname></persName>
+							<affiliation key="aff9">
+								<orgName type="department">Department of Psychology</orgName>
+								<orgName type="institution">Stanford University</orgName>
+								<address>
+									<settlement>Stanford</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Christopher</forename><surname>Udry</surname></persName>
+							<affiliation key="aff10">
+								<orgName type="department">Department of Economics</orgName>
+								<orgName type="institution">Northwestern University</orgName>
+								<address>
+									<settlement>Evanston</settlement>
+									<region>IL</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Julia</forename><surname>Vaillant</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Africa Gender Innovation Lab</orgName>
+								<orgName type="institution">World Bank</orgName>
+								<address>
+									<settlement>Washington DC</settlement>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Kelsey</forename><forename type="middle">A</forename><surname>Wright</surname></persName>
+							<idno type="ORCID">0000-0003-4156-3814</idno>
+							<affiliation key="aff11">
+								<orgName type="department">Paris School of Economics</orgName>
+								<address>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main" xml:id="_6eq4e9N">Tackling psychosocial and capital constraints to alleviate poverty</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main" xml:id="_JDsMvVB">Nature</title>
+						<title level="j" type="abbrev">Nature</title>
+						<idno type="ISSN">0028-0836</idno>
+						<idno type="eISSN">1476-4687</idno>
+						<imprint>
+							<publisher>Springer Science and Business Media LLC</publisher>
+							<biblScope unit="volume">605</biblScope>
+							<biblScope unit="issue">7909</biblScope>
+							<biblScope unit="page" from="291" to="297"/>
+							<date type="published" when="2022-04-27" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">C058027606FF0DA289E1A0EF4826128E</idno>
+					<idno type="DOI">10.1038/s41586-022-04647-8</idno>
+					<note type="submission">Received: 26 August 2021 Accepted: 15 March 2022</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2025-11-04T23:55+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a292bac</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=1, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=true, generateTeiCoordinates=[true], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_TZfzQzF"><p xml:id="_AJDy5ZK">although stronger effects were documented when broader measures were considered 25 . We analyse how the treatment</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="595.276" lry="790.866"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="595.276" lry="790.866"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="595.276" lry="790.866"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="595.276" lry="790.866"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="595.276" lry="790.866"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="595.276" lry="790.866"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="595.276" lry="790.866"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="595.276" lry="790.866"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="595.276" lry="790.866"/>
+		<surface n="10" ulx="0.0" uly="0.0" lrx="595.276" lry="790.866"/>
+		<surface n="11" ulx="0.0" uly="0.0" lrx="595.276" lry="790.866"/>
+		<surface n="12" ulx="0.0" uly="0.0" lrx="595.276" lry="790.866"/>
+		<surface n="13" ulx="0.0" uly="0.0" lrx="595.276" lry="790.866"/>
+		<surface n="14" ulx="0.0" uly="0.0" lrx="595.276" lry="790.866"/>
+		<surface n="15" ulx="0.0" uly="0.0" lrx="595.276" lry="790.866"/>
+		<surface n="16" ulx="0.0" uly="0.0" lrx="595.276" lry="790.866"/>
+		<surface n="17" ulx="0.0" uly="0.0" lrx="595.276" lry="790.866"/>
+		<surface n="18" ulx="0.0" uly="0.0" lrx="595.276" lry="790.866"/>
+		<surface n="19" ulx="0.0" uly="0.0" lrx="595.276" lry="790.866"/>
+		<surface n="20" ulx="0.0" uly="0.0" lrx="595.276" lry="790.866"/>
+		<surface n="21" ulx="0.0" uly="0.0" lrx="595.276" lry="790.866"/>
+		<surface n="22" ulx="0.0" uly="0.0" lrx="595.22" lry="842.0"/>
+		<surface n="23" ulx="0.0" uly="0.0" lrx="595.22" lry="842.0"/>
+		<surface n="24" ulx="0.0" uly="0.0" lrx="595.22" lry="842.0"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_m2AWQJG"><p xml:id="_F5xcv89">Many policies attempt to help extremely poor households build sustainable sources of income. Although economic interventions have predominated historically <ref type="bibr" target="#b0">1,</ref><ref type="bibr" target="#b1">2</ref> , psychosocial support has attracted substantial interest <ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref> , particularly for its potential cost-effectiveness. Recent evidence has shown that multi-faceted 'graduation' programmes can succeed in generating sustained changes <ref type="bibr" target="#b5">6,</ref><ref type="bibr" target="#b6">7</ref> . Here we show that a multi-faceted intervention can open pathways out of extreme poverty by relaxing capital and psychosocial constraints. We conducted a four-arm randomized evaluation among extremely poor female beneficiaries already enrolled in a national cash transfer government programme in Niger. The three treatment arms included group savings promotion, coaching and entrepreneurship training, and then added either a lump-sum cash grant, psychosocial interventions, or both the cash grant and psychosocial interventions. All three arms generated positive effects on economic outcomes and psychosocial well-being, but there were notable differences in the pathways and the timing of effects. Overall, the arms with psychosocial interventions were the most cost-effective, highlighting the value of including well-designed psychosocial components in government-led multi-faceted interventions for the extreme poor.</p><p xml:id="_KKhzd8Z">Policies that aim to build sustainable income sources for extremely poor households have historically focused on 'economic' interventions such as cash transfers <ref type="bibr" target="#b0">1,</ref><ref type="bibr" target="#b7">8,</ref><ref type="bibr" target="#b8">9</ref> , grants <ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref> or microcredit <ref type="bibr" target="#b1">2,</ref><ref type="bibr" target="#b13">[14]</ref><ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref><ref type="bibr" target="#b18">[19]</ref><ref type="bibr" target="#b19">[20]</ref><ref type="bibr" target="#b20">[21]</ref><ref type="bibr" target="#b21">[22]</ref> . Yet the poorest households likely face multiple constraints that limit the ability of any one intervention to provide a pathway out of poverty. Recent evidence has shown that multi-faceted economic-focused programmes can succeed in generating sustained changes <ref type="bibr" target="#b5">6,</ref><ref type="bibr" target="#b6">7,</ref><ref type="bibr" target="#b22">[23]</ref><ref type="bibr" target="#b23">[24]</ref><ref type="bibr" target="#b24">[25]</ref><ref type="bibr" target="#b25">[26]</ref><ref type="bibr" target="#b26">[27]</ref> . However, psychosocial drivers of poverty have also garnered growing interest <ref type="bibr" target="#b2">3,</ref><ref type="bibr" target="#b4">5,</ref><ref type="bibr" target="#b27">[28]</ref><ref type="bibr" target="#b28">[29]</ref><ref type="bibr" target="#b29">[30]</ref> , leading to the consideration of psychosocial support in social protection and employment policies. Yet the selection of the most effective components in multi-faceted interventions depends on which combination of constraints drives poverty persistence.</p><p xml:id="_HpJeYkq">We tested the importance of relaxing capital and psychosocial constraints in alleviating extreme poverty by conducting a four-arm randomized controlled trial (RCT) of a multi-faceted programme implemented by the Government of Niger on top of a poverty-targeted cash transfer programme for women (Table <ref type="table">1</ref>). All study groups receive monthly cash transfers. The three treatment arms include a core set of components: savings groups, coaching and entrepreneurship training. A 'Capital' arm adds a lump-sum cash grant <ref type="bibr" target="#b5">6,</ref><ref type="bibr" target="#b6">7</ref> (and is similar to a graduation programme). A 'Psychosocial' arm adds life-skills training and a community sensitization on aspirations and social norms. The 'Full' arm adds both the cash grant and the psychosocial interventions. Comparing outcomes in the Full arm with those in the Capital arm provides estimates of the added value of alleviating psychosocial constraints; similarly, comparing outcomes in the Full arm with those in the Psychosocial arm provides estimates of the added value of alleviating capital constraints, inclusive of potential complementarities with the core components.</p><p xml:id="_AtqGEhT">We contribute to a growing literature on the economic impacts of psychosocial interventions. Whereas interventions targeting beliefs, behaviours, skills and peer relations have shown promising effects on economic behaviour and business outcomes <ref type="bibr" target="#b30">[31]</ref><ref type="bibr" target="#b31">[32]</ref><ref type="bibr" target="#b32">[33]</ref><ref type="bibr" target="#b33">[34]</ref><ref type="bibr" target="#b34">[35]</ref><ref type="bibr" target="#b35">[36]</ref> , there is mixed evidence on their longer-term impacts on poverty and their added value over economic interventions <ref type="bibr" target="#b3">4,</ref><ref type="bibr" target="#b36">37,</ref><ref type="bibr" target="#b37">38</ref> . The psychosocial interventions studied here aimed to both build the skills of the beneficiaries and to strengthen instrumental and normative support they receive from their household and community. The psychosocial components thus included life-skills training for beneficiaries as well as innovative, light-touch community programming-a community-wide film screening and discussion targeting social norms and collective aspirations. arms differentially affected two dimensions of women's empowerment, including those related to social well-being and social capital as well as individual control over earnings and decision making.</p><p xml:id="_DzWKhTr">We find positive and sustained impacts on economic and psychosocial outcomes from all treatment arms. The Psychosocial and Full arms were the most cost-effective, which suggests that integrating psychosocial components within multi-faceted programmes for households in extreme poverty may be key to maximizing the impact per dollar spent. These results also show that government-led multi-faceted interventions can be effective. This is noteworthy as governments are increasingly interested in integrating multi-faceted programmes in national social protection systems, but their effectiveness may differ from the efficacy of smaller-scale NGO programmes measured in past research <ref type="bibr" target="#b42">43,</ref><ref type="bibr" target="#b43">44</ref> .</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_4bMNYEC">Consumption and economic outcomes</head><p xml:id="_z6M2mf6">We find positive, consistent and statistically significant impacts of all three arms at the endpoint (a median of 18 months after the intervention) on household consumption and food security (standardized effects in Fig. <ref type="figure" target="#fig_0">1</ref>, Table <ref type="table">2</ref>; impacts in our pre-specified units in Extended Data Table <ref type="table">1</ref>). Daily consumption per adult equivalent increased by 0.12 standard deviations (0.12s.d.) for the Capital arm (standard error = 0.04, P = 0.008), 0.18s.d. for the Psychosocial arm (standard error = 0.05, P &lt; 0.001) and 0.25s.d. for the Full arm (standard error = 0.05, P &lt; 0.001). Effects on food security were 0.20s.d. for the Capital arm (standard error = 0.05, P &lt; 0.001), 0.19s.d. for the Psychosocial arm (standard error = 0.05, P &lt;0.001), and 0.25s.d. for the Full arm (standard error = 0.05, P &lt; 0.001).</p><p xml:id="_8sKg9CX">The Capital and Full arms quickly achieved these levels of impacts, with no evidence of attenuation between the midpoint (a median of 6 months after the intervention) and endpoint (Capital: difference of -0.02s.d., standard error = 0.05, P = 0.738 for consumption and -0.01s.d., standard error = 0.05, P = 0.863 for food security; Full: difference of 0.03s.d., standard error = 0.05, P = 0.572 for consumption and -0.01s.d., standard error = 0.05, P = 0.805 for food security). By contrast, the Psychosocial arm had smaller short-term impacts on consumption and food security, but the effects doubled between the two time points (difference of 0.1s.d., standard error = 0.05, P = 0.058 for consumption; 0.1s.d., standard error = 0.06, P = 0.065 for food security), catching up with the Capital arm at endpoint (difference between Capital and Psychosocial: -0.06s.d., standard error = 0.05, P = 0.200 for consumption; 0.01s.d., standard error = 0.05, P = 0.787 for food security).</p><p xml:id="_3WCzUvK">The three arms also increased total household and beneficiary revenues both at the midpoint and the endpoint, consistent with the effects on consumption (standardized effects in Fig. <ref type="figure" target="#fig_0">1</ref>, Table <ref type="table">2</ref>; impacts in our pre-specified units in Extended Data Tables <ref type="table">2</ref>, <ref type="table">3</ref>). At the endpoint, revenues for the beneficiary increased by 0.34s.d. in the Capital arm (standard error = 0.06, P &lt; 0.001), 0.25s.d. in the Psychosocial arm (standard error = 0.06, P &lt; 0.001) and 0.42s.d. in the Full arm (standard error = 0.07, P &lt; 0.001), and household income increased by 0.18s.d. in the Capital arm (standard error = 0.05, P &lt; 0.001), 0.19s.d. in the Psychosocial arm (standard error = 0.04, P &lt; 0.001) and 0.31s.d. in the Full arm (standard error = 0.05, P &lt; 0.001).</p><p xml:id="_VdzqUTA">These effects were driven largely by increases in off-farm business revenues and activities in all three arms (Extended Data Tables <ref type="table">2</ref><ref type="table">3</ref><ref type="table">4</ref>, Supplementary Tables 6, 9a, 9b, 11). Yearly household business revenues at the endpoint increased in the Capital arm (US$318.30, standard error = US$90.4, P &lt; 0.001), Psychosocial arm (US$333.50, standard error= US$88, P &lt;0.001) and Full arm (US$540.50, standard error = US$96.3, P &lt;0.001). Following the intervention, households owned more off-farm businesses, often engaging in commerce or processing agricultural products, and beneficiaries allocated more labour to these businesses.</p><p xml:id="_6VqzPyu">Increases in livestock and agricultural revenues also contributed to the overall impact on revenues, although less so than off-farm businesses, and with notable differences between treatment arms and over time (Extended Data Tables <ref type="table">2</ref><ref type="table">3</ref><ref type="table">4</ref><ref type="table">5</ref>, Supplementary Tables <ref type="table">7-9b</ref>). Household livestock revenues increased at the endpoint, especially in the Capital arm (US$70.4, standard error = US$17.6, P &lt; 0.001) and Full arm (US$72.6, standard error = US$18.2, P &lt; 0.001), with marginally larger effects relative to the Psychosocial arm (differences of US$35.1, standard error = US$19.6, P = 0.074 and US$33, standard error = US$19.4, P = 0.09, respectively). The Capital and Full arms increased livestock asset value and labour allocated to livestock at both follow-ups, whereas the Psychosocial arm induced relatively less investment in livestock. By contrast, household harvest revenues at endpoint increased in the Psychosocial arm (US$91.1, standard error = US$23, P &lt; 0.001) and Full arm (US$80, standard error = US$21.6, P &lt; 0.001), with smaller effects in the Capital arm (differences of US$59.53, standard error = US$24.5, P = 0.016 and US$48.45, standard error = US$22.3, P = 0.03, respectively). This set of results suggests that the cash grants were partly used to accumulate livestock, whereas the psychosocial components contributed to the increase in agricultural revenues.</p><p xml:id="_34arak8">The cash grant and psychosocial components also had different effects on beneficiary or household revenues (Extended Data Tables <ref type="table">2</ref>, <ref type="table">3</ref>). By comparing the Full arm to the Psychosocial arm, we find that the cash grant contributed to increases in business revenues at the endpoint for the beneficiary (US$112.4, standard error = US$50.4, P = 0.026) and their household (US$207, standard error = US$97.8, P = 0.035). This suggests that the woman beneficiary used at least part of the grant to grow her own business. By contrast, comparing the Full arm to the Capital arm shows that the psychosocial components mostly</p><p xml:id="_agzc7ZC">Table 1 | Experimental design Control Capital Psychosocial Full Regular cash transfer programme + + + + Core components Group formation and coaching -+ + + Savings groups -+ + + Micro-entrepreneurship training -+ + + Market access facilitation -+ + + Psychosocial components Community sensitization on aspirations and social norms --+ + Life-skills training --+ + Cash grant component Lump-sum cash grant -+ -+ Number of villages (322) 81 80 78 83 Number of sample households (4,712) 1,206 1,191 1,112 1,203 This table describes the components delivered in each of the four experimental arms, along with their corresponding sample sizes.</p><p xml:id="_GB5Rerd">induced an increase in household revenues at the endpoint (US$290.1, standard error = US$112.7, P = 0.011), stemming from higher household business revenues (US$222.2, standard error = US$99.5, P = 0.026) and harvest values (US$48.5, standard error = US$22.3, P = 0.030). This suggests that the psychosocial components had indirect effects on other household members, whereas the cash grant increased the individual beneficiary's own earnings more directly. However, these alternative pathways should be interpreted with caution; the cash grant and psychosocial components generated a mix of changes in income-generating activities, and there were only rare instances of differences in impacts between the Psychosocial and Capital arms. Finally, all three arms led to increases in participation in savings groups (Capital: 0.31, standard error = 0.03, P &lt; 0.001; Psychosocial: 0.27, standard error = 0.03, P &lt; 0.001; Full: 0.33, standard error = 0.03, P &lt; 0.001) and amounts saved in these groups at the endpoint (Capital: US$15.7, standard error = US$3, P &lt; 0.001; Psychosocial: US$11.6, standard error = US$2.8, P &lt; 0.001; Full: US$20.1, standard error = US$3.53, P &lt; 0.001) (Supplementary Table <ref type="table">10a</ref>). Both the Psychosocial and Full arms also showed sustained increases in a household asset index (Capital: 0.04s.d., standard error = 0.06, P = 0.478; Psychosocial: 0.13s.d., standard error = 0.06, P = 0.020; Full: 0.15s.d., standard error = 0.06, P = 0.007) (Supplementary Table <ref type="table">10a</ref>).</p><p xml:id="_YJQYBAF">Village-level randomization implies that the estimated treatment effects for impacts on eligible households were not biased by spillovers, as long as the treatment did not generate cross-village spillovers. However, the programme could have generated indirect effects on non-eligible households within treatment villages. We cannot test for this directly, given the absence of data on non-eligible households in treatment and control villages. However, we were able to test for specific intermediary outcomes that were potential mediators of spillovers to non-participants. Supplementary Table <ref type="table">12</ref> shows no evidence of adverse or advantageous indirect effects on land market or community tension, but points to some increase in labour usage and transfers. We found little evidence of changes in food prices (Supplementary Table <ref type="table">13</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_DJRTZJj">Psychosocial well-being and women's empowerment</head><p xml:id="_9Z5569w">There were also widespread improvements across dimensions of psychological and social well-being for all arms. Women's psychological well-being-including mental health, self-efficacy, and future expectations-improved at both time points in all arms (Fig. <ref type="figure" target="#fig_0">1</ref>, Table <ref type="table">2</ref>, Extended Data Table <ref type="table">6</ref>, Supplementary Tables <ref type="table">14</ref><ref type="table">15</ref><ref type="table">16</ref>). For instance, positive effects on mental health at the endpoint-including life satisfaction, inner peace, and depression-ranged from 0.15s.d. in the Capital arm (standard error = 0.04, P &lt; 0.001) to 0.21s.d. in the Psychosocial arm (standard error = 0.04, P &lt; 0.001) and 0.26s.d. in the Full arm (standard error = 0.04, P &lt; 0.001) (Supplementary Table <ref type="table">14</ref>).</p><p xml:id="_PnauBNS">There were, however, notable differences in temporal trends in psychological well-being across the Capital and Psychosocial arms (Extended Data Table <ref type="table">6</ref>). At the midpoint, the effects of the Capital and Psychosocial arms tend to be lower than those of the Full arm across the measures of psychological well-being-for instance on mental health (Capital arm: difference of -0.1s.d., standard error = 0.04, P = 0.012; Psychosocial arm: difference of -0.13s.d., standard error = 0.04, P = 0.002). Yet at the endpoint there was no evidence of a difference between the Psychosocial arm and the Full arm (difference of 0.04s.d., standard error = 0.04, P = 0.247 for mental health; 0.04s.d., standard error = 0.04, P = 0.297 for self-efficacy; 0.05s.d., standard error = 0.04, P = 0.222 for future expectations). In the case of mental health, this was driven in part by a doubling of impacts between the midpoint and the endpoint in the Psychosocial arm (difference of 0.11s.d., standard error = 0.05, P = 0.022). Further, endpoint effects on self-efficacy were marginally larger in the Psychosocial than the Capital arm (difference of 0.08s.d., standard error = 0.05, P = 0.089).</p><p xml:id="_C8UeUEK">The arms positively, although differentially, affected two dimensions of women's empowerment-namely social well-being and social capital (Extended Data Table <ref type="table">7</ref>), and individual control over earnings and household decision making (Extended Data Table <ref type="table">8</ref>). The Psychosocial and Full arms, which included the psychosocial components, exhibited  <ref type="table">2</ref>. It shows treatment effects on main outcomes, standardized with respect to the control group for ease of interpretation. Results presented are ordinary least squares (OLS) estimates that include controls for randomization strata and, where possible, baseline outcomes. Each circle shows the OLS point estimate and each line the 95% confidence interval corresponding to standard errors clustered at the village level. Dotted lines show results 6 months after intervention (midpoint). Solid lines show results 18 months after intervention (endpoint).</p><p xml:id="_He9uGBw">substantial impacts on the social dimension. The Capital arm showed strong impacts on control over earnings, although we find no evidence of effects on household decision-making.</p><p xml:id="_t875MXc">All arms had significant positive effects on women's social well-being and social capital among their community, including increased financial support, social support, social standing and collective action</p><p xml:id="_ZBQS3dn">Table 2 | Intent-to-treat estimates for main standardized outcomes Capital (Full without Psychosocial) Psychosocial (Full without Capital) Full N, d.f. Full -Psychosocial (cash grant gross ME) Full -Capital (Psychosocial component gross ME) Capital -Psychosocial Endpointmidpoint for Capital Endpointmidpoint for Psychosocial Endpointmidpoint for Full Coefficient (standard error) (P) Coefficient (standard error) (P) Coefficient (standard error) (P) Daily consumption per adult equivalent 6m 0.14 (0.05) (0.003) 0.08 (0.05) (0.094) 0.22 (0.05) (0.000) 4,405 321 0.14 (0.05) (0.003) 0.09 (0.05) (0.069) 0.06 (0.04) (0.179) -0.02 (0.05) (0.738) 0.10 (0.05) (0.058) 0.03 (0.05) (0.572) 18m 0.12 (0.04) (0.008) 0.18 (0.05) (0.000) 0.25 (0.05) (0.000) 4,238 319 0.07 (0.05) (0.166) 0.13 (0.04) (0.003) -0.06 (0.05) (0.200) Food security 6m 0.21 (0.05) (0.000) 0.08 (0.04) (0.058) 0.27 (0.04) (0.000) 4,476 321 0.18 (0.05) (0.000) 0.05 (0.05) (0.268) 0.13 (0.05) (0.013) -0.01 (0.05) (0.863) 0.10 (0.06) (0.065) -0.01 (0.05) (0.805) 18m 0.20 (0.05) (0.000) 0.19 (0.05) (0.000) 0.25 (0.05) (0.000) 4,303 319 0.06 (0.05) (0.203) 0.05 (0.05) (0.285) 0.01 (0.05) (0.787) Household total revenue 6m 0.20 (0.05) (0.000) 0.15 (0.04) (0.001) 0.28 (0.05) (0.000) 4,476 321 0.13 (0.05) (0.010) 0.09 (0.05) (0.087) 0.04 (0.05) (0.345) -0.02 (0.05) (0.729) 0.04 (0.05) (0.446) 0.02 (0.05) (0.650) 18m 0.18 (0.05) (0.000) 0.19 (0.04) (0.000) 0.31 (0.05) (0.000) 4,303 319 0.11 (0.05) (0.018) 0.13 (0.05) (0.011) -0.01 (0.04) (0.745) Beneficiary total revenue 6m 0.30 (0.05) (0.000) 0.21 (0.05) (0.000) 0.39 (0.06) (0.000) 4,476 321 0.18 (0.06) (0.003) 0.09 (0.06) (0.142) 0.09 (0.06) (0.118) 0.03 (0.05) (0.495) 0.03 (0.05) (0.543) 0.03 (0.06) (0.642) 18m 0.34 (0.06) (0.000) 0.25 (0.06) (0.000) 0.42 (0.07) (0.000) 4,252 319 0.17 (0.07) (0.014) 0.08 (0.07) (0.265) 0.09 (0.06) (0.137) Mental health 6m 0.13 (0.04) (0.003) 0.10 (0.04) (0.016) 0.23 (0.04) (0.000) 4,476 321 0.13 (0.04) (0.002) 0.10 (0.04) (0.012) 0.02 (0.04) (0.560) 0.03 (0.05) (0.625) 0.11 (0.05) (0.022) 0.03 (0.05) (0.569) 18m 0.15 (0.04) (0.000) 0.21 (0.04) (0.000) 0.26 (0.04) (0.000) 4,175 319 0.04 (0.04) (0.247) 0.10 (0.04) (0.007) -0.06 (0.04) (0.149) Self efficacy 6m 0.12 (0.04) (0.005) 0.16 (0.04) (0.000) 0.29 (0.04) (0.000) 4,476 321 0.13 (0.04) (0.001) 0.17 (0.04) (0.000) -0.04 (0.04) (0.310) -0.02 (0.05) (0.743) 0.02 (0.05) (0.688) -0.06 (0.05) (0.238) 18m 0.10 (0.04) (0.019) 0.18 (0.04) (0.000) 0.23 (0.04) (0.000) 4,175 319 0.04 (0.04) (0.297) 0.12 (0.04) (0.004) -0.08 (0.05) (0.089) Social cohesion and community closeness 6m 0.06 (0.05) (0.230) 0.13 (0.05) (0.012) 0.11 (0.04) (0.013) 4,476 321 -0.01 (0.05) (0.764) 0.06 (0.04) (0.215) -0.07 (0.05) (0.175) 0.04 (0.06) (0.460) 0.08 (0.06) (0.200) -0.02 (0.06) (0.789) 18m 0.10 (0.05) (0.031) 0.20 (0.05) (0.000) 0.10 (0.05) (0.035) 4,160 319 -0.11 (0.05) (0.021) -0.00 (0.04) (0.944) -0.10 (0.05) (0.032) Control over earnings 6m 0.26 (0.04) (0.000) 0.21 (0.04) (0.000) 0.33 (0.04) (0.000) 4,476 321 0.12 (0.04) (0.004) 0.07 (0.04) (0.081) 0.05 (0.04) (0.231) -0.01 (0.05) (0.768) -0.05 (0.05) (0.312) -0.07 (0.05) (0.112) 18m 0.25 (0.05) (0.000) 0.16 (0.05) (0.000) 0.25 (0.04) (0.000) 4,252 319 0.09 (0.05) (0.045) 0.01 (0.04) (0.891) 0.08 (0.05) (0.075) Control over household resources 6m 0.03 (0.04) (0.496) 0.05 (0.04) (0.167) 0.06 (0.04) (0.142) 4,161 321 0.01 (0.04) (0.777) 0.04 (0.04) (0.386) -0.03 (0.04) (0.522) -0.04 (0.06) (0.493) 0.00 (0.06) (0.937) -0.03 (0.06) (0.676) 18m -0.01 (0.05) (0.776) 0.06 (0.05) (0.234) 0.04 (0.05) (0.419) 4,055 319 -0.02 (0.04) (0.664) 0.05 (0.04) (0.218) -0.07 (0.04) (0.110) Results presented are standardized OLS estimates that include controls for randomization strata and, where possible, baseline outcomes. We assign baseline strata means to households surveyed at the midpoint (median 6 months after the intervention) or endpoint (median 18 months after the intervention) but not at baseline, and we control for such missing values with an indicator. All outcomes in this table are standardized with respect to the control group. Extended Data Tables 1-8 show the impacts on outcomes in our pre-specified units and multiple hypothesis test corrections. Supplementary Tables 3, 4 present details on variable construction. Robust standard errors, clustered at the village level, and two-tailed P-values are shown in parentheses. ME denotes marginal effects.</p><p xml:id="_6WwwsR4">(Extended Data Table <ref type="table">7</ref>, Supplementary Tables <ref type="table">17</ref><ref type="table">18</ref><ref type="table">19</ref><ref type="table">20</ref><ref type="table">21</ref><ref type="table">22</ref>). For instance, effects on social support at the endpoint ranged from 0.13s.d. in the Capital arm (standard error = 0.04, P = 0.004) to 0.18s.d. in both the Psychosocial (standard error = 0.05, P &lt; 0.001) and Full arms (standard error = 0.04, P &lt; 0.001). In addition to instrumental support, all arms increased normative support for women's economic engagement at the midpoint (Capital: 0.15s.d., standard error = 0.04, P = 0.001; Psychosocial: 0.19s.d., standard error = 0.04, P &lt; 0.001; Full: 0.19s.d., standard error = 0.04, P &lt;0.001); at the endpoint, significant impacts were observed in the Psychosocial and Full arms in which the community sensitization targeted social norms directly (Capital: 0.08s.d., standard error = 0.05, P = 0.109; Psychosocial: 0.11s.d., standard error = 0.05, P = 0.014; Full: 0.17s.d., standard error = 0.05, P = 0.001).</p><p xml:id="_xK23xEz">Similarly, whereas the Psychosocial and Full arms increased social cohesion and community closeness at the endpoint (Psychosocial: 0.20s.d., standard error = 0.05, P &lt; 0.001; Full: 0.10s.d., standard error = 0.05, P = 0.035), the effect of the Psychosocial arm was twice as large as that of the Full and Capital arms (Full: difference of 0.11s.d., standard error = 0.05, P = 0.021; Capital: 0.10s.d., standard error = 0.05, P = 0.032) (Table <ref type="table">2</ref>, Extended Data Table <ref type="table">7</ref>). Supplementary Table <ref type="table">21</ref> reveals that the positive impact of the Psychosocial arm was associated with reduced reports of personal enemies and an increased interest in caring for the village, the latter of which aligns with the life skills trainings centred on community leadership. Moreover, this arm may have avoided an observed marginal negative effect of the cash grants on indicators of relationship strain, including enemyship and differentiation from one's community. Despite these relative differences across arms, we found no evidence of a change in community tensions in any arm (Supplementary Table <ref type="table">21</ref>).</p><p xml:id="_WBn7wFb">In addition to community relationships, we also examined women's intrahousehold relationships (Extended Data Table <ref type="table">8</ref>, Supplementary Tables <ref type="table">23</ref>, <ref type="table">24</ref>). We observed no evidence of effects in any of the arms at the endpoint on an overall intrahousehold index combining both partner-level and household-level dynamics (Capital: 0.02s.d., standard error = 0.04, P = 0.634; Psychosocial: 0.04s.d., standard error = 0.04, P = 0.323; Full: -0.01s.d., standard error = 0.04, P = 0.787). However, the Psychosocial arm improved the sub-index of partner dynamics (Psychosocial: 0.12s.d., standard error = 0.04, P = 0.007; Capital: 0.01s.d., standard error = 0.05, P = 0.752; Full: 0.02s.d., standard error = 0.04, P = 0.714), driven by increases in women's perceived closeness with their partner and comfort in disagreeing with them (Supplementary Table <ref type="table">23</ref>). This improved relationship quality may be related to the positive effects on other household members' revenues seen in the Psychosocial arm. Of note, across all time points and arms, there was no evidence of an increase in the perceived prevalence of domestic violence in the community; instead, we observed a reduction at the endpoint in the Psychosocial and Full arms (Capital: 0.02s.d., standard error = 0.04, P = 0.593; Psychosocial: -0.08s.d., standard error = 0.04, P = 0.064; Full: -0.11s.d., standard error = 0.04, P = 0.008) (Extended Data Table <ref type="table">8</ref>, Supplementary Table <ref type="table">24</ref>).</p><p xml:id="_SvaNqHx">The second dimension of women's empowerment that we assessed was individual control over earnings and household decision-making (Table <ref type="table">2</ref>, Extended Data Table <ref type="table">8</ref>, Supplementary Tables <ref type="table">25</ref>, <ref type="table">26</ref>). All arms had positive and sustained effects on the index of women's control over their own earnings and productive activities at the endpoint (Capital: 0.25s.d., standard error = 0.05, P &lt; 0.001; Psychosocial: 0.16s.d., standard error = 0.05, P &lt; 0.001; Full: 0.25s.d., standard error = 0.04, P &lt; 0.001). The effect of the Capital arm and Full arm on this index was marginally larger than the Psychosocial arm (differences of 0.08s.d., standard error = 0.05, P = 0.075 and 0.09s.d., standard error = 0.05, P = 0.045, respectively), driven in part by increases in the probability of owning livestock and control over livestock revenues (Supplementary Table <ref type="table">25</ref>). These patterns are consistent with observed increases in women's share of total household revenue (Capital: 0.06, standard error = 0.02, P &lt; 0.001; Psychosocial: 0.03, standard error = 0.01, P = 0.035; Full: 0.06, standard error = 0.01, P &lt; 0.001), with effects being marginally larger in the Capital than the Psychosocial arm (difference: 0.03, standard error = 0.02, P = 0.068) (Extended Data Table <ref type="table">8</ref>).</p><p xml:id="_dwfCRRf">However, there is no evidence that these increases in women's absolute and proportional revenues translated into broader increases in their decision-making power over household resources in any arm at the endpoint (Capital: -0.01s.d., standard error = 0.05, P = 0.776; Psychosocial: 0.06s.d., standard error = 0.05, P = 0.234; Full: 0.04s.d., standard error = 0.05, P = 0.419) (Table <ref type="table">2</ref>, Extended Data Table <ref type="table">8</ref>, Supplementary Table <ref type="table">26</ref>). Since women were contributing well below 50% of total household revenues (around 27% in the control group at the endpoint), a small increase in this share (by 3-6 percentage points) may have been insufficient to affect overall bargaining power (Extended Data Table <ref type="table">8</ref>).</p><p xml:id="_yBHk89k">In sum, we find that the Psychosocial and Capital arms both increased women's psychosocial well-being and empowerment, but in distinct ways. Compared with the Psychosocial arm, women in the Capital arm experienced increased autonomy, including greater control over their own earnings and productive activities, and increased relative share of household revenues. By comparison, in the Psychosocial arm, women strengthened social relationships with their community and their partner, built social capital and experienced increases in revenues primarily through other household members' activities. Although we were unable to determine directionality of effects among these outcomes, in the Psychosocial arm it is noteworthy that mental health, social cohesion, partner dynamics and household economic outcomes all tend to improve over time.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_CAvfEsy">Cost-effectiveness of treatment arms</head><p xml:id="_rE4yab3">The costs of these interventions were low: US$263 per beneficiary for the Psychosocial arm, US$482 for the Capital arm and US$584 for the Full arm (Extended Data Table <ref type="table">9</ref>). The psychosocial interventions were cheaper (US$102, panel 1, measures 2 and 4) than the cash grant (US$321, panel 1, measure 6).</p><p xml:id="_6jQqYEy">For our primary analysis on cost-effectiveness, we use effects on consumption to estimate benefits. Any programme that posits impacts on multiple outcomes has an empirical and philosophical challenge in determining the optimal outcome. Using consumption has four primary advantages: it is a manifestation of both current and projected economic well-being; it is typically more precisely measured than income or asset values; it encapsulates indirectly the benefits of other outcomes (for example, one may prioritize income generation, but only because it allows individuals to consume more); and finally, it is a common outcome across other interventions (for example, cash transfers), thus expanding the comparability of studies for policy purposes. We also recognize that a potentially more holistic primary outcome could be life satisfaction, and discuss this below.</p><p xml:id="_nFxG8rF">The comparison of programme costs with estimated effects on consumption shows that the treatment arms were cost-effective under most assumptions. Extended Data Table <ref type="table">9</ref> presents the benefit-cost ratios and internal rates of return (IRRs). The results reveal a particularly high cost-effectiveness of the treatment arms with psychosocial components. We cannot reject equality of the benefit-cost ratios between the Psychosocial and Full arms (difference of 1.709 -1.275 = 0.434, standard error = 0.43, P = 0.32), but the Capital arm has a lower benefit-cost ratio than both the Full arm (difference of 0.796 -1.275= -0.479, standard error = 0.22, P = 0.03) and the Psychosocial arm (difference of 0.796 -1.709 = -0.913, standard error = 0.42, P = 0.03). Note that these ratios do not take into account effects on assets.</p><p xml:id="_W5T7n6D">Remarkably, the IRRs are 42% for the Psychosocial arm and 21% for the Full arm, based on consumption effects observed by the endpoint, without assuming any further effects (Fig. <ref type="figure" target="#fig_1">2</ref>). Assuming a dissipation of impacts of 50% per year after the endpoint, the IRRs are 66% for the Psychosocial arm and 44% for the Full arm, and the Capital arm also reaches a positive IRR (15%). Assuming sustained impacts gives IRRs of 95%, 73% and 48%, respectively.</p><p xml:id="_QMgh7PP">Separately from the cost-benefit analysis based on consumption, we used impacts on life satisfaction to benchmark cost-effectiveness related to psychosocial well-being (Supplementary Table <ref type="table">28</ref>). The cost per 0.1s.d. increase in life satisfaction is estimated at US$181 for the Psychosocial arm, US$246 for the Full arm and US$451 for the Capital arm-a ranking consistent with the results obtained on household consumption. Note, however, that improvements in life satisfaction should not be considered as additive to consumptions gains (life satisfaction may or may not increase because of increased consumption, or vice versa).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_s5ffR84">Discussion</head><p xml:id="_psPAXvG">Our findings show that three modalities of a multi-faceted intervention induced widespread improvements in consumption, revenues and psychosocial well-being. Of note, the arm primarily addressing capital constraints produced both economic and psychosocial impacts, and the arm primarily addressing psychosocial constraints produced both psychosocial and economic impacts.</p><p xml:id="_eXc6Dna">We observed differences in pathways across treatments and over time. The Full arm produced the largest effects on consumption and revenues at the midpoint, with sustained effects at the endpoint. In contrast to recent evidence on cash grants <ref type="bibr" target="#b44">[45]</ref><ref type="bibr" target="#b45">[46]</ref><ref type="bibr" target="#b46">[47]</ref> , we found no evidence of dissipation of the effect of the Capital arm treatment over time. Across various economic and psychosocial outcomes, we found that the impacts of the Psychosocial arm increased over time, in line with the literature on social psychological interventions <ref type="bibr" target="#b15">16,</ref><ref type="bibr" target="#b47">48</ref> . All arms increased business revenues. In addition, the Full and Capital arms had relatively larger effects on livestock than the Psychosocial arm, whereas the Full and Psychosocial arms had larger effects on agricultural revenues than the Capital arm. Finally, the paths towards women's empowerment also differed, with the Capital arm increasing control over earnings and activities, whereas the Psychosocial arm strengthened relationships and expanded sources of instrumental and normative social support.</p><p xml:id="_922SYzm">Our experimental design has two limitations. First, it does not allow a simple measure of complementarities between the Psychosocial and the Capital interventions, because the 'core' components were included in both arms. It was not possible to include a fourth treatment arm that included only the core components. Second, we measured impacts for eligible households inclusive of potential within-village spillovers, but cannot directly isolate these within-village spillovers <ref type="bibr" target="#b48">49</ref> . Other studies of multifaceted programmes have not found evidence of strong spillovers <ref type="bibr" target="#b5">6</ref> , and we found thin evidence of impacts on mediators of spillovers. Lastly, we find little evidence of impact heterogeneity (see, for example, Supplementary Tables <ref type="table">29</ref>, <ref type="table">30</ref>), but plan to further study this in the future once able to combine data from similar experiments in three other Sahel countries.</p><p xml:id="_3C7WaRd">This study has direct policy implications. The multi-faceted interventions were delivered through a government-led national cash transfer programme. Sustained effects were obtained at low cost, leading to considerably higher benefit-cost ratios than graduation programmes implemented by NGOs elsewhere <ref type="bibr" target="#b5">6,</ref><ref type="bibr" target="#b24">25</ref> . Both the Psychosocial and Full arms had rates of returns that were higher than those of the Capital arm and were cost-effective 18 months after the intervention, highlighting the value of addressing psychosocial constraints-not just primarily capital constraints-to open pathways out of extreme poverty.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_fHnqWgK">Online content</head><p xml:id="_CnGsKcB">Any methods, additional references, Nature Research reporting summaries, source data, extended data, supplementary information, acknowledgements, peer review information; details of author contributions and competing interests; and statements of data and code availability are available at <ref type="url" target="https://doi.org/10.1038/s41586-022-04647-8">https://doi.org/10.1038/s41586-022-04647-8</ref>.  <ref type="table">9</ref>.</p><note type="other" xml:id="_6Nrh62r">-9% 42% 21% 15% 66% 44%</note><p xml:id="_zzHkCtE">The research protocol was approved by Innovations for Poverty Action Institutional Review Board and preregistered in the AEA RCT Registry (study 0002544). The pre-analysis plan is registered at <ref type="url" target="https://www.socialscienceregistry.org/versions/52534/docs/version/document">https://www.  socialscienceregistry.org/versions/52534/docs/version/document</ref>. All survey participants completed informed consent. They were not compensated for their time as they were all part of the national cash transfer programme.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_7DbwGNA">Interventions</head><p xml:id="_gVb7wHE">Niger context and cash transfer programme. Niger, one of the poorest countries in the world, has a rural poverty rate 50 of 51.4% and ranks last in human development indicators <ref type="bibr">51</ref> . Landlocked in the Sahel, its population is highly exposed to climatic shocks and food insecurity. More than 90% of Nigerien households have a member engaged in agriculture, but agricultural production is dominated by low-productivity subsistence farming with little market access. Only about 25% of farmers commercialize any crop and only 10% of villages have a permanent market. Non-agricultural activities are scarce as a primary occupation in rural areas (less than 10%) but are a secondary occupation for about a third. They mostly consist of agricultural transformation and trading. The wage sector only employs 4% of the workforce, mostly in public sector jobs concentrated in the capital. More than a third of Nigerien women do not participate in the labour force, overwhelmingly because of the burden of housework <ref type="bibr" target="#b50">52</ref> . After repeated humanitarian interventions in response to shocks and food insecurity, the Government of Niger set up a social protection system. Its cornerstone was a national cash transfer programme that provided monthly payments of 10,000 XOF for two years (US$15.95, US$38.95 purchasing power parity-adjusted (PPP)), which represented approximately 11% of yearly household consumption for targeted poor rural households. The programme was rolled out in three main phases and reached 100,000 beneficiary households between 2012 and 2019. We studied the 3rd phase of the programme, implemented from 2016 to 2019, which reached approximately 22,500 households. The cash transfers were unconditional but were delivered with child development promotion activities for all households.</p><p xml:id="_43RGXqB">The national cash transfer programme applied geographical targeting before using household-level poverty targeting. The programme selected the communes with highest poverty rates in all eight regions in the country. In practice, most selected communes were rural. Within communes, all villages were eligible and public lotteries were organized to select beneficiary villages. Poverty-targeting methods were applied to determine the beneficiary households. Within selected households, a woman over 20 was the recipient of the cash transfers.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_ZHED3mV">Multi-faceted interventions.</head><p xml:id="_JguzkaZ">To address constraints to participation in income-generating activities and economic diversification, the multi-faceted programme combined three main sets of interventions and was delivered on top of the regular cash transfer programme <ref type="bibr" target="#b51">53</ref> . The core components promoted financial inclusion, basic micro-entrepreneurship skills and market access. A second component addressed capital constraints by providing a lump-sum cash grant intended for productive purposes. A third component provided psychosocial interventions that aimed to strengthen aspirations and interpersonal and intrapersonal skills, as well as to address gender and social norms. Supplementary Appendix 1 describes how the intervention was delivered through the government-led national cash transfer programme. Core components included in all three treatment variants. 1. Coaching. The coaching component facilitated the delivery and coordination of the various interventions. Beneficiaries formed groups of 15 to 25 members and selected a coach to mentor them throughout the programme. Coaches were men or women from the village, generally selected for their capacity to advise on income-generating activities and to represent the group for service providers and market agents. Coaches facilitated the implementation of group-based programme activities, including promoting the attendance of beneficiaries at meetings and coordinating with service providers. They led group-level coaching sessions, during which challenges and opportunities for income-generating activities were discussed. The group-level coaching sessions occurred during weekly savings group meetings, as described below. Coaches also provided some individualized follow-up to beneficiaries.</p><p xml:id="_F9Xz8ZM">2. Saving groups. The groups of beneficiaries formed a village savings and loans association (VSLA), with initial training from the coach. The group received a VSLA kit, elected members to leadership positions and determined the rules governing the association. Key decisions included the cost of a saving 'share', maximum loan size, interest rate and duration of a savings cycle. Group members also defined other parameters, such as a mandatory contribution to an emergency fund and penalties. At weekly meetings, members purchased between one and five shares in the savings fund, contributed a fixed amount to the emergency fund, and could take out a short-term loan from the savings fund. A full savings cycle lasted between 9 and 12 months, at which point the accumulated savings, interest, and penalty fees were shared among members in proportion to the number of savings shares owned by each member.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3." xml:id="_d9pt3hw">Micro-entrepreneurship training.</head><p xml:id="_hECfNKT">A week-long microentrepreneurship training was delivered to the groups. The curriculum was adapted from the International Labour Organization's Start and Improve Your Business (SIYB) level 1 training, which is tailored to non-literate participants. The curriculum covered fundamental micro-entrepreneurship skills, including basic accounting and management principles, market research, planning and scheduling, saving, and investing. In addition, the training focused on the choice of livelihood activities and the preparation of a basic business plan.</p><p xml:id="_Ww7y884">4. Access to markets. Coaches were trained to deliver information sessions on market access. Depending on production cycle timing, they held group sessions to discuss where to buy inputs for agricultural activities, how to choose suppliers, or where to sell products. The capital component. A lump-sum cash grant of 80,000 XOF (US$127 (US$311 in 2016 PPP)) was provided to promote investments in income generating activities. Payments were not conditional on participation in other programme activities. The psychosocial components. The psychosocial components included community-level programming, which consisted of community sensitization on social norms and aspirations, and individual-level programming, which consisted of life skills training for the beneficiaries. While they were relatively light, they aimed to trigger three main mechanisms: (1) to build personal psychological assets, including self-efficacy, self-worth, aspirations, and optimism about the future, while developing behavioural skills related to interpersonal communication, problem-solving, leadership, and goal setting; (2) to promote social empowerment, including social standing in the community, community support and solidarity, and supportive social norms around women's income generating activities; and (3) to foster positive intra-household dynamics, including interpersonal trust, closeness, and conflict resolution, as well as women's decision-making power and control over resources. We also expected several of these mechanisms to improve mental health. Supplementary Appendix 2 provides a detailed description of the psychosocial components.</p><p xml:id="_d6Mj2Tw">1. Community sensitization on aspirations and social norms. The full community, including elders, economic and traditional leaders, and programme beneficiaries and their husbands (or other family members), were invited to attend a video screening and community discussion. Programme staff projected a short video in local languages that depicted the story of a couple that overcomes household and personal constraints and develops economic activities, with support from family and their community. As a result, they become more economically resilient. After the screening, trained facilitators guided a public discussion on social norms, aspirations, and community values. The sensitization integrated multiple approaches to social and behaviour change. These include role models in the video, peer effects in the audience construction, goal setting and social consensus techniques in the discussion, and values alignment in both the video and discussion.</p><p xml:id="_rqXgKTw">2. Life skills training. A week-long life-skills training was organized for groups of beneficiaries. Grounded in participatory, problem-centred learning, the training included role plays, games, and case studies. The nine modules of the curriculum focused on building skills for effective decision-making, problem-solving, goal setting, interpersonal communication, and women's leadership, while simultaneously building self-worth, self-efficacy, and aspirations. In addition, discussions prompted participants to relate their economic goals to broader values and to spousal, gender, and generational roles. The training was delivered by private trainers contracted by the government through small firms.</p><p xml:id="_GU8GCMq">Randomized controlled trial design and data Experimental design. In total, approximately 100,000 households have participated in the Niger cash transfer programme since 2012. This study focused on the 3rd wave of the programme, which reached 22,507 beneficiary households in 329 villages in 17 communes of the 5 most populous of Niger's eight regions (Dosso, Maradi, Tahoua, Tillaberi and Zinder; see Supplementary Fig. <ref type="figure" target="#fig_0">1</ref> for a map of study communes). All of the villages that received cash transfers in the 17 communes were included in our sample. After grouping small neighbouring villages that have less than 8 beneficiaries for ease of programme operations, 322 villages entered the randomization.</p><p xml:id="_HhSFc9k">The study is a cluster-randomized controlled trial in which villages with existing cash transfer beneficiaries were randomly allocated to one of the four arms (Table <ref type="table">1</ref>): one control group (81 villages), and three treatment arms with variants of the intervention components (80 villages in Capital, 78 villages in Psychosocial and 83 villages in Full). Within each village there was no additional randomization across households, and thus all eligible households within each village received the same treatment.</p><p xml:id="_NACxb5p">Randomization of the villages was stratified by the 17 communes and the targeting method used to select cash transfer beneficiaries in each village (which is part of a complementary study <ref type="bibr" target="#b52">54</ref> ) and took place in public lotteries. To promote the transparency gained from public lotteries while maintaining balance across targeting methods, we proceeded in two stages. First, for each commune we randomly assigned villages into four lists stratified by targeting method. The strata were based on a categorical variable with four values, one for each of three randomized targeting methods and a fourth for not being part of the targeting study. This stage did not assign the experimental arm label to each list. Second, we organized a public lottery in each of the 17 communes to randomly assign each list to one of the four experimental arms. The lottery was organized by the cash transfer programme government team and held in the capital of the commune in the presence of village chiefs or elders.</p><p xml:id="_YEMV6WN">One limitation of this design is that we could not include a fourth treatment arm with core components only. While we can therefore test the importance of including capital on top of the core and psychosocial components (by comparing the Full arm to the Psychosocial arm), if the psychosocial components change the marginal value of the capital, then we would not estimate the effect of providing capital as part of a programme without those psychosocial components. Likewise, we test the importance of including psychosocial components on top of a design that includes the lump-sum capital transfer (by comparing the Full arm to the Capital arm). Note that earlier work on the Niger national cash transfer programme has shown that cash transfers (either alone or combined with group savings facilitation as in the core component) increased savings and livestock accumulation, but had little average effects on earnings from income-generating activities or economic diversification <ref type="bibr" target="#b53">55,</ref><ref type="bibr" target="#b54">56</ref> .</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_jRB8de7">Sampling, timeline and data.</head><p xml:id="_2zPY3yr">Out of the 22,507 cash transfer beneficiaries that were assigned to the 4 treatment variants, 4,712 households were drawn into a sample for data collection (1,206 households in control, 1,191 households in capital, 1,112 households in psychosocial and 1,203 households in full). Before the study, we conducted power calculations assuming an intracluster correlation of 0.10 (based on data from Ghana <ref type="bibr" target="#b5">6</ref> and a Niger national household survey) and equal sized arms. To maximize power, we sampled all villages in this phase. Sampling 15 households per village allowed for minimum detectable sizes of 0.057s.d. between arms, before adjusting for baseline outcomes or strata.</p><p xml:id="_v94DEBN">Extended Data Figure <ref type="figure" target="#fig_0">1</ref> summarizes the study timeline. Baseline data collection took place between April and June 2017. The public lotteries took place after data collection in June 2017. The intervention was delivered between September 2017 and January 2019. Two follow-up surveys were collected. The midpoint occurred in February and March 2019, a median of 6 months (3 to 9 months) post-intervention (that is, after the delivery of the lump-sum grant in treatment arms with the capital component). The endpoint survey occurred a year later in February and March 2020, a median of 18 months post-intervention (after the delivery of the cash grants in treatment arms with the capital component). Survey teams, blind to treatment status, were assigned to villages; but the participant could reveal treatment status in the last module of the midpoint survey. During the fieldwork, a remote team checked and updated the field plan for treatment balance across teams and survey weeks.</p><p xml:id="_5uJ8vdw">Supplementary Table <ref type="table">1</ref> reports descriptive baseline statistics and balance tests across the experimental arms for a set of pre-specified variables. The sample was extremely poor. Fewer than 8% of beneficiaries were literate and they had, on average, less than 0.5 year of schooling. Beneficiaries were 38 years old on average, and 99% were female. They took about 70 min to get to the nearest market. On the whole, the random assignment created well-balanced experimental arms.</p><p xml:id="_7SMxuyW">At the midpoint and endpoint, 95.0% and 91.3% of baseline households were successfully interviewed, respectively. Attrition was balanced across the treatment arms (Supplementary Table <ref type="table">1</ref>, bottom panel).</p><p xml:id="_9JV4bzG">Supplementary Table <ref type="table">2</ref> documents compliance with treatment assignment based on administrative data. Across all treatment arms, the participation rate in VSLA meetings was 92%, and the attendance rate in the micro-entrepreneurship training was 95%. By design, there was more variation in the delivery of individual coaching visits, with on average 52% of beneficiaries receiving coaching visits each month. Across the Psychosocial and Full treatment groups, 94% of beneficiaries attended life skills training and 89% attended the community sensitizations. Across the Capital and Full treatment groups, 99.9% of beneficiaries received the cash grants.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_Vb5WhBx">Estimation strategy.</head><p xml:id="_kbXfpm6">We estimate separate intent-to-treat treatment effects for each (treatment) arm for pre-specified outcomes based on the following specification:</p><formula xml:id="formula_0">Y β T β T β T δY = + + + + +ε (<label>1</label></formula><formula xml:id="formula_1">)</formula><p xml:id="_8fJj7BX">i t p t c t f t i i t , , Psychosocial , Capital , Full ,0 , γ where Y i,t is the outcome of interest for household or individual i at midpoint or endpoint (t = 1 or t =2); T Psychosocial , T Capital and T Full are indicators for village assignment to the Psychosocial, Capital, or Full treatment arm; γ is a vector of randomization strata fixed effects. We estimate this specification separately for each follow-up. Standard errors are clustered at the village level, the unit of randomization. To increase precision, we include a control for the outcome at baseline (Y i,0 ) when available. When not available for a subset of households, we set the baseline control to the mean outcome in the randomization strata and include a dummy for a missing measurement at baseline. β p,t , β c,t and β f,t are the main parameters of interest. They capture the impact of each treatment arm for regular cash transfer beneficiary households.</p><p xml:id="_24z5aup">To estimate the added value of the cash grant and psychosocial components (or gross marginal effects), we report three additional tests for each data collection round:</p><p xml:id="_7XCc4gV">First (H 1 ), we test the added value (or gross marginal effect) of the cash grant with H 0 : β f -β p = 0.</p><p xml:id="_FURT6gv">Second (H 2 ), we test the added value (or gross marginal effect) of the psychosocial interventions (the community sensitization intervention and life skills training) with H 0 : β f -β c = 0.</p><p xml:id="_hhs7h88">Third (H 3 ), we test for equality of treatment effects between the Capital and Psychosocial arms, which is the same as testing equality of gross marginal effects of the cash grants and psychosocial interventions, with: H 0 : β c -β p = 0.</p><p xml:id="_tbSGJXy">Note that gross marginal effects are inclusive of complementarities with the core components.</p><p xml:id="_sSAhkFs">Finally, we test for equality of treatment effects between data collection rounds to uncover any temporal effects (for each treatment arm separately).</p><p xml:id="_ubTJBgT">We conduct our analysis in accordance with a pre-analysis plan. We pre-specified in our pre-analysis plan two primary economic outcomes: consumption per adult equivalent and the (reverse of) FAO's Food Insecurity Experience Scale (FIES <ref type="bibr" target="#b55">57,</ref><ref type="bibr" target="#b56">58</ref> ). Although it was pre-specified as a secondary outcome, we also report the Food Consumption Score (FCS <ref type="bibr" target="#b57">59</ref> in the main outcome Extended Data Table <ref type="table">1</ref>, since it provides another measure of food security that captures the beneficiary women's dietary diversity. Other notable deviations include slight changes of the grouping of outcome variables for expository clarity, and the presentation of standardized effect sizes for key outcomes. Supplementary Appendix 4 summarizes deviations from the pre-analysis plan.</p><p xml:id="_DFJET69">We pre-specified a range of intermediary outcomes to capture the pathways through which the interventions were expected to affect the primary economic outcomes, as well as a range of psychosocial well-being measures (see Supplementary Appendix 3 for more information on psychosocial outcomes). We discuss key intermediary outcomes in the results section, with additional results in the annex. Supplementary Tables <ref type="table">3</ref>, <ref type="table">4</ref> provide more details on variable construction.</p><p xml:id="_s4dwZ6B">To account for multiple hypotheses, we calculate P-values adjusted within each treatment arm within predetermined families of variables, and report corrections in Supplementary Table <ref type="table">5</ref>. Following our pre-analysis plan, we also calculate P-values controlling for both the false discovery rate (FDR) and the family-wise error rate (FWER). The FWER is our preferred correction and is displayed in the extended data tables.</p><p xml:id="_dPV9Xwy">Cost-benefit calculations. The intervention was designed as low-cost to ensure it could be scaled-up through government systems. Extended Data Table <ref type="table">9</ref> details programme costs obtained from administrative data, per beneficiary of each intervention arm. In 2016 PPP US$, total costs were US$263 for the Psychosocial arm, US$482 for the Capital arm and US$584 for the Full arm. We do not account for cash transfer programme costs (including targeting or payment) since these were incurred for the control group as well. The programme costs were substantially lower than similar graduation programmes implemented in other contexts: US$1,475 PPP in India, US$4,215 PPP in Ethiopia, US$5,483 PPP in Ghana, US$6,044 PPP in Pakistan <ref type="bibr" target="#b5">6</ref> and US$6,183 PPP in Afghanistan <ref type="bibr" target="#b24">25</ref> .</p><p xml:id="_uw8mNJK">We perform a conservative calculation of estimated benefits that only considers impacts on consumption (obtained from the specification in equation ( <ref type="formula" target="#formula_0">1</ref>)), without accounting for impacts on assets or psychosocial well-being. Cumulated consumption impacts are calculated as half the impacts on yearly consumption at midpoint plus impacts on yearly consumption at endpoint. We consider various scenarios regarding the sustainability of impacts after endpoint. First, we consider zero impacts after endpoint (scenario A). We then consider various yearly rates of dissipation of impacts, including 75% (scenario B1), 50% (scenario B2) and 25% (scenario B3). Lastly, we assume impacts are sustained in perpetuity (scenario C), as in the benchmark case used by some other studies <ref type="bibr" target="#b5">6</ref> . We use a 5% discount rate when calculating benefit-cost ratios.</p><p xml:id="_dUZfvgx">We also perform cost-effectiveness calculations of benefits to psychological well-being. For each treatment arm, we compute the cost per 0.1s.d. increase in life satisfaction, as assessed by the Cantril ladder at endpoint. We choose a benchmark of 0.1s.d. given it is approximately the meta-analytic effect of economic interventions on psychological well-being <ref type="bibr" target="#b58">60</ref> . We additionally compute the cost per case of depression averted within each arm, using the CESD-10 self-report measure of depression at both follow-ups.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_7Rpptwa">Extended Data Table 1 | Consumption and Food Security</head><p xml:id="_wj8xvTF">Notes: Results presented are OLS estimates that include controls for randomization strata and, where possible, baseline outcomes. We assign baseline strata means to households surveyed at midpoint or endpoint but not at baseline and we control for such missing values with an indicator. See Table <ref type="table">SI</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_4nSwTY8">Extended Data Table 2 | Household Revenues</head><p xml:id="_UDVdK4t">Notes: Results presented are OLS estimates that include controls for randomization strata and, where possible, baseline outcomes. We assign baseline strata means to households surveyed at midpoint or endpoint but not at baseline and we control for such missing values with an indicator. See Table <ref type="table">SI</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_ymrrUgM">Extended Data Table 8 | Women's Control Over Earnings and Household Decision-Making</head><p xml:id="_UgKXbhy">Notes: Results presented are OLS estimates that include controls for randomization strata and, where possible, baseline outcomes. We assign baseline strata means to households surveyed at midpoint or endpoint but not at baseline and we control for such missing values with an indicator. See Table <ref type="table">SI</ref>.4 for details on variable construction. Robust standard errors are shown in parentheses, clustered at the village level. Two-tailed p-values are also shown in parentheses, followed by MHT-adjusted p-values shown in square brackets (see table SI.5 for correction details).</p><p xml:id="_nqaAZMX">All indices are standardized with respect to the control group in that survey round. Results from components of each index can be found in Table <ref type="table">SI</ref>.23 (intra-household dynamics), Table SI.24 (violence perceptions), Table SI.25 (control over earnings and productive agency), and Table SI.26 (control over household resources).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_QfEQrFy">Extended Data Table 9 | Cost-benefit Analysis</head><p xml:id="_xtAyXKC">Notes: We use 98% winsorized consumption estimates in our benefits calculation. Note that in rows 6, 7, and 8 we halve consumption benefits in year 1 since we measure them 6 months after the intervention on average. We assume yearly impacts post-intervention. We show results assuming linear growth of impacts by month in Supplementary Table </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 |</head><label>1</label><figDesc xml:id="_5AbTsgd">Fig. 1 | Intent-to-treat estimates for main standardized outcomes. The figure displays treatment effects presented in Table2. It shows treatment effects on main outcomes, standardized with respect to the control group for ease of interpretation. Results presented are ordinary least squares (OLS) estimates that include controls for randomization strata and, where possible,</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2 |</head><label>2</label><figDesc xml:id="_whEyCM3">Fig. 2 | Internal rates of return. Internal rates of return are calculated using the annual cost and benefit data shown in Extended Data Table9.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><figDesc xml:id="_uermmAR">.3 for details on variable construction. Robust standard errors are shown in parentheses, clustered at the village level. Two-tailed p-values are also shown in parentheses, followed by MHT-adjusted p-values shown in square brackets (see table SI.5 for correction details).All monetary amounts are PPP-adjusted USD terms, set at 2016 prices and deflated using Niger CPI published by the World Bank. In 2016, 1 USD = 242.553 XOF PPP. All continuous variables are winsorized at the 98th and 2th percentiles at the most disaggregated level feasible.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><figDesc xml:id="_kzUQE8d">.3 for details on variable construction. Robust standard errors are shown in parentheses, clustered at the village level. Two-tailed p-values are also shown in parentheses, followed by MHT-adjusted p-values shown in square brackets (see table SI.5 for correction details).All monetary amounts are PPP-adjusted USD terms, set at 2016 prices and deflated using Niger CPI published by the World Bank. In 2016, 1 USD = 242.553 XOF PPP. All continuous variables are winsorized at the 98th and 2th percentiles at the most disaggregated level feasible. Wage revenues are wage earnings scaled up by the median monthly profit margin of household businesses.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><figDesc xml:id="_6C98N9J">SI.27. All monetary amounts are PPP-adjusted USD terms, set at 2016 prices and deflated using Niger CPI published by the World Bank. In 2016, 1 USD = 242.553 XOF PPP. In nominal terms, in 2016, 1 US dollar = 592.445 XOF. We consider the costs to be incurred in 2018, with an inflation rate of 5.85%. Hence 10,000 XOF in 2018 = 10000 / (592.4 * 1.0585) = $15.95 in 2016. Differences in benefit-cost ratios (row 9) between Psychosocial and Full: 1.709-1.275=0.434, s.e=0.432, p=0.315; between Capital and Full: 0.796-1.275=-0.479, s.e.=0.221, p=0.030; and between Capital and Psychosocial: 0.796-1.709=-0.913, s.e=0.418, p=0.029. Consistent results are found using other scenarios.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><graphic coords="12,70.91,48.96,459.12,305.28" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><graphic coords="16,39.69,65.90,510.00,315.12" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><graphic coords="18,39.69,65.90,510.00,315.12" type="bitmap" /></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head xml:id="_CBdVxpW">Acknowledgements</head><p xml:id="_YKEufaE">This study is a collaboration between the <rs type="funder">Government of Niger</rs>, the <rs type="funder">World Bank</rs> <rs type="programName">Sahel Adaptive Social Protection programme</rs>, <rs type="projectName">Africa Gender Innovation Lab</rs>, <rs type="projectName">DIME and Innovations for Poverty Action</rs>. The study was co-funded by the <rs type="programName">Sahel Adaptive Social Protection Program</rs> (<rs type="grantNumber">TF0A2522</rs>, <rs type="grantNumber">TF0B2819</rs>, <rs type="grantNumber">TF019115</rs>) at the <rs type="funder">World Bank</rs>, the <rs type="funder">Wellspring Philanthropic Fund</rs> (<rs type="grantNumber">TF0A5780</rs>) and the <rs type="funder">Niger Adaptive Safety Nets Project</rs> (<rs type="grantNumber">P166602</rs>), managed by <rs type="funder">Cellule Filets Sociaux (CFS)</rs> in the <rs type="funder">Prime Minister</rs>'s office of the <rs type="funder">Niger Government</rs>. The study was pre-registered in the AEA RCT registry: <ref type="url" target="https://www.socialscienceregistry.org/trials/2544">https://www.socialscienceregistry.org/trials/2544</ref>. It received approval from the <rs type="programName">Innovations for Poverty Action Institutional Review Board</rs> (#<rs type="grantNumber">00006083</rs>). The study underwent blind review at the <rs type="institution">World Bank Research Department</rs>, and results were presented to funders and implementers before publication, without leading to substantive changes in the results. We thank <rs type="person">A. M. Maidoka</rs>, <rs type="person">M. Bouda</rs>, <rs type="person">K. Aboubacar</rs>, <rs type="person">M. Moussa</rs>, the <rs type="affiliation">CFS</rs> staff, as well as <rs type="person">C. del Ninno</rs>, <rs type="person">M. M. Amadou</rs> and the <rs type="funder">World Bank</rs> <rs type="institution">Sahel Adaptive Social Protection Program</rs> team for a fruitful collaboration. CFS led intervention implementation, with technical assistance from the <rs type="funder">World Bank</rs> (led by T.B. and P.P.), <rs type="person">Trickle Up</rs> (led by <rs type="person">J. Sanson</rs> and <rs type="person">Y. Malle</rs>), CESAM (led by <rs type="person">D. Zomahoun</rs>), <rs type="person">R. Audy</rs>, <rs type="person">S. A. Sambo</rs> and <rs type="person">D. Dieng. Sahel Consulting</rs> (led by <rs type="person">A. Hamadou</rs>) collected the study data, with support from <rs type="person">A. M. Tchibozo</rs> at <rs type="affiliation">IPA</rs>, <rs type="person">K. Paré</rs>, <rs type="person">M. Moussa</rs>, <rs type="person">M. L. Saley</rs> and <rs type="person">A. Y. Theodore. Y. Kashlan</rs> at <rs type="affiliation">IPA</rs> and <rs type="affiliation">GPRL (Northwestern University</rs>) provided outstanding research assistance. We thank <rs type="person">C. Bodewig</rs>, <rs type="person">C. del Ninno</rs>, <rs type="person">N. Goldberg</rs>, <rs type="person">M. Grosh</rs>, <rs type="person">A. Legovini</rs>, <rs type="person">J. Loeser</rs>, <rs type="person">H. R. Markus</rs>, <rs type="person">R. Sedlmayr</rs>, <rs type="person">G. Walton</rs> and seminar participants at IPA and the <rs type="institution">World Bank</rs> for comments. <rs type="person">K. Parry</rs> copy-edited the manuscript. DIME analytics verified the computational reproducibility of the results. The findings, interpretations and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the government of Niger, the <rs type="funder">World Bank</rs> and its affiliated organizations, those of the <rs type="funder">Executive Directors of the World Bank</rs>, or the governments they represent.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funded-project" xml:id="_v26SmJn">
+					<orgName type="project" subtype="full">Africa Gender Innovation Lab</orgName>
+					<orgName type="program" subtype="full">Sahel Adaptive Social Protection programme</orgName>
+				</org>
+				<org type="funded-project" xml:id="_GyFXpPK">
+					<idno type="grant-number">TF0A2522</idno>
+					<orgName type="project" subtype="full">DIME and Innovations for Poverty Action</orgName>
+					<orgName type="program" subtype="full">Sahel Adaptive Social Protection Program</orgName>
+				</org>
+				<org type="funding" xml:id="_5APtUHE">
+					<idno type="grant-number">TF0B2819</idno>
+				</org>
+				<org type="funding" xml:id="_2nmNEAY">
+					<idno type="grant-number">TF019115</idno>
+				</org>
+				<org type="funding" xml:id="_MfN8wWz">
+					<idno type="grant-number">TF0A5780</idno>
+				</org>
+				<org type="funding" xml:id="_FdYEW46">
+					<idno type="grant-number">P166602</idno>
+				</org>
+				<org type="funding" xml:id="_EsMtaDd">
+					<idno type="grant-number">00006083</idno>
+					<orgName type="program" subtype="full">Innovations for Poverty Action Institutional Review Board</orgName>
+				</org>
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_YzFPaRp">Data availability</head><p xml:id="_DrUsRk7">The data used in this paper are available at <ref type="url" target="https://microdata.worldbank.org/index.php/catalog/4294">https://microdata.world- bank.org/index.php/catalog/4294</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_x8sYzCJ">Code availability</head><p xml:id="_GFcFT3z">The code needed to reproduce the results is available at: <ref type="url" target="https://github.com/dime-worldbank/niger-asp-reprod.git">https://github.  com/dime-worldbank/niger-asp-reprod.git</ref>. DIME analytics has verified the computational reproducibility of the results.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_bFpgPD8">Extended Data Table 3 | Beneficiary Revenues</head><p xml:id="_CDXarNP">Notes: Results presented are OLS estimates that include controls for randomization strata and, where possible, baseline outcomes. We assign baseline strata means to households surveyed at midpoint or endpoint but not at baseline and we control for such missing values with an indicator. See Table <ref type="table">SI</ref>.3 for details on variable construction. Robust standard errors are shown in parentheses, clustered at the village level. Two-tailed p-values are also shown in parentheses, followed by MHT-adjusted p-values shown in square brackets (see table SI.5 for correction details). All monetary amounts are PPP-adjusted USD terms, set at 2016 prices and deflated using Niger CPI published by the World Bank. In 2016, 1 USD = 242.553 XOF PPP. All continuous variables are winsorized at the 98th and 2th percentiles at the most disaggregated level feasible. Wage revenues are wage earnings scaled up by the median monthly profit margin of household businesses.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_TYuCfNG">Extended Data Table 5 | Agriculture and Livestock Activities</head><p xml:id="_ZsQwgxM">Notes: Results presented are OLS estimates that include controls for randomization strata and, where possible, baseline outcomes. We assign baseline strata means to households surveyed at midpoint or endpoint but not at baseline and we control for such missing values with an indicator. See Table <ref type="table">SI</ref>.3 for details on variable construction. Robust standard errors are shown in parentheses, clustered at the village level. Two-tailed p-values are also shown in parentheses, followed by MHT-adjusted p-values shown in square brackets (see table SI.5 for correction details).</p><p xml:id="_DTc96J8">All monetary amounts are PPP-adjusted USD terms, set at 2016 prices and deflated using Niger CPI published by the World Bank. In 2016, 1 USD = 242.553 XOF PPP. All continuous variables are winsorized at the 98th and 2th percentiles at the most disaggregated level feasible.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_bctd5kF"><p xml:id="_u8Cak3j">Publisher's note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_W7yuEG4">Reporting summary</head><p xml:id="_P6HvJ7w">Further information on research design is available in the Nature Research Reporting Summary linked to this paper.</p><p xml:id="_654T8jX">Author contributions Authors are listed in the author list in alphabetical order, with their contributions as follows. P.P. led RCT and intervention design, led Niger RCT implementation and led analysis. T.B. led RCT and intervention design and contributed to analysis. M.G., D.K., H.K., W.P., C.U. and J.V. contributed to RCT design and analysis. K.A.W. contributed to RCT design and analysis and led data collection and instrument development. C.C.T. led development of psychosocial intervention and measurement and contributed to analysis. B.K. led public lotteries and intervention implementation in line with RCT design.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_XggnfHX">Competing interests This study was co-financed by the Sahel Adaptive Social Protection Program at the World Bank and Niger Adaptive Safety Nets Project managed by CFS in the Prime</head><p xml:id="_cBdfyCs">Minister's office of the Niger Government. The authors declare the following competing interests: M.G., T.B., P.P. and J.V. work for the World Bank. B.K. is the head of M&amp;E and was interim national coordinator of CFS during programme implementation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_tEMz3YF">Additional information Supplementary information</head><p xml:id="_JdcbrnR">The online version contains supplementary material available at <ref type="url" target="https://doi.org/10.1038/s41586-022-04647-8">https://doi.org/10.1038/s41586-022-04647-8</ref>. Correspondence and requests for materials should be addressed to Dean Karlan or Patrick Premand.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_jnajeVS">Article</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_jhVMuBs">Extended Data Table 4 | Off-Farm Businesses</head><p xml:id="_Xa2nWAx">Notes: Results presented are OLS estimates that include controls for randomization strata and, where possible, baseline outcomes. We assign baseline strata means to households surveyed at midpoint or endpoint but not at baseline and we control for such missing values with an indicator. See Table <ref type="table">SI</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_PYV5XHF">Article</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_bGPsuKY">Extended Data Table 6 | Psychological Well-Being Indices</head><p xml:id="_xGbWhTp">Notes: Results presented are OLS estimates that include controls for randomization strata and, where possible, baseline outcomes. We assign baseline strata means to households surveyed at midpoint or endpoint but not at baseline and we control for such missing values with an indicator. See Table <ref type="table">SI</ref>.4 for details on variable construction. Robust standard errors are shown in parentheses, clustered at the village level. Two-tailed p-values are also shown in parentheses, followed by MHT-adjusted p-values shown in square brackets (see table SI.5 for correction details).</p><p xml:id="_Qb3nD2v">All indices are standardized with respect to the control group in that survey round. Results from components of each index are provided in Table <ref type="table">SI</ref>.14 (mental health index components), Table SI.15 (self-efficacy index components), and Table SI.16 (future expectation index components).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_S2TbzVF">Extended Data Table 7 | Social Well-Being Indices</head><p xml:id="_JUhb2HS">Notes: Results presented are OLS estimates that include controls for randomization strata and, where possible, baseline outcomes. We assign baseline strata means to households surveyed at midpoint or endpoint but not at baseline and we control for such missing values with an indicator. See Table <ref type="table">SI</ref>.4 for details on variable construction. Robust standard errors are shown in parentheses, clustered at the village level. Two-tailed p-values are also shown in parentheses, followed by MHT-adjusted p-values shown in square brackets (see table SI.5 for correction details).</p><p xml:id="_Q8BH3yf">All indices are standardized with respect to the control group in that survey round. Results from components of each index are provided in Table <ref type="table">SI</ref>.17 (financial support index), Table SI.18 (social support index), Table SI.19 (social standing index), Table SI.20 (social norms index), Table SI.21 (social cohesion and community closeness), and Table SI.22 (collective action index).</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><figDesc xml:id="_4ptzD4s">.3 for details on variable construction. Robust standard errors are shown in parentheses, clustered at the village level. Two-tailed p-values are also shown in parentheses, followed by MHT-adjusted p-values shown in square brackets (see table SI.5 for correction details).All monetary amounts are PPP-adjusted USD terms, set at 2016 prices and deflated using Niger CPI published by the World Bank. In 2016, 1 USD = 242.553 XOF PPP. All continuous variables are winsorized at the 98th and 2th percentiles at the most disaggregated level feasible.</figDesc></figure>
+			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="consolidated"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main" xml:id="_gCk9pdz">Conditional Cash Transfers</title>
+		<author>
+			<persName><forename type="first">Ariel</forename><surname>Fiszbein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Norbert</forename><forename type="middle">R</forename><surname>Schady</surname></persName>
+		</author>
+		<idno type="DOI">10.1596/978-0-8213-7352-1</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_Bx5NzFg">Conditional Cash Transfers: Reducing Present and Future Poverty</title>
+		<imprint>
+			<publisher>The World Bank</publisher>
+			<date type="published" when="2009-02-09">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main" xml:id="_Gr93Rkd">Six Randomized Evaluations of Microcredit: Introduction and Further Steps</title>
+		<author>
+			<persName><forename type="first">Abhijit</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dean</forename><surname>Karlan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jonathan</forename><surname>Zinman</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/app.20140287</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_8UCF3HM">American Economic Journal: Applied Economics</title>
+		<title level="j" type="abbrev">American Economic Journal: Applied Economics</title>
+		<idno type="ISSN">1945-7782</idno>
+		<idno type="ISSNe">1945-7790</idno>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="21" />
+			<date type="published" when="2015-01-01">2015</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main" xml:id="_ZY6mB7E">Poverty, depression, and anxiety: Causal evidence and mechanisms</title>
+		<author>
+			<persName><forename type="first">Matthew</forename><surname>Ridley</surname></persName>
+			<idno type="ORCID">0000-0001-7612-7436</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Gautam</forename><surname>Rao</surname></persName>
+			<idno type="ORCID">0000-0002-1662-5457</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Frank</forename><surname>Schilbach</surname></persName>
+			<idno type="ORCID">0000-0002-8022-6725</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Vikram</forename><surname>Patel</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.aay0214</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_VrC6WEG">Science</title>
+		<title level="j" type="abbrev">Science</title>
+		<idno type="ISSN">0036-8075</idno>
+		<idno type="ISSNe">1095-9203</idno>
+		<imprint>
+			<biblScope unit="volume">370</biblScope>
+			<biblScope unit="issue">6522</biblScope>
+			<biblScope unit="page">214</biblScope>
+			<date type="published" when="2020-12-11">2020</date>
+			<publisher>American Association for the Advancement of Science (AAAS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b3">
+	<monogr>
+		<title level="m" type="main" xml:id="_wNTZj5M">The Comparative Impact of Cash Transfers and a Psychotherapy Program on Psychological and Economic Well-being</title>
+		<author>
+			<persName><forename type="first">Johannes</forename><surname>Haushofer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Mudida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeremy</forename><surname>Shapiro</surname></persName>
+		</author>
+		<idno type="DOI">10.3386/w28106</idno>
+		<imprint>
+			<date type="published" when="2020-11">2020</date>
+			<publisher>National Bureau of Economic Research</publisher>
+			<biblScope unit="page">28106</biblScope>
+		</imprint>
+	</monogr>
+	<note type="report_type">Working Paper</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main" xml:id="_vJBckfh">Poverty and mental disorders: breaking the cycle in low-income and middle-income countries</title>
+		<author>
+			<persName><forename type="first">Crick</forename><surname>Lund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mary</forename><surname>De Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sophie</forename><surname>Plagerson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sara</forename><surname>Cooper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dan</forename><surname>Chisholm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jishnu</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Martin</forename><surname>Knapp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Vikram</forename><surname>Patel</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0140-6736(11)60754-x</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_tU4HfKm">The Lancet</title>
+		<title level="j" type="abbrev">The Lancet</title>
+		<idno type="ISSN">0140-6736</idno>
+		<imprint>
+			<biblScope unit="volume">378</biblScope>
+			<biblScope unit="issue">9801</biblScope>
+			<biblScope unit="page" from="1502" to="1514" />
+			<date type="published" when="2011-10">2011</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main" xml:id="_UZUAcpx">A multifaceted program causes lasting progress for the very poor: Evidence from six countries</title>
+		<author>
+			<persName><forename type="first">Abhijit</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Esther</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nathanael</forename><surname>Goldberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dean</forename><surname>Karlan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Osei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">William</forename><surname>Parienté</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeremy</forename><surname>Shapiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bram</forename><surname>Thuysbaert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Udry</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.1260799</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_7ssT3fX">Science</title>
+		<title level="j" type="abbrev">Science</title>
+		<idno type="ISSN">0036-8075</idno>
+		<idno type="ISSNe">1095-9203</idno>
+		<imprint>
+			<biblScope unit="volume">348</biblScope>
+			<biblScope unit="issue">6236</biblScope>
+			<biblScope unit="page">1260799</biblScope>
+			<date type="published" when="2015-05-15">2015</date>
+			<publisher>American Association for the Advancement of Science (AAAS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main" xml:id="_j6AvK54">Labor Markets and Poverty in Village Economies*</title>
+		<author>
+			<persName><forename type="first">Oriana</forename><surname>Bandiera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robin</forename><surname>Burgess</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Narayan</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Selim</forename><surname>Gulesci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Imran</forename><surname>Rasul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Munshi</forename><surname>Sulaiman</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/qje/qjx003</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_MYgYUsc">The Quarterly Journal of Economics</title>
+		<idno type="ISSN">0033-5533</idno>
+		<idno type="ISSNe">1531-4650</idno>
+		<imprint>
+			<biblScope unit="volume">132</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="811" to="870" />
+			<date type="published" when="2017-03-20">2017</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main" xml:id="_53hw5tN">How Can Safety Nets Contribute to Economic Growth?</title>
+		<author>
+			<persName><forename type="first">Harold</forename><surname>Alderman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ruslan</forename><surname>Yemtsov</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/wber/lht011</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_bF5TPUm">The World Bank Economic Review</title>
+		<idno type="ISSN">0258-6770</idno>
+		<idno type="ISSNe">1564-698X</idno>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="20" />
+			<date type="published" when="2014">2014</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main" xml:id="_w7XGq6e">The Transfer Project, Cash Transfers, and Impact Evaluation in Sub-Saharan Africa</title>
+		<author>
+			<persName><forename type="first">Benjamin</forename><surname>Davis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sudhanshu</forename><surname>Handa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nicola</forename><surname>Hypher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Natalia</forename><forename type="middle">Winder</forename><surname>Rossi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Winters</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jennifer</forename><surname>Yablonski</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/acprof:oso/9780198769446.003.0001</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_r4m45Y2">From Evidence to Action</title>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2016-05-01">2016</date>
+			<biblScope unit="page" from="1" to="14" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main" xml:id="_uqWkrJq">One-Time Transfers of Cash or Capital Have Long-Lasting Effects on Microenterprises in Sri Lanka</title>
+		<author>
+			<persName><forename type="first">Suresh</forename><surname>De Mel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><surname>Mckenzie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Woodruff</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.1212973</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_szaJEDV">Science</title>
+		<title level="j" type="abbrev">Science</title>
+		<idno type="ISSN">0036-8075</idno>
+		<idno type="ISSNe">1095-9203</idno>
+		<imprint>
+			<biblScope unit="volume">335</biblScope>
+			<biblScope unit="issue">6071</biblScope>
+			<biblScope unit="page" from="962" to="966" />
+			<date type="published" when="2012-02-24">2012</date>
+			<publisher>American Association for the Advancement of Science (AAAS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main" xml:id="_sRxgPqc">Transfers, Diversification and Household Risk Strategies: Can Productive Safety Nets Help Households Manage Climatic Variability?</title>
+		<author>
+			<persName><forename type="first">Karen</forename><surname>Macours</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Patrick</forename><surname>Premand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Renos</forename><surname>Vakis</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/ej/ueac018</idno>
+		<ptr target="https://doi.org/10.1093/ej/ueac018" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_HANFVP2">The Economic Journal</title>
+		<idno type="ISSN">0013-0133</idno>
+		<idno type="ISSNe">1468-0297</idno>
+		<imprint>
+			<biblScope unit="volume">132</biblScope>
+			<biblScope unit="issue">647</biblScope>
+			<biblScope unit="page" from="2438" to="2470" />
+			<date type="published" when="2022-03-30">2022</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main" xml:id="_PhaMHgq">Consulting and capital experiments with microenterprise tailors in Ghana</title>
+		<author>
+			<persName><forename type="first">Dean</forename><surname>Karlan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ryan</forename><surname>Knight</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Udry</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jebo.2015.04.005</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_tdpDsF8">Journal of Economic Behavior &amp; Organization</title>
+		<title level="j" type="abbrev">Journal of Economic Behavior &amp; Organization</title>
+		<idno type="ISSN">0167-2681</idno>
+		<imprint>
+			<biblScope unit="volume">118</biblScope>
+			<biblScope unit="page" from="281" to="302" />
+			<date type="published" when="2015-10">2015</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main" xml:id="_FsU5DtX">The Short-term Impact of Unconditional Cash Transfers to the Poor: Experimental Evidence from Kenya*</title>
+		<author>
+			<persName><forename type="first">Johannes</forename><surname>Haushofer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeremy</forename><surname>Shapiro</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/qje/qjw025</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_3exq85D">The Quarterly Journal of Economics</title>
+		<idno type="ISSN">0033-5533</idno>
+		<idno type="ISSNe">1531-4650</idno>
+		<imprint>
+			<biblScope unit="volume">131</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1973" to="2042" />
+			<date type="published" when="2016-07-19">2016</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main" xml:id="_zc2VSav">Microcredit Impacts: Evidence from a Randomized Microcredit Program Placement Experiment by Compartamos Banco</title>
+		<author>
+			<persName><forename type="first">Manuela</forename><surname>Angelucci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dean</forename><surname>Karlan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jonathan</forename><surname>Zinman</surname></persName>
+		</author>
+		<idno type="DOI">10.3386/w19827</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_DHzwxrg">Am. Econ. J. Appl. Econ</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="151" to="182" />
+			<date type="published" when="2015">2015</date>
+			<publisher>National Bureau of Economic Research</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main" xml:id="_ePfsGD2">The impacts of microfinance: evidence from joint-liability lending in Mongolia</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Attanasio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Augsburg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>De Haas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Fitzsimons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Harmgart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_3NWTBaM">Am. Econ. J. Appl. Econ</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="90" to="122" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main" xml:id="_PwRqUdT">The miracle of microfinance? Evidence from a randomized evaluation</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Glennerster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Kinnan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_EfN9FBZ">Am. Econ. J. Appl. Econ</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="22" to="53" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main" xml:id="_Jcwvhf8">Measuring the equilibrium impacts of credit: evidence from the Indian microfinance crisis</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Breza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Kinnan</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/qje/qjab016</idno>
+		<ptr target="https://doi.org/10.1093/qje/qjab016" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_QNVYwCZ">Q. J. Econ</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main" xml:id="_FhuEshA">Estimating the impact of microcredit on those who take it up: evidence from a randomized experiment in Morocco</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Crépon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Devoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Parienté</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Wpb8XY3">Am. Econ. J. Appl. Econ</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="123" to="150" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b18">
+	<analytic>
+		<title level="a" type="main" xml:id="_E5xSM9b">The Impacts of Microcredit: Evidence from Ethiopia</title>
+		<author>
+			<persName><forename type="first">Alessandro</forename><surname>Tarozzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jaikishan</forename><surname>Desai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kristin</forename><surname>Johnson</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/app.20130475</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_rUQfzK2">American Economic Journal: Applied Economics</title>
+		<title level="j" type="abbrev">American Economic Journal: Applied Economics</title>
+		<idno type="ISSN">1945-7782</idno>
+		<idno type="ISSNe">1945-7790</idno>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="54" to="89" />
+			<date type="published" when="2015-01-01">2015</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main" xml:id="_H8VdsBX">Expanding Credit Access: Using Randomized Supply Decisions to Estimate the Impacts</title>
+		<author>
+			<persName><forename type="first">Dean</forename><surname>Karlan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jonathan</forename><surname>Zinman</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/rfs/hhp092</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_ZQnCqfX">Review of Financial Studies</title>
+		<title level="j" type="abbrev">Rev. Financ. Stud.</title>
+		<idno type="ISSN">0893-9454</idno>
+		<idno type="ISSNe">1465-7368</idno>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="433" to="464" />
+			<date type="published" when="2015">2015</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main" xml:id="_pXGVb5R">Microcredit in Theory and Practice: Using Randomized Credit Scoring for Impact Evaluation</title>
+		<author>
+			<persName><forename type="first">Dean</forename><surname>Karlan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jonathan</forename><surname>Zinman</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.1200138</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_VSEF8BE">Science</title>
+		<title level="j" type="abbrev">Science</title>
+		<idno type="ISSN">0036-8075</idno>
+		<idno type="ISSNe">1095-9203</idno>
+		<imprint>
+			<biblScope unit="volume">332</biblScope>
+			<biblScope unit="issue">6035</biblScope>
+			<biblScope unit="page" from="1278" to="1284" />
+			<date type="published" when="2011-06-10">2011</date>
+			<publisher>American Association for the Advancement of Science (AAAS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main" xml:id="_TQRA2nR">Understanding the Average Impact of Microcredit Expansions: A Bayesian Hierarchical Analysis of Seven Randomized Experiments</title>
+		<author>
+			<persName><forename type="first">Rachael</forename><surname>Meager</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/app.20170299</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_NEStqFE">American Economic Journal: Applied Economics</title>
+		<title level="j" type="abbrev">American Economic Journal: Applied Economics</title>
+		<idno type="ISSN">1945-7782</idno>
+		<idno type="ISSNe">1945-7790</idno>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="57" to="91" />
+			<date type="published" when="2019-01-01">2019</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b22">
+	<monogr>
+		<author>
+			<persName><forename type="first">C</forename><surname>Andrews</surname></persName>
+		</author>
+		<title level="m" xml:id="_vxnkH9s">The Potential to Scale: Economic Inclusion for the Poorest. The State of Economic Inclusion Report</title>
+		<imprint>
+			<publisher>World Bank</publisher>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b23">
+	<monogr>
+		<title level="m" type="main" xml:id="_QQtpYBG">The long term impacts of a &apos;graduation&apos; program: evidence from West Bengal</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Chattopadhyay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shapiro</surname></persName>
+		</author>
+		<ptr target="https://economics.mit.edu/files/12031" />
+		<imprint>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b24">
+	<monogr>
+		<title level="m" type="main" xml:id="_xGT2ZDH">No Household Left Behind: Afghanistan Targeting the Ultra Poor Impact Evaluation</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Bedoya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Coville</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Haushofer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Isaqzadeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Shapiro</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<publisher>NBER</publisher>
+			<biblScope unit="page">25981</biblScope>
+		</imprint>
+	</monogr>
+	<note type="report_type">Working Paper</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b25">
+	<monogr>
+		<title level="m" type="main" xml:id="_Spau4sn">Long-Term Effects of the Targeting the Ultra Poor Program</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Sharma</surname></persName>
+		</author>
+		<idno>no. 28074</idno>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<publisher>NBER</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">Working Paper</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b26">
+	<analytic>
+		<title level="a" type="main" xml:id="_rkeumbe">Why do people stay poor?</title>
+		<author>
+			<persName><forename type="first">Clare</forename><surname>Balboni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Oriana</forename><surname>Bandiera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robin</forename><surname>Burgess</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Maitreesh</forename><surname>Ghatak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anton</forename><surname>Heil</surname></persName>
+		</author>
+		<idno type="DOI">10.3386/w29340</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_Wnd8YZc">Suntory and Toyota International Centres for Economics and Related Disciplines</title>
+		<imprint>
+			<publisher>National Bureau of Economic Research</publisher>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b27">
+	<analytic>
+		<title level="a" type="main" xml:id="_SAKeHve">On the psychology of poverty</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Haushofer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Fehr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_ZRyrw7Q">Science</title>
+		<imprint>
+			<biblScope unit="volume">344</biblScope>
+			<biblScope unit="page" from="862" to="867" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b28">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mullainathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Shafir</surname></persName>
+		</author>
+		<title level="m" xml:id="_kMaW9GJ">Scarcity: Why Having Too Little Means So Much</title>
+		<imprint>
+			<publisher>Henry Holt and Company</publisher>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b29">
+	<analytic>
+		<title level="a" type="main" xml:id="_URF2Qdq">Poverty and Aspirations Failure</title>
+		<author>
+			<persName><forename type="first">Patricio</forename><forename type="middle">S</forename><surname>Dalton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sayantan</forename><surname>Ghosal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anandi</forename><surname>Mani</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/ecoj.12210</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_DSAEx6j">The Economic Journal</title>
+		<idno type="ISSN">0013-0133</idno>
+		<idno type="ISSNe">1468-0297</idno>
+		<imprint>
+			<biblScope unit="volume">126</biblScope>
+			<biblScope unit="issue">590</biblScope>
+			<biblScope unit="page" from="165" to="188" />
+			<date type="published" when="2016">2016</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b30">
+	<analytic>
+		<title level="a" type="main" xml:id="_62nn3W8">Will video kill the radio star? Assessing the potential of targeted exposure to role models through video</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Bernard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Dercon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Orkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Taffesse</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_gSDUxjE">The World Bank Econ. Rev</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="226" to="S237" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b31">
+	<analytic>
+		<title level="a" type="main" xml:id="_XXpzAmw">Teaching personal initiative beats traditional training in boosting small business in West Africa</title>
+		<author>
+			<persName><forename type="first">Francisco</forename><surname>Campos</surname></persName>
+			<idno type="ORCID">0000-0002-1392-737X</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Frese</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Markus</forename><surname>Goldstein</surname></persName>
+			<idno type="ORCID">0000-0002-6971-7259</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Leonardo</forename><surname>Iacovone</surname></persName>
+			<idno type="ORCID">0000-0002-5659-2370</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Hillary</forename><forename type="middle">C</forename><surname>Johnson</surname></persName>
+			<idno type="ORCID">0000-0003-2044-2466</idno>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><surname>Mckenzie</surname></persName>
+			<idno type="ORCID">0000-0002-1885-2426</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Mona</forename><surname>Mensmann</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.aan5329</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_jrJTmNa">Science</title>
+		<title level="j" type="abbrev">Science</title>
+		<idno type="ISSN">0036-8075</idno>
+		<idno type="ISSNe">1095-9203</idno>
+		<imprint>
+			<biblScope unit="volume">357</biblScope>
+			<biblScope unit="issue">6357</biblScope>
+			<biblScope unit="page" from="1287" to="1290" />
+			<date type="published" when="2017-09-22">2017</date>
+			<publisher>American Association for the Advancement of Science (AAAS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b32">
+	<monogr>
+		<title level="m" type="main" xml:id="_TX8pHX7">Making Entrepreneurs: Returns to Training Youth in Hard Versus Soft Business Skills</title>
+		<author>
+			<persName><forename type="first">Laura</forename><surname>Chioda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><surname>Contreras-Loya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Gertler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dana</forename><surname>Carney</surname></persName>
+		</author>
+		<idno type="DOI">10.3386/w28845</idno>
+		<idno>no. 28845</idno>
+		<imprint>
+			<date type="published" when="2021-05">2021</date>
+			<publisher>National Bureau of Economic Research</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">Working Paper</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b33">
+	<analytic>
+		<title level="a" type="main" xml:id="_jpvU8XN">Sex Workers, Stigma, and Self-Image: Evidence from Kolkata Brothels</title>
+		<author>
+			<persName><forename type="first">Sayantan</forename><surname>Ghosal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Smarajit</forename><surname>Jana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anandi</forename><surname>Mani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sandip</forename><surname>Mitra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sanchari</forename><surname>Roy</surname></persName>
+		</author>
+		<idno type="DOI">10.1162/rest_a_01013</idno>
+		<ptr target="https://doi.org/10.1162/rest_a_01013" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_5vW3BeS">The Review of Economics and Statistics</title>
+		<idno type="ISSN">0034-6535</idno>
+		<idno type="ISSNe">1530-9142</idno>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="431" to="448" />
+			<date type="published" when="2020">2020</date>
+			<publisher>MIT Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b34">
+	<analytic>
+		<title level="a" type="main" xml:id="_q7kMyDy">Toward a science of delivering aid with dignity: experimental evidence and local forecasts from Kenya</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">G</forename><surname>Otis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Abraham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">R</forename><surname>Markus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Walton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_v5CurNv">Proc. Natl Acad. Sci. USA</title>
+		<imprint>
+			<biblScope unit="volume">117</biblScope>
+			<biblScope unit="page">15546</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b35">
+	<analytic>
+		<title level="a" type="main" xml:id="_xwXTQ9y">Friendship at work: can peer effects catalyze female entrepreneurship?</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Field</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Jayachandran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Pande</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Rigol</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_nHbHtBs">Am. Econ. J. Econ. Policy</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="125" to="153" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b36">
+	<analytic>
+		<title level="a" type="main" xml:id="_86RPQe7">Reducing crime and violence: experimental evidence from cognitive behavioral therapy in Liberia</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Blattman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Jamison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sheridan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_8w2U3ZQ">Am. Econ. Rev</title>
+		<imprint>
+			<biblScope unit="volume">107</biblScope>
+			<biblScope unit="page" from="1165" to="1206" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b37">
+	<analytic>
+		<title level="a" type="main" xml:id="_GMSFY5P">Cash-plus: poverty impacts of alternative transfer-based approaches</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sedlmayr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Shah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sulaiman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_EqrRkgn">J. Dev. Econ</title>
+		<imprint>
+			<biblScope unit="volume">144</biblScope>
+			<biblScope unit="page">102418</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b38">
+	<analytic>
+		<title level="a" type="main" xml:id="_bAAQQbR">Wise interventions: Psychological remedies for social and personal problems.</title>
+		<author>
+			<persName><forename type="first">Gregory</forename><forename type="middle">M</forename><surname>Walton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Timothy</forename><forename type="middle">D</forename><surname>Wilson</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/rev0000115</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_ersWjZM">Psychological Review</title>
+		<title level="j" type="abbrev">Psychological Review</title>
+		<idno type="ISSN">0033-295X</idno>
+		<idno type="ISSNe">1939-1471</idno>
+		<imprint>
+			<biblScope unit="volume">125</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="617" to="655" />
+			<date type="published" when="2018-10">2018</date>
+			<publisher>American Psychological Association (APA)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b39">
+	<analytic>
+		<title level="a" type="main" xml:id="_nWpN77a">The effects of cognitive and noncognitive abilities on labor market outcomes and social behavior</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Heckman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stixrud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Urzua</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/504455</idno>
+		<ptr target="https://doi.org/10.1086/504455" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_aZvX5cp">J. Labor Econ</title>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b40">
+	<analytic>
+		<title level="a" type="main" xml:id="_2nF42qm">Norm Perception as a Vehicle for Social Change</title>
+		<author>
+			<persName><forename type="first">Margaret</forename><forename type="middle">E</forename><surname>Tankard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Elizabeth</forename><forename type="middle">Levy</forename><surname>Paluck</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/sipr.12022</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_hXBHYES">Social Issues and Policy Review</title>
+		<title level="j" type="abbrev">Social Issues Policy Review</title>
+		<idno type="ISSN">1751-2395</idno>
+		<idno type="ISSNe">1751-2409</idno>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="181" to="211" />
+			<date type="published" when="2016-01">2016</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b41">
+	<analytic>
+		<title level="a" type="main" xml:id="_SrS468d">Understanding Culture Clashes and Catalyzing Change: A Culture Cycle Approach</title>
+		<author>
+			<persName><forename type="first">Mar</forename><forename type="middle">Yam G</forename><surname>Hamedani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hazel</forename><forename type="middle">Rose</forename><surname>Markus</surname></persName>
+		</author>
+		<idno type="DOI">10.3389/fpsyg.2019.00700</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_tTjegX5">Frontiers in Psychology</title>
+		<title level="j" type="abbrev">Front. Psychol.</title>
+		<idno type="ISSNe">1664-1078</idno>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">700</biblScope>
+			<date type="published" when="2019-04-11">2019</date>
+			<publisher>Frontiers Media SA</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b42">
+	<analytic>
+		<title level="a" type="main" xml:id="_vqVSfbk">Experimentation at scale</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Muralidharan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Niehaus</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_XfCSaH6">J. Econ. Perspect</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="103" to="124" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b43">
+	<analytic>
+		<title level="a" type="main" xml:id="_fVfB2j7">Experimental evidence on scaling up education reforms in Kenya</title>
+		<author>
+			<persName><forename type="first">Tessa</forename><surname>Bold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mwangi</forename><surname>Kimenyi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Germano</forename><surname>Mwabu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alice</forename><surname>Ng’ang’a</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Justin</forename><surname>Sandefur</surname></persName>
+			<idno type="ORCID">0000-0002-2233-834X</idno>
+		</author>
+		<idno type="DOI">10.1016/j.jpubeco.2018.08.007</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_XECcyQw">Journal of Public Economics</title>
+		<title level="j" type="abbrev">Journal of Public Economics</title>
+		<idno type="ISSN">0047-2727</idno>
+		<imprint>
+			<biblScope unit="volume">168</biblScope>
+			<biblScope unit="page" from="1" to="20" />
+			<date type="published" when="2018-12">2018</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b44">
+	<analytic>
+		<title level="a" type="main" xml:id="_Jdg9CAS">When the money runs out: Do cash transfers have sustained effects on human capital accumulation?</title>
+		<author>
+			<persName><forename type="first">Sarah</forename><surname>Baird</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Craig</forename><surname>Mcintosh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Berk</forename><surname>Özler</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jdeveco.2019.04.004</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_8VWu8ga">Journal of Development Economics</title>
+		<title level="j" type="abbrev">Journal of Development Economics</title>
+		<idno type="ISSN">0304-3878</idno>
+		<imprint>
+			<biblScope unit="volume">140</biblScope>
+			<biblScope unit="page" from="169" to="185" />
+			<date type="published" when="2019-09">2019</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b45">
+	<analytic>
+		<title level="a" type="main" xml:id="_Jx8FYG3">Unconditional Cash-Based Assistance to the Poor: What Do At-Scale Programs Achieve?</title>
+		<author>
+			<persName><forename type="first">Onur</forename><surname>Altindag</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stephen</forename><forename type="middle">D</forename><surname>O'connell</surname></persName>
+		</author>
+		<idno type="DOI">10.2139/ssrn.3719946</idno>
+		<ptr target="https://doi.org/10.2139/ssrn.3719946" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Q7z4AfR">SSRN Electronic Journal</title>
+		<title level="j" type="abbrev">SSRN Journal</title>
+		<idno type="ISSNe">1556-5068</idno>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b46">
+	<analytic>
+		<title level="a" type="main" xml:id="_wAf3AHJ">The Long-Term Impacts of Grants on Poverty: Nine-Year Evidence from Uganda’s Youth Opportunities Program</title>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Blattman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nathan</forename><surname>Fiala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sebastian</forename><surname>Martinez</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/aeri.20190224</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_7pkAds5">American Economic Review: Insights</title>
+		<title level="j" type="abbrev">American Economic Review: Insights</title>
+		<idno type="ISSN">2640-205X</idno>
+		<idno type="ISSNe">2640-2068</idno>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="287" to="304" />
+			<date type="published" when="2020-09-01">2020</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b47">
+	<analytic>
+		<title level="a" type="main" xml:id="_BmKTefD">How brief social-psychological interventions can cause enduring effects</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kenthirarajah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Gregory</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/9781118900772.etrds0026</idno>
+		<ptr target="https://doi.org/10.1002/9781118900772.etrds0026" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_XDruSzv">Emerg. Trends Soc. Behav. Sci</title>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b48">
+	<monogr>
+		<title level="m" type="main" xml:id="_Mvm2che">General Equilibrium Effects of Cash Transfers: Experimental Evidence from Kenya</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Egger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Haushofer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Miguel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Niehaus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Walker</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<publisher>NBER</publisher>
+			<biblScope unit="page">26600</biblScope>
+		</imprint>
+	</monogr>
+	<note type="report_type">Working Paper</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b49">
+	<monogr>
+		<title level="m" xml:id="_GQqnukZ">Republic of Niger Priorities for Ending Poverty and Boosting Shared Prosperity: Systematic Country Diagnostic</title>
+		<imprint>
+			<publisher>World Bank</publisher>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b50">
+	<analytic>
+		<title level="a" type="main" xml:id="_MCmURz2">An Assessment of Employment in Niger</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Bossuroy</surname></persName>
+		</author>
+		<idno type="DOI">10.1596/36616</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_65JPpSn">An Assessment of Employment in Niger</title>
+		<imprint>
+			<publisher>World Bank, Washington, DC</publisher>
+			<date type="published" when="2017-06">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b51">
+	<monogr>
+		<author>
+			<persName><forename type="first">T</forename><surname>Bossuroy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Koussobe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Premand</surname></persName>
+		</author>
+		<title level="m" xml:id="_PkzBJUz">Constraints to Productive Employment Faced by Safety Nets Beneficiaries in the Sahel: Results of a Multi-Country Qualitative Assessment</title>
+		<imprint>
+			<publisher>World Bank</publisher>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b52">
+	<analytic>
+		<title level="a" type="main" xml:id="_DvTPqwG">Efficiency, legitimacy, and impacts of targeting methods: evidence from an experiment in Niger</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Premand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Schnitzer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_uBRDAUZ">World Bank Econ. Rev</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="892" to="920" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b53">
+	<monogr>
+		<title level="m" type="main" xml:id="_ZNVWnGP">Do Cash Transfers Foster Resilience? Evidence from Rural Niger</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Premand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Stoeffler</surname></persName>
+		</author>
+		<idno>no. 9473</idno>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<publisher>World Bank</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">Policy Research Working Paper</note>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b54">
+	<analytic>
+		<title level="a" type="main" xml:id="_TSnNGCF">Poor Households&apos; Productive Investments of Cash Transfers: Quasi-Experimental Evidence from Niger</title>
+		<author>
+			<persName><forename type="first">Quentin</forename><surname>Stoeffler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bradford</forename><surname>Mills</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Patrick</forename><surname>Premand</surname></persName>
+		</author>
+		<idno type="DOI">10.1596/1813-9450-7839</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_hqSscVt">J. Afr. Econ</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="63" to="89" />
+			<date type="published" when="2020">2020</date>
+			<publisher>World Bank, Washington, DC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b55">
+	<monogr>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Ballard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Kepple</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Cafiero</surname></persName>
+		</author>
+		<title level="m" xml:id="_kR5xkTX">The Food Insecurity Experience Scale: Development of a Global Standard for Monitoring Hunger Worldwide</title>
+		<imprint>
+			<publisher>FAO</publisher>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b56">
+	<analytic>
+		<title level="a" type="main" xml:id="_NPAzWeH">Methods for estimating comparable prevalence rates of food insecurity experienced by adults in 147 countries and areas</title>
+		<author>
+			<persName><forename type="first">Mark</forename><surname>Nord</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Carlo</forename><surname>Cafiero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sara</forename><surname>Viviani</surname></persName>
+		</author>
+		<idno type="DOI">10.1088/1742-6596/772/1/012060</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_EheeV2P">Journal of Physics: Conference Series</title>
+		<title level="j" type="abbrev">J. Phys.: Conf. Ser.</title>
+		<idno type="ISSN">1742-6588</idno>
+		<idno type="ISSNe">1742-6596</idno>
+		<imprint>
+			<biblScope unit="volume">772</biblScope>
+			<biblScope unit="page">012060</biblScope>
+			<date type="published" when="2016-11">2016</date>
+			<publisher>IOP Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated"  xml:id="b57">
+	<analytic>
+		<title level="a" type="main" xml:id="_rFuX9zA">National food security assessment through the analysis of food consumption data from Household Consumption and Expenditure Surveys: The case of Brazil’s Pesquisa de Orçamento Familiares 2008/09</title>
+		<author>
+			<persName><forename type="first">Andrea</forename><surname>Borlizzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mauro</forename><forename type="middle">Eduardo</forename><surname>Delgrossi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Carlo</forename><surname>Cafiero</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.foodpol.2017.08.009</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_ffqVmBm">Food Policy</title>
+		<title level="j" type="abbrev">Food Policy</title>
+		<idno type="ISSN">0306-9192</idno>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="page" from="20" to="26" />
+			<date type="published" when="2008">2008</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">Technical Guidance Sheet</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b58">
+	<analytic>
+		<title level="a" type="main" xml:id="_3YXbHRu">A systematic review and meta-analysis of the impact of cash transfers on subjective well-being and mental health in low-and middle-income countries</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mcguire</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Kaiser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Bach-Mortensen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_bwuHxTd">Nat. Hum. Behav</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="359" to="370" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
