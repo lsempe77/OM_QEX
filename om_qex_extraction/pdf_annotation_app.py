@@ -62,18 +62,45 @@ def load_pdf_base64(pdf_path: Path) -> str:
 
 
 def display_pdf(pdf_path: Path):
-    """Display PDF using iframe."""
-    pdf_base64 = load_pdf_base64(pdf_path)
-    pdf_display = f'''
-        <iframe 
-            src="data:application/pdf;base64,{pdf_base64}" 
-            width="100%" 
-            height="800" 
-            type="application/pdf"
-            style="border: 1px solid #ccc;">
-        </iframe>
-    '''
-    st.markdown(pdf_display, unsafe_allow_html=True)
+    """Display PDF with fallback options for browsers that block iframes."""
+    try:
+        # Offer download button first
+        with open(pdf_path, 'rb') as f:
+            pdf_bytes = f.read()
+        
+        col1, col2 = st.columns([3, 1])
+        with col1:
+            st.markdown("**PDF Viewer**")
+        with col2:
+            st.download_button(
+                label="📥 Download PDF",
+                data=pdf_bytes,
+                file_name=pdf_path.name,
+                mime="application/pdf",
+                use_container_width=True
+            )
+        
+        # Try iframe display
+        pdf_base64 = base64.b64encode(pdf_bytes).decode('utf-8')
+        
+        # Add a notice about browser compatibility
+        st.info("💡 **PDF not displaying?** Use the download button above to view in your PDF reader, or try a different browser (Chrome/Edge work best).")
+        
+        pdf_display = f'''
+            <iframe 
+                src="data:application/pdf;base64,{pdf_base64}" 
+                width="100%" 
+                height="800" 
+                type="application/pdf"
+                style="border: 1px solid #ccc;">
+                <p>Your browser does not support embedded PDFs. Please use the download button above.</p>
+            </iframe>
+        '''
+        st.markdown(pdf_display, unsafe_allow_html=True)
+        
+    except Exception as e:
+        st.error(f"Error loading PDF: {e}")
+        st.info("Please use the download button to view the PDF separately.")
 
 
 def load_extraction(key: str) -> Optional[Dict]:
@@ -222,15 +249,29 @@ def main():
         st.subheader(f"📄 PDF: {paper_info['name']}")
         
         if not pdf_path.exists():
-            st.error(f"PDF not found: {pdf_path}")
-            st.info(f"Looking for: {pdf_path.absolute()}")
-            st.info(f"PDFS_DIR: {PDFS_DIR.absolute()}")
-            st.info(f"PDFS_DIR exists: {PDFS_DIR.exists()}")
-            if PDFS_DIR.exists():
-                available_pdfs = list(PDFS_DIR.glob("*.pdf"))
-                st.info(f"Available PDFs: {len(available_pdfs)}")
-                if available_pdfs:
-                    st.write("First 5 PDFs:", [p.name for p in available_pdfs[:5]])
+            st.warning(f"⚠️ PDF not found in repository")
+            st.info(f"**Expected location:** `{pdf_path.name}`")
+            
+            # Provide helpful info for deployment
+            st.markdown("""
+            **For validation without embedded PDFs:**
+            1. You can still review the extracted outcomes below
+            2. The human outcomes show expected table/page locations
+            3. Cross-reference with the paper if you have access to it
+            
+            **Note:** PDFs may not be available in the deployed version to reduce repository size.
+            """)
+            
+            # Debug info (collapsible)
+            with st.expander("🔍 Debug Info"):
+                st.code(f"Looking for: {pdf_path.absolute()}")
+                st.code(f"PDFS_DIR: {PDFS_DIR.absolute()}")
+                st.write(f"PDFS_DIR exists: {PDFS_DIR.exists()}")
+                if PDFS_DIR.exists():
+                    available_pdfs = list(PDFS_DIR.glob("*.pdf"))
+                    st.write(f"Available PDFs: {len(available_pdfs)}")
+                    if available_pdfs:
+                        st.write("First 5 PDFs:", [p.name for p in available_pdfs[:5]])
         else:
             display_pdf(pdf_path)
     
