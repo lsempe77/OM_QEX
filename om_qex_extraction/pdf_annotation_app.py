@@ -19,6 +19,14 @@ from pathlib import Path
 import base64
 from typing import Dict, List, Optional
 
+# PDF viewer
+try:
+    from streamlit_pdf_viewer import pdf_viewer
+    PDF_VIEWER_AVAILABLE = True
+except ImportError:
+    PDF_VIEWER_AVAILABLE = False
+    st.sidebar.warning("streamlit-pdf-viewer not installed. Using fallback display.")
+
 # Page config
 st.set_page_config(
     page_title="Outcome Mapping Validation",
@@ -87,7 +95,7 @@ def load_pdf_base64(pdf_path: Path) -> str:
 
 
 def display_pdf(pdf_path: Path):
-    """Display PDF with fallback options for browsers that block iframes."""
+    """Display PDF with streamlit-pdf-viewer or fallback options."""
     try:
         # Offer download button first
         with open(pdf_path, 'rb') as f:
@@ -105,23 +113,27 @@ def display_pdf(pdf_path: Path):
                 use_container_width=True
             )
         
-        # Try iframe display
-        pdf_base64 = base64.b64encode(pdf_bytes).decode('utf-8')
-        
-        # Add a notice about browser compatibility
-        st.info("💡 **PDF not displaying?** Use the download button above to view in your PDF reader, or try a different browser (Chrome/Edge work best).")
-        
-        pdf_display = f'''
-            <iframe 
-                src="data:application/pdf;base64,{pdf_base64}" 
-                width="100%" 
-                height="800" 
-                type="application/pdf"
-                style="border: 1px solid #ccc;">
-                <p>Your browser does not support embedded PDFs. Please use the download button above.</p>
-            </iframe>
-        '''
-        st.markdown(pdf_display, unsafe_allow_html=True)
+        # Use streamlit-pdf-viewer if available (better compatibility)
+        if PDF_VIEWER_AVAILABLE:
+            pdf_viewer(pdf_bytes, height=800)
+        else:
+            # Fallback to iframe display
+            pdf_base64 = base64.b64encode(pdf_bytes).decode('utf-8')
+            
+            # Add a notice about browser compatibility
+            st.info("💡 **PDF not displaying?** Use the download button above to view in your PDF reader, or try a different browser (Chrome/Edge work best).")
+            
+            pdf_display = f'''
+                <iframe 
+                    src="data:application/pdf;base64,{pdf_base64}" 
+                    width="100%" 
+                    height="800" 
+                    type="application/pdf"
+                    style="border: 1px solid #ccc;">
+                    <p>Your browser does not support embedded PDFs. Please use the download button above.</p>
+                </iframe>
+            '''
+            st.markdown(pdf_display, unsafe_allow_html=True)
         
     except Exception as e:
         st.error(f"Error loading PDF: {e}")
