@@ -13,7 +13,11 @@
       "text_position": "Table 7, Row 'Program', Column 'Farm work'",
       "_key": "DXHZBI2X",
       "_table_number": 3,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": -6.193,
+      "_parsed_effect": true,
+      "standard_error": 3.713,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Work/Employment",
@@ -23,7 +27,11 @@
       "text_position": "Table 7, Row 'Program', Column 'Total labor days'",
       "_key": "DXHZBI2X",
       "_table_number": 3,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 4.342,
+      "_parsed_effect": true,
+      "standard_error": 2.054,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Work/Employment",
@@ -33,7 +41,11 @@
       "text_position": "Table 7, Row 'Program', Column 'Skilled labor'",
       "_key": "DXHZBI2X",
       "_table_number": 3,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": -10.535,
+      "_parsed_effect": true,
+      "standard_error": 3.17,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Work/Employment",

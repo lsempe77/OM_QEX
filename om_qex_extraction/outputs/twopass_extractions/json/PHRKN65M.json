@@ -13,7 +13,11 @@
       "text_position": "Table 21, Row 'Project', Column '(1) Amount savings (MWK)'",
       "_key": "PHRKN65M",
       "_table_number": 5,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 9079.0,
+      "_parsed_effect": true,
+      "standard_error": 1864.0,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Financial Inclusion",
@@ -23,7 +27,11 @@
       "text_position": "Table 21, Row 'Active proxy', Column '(2) Amount savings (MWK)'",
       "_key": "PHRKN65M",
       "_table_number": 5,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 10445.0,
+      "_parsed_effect": true,
+      "standard_error": 1939.0,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Financial Inclusion",
@@ -33,7 +41,11 @@
       "text_position": "Table 21, Row 'Non-active/no proxy', Column '(2) Amount savings (MWK)'",
       "_key": "PHRKN65M",
       "_table_number": 5,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 5378.0,
+      "_parsed_effect": true,
+      "standard_error": 1930.0,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Financial Inclusion",
@@ -43,7 +55,11 @@
       "text_position": "Table 21, Row 'Project', Column '(3) Amount loans (MWK)'",
       "_key": "PHRKN65M",
       "_table_number": 5,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 3800.0,
+      "_parsed_effect": true,
+      "standard_error": 1119.0,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Financial Inclusion",
@@ -53,7 +69,11 @@
       "text_position": "Table 21, Row 'Active proxy', Column '(4) Amount loans (MWK)'",
       "_key": "PHRKN65M",
       "_table_number": 5,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 4270.0,
+      "_parsed_effect": true,
+      "standard_error": 1249.0,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Financial Inclusion",
@@ -63,7 +83,11 @@
       "text_position": "Table 21, Row 'Non-active/no proxy', Column '(4) Amount loans (MWK)'",
       "_key": "PHRKN65M",
       "_table_number": 5,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 2523.0,
+      "_parsed_effect": true,
+      "standard_error": 1101.0,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Work/Employment",
@@ -73,7 +97,11 @@
       "text_position": "Table 21, Row 'Project', Column '(5) Start non-farm business (yes/no)'",
       "_key": "PHRKN65M",
       "_table_number": 5,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 0.162,
+      "_parsed_effect": true,
+      "standard_error": 0.049,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Work/Employment",
@@ -83,7 +111,11 @@
       "text_position": "Table 21, Row 'Active proxy', Column '(6) Start non-farm business (yes/no)'",
       "_key": "PHRKN65M",
       "_table_number": 5,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 0.165,
+      "_parsed_effect": true,
+      "standard_error": 0.05,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Work/Employment",
@@ -93,7 +125,11 @@
       "text_position": "Table 21, Row 'Non-active/no proxy', Column '(6) Start non-farm business (yes/no)'",
       "_key": "PHRKN65M",
       "_table_number": 5,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 0.15,
+      "_parsed_effect": true,
+      "standard_error": 0.048,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Work/Employment",
@@ -103,7 +139,11 @@
       "text_position": "Table 21, Row 'Project', Column '(7) Paid work (yes/no)'",
       "_key": "PHRKN65M",
       "_table_number": 5,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 0.08,
+      "_parsed_effect": true,
+      "standard_error": 0.026,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Work/Employment",
@@ -113,7 +153,11 @@
       "text_position": "Table 21, Row 'Active proxy', Column '(8) Paid work (yes/no)'",
       "_key": "PHRKN65M",
       "_table_number": 5,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 0.086,
+      "_parsed_effect": true,
+      "standard_error": 0.03,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Work/Employment",
@@ -123,7 +167,11 @@
       "text_position": "Table 21, Row 'Non-active/no proxy', Column '(8) Paid work (yes/no)'",
       "_key": "PHRKN65M",
       "_table_number": 5,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 0.054,
+      "_parsed_effect": true,
+      "standard_error": 0.057,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Financial Inclusion",
@@ -133,7 +181,11 @@
       "text_position": "Table 22, Row 'Active proxy', Column '(1) Financial literacy index'",
       "_key": "PHRKN65M",
       "_table_number": 1,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 0.687,
+      "_parsed_effect": true,
+      "standard_error": 0.208,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Financial Inclusion",
@@ -143,7 +195,11 @@
       "text_position": "Table 22, Row 'Non-active/no proxy', Column '(1) Financial literacy index'",
       "_key": "PHRKN65M",
       "_table_number": 1,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 0.442,
+      "_parsed_effect": true,
+      "standard_error": 0.24,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Financial Inclusion",
@@ -153,7 +209,11 @@
       "text_position": "Table 22, Row 'Active proxy', Column '(2) Saving uptake (yes/no)'",
       "_key": "PHRKN65M",
       "_table_number": 1,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 0.224,
+      "_parsed_effect": true,
+      "standard_error": 0.0746,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Financial Inclusion",
@@ -163,7 +223,11 @@
       "text_position": "Table 22, Row 'Non-active/no proxy', Column '(2) Saving uptake (yes/no)'",
       "_key": "PHRKN65M",
       "_table_number": 1,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 0.295,
+      "_parsed_effect": true,
+      "standard_error": 0.152,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Financial Inclusion",
@@ -173,7 +237,11 @@
       "text_position": "Table 22, Row 'Active proxy', Column '(3) Amount savings'",
       "_key": "PHRKN65M",
       "_table_number": 1,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 4257.0,
+      "_parsed_effect": true,
+      "standard_error": 1377.0,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Financial Inclusion",
@@ -183,7 +251,11 @@
       "text_position": "Table 22, Row 'Non-active/no proxy', Column '(3) Amount savings'",
       "_key": "PHRKN65M",
       "_table_number": 1,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 4261.0,
+      "_parsed_effect": true,
+      "standard_error": 2005.0,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Financial Inclusion",
@@ -193,7 +265,11 @@
       "text_position": "Table 22, Row 'Active proxy', Column '(4) Amount loans'",
       "_key": "PHRKN65M",
       "_table_number": 1,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 1838.0,
+      "_parsed_effect": true,
+      "standard_error": 1064.0,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Financial Inclusion",
@@ -203,7 +279,11 @@
       "text_position": "Table 22, Row 'Non-active/no proxy', Column '(4) Amount loans'",
       "_key": "PHRKN65M",
       "_table_number": 1,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 2596.0,
+      "_parsed_effect": true,
+      "standard_error": 1415.0,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Work/Employment",
@@ -213,7 +293,11 @@
       "text_position": "Table 22, Row 'Active proxy', Column '(5) Start non-farm business'",
       "_key": "PHRKN65M",
       "_table_number": 1,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 0.0141,
+      "_parsed_effect": true,
+      "standard_error": 0.0173,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Work/Employment",
@@ -223,7 +307,11 @@
       "text_position": "Table 22, Row 'Non-active/no proxy', Column '(5) Start non-farm business'",
       "_key": "PHRKN65M",
       "_table_number": 1,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 0.172,
+      "_parsed_effect": true,
+      "standard_error": 0.0579,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Work/Employment",
@@ -233,7 +321,11 @@
       "text_position": "Table 22, Row 'Active proxy', Column '(6) Paid work'",
       "_key": "PHRKN65M",
       "_table_number": 1,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": -0.135,
+      "_parsed_effect": true,
+      "standard_error": 0.0533,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Work/Employment",
@@ -243,7 +335,11 @@
       "text_position": "Table 22, Row 'Non-active/no proxy', Column '(6) Paid work'",
       "_key": "PHRKN65M",
       "_table_number": 1,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 0.0353,
+      "_parsed_effect": true,
+      "standard_error": 0.0649,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Assets",
@@ -253,7 +349,11 @@
       "text_position": "Table 22, Row 'Active proxy', Column '(7) P.c. wealth livestock'",
       "_key": "PHRKN65M",
       "_table_number": 1,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 9187.0,
+      "_parsed_effect": true,
+      "standard_error": 3337.0,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Assets",
@@ -263,7 +363,11 @@
       "text_position": "Table 22, Row 'Non-active/no proxy', Column '(7) P.c. wealth livestock'",
       "_key": "PHRKN65M",
       "_table_number": 1,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 542.2,
+      "_parsed_effect": true,
+      "standard_error": 1325.0,
+      "_parsed_se": true
     }
   ]
 }

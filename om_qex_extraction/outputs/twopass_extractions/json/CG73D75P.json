@@ -13,7 +13,11 @@
       "text_position": "Table 10, Row 'T1: Grp LH / Grp C', Column '(1)'",
       "_key": "CG73D75P",
       "_table_number": 10,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 311.0,
+      "_parsed_effect": true,
+      "standard_error": 119.0,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Expenditure/Consumption",
@@ -23,7 +27,11 @@
       "text_position": "Table 10, Row 'T2: Ind LH / Grp C', Column '(1)'",
       "_key": "CG73D75P",
       "_table_number": 10,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 342.0,
+      "_parsed_effect": true,
+      "standard_error": 96.0,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Expenditure/Consumption",
@@ -33,7 +41,11 @@
       "text_position": "Table 10, Row 'T3: Ind LH / Ind C', Column '(1)'",
       "_key": "CG73D75P",
       "_table_number": 10,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 334.0,
+      "_parsed_effect": true,
+      "standard_error": 114.0,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Food Security",
@@ -43,7 +55,11 @@
       "text_position": "Table 10, Row 'T1: Grp LH / Grp C', Column '(2)'",
       "_key": "CG73D75P",
       "_table_number": 10,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 0.2,
+      "_parsed_effect": true,
+      "standard_error": 0.05,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Food Security",
@@ -53,7 +69,11 @@
       "text_position": "Table 10, Row 'T2: Ind LH / Grp C', Column '(2)'",
       "_key": "CG73D75P",
       "_table_number": 10,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 0.26,
+      "_parsed_effect": true,
+      "standard_error": 0.05,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Food Security",
@@ -63,7 +83,11 @@
       "text_position": "Table 10, Row 'T3: Ind LH / Ind C', Column '(2)'",
       "_key": "CG73D75P",
       "_table_number": 10,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 0.28,
+      "_parsed_effect": true,
+      "standard_error": 0.05,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Assets",
@@ -73,7 +97,11 @@
       "text_position": "Table 10, Row 'T1: Grp LH / Grp C', Column '(3)'",
       "_key": "CG73D75P",
       "_table_number": 10,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 1954.0,
+      "_parsed_effect": true,
+      "standard_error": 1054.0,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Assets",
@@ -83,7 +111,11 @@
       "text_position": "Table 10, Row 'T2: Ind LH / Grp C', Column '(3)'",
       "_key": "CG73D75P",
       "_table_number": 10,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 4200.0,
+      "_parsed_effect": true,
+      "standard_error": 1296.0,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Assets",
@@ -93,7 +125,11 @@
       "text_position": "Table 10, Row 'T3: Ind LH / Ind C', Column '(3)'",
       "_key": "CG73D75P",
       "_table_number": 10,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 4484.0,
+      "_parsed_effect": true,
+      "standard_error": 1044.0,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Income",
@@ -103,7 +139,11 @@
       "text_position": "Table 10, Row 'T1: Grp LH / Grp C', Column '(4)'",
       "_key": "CG73D75P",
       "_table_number": 10,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 4.0,
+      "_parsed_effect": true,
+      "standard_error": 2072.0,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Income",
@@ -113,7 +153,11 @@
       "text_position": "Table 10, Row 'T2: Ind LH / Grp C', Column '(4)'",
       "_key": "CG73D75P",
       "_table_number": 10,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 1143.0,
+      "_parsed_effect": true,
+      "standard_error": 2005.0,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Income",
@@ -123,7 +167,11 @@
       "text_position": "Table 10, Row 'T3: Ind LH / Ind C', Column '(4)'",
       "_key": "CG73D75P",
       "_table_number": 10,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 2893.0,
+      "_parsed_effect": true,
+      "standard_error": 2785.0,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Other",
@@ -133,7 +181,11 @@
       "text_position": "Table 10, Row 'T1: Grp LH / Grp C', Column '(5)'",
       "_key": "CG73D75P",
       "_table_number": 10,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 0.05,
+      "_parsed_effect": true,
+      "standard_error": 0.05,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Other",
@@ -143,7 +195,11 @@
       "text_position": "Table 10, Row 'T2: Ind LH / Grp C', Column '(5)'",
       "_key": "CG73D75P",
       "_table_number": 10,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 0.13,
+      "_parsed_effect": true,
+      "standard_error": 0.04,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Other",
@@ -153,7 +209,11 @@
       "text_position": "Table 10, Row 'T3: Ind LH / Ind C', Column '(5)'",
       "_key": "CG73D75P",
       "_table_number": 10,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 0.08,
+      "_parsed_effect": true,
+      "standard_error": 0.04,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Expenditure/Consumption",
@@ -203,7 +263,11 @@
       "text_position": "Table 12, Row 'T1: Grp LH / Grp C', Column '(1) Food security index'",
       "_key": "CG73D75P",
       "_table_number": 12,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 0.2,
+      "_parsed_effect": true,
+      "standard_error": 0.05,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Food Security",
@@ -213,7 +277,11 @@
       "text_position": "Table 12, Row 'T2: Ind LH / Grp C', Column '(1) Food security index'",
       "_key": "CG73D75P",
       "_table_number": 12,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 0.25,
+      "_parsed_effect": true,
+      "standard_error": 0.05,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Food Security",
@@ -223,7 +291,11 @@
       "text_position": "Table 12, Row 'T3: Ind LH / Ind C', Column '(1) Food security index'",
       "_key": "CG73D75P",
       "_table_number": 12,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 0.28,
+      "_parsed_effect": true,
+      "standard_error": 0.05,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Expenditure/Consumption",
@@ -233,7 +305,11 @@
       "text_position": "Table 12, Row 'T1: Grp LH / Grp C', Column '(2) Food Consumption Score'",
       "_key": "CG73D75P",
       "_table_number": 12,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 3.74,
+      "_parsed_effect": true,
+      "standard_error": 1.03,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Expenditure/Consumption",
@@ -243,7 +319,11 @@
       "text_position": "Table 12, Row 'T2: Ind LH / Grp C', Column '(2) Food Consumption Score'",
       "_key": "CG73D75P",
       "_table_number": 12,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 5.13,
+      "_parsed_effect": true,
+      "standard_error": 1.04,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Expenditure/Consumption",
@@ -253,7 +333,11 @@
       "text_position": "Table 12, Row 'T3: Ind LH / Ind C', Column '(2) Food Consumption Score'",
       "_key": "CG73D75P",
       "_table_number": 12,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 5.51,
+      "_parsed_effect": true,
+      "standard_error": 0.99,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Food Security",
@@ -263,7 +347,11 @@
       "text_position": "Table 12, Row 'T1: Grp LH / Grp C', Column '(3) Reversed HFIAS Score'",
       "_key": "CG73D75P",
       "_table_number": 12,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 0.85,
+      "_parsed_effect": true,
+      "standard_error": 0.29,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Food Security",
@@ -273,7 +361,11 @@
       "text_position": "Table 12, Row 'T2: Ind LH / Grp C', Column '(3) Reversed HFIAS Score'",
       "_key": "CG73D75P",
       "_table_number": 12,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 1.05,
+      "_parsed_effect": true,
+      "standard_error": 0.25,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Food Security",
@@ -283,7 +375,11 @@
       "text_position": "Table 12, Row 'T3: Ind LH / Ind C', Column '(3) Reversed HFIAS Score'",
       "_key": "CG73D75P",
       "_table_number": 12,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 0.83,
+      "_parsed_effect": true,
+      "standard_error": 0.26,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Food Security",
@@ -293,7 +389,11 @@
       "text_position": "Table 12, Row 'T1: Grp LH / Grp C', Column '(4) Rice and meat consumption index'",
       "_key": "CG73D75P",
       "_table_number": 12,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 0.03,
+      "_parsed_effect": true,
+      "standard_error": 0.04,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Food Security",
@@ -303,7 +403,11 @@
       "text_position": "Table 12, Row 'T2: Ind LH / Grp C', Column '(4) Rice and meat consumption index'",
       "_key": "CG73D75P",
       "_table_number": 12,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 0.02,
+      "_parsed_effect": true,
+      "standard_error": 0.04,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Food Security",
@@ -313,7 +417,11 @@
       "text_position": "Table 12, Row 'T3: Ind LH / Ind C', Column '(4) Rice and meat consumption index'",
       "_key": "CG73D75P",
       "_table_number": 12,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 0.08,
+      "_parsed_effect": true,
+      "standard_error": 0.04,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Assets",
@@ -323,7 +431,11 @@
       "text_position": "Table 13, Row 'T1: Grp LH / Grp C', Column '(1)'",
       "_key": "CG73D75P",
       "_table_number": 13,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 1954.0,
+      "_parsed_effect": true,
+      "standard_error": 1054.0,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Assets",
@@ -333,7 +445,11 @@
       "text_position": "Table 13, Row 'T2: Ind LH / Grp C', Column '(1)'",
       "_key": "CG73D75P",
       "_table_number": 13,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 4200.0,
+      "_parsed_effect": true,
+      "standard_error": 1296.0,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Assets",
@@ -343,7 +459,11 @@
       "text_position": "Table 13, Row 'T3: Ind LH / Ind C', Column '(1)'",
       "_key": "CG73D75P",
       "_table_number": 13,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 4484.0,
+      "_parsed_effect": true,
+      "standard_error": 1044.0,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Assets",
@@ -353,7 +473,11 @@
       "text_position": "Table 13, Row 'T1: Grp LH / Grp C', Column '(2)'",
       "_key": "CG73D75P",
       "_table_number": 13,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 868.0,
+      "_parsed_effect": true,
+      "standard_error": 946.0,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Assets",
@@ -363,7 +487,11 @@
       "text_position": "Table 13, Row 'T2: Ind LH / Grp C', Column '(2)'",
       "_key": "CG73D75P",
       "_table_number": 13,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 3060.0,
+      "_parsed_effect": true,
+      "standard_error": 1218.0,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Assets",
@@ -373,7 +501,11 @@
       "text_position": "Table 13, Row 'T3: Ind LH / Ind C', Column '(2)'",
       "_key": "CG73D75P",
       "_table_number": 13,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 2497.0,
+      "_parsed_effect": true,
+      "standard_error": 993.0,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Assets",
@@ -383,7 +515,11 @@
       "text_position": "Table 13, Row 'T1: Grp LH / Grp C', Column '(3)'",
       "_key": "CG73D75P",
       "_table_number": 13,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 133.0,
+      "_parsed_effect": true,
+      "standard_error": 117.0,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Assets",
@@ -393,7 +529,11 @@
       "text_position": "Table 13, Row 'T2: Ind LH / Grp C', Column '(3)'",
       "_key": "CG73D75P",
       "_table_number": 13,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 289.0,
+      "_parsed_effect": true,
+      "standard_error": 126.0,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Assets",
@@ -403,7 +543,11 @@
       "text_position": "Table 13, Row 'T3: Ind LH / Ind C', Column '(3)'",
       "_key": "CG73D75P",
       "_table_number": 13,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 402.0,
+      "_parsed_effect": true,
+      "standard_error": 131.0,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Assets",
@@ -413,7 +557,11 @@
       "text_position": "Table 13, Row 'T1: Grp LH / Grp C', Column '(4)'",
       "_key": "CG73D75P",
       "_table_number": 13,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 881.0,
+      "_parsed_effect": true,
+      "standard_error": 315.0,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Assets",
@@ -423,7 +571,11 @@
       "text_position": "Table 13, Row 'T2: Ind LH / Grp C', Column '(4)'",
       "_key": "CG73D75P",
       "_table_number": 13,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 597.0,
+      "_parsed_effect": true,
+      "standard_error": 327.0,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Assets",
@@ -433,7 +585,11 @@
       "text_position": "Table 13, Row 'T3: Ind LH / Ind C', Column '(4)'",
       "_key": "CG73D75P",
       "_table_number": 13,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 1258.0,
+      "_parsed_effect": true,
+      "standard_error": 334.0,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Assets",
@@ -443,7 +599,11 @@
       "text_position": "Table 13, Row 'T1: Grp LH / Grp C', Column '(5)'",
       "_key": "CG73D75P",
       "_table_number": 13,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 72.0,
+      "_parsed_effect": true,
+      "standard_error": 84.0,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Assets",
@@ -453,7 +613,11 @@
       "text_position": "Table 13, Row 'T2: Ind LH / Grp C', Column '(5)'",
       "_key": "CG73D75P",
       "_table_number": 13,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 254.0,
+      "_parsed_effect": true,
+      "standard_error": 94.0,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Assets",
@@ -463,7 +627,11 @@
       "text_position": "Table 13, Row 'T3: Ind LH / Ind C', Column '(5)'",
       "_key": "CG73D75P",
       "_table_number": 13,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 327.0,
+      "_parsed_effect": true,
+      "standard_error": 101.0,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Income",
@@ -473,7 +641,11 @@
       "text_position": "Table 14, Column (1)",
       "_key": "CG73D75P",
       "_table_number": 14,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 4.0,
+      "_parsed_effect": true,
+      "standard_error": 2072.0,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Work/Employment",
@@ -483,7 +655,11 @@
       "text_position": "Table 14, Column (2)",
       "_key": "CG73D75P",
       "_table_number": 14,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 244.0,
+      "_parsed_effect": true,
+      "standard_error": 293.0,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Income",
@@ -493,7 +669,11 @@
       "text_position": "Table 14, Column (3)",
       "_key": "CG73D75P",
       "_table_number": 14,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 32.0,
+      "_parsed_effect": true,
+      "standard_error": 168.0,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Income",
@@ -503,7 +683,11 @@
       "text_position": "Table 14, Column (4)",
       "_key": "CG73D75P",
       "_table_number": 14,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": -296.0,
+      "_parsed_effect": true,
+      "standard_error": 1999.0,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Income",
@@ -513,7 +697,11 @@
       "text_position": "Table 14, Column (5)",
       "_key": "CG73D75P",
       "_table_number": 14,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 87.0,
+      "_parsed_effect": true,
+      "standard_error": 128.0,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Income",
@@ -523,7 +711,11 @@
       "text_position": "Table 14, Column (6)",
       "_key": "CG73D75P",
       "_table_number": 14,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": -60.0,
+      "_parsed_effect": true,
+      "standard_error": 418.0,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Income",
@@ -533,7 +725,11 @@
       "text_position": "Table 14, Column (7)",
       "_key": "CG73D75P",
       "_table_number": 14,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 35.0,
+      "_parsed_effect": true,
+      "standard_error": 122.0,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Income",
@@ -543,7 +739,11 @@
       "text_position": "Table 15, Column (1)",
       "_key": "CG73D75P",
       "_table_number": 15,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": -264.0,
+      "_parsed_effect": true,
+      "standard_error": 2012.0,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Expenditure/Consumption",
@@ -553,7 +753,11 @@
       "text_position": "Table 15, Column (2)",
       "_key": "CG73D75P",
       "_table_number": 15,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 16.0,
+      "_parsed_effect": true,
+      "standard_error": 23.0,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Income",
@@ -563,7 +767,11 @@
       "text_position": "Table 15, Column (3)",
       "_key": "CG73D75P",
       "_table_number": 15,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 192.0,
+      "_parsed_effect": true,
+      "standard_error": 130.0,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Expenditure/Consumption",
@@ -573,7 +781,11 @@
       "text_position": "Table 15, Column (4)",
       "_key": "CG73D75P",
       "_table_number": 15,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": 105.0,
+      "_parsed_effect": true,
+      "standard_error": 58.0,
+      "_parsed_se": true
     },
     {
       "outcome_group": "Assets",
@@ -583,7 +795,11 @@
       "text_position": "Table 15, Column (5)",
       "_key": "CG73D75P",
       "_table_number": 15,
-      "_extraction_method": "twopass_llm"
+      "_extraction_method": "twopass_llm",
+      "effect_size": -93.0,
+      "_parsed_effect": true,
+      "standard_error": 67.0,
+      "_parsed_se": true
     }
   ]
 }
