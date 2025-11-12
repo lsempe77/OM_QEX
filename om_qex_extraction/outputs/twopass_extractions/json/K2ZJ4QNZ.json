@@ -1,0 +1,519 @@
+{
+  "key": "K2ZJ4QNZ",
+  "total_tables": 15,
+  "results_tables": 4,
+  "excluded_tables": 11,
+  "total_outcomes": 51,
+  "outcomes": [
+    {
+      "outcome_group": "Assets",
+      "outcome_category": "Asset value index - SOUP",
+      "location": "Page 1; Table 1; Panel A; Row: SOUP; Column: (1) asset value index",
+      "literal_text": "0.112 (0.068) 0.097*",
+      "text_position": "Table 1, Panel A, Row 'SOUP', Column '(1) asset value index'",
+      "_key": "K2ZJ4QNZ",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Assets",
+      "outcome_category": "Asset value index - GUP no savings",
+      "location": "Page 1; Table 1; Panel A; Row: GUP no sav.; Column: (1) asset value index",
+      "literal_text": "0.228 (0.072) 0.002***",
+      "text_position": "Table 1, Panel A, Row 'GUP no sav.', Column '(1) asset value index'",
+      "_key": "K2ZJ4QNZ",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Assets",
+      "outcome_category": "Asset value index - GUP savings",
+      "location": "Page 1; Table 1; Panel A; Row: GUP sav.; Column: (1) asset value index",
+      "literal_text": "0.110 (0.066) 0.095*",
+      "text_position": "Table 1, Panel A, Row 'GUP sav.', Column '(1) asset value index'",
+      "_key": "K2ZJ4QNZ",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Assets",
+      "outcome_category": "Asset value index - Asset Only",
+      "location": "Page 1; Table 1; Panel B; Row: asset; Column: (1) asset value index",
+      "literal_text": "-0.082 (0.115) 0.477",
+      "text_position": "Table 1, Panel B, Row 'asset', Column '(1) asset value index'",
+      "_key": "K2ZJ4QNZ",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Expenditure/Consumption",
+      "outcome_category": "Consumption index - SOUP",
+      "location": "Page 1; Table 1; Panel A; Row: SOUP; Column: (2) consumption index",
+      "literal_text": "0.138 (0.043) 0.001***",
+      "text_position": "Table 1, Panel A, Row 'SOUP', Column '(2) consumption index'",
+      "_key": "K2ZJ4QNZ",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Expenditure/Consumption",
+      "outcome_category": "Consumption index - GUP no savings",
+      "location": "Page 1; Table 1; Panel A; Row: GUP no sav.; Column: (2) consumption index",
+      "literal_text": "0.141 (0.051) 0.006***",
+      "text_position": "Table 1, Panel A, Row 'GUP no sav.', Column '(2) consumption index'",
+      "_key": "K2ZJ4QNZ",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Expenditure/Consumption",
+      "outcome_category": "Consumption index - GUP savings",
+      "location": "Page 1; Table 1; Panel A; Row: GUP sav.; Column: (2) consumption index",
+      "literal_text": "0.084 (0.050) 0.091*",
+      "text_position": "Table 1, Panel A, Row 'GUP sav.', Column '(2) consumption index'",
+      "_key": "K2ZJ4QNZ",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Expenditure/Consumption",
+      "outcome_category": "Consumption index - Asset Only",
+      "location": "Page 1; Table 1; Panel B; Row: asset; Column: (2) consumption index",
+      "literal_text": "-0.019 (0.074) 0.801",
+      "text_position": "Table 1, Panel B, Row 'asset', Column '(2) consumption index'",
+      "_key": "K2ZJ4QNZ",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Financial Inclusion",
+      "outcome_category": "Financial inclusion index - SOUP",
+      "location": "Page 1; Table 1; Panel A; Row: SOUP; Column: (3) financial inclusion index",
+      "literal_text": "0.497 (0.093) 0.000***",
+      "text_position": "Table 1, Panel A, Row 'SOUP', Column '(3) financial inclusion index'",
+      "_key": "K2ZJ4QNZ",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Financial Inclusion",
+      "outcome_category": "Financial inclusion index - GUP no savings",
+      "location": "Page 1; Table 1; Panel A; Row: GUP no sav.; Column: (3) financial inclusion index",
+      "literal_text": "0.172 (0.098) 0.080*",
+      "text_position": "Table 1, Panel A, Row 'GUP no sav.', Column '(3) financial inclusion index'",
+      "_key": "K2ZJ4QNZ",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Financial Inclusion",
+      "outcome_category": "Financial inclusion index - GUP savings",
+      "location": "Page 1; Table 1; Panel A; Row: GUP sav.; Column: (3) financial inclusion index",
+      "literal_text": "1.247 (0.142) 0.000***",
+      "text_position": "Table 1, Panel A, Row 'GUP sav.', Column '(3) financial inclusion index'",
+      "_key": "K2ZJ4QNZ",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Financial Inclusion",
+      "outcome_category": "Financial inclusion index - Asset Only",
+      "location": "Page 1; Table 1; Panel B; Row: asset; Column: (3) financial inclusion index",
+      "literal_text": "0.031 (0.095) 0.747",
+      "text_position": "Table 1, Panel B, Row 'asset', Column '(3) financial inclusion index'",
+      "_key": "K2ZJ4QNZ",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Food Security",
+      "outcome_category": "Food security index - SOUP",
+      "location": "Page 1; Table 1; Panel A; Row: SOUP; Column: (4) food security index",
+      "literal_text": "0.056 (0.043) 0.185",
+      "text_position": "Table 1, Panel A, Row 'SOUP', Column '(4) food security index'",
+      "_key": "K2ZJ4QNZ",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Food Security",
+      "outcome_category": "Food security index - GUP no savings",
+      "location": "Page 1; Table 1; Panel A; Row: GUP no sav.; Column: (4) food security index",
+      "literal_text": "0.104 (0.049) 0.035**",
+      "text_position": "Table 1, Panel A, Row 'GUP no sav.', Column '(4) food security index'",
+      "_key": "K2ZJ4QNZ",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Food Security",
+      "outcome_category": "Food security index - GUP savings",
+      "location": "Page 1; Table 1; Panel A; Row: GUP sav.; Column: (4) food security index",
+      "literal_text": "-0.017 (0.047) 0.722",
+      "text_position": "Table 1, Panel A, Row 'GUP sav.', Column '(4) food security index'",
+      "_key": "K2ZJ4QNZ",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Food Security",
+      "outcome_category": "Food security index - Asset Only",
+      "location": "Page 1; Table 1; Panel B; Row: asset; Column: (4) food security index",
+      "literal_text": "-0.015 (0.062) 0.812",
+      "text_position": "Table 1, Panel B, Row 'asset', Column '(4) food security index'",
+      "_key": "K2ZJ4QNZ",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Income index - SOUP",
+      "location": "Page 1; Table 1; Panel A; Row: SOUP; Column: (5) income index",
+      "literal_text": "0.064 (0.050) 0.200",
+      "text_position": "Table 1, Panel A, Row 'SOUP', Column '(5) income index'",
+      "_key": "K2ZJ4QNZ",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Income index - GUP no savings",
+      "location": "Page 1; Table 1; Panel A; Row: GUP no sav.; Column: (5) income index",
+      "literal_text": "0.138 (0.054) 0.011**",
+      "text_position": "Table 1, Panel A, Row 'GUP no sav.', Column '(5) income index'",
+      "_key": "K2ZJ4QNZ",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Income index - GUP savings",
+      "location": "Page 1; Table 1; Panel A; Row: GUP sav.; Column: (5) income index",
+      "literal_text": "0.206 (0.056) 0.000***",
+      "text_position": "Table 1, Panel A, Row 'GUP sav.', Column '(5) income index'",
+      "_key": "K2ZJ4QNZ",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Income index - Asset Only",
+      "location": "Page 1; Table 1; Panel B; Row: asset; Column: (5) income index",
+      "literal_text": "0.007 (0.060) 0.908",
+      "text_position": "Table 1, Panel B, Row 'asset', Column '(5) income index'",
+      "_key": "K2ZJ4QNZ",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Assets",
+      "outcome_category": "Asset value index - SOUP",
+      "location": "Page N/A; Table 2; Panel A; Row: SOUP; Column: (1) asset value index",
+      "literal_text": "0.029 (0.076) 0.701 0.825",
+      "text_position": "Table 2, Panel A, Row 'SOUP', Column '(1) asset value index'",
+      "_key": "K2ZJ4QNZ",
+      "_table_number": 2,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Assets",
+      "outcome_category": "Asset value index - GUP no savings",
+      "location": "Page N/A; Table 2; Panel A; Row: GUP no sav.; Column: (1) asset value index",
+      "literal_text": "0.280 (0.078) 0.000***",
+      "text_position": "Table 2, Panel A, Row 'GUP no sav.', Column '(1) asset value index'",
+      "_key": "K2ZJ4QNZ",
+      "_table_number": 2,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Assets",
+      "outcome_category": "Asset value index - GUP savings",
+      "location": "Page N/A; Table 2; Panel A; Row: GUP sav.; Column: (1) asset value index",
+      "literal_text": "0.318 (0.082) 0.000***",
+      "text_position": "Table 2, Panel A, Row 'GUP sav.', Column '(1) asset value index'",
+      "_key": "K2ZJ4QNZ",
+      "_table_number": 2,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Expenditure/Consumption",
+      "outcome_category": "Consumption index - SOUP",
+      "location": "Page N/A; Table 2; Panel A; Row: SOUP; Column: (2) consumption index",
+      "literal_text": "-0.013 (0.034) 0.700 0.825",
+      "text_position": "Table 2, Panel A, Row 'SOUP', Column '(2) consumption index'",
+      "_key": "K2ZJ4QNZ",
+      "_table_number": 2,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Expenditure/Consumption",
+      "outcome_category": "Consumption index - GUP no savings",
+      "location": "Page N/A; Table 2; Panel A; Row: GUP no sav.; Column: (2) consumption index",
+      "literal_text": "0.124 (0.046) 0.007***",
+      "text_position": "Table 2, Panel A, Row 'GUP no sav.', Column '(2) consumption index'",
+      "_key": "K2ZJ4QNZ",
+      "_table_number": 2,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Expenditure/Consumption",
+      "outcome_category": "Consumption index - GUP savings",
+      "location": "Page N/A; Table 2; Panel A; Row: GUP sav.; Column: (2) consumption index",
+      "literal_text": "0.050 (0.036) 0.169",
+      "text_position": "Table 2, Panel A, Row 'GUP sav.', Column '(2) consumption index'",
+      "_key": "K2ZJ4QNZ",
+      "_table_number": 2,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Financial Inclusion",
+      "outcome_category": "Financial inclusion index - SOUP",
+      "location": "Page N/A; Table 2; Panel A; Row: SOUP; Column: (3) financial inclusion index",
+      "literal_text": "0.129 (0.073) 0.078*",
+      "text_position": "Table 2, Panel A, Row 'SOUP', Column '(3) financial inclusion index'",
+      "_key": "K2ZJ4QNZ",
+      "_table_number": 2,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Financial Inclusion",
+      "outcome_category": "Financial inclusion index - GUP no savings",
+      "location": "Page N/A; Table 2; Panel A; Row: GUP no sav.; Column: (3) financial inclusion index",
+      "literal_text": "0.204 (0.086) 0.018**",
+      "text_position": "Table 2, Panel A, Row 'GUP no sav.', Column '(3) financial inclusion index'",
+      "_key": "K2ZJ4QNZ",
+      "_table_number": 2,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Financial Inclusion",
+      "outcome_category": "Financial inclusion index - GUP savings",
+      "location": "Page N/A; Table 2; Panel A; Row: GUP sav.; Column: (3) financial inclusion index",
+      "literal_text": "0.532 (0.105) 0.000***",
+      "text_position": "Table 2, Panel A, Row 'GUP sav.', Column '(3) financial inclusion index'",
+      "_key": "K2ZJ4QNZ",
+      "_table_number": 2,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Food Security",
+      "outcome_category": "Food security index - SOUP",
+      "location": "Page N/A; Table 2; Panel A; Row: SOUP; Column: (4) food security index",
+      "literal_text": "0.002 (0.044) 0.962 0.963",
+      "text_position": "Table 2, Panel A, Row 'SOUP', Column '(4) food security index'",
+      "_key": "K2ZJ4QNZ",
+      "_table_number": 2,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Food Security",
+      "outcome_category": "Food security index - GUP no savings",
+      "location": "Page N/A; Table 2; Panel A; Row: GUP no sav.; Column: (4) food security index",
+      "literal_text": "0.114 (0.050) 0.024**",
+      "text_position": "Table 2, Panel A, Row 'GUP no sav.', Column '(4) food security index'",
+      "_key": "K2ZJ4QNZ",
+      "_table_number": 2,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Food Security",
+      "outcome_category": "Food security index - GUP savings",
+      "location": "Page N/A; Table 2; Panel A; Row: GUP sav.; Column: (4) food security index",
+      "literal_text": "0.092 (0.050) 0.062*",
+      "text_position": "Table 2, Panel A, Row 'GUP sav.', Column '(4) food security index'",
+      "_key": "K2ZJ4QNZ",
+      "_table_number": 2,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Income index - SOUP",
+      "location": "Page N/A; Table 2; Panel A; Row: SOUP; Column: (5) income index",
+      "literal_text": "-0.071 (0.062) 0.254 0.373",
+      "text_position": "Table 2, Panel A, Row 'SOUP', Column '(5) income index'",
+      "_key": "K2ZJ4QNZ",
+      "_table_number": 2,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Income index - GUP no savings",
+      "location": "Page N/A; Table 2; Panel A; Row: GUP no sav.; Column: (5) income index",
+      "literal_text": "0.202 (0.073) 0.006***",
+      "text_position": "Table 2, Panel A, Row 'GUP no sav.', Column '(5) income index'",
+      "_key": "K2ZJ4QNZ",
+      "_table_number": 2,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Income index - GUP savings",
+      "location": "Page N/A; Table 2; Panel A; Row: GUP sav.; Column: (5) income index",
+      "literal_text": "0.243 (0.076) 0.001***",
+      "text_position": "Table 2, Panel A, Row 'GUP sav.', Column '(5) income index'",
+      "_key": "K2ZJ4QNZ",
+      "_table_number": 2,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Household has business - GUP with savings vs SOUP",
+      "location": "Table 3; Panel A: GUP vs. SOUP; Row: SOUP GUP sav.; Column: (1) household has business",
+      "literal_text": "0.077 (0.034), p=0.026",
+      "text_position": "Table 3, Panel A, Row 'SOUP GUP sav.', Column '(1) household has business'",
+      "_key": "K2ZJ4QNZ",
+      "_table_number": 3,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Business income, monthly (USD) - GUP with savings vs SOUP",
+      "location": "Table 3; Panel A: GUP vs. SOUP; Row: SOUP GUP sav.; Column: (2) business income, monthly (USD)",
+      "literal_text": "3.426 (1.789), p=0.056",
+      "text_position": "Table 3, Panel A, Row 'SOUP GUP sav.', Column '(2) business income, monthly (USD)'",
+      "_key": "K2ZJ4QNZ",
+      "_table_number": 3,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Crop income, monthly (USD) - GUP with savings vs SOUP",
+      "location": "Table 3; Panel A: GUP vs. SOUP; Row: SOUP GUP sav.; Column: (3) crop income, monthly (USD)",
+      "literal_text": "6.182 (3.144), p=0.049",
+      "text_position": "Table 3, Panel A, Row 'SOUP GUP sav.', Column '(3) crop income, monthly (USD)'",
+      "_key": "K2ZJ4QNZ",
+      "_table_number": 3,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Animal revenue, monthly (USD) - GUP with savings vs SOUP",
+      "location": "Table 3; Panel A: GUP vs. SOUP; Row: SOUP GUP sav.; Column: (4) animal revenue, monthly (USD)",
+      "literal_text": "3.734 (1.062), p=0.000",
+      "text_position": "Table 3, Panel A, Row 'SOUP GUP sav.', Column '(4) animal revenue, monthly (USD)'",
+      "_key": "K2ZJ4QNZ",
+      "_table_number": 3,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Wage income, monthly (USD) - GUP with savings vs SOUP",
+      "location": "Table 3; Panel A: GUP vs. SOUP; Row: SOUP GUP sav.; Column: (5) wage income, monthly (USD)",
+      "literal_text": "0.227 (0.534), p=0.671",
+      "text_position": "Table 3, Panel A, Row 'SOUP GUP sav.', Column '(5) wage income, monthly (USD)'",
+      "_key": "K2ZJ4QNZ",
+      "_table_number": 3,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Household has business - Asset Only vs GUP",
+      "location": "Table 3; Panel B: GUP vs. Asset Only; Row: asset; Column: (1) household has business",
+      "literal_text": "-0.091 (0.051), p=0.071",
+      "text_position": "Table 3, Panel B, Row 'asset', Column '(1) household has business'",
+      "_key": "K2ZJ4QNZ",
+      "_table_number": 3,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Business income, monthly (USD) - Asset Only vs GUP",
+      "location": "Table 3; Panel B: GUP vs. Asset Only; Row: asset; Column: (2) business income, monthly (USD)",
+      "literal_text": "-1.978 (2.197), p=0.368",
+      "text_position": "Table 3, Panel B, Row 'asset', Column '(2) business income, monthly (USD)'",
+      "_key": "K2ZJ4QNZ",
+      "_table_number": 3,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Crop income, monthly (USD) - Asset Only vs GUP",
+      "location": "Table 3; Panel B: GUP vs. Asset Only; Row: asset; Column: (3) crop income, monthly (USD)",
+      "literal_text": "-4.586 (3.331), p=0.169",
+      "text_position": "Table 3, Panel B, Row 'asset', Column '(3) crop income, monthly (USD)'",
+      "_key": "K2ZJ4QNZ",
+      "_table_number": 3,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Animal revenue, monthly (USD) - Asset Only vs GUP",
+      "location": "Table 3; Panel B: GUP vs. Asset Only; Row: asset; Column: (4) animal revenue, monthly (USD)",
+      "literal_text": "-0.411 (1.414), p=0.772",
+      "text_position": "Table 3, Panel B, Row 'asset', Column '(4) animal revenue, monthly (USD)'",
+      "_key": "K2ZJ4QNZ",
+      "_table_number": 3,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Wage income, monthly (USD) - Asset Only vs GUP",
+      "location": "Table 3; Panel B: GUP vs. Asset Only; Row: asset; Column: (5) wage income, monthly (USD)",
+      "literal_text": "-0.349 (0.906), p=0.701",
+      "text_position": "Table 3, Panel B, Row 'asset', Column '(5) wage income, monthly (USD)'",
+      "_key": "K2ZJ4QNZ",
+      "_table_number": 3,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Assets",
+      "outcome_category": "Goat value (USD)",
+      "location": "Page N/A; Table 4; Row: GUP no sav. asset; Column: (1) goat value (USD)",
+      "literal_text": "71.511 (7.984), p=0.000",
+      "text_position": "Table 4, Row 'GUP no sav. asset', Column '(1) goat value (USD)'",
+      "_key": "K2ZJ4QNZ",
+      "_table_number": 4,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Assets",
+      "outcome_category": "Fowl value (USD)",
+      "location": "Page N/A; Table 4; Row: GUP no sav. asset; Column: (2) fowl value (USD)",
+      "literal_text": "12.527 (3.722), p=0.001",
+      "text_position": "Table 4, Row 'GUP no sav. asset', Column '(2) fowl value (USD)'",
+      "_key": "K2ZJ4QNZ",
+      "_table_number": 4,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Assets",
+      "outcome_category": "Pig value (USD)",
+      "location": "Page N/A; Table 4; Row: GUP no sav. asset; Column: (3) pig value (USD)",
+      "literal_text": "4.550 (2.002), p=0.023",
+      "text_position": "Table 4, Row 'GUP no sav. asset', Column '(3) pig value (USD)'",
+      "_key": "K2ZJ4QNZ",
+      "_table_number": 4,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Assets",
+      "outcome_category": "Sheep value (USD)",
+      "location": "Page N/A; Table 4; Row: GUP no sav. asset; Column: (4) sheep value (USD)",
+      "literal_text": "1.377 (9.006), p=0.878",
+      "text_position": "Table 4, Row 'GUP no sav. asset', Column '(4) sheep value (USD)'",
+      "_key": "K2ZJ4QNZ",
+      "_table_number": 4,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Assets",
+      "outcome_category": "Cow value (USD)",
+      "location": "Page N/A; Table 4; Row: GUP no sav. asset; Column: (5) cow value (USD)",
+      "literal_text": "12.975 (12.953), p=0.317",
+      "text_position": "Table 4, Row 'GUP no sav. asset', Column '(5) cow value (USD)'",
+      "_key": "K2ZJ4QNZ",
+      "_table_number": 4,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Assets",
+      "outcome_category": "Total livestock value (USD)",
+      "location": "Page N/A; Table 4; Row: GUP no sav. asset; Column: (6) total livestock value (USD)",
+      "literal_text": "134.776 (27.636), p=0.000",
+      "text_position": "Table 4, Row 'GUP no sav. asset', Column '(6) total livestock value (USD)'",
+      "_key": "K2ZJ4QNZ",
+      "_table_number": 4,
+      "_extraction_method": "twopass_llm"
+    }
+  ]
+}

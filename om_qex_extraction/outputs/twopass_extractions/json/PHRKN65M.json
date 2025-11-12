@@ -1,0 +1,269 @@
+{
+  "key": "PHRKN65M",
+  "total_tables": 15,
+  "results_tables": 2,
+  "excluded_tables": 13,
+  "total_outcomes": 26,
+  "outcomes": [
+    {
+      "outcome_group": "Financial Inclusion",
+      "outcome_category": "Amount savings (MWK) - Project",
+      "location": "Page N/A; Table 21; Impacts of the project on combined outcomes of beneficiaries and proxies; Row: Project; Column: (1) Amount savings (MWK)",
+      "literal_text": "Project | 9,079*** (1,864)",
+      "text_position": "Table 21, Row 'Project', Column '(1) Amount savings (MWK)'",
+      "_key": "PHRKN65M",
+      "_table_number": 5,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Financial Inclusion",
+      "outcome_category": "Amount savings (MWK) - Active proxy",
+      "location": "Page N/A; Table 21; Impacts of the project on combined outcomes of beneficiaries and proxies; Row: Active proxy; Column: (2) Amount savings (MWK)",
+      "literal_text": "Active proxy | 10,445*** (1,939)",
+      "text_position": "Table 21, Row 'Active proxy', Column '(2) Amount savings (MWK)'",
+      "_key": "PHRKN65M",
+      "_table_number": 5,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Financial Inclusion",
+      "outcome_category": "Amount savings (MWK) - Non-active/no proxy",
+      "location": "Page N/A; Table 21; Impacts of the project on combined outcomes of beneficiaries and proxies; Row: Non-active/no proxy; Column: (2) Amount savings (MWK)",
+      "literal_text": "Non-active/no proxy | 5,378*** (1,930)",
+      "text_position": "Table 21, Row 'Non-active/no proxy', Column '(2) Amount savings (MWK)'",
+      "_key": "PHRKN65M",
+      "_table_number": 5,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Financial Inclusion",
+      "outcome_category": "Amount loans (MWK) - Project",
+      "location": "Page N/A; Table 21; Impacts of the project on combined outcomes of beneficiaries and proxies; Row: Project; Column: (3) Amount loans (MWK)",
+      "literal_text": "Project | 3,800*** (1,119)",
+      "text_position": "Table 21, Row 'Project', Column '(3) Amount loans (MWK)'",
+      "_key": "PHRKN65M",
+      "_table_number": 5,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Financial Inclusion",
+      "outcome_category": "Amount loans (MWK) - Active proxy",
+      "location": "Page N/A; Table 21; Impacts of the project on combined outcomes of beneficiaries and proxies; Row: Active proxy; Column: (4) Amount loans (MWK)",
+      "literal_text": "Active proxy | 4,270*** (1,249)",
+      "text_position": "Table 21, Row 'Active proxy', Column '(4) Amount loans (MWK)'",
+      "_key": "PHRKN65M",
+      "_table_number": 5,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Financial Inclusion",
+      "outcome_category": "Amount loans (MWK) - Non-active/no proxy",
+      "location": "Page N/A; Table 21; Impacts of the project on combined outcomes of beneficiaries and proxies; Row: Non-active/no proxy; Column: (4) Amount loans (MWK)",
+      "literal_text": "Non-active/no proxy | 2,523*** (1,101)",
+      "text_position": "Table 21, Row 'Non-active/no proxy', Column '(4) Amount loans (MWK)'",
+      "_key": "PHRKN65M",
+      "_table_number": 5,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Start non-farm business (yes/no) - Project",
+      "location": "Page N/A; Table 21; Impacts of the project on combined outcomes of beneficiaries and proxies; Row: Project; Column: (5) Start non-farm business (yes/no)",
+      "literal_text": "Project | 0.162*** (0.049)",
+      "text_position": "Table 21, Row 'Project', Column '(5) Start non-farm business (yes/no)'",
+      "_key": "PHRKN65M",
+      "_table_number": 5,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Start non-farm business (yes/no) - Active proxy",
+      "location": "Page N/A; Table 21; Impacts of the project on combined outcomes of beneficiaries and proxies; Row: Active proxy; Column: (6) Start non-farm business (yes/no)",
+      "literal_text": "Active proxy | 0.165*** (0.050)",
+      "text_position": "Table 21, Row 'Active proxy', Column '(6) Start non-farm business (yes/no)'",
+      "_key": "PHRKN65M",
+      "_table_number": 5,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Start non-farm business (yes/no) - Non-active/no proxy",
+      "location": "Page N/A; Table 21; Impacts of the project on combined outcomes of beneficiaries and proxies; Row: Non-active/no proxy; Column: (6) Start non-farm business (yes/no)",
+      "literal_text": "Non-active/no proxy | 0.150*** (0.048)",
+      "text_position": "Table 21, Row 'Non-active/no proxy', Column '(6) Start non-farm business (yes/no)'",
+      "_key": "PHRKN65M",
+      "_table_number": 5,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Paid work (yes/no) - Project",
+      "location": "Page N/A; Table 21; Impacts of the project on combined outcomes of beneficiaries and proxies; Row: Project; Column: (7) Paid work (yes/no)",
+      "literal_text": "Project | 0.080*** (0.026)",
+      "text_position": "Table 21, Row 'Project', Column '(7) Paid work (yes/no)'",
+      "_key": "PHRKN65M",
+      "_table_number": 5,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Paid work (yes/no) - Active proxy",
+      "location": "Page N/A; Table 21; Impacts of the project on combined outcomes of beneficiaries and proxies; Row: Active proxy; Column: (8) Paid work (yes/no)",
+      "literal_text": "Active proxy | 0.086** (0.030)",
+      "text_position": "Table 21, Row 'Active proxy', Column '(8) Paid work (yes/no)'",
+      "_key": "PHRKN65M",
+      "_table_number": 5,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Paid work (yes/no) - Non-active/no proxy",
+      "location": "Page N/A; Table 21; Impacts of the project on combined outcomes of beneficiaries and proxies; Row: Non-active/no proxy; Column: (8) Paid work (yes/no)",
+      "literal_text": "Non-active/no proxy | 0.054 (0.057)",
+      "text_position": "Table 21, Row 'Non-active/no proxy', Column '(8) Paid work (yes/no)'",
+      "_key": "PHRKN65M",
+      "_table_number": 5,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Financial Inclusion",
+      "outcome_category": "Financial literacy index - Active proxy",
+      "location": "Table 22; Impacts of the proxy on several outcomes; Row: Active proxy; Column: (1) Financial literacy index",
+      "literal_text": "Active proxy | 0.687*** (0.208)",
+      "text_position": "Table 22, Row 'Active proxy', Column '(1) Financial literacy index'",
+      "_key": "PHRKN65M",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Financial Inclusion",
+      "outcome_category": "Financial literacy index - Non-active/no proxy",
+      "location": "Table 22; Impacts of the proxy on several outcomes; Row: Non-active/no proxy; Column: (1) Financial literacy index",
+      "literal_text": "Non-active/no proxy | 0.442* (0.240)",
+      "text_position": "Table 22, Row 'Non-active/no proxy', Column '(1) Financial literacy index'",
+      "_key": "PHRKN65M",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Financial Inclusion",
+      "outcome_category": "Saving uptake (yes/no) - Active proxy",
+      "location": "Table 22; Impacts of the proxy on several outcomes; Row: Active proxy; Column: (2) Saving uptake (yes/no)",
+      "literal_text": "Active proxy | 0.224*** (0.0746)",
+      "text_position": "Table 22, Row 'Active proxy', Column '(2) Saving uptake (yes/no)'",
+      "_key": "PHRKN65M",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Financial Inclusion",
+      "outcome_category": "Saving uptake (yes/no) - Non-active/no proxy",
+      "location": "Table 22; Impacts of the proxy on several outcomes; Row: Non-active/no proxy; Column: (2) Saving uptake (yes/no)",
+      "literal_text": "Non-active/no proxy | 0.295* (0.152)",
+      "text_position": "Table 22, Row 'Non-active/no proxy', Column '(2) Saving uptake (yes/no)'",
+      "_key": "PHRKN65M",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Financial Inclusion",
+      "outcome_category": "Amount savings (MWK) - Active proxy",
+      "location": "Table 22; Impacts of the proxy on several outcomes; Row: Active proxy; Column: (3) Amount savings",
+      "literal_text": "Active proxy | 4,257*** (1,377)",
+      "text_position": "Table 22, Row 'Active proxy', Column '(3) Amount savings'",
+      "_key": "PHRKN65M",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Financial Inclusion",
+      "outcome_category": "Amount savings (MWK) - Non-active/no proxy",
+      "location": "Table 22; Impacts of the proxy on several outcomes; Row: Non-active/no proxy; Column: (3) Amount savings",
+      "literal_text": "Non-active/no proxy | 4,261** (2,005)",
+      "text_position": "Table 22, Row 'Non-active/no proxy', Column '(3) Amount savings'",
+      "_key": "PHRKN65M",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Financial Inclusion",
+      "outcome_category": "Amount loans (MWK) - Active proxy",
+      "location": "Table 22; Impacts of the proxy on several outcomes; Row: Active proxy; Column: (4) Amount loans",
+      "literal_text": "Active proxy | 1,838* (1,064)",
+      "text_position": "Table 22, Row 'Active proxy', Column '(4) Amount loans'",
+      "_key": "PHRKN65M",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Financial Inclusion",
+      "outcome_category": "Amount loans (MWK) - Non-active/no proxy",
+      "location": "Table 22; Impacts of the proxy on several outcomes; Row: Non-active/no proxy; Column: (4) Amount loans",
+      "literal_text": "Non-active/no proxy | 2,596* (1,415)",
+      "text_position": "Table 22, Row 'Non-active/no proxy', Column '(4) Amount loans'",
+      "_key": "PHRKN65M",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Start non-farm business (yes/no) - Active proxy",
+      "location": "Table 22; Impacts of the proxy on several outcomes; Row: Active proxy; Column: (5) Start non-farm business",
+      "literal_text": "Active proxy | 0.0141 (0.0173)",
+      "text_position": "Table 22, Row 'Active proxy', Column '(5) Start non-farm business'",
+      "_key": "PHRKN65M",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Start non-farm business (yes/no) - Non-active/no proxy",
+      "location": "Table 22; Impacts of the proxy on several outcomes; Row: Non-active/no proxy; Column: (5) Start non-farm business",
+      "literal_text": "Non-active/no proxy | 0.172*** (0.0579)",
+      "text_position": "Table 22, Row 'Non-active/no proxy', Column '(5) Start non-farm business'",
+      "_key": "PHRKN65M",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Paid work (yes/no) - Active proxy",
+      "location": "Table 22; Impacts of the proxy on several outcomes; Row: Active proxy; Column: (6) Paid work",
+      "literal_text": "Active proxy | -0.135** (0.0533)",
+      "text_position": "Table 22, Row 'Active proxy', Column '(6) Paid work'",
+      "_key": "PHRKN65M",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Paid work (yes/no) - Non-active/no proxy",
+      "location": "Table 22; Impacts of the proxy on several outcomes; Row: Non-active/no proxy; Column: (6) Paid work",
+      "literal_text": "Non-active/no proxy | 0.0353 (0.0649)",
+      "text_position": "Table 22, Row 'Non-active/no proxy', Column '(6) Paid work'",
+      "_key": "PHRKN65M",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Assets",
+      "outcome_category": "Per capita wealth livestock (MWK) - Active proxy",
+      "location": "Table 22; Impacts of the proxy on several outcomes; Row: Active proxy; Column: (7) P.c. wealth livestock",
+      "literal_text": "Active proxy | 9,187** (3,337)",
+      "text_position": "Table 22, Row 'Active proxy', Column '(7) P.c. wealth livestock'",
+      "_key": "PHRKN65M",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Assets",
+      "outcome_category": "Per capita wealth livestock (MWK) - Non-active/no proxy",
+      "location": "Table 22; Impacts of the proxy on several outcomes; Row: Non-active/no proxy; Column: (7) P.c. wealth livestock",
+      "literal_text": "Non-active/no proxy | 542.2 (1,325)",
+      "text_position": "Table 22, Row 'Non-active/no proxy', Column '(7) P.c. wealth livestock'",
+      "_key": "PHRKN65M",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "key": "55XQSDKK",
+  "total_tables": 4,
+  "results_tables": 2,
+  "excluded_tables": 2,
+  "total_outcomes": 4,
+  "outcomes": [
+    {
+      "outcome_group": "Social Capital/Empowerment",
+      "outcome_category": "Family index",
+      "location": "Table 16; Indexed family outcome variables and aggregates; Row: Treatment; Column: Family index",
+      "literal_text": "Treatment | 0.0897*** (0.0336)",
+      "text_position": "Table 16, Row 'Treatment', Column 'Family index'",
+      "_key": "55XQSDKK",
+      "_table_number": "unknown",
+      "_extraction_method": "tei_fallback",
+      "_table_source": "tei_xml"
+    },
+    {
+      "outcome_group": "Social Capital/Empowerment",
+      "outcome_category": "Family decision making index",
+      "location": "Table 16; Indexed family outcome variables and aggregates; Row: Treatment; Column: Family decision making index",
+      "literal_text": "Treatment | 0.0897*** (0.0336)",
+      "text_position": "Table 16, Row 'Treatment', Column 'Family decision making index'",
+      "_key": "55XQSDKK",
+      "_table_number": "unknown",
+      "_extraction_method": "tei_fallback",
+      "_table_source": "tei_xml"
+    },
+    {
+      "outcome_group": "Social Capital/Empowerment",
+      "outcome_category": "Family relationship index",
+      "location": "Table 16; Indexed family outcome variables and aggregates; Row: Treatment; Column: Family relationship index",
+      "literal_text": "Treatment | 0.0897*** (0.0336)",
+      "text_position": "Table 16, Row 'Treatment', Column 'Family relationship index'",
+      "_key": "55XQSDKK",
+      "_table_number": "unknown",
+      "_extraction_method": "tei_fallback",
+      "_table_source": "tei_xml"
+    },
+    {
+      "outcome_group": "Other",
+      "outcome_category": "Benefit-Cost Ratio",
+      "location": "Table 17; Cost-Benefit Analysis",
+      "literal_text": "Benefit-Cost Ratio: 1.59",
+      "text_position": "Table 17",
+      "_key": "55XQSDKK",
+      "_table_number": "unknown",
+      "_extraction_method": "tei_fallback",
+      "_table_source": "tei_xml"
+    }
+  ],
+  "extraction_method": "tei_fallback"
+}

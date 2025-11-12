@@ -1,0 +1,99 @@
+{
+  "key": "DXHZBI2X",
+  "total_tables": 6,
+  "results_tables": 2,
+  "excluded_tables": 4,
+  "total_outcomes": 9,
+  "outcomes": [
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Farm work labor days",
+      "location": "Page N/A; Table 7; Difference-in-Difference Regression on Child Labor Days; Row: Program; Column: Farm work",
+      "literal_text": "-6.193* (3.713)",
+      "text_position": "Table 7, Row 'Program', Column 'Farm work'",
+      "_key": "DXHZBI2X",
+      "_table_number": 3,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Total labor days",
+      "location": "Page N/A; Table 7; Difference-in-Difference Regression on Child Labor Days; Row: Program; Column: Total labor days",
+      "literal_text": "4.342** (2.054)",
+      "text_position": "Table 7, Row 'Program', Column 'Total labor days'",
+      "_key": "DXHZBI2X",
+      "_table_number": 3,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Skilled labor days",
+      "location": "Page N/A; Table 7; Difference-in-Difference Regression on Child Labor Days; Row: Program; Column: Skilled labor",
+      "literal_text": "-10.535*** (3.170)",
+      "text_position": "Table 7, Row 'Program', Column 'Skilled labor'",
+      "_key": "DXHZBI2X",
+      "_table_number": 3,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Farm work child labor days - Basic/training intervention",
+      "location": "Table 8; Difference-in-Difference Regression on Child Labor Days; Row: Basic/training intervention; Column: Farm work",
+      "literal_text": "-9.256** [3.941]",
+      "text_position": "Table 8, Row 'Basic/training intervention (T1)', Column 'Farm work'",
+      "_key": "DXHZBI2X",
+      "_table_number": 4,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Farm work child labor days - Business grant intervention",
+      "location": "Table 8; Difference-in-Difference Regression on Child Labor Days; Row: Business grant intervention; Column: Farm work",
+      "literal_text": "-10.632*** [3.341]",
+      "text_position": "Table 8, Row 'Business grant intervention (T2)', Column 'Farm work'",
+      "_key": "DXHZBI2X",
+      "_table_number": 4,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Total labor days - Basic/training intervention",
+      "location": "Table 8; Difference-in-Difference Regression on Child Labor Days; Row: Basic/training intervention; Column: Total labor days",
+      "literal_text": "-0.195 [4.757]",
+      "text_position": "Table 8, Row 'Basic/training intervention (T1)', Column: 'Total labor days'",
+      "_key": "DXHZBI2X",
+      "_table_number": 4,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Total labor days - Business grant intervention",
+      "location": "Table 8; Difference-in-Difference Regression on Child Labor Days; Row: Business grant intervention; Column: Total labor days",
+      "literal_text": "-10.345*** [3.932]",
+      "text_position": "Table 8, Row 'Business grant intervention (T2)', Column: 'Total labor days'",
+      "_key": "DXHZBI2X",
+      "_table_number": 4,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Skilled labor - Basic/training intervention",
+      "location": "Table 8; Difference-in-Difference Regression on Child Labor Days; Row: Basic/training intervention; Column: Skilled labor",
+      "literal_text": "1.376 [2.191]",
+      "text_position": "Table 8, Row 'Basic/training intervention (T1)', Column: 'Skilled labor'",
+      "_key": "DXHZBI2X",
+      "_table_number": 4,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Skilled labor - Business grant intervention",
+      "location": "Table 8; Difference-in-Difference Regression on Child Labor Days; Row: Business grant intervention; Column: Skilled labor",
+      "literal_text": "10.150*** [2.704]",
+      "text_position": "Table 8, Row 'Business grant intervention (T2)', Column: 'Skilled labor'",
+      "_key": "DXHZBI2X",
+      "_table_number": 4,
+      "_extraction_method": "twopass_llm"
+    }
+  ]
+}

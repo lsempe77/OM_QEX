@@ -1,0 +1,139 @@
+{
+  "key": "36VWQDDT",
+  "total_tables": 3,
+  "results_tables": 2,
+  "excluded_tables": 1,
+  "total_outcomes": 13,
+  "outcomes": [
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Income - Midline",
+      "location": "Table 1; Effect of Haku Wi\u00f1ay on midline Income; Row: HW; Column: Income, ML (1)",
+      "literal_text": "HW | 1879.80** (817.99)",
+      "text_position": "Table 1, Row 'HW', Column 'Income, ML'",
+      "_key": "36VWQDDT",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Social Capital/Empowerment",
+      "outcome_category": "Internality Index",
+      "location": "Table 1; Row: HW; Column: Internality",
+      "literal_text": "HW | 0.22** (0.10)",
+      "text_position": "Table 1, Row 'HW', Column 'Internality'",
+      "_key": "36VWQDDT",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Social Capital/Empowerment",
+      "outcome_category": "Chance Index",
+      "location": "Table 1; Row: HW; Column: Chance",
+      "literal_text": "HW | -0.11 (0.12)",
+      "text_position": "Table 1, Row 'HW', Column 'Chance'",
+      "_key": "36VWQDDT",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Social Capital/Empowerment",
+      "outcome_category": "Powerful Others Index",
+      "location": "Table 1; Row: HW; Column: Power. oth.",
+      "literal_text": "HW | 0.07 (0.13)",
+      "text_position": "Table 1, Row 'HW', Column 'Power. oth.'",
+      "_key": "36VWQDDT",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Social Capital/Empowerment",
+      "outcome_category": "Hope Index",
+      "location": "Table 1; Row: HW; Column: Hope3",
+      "literal_text": "HW | 0.32*** (0.10)",
+      "text_position": "Table 1, Row 'HW', Column 'Hope3'",
+      "_key": "36VWQDDT",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Expenditure/Consumption",
+      "outcome_category": "Consumption",
+      "location": "Table 2; Row: Graduation; Column: Cons.",
+      "literal_text": "Graduation | -0.24*** (0.01)",
+      "text_position": "Table 2, Row 'Graduation', Column 'Cons.'",
+      "_key": "36VWQDDT",
+      "_table_number": 4,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Assets",
+      "outcome_category": "Assets",
+      "location": "Table 2; Row: Graduation; Column: Assets",
+      "literal_text": "Graduation | 4.20*** (0.06)",
+      "text_position": "Table 2, Row 'Graduation', Column 'Assets'",
+      "_key": "36VWQDDT",
+      "_table_number": 4,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Other",
+      "outcome_category": "Productivity",
+      "location": "Table 2; Row: Graduation; Column: Prod.",
+      "literal_text": "Graduation | 0.53*** (0.01)",
+      "text_position": "Table 2, Row 'Graduation', Column 'Prod.'",
+      "_key": "36VWQDDT",
+      "_table_number": 4,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Poverty",
+      "outcome_category": "Non-poor status",
+      "location": "Table 2; Row: Graduation; Column: Non-poor",
+      "literal_text": "Graduation | 0.26*** (0.01)",
+      "text_position": "Table 2, Row 'Graduation', Column 'Non-poor'",
+      "_key": "36VWQDDT",
+      "_table_number": 4,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Expenditure/Consumption",
+      "outcome_category": "Consumption - Heterogeneous effects by initial assets and psychological assets",
+      "location": "Table 2; Heterogeneity analysis; Row: Graduation \u00d7 Above median I. Psych. assets; Column: Cons.",
+      "literal_text": "Graduation \u00d7 Above median I. Psych. assets | 1.50*** (0.01)",
+      "text_position": "Table 2, Row 'Graduation \u00d7 Above median I. Psych. assets', Column 'Cons.'",
+      "_key": "36VWQDDT",
+      "_table_number": 4,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Assets",
+      "outcome_category": "Assets - Heterogeneous effects by initial assets and psychological assets",
+      "location": "Table 2; Heterogeneity analysis; Row: Graduation \u00d7 Above median I. Psych. assets; Column: Assets",
+      "literal_text": "Graduation \u00d7 Above median I. Psych. assets | 1.47*** (0.15)",
+      "text_position": "Table 2, Row 'Graduation \u00d7 Above median I. Psych. assets', Column 'Assets'",
+      "_key": "36VWQDDT",
+      "_table_number": 4,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Other",
+      "outcome_category": "Productivity - Heterogeneous effects by initial assets and psychological assets",
+      "location": "Table 2; Heterogeneity analysis; Row: Graduation \u00d7 Above median I. Psych. assets; Column: Prod.",
+      "literal_text": "Graduation \u00d7 Above median I. Psych. assets | 0.88*** (0.03)",
+      "text_position": "Table 2, Row 'Graduation \u00d7 Above median I. Psych. assets', Column 'Prod.'",
+      "_key": "36VWQDDT",
+      "_table_number": 4,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Poverty",
+      "outcome_category": "Non-poor status - Heterogeneous effects by initial assets and psychological assets",
+      "location": "Table 2; Heterogeneity analysis; Row: Graduation \u00d7 Above median I. Psych. assets; Column: Non-poor",
+      "literal_text": "Graduation \u00d7 Above median I. Psych. assets | -0.50*** (0.01)",
+      "text_position": "Table 2, Row 'Graduation \u00d7 Above median I. Psych. assets', Column 'Non-poor'",
+      "_key": "36VWQDDT",
+      "_table_number": 4,
+      "_extraction_method": "twopass_llm"
+    }
+  ]
+}

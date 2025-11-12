@@ -1,0 +1,599 @@
+{
+  "key": "9BUBMDBG",
+  "total_tables": 7,
+  "results_tables": 6,
+  "excluded_tables": 1,
+  "total_outcomes": 59,
+  "outcomes": [
+    {
+      "outcome_group": "Expenditure/Consumption",
+      "outcome_category": "ln(per capita expenditures) - Grant",
+      "location": "Page 1; Table 1; Average impacts of business grant and training; Row: grant; Column: (1) ln(per capita expenditures)",
+      "literal_text": "grant | 0.0836*** (0.0208)",
+      "text_position": "Table 1, Row 'grant', Column '(1) ln(per capita expenditures)'",
+      "_key": "9BUBMDBG",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Expenditure/Consumption",
+      "outcome_category": "ln(per capita expenditures) - Training",
+      "location": "Page 1; Table 1; Average impacts of business grant and training; Row: training; Column: (1) ln(per capita expenditures)",
+      "literal_text": "training | 0.0281 (0.0205)",
+      "text_position": "Table 1, Row 'training', Column '(1) ln(per capita expenditures)'",
+      "_key": "9BUBMDBG",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Has non-agricultural self-employment - Grant",
+      "location": "Page 1; Table 1; Average impacts of business grant and training; Row: grant; Column: (2) Has non-agricultural self-employment",
+      "literal_text": "grant | 0.123*** (0.0189)",
+      "text_position": "Table 1, Row 'grant', Column '(2) Has non-agricultural self-employment'",
+      "_key": "9BUBMDBG",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Has non-agricultural self-employment - Training",
+      "location": "Page 1; Table 1; Average impacts of business grant and training; Row: training; Column: (2) Has non-agricultural self-employment",
+      "literal_text": "training | 0.0376* (0.0195)",
+      "text_position": "Table 1, Row 'training', Column '(2) Has non-agricultural self-employment'",
+      "_key": "9BUBMDBG",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Has non-agricultural wage job - Grant",
+      "location": "Page 1; Table 1; Average impacts of business grant and training; Row: grant; Column: (3) Has non-agricultural wage job",
+      "literal_text": "grant | -0.0187 (0.0200)",
+      "text_position": "Table 1, Row 'grant', Column '(3) Has non-agricultural wage job'",
+      "_key": "9BUBMDBG",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Has non-agricultural wage job - Training",
+      "location": "Page 1; Table 1; Average impacts of business grant and training; Row: training; Column: (3) Has non-agricultural wage job",
+      "literal_text": "training | 0.0207 (0.0222)",
+      "text_position": "Table 1, Row 'training', Column '(3) Has non-agricultural wage job'",
+      "_key": "9BUBMDBG",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Profits in non-agricultural self-employment - Grant",
+      "location": "Page 1; Table 1; Average impacts of business grant and training; Row: grant; Column: (4) Profits in non-agricultural self-employment",
+      "literal_text": "grant | 600.1*** (144.7)",
+      "text_position": "Table 1, Row 'grant', Column '(4) Profits in non-agricultural self-employment'",
+      "_key": "9BUBMDBG",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Profits in non-agricultural self-employment - Training",
+      "location": "Page 1; Table 1; Average impacts of business grant and training; Row: training; Column: (4) Profits in non-agricultural self-employment",
+      "literal_text": "training | -299.2** (149.7)",
+      "text_position": "Table 1, Row 'training', Column '(4) Profits in non-agricultural self-employment'",
+      "_key": "9BUBMDBG",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Brut income in non-agricultural self employment - Grant",
+      "location": "Page 1; Table 1; Average impacts of business grant and training; Row: grant; Column: (5) Brut income in non-agricultural self employment",
+      "literal_text": "grant | 1,187*** (241.4)",
+      "text_position": "Table 1, Row 'grant', Column '(5) Brut income in non-agricultural self employment'",
+      "_key": "9BUBMDBG",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Brut income in non-agricultural self employment - Training",
+      "location": "Page 1; Table 1; Average impacts of business grant and training; Row: training; Column: (5) Brut income in non-agricultural self employment",
+      "literal_text": "training | -68.80 (240.3)",
+      "text_position": "Table 1, Row 'training', Column '(5) Brut income in non-agricultural self employment'",
+      "_key": "9BUBMDBG",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Total non-agricultural wage income - Grant",
+      "location": "Page 1; Table 1; Average impacts of business grant and training; Row: grant; Column: (6) Total non-agricultural wage income",
+      "literal_text": "grant | -48.06 (547.0)",
+      "text_position": "Table 1, Row 'grant', Column '(6) Total non-agricultural wage income'",
+      "_key": "9BUBMDBG",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Total non-agricultural wage income - Training",
+      "location": "Page 1; Table 1; Average impacts of business grant and training; Row: training; Column: (6) Total non-agricultural wage income",
+      "literal_text": "training | 509.4 (527.8)",
+      "text_position": "Table 1, Row 'training', Column '(6) Total non-agricultural wage income'",
+      "_key": "9BUBMDBG",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Non-agriculture wage income in private sector - Grant",
+      "location": "Page 1; Table 1; Average impacts of business grant and training; Row: grant; Column: (7) Non-agriculture wage income in private sector",
+      "literal_text": "grant | -293.5 (428.5)",
+      "text_position": "Table 1, Row 'grant', Column '(7) Non-agriculture wage income in private sector'",
+      "_key": "9BUBMDBG",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Non-agriculture wage income in private sector - Training",
+      "location": "Page 1; Table 1; Average impacts of business grant and training; Row: training; Column: (7) Non-agriculture wage income in private sector",
+      "literal_text": "training | 924.3** (440.1)",
+      "text_position": "Table 1, Row 'training', Column '(7) Non-agriculture wage income in private sector'",
+      "_key": "9BUBMDBG",
+      "_table_number": 1,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Expenditure/Consumption",
+      "outcome_category": "ln(per capita expenditures) - Grant \u00d7 Non-agr. self employment",
+      "location": "Table 4; Impacts of business grant and training by baseline activity; Row: Grant * Non-agr. self. employment; Column: (1)",
+      "literal_text": "-0.0687 (0.0608)",
+      "text_position": "Table 4, Row 'Grant * Non-agr. self. employment', Column (1)",
+      "_key": "9BUBMDBG",
+      "_table_number": 3,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Has non-agricultural self-employment - Grant \u00d7 Non-agr. self employment",
+      "location": "Table 4; Impacts of business grant and training by baseline activity; Row: Grant * Non-agr. self. employment; Column: (2)",
+      "literal_text": "-0.0619 (0.0529)",
+      "text_position": "Table 4, Row 'Grant * Non-agr. self. employment', Column (2)",
+      "_key": "9BUBMDBG",
+      "_table_number": 3,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Has non-agricultural wage job - Grant \u00d7 Non-agr. self employment",
+      "location": "Table 4; Impacts of business grant and training by baseline activity; Row: Grant * Non-agr. self. employment; Column: (3)",
+      "literal_text": "539.7 (666.6)",
+      "text_position": "Table 4, Row 'Grant * Non-agr. self. employment', Column (3)",
+      "_key": "9BUBMDBG",
+      "_table_number": 3,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Profits in non-agricultural self-employment - Grant \u00d7 Non-agr. self employment",
+      "location": "Table 4; Impacts of business grant and training by baseline activity; Row: Grant * Non-agr. self. employment; Column: (4)",
+      "literal_text": "818.0 (839.1)",
+      "text_position": "Table 4, Row 'Grant * Non-agr. self. employment', Column (4)",
+      "_key": "9BUBMDBG",
+      "_table_number": 3,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Brut income in non-agricultural self-employment - Grant \u00d7 Non-agr. self employment",
+      "location": "Table 4; Impacts of business grant and training by baseline activity; Row: Grant * Non-agr. self. employment; Column: (5)",
+      "literal_text": "932.7 (1,445)",
+      "text_position": "Table 4, Row 'Grant * Non-agr. self. employment', Column (5)",
+      "_key": "9BUBMDBG",
+      "_table_number": 3,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Non-agricultural wage income - Grant \u00d7 Non-agr. self employment",
+      "location": "Table 4; Impacts of business grant and training by baseline activity; Row: Grant * Non-agr. self. employment; Column: (6)",
+      "literal_text": "-125.7 (1,002)",
+      "text_position": "Table 4, Row 'Grant * Non-agr. self. employment', Column (7)",
+      "_key": "9BUBMDBG",
+      "_table_number": 3,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Non-agriculture wage income in private sector - Grant \u00d7 Non-agr. self employment",
+      "location": "Table 4; Impacts of business grant and training by baseline activity; Row: Grant * Non-agr. self. employment; Column: (7)",
+      "literal_text": "-125.7 (1,002)",
+      "text_position": "Table 4, Row 'Grant * Non-agr. self. employment', Column (7)",
+      "_key": "9BUBMDBG",
+      "_table_number": 3,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Expenditure/Consumption",
+      "outcome_category": "ln(per capita expenditures) - Grant",
+      "location": "Table 6; Impacts of business grant and training by poverty level; Row: Grant; Column: (1) ln(per capita expenditures)",
+      "literal_text": "Grant | 0.0407 (0.0388)",
+      "text_position": "Table 6, Row 'Grant', Column (1)",
+      "_key": "9BUBMDBG",
+      "_table_number": 4,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Expenditure/Consumption",
+      "outcome_category": "ln(per capita expenditures) - Training",
+      "location": "Table 6; Impacts of business grant and training by poverty level; Row: Training; Column: (1) ln(per capita expenditures)",
+      "literal_text": "Training | 0.00597 (0.0350)",
+      "text_position": "Table 6, Row 'Training', Column (1)",
+      "_key": "9BUBMDBG",
+      "_table_number": 4,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Has non-agricultural self-employment - Grant",
+      "location": "Table 6; Impacts of business grant and training by poverty level; Row: Grant; Column: (2) Has non-agricultural self-employment",
+      "literal_text": "Grant | 0.0285 (0.0312)",
+      "text_position": "Table 6, Row 'Grant', Column (2)",
+      "_key": "9BUBMDBG",
+      "_table_number": 4,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Has non-agricultural self-employment - Training",
+      "location": "Table 6; Impacts of business grant and training by poverty level; Row: Training; Column: (2) Has non-agricultural self-employment",
+      "literal_text": "Training | -0.0269 (0.0327)",
+      "text_position": "Table 6, Row 'Training', Column (2)",
+      "_key": "9BUBMDBG",
+      "_table_number": 4,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Has non-agricultural wage job - Grant",
+      "location": "Table 6; Impacts of business grant and training by poverty level; Row: Grant; Column: (3) Has non-agricultural wage job",
+      "literal_text": "Grant | 0.00464 (0.0310)",
+      "text_position": "Table 6, Row 'Grant', Column (3)",
+      "_key": "9BUBMDBG",
+      "_table_number": 4,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Has non-agricultural wage job - Training",
+      "location": "Table 6; Impacts of business grant and training by poverty level; Row: Training; Column: (3) Has non-agricultural wage job",
+      "literal_text": "Training | 0.0661 (0.0399)",
+      "text_position": "Table 6, Row 'Training', Column (3)",
+      "_key": "9BUBMDBG",
+      "_table_number": 4,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Profits in non-agricultural self-employment - Grant",
+      "location": "Table 6; Impacts of business grant and training by poverty level; Row: Grant; Column: (4) Profits in non-agricultural self-employment",
+      "literal_text": "Grant | 145.3 (317.5)",
+      "text_position": "Table 6, Row 'Grant', Column (4)",
+      "_key": "9BUBMDBG",
+      "_table_number": 4,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Profits in non-agricultural self-employment - Training",
+      "location": "Table 6; Impacts of business grant and training by poverty level; Row: Training; Column: (4) Profits in non-agricultural self-employment",
+      "literal_text": "Training | -1,010*** (354.7)",
+      "text_position": "Table 6, Row 'Training', Column (4)",
+      "_key": "9BUBMDBG",
+      "_table_number": 4,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Brut income in non-agricultural self-employment - Grant",
+      "location": "Table 6; Impacts of business grant and training by poverty level; Row: Grant; Column: (5) Brut income in non-agricultural self-employment",
+      "literal_text": "Grant | 729.9 (444.6)",
+      "text_position": "Table 6, Row 'Grant', Column (5)",
+      "_key": "9BUBMDBG",
+      "_table_number": 4,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Brut income in non-agricultural self-employment - Training",
+      "location": "Table 6; Impacts of business grant and training by poverty level; Row: Training; Column: (5) Brut income in non-agricultural self-employment",
+      "literal_text": "Training | -551.0 (540.0)",
+      "text_position": "Table 6, Row 'Training', Column (5)",
+      "_key": "9BUBMDBG",
+      "_table_number": 4,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Non-agricultural wage income - Grant",
+      "location": "Table 6; Impacts of business grant and training by poverty level; Row: Grant; Column: (6) Non-agricultural wage income",
+      "literal_text": "Grant | 908.4 (1,057)",
+      "text_position": "Table 6, Row 'Grant', Column (6)",
+      "_key": "9BUBMDBG",
+      "_table_number": 4,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Non-agricultural wage income - Training",
+      "location": "Table 6; Impacts of business grant and training by poverty level; Row: Training; Column: (6) Non-agricultural wage income",
+      "literal_text": "Training | 2,294** (1,133)",
+      "text_position": "Table 6, Row 'Training', Column (6)",
+      "_key": "9BUBMDBG",
+      "_table_number": 4,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Non-agriculture wage income in private sector - Grant",
+      "location": "Table 6; Impacts of business grant and training by poverty level; Row: Grant; Column: (7) Non-agriculture wage income in private sector",
+      "literal_text": "Grant | 25.92 (827.8)",
+      "text_position": "Table 6, Row 'Grant', Column (7)",
+      "_key": "9BUBMDBG",
+      "_table_number": 4,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Non-agriculture wage income in private sector - Training",
+      "location": "Table 6; Impacts of business grant and training by poverty level; Row: Training; Column: (7) Non-agriculture wage income in private sector",
+      "literal_text": "Training | 2,982*** (872.8)",
+      "text_position": "Table 6, Row 'Training', Column (7)",
+      "_key": "9BUBMDBG",
+      "_table_number": 4,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Expenditure/Consumption",
+      "outcome_category": "ln(per capita expenditures) - Grant",
+      "location": "Table 7; Impacts of business grant and training by poverty level; Row: Grant; Column: (1) ln(per capita expenditures)",
+      "literal_text": "Grant | 0.0924* (0.0482)",
+      "text_position": "Table 7, Row 'Grant', Column (1)",
+      "_key": "9BUBMDBG",
+      "_table_number": 5,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Expenditure/Consumption",
+      "outcome_category": "ln(per capita expenditures) - Training",
+      "location": "Table 7; Impacts of business grant and training by poverty level; Row: Training; Column: (1) ln(per capita expenditures)",
+      "literal_text": "Training | 0.0366 (0.0459)",
+      "text_position": "Table 7, Row 'Training', Column (1)",
+      "_key": "9BUBMDBG",
+      "_table_number": 5,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Has non-agricultural self-employment - Grant",
+      "location": "Table 7; Impacts of business grant and training by poverty level; Row: Grant; Column: (2) Has non-agricultural self-employment",
+      "literal_text": "Grant | 0.0923** (0.0358)",
+      "text_position": "Table 7, Row 'Grant', Column (2)",
+      "_key": "9BUBMDBG",
+      "_table_number": 5,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Has non-agricultural self-employment - Training",
+      "location": "Table 7; Impacts of business grant and training by poverty level; Row: Training; Column: (2) Has non-agricultural self-employment",
+      "literal_text": "Training | -0.0281 (0.0351)",
+      "text_position": "Table 7, Row 'Training', Column (2)",
+      "_key": "9BUBMDBG",
+      "_table_number": 5,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Has non-agricultural wage job - Grant",
+      "location": "Table 7; Impacts of business grant and training by poverty level; Row: Grant; Column: (3) Has non-agricultural wage job",
+      "literal_text": "Grant | 0.0148 (0.0360)",
+      "text_position": "Table 7, Row 'Grant', Column (3)",
+      "_key": "9BUBMDBG",
+      "_table_number": 5,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Has non-agricultural wage job - Training",
+      "location": "Table 7; Impacts of business grant and training by poverty level; Row: Training; Column: (3) Has non-agricultural wage job",
+      "literal_text": "Training | 0.0449 (0.0397)",
+      "text_position": "Table 7, Row 'Training', Column (3)",
+      "_key": "9BUBMDBG",
+      "_table_number": 5,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Profits in non-agricultural self-employment - Grant",
+      "location": "Table 7; Impacts of business grant and training by poverty level; Row: Grant; Column: (4) Profits in non-agricultural self-employment",
+      "literal_text": "Grant | 533.5 (414.2)",
+      "text_position": "Table 7, Row 'Grant', Column (4)",
+      "_key": "9BUBMDBG",
+      "_table_number": 5,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Profits in non-agricultural self-employment - Training",
+      "location": "Table 7; Impacts of business grant and training by poverty level; Row: Training; Column: (4) Profits in non-agricultural self-employment",
+      "literal_text": "Training | -730.7 (474.6)",
+      "text_position": "Table 7, Row 'Training', Column (4)",
+      "_key": "9BUBMDBG",
+      "_table_number": 5,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Brut income in non-agricultural self-employment - Grant",
+      "location": "Table 7; Impacts of business grant and training by poverty level; Row: Grant; Column: (5) Brut income in non-agricultural self-employment",
+      "literal_text": "Grant | 521.2 (736.9)",
+      "text_position": "Table 7, Row 'Grant', Column (5)",
+      "_key": "9BUBMDBG",
+      "_table_number": 5,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Brut income in non-agricultural self-employment - Training",
+      "location": "Table 7; Impacts of business grant and training by poverty level; Row: Training; Column: (5) Brut income in non-agricultural self-employment",
+      "literal_text": "Training | -1,013 (766.0)",
+      "text_position": "Table 7, Row 'Training', Column (5)",
+      "_key": "9BUBMDBG",
+      "_table_number": 5,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Non-agricultural wage income - Grant",
+      "location": "Table 7; Impacts of business grant and training by poverty level; Row: Grant; Column: (6) Non-agricultural wage income",
+      "literal_text": "Grant | 206.3 (1,162)",
+      "text_position": "Table 7, Row 'Grant', Column (6)",
+      "_key": "9BUBMDBG",
+      "_table_number": 5,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Non-agricultural wage income - Training",
+      "location": "Table 7; Impacts of business grant and training by poverty level; Row: Training; Column: (6) Non-agricultural wage income",
+      "literal_text": "Training | 2,078 (1,356)",
+      "text_position": "Table 7, Row 'Training', Column (6)",
+      "_key": "9BUBMDBG",
+      "_table_number": 5,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Non-agriculture wage income in private sector - Grant",
+      "location": "Table 7; Impacts of business grant and training by poverty level; Row: Grant; Column: (7) Non-agriculture wage income in private sector",
+      "literal_text": "Grant | -269.6 (778.4)",
+      "text_position": "Table 7, Row 'Grant', Column (7)",
+      "_key": "9BUBMDBG",
+      "_table_number": 5,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Non-agriculture wage income in private sector - Training",
+      "location": "Table 7; Impacts of business grant and training by poverty level; Row: Training; Column: (7) Non-agriculture wage income in private sector",
+      "literal_text": "Training | 2,851*** (911.2)",
+      "text_position": "Table 7, Row 'Training', Column (7)",
+      "_key": "9BUBMDBG",
+      "_table_number": 5,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Social Capital/Empowerment",
+      "outcome_category": "Optimism - Grant",
+      "location": "Table 6; Impact of business grant and training on positive attitudes; Row: grant; Column: (1) Optimism",
+      "literal_text": "grant | 0.163** (0.0621)",
+      "text_position": "Table 6, Row 'grant', Column '(1) Optimism'",
+      "_key": "9BUBMDBG",
+      "_table_number": 6,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Social Capital/Empowerment",
+      "outcome_category": "Optimism - Training",
+      "location": "Table 6; Impact of business grant and training on positive attitudes; Row: training; Column: (1) Optimism",
+      "literal_text": "training | 0.162*** (0.0550)",
+      "text_position": "Table 6, Row 'training', Column '(1) Optimism'",
+      "_key": "9BUBMDBG",
+      "_table_number": 6,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Social Capital/Empowerment",
+      "outcome_category": "Satisfaction with life - Grant",
+      "location": "Table 6; Impact of business grant and training on positive attitudes; Row: grant; Column: (2) Satisfaction with life",
+      "literal_text": "grant | 0.126** (0.0484)",
+      "text_position": "Table 6, Row 'grant', Column '(2) Satisfaction with life'",
+      "_key": "9BUBMDBG",
+      "_table_number": 6,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Social Capital/Empowerment",
+      "outcome_category": "Satisfaction with life - Training",
+      "location": "Table 6; Impact of business grant and training on positive attitudes; Row: training; Column: (2) Satisfaction with life",
+      "literal_text": "training | 0.0164 (0.0485)",
+      "text_position": "Table 6, Row 'training', Column '(2) Satisfaction with life'",
+      "_key": "9BUBMDBG",
+      "_table_number": 6,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Social Capital/Empowerment",
+      "outcome_category": "Happiness - Grant",
+      "location": "Table 6; Impact of business grant and training on positive attitudes; Row: grant; Column: (3) Happiness",
+      "literal_text": "grant | 0.0955** (0.0458)",
+      "text_position": "Table 6, Row 'grant', Column '(3) Happiness'",
+      "_key": "9BUBMDBG",
+      "_table_number": 6,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Social Capital/Empowerment",
+      "outcome_category": "Happiness - Training",
+      "location": "Table 6; Impact of business grant and training on positive attitudes; Row: training; Column: (3) Happiness",
+      "literal_text": "training | 0.0482 (0.0470)",
+      "text_position": "Table 6, Row 'training', Column '(3) Happiness'",
+      "_key": "9BUBMDBG",
+      "_table_number": 6,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Social Capital/Empowerment",
+      "outcome_category": "Feeling moving forward in life - Grant",
+      "location": "Table 6; Impact of business grant and training on positive attitudes; Row: grant; Column: (4) Feeling moving forward in life",
+      "literal_text": "grant | 0.486*** (0.0532)",
+      "text_position": "Table 6, Row 'grant', Column '(4) Feeling moving forward in life'",
+      "_key": "9BUBMDBG",
+      "_table_number": 6,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Social Capital/Empowerment",
+      "outcome_category": "Feeling moving forward in life - Training",
+      "location": "Table 6; Impact of business grant and training on positive attitudes; Row: training; Column: (4) Feeling moving forward in life",
+      "literal_text": "training | 0.292*** (0.0531)",
+      "text_position": "Table 6, Row 'training', Column '(4) Feeling moving forward in life'",
+      "_key": "9BUBMDBG",
+      "_table_number": 6,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Social Capital/Empowerment",
+      "outcome_category": "Index positive attitudes - Grant",
+      "location": "Table 6; Impact of business grant and training on positive attitudes; Row: grant; Column: (5) Index positive attitudes",
+      "literal_text": "grant | 0.216*** (0.0387)",
+      "text_position": "Table 6, Row 'grant', Column '(5) Index positive attitudes'",
+      "_key": "9BUBMDBG",
+      "_table_number": 6,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Social Capital/Empowerment",
+      "outcome_category": "Index positive attitudes - Training",
+      "location": "Table 6; Impact of business grant and training on positive attitudes; Row: training; Column: (5) Index positive attitudes",
+      "literal_text": "training | 0.131*** (0.0359)",
+      "text_position": "Table 6, Row 'training', Column '(5) Index positive attitudes'",
+      "_key": "9BUBMDBG",
+      "_table_number": 6,
+      "_extraction_method": "twopass_llm"
+    }
+  ]
+}

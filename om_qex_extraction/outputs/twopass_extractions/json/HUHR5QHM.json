@@ -1,0 +1,129 @@
+{
+  "key": "HUHR5QHM",
+  "total_tables": 4,
+  "results_tables": 2,
+  "excluded_tables": 2,
+  "total_outcomes": 12,
+  "outcomes": [
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Crop land area - Beneficiaries",
+      "location": "Table 3; Agricultural performance; Row: Crop_land; Column: Beneficiaries",
+      "literal_text": "-0.434*** (0.026)",
+      "text_position": "Table 3, Row 'Crop_land', Column 'Beneficiaries'",
+      "_key": "HUHR5QHM",
+      "_table_number": 3,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Crop land area - Non-beneficiaries",
+      "location": "Table 3; Agricultural performance; Row: Crop_land; Column: Non-beneficiaries",
+      "literal_text": "-0.338*** (0.098)",
+      "text_position": "Table 3, Row 'Crop_land', Column 'Non-beneficiaries'",
+      "_key": "HUHR5QHM",
+      "_table_number": 3,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Expenditure/Consumption",
+      "outcome_category": "Seed expenditure - Beneficiaries",
+      "location": "Table 3; Agricultural performance; Row: Seedexp; Column: Beneficiaries",
+      "literal_text": "-0.002 (0.036)",
+      "text_position": "Table 3, Row 'Seedexp', Column 'Beneficiaries'",
+      "_key": "HUHR5QHM",
+      "_table_number": 3,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Expenditure/Consumption",
+      "outcome_category": "Seed expenditure - Non-beneficiaries",
+      "location": "Table 3; Agricultural performance; Row: Seedexp; Column: Non-beneficiaries",
+      "literal_text": "0.019** (0.008)",
+      "text_position": "Table 3, Row 'Seedexp', Column 'Non-beneficiaries'",
+      "_key": "HUHR5QHM",
+      "_table_number": 3,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Expenditure/Consumption",
+      "outcome_category": "Chemical expenditure - Beneficiaries",
+      "location": "Table 3; Agricultural performance; Row: Chemexp; Column: Beneficiaries",
+      "literal_text": "0.055*** (0.021)",
+      "text_position": "Table 3, Row 'Chemexp', Column 'Beneficiaries'",
+      "_key": "HUHR5QHM",
+      "_table_number": 3,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Expenditure/Consumption",
+      "outcome_category": "Chemical expenditure - Non-beneficiaries",
+      "location": "Table 3; Agricultural performance; Row: Chemexp; Column: Non-beneficiaries",
+      "literal_text": "0.048*** (0.005)",
+      "text_position": "Table 3, Row 'Chemexp', Column 'Non-beneficiaries'",
+      "_key": "HUHR5QHM",
+      "_table_number": 3,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Expenditure/Consumption",
+      "outcome_category": "Labor expenditure - Beneficiaries",
+      "location": "Table 3; Agricultural performance; Row: Laborexp; Column: Beneficiaries",
+      "literal_text": "0.011 (0.019)",
+      "text_position": "Table 3, Row 'Laborexp', Column 'Beneficiaries'",
+      "_key": "HUHR5QHM",
+      "_table_number": 3,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Expenditure/Consumption",
+      "outcome_category": "Labor expenditure - Non-beneficiaries",
+      "location": "Table 3; Agricultural performance; Row: Laborexp; Column: Non-beneficiaries",
+      "literal_text": "0.018*** (0.005)",
+      "text_position": "Table 3, Row 'Laborexp', Column 'Non-beneficiaries'",
+      "_key": "HUHR5QHM",
+      "_table_number": 3,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Training/Extension for Crops - Beneficiaries",
+      "location": "Table 3; Agricultural performance; Row: Dtrain_Ext_Crop; Column: Beneficiaries",
+      "literal_text": "0.429* (0.223)",
+      "text_position": "Table 3, Row 'Dtrain_Ext_Crop', Column 'Beneficiaries'",
+      "_key": "HUHR5QHM",
+      "_table_number": 3,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Training/Extension for Crops - Non-beneficiaries",
+      "location": "Table 3; Agricultural performance; Row: Dtrain_Ext_Crop; Column: Non-beneficiaries",
+      "literal_text": "0.118** (0.059)",
+      "text_position": "Table 3, Row 'Dtrain_Ext_Crop', Column 'Non-beneficiaries'",
+      "_key": "HUHR5QHM",
+      "_table_number": 3,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Average Treatment Effect on Treated (ATT) - Beneficiaries",
+      "location": "Table 4; Row: ATT (beneficiaries); Column: Coef",
+      "literal_text": "ATT (beneficiaries) | 57,125*** (t=15.17)",
+      "text_position": "Table 4, Row 'ATT (beneficiaries)', Column 'Coef'",
+      "_key": "HUHR5QHM",
+      "_table_number": 4,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Average Treatment Effect on Untreated (ATU) - Non-beneficiaries",
+      "location": "Table 4; Row: ATU (non-beneficiaries); Column: Coef",
+      "literal_text": "ATU (non-beneficiaries) | 34,136*** (t=89.59)",
+      "text_position": "Table 4, Row 'ATU (non-beneficiaries)', Column 'Coef'",
+      "_key": "HUHR5QHM",
+      "_table_number": 4,
+      "_extraction_method": "twopass_llm"
+    }
+  ]
+}

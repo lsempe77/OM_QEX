@@ -13,12 +13,31 @@ venv/
 # Data files (optional - uncomment to exclude large data files)
 # data/grobid_outputs/
 
-# PDFs
+# PDFs - exclude all except validation set
 *.pdf
+# But include the 15 validation papers (negation pattern)
+!data/pdfs/HUHR5QHM.pdf
+!data/pdfs/PHRKN65M.pdf
+!data/pdfs/6WTBIFX2.pdf
+!data/pdfs/UBFBIAVN.pdf
+!data/pdfs/55XQSDKK.pdf
+!data/pdfs/ABM3E3ZP.pdf
+!data/pdfs/V5P2S7S3.pdf
+!data/pdfs/K2ZJ4QNZ.pdf
+!data/pdfs/949EZS93.pdf
+!data/pdfs/DXHZBI2X.pdf
+!data/pdfs/9BUBMDBG.pdf
+!data/pdfs/36VWQDDT.pdf
+!data/pdfs/XWDVG8KS.pdf
+!data/pdfs/HWR58RZK.pdf
+!data/pdfs/CG73D75P.pdf
 
-# Outputs
+# Outputs - exclude most but keep extraction results
 *.log
 om_qex_extraction/outputs/
+# But include the twopass extractions for deployment
+!om_qex_extraction/outputs/twopass_extractions/
+!om_qex_extraction/outputs/twopass_extractions/**
 
 # Config files with secrets
 om_qex_extraction/config/config.yaml

@@ -1,0 +1,119 @@
+{
+  "key": "949EZS93",
+  "total_tables": 7,
+  "results_tables": 4,
+  "excluded_tables": 3,
+  "total_outcomes": 11,
+  "outcomes": [
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Total labor hours",
+      "location": "Table 3; Row: Total labor hours",
+      "literal_text": "Total labor hours",
+      "text_position": "Table 3, Column 1",
+      "_key": "949EZS93",
+      "_table_number": 3,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Chores hours",
+      "location": "Table 3; Row: Chores",
+      "literal_text": "Chores",
+      "text_position": "Table 3, Column 2",
+      "_key": "949EZS93",
+      "_table_number": 3,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Farm work hours",
+      "location": "Table 3; Row: Farm work",
+      "literal_text": "Farm work",
+      "text_position": "Table 3, Column 3",
+      "_key": "949EZS93",
+      "_table_number": 3,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Skilled labor hours",
+      "location": "Table 3; Row: Skilled labor",
+      "literal_text": "Skilled labor",
+      "text_position": "Table 3, Column 4",
+      "_key": "949EZS93",
+      "_table_number": 3,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Total labor hours",
+      "location": "Table 4; Row: Total labor hours",
+      "literal_text": "Total labor hours",
+      "text_position": "Table 4, Column 1",
+      "_key": "949EZS93",
+      "_table_number": 4,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Chores hours",
+      "location": "Table 4; Row: Chores",
+      "literal_text": "Chores",
+      "text_position": "Table 4, Column 2",
+      "_key": "949EZS93",
+      "_table_number": 4,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Farm work hours",
+      "location": "Table 4; Row: Farm work",
+      "literal_text": "Farm work",
+      "text_position": "Table 4, Column 3",
+      "_key": "949EZS93",
+      "_table_number": 4,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Skilled labor hours",
+      "location": "Table 4; Row: Skilled labor",
+      "literal_text": "Skilled labor",
+      "text_position": "Table 4, Column 4",
+      "_key": "949EZS93",
+      "_table_number": 4,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Total labor days",
+      "location": "Table 7; Row: Total labor days; Column: (1)",
+      "literal_text": "Total labor days",
+      "text_position": "Table 7, Column 1",
+      "_key": "949EZS93",
+      "_table_number": 7,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Farm work labor days",
+      "location": "Table 7; Row: Farm work; Column: (2)",
+      "literal_text": "Farm work",
+      "text_position": "Table 7, Column 2",
+      "_key": "949EZS93",
+      "_table_number": 7,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Skilled labor days",
+      "location": "Table 7; Row: Skilled labor; Column: (3)",
+      "literal_text": "Skilled labor",
+      "text_position": "Table 7, Column 3",
+      "_key": "949EZS93",
+      "_table_number": 7,
+      "_extraction_method": "twopass_llm"
+    }
+  ]
+}

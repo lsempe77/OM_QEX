@@ -1,0 +1,589 @@
+{
+  "key": "CG73D75P",
+  "total_tables": 34,
+  "results_tables": 6,
+  "excluded_tables": 28,
+  "total_outcomes": 58,
+  "outcomes": [
+    {
+      "outcome_group": "Expenditure/Consumption",
+      "outcome_category": "Monthly consumption per capita (pesos) - Group Livelihood vs Control",
+      "location": "Table 10; Row: T1: Grp LH / Grp C; Column: (1) Monthly consumption per capita (pesos)",
+      "literal_text": "311** (119) [0.01]",
+      "text_position": "Table 10, Row 'T1: Grp LH / Grp C', Column '(1)'",
+      "_key": "CG73D75P",
+      "_table_number": 10,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Expenditure/Consumption",
+      "outcome_category": "Monthly consumption per capita (pesos) - Individual Livelihood vs Group Control",
+      "location": "Table 10; Row: T2: Ind LH / Grp C; Column: (1) Monthly consumption per capita (pesos)",
+      "literal_text": "342*** (96) [<0.01]",
+      "text_position": "Table 10, Row 'T2: Ind LH / Grp C', Column '(1)'",
+      "_key": "CG73D75P",
+      "_table_number": 10,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Expenditure/Consumption",
+      "outcome_category": "Monthly consumption per capita (pesos) - Individual Livelihood vs Individual Control",
+      "location": "Table 10; Row: T3: Ind LH / Ind C; Column: (1) Monthly consumption per capita (pesos)",
+      "literal_text": "334*** (114) [0.01]",
+      "text_position": "Table 10, Row 'T3: Ind LH / Ind C', Column '(1)'",
+      "_key": "CG73D75P",
+      "_table_number": 10,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Food Security",
+      "outcome_category": "Food security index - Group Livelihood vs Control",
+      "location": "Table 10; Row: T1: Grp LH / Grp C; Column: (2) Food security index",
+      "literal_text": "0.20*** (0.05) [<0.01]",
+      "text_position": "Table 10, Row 'T1: Grp LH / Grp C', Column '(2)'",
+      "_key": "CG73D75P",
+      "_table_number": 10,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Food Security",
+      "outcome_category": "Food security index - Individual Livelihood vs Group Control",
+      "location": "Table 10; Row: T2: Ind LH / Grp C; Column: (2) Food security index",
+      "literal_text": "0.26*** (0.05) [<0.01]",
+      "text_position": "Table 10, Row 'T2: Ind LH / Grp C', Column '(2)'",
+      "_key": "CG73D75P",
+      "_table_number": 10,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Food Security",
+      "outcome_category": "Food security index - Individual Livelihood vs Individual Control",
+      "location": "Table 10; Row: T3: Ind LH / Ind C; Column: (2) Food security index",
+      "literal_text": "0.28*** (0.05) [<0.01]",
+      "text_position": "Table 10, Row 'T3: Ind LH / Ind C', Column '(2)'",
+      "_key": "CG73D75P",
+      "_table_number": 10,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Assets",
+      "outcome_category": "Value of productive assets (pesos) - Group Livelihood vs Control",
+      "location": "Table 10; Row: T1: Grp LH / Grp C; Column: (3) Value of productive assets (pesos)",
+      "literal_text": "1954* (1054) [0.09]",
+      "text_position": "Table 10, Row 'T1: Grp LH / Grp C', Column '(3)'",
+      "_key": "CG73D75P",
+      "_table_number": 10,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Assets",
+      "outcome_category": "Value of productive assets (pesos) - Individual Livelihood vs Group Control",
+      "location": "Table 10; Row: T2: Ind LH / Grp C; Column: (3) Value of productive assets (pesos)",
+      "literal_text": "4200*** (1296) [<0.01]",
+      "text_position": "Table 10, Row 'T2: Ind LH / Grp C', Column '(3)'",
+      "_key": "CG73D75P",
+      "_table_number": 10,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Assets",
+      "outcome_category": "Value of productive assets (pesos) - Individual Livelihood vs Individual Control",
+      "location": "Table 10; Row: T3: Ind LH / Ind C; Column: (3) Value of productive assets (pesos)",
+      "literal_text": "4484*** (1044) [<0.01]",
+      "text_position": "Table 10, Row 'T3: Ind LH / Ind C', Column '(3)'",
+      "_key": "CG73D75P",
+      "_table_number": 10,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Monthly income (pesos) - Group Livelihood vs Control",
+      "location": "Table 10; Row: T1: Grp LH / Grp C; Column: (4) Monthly income (pesos)",
+      "literal_text": "4 (2072) [0.67]",
+      "text_position": "Table 10, Row 'T1: Grp LH / Grp C', Column '(4)'",
+      "_key": "CG73D75P",
+      "_table_number": 10,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Monthly income (pesos) - Individual Livelihood vs Group Control",
+      "location": "Table 10; Row: T2: Ind LH / Grp C; Column: (4) Monthly income (pesos)",
+      "literal_text": "1143 (2005) [0.45]",
+      "text_position": "Table 10, Row 'T2: Ind LH / Grp C', Column '(4)'",
+      "_key": "CG73D75P",
+      "_table_number": 10,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Monthly income (pesos) - Individual Livelihood vs Individual Control",
+      "location": "Table 10; Row: T3: Ind LH / Ind C; Column: (4) Monthly income (pesos)",
+      "literal_text": "2893 (2785) [0.26]",
+      "text_position": "Table 10, Row 'T3: Ind LH / Ind C', Column '(4)'",
+      "_key": "CG73D75P",
+      "_table_number": 10,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Other",
+      "outcome_category": "Subjective well-being index - Group Livelihood vs Control",
+      "location": "Table 10; Row: T1: Grp LH / Grp C; Column: (5) Subjective well-being index",
+      "literal_text": "0.05 (0.05) [0.28]",
+      "text_position": "Table 10, Row 'T1: Grp LH / Grp C', Column '(5)'",
+      "_key": "CG73D75P",
+      "_table_number": 10,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Other",
+      "outcome_category": "Subjective well-being index - Individual Livelihood vs Group Control",
+      "location": "Table 10; Row: T2: Ind LH / Grp C; Column: (5) Subjective well-being index",
+      "literal_text": "0.13*** (0.04) [<0.01]",
+      "text_position": "Table 10, Row 'T2: Ind LH / Grp C', Column '(5)'",
+      "_key": "CG73D75P",
+      "_table_number": 10,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Other",
+      "outcome_category": "Subjective well-being index - Individual Livelihood vs Individual Control",
+      "location": "Table 10; Row: T3: Ind LH / Ind C; Column: (5) Subjective well-being index",
+      "literal_text": "0.08* (0.04) [0.09]",
+      "text_position": "Table 10, Row 'T3: Ind LH / Ind C', Column '(5)'",
+      "_key": "CG73D75P",
+      "_table_number": 10,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Expenditure/Consumption",
+      "outcome_category": "Total consumption expenditure",
+      "location": "Table 11; Row: Treatment; Column: (1) Total",
+      "literal_text": "Treatment effect estimate shown in column (1)",
+      "text_position": "Table 11, Column (1)",
+      "_key": "CG73D75P",
+      "_table_number": 11,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Food Security",
+      "outcome_category": "Food consumption expenditure",
+      "location": "Table 11; Row: Treatment; Column: (2) Food",
+      "literal_text": "Treatment effect estimate shown in column (2)",
+      "text_position": "Table 11, Column (2)",
+      "_key": "CG73D75P",
+      "_table_number": 11,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Expenditure/Consumption",
+      "outcome_category": "Non-food consumables expenditure",
+      "location": "Table 11; Row: Treatment; Column: (3) Non-food consumables",
+      "literal_text": "Treatment effect estimate shown in column (3)",
+      "text_position": "Table 11, Column (3)",
+      "_key": "CG73D75P",
+      "_table_number": 11,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Assets",
+      "outcome_category": "Durables expenditure",
+      "location": "Table 11; Row: Treatment; Column: (4) Durables",
+      "literal_text": "Treatment effect estimate shown in column (4)",
+      "text_position": "Table 11, Column (4)",
+      "_key": "CG73D75P",
+      "_table_number": 11,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Food Security",
+      "outcome_category": "Food security index",
+      "location": "Table 12; Row: T1: Grp LH / Grp C; Column: (1) Food security index",
+      "literal_text": "T1: Grp LH / Grp C | 0.20*** (0.05)",
+      "text_position": "Table 12, Row 'T1: Grp LH / Grp C', Column '(1) Food security index'",
+      "_key": "CG73D75P",
+      "_table_number": 12,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Food Security",
+      "outcome_category": "Food security index",
+      "location": "Table 12; Row: T2: Ind LH / Grp C; Column: (1) Food security index",
+      "literal_text": "T2: Ind LH / Grp C | 0.25*** (0.05)",
+      "text_position": "Table 12, Row 'T2: Ind LH / Grp C', Column '(1) Food security index'",
+      "_key": "CG73D75P",
+      "_table_number": 12,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Food Security",
+      "outcome_category": "Food security index",
+      "location": "Table 12; Row: T3: Ind LH / Ind C; Column: (1) Food security index",
+      "literal_text": "T3: Ind LH / Ind C | 0.28*** (0.05)",
+      "text_position": "Table 12, Row 'T3: Ind LH / Ind C', Column '(1) Food security index'",
+      "_key": "CG73D75P",
+      "_table_number": 12,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Expenditure/Consumption",
+      "outcome_category": "Food Consumption Score",
+      "location": "Table 12; Row: T1: Grp LH / Grp C; Column: (2) Food Consumption Score",
+      "literal_text": "T1: Grp LH / Grp C | 3.74*** (1.03)",
+      "text_position": "Table 12, Row 'T1: Grp LH / Grp C', Column '(2) Food Consumption Score'",
+      "_key": "CG73D75P",
+      "_table_number": 12,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Expenditure/Consumption",
+      "outcome_category": "Food Consumption Score",
+      "location": "Table 12; Row: T2: Ind LH / Grp C; Column: (2) Food Consumption Score",
+      "literal_text": "T2: Ind LH / Grp C | 5.13*** (1.04)",
+      "text_position": "Table 12, Row 'T2: Ind LH / Grp C', Column '(2) Food Consumption Score'",
+      "_key": "CG73D75P",
+      "_table_number": 12,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Expenditure/Consumption",
+      "outcome_category": "Food Consumption Score",
+      "location": "Table 12; Row: T3: Ind LH / Ind C; Column: (2) Food Consumption Score",
+      "literal_text": "T3: Ind LH / Ind C | 5.51*** (0.99)",
+      "text_position": "Table 12, Row 'T3: Ind LH / Ind C', Column '(2) Food Consumption Score'",
+      "_key": "CG73D75P",
+      "_table_number": 12,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Food Security",
+      "outcome_category": "Reversed HFIAS Score",
+      "location": "Table 12; Row: T1: Grp LH / Grp C; Column: (3) Reversed HFIAS Score",
+      "literal_text": "T1: Grp LH / Grp C | 0.85*** (0.29)",
+      "text_position": "Table 12, Row 'T1: Grp LH / Grp C', Column '(3) Reversed HFIAS Score'",
+      "_key": "CG73D75P",
+      "_table_number": 12,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Food Security",
+      "outcome_category": "Reversed HFIAS Score",
+      "location": "Table 12; Row: T2: Ind LH / Grp C; Column: (3) Reversed HFIAS Score",
+      "literal_text": "T2: Ind LH / Grp C | 1.05*** (0.25)",
+      "text_position": "Table 12, Row 'T2: Ind LH / Grp C', Column '(3) Reversed HFIAS Score'",
+      "_key": "CG73D75P",
+      "_table_number": 12,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Food Security",
+      "outcome_category": "Reversed HFIAS Score",
+      "location": "Table 12; Row: T3: Ind LH / Ind C; Column: (3) Reversed HFIAS Score",
+      "literal_text": "T3: Ind LH / Ind C | 0.83*** (0.26)",
+      "text_position": "Table 12, Row 'T3: Ind LH / Ind C', Column '(3) Reversed HFIAS Score'",
+      "_key": "CG73D75P",
+      "_table_number": 12,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Food Security",
+      "outcome_category": "Rice and meat consumption index",
+      "location": "Table 12; Row: T1: Grp LH / Grp C; Column: (4) Rice and meat consumption index",
+      "literal_text": "T1: Grp LH / Grp C | 0.03 (0.04)",
+      "text_position": "Table 12, Row 'T1: Grp LH / Grp C', Column '(4) Rice and meat consumption index'",
+      "_key": "CG73D75P",
+      "_table_number": 12,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Food Security",
+      "outcome_category": "Rice and meat consumption index",
+      "location": "Table 12; Row: T2: Ind LH / Grp C; Column: (4) Rice and meat consumption index",
+      "literal_text": "T2: Ind LH / Grp C | 0.02 (0.04)",
+      "text_position": "Table 12, Row 'T2: Ind LH / Grp C', Column '(4) Rice and meat consumption index'",
+      "_key": "CG73D75P",
+      "_table_number": 12,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Food Security",
+      "outcome_category": "Rice and meat consumption index",
+      "location": "Table 12; Row: T3: Ind LH / Ind C; Column: (4) Rice and meat consumption index",
+      "literal_text": "T3: Ind LH / Ind C | 0.08** (0.04)",
+      "text_position": "Table 12, Row 'T3: Ind LH / Ind C', Column '(4) Rice and meat consumption index'",
+      "_key": "CG73D75P",
+      "_table_number": 12,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Assets",
+      "outcome_category": "Value of productive assets - Group Livelihood vs Control",
+      "location": "Table 13; Row: T1: Grp LH / Grp C; Column: (1) Value of productive assets",
+      "literal_text": "1954* (1054)",
+      "text_position": "Table 13, Row 'T1: Grp LH / Grp C', Column '(1)'",
+      "_key": "CG73D75P",
+      "_table_number": 13,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Assets",
+      "outcome_category": "Value of productive assets - Individual Livelihood vs Group Control",
+      "location": "Table 13; Row: T2: Ind LH / Grp C; Column: (1) Value of productive assets",
+      "literal_text": "4200*** (1296)",
+      "text_position": "Table 13, Row 'T2: Ind LH / Grp C', Column '(1)'",
+      "_key": "CG73D75P",
+      "_table_number": 13,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Assets",
+      "outcome_category": "Value of productive assets - Individual Livelihood vs Individual Control",
+      "location": "Table 13; Row: T3: Ind LH / Ind C; Column: (1) Value of productive assets",
+      "literal_text": "4484*** (1044)",
+      "text_position": "Table 13, Row 'T3: Ind LH / Ind C', Column '(1)'",
+      "_key": "CG73D75P",
+      "_table_number": 13,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Assets",
+      "outcome_category": "Livestock value - Group Livelihood vs Control",
+      "location": "Table 13; Row: T1: Grp LH / Grp C; Column: (2) Livestock value",
+      "literal_text": "868 (946)",
+      "text_position": "Table 13, Row 'T1: Grp LH / Grp C', Column '(2)'",
+      "_key": "CG73D75P",
+      "_table_number": 13,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Assets",
+      "outcome_category": "Livestock value - Individual Livelihood vs Group Control",
+      "location": "Table 13; Row: T2: Ind LH / Grp C; Column: (2) Livestock value",
+      "literal_text": "3060** (1218)",
+      "text_position": "Table 13, Row 'T2: Ind LH / Grp C', Column '(2)'",
+      "_key": "CG73D75P",
+      "_table_number": 13,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Assets",
+      "outcome_category": "Livestock value - Individual Livelihood vs Individual Control",
+      "location": "Table 13; Row: T3: Ind LH / Ind C; Column: (2) Livestock value",
+      "literal_text": "2497** (993)",
+      "text_position": "Table 13, Row 'T3: Ind LH / Ind C', Column '(2)'",
+      "_key": "CG73D75P",
+      "_table_number": 13,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Assets",
+      "outcome_category": "Livestock structure value - Group Livelihood vs Control",
+      "location": "Table 13; Row: T1: Grp LH / Grp C; Column: (3) Livestock structure value",
+      "literal_text": "133 (117)",
+      "text_position": "Table 13, Row 'T1: Grp LH / Grp C', Column '(3)'",
+      "_key": "CG73D75P",
+      "_table_number": 13,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Assets",
+      "outcome_category": "Livestock structure value - Individual Livelihood vs Group Control",
+      "location": "Table 13; Row: T2: Ind LH / Grp C; Column: (3) Livestock structure value",
+      "literal_text": "289** (126)",
+      "text_position": "Table 13, Row 'T2: Ind LH / Grp C', Column '(3)'",
+      "_key": "CG73D75P",
+      "_table_number": 13,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Assets",
+      "outcome_category": "Livestock structure value - Individual Livelihood vs Individual Control",
+      "location": "Table 13; Row: T3: Ind LH / Ind C; Column: (3) Livestock structure value",
+      "literal_text": "402*** (131)",
+      "text_position": "Table 13, Row 'T3: Ind LH / Ind C', Column '(3)'",
+      "_key": "CG73D75P",
+      "_table_number": 13,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Assets",
+      "outcome_category": "Business asset value - Group Livelihood vs Control",
+      "location": "Table 13; Row: T1: Grp LH / Grp C; Column: (4) Business asset value",
+      "literal_text": "881*** (315)",
+      "text_position": "Table 13, Row 'T1: Grp LH / Grp C', Column '(4)'",
+      "_key": "CG73D75P",
+      "_table_number": 13,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Assets",
+      "outcome_category": "Business asset value - Individual Livelihood vs Group Control",
+      "location": "Table 13; Row: T2: Ind LH / Grp C; Column: (4) Business asset value",
+      "literal_text": "597* (327)",
+      "text_position": "Table 13, Row 'T2: Ind LH / Grp C', Column '(4)'",
+      "_key": "CG73D75P",
+      "_table_number": 13,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Assets",
+      "outcome_category": "Business asset value - Individual Livelihood vs Individual Control",
+      "location": "Table 13; Row: T3: Ind LH / Ind C; Column: (4) Business asset value",
+      "literal_text": "1258*** (334)",
+      "text_position": "Table 13, Row 'T3: Ind LH / Ind C', Column '(4)'",
+      "_key": "CG73D75P",
+      "_table_number": 13,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Assets",
+      "outcome_category": "Business inventory value - Group Livelihood vs Control",
+      "location": "Table 13; Row: T1: Grp LH / Grp C; Column: (5) Business inventory value",
+      "literal_text": "72 (84)",
+      "text_position": "Table 13, Row 'T1: Grp LH / Grp C', Column '(5)'",
+      "_key": "CG73D75P",
+      "_table_number": 13,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Assets",
+      "outcome_category": "Business inventory value - Individual Livelihood vs Group Control",
+      "location": "Table 13; Row: T2: Ind LH / Grp C; Column: (5) Business inventory value",
+      "literal_text": "254*** (94)",
+      "text_position": "Table 13, Row 'T2: Ind LH / Grp C', Column '(5)'",
+      "_key": "CG73D75P",
+      "_table_number": 13,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Assets",
+      "outcome_category": "Business inventory value - Individual Livelihood vs Individual Control",
+      "location": "Table 13; Row: T3: Ind LH / Ind C; Column: (5) Business inventory value",
+      "literal_text": "327*** (101)",
+      "text_position": "Table 13, Row 'T3: Ind LH / Ind C', Column '(5)'",
+      "_key": "CG73D75P",
+      "_table_number": 13,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Total income (sum of all sources)",
+      "location": "Table 14; Row: T1: Grp LH / Grp C, T2: Ind LH / Grp C, T3: Ind LH / Ind C; Column: (1) Total",
+      "literal_text": "T1: 4 (2072), T2: 1124 (2005), T3: 2893 (2785)",
+      "text_position": "Table 14, Column (1)",
+      "_key": "CG73D75P",
+      "_table_number": 14,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Income from paid work",
+      "location": "Table 14; Row: T1: Grp LH / Grp C, T2: Ind LH / Grp C, T3: Ind LH / Ind C; Column: (2) Paid work",
+      "literal_text": "T1: 244 (293), T2: 396 (250), T3: 54 (242)",
+      "text_position": "Table 14, Column (2)",
+      "_key": "CG73D75P",
+      "_table_number": 14,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Business profits",
+      "location": "Table 14; Row: T1: Grp LH / Grp C, T2: Ind LH / Grp C, T3: Ind LH / Ind C; Column: (3) Business profits",
+      "literal_text": "T1: 32 (168), T2: 131 (148), T3: 318* (169)",
+      "text_position": "Table 14, Column (3)",
+      "_key": "CG73D75P",
+      "_table_number": 14,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Net revenue from agriculture",
+      "location": "Table 14; Row: T1: Grp LH / Grp C, T2: Ind LH / Grp C, T3: Ind LH / Ind C; Column: (4) Net revenue from agriculture",
+      "literal_text": "T1: -296 (1999), T2: -28 (1845), T3: 1751 (2600)",
+      "text_position": "Table 14, Column (4)",
+      "_key": "CG73D75P",
+      "_table_number": 14,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Net revenue from livestock",
+      "location": "Table 14; Row: T1: Grp LH / Grp C, T2: Ind LH / Grp C, T3: Ind LH / Ind C; Column: (5) Net revenue from livestock",
+      "literal_text": "T1: 87 (128), T2: 25 (108), T3: 167 (114)",
+      "text_position": "Table 14, Column (5)",
+      "_key": "CG73D75P",
+      "_table_number": 14,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Remittances",
+      "location": "Table 14; Row: T1: Grp LH / Grp C, T2: Ind LH / Grp C, T3: Ind LH / Ind C; Column: (6) Remittances",
+      "literal_text": "T1: -60 (418), T2: 633 (491), T3: 566 (473)",
+      "text_position": "Table 14, Column (6)",
+      "_key": "CG73D75P",
+      "_table_number": 14,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Social assistance",
+      "location": "Table 14; Row: T1: Grp LH / Grp C, T2: Ind LH / Grp C, T3: Ind LH / Ind C; Column: (7) Social assistance",
+      "literal_text": "T1: 35 (122), T2: -14 (145), T3: 42 (161)",
+      "text_position": "Table 14, Column (7)",
+      "_key": "CG73D75P",
+      "_table_number": 14,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Agriculture gross revenue",
+      "location": "Table 15; Row: T1: Grp LH / Grp C, T2: Ind LH / Grp C, T3: Ind LH / Ind C; Column: (1) Agriculture gross revenue",
+      "literal_text": "T1: -264 (2012), T2: 38 (1856), T3: 1713 (2608)",
+      "text_position": "Table 15, Column (1)",
+      "_key": "CG73D75P",
+      "_table_number": 15,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Expenditure/Consumption",
+      "outcome_category": "Agriculture expenses",
+      "location": "Table 15; Row: T1: Grp LH / Grp C, T2: Ind LH / Grp C, T3: Ind LH / Ind C; Column: (2) Agriculture expenses",
+      "literal_text": "T1: 16 (23), T2: 45** (23), T3: 27 (21)",
+      "text_position": "Table 15, Column (2)",
+      "_key": "CG73D75P",
+      "_table_number": 15,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Livestock gross revenue",
+      "location": "Table 15; Row: T1: Grp LH / Grp C, T2: Ind LH / Grp C, T3: Ind LH / Ind C; Column: (3) Livestock gross revenue",
+      "literal_text": "T1: 192 (130), T2: 259** (106), T3: 344*** (123)",
+      "text_position": "Table 15, Column (3)",
+      "_key": "CG73D75P",
+      "_table_number": 15,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Expenditure/Consumption",
+      "outcome_category": "Livestock expenses and purchases",
+      "location": "Table 15; Row: T1: Grp LH / Grp C, T2: Ind LH / Grp C, T3: Ind LH / Ind C; Column: (4) Livestock expenses and purchases",
+      "literal_text": "T1: 105* (58), T2: 234*** (53), T3: 178*** (54)",
+      "text_position": "Table 15, Column (4)",
+      "_key": "CG73D75P",
+      "_table_number": 15,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Assets",
+      "outcome_category": "Change in livestock value",
+      "location": "Table 15; Row: T1: Grp LH / Grp C, T2: Ind LH / Grp C, T3: Ind LH / Ind C; Column: (5) Change in livestock value",
+      "literal_text": "T1: -93 (67), T2: -193*** (58), T3: -159** (61)",
+      "text_position": "Table 15, Column (5)",
+      "_key": "CG73D75P",
+      "_table_number": 15,
+      "_extraction_method": "twopass_llm"
+    }
+  ]
+}

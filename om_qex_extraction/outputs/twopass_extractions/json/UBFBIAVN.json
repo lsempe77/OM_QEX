@@ -1,0 +1,19 @@
+{
+  "key": "UBFBIAVN",
+  "total_tables": 2,
+  "results_tables": 1,
+  "excluded_tables": 1,
+  "total_outcomes": 1,
+  "outcomes": [
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Total household income (USD)",
+      "location": "Page 1; Table 3; Row: Total household income; Column: Treatment effect",
+      "literal_text": "Treatment effect | 245.32** (112.45)",
+      "text_position": "Table 3, Row 'Total household income', Column 'Treatment effect'",
+      "_key": "UBFBIAVN",
+      "_table_number": 2,
+      "_extraction_method": "twopass_llm"
+    }
+  ]
+}

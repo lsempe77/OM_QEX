@@ -1,0 +1,449 @@
+{
+  "key": "6WTBIFX2",
+  "total_tables": 8,
+  "results_tables": 4,
+  "excluded_tables": 4,
+  "total_outcomes": 44,
+  "outcomes": [
+    {
+      "outcome_group": "Education",
+      "outcome_category": "Math scores - Urban",
+      "location": "Table 5; Panel A: Urban sample; Row: Math scores",
+      "literal_text": "Coef. 0.040, p-value=0.012, q-value=0.037, Control mean=0.073 (SD=0.261)",
+      "text_position": "Table 5, Row (1), Panel A",
+      "_key": "6WTBIFX2",
+      "_table_number": 5,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Education",
+      "outcome_category": "Math scores - Rural",
+      "location": "Table 5; Panel B: Rural sample; Row: Math scores",
+      "literal_text": "Coef. 0.112, RI p-value=0.000, q-value=0.001, Control mean=0.026 (SD=0.160)",
+      "text_position": "Table 5, Row (1), Panel B",
+      "_key": "6WTBIFX2",
+      "_table_number": 5,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Financial Inclusion",
+      "outcome_category": "Knowledge of financial institutions - Urban",
+      "location": "Table 5; Panel A: Urban sample; Row: Financial literacy outcomes - financial institutions",
+      "literal_text": "Coef. 0.097, p-value=0.002, q-value=0.008, Control mean=0.713 (SD=0.452)",
+      "text_position": "Table 5, Row (2), Panel A",
+      "_key": "6WTBIFX2",
+      "_table_number": 5,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Financial Inclusion",
+      "outcome_category": "Knowledge of financial institutions - Rural",
+      "location": "Table 5; Panel B: Rural sample; Row: Financial literacy outcomes - financial institutions",
+      "literal_text": "Coef. 0.257, RI p-value=0.001, q-value=0.004, Control mean=0.539 (SD=0.499)",
+      "text_position": "Table 5, Row (2), Panel B",
+      "_key": "6WTBIFX2",
+      "_table_number": 5,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Financial Inclusion",
+      "outcome_category": "Knowledge of financial accounts - Urban",
+      "location": "Table 5; Panel A: Urban sample; Row: Financial literacy outcomes - financial accounts",
+      "literal_text": "Coef. 0.051, p-value=0.039, q-value=0.079, Control mean=0.776 (SD=0.417)",
+      "text_position": "Table 5, Row (3), Panel A",
+      "_key": "6WTBIFX2",
+      "_table_number": 5,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Financial Inclusion",
+      "outcome_category": "Knowledge of financial accounts - Rural",
+      "location": "Table 5; Panel B: Rural sample; Row: Financial literacy outcomes - financial accounts",
+      "literal_text": "Coef. 0.263, RI p-value=0.000, q-value=0.001, Control mean=0.503 (SD=0.500)",
+      "text_position": "Table 5, Row (3), Panel B",
+      "_key": "6WTBIFX2",
+      "_table_number": 5,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Financial Inclusion",
+      "outcome_category": "Knowledge of loan qualifications - Urban",
+      "location": "Table 5; Panel A: Urban sample; Row: Financial literacy outcomes - loan qualifications",
+      "literal_text": "Coef. 0.125, p-value=0.000, q-value=0.001, Control mean=0.599 (SD=0.490)",
+      "text_position": "Table 5, Row (4), Panel A",
+      "_key": "6WTBIFX2",
+      "_table_number": 5,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Financial Inclusion",
+      "outcome_category": "Knowledge of loan qualifications - Rural",
+      "location": "Table 5; Panel B: Rural sample; Row: Financial literacy outcomes - loan qualifications",
+      "literal_text": "Coef. 0.242, RI p-value=0.002, q-value=0.006, Control mean=0.379 (SD=0.486)",
+      "text_position": "Table 5, Row (4), Panel B",
+      "_key": "6WTBIFX2",
+      "_table_number": 5,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Financial Inclusion",
+      "outcome_category": "Knowledge of mobile money - Urban",
+      "location": "Table 5; Panel A: Urban sample; Row: Financial literacy outcomes - mobile money",
+      "literal_text": "Coef. 0.009, p-value=0.761, q-value=0.809, Control mean=0.482 (SD=0.500)",
+      "text_position": "Table 5, Row (5), Panel A",
+      "_key": "6WTBIFX2",
+      "_table_number": 5,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Financial Inclusion",
+      "outcome_category": "Knowledge of mobile money - Rural",
+      "location": "Table 5; Panel B: Rural sample; Row: Financial literacy outcomes - mobile money",
+      "literal_text": "Coef. 0.094, RI p-value=0.013, q-value=0.012, Control mean=0.338 (SD=0.474)",
+      "text_position": "Table 5, Row (5), Panel B",
+      "_key": "6WTBIFX2",
+      "_table_number": 5,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Financial Inclusion",
+      "outcome_category": "Setting a saving goal - Urban",
+      "location": "Table 5; Panel A: Urban sample; Row: Setting a saving goal",
+      "literal_text": "Coef. 0.151, p-value=0.000, q-value=0.001, Control mean=0.101 (SD=0.302)",
+      "text_position": "Table 5, Row (6), Panel A",
+      "_key": "6WTBIFX2",
+      "_table_number": 5,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Financial Inclusion",
+      "outcome_category": "Setting a saving goal - Rural",
+      "location": "Table 5; Panel B: Rural sample; Row: Setting a saving goal",
+      "literal_text": "Coef. 0.352, RI p-value=0.000, q-value=0.001, Control mean=0.036 (SD=0.187)",
+      "text_position": "Table 5, Row (6), Panel B",
+      "_key": "6WTBIFX2",
+      "_table_number": 5,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Financial Inclusion",
+      "outcome_category": "Having one financial account - Urban",
+      "location": "Table 5; Panel A: Urban sample; Row: Financial inclusion outcomes - having one financial account",
+      "literal_text": "Coef. 0.023, p-value=0.463, q-value=0.608, Control mean=0.522 (SD=0.500)",
+      "text_position": "Table 5, Row (7), Panel A",
+      "_key": "6WTBIFX2",
+      "_table_number": 5,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Financial Inclusion",
+      "outcome_category": "Having one financial account - Rural",
+      "location": "Table 5; Panel B: Rural sample; Row: Financial inclusion outcomes - having one financial account",
+      "literal_text": "Coef. 0.230, RI p-value=0.006, q-value=0.001, Control mean=0.335 (SD=0.473)",
+      "text_position": "Table 5, Row (7), Panel B",
+      "_key": "6WTBIFX2",
+      "_table_number": 5,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Financial Inclusion",
+      "outcome_category": "Having multiple financial accounts - Urban",
+      "location": "Table 5; Panel A: Urban sample; Row: Financial inclusion outcomes - having multiple financial accounts",
+      "literal_text": "Coef. 0.011, p-value=0.658, q-value=0.737, Control mean=0.182 (SD=0.385)",
+      "text_position": "Table 5, Row (8), Panel A",
+      "_key": "6WTBIFX2",
+      "_table_number": 5,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Financial Inclusion",
+      "outcome_category": "Having multiple financial accounts - Rural",
+      "location": "Table 5; Panel B: Rural sample; Row: Financial inclusion outcomes - having multiple financial accounts",
+      "literal_text": "Coef. 0.035, RI p-value=0.002, q-value=0.012, Control mean=0.026 (SD=0.160)",
+      "text_position": "Table 5, Row (8), Panel B",
+      "_key": "6WTBIFX2",
+      "_table_number": 5,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Financial Inclusion",
+      "outcome_category": "Bookkeeping - Urban",
+      "location": "Table 5; Panel A: Urban sample; Row: Bookkeeping",
+      "literal_text": "Coef. 0.263, p-value=0.000, q-value=0.001, Control mean=0.094 (SD=0.292)",
+      "text_position": "Table 5, Row (9), Panel A",
+      "_key": "6WTBIFX2",
+      "_table_number": 5,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Financial Inclusion",
+      "outcome_category": "Bookkeeping - Rural",
+      "location": "Table 5; Panel B: Rural sample; Row: Bookkeeping",
+      "literal_text": "Coef. 0.466, RI p-value=0.000, q-value=0.001, Control mean=0.042 (SD=0.202)",
+      "text_position": "Table 5, Row (9), Panel B",
+      "_key": "6WTBIFX2",
+      "_table_number": 5,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Financial Inclusion",
+      "outcome_category": "Account balance - Urban",
+      "location": "Table 5; Panel A: Urban sample; Row: Account balance",
+      "literal_text": "Coef. 744.1, p-value=0.062, q-value=0.120, Control mean=648.8 (SD=3161)",
+      "text_position": "Table 5, Row (10), Panel A",
+      "_key": "6WTBIFX2",
+      "_table_number": 5,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Financial Inclusion",
+      "outcome_category": "Account balance - Rural",
+      "location": "Table 5; Panel B: Rural sample; Row: Account balance",
+      "literal_text": "Coef. 216.0, RI p-value=0.018, q-value=0.013, Control mean=405.5 (SD=1698)",
+      "text_position": "Table 5, Row (10), Panel B",
+      "_key": "6WTBIFX2",
+      "_table_number": 5,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Total Income - Urban",
+      "location": "Table 7; Panel A: Urban sample; Row: Coef.; Column: (1) Total Income",
+      "literal_text": "Coef. | 2964.4 [p-value: 0.534]",
+      "text_position": "Table 7, Panel A, Column (1)",
+      "_key": "6WTBIFX2",
+      "_table_number": 7,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Employment Income - Urban",
+      "location": "Table 7; Panel A: Urban sample; Row: Coef.; Column: (2)",
+      "literal_text": "Coef. | 2307.6 [p-value: 0.492]",
+      "text_position": "Table 7, Panel A, Column (2)",
+      "_key": "6WTBIFX2",
+      "_table_number": 7,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Business Income - Urban",
+      "location": "Table 7; Panel A: Urban sample; Row: Coef.; Column: (3)",
+      "literal_text": "Coef. | -18.1 [p-value: 0.997]",
+      "text_position": "Table 7, Panel A, Column (3)",
+      "_key": "6WTBIFX2",
+      "_table_number": 7,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Farming Income - Urban",
+      "location": "Table 7; Panel A: Urban sample; Row: Coef.; Column: (4)",
+      "literal_text": "Coef. | 64.1 [p-value: 0.453]",
+      "text_position": "Table 7, Panel A, Column (4)",
+      "_key": "6WTBIFX2",
+      "_table_number": 7,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Agriculture Income - Urban",
+      "location": "Table 7; Panel A: Urban sample; Row: Coef.; Column: (5)",
+      "literal_text": "Coef. | 328.9 [p-value: 0.212]",
+      "text_position": "Table 7, Panel A, Column (5)",
+      "_key": "6WTBIFX2",
+      "_table_number": 7,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Increase in number of income sources - Urban",
+      "location": "Table 7; Panel A: Urban sample; Row: Coef.; Column: (6)",
+      "literal_text": "Coef. | 0.003 [p-value: 0.861]",
+      "text_position": "Table 7, Panel A, Column (6)",
+      "_key": "6WTBIFX2",
+      "_table_number": 7,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Expenditure/Consumption",
+      "outcome_category": "Expenditure - Urban",
+      "location": "Table 7; Panel A: Urban sample; Row: Coef.; Column: (7)",
+      "literal_text": "Coef. | -92.8 [p-value: 0.665]",
+      "text_position": "Table 7, Panel A, Column (7)",
+      "_key": "6WTBIFX2",
+      "_table_number": 7,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Total Income - Rural",
+      "location": "Table 7; Panel B: Rural sample; Row: Coef.; Column: (1)",
+      "literal_text": "Coef. | 3755.5 [p-value: 0.017]**",
+      "text_position": "Table 7, Panel B, Column (1)",
+      "_key": "6WTBIFX2",
+      "_table_number": 7,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Employment Income - Rural",
+      "location": "Table 7; Panel B: Rural sample; Row: Coef.; Column: (2)",
+      "literal_text": "Coef. | -4335.8 [p-value: 0.015]**",
+      "text_position": "Table 7, Panel B, Column (2)",
+      "_key": "6WTBIFX2",
+      "_table_number": 7,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Business Income - Rural",
+      "location": "Table 7; Panel B: Rural sample; Row: Coef.; Column: (3)",
+      "literal_text": "Coef. | 5732.5 [p-value: 0.008]***",
+      "text_position": "Table 7, Panel B, Column (3)",
+      "_key": "6WTBIFX2",
+      "_table_number": 7,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Farming Income - Rural",
+      "location": "Table 7; Panel B: Rural sample; Row: Coef.; Column: (4)",
+      "literal_text": "Coef. | 342.7 [p-value: 0.008]***",
+      "text_position": "Table 7, Panel B, Column (4)",
+      "_key": "6WTBIFX2",
+      "_table_number": 7,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Agriculture Income - Rural",
+      "location": "Table 7; Panel B: Rural sample; Row: Coef.; Column: (5)",
+      "literal_text": "Coef. | 476.3 [p-value: 0.011]**",
+      "text_position": "Table 7, Panel B, Column (5)",
+      "_key": "6WTBIFX2",
+      "_table_number": 7,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Increase in number of income sources - Rural",
+      "location": "Table 7; Panel B: Rural sample; Row: Coef.; Column: (6)",
+      "literal_text": "Coef. | 0.079 [p-value: 0.009]***",
+      "text_position": "Table 7, Panel B, Column (6)",
+      "_key": "6WTBIFX2",
+      "_table_number": 7,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Expenditure/Consumption",
+      "outcome_category": "Expenditure - Rural",
+      "location": "Table 7; Panel B: Rural sample; Row: Coef.; Column: (7)",
+      "literal_text": "Coef. | 314.5 [p-value: 0.010]***",
+      "text_position": "Table 7, Panel B, Column (7)",
+      "_key": "6WTBIFX2",
+      "_table_number": 7,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Social Capital/Empowerment",
+      "outcome_category": "Decision making - borrowing from neighbors/relatives/friends - Urban",
+      "location": "Table 8; Row: (5); Column: Panel A: Urban sample",
+      "literal_text": "Coef: 0.080, p-value: 0.048, Control mean: 0.729",
+      "text_position": "Table 8, Row (5), Column: Panel A Urban sample",
+      "_key": "6WTBIFX2",
+      "_table_number": 8,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Social Capital/Empowerment",
+      "outcome_category": "Decision making - borrowing from neighbors/relatives/friends - Rural",
+      "location": "Table 8; Row: (5); Column: Panel B: Rural sample",
+      "literal_text": "Coef: 0.085, RI p-value: 0.014, Control mean: 0.600",
+      "text_position": "Table 8, Row (5), Column: Panel B Rural sample",
+      "_key": "6WTBIFX2",
+      "_table_number": 8,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Social Capital/Empowerment",
+      "outcome_category": "Decision making - applying for loan - Urban",
+      "location": "Table 8; Row: (4); Column: Panel A: Urban sample",
+      "literal_text": "Coef: 0.038, p-value: 0.352, Control mean: 0.729",
+      "text_position": "Table 8, Row (4), Column: Panel A Urban sample",
+      "_key": "6WTBIFX2",
+      "_table_number": 8,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Social Capital/Empowerment",
+      "outcome_category": "Decision making - applying for loan - Rural",
+      "location": "Table 8; Row: (4); Column: Panel B: Rural sample",
+      "literal_text": "Coef: 0.096, RI p-value: 0.014, Control mean: 0.596",
+      "text_position": "Table 8, Row (4), Column: Panel B Rural sample",
+      "_key": "6WTBIFX2",
+      "_table_number": 8,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Social Capital/Empowerment",
+      "outcome_category": "Decision making - CCT payment use - Urban",
+      "location": "Table 8; Row: (3); Column: Panel A: Urban sample",
+      "literal_text": "Coef: 0.020, p-value: 0.372, Control mean: 0.944",
+      "text_position": "Table 8, Row (3), Column: Panel A Urban sample",
+      "_key": "6WTBIFX2",
+      "_table_number": 8,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Social Capital/Empowerment",
+      "outcome_category": "Decision making - CCT payment use - Rural",
+      "location": "Table 8; Row: (3); Column: Panel B: Rural sample",
+      "literal_text": "Coef: -0.003, RI p-value: 0.010, Control mean: 0.956",
+      "text_position": "Table 8, Row (3), Column: Panel B Rural sample",
+      "_key": "6WTBIFX2",
+      "_table_number": 8,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Social Capital/Empowerment",
+      "outcome_category": "Decision making - children's education - Urban",
+      "location": "Table 8; Row: (2); Column: Panel A: Urban sample",
+      "literal_text": "Coef: 0.029, p-value: 0.273, Control mean: 0.899",
+      "text_position": "Table 8, Row (2), Column: Panel A Urban sample",
+      "_key": "6WTBIFX2",
+      "_table_number": 8,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Social Capital/Empowerment",
+      "outcome_category": "Decision making - children's education - Rural",
+      "location": "Table 8; Row: (2); Column: Panel B: Rural sample",
+      "literal_text": "Coef: 0.037, RI p-value: 0.013, Control mean: 0.846",
+      "text_position": "Table 8, Row (2), Column: Panel B Rural sample",
+      "_key": "6WTBIFX2",
+      "_table_number": 8,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Social Capital/Empowerment",
+      "outcome_category": "Husband exclusive decision maker - Urban",
+      "location": "Table 8; Row: (1); Column: Panel A: Urban sample",
+      "literal_text": "Coef: -0.061, p-value: 0.108, Control mean: 0.167",
+      "text_position": "Table 8, Row (1), Column: Panel A Urban sample",
+      "_key": "6WTBIFX2",
+      "_table_number": 8,
+      "_extraction_method": "twopass_llm"
+    },
+    {
+      "outcome_group": "Social Capital/Empowerment",
+      "outcome_category": "Husband exclusive decision maker - Rural",
+      "location": "Table 8; Row: (1); Column: Panel B: Rural sample",
+      "literal_text": "Coef: -0.052, RI p-value: 0.016, Control mean: 0.289",
+      "text_position": "Table 8, Row (1), Column: Panel B Rural sample",
+      "_key": "6WTBIFX2",
+      "_table_number": 8,
+      "_extraction_method": "twopass_llm"
+    }
+  ]
+}
