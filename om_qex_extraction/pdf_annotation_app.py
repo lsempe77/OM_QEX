@@ -21,7 +21,7 @@ from typing import Dict, List, Optional
 
 # Page config
 st.set_page_config(
-    page_title="4-Phase Extraction Validator",
+    page_title="Outcome Mapping Validation",
     layout="wide",
     initial_sidebar_state="expanded"
 )
@@ -33,25 +33,50 @@ EXTRACTIONS_DIR = Path(__file__).resolve().parent / "outputs" / "twopass_extract
 EXTRACTIONS_CSV = Path(__file__).resolve().parent / "outputs" / "twopass_extractions" / "extracted_data.csv"
 ANNOTATIONS_FILE = Path(__file__).resolve().parent / "outputs" / "twopass_annotations.json"
 HUMAN_OM_FILE = PROJECT_ROOT / "data" / "human_extraction" / "OM_human_extraction.csv"
+MASTER_CSV = PROJECT_ROOT / "data" / "raw" / "Master file of included studies (n=114) 11 Nov(data).csv"
 
 # Validation papers
 VALIDATION_PAPERS = {
     'HUHR5QHM': {'id': '121357881', 'name': 'Diamouténé (2024)', 'human_outcomes': 1},
     'PHRKN65M': {'id': '121294984', 'name': 'Burchi (2018)', 'human_outcomes': 9},
-    '6WTBIFX2': {'id': '121294795', 'name': 'Maldonado (2019)', 'human_outcomes': 4},
-    'UBFBIAVN': {'id': '121307773', 'name': 'Macours (2012)', 'human_outcomes': 14},
-    '55XQSDKK': {'id': '121058368', 'name': 'Banerjee', 'human_outcomes': 1},
-    'ABM3E3ZP': {'id': '121058364', 'name': 'Maldonado (Paraguay)', 'human_outcomes': 2},
-    'V5P2S7S3': {'id': '121326829', 'name': 'Zheng', 'human_outcomes': 15},
-    'K2ZJ4QNZ': {'id': '121328483', 'name': 'Banerjee', 'human_outcomes': 1},
-    '949EZS93': {'id': '121315117', 'name': 'Carpio', 'human_outcomes': 2},
-    'DXHZBI2X': {'id': '121319138', 'name': 'Carpio', 'human_outcomes': 1},
-    '9BUBMDBG': {'id': '121058363', 'name': 'Macours', 'human_outcomes': 1},
+    '6WTBIFX2': {'id': '121294795', 'name': 'Matsuda (2024)', 'human_outcomes': 4},
+    'UBFBIAVN': {'id': '121307773', 'name': 'Macours (2013)', 'human_outcomes': 14},
+    '55XQSDKK': {'id': '121058368', 'name': 'Banerjee (2017)', 'human_outcomes': 1},
+    'ABM3E3ZP': {'id': '121058364', 'name': 'Maldonado (2019)', 'human_outcomes': 2},
+    'V5P2S7S3': {'id': '121326829', 'name': 'Zheng (2023)', 'human_outcomes': 15},
+    'K2ZJ4QNZ': {'id': '121328483', 'name': 'Banerjee (2022)', 'human_outcomes': 1},
+    '949EZS93': {'id': '121315117', 'name': 'Carpio (2016)', 'human_outcomes': 2},
+    'DXHZBI2X': {'id': '121319138', 'name': 'Carpio (2012)', 'human_outcomes': 1},
+    '9BUBMDBG': {'id': '121058363', 'name': 'Burchi (2021)', 'human_outcomes': 1},
     '36VWQDDT': {'id': '121327988', 'name': 'Correa (2021)', 'human_outcomes': 1},
     'XWDVG8KS': {'id': '121498842', 'name': 'Mahecha', 'human_outcomes': 9},
     'HWR58RZK': {'id': '122182711', 'name': 'Study HWR58RZK', 'human_outcomes': 1},
     'CG73D75P': {'id': '122182713', 'name': 'IPA (2022)', 'human_outcomes': 1},
 }
+
+
+def load_paper_titles() -> Dict[str, str]:
+    """Load full paper titles from master CSV."""
+    try:
+        if not MASTER_CSV.exists():
+            return {}
+        
+        df = pd.read_csv(MASTER_CSV)
+        titles = {}
+        
+        for key, info in VALIDATION_PAPERS.items():
+            study_id = info['id']
+            match = df[df['ID'].astype(str) == study_id]
+            
+            if len(match) > 0:
+                title = match['Title'].values[0]
+                if pd.notna(title):
+                    titles[key] = str(title)
+        
+        return titles
+    except Exception as e:
+        st.sidebar.warning(f"Could not load paper titles: {e}")
+        return {}
 
 
 def load_pdf_base64(pdf_path: Path) -> str:
@@ -160,7 +185,10 @@ def export_annotations_csv():
 
 
 def main():
-    st.title("📊 4-Phase Extraction Validation Tool")
+    st.title("📊 Outcome Mapping Validation")
+    
+    # Load paper titles from master CSV
+    paper_titles = load_paper_titles()
     
     # Sidebar - Paper selection
     st.sidebar.header("Select Paper")
@@ -246,7 +274,12 @@ def main():
     
     # Left column - PDF viewer
     with col1:
-        st.subheader(f"📄 PDF: {paper_info['name']}")
+        # Show full paper title if available
+        if selected_key in paper_titles:
+            st.subheader(f"📄 {paper_info['name']}")
+            st.caption(f"_{paper_titles[selected_key]}_")
+        else:
+            st.subheader(f"📄 PDF: {paper_info['name']}")
         
         if not pdf_path.exists():
             st.warning(f"⚠️ PDF not found in repository")
