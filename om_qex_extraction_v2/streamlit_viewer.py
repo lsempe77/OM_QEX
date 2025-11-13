@@ -95,10 +95,11 @@ st.markdown("""
 @st.cache_data
 def load_available_papers():
     """Find all papers with Phase 6 results."""
-    # Try both possible output locations
+    # Try all possible output locations (local run, deployed, and nested directory structure)
     possible_dirs = [
         Path("outputs/phase6"),
-        Path("om_qex_extraction_v2/outputs/phase6")
+        Path("om_qex_extraction_v2/outputs/phase6"),
+        Path("om_qex_extraction_v2/om_qex_extraction_v2/outputs/phase6")
     ]
     
     phase6_dir = None
@@ -125,12 +126,14 @@ def load_phase_result(key, phase):
     if phase == "6":
         possible_files = [
             Path(f"outputs/phase6/{key}_final.json"),
-            Path(f"om_qex_extraction_v2/outputs/phase6/{key}_final.json")
+            Path(f"om_qex_extraction_v2/outputs/phase6/{key}_final.json"),
+            Path(f"om_qex_extraction_v2/om_qex_extraction_v2/outputs/phase6/{key}_final.json")
         ]
     else:
         possible_files = [
             Path(f"outputs/phase{phase}/{key}_phase{phase}.json"),
-            Path(f"om_qex_extraction_v2/outputs/phase{phase}/{key}_phase{phase}.json")
+            Path(f"om_qex_extraction_v2/outputs/phase{phase}/{key}_phase{phase}.json"),
+            Path(f"om_qex_extraction_v2/om_qex_extraction_v2/outputs/phase{phase}/{key}_phase{phase}.json")
         ]
     
     phase_file = None
