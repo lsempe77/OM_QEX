@@ -610,7 +610,36 @@ def main():
         # Update current paper in session state
         st.session_state.current_paper = selected_paper
         
-        st.header(f"Paper: {selected_paper}")
+        # Header with PDF download button
+        col1, col2 = st.columns([3, 1])
+        with col1:
+            st.header(f"Paper: {selected_paper}")
+        with col2:
+            # Try to find PDF file (check multiple possible paths)
+            possible_pdf_paths = [
+                Path(f"data/pdfs/{selected_paper}.pdf"),  # From repo root (Streamlit Cloud)
+                Path(f"../data/pdfs/{selected_paper}.pdf"),  # From om_qex_extraction_v2 dir
+                Path(f"../../data/pdfs/{selected_paper}.pdf"),  # From nested dir
+            ]
+            
+            pdf_path = None
+            for pdf_file in possible_pdf_paths:
+                if pdf_file.exists():
+                    pdf_path = pdf_file
+                    break
+            
+            if pdf_path:
+                with open(pdf_path, 'rb') as f:
+                    pdf_data = f.read()
+                st.download_button(
+                    label="📥 Download PDF",
+                    data=pdf_data,
+                    file_name=f"{selected_paper}.pdf",
+                    mime="application/pdf",
+                    use_container_width=True
+                )
+            else:
+                st.info("PDF not found")
         
         # Load all phase results
         phase1_data = load_phase_result(selected_paper, "1")
