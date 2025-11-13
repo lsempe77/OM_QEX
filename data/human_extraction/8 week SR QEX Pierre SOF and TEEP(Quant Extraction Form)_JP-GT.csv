@@ -1,0 +1,310 @@
+﻿General info,,Publication info,,,,,Intervention info,,,,,,,,,,,,,Method info,,Outcome info,,,,Treatment variable info,,,,Estimate info,,,,Estimate data,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Use OM,,Use OM,Maldonado et al.,,"Use OM (""Program name"")",,Use OM,,,,,,,,,,,,,,,,,,,,,,,,Use OM,Extract if available / relevant,Extract if available / relevant,Extract if available / relevant,Extract if available / relevant,Extract if available / relevant,Extract if available / relevant,Extract if available / relevant,Extract if available / relevant,Extract if available / relevant,Extract if available / relevant,Extract if available / relevant,Extract if available / relevant,Extract if available / relevant,Extract if available / relevant,Extract if available / relevant,Extract if available / relevant,Extract if available / relevant,Extract if available / relevant,Extract if available / relevant,Extract if available / relevant,Extract if available / relevant,Extract if available / relevant,Extract if available / relevant,Extract if available / relevant,Extract if available / relevant,Extract if available / relevant,Extract if available / relevant,Extract if available / relevant,Extract if available / relevant,Extract if available / relevant,Extract if available / relevant,Extract if available / relevant
+Coder name,Notes,StudyID,EstimateID,Author name,Year of publication,Publication type,Intervention abbreviation and name,Intervention description,Country,Frist year of intervention,Length of follow up,Exposure to intervention,Consumption support (cash or in-kind) to stabilize food security and prevent households from selling assets to survive ,Healthcare provision to address the basic health needs of individuals and households,"Assets transfer (often livestock, tools, or seed capital) to provide a foundation for an income-generation activity.",Skills training to enable participants to productively manage and grow their assets.,"Savings facilitation (e.g., savings accounts or linkages to microfinance institutions) to foster financial discipline and resilience.",Coaching and mentoring to offer continuous motivation and goal-setting support.,"Social empowerment and linkages to social protection, markets, and public services to encourage opportunities and inclusion in existing systems.",Evaluation Design,Evaluation Method,Outcome name,Outcome description,Reverse sign,Outcome dataset,Treatment,Comparison,Subgroup,Subgroup information,Analysis type for this effect size,Unit of analysis,Covariate adjustment,Source,Mean treatment (Pre),SD treatment (Pre),Mean Control (Pre),SD Control (Pre),Mean treatment (Post),SD treatment (Post),Mean Control (Post),SD Control (Post),SD pooled (Pre),SD pooled (Post),SD pooled (PP),Mean difference ,SE difference ,Tstat difference ,Odds ratio ,SE odds ratio ,Risk ratio ,SE Risk Ratio,Coeff reg,SE reg ,Tstat reg ,CI_LB reg ,CI_UP reg ,P value exact ,Clusters treatment ,Clusters control ,Clusters total ,N treatment,N control ,N total ,# of periods,Does the sample size need to be corrected? 
+Record your name,"Record any notes important for the team. 
+INDICATE IF LINKED STUDY and add EPPI ID of main study (e.g., ""Linked to study 12345678""). ","This is the study ID - it should match the study ID from the Outcome Mapping Sheet (e.g., 946578). If EPPI is being used, this will be the EPPI ID","The estimate ID will provide a specific number for each effect size extracted and should include the StudyID, underscore, then sequential and unique ID number (e.g., 946578_1, 946578_2 and so on)","Author(s) name
+For 1 author: leading author last name (e.g. Gomez) 
+For 2 authors:  both author last names with ampersand in between (e.g. Smith and Bahn) 
+For 3 or more authors:  leading author last name followed by et al. (e.g. Gupta et al.) ","Year published (publication date, not preprint or first online publication dates)","1 = Journal article
+2 = Book or chapter
+3 = Report or working paper
+4 = Conference proceedings
+5 = Published protocol (or registration or pre-analysis plan) 
+6 = Ongoing study (select if not a registered study or protocol but its, e.g., a description of the study on an organisational or authors webpage)",Provide intervention abbreviation and name (in this order) ,"Provide detailed description of the intervention and its different components. Include details of sections of the manuscript and page numbers where authors describe details of the intervention. Please only report the intervention related to the estimate if a paper reports on more than one intervention or treatment arm. Aim to address: 
+  What is the intervention?  
+  How did it work? 
+  Where and when did it happen?
+
+REMINDER: any time you use verbatim quotes from the manuscript, use quotation marks and include a page number so it is easy to check and verify.  ",Country of intervention,The earliest year participants were exposed to the intervention.,"How many months have elapsed between the END of the intervention and the date of the final outcome measurement. If less than one month, use decimals (e.g. one week would be .25, etc.). 
+
+If no month is mentioned, consider as a full year. Example: if project ended in 2000 and last data collection was in 2004 (with no information on the month for both dates), answer 4*12=48","For how many months were participants exposed to the intervention? If less than one month, use decimals (e.g. one week would be .25, etc.). ","Does the intervention include this component (0 = No, 1 = Yes)","Does the intervention include this component (0 = No, 1 = Yes)","Does the intervention include this component (0 = No, 1 = Yes)","Does the intervention include this component (0 = No, 1 = Yes)","Does the intervention include this component (0 = No, 1 = Yes)","Does the intervention include this component (0 = No, 1 = Yes)","Does the intervention include this component (0 = No, 1 = Yes)","0 = Quasi-experimental (including natural experiments and non-randomised studies)
+1 = Experimental (randomised assignment) 
+","If Experimental, then select:
+1 = Randomised controlled trial or
+2 = Cluster RCT
+
+If Quasi-experiment or natural experiment, then select one of the following: 
+3 = Natural experiment in which exposure to treatment is random; 
+4 = Regression Discontinuity Design (RDD) 
+5 = Difference-in-Differences (DID) / Fixed effects estimation
+6 = Instrumental variable (IV) estimation
+7 = Endogenous treatment-effects models (including endogenous switching regression, and other methods synonymous to the Heckman two step model)
+8 = Statistical matching (includes PSM or statistical weighting) 
+9 = Interrupted time series (ITS)
+10 = Synthetic control
+
+If more than one, record both numbers with a semicolon between.","Record the outcome for the corresponding effect size using the author’s own words.
+[Open Answer]","Describe the outcome for the corresponding effect size using the author’s own words.
+Be selective and concise to ensure accurate and precise descriptions of the outcome. Include page numbers with every excerpt extracted. 
+[Open Answer]",**To be discussed with the team which if any outcomes may need to be reversed. Not for LLM testing at this stage.,Record if data for this outcome comes from an identified dataset,"Record the treatment variable as written in the model (e.g., the variable name the authors use, such as ""Graduation"" or ""Cash plus""). This column enables to distinguish what treatment is evaluated for this specific estimate. This is very important as many studies have multiple treatments.
+[Open Answer]","1 = No intervention (service delivery as usual)
+2 = Other intervention
+3 = Pipeline (waitlist) control (still service delivery as usual) 
+4 = Other","Is this an analysis of a subgroup or estimating heterogeneous effects?
+0 = no
+1 = yes ","If applicable, describe the subgroup or variable interacted with the treatment variable (e.g., boys, girls), etc. 
+
+If no subgroup or heterogeneity analysis, record NA","What type of analysis was used (OLS regression, Probit regression, 2SLS, ANCOVA, etc.) 
+
+Include whether it's ITT, ATT, ATET, etc.
+
+[Open Answer]","What is the unit of analysis (UOA) for this effect size: 
+1 = Individual
+2 = Household
+3 = Group (e.g., community organisation)
+4 = Village
+5 = Other [then add comment to the cell]
+6 = Not clear ","Did the regression specification control for variables other than the treatment variable (this includes matching variables)?
+1 = Yes
+0 = No","Note the page number, table number, column, and row used to extract the estimate data 
+[Open Answer]",Outcome mean for the treatment group (pre-intervention),Outcome standard deviation for treatment group (pre-intervention),Outcome mean for the comparison group (pre-intervention),Outcome standard deviation for control group (pre-intervention),Outcome mean for the treatment group (post-intervention),Outcome standard deviation for treatment group (post-intervention),Outcome mean for the comparison group (post-intervention),Outcome standard deviation for control group (post-intervention),Outcome standard deviation for pooled group (treatment and control) (pre-intervention),Outcome standard deviation for pooled group (treatment and control) (post-intervention),Outcome standard deviation for pooled group (treatment and control) (includes pre and post intervention data),Overall mean difference (treatment - control) ,"Standard error of the overall mean difference 
+
+In the results table under the coefficients and in parentheses, authors do not always report SE but sometimes provides the t-stat or the p-values. Make sure you extract the correct information in the relevant column. SE in SE reg, T-stat in Tstat reg, etc. ","t-statistic of mean difference 
+
+In the results table under the coefficients and in parentheses, authors do not always report SE but sometimes provides the t-stat or the p-values. Make sure you extract the correct information in the relevant column. SE in SE reg, T-stat in Tstat reg, etc.",Odds ratio reported in the study  ,Odds ratio standard error reported in the study ,Risk ratio reported in study ,Risk ratio standard error ,Report the regression coefficient of the treatment effect ,"Report the associated standard error of the regression coefficient. 
+
+In the results table under the coefficients and in parentheses, authors do not always report SE but sometimes provides the t-stat or the p-values. Make sure you extract the correct information in the relevant column. SE in SE reg, T-stat in Tstat reg, etc. ","Report the associated t statistic of the effect size (coefficient/SE)  
+
+In the results table under the coefficients and in parentheses, authors do not always report SE but sometimes provides the t-stat or the p-values. Make sure you extract the correct information in the relevant column. SE in SE reg, T-stat in Tstat reg, etc. 
+
+If not reported, leave blank but mentally calculate it. If higher than 10 or less than -10, check again the coef, se and t-stat. If still >10 or <-10, add comment to cell indicating that you have checked this and this is what is actually reported in the paper. ","Report the associated Lower bound of the 95% Confidence interval of the effect size. If CI is reported for a different confidence level, indicate that in the notes section. ","Report the associated Upper bound of the 95% Confidence interval of the effect size. If CI is reported for a different confidence level, indicate that in the notes section. ","Exact p value if given, if not, record as written in the manuscript (e.g., p < .001, or p > .05) 
+
+In the results table under the coefficients and in parentheses, authors do not always report SE but sometimes provides the t-stat or the p-values. Make sure you extract the correct information in the relevant column. SE in SE reg, T-stat in Tstat reg, etc.","Number of clusters - treatment group 
+
+Check thoroughly if authors clustered the standard errors for this estimate. Most often it is specified in the model or under the table (control + F and search for ""cluster""). ","Number of clusters -  control group 
+
+Check thoroughly if authors clustered the standard errors for this estimate. Most often it is specified in the model or under the table (control + F and search for ""cluster""). ","Number of clusters - total sample 
+
+Check thoroughly if authors clustered the standard errors for this estimate. Most often it is specified in the model or under the table (control + F and search for ""cluster"").","Sample size - treatment group 
+
+Need to record either information on N treatment and N control or information on N total, but DO NOT LEAVE EMPTY. If the answer is not clear from the report, indicate in a comment. ","Sample size - control group 
+
+Need to record either information on N treatment and N control or information on N total, but DO NOT LEAVE EMPTY. If the answer is not clear from the report, indicate in a comment.  ","Sample size - total sample 
+
+Need to record either information on N treatment and N control or information on N total, but DO NOT LEAVE EMPTY. If the answer is not clear from the report, indicate in a comment.  ","Record how many time points (e.g.measurement points) there are in the analysis (e.g., cross sectional data is 1, panel data with 3 measurements is 3). 
+
+If at endline, authors use recall data for baseline data, count as 1 (data was only collected once: at endline) and not 2 periods (baseline and endline).
+
+DO NOT LEAVE EMPTY. If the answer is not clear from the report, indicate in a comment.","Often in panel data, models will report number of observations rather than number of participants. 
+1 = ""Yes"" if the sample size needs to be divided by the number of periods
+0 = ""No"" if it is either cross-sectional data, or if the authors have already divided the number of observations by the number of panel assessments and thus no correction is necessary.  
+
+DO NOT LEAVE EMPTY. If the answer is not clear from the report, indicate in a comment."
+Pierre,N/A,121294984,121294984_1,Burchi and Strupat,2018,3,Tingathe Economic Empowerment Programme (TEEP),"  What is the intervention?  
+“A lump-sum payment: Households in two village clusters obtained a payment of MWK 50,000 (USD 70) which could be used for business investment. ” p12
+“A training package: Households in two village clusters received training on group formation, financial literacy and business management, which included case studies for business investment. ” p11
+  How did it work? 
+“In July 2016, the training component included coaching and mentoring by district staff. It consisted of four refresher training sessions (two training sessions on financial literacy, one training session on business management and one training session on environmental and social safeguards), which were combined with monitoring visits. This additional training ended in December 2016. ” p12
+“The trainings took place from January to May 2016 ” p12
+The payment took place on 15 June 2016. 
+  Where and when did it happen?
+""The project was jointly designed and implemented by the Social Protection Programme of the Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) in cooperation with the Government of Malawi, the Mwanza District Council, and the COMSIP Cooperative
+Union."" p8
+“The trainings took place from January to May 2016 ” p12
+The payment took place on 15 June 2016. 
+“This additional training ended in December 2016. ” p12
+",Malawi,2016,7,12,1,0,0,1,0,1,0,1,2,Amount savings (MWK),Amount savings (MWK),No,No,EEP,1,0,NA,OLS and ATT,2,1,page: 25; table: 6; table label: Table 6: Project impact on saving and loans; row label: Project; column label: (3) Amount savings (MWK),,,,,,,,,,,,,,,,,,,"4,408","1,369",,,,p < 0.01,6,24,30,256,530,786,2,0
+Pierre,N/A,121294984,121294984_2,Burchi and Strupat,2018,3,Tingathe Economic Empowerment Programme (TEEP),"  What is the intervention?  
+“A lump-sum payment: Households in two village clusters obtained a payment of MWK 50,000 (USD 70) which could be used for business investment. ” p12
+“A training package: Households in two village clusters received training on group formation, financial literacy and business management, which included case studies for business investment. ” p11
+  How did it work? 
+“In July 2016, the training component included coaching and mentoring by district staff. It consisted of four refresher training sessions (two training sessions on financial literacy, one training session on business management and one training session on environmental and social safeguards), which were combined with monitoring visits. This additional training ended in December 2016. ” p12
+“The trainings took place from January to May 2016 ” p12
+The payment took place on 15 June 2016. 
+  Where and when did it happen?
+""The project was jointly designed and implemented by the Social Protection Programme of the Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) in cooperation with the Government of Malawi, the Mwanza District Council, and the COMSIP Cooperative
+Union."" p8
+“The trainings took place from January to May 2016 ” p12
+The payment took place on 15 June 2016. 
+“This additional training ended in December 2016. ” p12
+",Malawi,2016,7,12,1,0,0,1,0,1,0,1,2,Number of working hours,Number of working hours a day,No,No,EEP,1,0,NA,Logit and ATT,2,1,page: 27; table: 8; table label: Table 8: Project impact on external labour supply; row label: Project; column label: (3) Number of working hours,,,,,,,,,,,,,,,,,,,-2.705,1.631,,,,p > 0.10,6,24,30,256,530,786,2,0
+Pierre,N/A,121294984,121294984_3,Burchi and Strupat,2018,3,Tingathe Economic Empowerment Programme (TEEP),"  What is the intervention?  
+“A lump-sum payment: Households in two village clusters obtained a payment of MWK 50,000 (USD 70) which could be used for business investment. ” p12
+“A training package: Households in two village clusters received training on group formation, financial literacy and business management, which included case studies for business investment. ” p11
+  How did it work? 
+“In July 2016, the training component included coaching and mentoring by district staff. It consisted of four refresher training sessions (two training sessions on financial literacy, one training session on business management and one training session on environmental and social safeguards), which were combined with monitoring visits. This additional training ended in December 2016. ” p12
+“The trainings took place from January to May 2016 ” p12
+The payment took place on 15 June 2016. 
+  Where and when did it happen?
+""The project was jointly designed and implemented by the Social Protection Programme of the Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) in cooperation with the Government of Malawi, the Mwanza District Council, and the COMSIP Cooperative
+Union."" p8
+“The trainings took place from January to May 2016 ” p12
+The payment took place on 15 June 2016. 
+“This additional training ended in December 2016. ” p12
+",Malawi,2016,7,12,1,0,0,1,0,1,0,1,2,Asset wealth index,"Asset-based wealth index, which is constructed by aggregating the number of different types of household assets owned (excluding livestock) by means of principal component analysis. p30",No,No,EEP,1,0,NA,OLS and ATT,2,1,page: 30; table: 11; table label: Table 11: Project impact on household asset wealth index and expenditures; row label: Project; column label: (1) Asset wealth index,,,,,,,,,,,,,,,,,,,0.175,0.19,,,,p > 0.10,6,24,30,256,530,786,2,0
+Pierre,N/A,121294984,121294984_4,Burchi and Strupat,2018,3,Tingathe Economic Empowerment Programme (TEEP),"  What is the intervention?  
+“A lump-sum payment: Households in two village clusters obtained a payment of MWK 50,000 (USD 70) which could be used for business investment. ” p12
+“A training package: Households in two village clusters received training on group formation, financial literacy and business management, which included case studies for business investment. ” p11
+  How did it work? 
+“In July 2016, the training component included coaching and mentoring by district staff. It consisted of four refresher training sessions (two training sessions on financial literacy, one training session on business management and one training session on environmental and social safeguards), which were combined with monitoring visits. This additional training ended in December 2016. ” p12
+“The trainings took place from January to May 2016 ” p12
+The payment took place on 15 June 2016. 
+  Where and when did it happen?
+""The project was jointly designed and implemented by the Social Protection Programme of the Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) in cooperation with the Government of Malawi, the Mwanza District Council, and the COMSIP Cooperative
+Union."" p8
+“The trainings took place from January to May 2016 ” p12
+The payment took place on 15 June 2016. 
+“This additional training ended in December 2016. ” p12
+",Malawi,2016,7,12,1,0,0,1,0,1,0,1,2,Per capita value of harvest (MWK),Annual per capita value of harvest (MWK),No,No,EEP,1,0,NA,OLS and ATT,2,1,"page: 32; table: 13; table label: Table 13: Project impact on value of agricultural production, consumption and sales; row label: Project; column label: (1) Per capita value of harvest (MWK)",,,,,,,,,,,,,,,,,,,"3,496","1,933",,,,0.05 < p < 0.1,6,24,30,unclear,unclear,778,2,0
+Pierre,N/A,121294984,121294984_5,Burchi and Strupat,2018,3,Tingathe Economic Empowerment Programme (TEEP),"  What is the intervention?  
+“A lump-sum payment: Households in two village clusters obtained a payment of MWK 50,000 (USD 70) which could be used for business investment. ” p12
+“A training package: Households in two village clusters received training on group formation, financial literacy and business management, which included case studies for business investment. ” p11
+  How did it work? 
+“In July 2016, the training component included coaching and mentoring by district staff. It consisted of four refresher training sessions (two training sessions on financial literacy, one training session on business management and one training session on environmental and social safeguards), which were combined with monitoring visits. This additional training ended in December 2016. ” p12
+“The trainings took place from January to May 2016 ” p12
+The payment took place on 15 June 2016. 
+  Where and when did it happen?
+""The project was jointly designed and implemented by the Social Protection Programme of the Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) in cooperation with the Government of Malawi, the Mwanza District Council, and the COMSIP Cooperative
+Union."" p8
+“The trainings took place from January to May 2016 ” p12
+The payment took place on 15 June 2016. 
+“This additional training ended in December 2016. ” p12
+",Malawi,2016,7,12,1,0,0,1,0,1,0,1,2,Per capita food consumption (MWK),Annual per capita food consumption (MWK),No,No,EEP,1,0,NA,OLS and ATT,2,1,page: 34; table: 15; table label: Table 15: Project impact on food consumption and food security; row label: Project; column label: (1) Per capita food consumption (MWK),,,,,,,,,,,,,,,,,,,"8,385","7,933",,,,p > 0.10,6,24,30,unclear,unclear,776,2,0
+Pierre,N/A,121294984,121294984_6,Burchi and Strupat,2018,3,Tingathe Economic Empowerment Programme (TEEP),"  What is the intervention?  
+“A lump-sum payment: Households in two village clusters obtained a payment of MWK 50,000 (USD 70) which could be used for business investment. ” p12
+“A training package: Households in two village clusters received training on group formation, financial literacy and business management, which included case studies for business investment. ” p11
+  How did it work? 
+“In July 2016, the training component included coaching and mentoring by district staff. It consisted of four refresher training sessions (two training sessions on financial literacy, one training session on business management and one training session on environmental and social safeguards), which were combined with monitoring visits. This additional training ended in December 2016. ” p12
+“The trainings took place from January to May 2016 ” p12
+The payment took place on 15 June 2016. 
+  Where and when did it happen?
+""The project was jointly designed and implemented by the Social Protection Programme of the Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) in cooperation with the Government of Malawi, the Mwanza District Council, and the COMSIP Cooperative
+Union."" p8
+“The trainings took place from January to May 2016 ” p12
+The payment took place on 15 June 2016. 
+“This additional training ended in December 2016. ” p12
+",Malawi,2016,7,12,1,0,0,1,0,1,0,1,2,Diet diversity score,"""dietary diversity score, calculated as the number of different food groups that the household has consumed at least once in the seven days before the interview (Swindale & Bilinsky, 2006). It can potentially range from 0 (no food group consumed) to 10 (all food groups consumed)"" p33",No,No,EEP,1,0,NA,Logit and ATT,2,1,page: 34; table: 15; table label: Table 15: Project impact on food consumption and food security; row label: Project; column label: (3) Diet diversity score,,,,,,,,,,,,,,,,,,,0.0329,0.174,,,,p > 0.10,6,24,30,unclear,unclear,776,2,0
+Pierre,N/A,121294984,121294984_7,Burchi and Strupat,2018,3,Tingathe Economic Empowerment Programme (TEEP),"  What is the intervention?  
+“A lump-sum payment: Households in two village clusters obtained a payment of MWK 50,000 (USD 70) which could be used for business investment. ” p12
+“A training package: Households in two village clusters received training on group formation, financial literacy and business management, which included case studies for business investment. ” p11
+  How did it work? 
+“In July 2016, the training component included coaching and mentoring by district staff. It consisted of four refresher training sessions (two training sessions on financial literacy, one training session on business management and one training session on environmental and social safeguards), which were combined with monitoring visits. This additional training ended in December 2016. ” p12
+“The trainings took place from January to May 2016 ” p12
+The payment took place on 15 June 2016. 
+  Where and when did it happen?
+""The project was jointly designed and implemented by the Social Protection Programme of the Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) in cooperation with the Government of Malawi, the Mwanza District Council, and the COMSIP Cooperative
+Union."" p8
+“The trainings took place from January to May 2016 ” p12
+The payment took place on 15 June 2016. 
+“This additional training ended in December 2016. ” p12
+",Malawi,2016,7,12,1,0,0,1,0,1,0,1,2,Per capita non-food expenditure (MWK),Annual per capita non-food expenditure (MWK),No,No,EEP,1,0,NA,OLS and ATT,2,1,page: 36; table: 16; table label: Table 16: Project impact on non-food expenditures; row label: Project; column label: (1) Per capita non-food expenditure (MWK),,,,,,,,,,,,,,,,,,,"8,857","6,530",,,,p > 0.10,6,24,30,256,530,786,2,0
+Pierre,N/A,121294984,121294984_8,Burchi and Strupat,2018,3,Tingathe Economic Empowerment Programme (TEEP),"  What is the intervention?  
+“A lump-sum payment: Households in two village clusters obtained a payment of MWK 50,000 (USD 70) which could be used for business investment. ” p12
+“A training package: Households in two village clusters received training on group formation, financial literacy and business management, which included case studies for business investment. ” p11
+  How did it work? 
+“In July 2016, the training component included coaching and mentoring by district staff. It consisted of four refresher training sessions (two training sessions on financial literacy, one training session on business management and one training session on environmental and social safeguards), which were combined with monitoring visits. This additional training ended in December 2016. ” p12
+“The trainings took place from January to May 2016 ” p12
+The payment took place on 15 June 2016. 
+  Where and when did it happen?
+""The project was jointly designed and implemented by the Social Protection Programme of the Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) in cooperation with the Government of Malawi, the Mwanza District Council, and the COMSIP Cooperative
+Union."" p8
+“The trainings took place from January to May 2016 ” p12
+The payment took place on 15 June 2016. 
+“This additional training ended in December 2016. ” p12
+",Malawi,2016,7,12,1,0,0,1,0,1,0,1,2,Per capita total consumption (MWK),Annual per capita total consumption (MWK),No,No,EEP,1,0,NA,OLS and ATT,2,1,page: 38; table: 17; table label: Table 17: Project impact on total consumption and poverty; row label: Project; column label: (1) Per capita total consumption (MWK),,,,,,,,,,,,,,,,,,,"17,595","12,611",,,,p > 0.10,6,24,30,unclear,unclear,776,2,0
+Pierre,N/A,121294984,121294984_9,Burchi and Strupat,2018,3,Tingathe Economic Empowerment Programme (TEEP),"  What is the intervention?  
+“A lump-sum payment: Households in two village clusters obtained a payment of MWK 50,000 (USD 70) which could be used for business investment. ” p12
+“A training package: Households in two village clusters received training on group formation, financial literacy and business management, which included case studies for business investment. ” p11
+  How did it work? 
+“In July 2016, the training component included coaching and mentoring by district staff. It consisted of four refresher training sessions (two training sessions on financial literacy, one training session on business management and one training session on environmental and social safeguards), which were combined with monitoring visits. This additional training ended in December 2016. ” p12
+“The trainings took place from January to May 2016 ” p12
+The payment took place on 15 June 2016. 
+  Where and when did it happen?
+""The project was jointly designed and implemented by the Social Protection Programme of the Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) in cooperation with the Government of Malawi, the Mwanza District Council, and the COMSIP Cooperative
+Union."" p8
+“The trainings took place from January to May 2016 ” p12
+The payment took place on 15 June 2016. 
+“This additional training ended in December 2016. ” p12
+",Malawi,2016,7,12,1,0,0,1,0,1,0,1,2,Poverty (yes/no),"""monetary poverty, we used the 2013 poverty line calculated by Abdoulayi et al (2016). Based on their estimations, a household was considered poor if it had a per capita consumption below 85,852 MWK (August 2013). To compare our estimates of household consumption with the poverty line, we first took the value of the (rural) consumer price index (CPI) in Malawi for August 2013. After that, we calculated the average (rural) CPI in the 12 months preceding our survey and divided it by the CPI for August 2013. Finally, we adjusted our estimates of household consumption by dividing them by this ratio."" p30",Yes,No,EEP,1,0,NA,Logit and ATT,2,1,page: 38; table: 17; table label: Table 17: Project impact on total consumption and poverty; row label: Project; column label: (3) Poverty (yes/no),,,,,,,,,,,,,,,,,,,-0.0577,0.0439,,,,p > 0.10,6,24,30,unclear,unclear,776,2,0
+Pierre,N/A,121058364,121058364_1,Maldonado et al.,2019,3,Sembrando Oportunidades Familia por Familia (SOF),"  What is the intervention?  
+""The SOF program was a government adaptation of the graduation approach, a program designed to combat extreme poverty, mainly in rural areas."" p3
+  How did it work? 
+""According to the Operative Manual, and based on the graduation approach, the SOF pilot was integrated by seven components:"" p4
+1) Consumption support, 2) promoting savings, 3) technical and life skills training, 4) Asset transfer, 5) Periodic support, 6) Community Exchange Fairs, 7) Inter-institutional network and strategic alliances
+  Where and when did it happen?
+""These results are based on a household survey that was administered before (May-June 2016) and after (November 2017) SOF implementation."" p2
+""The pilot was implemented in the Choré, Capiibary, and Carayaó municipalities (Figure 2), where it intervened 809 households living in conditions of extreme poverty."" p3",Paraguay,2016,6,17,1,0,1,1,1,1,1,0,6,Poverty measured by the poverty line,"""poverty was measured using two methodologies: the first measurement was the national poverty line, which amounted to 185.61 USD ppp (G 473,601) per month and 91.94 USD ppp (G 234,592) per month for extreme poverty."" p15. Binary variable",Yes,No,SOF,1,0,NA,2SLS and LATE,2,1,"Page 16; table 5; Table 5: Effects of SOF on poverty, according to IV and RE; Row: Poverty measured by the poverty line; Column: IV effect",,,,,,,,,,,,,,,,,,,-0.09,0.05,,,,0.05 < p < 0.1,unclear,unclear,123,719,286,1005,1,0
+Pierre,N/A,121058364,121058364_2,Maldonado et al.,2019,3,Sembrando Oportunidades Familia por Familia (SOF),"  What is the intervention?  
+""The SOF program was a government adaptation of the graduation approach, a program designed to combat extreme poverty, mainly in rural areas."" p3
+  How did it work? 
+""According to the Operative Manual, and based on the graduation approach, the SOF pilot was integrated by seven components:"" p4
+1) Consumption support, 2) promoting savings, 3) technical and life skills training, 4) Asset transfer, 5) Periodic support, 6) Community Exchange Fairs, 7) Inter-institutional network and strategic alliances
+  Where and when did it happen?
+""These results are based on a household survey that was administered before (May-June 2016) and after (November 2017) SOF implementation."" p2
+""The pilot was implemented in the Choré, Capiibary, and Carayaó municipalities (Figure 2), where it intervened 809 households living in conditions of extreme poverty."" p3",Paraguay,2016,6,17,1,0,1,1,1,1,1,0,6,Poverty by MPI (multidimensional poverty index),No info but it is most likely MPI  Alkire and Foster 2011 https://www.sciencedirect.com/science/article/abs/pii/S0047272710001660,Yes,No,SOF,1,0,NA,2SLS and LATE,2,1,"Page 16; table 5; Table 5: Effects of SOF on poverty, according to IV and RE; Row: Poverty by MPI (multidimensional poverty index);  Column: IV effect",,,,,,,,,,,,,,,,,,,0.04,0.03,,,,p > 0.10,unclear,unclear,123,719,286,1005,1,0
+Pierre,N/A,121498842,121498842_1,Mahecha et al.,2018,3,Sembrando Oportunidades Familia por Familia (SOF),"  What is the intervention?  
+""The program was implemented by the STP and Fundación Capital between 2016 and 2017 as part of the Extreme Poverty Reduction - Productive and Social Inclusion project."" p1 in translated version added to eppi.
+  How did it work? 
+“The SOF program's Operating Manual (STP, MTESS and FK, 2016) included seven program components, which correspond to the adaptation of the Graduation scheme components for the case of Paraguay."" p4 in translated version added to eppi.
+1) Consumption support, 2) promoting savings, 3) technical and life skills training, 4) Asset transfer, 5) Periodic support, 6) Community Exchange Fairs, 7) Inter-institutional network and strategic alliances
+  Where and when did it happen?
+""The initial phase was conducted between May and June 2016, and the final phase was completed in November 2017. The effects of the program are measured in the variables of interest defined from the beginning of the evaluation. "" p2 in translated version added to eppi.
+""implemented in the districts of Choré and Capiibary (in the department of San Pedro - SP), and Carayaó (in the department of Caaguazú - C), where approximately 2,582 households living in extreme poverty were identified (see Figure 2) "" p1 in translated version added to eppi.",Paraguay,2016,6,17,1,0,1,1,1,1,1,0,6,Total daily hours of work (Horas de trabajo diarias del),Total daily hours of work (Horas de trabajo diarias del),No,No,SOF,1,0,NA,2SLS and LATE,2,1,Page 30; Table 11; Cuadro 11. Efectos en las horas de trabajo diarias de los participantes SOF; Row: Horas de trabajo diarias del; Column EI1 Efecto,,,,,,,,,,,,,,,,,,,0.84,0.43,,,,0.01 < p < 0.05,unclear,unclear,123,719,286,1005,1,0
+Pierre,N/A,121498842,121498842_2,Mahecha et al.,2018,3,Sembrando Oportunidades Familia por Familia (SOF),"  What is the intervention?  
+""The program was implemented by the STP and Fundación Capital between 2016 and 2017 as part of the Extreme Poverty Reduction - Productive and Social Inclusion project."" p1 in translated version added to eppi.
+  How did it work? 
+“The SOF program's Operating Manual (STP, MTESS and FK, 2016) included seven program components, which correspond to the adaptation of the Graduation scheme components for the case of Paraguay."" p4 in translated version added to eppi.
+1) Consumption support, 2) promoting savings, 3) technical and life skills training, 4) Asset transfer, 5) Periodic support, 6) Community Exchange Fairs, 7) Inter-institutional network and strategic alliances
+  Where and when did it happen?
+""The initial phase was conducted between May and June 2016, and the final phase was completed in November 2017. The effects of the program are measured in the variables of interest defined from the beginning of the evaluation. "" p2 in translated version added to eppi.
+""implemented in the districts of Choré and Capiibary (in the department of San Pedro - SP), and Carayaó (in the department of Caaguazú - C), where approximately 2,582 households living in extreme poverty were identified (see Figure 2) "" p1 in translated version added to eppi.",Paraguay,2016,6,17,1,0,1,1,1,1,1,0,6,"Total value of the households’ assets (USD
+ppp) - Valor total de los activos del hogar (USD ppa)","Total value of the households’ assets (USD ppp) - Valor total de los activos del hogar (USD ppa)
+""""It corresponds to the monetary value of the assets owned by the household, based on the self-assessment made by the head of household or their spouse."" p21 in translated version added to eppi.",No,No,SOF,1,0,NA,2SLS and LATE,2,1,Page 32; Table 12; Cuadro 12. Efecto sobre los activos de los hogares participantes SOF; Row: Valor total de los activos del hogar (USD ppa); Column: EI1 Efecto,,,,,,,,,,,,,,,,,,,633.63,342.1,,,,0.05 < p < 0.1,unclear,unclear,123,719,286,1005,1,0
+Pierre,N/A,121498842,121498842_3,Mahecha et al.,2018,3,Sembrando Oportunidades Familia por Familia (SOF),"  What is the intervention?  
+""The program was implemented by the STP and Fundación Capital between 2016 and 2017 as part of the Extreme Poverty Reduction - Productive and Social Inclusion project."" p1 in translated version added to eppi.
+  How did it work? 
+“The SOF program's Operating Manual (STP, MTESS and FK, 2016) included seven program components, which correspond to the adaptation of the Graduation scheme components for the case of Paraguay."" p4 in translated version added to eppi.
+1) Consumption support, 2) promoting savings, 3) technical and life skills training, 4) Asset transfer, 5) Periodic support, 6) Community Exchange Fairs, 7) Inter-institutional network and strategic alliances
+  Where and when did it happen?
+""The initial phase was conducted between May and June 2016, and the final phase was completed in November 2017. The effects of the program are measured in the variables of interest defined from the beginning of the evaluation. "" p2 in translated version added to eppi.
+""implemented in the districts of Choré and Capiibary (in the department of San Pedro - SP), and Carayaó (in the department of Caaguazú - C), where approximately 2,582 households living in extreme poverty were identified (see Figure 2) "" p1 in translated version added to eppi.",Paraguay,2016,6,17,1,0,1,1,1,1,1,0,6,Households’ per capita total monthly income (USD ppa)- Ingreso per cápita total mensual del Hogar (USD ppa).,"Households’ per capita total monthly income (USD ppa)- Ingreso per cápita total mensual del Hogar (USD ppa)  ""Calculation based on the monthly monetary value reported in the household, and divided by the number ofmembers."" p21 in translated version added to eppi.",No,No,SOF,1,0,NA,2SLS and LATE,2,1,Page 35; Table 13; Cuadro 13. Efectos en SD en los ingresos de los hogares participantes en SOF; Row: Ingreso per cápita total mensual del Hogar (USD ppa); Column: EI1 Efecto,,,,,,,,,,,,,,,,,,,-4.89,4.96,,,,p > 0.10,unclear,unclear,123,719,286,1005,1,0
+Pierre,N/A,121498842,121498842_4,Mahecha et al.,2018,3,Sembrando Oportunidades Familia por Familia (SOF),"  What is the intervention?  
+""The program was implemented by the STP and Fundación Capital between 2016 and 2017 as part of the Extreme Poverty Reduction - Productive and Social Inclusion project."" p1 in translated version added to eppi.
+  How did it work? 
+“The SOF program's Operating Manual (STP, MTESS and FK, 2016) included seven program components, which correspond to the adaptation of the Graduation scheme components for the case of Paraguay."" p4 in translated version added to eppi.
+1) Consumption support, 2) promoting savings, 3) technical and life skills training, 4) Asset transfer, 5) Periodic support, 6) Community Exchange Fairs, 7) Inter-institutional network and strategic alliances
+  Where and when did it happen?
+""The initial phase was conducted between May and June 2016, and the final phase was completed in November 2017. The effects of the program are measured in the variables of interest defined from the beginning of the evaluation. "" p2 in translated version added to eppi.
+""implemented in the districts of Choré and Capiibary (in the department of San Pedro - SP), and Carayaó (in the department of Caaguazú - C), where approximately 2,582 households living in extreme poverty were identified (see Figure 2) "" p1 in translated version added to eppi.",Paraguay,2016,6,17,1,0,1,1,1,1,1,0,6,Value of formal savings (USD ppa) - Valor del ahorros formales (USD ppa),"Value of formal savings (USD ppa) - Valor del ahorros formales (USD ppa) ""Monetary value of household savings. This indicator is constructed using the monetary value reported by the participant (money or in kind) for different types and means of savings."" p21 in translated version added to eppi.",No,No,SOF,1,0,NA,2SLS and LATE,2,1,Page 38; Table 14; Cuadro 14. Efecto en SD en el ahorro de los hogares participantes en SOF; Row: valor del ahorros formales (USD ppa); Column: EI1 Efecto,,,,,,,,,,,,,,,,,,,1.56,3.84,,,,p > 0.10,unclear,unclear,123,719,286,1005,1,0
+Pierre,N/A,121498842,121498842_5,Mahecha et al.,2018,3,Sembrando Oportunidades Familia por Familia (SOF),"  What is the intervention?  
+""The program was implemented by the STP and Fundación Capital between 2016 and 2017 as part of the Extreme Poverty Reduction - Productive and Social Inclusion project."" p1 in translated version added to eppi.
+  How did it work? 
+“The SOF program's Operating Manual (STP, MTESS and FK, 2016) included seven program components, which correspond to the adaptation of the Graduation scheme components for the case of Paraguay."" p4 in translated version added to eppi.
+1) Consumption support, 2) promoting savings, 3) technical and life skills training, 4) Asset transfer, 5) Periodic support, 6) Community Exchange Fairs, 7) Inter-institutional network and strategic alliances
+  Where and when did it happen?
+""The initial phase was conducted between May and June 2016, and the final phase was completed in November 2017. The effects of the program are measured in the variables of interest defined from the beginning of the evaluation. "" p2 in translated version added to eppi.
+""implemented in the districts of Choré and Capiibary (in the department of San Pedro - SP), and Carayaó (in the department of Caaguazú - C), where approximately 2,582 households living in extreme poverty were identified (see Figure 2) "" p1 in translated version added to eppi.",Paraguay,2016,6,17,1,0,1,1,1,1,1,0,6,Value of informal savings (USD ppa) - Valor del ahorros informales (USD ppa),"Value of informal savings (USD ppa) - Valor del ahorros informales (USD ppa) ""Monetary value of household savings. This indicator is constructed using the monetary value reported by the participant (money or in kind) for different types and means of savings."" p21 in translated version added to eppi.",No,No,SOF,1,0,NA,2SLS and LATE,2,1,Page 38; Table 14; Cuadro 14. Efecto en SD en el ahorro de los hogares participantes en SOF; Row: valor del ahorros informales (USD ppa); Column: EI1 Efecto,,,,,,,,,,,,,,,,,,,7.98,8.85,,,,p > 0.10,unclear,unclear,123,719,286,1005,1,0
+Pierre,N/A,121498842,121498842_6,Mahecha et al.,2018,3,Sembrando Oportunidades Familia por Familia (SOF),"  What is the intervention?  
+""The program was implemented by the STP and Fundación Capital between 2016 and 2017 as part of the Extreme Poverty Reduction - Productive and Social Inclusion project."" p1 in translated version added to eppi.
+  How did it work? 
+“The SOF program's Operating Manual (STP, MTESS and FK, 2016) included seven program components, which correspond to the adaptation of the Graduation scheme components for the case of Paraguay."" p4 in translated version added to eppi.
+1) Consumption support, 2) promoting savings, 3) technical and life skills training, 4) Asset transfer, 5) Periodic support, 6) Community Exchange Fairs, 7) Inter-institutional network and strategic alliances
+  Where and when did it happen?
+""The initial phase was conducted between May and June 2016, and the final phase was completed in November 2017. The effects of the program are measured in the variables of interest defined from the beginning of the evaluation. "" p2 in translated version added to eppi.
+""implemented in the districts of Choré and Capiibary (in the department of San Pedro - SP), and Carayaó (in the department of Caaguazú - C), where approximately 2,582 households living in extreme poverty were identified (see Figure 2) "" p1 in translated version added to eppi.",Paraguay,2016,6,17,1,0,1,1,1,1,1,0,6,Value of in-kind savings (USD ppa) - Valor del ahorros en especie (USD ppa),"Value of in-kind savings (USD ppa) - Valor del ahorros en especie (USD ppa) ""Monetary value of household savings. This indicator is constructed using the monetary value reported by the participant (money or in kind) for different types and means of savings."" p21 in translated version added to eppi.",No,No,SOF,1,0,NA,2SLS and LATE,2,1,Page 38; Table 14; Cuadro 14. Efecto en SD en el ahorro de los hogares participantes en SOF; Row: valor del ahorros en especie (USD ppa); Column: EI1 Efecto,,,,,,,,,,,,,,,,,,,69,90.75,,,,p > 0.10,unclear,unclear,123,719,286,1005,1,0
+Pierre,N/A,121498842,121498842_7,Mahecha et al.,2018,3,Sembrando Oportunidades Familia por Familia (SOF),"  What is the intervention?  
+""The program was implemented by the STP and Fundación Capital between 2016 and 2017 as part of the Extreme Poverty Reduction - Productive and Social Inclusion project."" p1 in translated version added to eppi.
+  How did it work? 
+“The SOF program's Operating Manual (STP, MTESS and FK, 2016) included seven program components, which correspond to the adaptation of the Graduation scheme components for the case of Paraguay."" p4 in translated version added to eppi.
+1) Consumption support, 2) promoting savings, 3) technical and life skills training, 4) Asset transfer, 5) Periodic support, 6) Community Exchange Fairs, 7) Inter-institutional network and strategic alliances
+  Where and when did it happen?
+""The initial phase was conducted between May and June 2016, and the final phase was completed in November 2017. The effects of the program are measured in the variables of interest defined from the beginning of the evaluation. "" p2 in translated version added to eppi.
+""implemented in the districts of Choré and Capiibary (in the department of San Pedro - SP), and Carayaó (in the department of Caaguazú - C), where approximately 2,582 households living in extreme poverty were identified (see Figure 2) "" p1 in translated version added to eppi.",Paraguay,2016,6,17,1,0,1,1,1,1,1,0,6,Total household per capita expenditure (USD ppa) - Valor total del gasto pc en el hogar (USD ppa),"Total household per capita expenditure (USD ppa) - Valor total del gasto pc en el hogar (USD ppa) MONTHLY ""Quantity and value information for different types of spending on goods and services based on household self-reporting, and divided by the number of household members.""  p21 in translated version added to eppi.",No,No,SOF,1,0,NA,2SLS and LATE,2,1,Page 40; Table 15; Cuadro 15. Efecto en SD en el consumo mensual de los hogares participantes en SOF; Row: Valor total del gasto pc en el hogar (USD ppa); Column: EI1 Efecto,,,,,,,,,,,,,,,,,,,4.79,6.03,,,,p > 0.10,unclear,unclear,123,719,286,1005,1,0
+Pierre,N/A,121498842,121498842_8,Mahecha et al.,2018,3,Sembrando Oportunidades Familia por Familia (SOF),"  What is the intervention?  
+""The program was implemented by the STP and Fundación Capital between 2016 and 2017 as part of the Extreme Poverty Reduction - Productive and Social Inclusion project."" p1 in translated version added to eppi.
+  How did it work? 
+“The SOF program's Operating Manual (STP, MTESS and FK, 2016) included seven program components, which correspond to the adaptation of the Graduation scheme components for the case of Paraguay."" p4 in translated version added to eppi.
+1) Consumption support, 2) promoting savings, 3) technical and life skills training, 4) Asset transfer, 5) Periodic support, 6) Community Exchange Fairs, 7) Inter-institutional network and strategic alliances
+  Where and when did it happen?
+""The initial phase was conducted between May and June 2016, and the final phase was completed in November 2017. The effects of the program are measured in the variables of interest defined from the beginning of the evaluation. "" p2 in translated version added to eppi.
+""implemented in the districts of Choré and Capiibary (in the department of San Pedro - SP), and Carayaó (in the department of Caaguazú - C), where approximately 2,582 households living in extreme poverty were identified (see Figure 2) "" p1 in translated version added to eppi.",Paraguay,2016,6,17,1,0,1,1,1,1,1,0,6,Happiness level - Nivel de felicidad,"Happiness level - Nivel de felicidad ""Expectations in terms of participants' perceived well-being were measured using the life ladder, similar to that used by Carter and Moya (2014) and proposed by the World Bank in 2007 (Narayan et al., 2007). This ladder has six rungs, where the highest rung represents the highest level of well-being a participant can achieve within their community. Additionally, participants' life satisfaction was measured in terms of their current level of happiness, as a measure of well-being, to provide some
+context for the results regarding expectations."" p44 in translated version added to eppi.",No,No,SOF,1,0,NA,2SLS and LATE,2,1,Page 46; Table 16; Cuadro 16. Efectos en SD en la reducción de la brecha en expectativas a 2 y 5 años para hogares participantes de SOF; Row: Nivel de felicidad; Column: EI1 Efecto,,,,,,,,,,,,,,,,,,,0.04,0.08,,,,p > 0.10,unclear,unclear,123,719,286,1005,1,0
+Pierre,N/A,121498842,121498842_9,Mahecha et al.,2018,3,Sembrando Oportunidades Familia por Familia (SOF),"  What is the intervention?  
+""The program was implemented by the STP and Fundación Capital between 2016 and 2017 as part of the Extreme Poverty Reduction - Productive and Social Inclusion project."" p1 in translated version added to eppi.
+  How did it work? 
+“The SOF program's Operating Manual (STP, MTESS and FK, 2016) included seven program components, which correspond to the adaptation of the Graduation scheme components for the case of Paraguay."" p4 in translated version added to eppi.
+1) Consumption support, 2) promoting savings, 3) technical and life skills training, 4) Asset transfer, 5) Periodic support, 6) Community Exchange Fairs, 7) Inter-institutional network and strategic alliances
+  Where and when did it happen?
+""The initial phase was conducted between May and June 2016, and the final phase was completed in November 2017. The effects of the program are measured in the variables of interest defined from the beginning of the evaluation. "" p2 in translated version added to eppi.
+""implemented in the districts of Choré and Capiibary (in the department of San Pedro - SP), and Carayaó (in the department of Caaguazú - C), where approximately 2,582 households living in extreme poverty were identified (see Figure 2) "" p1 in translated version added to eppi.",Paraguay,2016,6,17,1,0,1,1,1,1,1,0,6,Wellbeing perception - Percepción de bienestar,"Wellbeing perception - Percepción de bienestar ""Expectations in terms of participants' perceived well-being were measured using the life ladder, similar to that used by Carter and Moya (2014) and proposed by the World Bank in 2007 (Narayan et al., 2007). This ladder has six rungs, where the highest rung represents the highest level of well-being a participant can achieve within their community. Additionally, participants' life satisfaction was measured in terms of their current level of happiness, as a measure of well-being, to provide some
+context for the results regarding expectations."" p44 in translated version added to eppi.",No,No,SOF,1,0,NA,2SLS and LATE,2,1,Page 46; Table 16; Cuadro 16. Efectos en SD en la reducción de la brecha en expectativas a 2 y 5 años para hogares participantes de SOF; Row: Percepción de bienestar; Column: EI1 Efecto,,,,,,,,,,,,,,,,,,,0.28,0.14,,,,0.05 < p < 0.1,unclear,unclear,123,719,286,1005,1,0
