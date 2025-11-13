@@ -1,0 +1,361 @@
+{
+  "_key": "6WTBIFX2",
+  "_phase": "phase5_qex_validation",
+  "outcome_groups": [
+    {
+      "outcome_name": "Educational decision involvement",
+      "outcome_description": "Dummy for being involved in educational decisions for children",
+      "num_variations": 1,
+      "tables": [
+        "8"
+      ],
+      "treatment_arms": [
+        "Project"
+      ],
+      "subgroups": [
+        "Urban"
+      ],
+      "statistics": [
+        {
+          "table_number": "8",
+          "outcome_name": "Educational decision involvement",
+          "outcome_description": "Dummy for being involved in educational decisions for children",
+          "treatment_arm": "Project",
+          "subgroup": "Urban",
+          "effect_size": 0.029,
+          "p_value": null,
+          "standard_error": null,
+          "confidence_interval": null,
+          "sample_size": 539,
+          "literal_text": "0.029 [0.273]",
+          "text_position": "Table 8, Row 'Panel A: Urban sample', Column '(2) Educational decision involvement'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Husband exclusive decision maker",
+      "outcome_description": "Dummy for husband being exclusive decision maker",
+      "num_variations": 1,
+      "tables": [
+        "8"
+      ],
+      "treatment_arms": [
+        "Project"
+      ],
+      "subgroups": [
+        "Urban"
+      ],
+      "statistics": [
+        {
+          "table_number": "8",
+          "outcome_name": "Husband exclusive decision maker",
+          "outcome_description": "Dummy for husband being exclusive decision maker",
+          "treatment_arm": "Project",
+          "subgroup": "Urban",
+          "effect_size": -0.061,
+          "p_value": null,
+          "standard_error": null,
+          "confidence_interval": null,
+          "sample_size": 539,
+          "literal_text": "-0.061 [0.108]",
+          "text_position": "Table 8, Row 'Panel A: Urban sample', Column '(1) Husband exclusive decision maker'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Income from employment",
+      "outcome_description": "Annual income from employment in Lempira",
+      "num_variations": 1,
+      "tables": [
+        "7"
+      ],
+      "treatment_arms": [
+        "Project"
+      ],
+      "subgroups": [
+        "Urban"
+      ],
+      "statistics": [
+        {
+          "table_number": "7",
+          "outcome_name": "Income from employment",
+          "outcome_description": "Annual income from employment in Lempira",
+          "treatment_arm": "Project",
+          "subgroup": "Urban",
+          "effect_size": 2307.6,
+          "p_value": null,
+          "standard_error": null,
+          "confidence_interval": null,
+          "sample_size": 855,
+          "literal_text": "2307.6 [0.492]",
+          "text_position": "Table 7, Row 'Panel A: Urban sample', Column '(2) Income from employment'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Knowledge of financial accounts",
+      "outcome_description": "Dummy for knowledge of financial accounts",
+      "num_variations": 1,
+      "tables": [
+        "5"
+      ],
+      "treatment_arms": [
+        "Project"
+      ],
+      "subgroups": [
+        "Urban"
+      ],
+      "statistics": [
+        {
+          "table_number": "5",
+          "outcome_name": "Knowledge of financial accounts",
+          "outcome_description": "Dummy for knowledge of financial accounts",
+          "treatment_arm": "Project",
+          "subgroup": "Urban",
+          "effect_size": 0.051,
+          "p_value": 0.05,
+          "standard_error": null,
+          "confidence_interval": null,
+          "sample_size": 855,
+          "literal_text": "0.051 [0.039]**",
+          "text_position": "Table 5, Row 'Panel A: Urban sample', Column '(3) Knowledge of financial accounts'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Knowledge of financial institutions",
+      "outcome_description": "Dummy for knowledge of financial institutions",
+      "num_variations": 2,
+      "tables": [
+        "5"
+      ],
+      "treatment_arms": [
+        "Project"
+      ],
+      "subgroups": [
+        "Rural",
+        "Urban"
+      ],
+      "statistics": [
+        {
+          "table_number": "5",
+          "outcome_name": "Knowledge of financial institutions",
+          "outcome_description": "Dummy for knowledge of financial institutions",
+          "treatment_arm": "Project",
+          "subgroup": "Urban",
+          "effect_size": 0.097,
+          "p_value": 0.01,
+          "standard_error": null,
+          "confidence_interval": null,
+          "sample_size": 855,
+          "literal_text": "0.097 [0.002]***",
+          "text_position": "Table 5, Row 'Panel A: Urban sample', Column '(2) Knowledge of financial institutions'"
+        },
+        {
+          "table_number": "5",
+          "outcome_name": "Knowledge of financial institutions",
+          "outcome_description": "Dummy for knowledge of financial institutions",
+          "treatment_arm": "Project",
+          "subgroup": "Rural",
+          "effect_size": 0.257,
+          "p_value": 0.01,
+          "standard_error": null,
+          "confidence_interval": null,
+          "sample_size": 27,
+          "literal_text": "0.257 [0.001]***",
+          "text_position": "Table 5, Row 'Panel B: Rural sample', Column '(2) Knowledge of financial institutions'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Math scores",
+      "outcome_description": "Mathematical skills test score",
+      "num_variations": 2,
+      "tables": [
+        "5"
+      ],
+      "treatment_arms": [
+        "Project"
+      ],
+      "subgroups": [
+        "Rural",
+        "Urban"
+      ],
+      "statistics": [
+        {
+          "table_number": "5",
+          "outcome_name": "Math scores",
+          "outcome_description": "Mathematical skills test score",
+          "treatment_arm": "Project",
+          "subgroup": "Urban",
+          "effect_size": 0.04,
+          "p_value": 0.05,
+          "standard_error": null,
+          "confidence_interval": null,
+          "sample_size": 850,
+          "literal_text": "0.040 [p-value] [0.012]**",
+          "text_position": "Table 5, Row 'Panel A: Urban sample', Column '(1) Math scores'"
+        },
+        {
+          "table_number": "5",
+          "outcome_name": "Math scores",
+          "outcome_description": "Mathematical skills test score",
+          "treatment_arm": "Project",
+          "subgroup": "Rural",
+          "effect_size": 0.112,
+          "p_value": 0.01,
+          "standard_error": null,
+          "confidence_interval": null,
+          "sample_size": 27,
+          "literal_text": "0.112 [0.000]***",
+          "text_position": "Table 5, Row 'Panel B: Rural sample', Column '(1) Math scores'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Total Income",
+      "outcome_description": "Total annual income in Lempira",
+      "num_variations": 2,
+      "tables": [
+        "7"
+      ],
+      "treatment_arms": [
+        "Project"
+      ],
+      "subgroups": [
+        "Rural",
+        "Urban"
+      ],
+      "statistics": [
+        {
+          "table_number": "7",
+          "outcome_name": "Total Income",
+          "outcome_description": "Total annual income in Lempira",
+          "treatment_arm": "Project",
+          "subgroup": "Urban",
+          "effect_size": 2964.4,
+          "p_value": null,
+          "standard_error": null,
+          "confidence_interval": null,
+          "sample_size": 855,
+          "literal_text": "2964.4 [0.534]",
+          "text_position": "Table 7, Row 'Panel A: Urban sample', Column '(1) Total Income'"
+        },
+        {
+          "table_number": "7",
+          "outcome_name": "Total Income",
+          "outcome_description": "Total annual income in Lempira",
+          "treatment_arm": "Project",
+          "subgroup": "Rural",
+          "effect_size": 3755.5,
+          "p_value": 0.05,
+          "standard_error": null,
+          "confidence_interval": null,
+          "sample_size": 27,
+          "literal_text": "3755.5 [0.017]**",
+          "text_position": "Table 7, Row 'Panel B: Rural sample', Column '(1) Total Income'"
+        }
+      ]
+    }
+  ],
+  "validation": {
+    "total": 10,
+    "complete": 0,
+    "missing_effect_size": 0,
+    "missing_se": 10,
+    "missing_p_value": 4,
+    "missing_literal": 0,
+    "missing_position": 0,
+    "issues": [
+      {
+        "index": 0,
+        "outcome_name": "Educational decision involvement",
+        "table_number": "8",
+        "issues": [
+          "missing_standard_error",
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 1,
+        "outcome_name": "Husband exclusive decision maker",
+        "table_number": "8",
+        "issues": [
+          "missing_standard_error",
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 2,
+        "outcome_name": "Income from employment",
+        "table_number": "7",
+        "issues": [
+          "missing_standard_error",
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 3,
+        "outcome_name": "Knowledge of financial accounts",
+        "table_number": "5",
+        "issues": [
+          "missing_standard_error"
+        ]
+      },
+      {
+        "index": 4,
+        "outcome_name": "Knowledge of financial institutions",
+        "table_number": "5",
+        "issues": [
+          "missing_standard_error"
+        ]
+      },
+      {
+        "index": 5,
+        "outcome_name": "Knowledge of financial institutions",
+        "table_number": "5",
+        "issues": [
+          "missing_standard_error"
+        ]
+      },
+      {
+        "index": 6,
+        "outcome_name": "Math scores",
+        "table_number": "5",
+        "issues": [
+          "missing_standard_error"
+        ]
+      },
+      {
+        "index": 7,
+        "outcome_name": "Math scores",
+        "table_number": "5",
+        "issues": [
+          "missing_standard_error"
+        ]
+      },
+      {
+        "index": 8,
+        "outcome_name": "Total Income",
+        "table_number": "7",
+        "issues": [
+          "missing_standard_error",
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 9,
+        "outcome_name": "Total Income",
+        "table_number": "7",
+        "issues": [
+          "missing_standard_error"
+        ]
+      }
+    ]
+  },
+  "summary": {
+    "total_statistics": 10,
+    "unique_outcomes": 7,
+    "completeness_rate": 0.0
+  }
+}

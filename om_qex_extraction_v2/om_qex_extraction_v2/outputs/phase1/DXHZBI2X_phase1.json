@@ -1,0 +1,88 @@
+{
+  "tables_found": [
+    {
+      "table_number": "1",
+      "title": "Randomization Test Baseline Household Characteristics",
+      "location": "paragraph",
+      "xml_id": null,
+      "has_structure": false,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "2",
+      "title": "Child Labor Measures",
+      "location": "paragraph",
+      "xml_id": null,
+      "has_structure": false,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "3",
+      "title": "Full Tobit Regression on Child Labor Hours",
+      "location": "figure tab_0",
+      "xml_id": "tab_0",
+      "has_structure": true,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "4",
+      "title": "Tobit Regression on Child Labor Hours: Overall Program Effect",
+      "location": "figure tab_1",
+      "xml_id": "tab_1",
+      "has_structure": true,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "5",
+      "title": "Tobit Regression on Child Labor Hours: Separating Girls and Boys",
+      "location": "paragraph",
+      "xml_id": null,
+      "has_structure": false,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "6",
+      "title": "Tobit Regression on Child Labor Hours: Basic vs Business Grant Intervention",
+      "location": "paragraph",
+      "xml_id": null,
+      "has_structure": false,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "7",
+      "title": "Difference-in-Difference Regression on Child Labor Days: Overall Program Effect",
+      "location": "figure tab_2",
+      "xml_id": "tab_2",
+      "has_structure": true,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "8",
+      "title": "Difference-in-Difference Regression on Child Labor Days: Basic vs Business Grant Intervention",
+      "location": "figure tab_3",
+      "xml_id": "tab_3",
+      "has_structure": true,
+      "confidence": 1.0
+    }
+  ],
+  "total_tables_found": 8,
+  "table_numbers": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8"
+  ],
+  "warnings": [],
+  "summary": {
+    "structured_tables": 4,
+    "paragraph_tables": 4,
+    "text_references_only": 0
+  },
+  "_key": "DXHZBI2X",
+  "_phase": "phase1_table_discovery",
+  "_raw_response_length": 2859
+}

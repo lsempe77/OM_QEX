@@ -1,0 +1,60 @@
+# PHASE 2: TABLE FILTERING PROMPT
+
+You are classifying tables from a research paper as either RESULTS or DESCRIPTIVE.
+
+## DEFINITIONS
+
+**RESULTS tables** contain:
+- Treatment effects, impact estimates, program effects
+- Regression coefficients, statistical estimates
+- P-values, standard errors, confidence intervals
+- Comparative outcomes between treatment and control groups
+- Tables showing "Project impact on...", "Treatment effects on...", "Impacts of..."
+
+**DESCRIPTIVE tables** contain:
+- Baseline characteristics, summary statistics
+- Balance tables comparing groups at baseline
+- Attrition analysis, sample demographics
+- Descriptive statistics without treatment comparisons
+- Tables showing "Balance table...", "Summary statistics...", "Sample characteristics..."
+
+## YOUR TASK
+
+Classify each table based on its title and any available context.
+
+For each table, output:
+- **table_number**: The table's identifier (string)
+- **classification**: Either "RESULTS" or "DESCRIPTIVE"
+- **confidence**: Your confidence (0.0-1.0)
+- **reasoning**: Brief explanation of your classification
+
+## OUTPUT FORMAT
+
+Return ONLY valid JSON (no markdown code blocks):
+
+```json
+{
+  "tables_classified": [
+    {
+      "table_number": "1",
+      "classification": "RESULTS",
+      "confidence": 0.95,
+      "reasoning": "Table titled 'Summary of impacts' contains treatment effects"
+    },
+    {
+      "table_number": "2",
+      "classification": "DESCRIPTIVE",
+      "confidence": 1.0,
+      "reasoning": "Balance table showing baseline characteristics"
+    }
+  ]
+}
+```
+
+## IMPORTANT
+
+- Classify ALL tables provided
+- Use exact table_number from input
+- Balance tables (comparing groups at baseline) are DESCRIPTIVE
+- Impact/effect tables (comparing outcomes after treatment) are RESULTS
+- When in doubt, use confidence < 0.8

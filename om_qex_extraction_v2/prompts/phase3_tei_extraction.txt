@@ -1,0 +1,265 @@
+# PHASE 3: TEI EXTRACTION PROMPT
+
+You are extracting outcome data from research paper tables that are embedded in TEI XML format.
+
+## CONTEXT
+
+- **Phase 1**: Discovered all tables in this paper
+- **Phase 2**: Filtered to keep only RESULTS tables (treatment effects, impact estimates)
+- **Phase 3 (THIS PHASE)**: Extract ALL outcomes from EVERY RESULTS table
+
+You will receive:
+1. List of RESULTS tables to extract from
+2. TEI XML containing the paper text (tables may be in `<figure>` or `<p>` tags)
+
+## YOUR TASK
+
+**CRITICAL**: Extract ALL outcomes (rows) from EVERY RESULTS table listed below. Do NOT ask for confirmation. Do NOT provide partial results. Extract EVERYTHING in one complete response.
+
+**MANDATORY**: You MUST process EVERY table in the list. If a table is listed, you MUST extract from it. Set "extraction_success": false ONLY if:
+- The table text is completely missing/unreadable in the TEI
+- The table contains NO statistical data (only descriptive text)
+
+**Do NOT skip a table** because it seems simple, redundant, or has few columns or rows.
+
+For each table:
+1. Find the table in the TEI XML (may be in `<figure type="table">` OR `<p>` elements)
+   - **Search for both English and Spanish keywords**: "Table", "Cuadro", "Tabla", "Figura", "Figure"
+2. Extract EVERY row that contains an outcome with statistical data
+3. Parse the statistics correctly (see notation guide below)
+
+## OUTPUT SCHEMA
+
+Return valid JSON (no markdown code blocks, no explanatory text):
+
+```json
+{
+  "tables_extracted": [
+    {
+      "table_number": "6",
+      "extraction_success": true,
+      "outcomes_found": 9
+    }
+  ],
+  "outcomes": [
+    {
+      "table_number": "6",
+      "outcome_name": "Amount savings (MWK)",
+      "outcome_description": "Total savings in Malawian Kwacha",
+      "treatment_arm": "Project",
+      "subgroup": null,
+      "effect_size": 4408.0,
+      "p_value": 0.01,
+      "standard_error": 1369.0,
+      "confidence_interval": null,
+      "sample_size": null,
+      "literal_text": "Project | 4,408*** (1,369)",
+      "text_position": "Table 6, Row 'Project', Column '(3) Amount savings (MWK)'"
+    }
+  ],
+  "total_outcomes_extracted": 104
+}
+```
+
+## FIELD DEFINITIONS
+
+For each outcome (table row):
+
+- **table_number**: Which table this outcome is from
+- **outcome_name**: Variable name (e.g., "Amount savings", "Food consumption")
+- **outcome_description**: Full description including units (e.g., "Total savings in Malawian Kwacha")
+- **treatment_arm**: Treatment group if multiple (e.g., "Lump-sum plus training", "Control")
+- **subgroup**: Subgroup if applicable (e.g., "Female", "Urban")
+- **effect_size**: Regression coefficient or treatment effect (extract number)
+- **p_value**: Exact p-value (0.01 for ***, 0.05 for **, 0.10 for *)
+- **standard_error**: SE (usually in parentheses after coefficient)
+- **confidence_interval**: "Lower, Upper" if reported
+- **sample_size**: N for this outcome if reported
+- **literal_text**: Exact text from paper showing this statistic
+- **text_position**: Precise location (e.g., "Table 6, Row 'Project', Column '(3) Amount savings'")
+
+## EXTRACTION RULES
+
+### 1. Finding Tables in TEI XML
+
+**IMPORTANT**: Each table listed above MUST be extracted. Look carefully for all tables, even if they appear in unexpected formats.
+
+Tables can appear in two formats:
+
+**A. Structured tables** (`<figure type="table">`):
+```xml
+<figure type="table" xml:id="tab_1">
+  <label>Table 6</label>
+  <head>Project impact on saving and loans</head>
+  <table>
+    <row><cell>Variables</cell><cell>(1)</cell><cell>(2)</cell></row>
+    <row><cell>Project</cell><cell>0.263***</cell><cell>4,408***</cell></row>
+  </table>
+</figure>
+```
+
+**B. Paragraph-embedded tables** (`<p>` tags):
+```xml
+<p xml:id="_MzT7dfy">Table 6: Project impact on saving and loans
+Variables | (1) Saving uptake | (2) Amount savings
+Project | 0.263*** (0.0761) | 4,408*** (1,369)
+</p>
+```
+
+**CRITICAL FOR PARAGRAPH TABLES**: These tables appear as continuous text. To extract ALL rows:
+1. **Identify the table boundary**: From table title to "Observations" or next table
+2. **Find ALL treatment/variable rows**: Look for patterns like "Treatment_name | number*** (number)"
+3. **Extract EACH row systematically**: Don't stop after the first 1-2 rows
+4. **Verify row count**: If table has 4 treatment arms, you MUST extract 4 outcomes
+
+**LANGUAGE SUPPORT**: Tables may use English or Spanish keywords. Search for:
+- **English**: "Table", "Figure", "Panel"
+- **Spanish**: "Cuadro", "Tabla", "Figura", "Panel"
+- Examples: "Table 10", "Cuadro 10", "Figura 12", "Tabla 6"
+
+**NOTE**: Small tables (2 columns) are just as important as large tables (8+ columns). Extract from ALL tables.
+
+### 2. Parsing Statistical Notation
+
+#### Significance Stars
+- `***` = p<0.01 (highly significant)
+- `**` = p<0.05 (significant)
+- `*` = p<0.10 (marginally significant)
+
+#### Standard Errors (SE) - Multiple Formats
+
+**Format 1: SE in parentheses (MOST COMMON)**
+- `4,408*** (1,369)` → effect_size=4408, standard_error=1369, p_value=0.01
+- `0.84** (0.43)` → effect_size=0.84, standard_error=0.43, p_value=0.05
+- `633.63* (342.10)` → effect_size=633.63, standard_error=342.10, p_value=0.10
+- `0.32 (0.44)` → effect_size=0.32, standard_error=0.44, p_value=null (no stars)
+- `0.189 (0.159)` → effect_size=0.189, standard_error=0.159, p_value=null
+
+**Format 2: Only coefficient with significance (NO SE available)**
+- `-8.6%*` → effect_size=-8.6, standard_error=null, p_value=0.10
+- `4.30*` → effect_size=4.3, standard_error=null, p_value=0.10
+- `8.9%` → effect_size=8.9, standard_error=null, p_value=null
+- `0.03` → effect_size=0.03, standard_error=null, p_value=null
+
+**Format 3: Square brackets = Confidence Intervals (NOT standard errors)**
+- `[1.2, 5.6]` or `(1.2-5.6)` → confidence_interval="1.2, 5.6", standard_error=null
+
+**CRITICAL RULES FOR SE EXTRACTION:**
+1. **Only extract SE if it appears in regular parentheses immediately after the coefficient**
+2. **If format is `value*` or `value%*` with NO parentheses → standard_error=null**
+3. **Do NOT calculate, derive, or guess SE values - only extract what's explicitly shown**
+4. **Square brackets [] are confidence intervals, not standard errors**
+5. **Empty parentheses () or dashes (--) mean missing data → standard_error=null**
+
+#### P-Values
+- Infer from significance stars: `***`→0.01, `**`→0.05, `*`→0.10
+- If no stars: p_value=null (not significant or not reported)
+
+### 3. Handling Multiple Treatment Arms
+
+If table shows multiple treatments (e.g., "Lump-sum plus training", "Lump-sum only"), create separate outcome entries for each treatment × outcome combination.
+
+Example:
+```
+Table 6 shows:
+- Project → Saving uptake: 0.263***
+- Lump-sum plus training → Saving uptake: 0.339***
+- Lump-sum only → Saving uptake: 0.0159
+```
+
+Extract 3 separate outcomes with different `treatment_arm` values.
+
+**EXAMPLE: Simple 2-Column Table**
+
+Even simple tables with few columns contain important outcomes. **CRITICAL**: You must extract EVERY row, not just the first 1-2 rows you see.
+
+```
+Table 5: Financial literacy (4 treatment arms in paragraph format)
+Variables | (1) Financial literacy index | (2) Financial literacy index
+Project | 0.581*** (0.135) | 
+Lump-sum plus training | | 0.799*** (0.167)
+Lump-sum only | | 0.189 (0.159)
+Training-only | | 0.710*** (0.0858)
+```
+
+**This table has 4 rows = 4 outcomes to extract**:
+1. Project: 0.581*** (SE=0.135)
+2. Lump-sum plus training: 0.799*** (SE=0.167)
+3. Lump-sum only: 0.189 (SE=0.159)
+4. Training-only: 0.710*** (SE=0.0858)
+
+**Do not skip because**:
+- "It has only 2 columns" → Column count doesn't matter
+- "I already extracted 2 rows" → Extract ALL rows, not just first few
+- "Some effects are non-significant" → Extract ALL rows including non-significant
+
+**Verification**: After parsing, count your extracted outcomes. If the table shows 4 treatment arms, you must have 4 outcome objects in your JSON.
+
+### 4. Column Structure
+
+Most impact tables have structure:
+- **Column 1**: Outcome variable names (rows)
+- **Columns 2+**: Statistical estimates for different specifications
+
+Extract one outcome per row per column that contains treatment effects.
+
+### 5. What to Extract
+
+**EXTRACT:**
+- All rows showing treatment effects, coefficients, impacts
+- All columns showing different outcome measures
+- Baseline characteristics IF they're outcome variables (not descriptive stats)
+
+**SKIP:**
+- Table notes/footnotes
+- Model specification rows (e.g., "Controls: Yes", "Fixed effects: Yes")
+- Observation counts (unless needed for sample_size)
+- R-squared or goodness-of-fit statistics
+
+### 6. Literal Text Format
+
+Copy the exact text including:
+- Row label
+- Column label (if helpful)
+- Numerical value with significance stars
+- Standard error in parentheses
+
+Example: `"Project | 0.263*** (0.0761)"` or `"Lump-sum plus training | Saving uptake | 0.339*** (0.0335)"`
+
+### 7. Text Position Format
+
+Use this pattern: `"Table {number}, Row '{row_label}', Column '{column_label}'"`
+
+Example: `"Table 6, Row 'Project', Column '(2) Amount savings (MWK)'"`
+
+## TABLES TO EXTRACT
+
+{tables_list}
+
+## TEI XML CONTENT
+
+{tei_content}
+
+## IMPORTANT REMINDERS
+
+1. **Extract ALL outcomes** from each table (every row that shows a treatment effect)
+2. **EVERY table MUST be processed**: Set "extraction_success": true unless table is completely unreadable
+3. **Paragraph tables**: For tables in `<p>` tags, parse the ENTIRE text systematically to find ALL rows - don't stop after extracting first 1-2 rows
+4. **Simple tables matter**: A table with 2 columns is just as important as one with 8 columns
+5. **Multiple treatments**: Create separate entries for each treatment arm - if table lists 4 treatments, extract 4 outcomes
+6. **Units**: Include units in outcome_description (MWK, USD, index, yes/no)
+7. **Missing data**: Use null if a field cannot be determined
+8. **Extract, don't summarize**: Get every single outcome, even if there are 100+
+9. **Self-check before returning**: 
+   - Count how many rows the table has
+   - Count how many outcomes you extracted
+   - These numbers MUST match (excluding header/footer rows)
+   - If table has 4 treatment rows, your outcomes array must have 4 entries for that table
+
+## RETURN FORMAT
+
+**CRITICAL**: Return ONLY valid JSON. Do NOT add any explanations, apologies, or text before or after the JSON.
+**CRITICAL**: Do NOT truncate the outcomes array. Include ALL outcomes in full, even if there are 100+.
+**CRITICAL**: The response must be parseable by `json.loads()` - pure JSON only, no markdown, no comments.
+
+Return complete JSON with all extracted outcomes.

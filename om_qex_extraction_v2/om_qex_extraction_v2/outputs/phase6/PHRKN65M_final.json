@@ -1,0 +1,1018 @@
+{
+  "_key": "PHRKN65M",
+  "_phase": "phase6_postprocessing",
+  "study_id": "PHRKN65M",
+  "records": [
+    {
+      "study_id": "PHRKN65M",
+      "key": "PHRKN65M",
+      "outcome_name": "Amount loan",
+      "outcome_description": "Amount loan (MWK)",
+      "treatment_arm": "Project",
+      "subgroup": null,
+      "table_number": "6",
+      "effect_size": 2018,
+      "standard_error": 863.4,
+      "p_value": 0.05,
+      "confidence_interval": null,
+      "sample_size": 786,
+      "literal_text": "Project | 2,018** (863.4)",
+      "text_position": "Table 6, Row 'Project', Column '(7) Amount loan (MWK)'"
+    },
+    {
+      "study_id": "PHRKN65M",
+      "key": "PHRKN65M",
+      "outcome_name": "Amount loan",
+      "outcome_description": "Amount loan (MWK)",
+      "treatment_arm": "Lump-sum plus training",
+      "subgroup": null,
+      "table_number": "6",
+      "effect_size": 3005,
+      "standard_error": 516.8,
+      "p_value": 0.01,
+      "confidence_interval": null,
+      "sample_size": 786,
+      "literal_text": "Lump-sum plus training | 3,005*** (516.8)",
+      "text_position": "Table 6, Row 'Lump-sum plus training', Column '(8) Amount loan (MWK)'"
+    },
+    {
+      "study_id": "PHRKN65M",
+      "key": "PHRKN65M",
+      "outcome_name": "Amount savings",
+      "outcome_description": "Amount savings (MWK)",
+      "treatment_arm": "Project",
+      "subgroup": null,
+      "table_number": "6",
+      "effect_size": 4408,
+      "standard_error": 1369,
+      "p_value": 0.01,
+      "confidence_interval": null,
+      "sample_size": 784,
+      "literal_text": "Project | 4,408*** (1,369)",
+      "text_position": "Table 6, Row 'Project', Column '(3) Amount savings (MWK)'"
+    },
+    {
+      "study_id": "PHRKN65M",
+      "key": "PHRKN65M",
+      "outcome_name": "Amount savings",
+      "outcome_description": "Amount savings (MWK)",
+      "treatment_arm": "Lump-sum plus training",
+      "subgroup": null,
+      "table_number": "6",
+      "effect_size": 5237,
+      "standard_error": 971.4,
+      "p_value": 0.01,
+      "confidence_interval": null,
+      "sample_size": 784,
+      "literal_text": "Lump-sum plus training | 5,237*** (971.4)",
+      "text_position": "Table 6, Row 'Lump-sum plus training', Column '(4) Amount savings (MWK)'"
+    },
+    {
+      "study_id": "PHRKN65M",
+      "key": "PHRKN65M",
+      "outcome_name": "Asset wealth index",
+      "outcome_description": "Index of household asset wealth",
+      "treatment_arm": "Project",
+      "subgroup": null,
+      "table_number": "11",
+      "effect_size": 0.175,
+      "standard_error": 0.19,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": 786,
+      "literal_text": "Project | 0.175 (0.190)",
+      "text_position": "Table 11, Row 'Project', Column 'Asset wealth index'"
+    },
+    {
+      "study_id": "PHRKN65M",
+      "key": "PHRKN65M",
+      "outcome_name": "Diet diversity score",
+      "outcome_description": "Diet diversity score index",
+      "treatment_arm": "Project",
+      "subgroup": null,
+      "table_number": "1",
+      "effect_size": 0.03,
+      "standard_error": null,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": null,
+      "literal_text": "Project | 0.03",
+      "text_position": "Table 1, Row 'Project', Column 'Diet diversity score'"
+    },
+    {
+      "study_id": "PHRKN65M",
+      "key": "PHRKN65M",
+      "outcome_name": "Drought recovery",
+      "outcome_description": "Drought recovery (yes/no)",
+      "treatment_arm": "Project",
+      "subgroup": null,
+      "table_number": "1",
+      "effect_size": 0.09,
+      "standard_error": null,
+      "p_value": 0.1,
+      "confidence_interval": null,
+      "sample_size": null,
+      "literal_text": "Project | 0.09*",
+      "text_position": "Table 1, Row 'Project', Column 'Drought recovery (yes/no)'"
+    },
+    {
+      "study_id": "PHRKN65M",
+      "key": "PHRKN65M",
+      "outcome_name": "Financial literacy index",
+      "outcome_description": "Index measuring financial literacy",
+      "treatment_arm": "Project",
+      "subgroup": null,
+      "table_number": "1",
+      "effect_size": 0.581,
+      "standard_error": 0.135,
+      "p_value": 0.01,
+      "confidence_interval": null,
+      "sample_size": null,
+      "literal_text": "Project | 0.581*** (0.135)",
+      "text_position": "Table 1, Row 'Project', Column 'Financial literacy index'"
+    },
+    {
+      "study_id": "PHRKN65M",
+      "key": "PHRKN65M",
+      "outcome_name": "Financial literacy index",
+      "outcome_description": "Index measuring financial literacy",
+      "treatment_arm": "Project",
+      "subgroup": null,
+      "table_number": "5",
+      "effect_size": 0.581,
+      "standard_error": 0.135,
+      "p_value": 0.01,
+      "confidence_interval": null,
+      "sample_size": 778,
+      "literal_text": "Project | 0.581*** (0.135)",
+      "text_position": "Table 5, Row 'Project', Column '(1) Financial literacy index'"
+    },
+    {
+      "study_id": "PHRKN65M",
+      "key": "PHRKN65M",
+      "outcome_name": "Financial literacy index",
+      "outcome_description": "Index measuring financial literacy",
+      "treatment_arm": "Lump-sum plus training",
+      "subgroup": null,
+      "table_number": "5",
+      "effect_size": 0.799,
+      "standard_error": 0.167,
+      "p_value": 0.01,
+      "confidence_interval": null,
+      "sample_size": 778,
+      "literal_text": "Lump-sum plus training | 0.799*** (0.167)",
+      "text_position": "Table 5, Row 'Lump-sum plus training', Column '(2) Financial literacy index'"
+    },
+    {
+      "study_id": "PHRKN65M",
+      "key": "PHRKN65M",
+      "outcome_name": "Financial literacy index",
+      "outcome_description": "Index measuring financial literacy",
+      "treatment_arm": "Lump-sum only",
+      "subgroup": null,
+      "table_number": "5",
+      "effect_size": 0.189,
+      "standard_error": 0.159,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": 778,
+      "literal_text": "Lump-sum only | 0.189 (0.159)",
+      "text_position": "Table 5, Row 'Lump-sum only', Column '(2) Financial literacy index'"
+    },
+    {
+      "study_id": "PHRKN65M",
+      "key": "PHRKN65M",
+      "outcome_name": "Financial literacy index",
+      "outcome_description": "Index measuring financial literacy",
+      "treatment_arm": "Training-only",
+      "subgroup": null,
+      "table_number": "5",
+      "effect_size": 0.71,
+      "standard_error": 0.0858,
+      "p_value": 0.01,
+      "confidence_interval": null,
+      "sample_size": 778,
+      "literal_text": "Training-only | 0.710*** (0.0858)",
+      "text_position": "Table 5, Row 'Training-only', Column '(2) Financial literacy index'"
+    },
+    {
+      "study_id": "PHRKN65M",
+      "key": "PHRKN65M",
+      "outcome_name": "HFIA scale",
+      "outcome_description": "Household food insecurity access scale",
+      "treatment_arm": "Project",
+      "subgroup": null,
+      "table_number": "1",
+      "effect_size": -0.15,
+      "standard_error": null,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": null,
+      "literal_text": "Project | -0.15",
+      "text_position": "Table 1, Row 'Project', Column 'Household food insecurity access scale (HFIA)'"
+    },
+    {
+      "study_id": "PHRKN65M",
+      "key": "PHRKN65M",
+      "outcome_name": "Loan uptake",
+      "outcome_description": "Loan uptake (yes/no)",
+      "treatment_arm": "Project",
+      "subgroup": null,
+      "table_number": "6",
+      "effect_size": 0.186,
+      "standard_error": 0.0724,
+      "p_value": 0.05,
+      "confidence_interval": null,
+      "sample_size": 786,
+      "literal_text": "Project | 0.186** (0.0724)",
+      "text_position": "Table 6, Row 'Project', Column '(5) Loan uptake (yes/no)'"
+    },
+    {
+      "study_id": "PHRKN65M",
+      "key": "PHRKN65M",
+      "outcome_name": "Loan uptake",
+      "outcome_description": "Loan uptake (yes/no)",
+      "treatment_arm": "Lump-sum plus training",
+      "subgroup": null,
+      "table_number": "6",
+      "effect_size": 0.171,
+      "standard_error": 0.0527,
+      "p_value": 0.01,
+      "confidence_interval": null,
+      "sample_size": 786,
+      "literal_text": "Lump-sum plus training | 0.171*** (0.0527)",
+      "text_position": "Table 6, Row 'Lump-sum plus training', Column '(6) Loan uptake (yes/no)'"
+    },
+    {
+      "study_id": "PHRKN65M",
+      "key": "PHRKN65M",
+      "outcome_name": "Months needed for drought recovery",
+      "outcome_description": "Number of months needed for drought recovery",
+      "treatment_arm": "Project",
+      "subgroup": null,
+      "table_number": "1",
+      "effect_size": -1.24,
+      "standard_error": null,
+      "p_value": 0.05,
+      "confidence_interval": null,
+      "sample_size": null,
+      "literal_text": "Project | -1.24**",
+      "text_position": "Table 1, Row 'Project', Column 'Number of months needed for drought recovery'"
+    },
+    {
+      "study_id": "PHRKN65M",
+      "key": "PHRKN65M",
+      "outcome_name": "Number of working hours",
+      "outcome_description": "Number of working hours",
+      "treatment_arm": "Project",
+      "subgroup": null,
+      "table_number": "8",
+      "effect_size": -2.705,
+      "standard_error": 1.631,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": 786,
+      "literal_text": "Project | -2.705 (1.631)",
+      "text_position": "Table 8, Row 'Project', Column '(3) Number of working hours'"
+    },
+    {
+      "study_id": "PHRKN65M",
+      "key": "PHRKN65M",
+      "outcome_name": "Number of working hours",
+      "outcome_description": "Number of working hours",
+      "treatment_arm": "Training-only",
+      "subgroup": null,
+      "table_number": "8",
+      "effect_size": -2.488,
+      "standard_error": 1.643,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": 786,
+      "literal_text": "Training-only | -2.488 (1.643)",
+      "text_position": "Table 8, Row 'Training-only', Column '(4) Number of working hours'"
+    },
+    {
+      "study_id": "PHRKN65M",
+      "key": "PHRKN65M",
+      "outcome_name": "Paid work",
+      "outcome_description": "Paid work (yes/no)",
+      "treatment_arm": "Project",
+      "subgroup": null,
+      "table_number": "8",
+      "effect_size": -0.0447,
+      "standard_error": 0.0325,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": 786,
+      "literal_text": "Project | -0.0447 (0.0325)",
+      "text_position": "Table 8, Row 'Project', Column '(1) Paid work (yes/no)'"
+    },
+    {
+      "study_id": "PHRKN65M",
+      "key": "PHRKN65M",
+      "outcome_name": "Paid work",
+      "outcome_description": "Paid work (yes/no)",
+      "treatment_arm": "Training-only",
+      "subgroup": null,
+      "table_number": "8",
+      "effect_size": -0.0756,
+      "standard_error": 0.024,
+      "p_value": 0.01,
+      "confidence_interval": null,
+      "sample_size": 786,
+      "literal_text": "Training-only | -0.0756*** (0.0240)",
+      "text_position": "Table 8, Row 'Training-only', Column '(2) Paid work (yes/no)'"
+    },
+    {
+      "study_id": "PHRKN65M",
+      "key": "PHRKN65M",
+      "outcome_name": "Per capita expenditures on durable assets",
+      "outcome_description": "Annual expenditures on durable assets per household member (MWK)",
+      "treatment_arm": "Project",
+      "subgroup": null,
+      "table_number": "11",
+      "effect_size": 179.4,
+      "standard_error": 164.9,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": 786,
+      "literal_text": "Project | 179.4 (164.9)",
+      "text_position": "Table 11, Row 'Project', Column 'Per capita exp. on durable assets (MWK)'"
+    },
+    {
+      "study_id": "PHRKN65M",
+      "key": "PHRKN65M",
+      "outcome_name": "Per capita expenditures on livestock",
+      "outcome_description": "Annual expenditures on livestock per household member (MWK)",
+      "treatment_arm": "Project",
+      "subgroup": null,
+      "table_number": "9",
+      "effect_size": 6477,
+      "standard_error": 2793,
+      "p_value": 0.05,
+      "confidence_interval": null,
+      "sample_size": 786,
+      "literal_text": "Project | 6,477** (2,793)",
+      "text_position": "Table 9, Row 'Project', Column 'Per capita expenditures on livestock (MWK)'"
+    },
+    {
+      "study_id": "PHRKN65M",
+      "key": "PHRKN65M",
+      "outcome_name": "Per capita food consumption",
+      "outcome_description": "Per capita food consumption (MWK)",
+      "treatment_arm": "Project",
+      "subgroup": null,
+      "table_number": "1",
+      "effect_size": 8385,
+      "standard_error": null,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": null,
+      "literal_text": "Project | 8,385",
+      "text_position": "Table 1, Row 'Project', Column 'Per capita food consumption (MWK)'"
+    },
+    {
+      "study_id": "PHRKN65M",
+      "key": "PHRKN65M",
+      "outcome_name": "Per capita number of agriculture assets",
+      "outcome_description": "Number of agricultural assets per household member",
+      "treatment_arm": "Project",
+      "subgroup": null,
+      "table_number": "10",
+      "effect_size": 0.073,
+      "standard_error": 0.049,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": 786,
+      "literal_text": "Project | 0.073 (0.049)",
+      "text_position": "Table 10, Row 'Project', Column 'Per capita number of agriculture assets'"
+    },
+    {
+      "study_id": "PHRKN65M",
+      "key": "PHRKN65M",
+      "outcome_name": "Per capita number of assets",
+      "outcome_description": "Number of household assets per household member",
+      "treatment_arm": "Project",
+      "subgroup": null,
+      "table_number": "10",
+      "effect_size": 0.201,
+      "standard_error": 0.136,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": 786,
+      "literal_text": "Project | 0.201 (0.136)",
+      "text_position": "Table 10, Row 'Project', Column 'Per capita number of assets'"
+    },
+    {
+      "study_id": "PHRKN65M",
+      "key": "PHRKN65M",
+      "outcome_name": "Per capita number of livestock",
+      "outcome_description": "Number of livestock per household member",
+      "treatment_arm": "Project",
+      "subgroup": null,
+      "table_number": "9",
+      "effect_size": 0.288,
+      "standard_error": 0.142,
+      "p_value": 0.05,
+      "confidence_interval": null,
+      "sample_size": 786,
+      "literal_text": "Project | 0.288** (0.142)",
+      "text_position": "Table 9, Row 'Project', Column 'Per capita number of livestock'"
+    },
+    {
+      "study_id": "PHRKN65M",
+      "key": "PHRKN65M",
+      "outcome_name": "Per capita number of non-agricultural assets",
+      "outcome_description": "Number of non-agricultural assets per household member",
+      "treatment_arm": "Project",
+      "subgroup": null,
+      "table_number": "10",
+      "effect_size": 0.138,
+      "standard_error": 0.109,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": 786,
+      "literal_text": "Project | 0.138 (0.109)",
+      "text_position": "Table 10, Row 'Project', Column 'Per capita number of non-agricultural assets'"
+    },
+    {
+      "study_id": "PHRKN65M",
+      "key": "PHRKN65M",
+      "outcome_name": "Per capita quantity of harvest",
+      "outcome_description": "Quantity of harvest per household member (kg)",
+      "treatment_arm": "Project",
+      "subgroup": null,
+      "table_number": "12",
+      "effect_size": 42.0,
+      "standard_error": 23.81,
+      "p_value": 0.1,
+      "confidence_interval": null,
+      "sample_size": 778,
+      "literal_text": "Project | 42.00* (23.81)",
+      "text_position": "Table 12, Row 'Project', Column 'Per capita quantity of harvest (kg)'"
+    },
+    {
+      "study_id": "PHRKN65M",
+      "key": "PHRKN65M",
+      "outcome_name": "Per capita quantity of harvest (own consumption)",
+      "outcome_description": "Per capita quantity of harvest used for own consumption (kg)",
+      "treatment_arm": "Project",
+      "subgroup": null,
+      "table_number": "1",
+      "effect_size": 30.04,
+      "standard_error": null,
+      "p_value": 0.05,
+      "confidence_interval": null,
+      "sample_size": null,
+      "literal_text": "Project | 30.04**",
+      "text_position": "Table 1, Row 'Project', Column 'Per capita quantity of harvest (own consumption) (kg)'"
+    },
+    {
+      "study_id": "PHRKN65M",
+      "key": "PHRKN65M",
+      "outcome_name": "Per capita quantity of harvest own consumption",
+      "outcome_description": "Quantity of harvest for own consumption per household member (kg)",
+      "treatment_arm": "Project",
+      "subgroup": null,
+      "table_number": "12",
+      "effect_size": 30.04,
+      "standard_error": 13.36,
+      "p_value": 0.05,
+      "confidence_interval": null,
+      "sample_size": 778,
+      "literal_text": "Project | 30.04** (13.36)",
+      "text_position": "Table 12, Row 'Project', Column 'Per capita quantity of harvest: own consumption (kg)'"
+    },
+    {
+      "study_id": "PHRKN65M",
+      "key": "PHRKN65M",
+      "outcome_name": "Per capita quantity of harvest sold",
+      "outcome_description": "Per capita quantity of harvest sold (kg)",
+      "treatment_arm": "Project",
+      "subgroup": null,
+      "table_number": "1",
+      "effect_size": 2.316,
+      "standard_error": null,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": null,
+      "literal_text": "Project | 2.316",
+      "text_position": "Table 1, Row 'Project', Column 'Per capita quantity of harvest sold (kg)'"
+    },
+    {
+      "study_id": "PHRKN65M",
+      "key": "PHRKN65M",
+      "outcome_name": "Per capita quantity of harvest sold",
+      "outcome_description": "Per capita quantity of harvest sold (kg)",
+      "treatment_arm": "Project",
+      "subgroup": null,
+      "table_number": "12",
+      "effect_size": 2.316,
+      "standard_error": 2.348,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": 778,
+      "literal_text": "Project | 2.316 (2.348)",
+      "text_position": "Table 12, Row 'Project', Column 'Per capita quantity of harvest sold (kg)'"
+    },
+    {
+      "study_id": "PHRKN65M",
+      "key": "PHRKN65M",
+      "outcome_name": "Per capita total consumption",
+      "outcome_description": "Per capita total consumption (MWK)",
+      "treatment_arm": "Project",
+      "subgroup": null,
+      "table_number": "1",
+      "effect_size": 17595,
+      "standard_error": null,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": null,
+      "literal_text": "Project | 17,595",
+      "text_position": "Table 1, Row 'Project', Column 'Per capita total consumption (MWK)'"
+    },
+    {
+      "study_id": "PHRKN65M",
+      "key": "PHRKN65M",
+      "outcome_name": "Per capita value of harvest",
+      "outcome_description": "Per capita value of harvest (MWK)",
+      "treatment_arm": "Project",
+      "subgroup": null,
+      "table_number": "1",
+      "effect_size": 3496,
+      "standard_error": null,
+      "p_value": 0.1,
+      "confidence_interval": null,
+      "sample_size": null,
+      "literal_text": "Project | 3,496*",
+      "text_position": "Table 1, Row 'Project', Column 'Per capita value of harvest (MWK)'"
+    },
+    {
+      "study_id": "PHRKN65M",
+      "key": "PHRKN65M",
+      "outcome_name": "Per capita value of harvest",
+      "outcome_description": "Per capita value of harvest (MWK)",
+      "treatment_arm": "Project",
+      "subgroup": null,
+      "table_number": "13",
+      "effect_size": 3496,
+      "standard_error": 1933,
+      "p_value": 0.1,
+      "confidence_interval": null,
+      "sample_size": 778,
+      "literal_text": "Project | 3,496* (1,933)",
+      "text_position": "Table 13, Row 'Project', Column 'Per capita value of harvest (MWK)'"
+    },
+    {
+      "study_id": "PHRKN65M",
+      "key": "PHRKN65M",
+      "outcome_name": "Per capita value of harvest (own consumption)",
+      "outcome_description": "Per capita value of harvest used for own consumption (MWK)",
+      "treatment_arm": "Project",
+      "subgroup": null,
+      "table_number": "1",
+      "effect_size": 1925,
+      "standard_error": null,
+      "p_value": 0.1,
+      "confidence_interval": null,
+      "sample_size": null,
+      "literal_text": "Project | 1,925*",
+      "text_position": "Table 1, Row 'Project', Column 'Per capita value of harvest (own consumption) (MWK)'"
+    },
+    {
+      "study_id": "PHRKN65M",
+      "key": "PHRKN65M",
+      "outcome_name": "Per capita value of harvest own consumption",
+      "outcome_description": "Value of harvest for own consumption per household member (MWK)",
+      "treatment_arm": "Project",
+      "subgroup": null,
+      "table_number": "13",
+      "effect_size": 1925,
+      "standard_error": 1049,
+      "p_value": 0.1,
+      "confidence_interval": null,
+      "sample_size": 778,
+      "literal_text": "Project | 1,925* (1,049)",
+      "text_position": "Table 13, Row 'Project', Column 'Per capita value of harvest: own consumption (MWK)'"
+    },
+    {
+      "study_id": "PHRKN65M",
+      "key": "PHRKN65M",
+      "outcome_name": "Per capita value of harvest sold",
+      "outcome_description": "Per capita value of harvest sold (MWK)",
+      "treatment_arm": "Project",
+      "subgroup": null,
+      "table_number": "1",
+      "effect_size": 1319,
+      "standard_error": null,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": null,
+      "literal_text": "Project | 1,319",
+      "text_position": "Table 1, Row 'Project', Column 'Per capita value of harvest sold (MWK)'"
+    },
+    {
+      "study_id": "PHRKN65M",
+      "key": "PHRKN65M",
+      "outcome_name": "Per capita value of harvest sold",
+      "outcome_description": "Per capita value of harvest sold (MWK)",
+      "treatment_arm": "Project",
+      "subgroup": null,
+      "table_number": "13",
+      "effect_size": 1319,
+      "standard_error": 843.8,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": 778,
+      "literal_text": "Project | 1,319 (843.8)",
+      "text_position": "Table 13, Row 'Project', Column 'Per capita value of harvest sold (MWK)'"
+    },
+    {
+      "study_id": "PHRKN65M",
+      "key": "PHRKN65M",
+      "outcome_name": "Per capita wealth of livestock",
+      "outcome_description": "Total market value of livestock per household member (MWK)",
+      "treatment_arm": "Project",
+      "subgroup": null,
+      "table_number": "9",
+      "effect_size": 7462,
+      "standard_error": 2129,
+      "p_value": 0.01,
+      "confidence_interval": null,
+      "sample_size": 786,
+      "literal_text": "Project | 7,462*** (2,129)",
+      "text_position": "Table 9, Row 'Project', Column 'Per capita wealth of livestock (MWK)'"
+    },
+    {
+      "study_id": "PHRKN65M",
+      "key": "PHRKN65M",
+      "outcome_name": "Poor household",
+      "outcome_description": "Poor household (yes/no)",
+      "treatment_arm": "Project",
+      "subgroup": null,
+      "table_number": "1",
+      "effect_size": -0.06,
+      "standard_error": null,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": null,
+      "literal_text": "Project | -0.06",
+      "text_position": "Table 1, Row 'Project', Column 'Poor household (yes/no)'"
+    },
+    {
+      "study_id": "PHRKN65M",
+      "key": "PHRKN65M",
+      "outcome_name": "Profits of non-farm business",
+      "outcome_description": "Profits of non-farm business (MWK)",
+      "treatment_arm": "Project",
+      "subgroup": null,
+      "table_number": "7",
+      "effect_size": 793.5,
+      "standard_error": 409.7,
+      "p_value": 0.1,
+      "confidence_interval": null,
+      "sample_size": 760,
+      "literal_text": "Project | 793.5* (409.7)",
+      "text_position": "Table 7, Row 'Project', Column '(5) Profits of non-farm business (MWK)'"
+    },
+    {
+      "study_id": "PHRKN65M",
+      "key": "PHRKN65M",
+      "outcome_name": "Profits of non-farm business",
+      "outcome_description": "Profits of non-farm business (MWK)",
+      "treatment_arm": "Lump-sum plus training",
+      "subgroup": null,
+      "table_number": "7",
+      "effect_size": 1065,
+      "standard_error": 491.9,
+      "p_value": 0.05,
+      "confidence_interval": null,
+      "sample_size": 760,
+      "literal_text": "Lump-sum plus training | 1,065** (491.9)",
+      "text_position": "Table 7, Row 'Lump-sum plus training', Column '(6) Profits of non-farm business (MWK)'"
+    },
+    {
+      "study_id": "PHRKN65M",
+      "key": "PHRKN65M",
+      "outcome_name": "Sales of non-farm business",
+      "outcome_description": "Sales of non-farm business (MWK)",
+      "treatment_arm": "Project",
+      "subgroup": null,
+      "table_number": "7",
+      "effect_size": 1965,
+      "standard_error": 898.8,
+      "p_value": 0.05,
+      "confidence_interval": null,
+      "sample_size": 760,
+      "literal_text": "Project | 1,965** (898.8)",
+      "text_position": "Table 7, Row 'Project', Column '(3) Sales of non-farm business (MWK)'"
+    },
+    {
+      "study_id": "PHRKN65M",
+      "key": "PHRKN65M",
+      "outcome_name": "Sales of non-farm business",
+      "outcome_description": "Sales of non-farm business (MWK)",
+      "treatment_arm": "Lump-sum plus training",
+      "subgroup": null,
+      "table_number": "7",
+      "effect_size": 2300,
+      "standard_error": 973.7,
+      "p_value": 0.05,
+      "confidence_interval": null,
+      "sample_size": 760,
+      "literal_text": "Lump-sum plus training | 2,300** (973.7)",
+      "text_position": "Table 7, Row 'Lump-sum plus training', Column '(4) Sales of non-farm business (MWK)'"
+    },
+    {
+      "study_id": "PHRKN65M",
+      "key": "PHRKN65M",
+      "outcome_name": "Saving uptake",
+      "outcome_description": "Saving uptake (yes/no)",
+      "treatment_arm": "Project",
+      "subgroup": null,
+      "table_number": "6",
+      "effect_size": 0.263,
+      "standard_error": 0.0761,
+      "p_value": 0.01,
+      "confidence_interval": null,
+      "sample_size": 786,
+      "literal_text": "Project | 0.263*** (0.0761)",
+      "text_position": "Table 6, Row 'Project', Column '(1) Saving uptake (yes/no)'"
+    },
+    {
+      "study_id": "PHRKN65M",
+      "key": "PHRKN65M",
+      "outcome_name": "Saving uptake",
+      "outcome_description": "Saving uptake (yes/no)",
+      "treatment_arm": "Lump-sum plus training",
+      "subgroup": null,
+      "table_number": "6",
+      "effect_size": 0.339,
+      "standard_error": 0.0335,
+      "p_value": 0.01,
+      "confidence_interval": null,
+      "sample_size": 786,
+      "literal_text": "Lump-sum plus training | 0.339*** (0.0335)",
+      "text_position": "Table 6, Row 'Lump-sum plus training', Column '(2) Saving uptake (yes/no)'"
+    },
+    {
+      "study_id": "PHRKN65M",
+      "key": "PHRKN65M",
+      "outcome_name": "Start non-farm business",
+      "outcome_description": "Start non-farm business (yes/no)",
+      "treatment_arm": "Project",
+      "subgroup": null,
+      "table_number": "7",
+      "effect_size": 0.0506,
+      "standard_error": 0.0162,
+      "p_value": 0.01,
+      "confidence_interval": null,
+      "sample_size": 723,
+      "literal_text": "Project | 0.0506*** (0.0162)",
+      "text_position": "Table 7, Row 'Project', Column '(1) Start non-farm business (yes/no)'"
+    },
+    {
+      "study_id": "PHRKN65M",
+      "key": "PHRKN65M",
+      "outcome_name": "Start non-farm business",
+      "outcome_description": "Start non-farm business (yes/no)",
+      "treatment_arm": "Lump-sum plus training",
+      "subgroup": null,
+      "table_number": "7",
+      "effect_size": 0.0773,
+      "standard_error": 0.00721,
+      "p_value": 0.01,
+      "confidence_interval": null,
+      "sample_size": 723,
+      "literal_text": "Lump-sum plus training | 0.0773*** (0.00721)",
+      "text_position": "Table 7, Row 'Lump-sum plus training', Column '(2) Start non-farm business (yes/no)'"
+    }
+  ],
+  "validation": {
+    "total": 49,
+    "complete": 26,
+    "missing_effect_size": 0,
+    "missing_se": 12,
+    "missing_p_value": 18,
+    "missing_literal": 0,
+    "missing_position": 0,
+    "issues": [
+      {
+        "index": 4,
+        "outcome_name": "Asset wealth index",
+        "table_number": "11",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 5,
+        "outcome_name": "Diet diversity score",
+        "table_number": "1",
+        "issues": [
+          "missing_standard_error",
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 6,
+        "outcome_name": "Drought recovery",
+        "table_number": "1",
+        "issues": [
+          "missing_standard_error"
+        ]
+      },
+      {
+        "index": 10,
+        "outcome_name": "Financial literacy index",
+        "table_number": "5",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 12,
+        "outcome_name": "HFIA scale",
+        "table_number": "1",
+        "issues": [
+          "missing_standard_error",
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 15,
+        "outcome_name": "Months needed for drought recovery",
+        "table_number": "1",
+        "issues": [
+          "missing_standard_error"
+        ]
+      },
+      {
+        "index": 16,
+        "outcome_name": "Number of working hours",
+        "table_number": "8",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 17,
+        "outcome_name": "Number of working hours",
+        "table_number": "8",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 18,
+        "outcome_name": "Paid work",
+        "table_number": "8",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 20,
+        "outcome_name": "Per capita expenditures on durable assets",
+        "table_number": "11",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 22,
+        "outcome_name": "Per capita food consumption",
+        "table_number": "1",
+        "issues": [
+          "missing_standard_error",
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 23,
+        "outcome_name": "Per capita number of agriculture assets",
+        "table_number": "10",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 24,
+        "outcome_name": "Per capita number of assets",
+        "table_number": "10",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 26,
+        "outcome_name": "Per capita number of non-agricultural assets",
+        "table_number": "10",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 28,
+        "outcome_name": "Per capita quantity of harvest (own consumption)",
+        "table_number": "1",
+        "issues": [
+          "missing_standard_error"
+        ]
+      },
+      {
+        "index": 30,
+        "outcome_name": "Per capita quantity of harvest sold",
+        "table_number": "1",
+        "issues": [
+          "missing_standard_error",
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 31,
+        "outcome_name": "Per capita quantity of harvest sold",
+        "table_number": "12",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 32,
+        "outcome_name": "Per capita total consumption",
+        "table_number": "1",
+        "issues": [
+          "missing_standard_error",
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 33,
+        "outcome_name": "Per capita value of harvest",
+        "table_number": "1",
+        "issues": [
+          "missing_standard_error"
+        ]
+      },
+      {
+        "index": 35,
+        "outcome_name": "Per capita value of harvest (own consumption)",
+        "table_number": "1",
+        "issues": [
+          "missing_standard_error"
+        ]
+      },
+      {
+        "index": 37,
+        "outcome_name": "Per capita value of harvest sold",
+        "table_number": "1",
+        "issues": [
+          "missing_standard_error",
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 38,
+        "outcome_name": "Per capita value of harvest sold",
+        "table_number": "13",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 40,
+        "outcome_name": "Poor household",
+        "table_number": "1",
+        "issues": [
+          "missing_standard_error",
+          "missing_p_value"
+        ]
+      }
+    ]
+  },
+  "quality_issues": [
+    "12 records missing standard_error",
+    "Record 0: Suspiciously large effect_size (2018.0)",
+    "Record 1: Suspiciously large effect_size (3005.0)",
+    "Record 2: Suspiciously large effect_size (4408.0)",
+    "Record 3: Suspiciously large effect_size (5237.0)",
+    "Record 21: Suspiciously large effect_size (6477.0)",
+    "Record 22: Suspiciously large effect_size (8385.0)",
+    "Record 32: Suspiciously large effect_size (17595.0)",
+    "Record 33: Suspiciously large effect_size (3496.0)",
+    "Record 34: Suspiciously large effect_size (3496.0)",
+    "Record 35: Suspiciously large effect_size (1925.0)",
+    "Record 36: Suspiciously large effect_size (1925.0)",
+    "Record 37: Suspiciously large effect_size (1319.0)",
+    "Record 38: Suspiciously large effect_size (1319.0)",
+    "Record 39: Suspiciously large effect_size (7462.0)",
+    "Record 42: Suspiciously large effect_size (1065.0)",
+    "Record 43: Suspiciously large effect_size (1965.0)",
+    "Record 44: Suspiciously large effect_size (2300.0)"
+  ],
+  "summary": {
+    "total_records": 49,
+    "unique_outcomes": 33,
+    "quality_score": 0.6326530612244898
+  }
+}

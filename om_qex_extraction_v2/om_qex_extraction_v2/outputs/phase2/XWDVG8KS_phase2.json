@@ -1,0 +1,74 @@
+{
+  "_key": "XWDVG8KS",
+  "_phase": "phase2_table_filtering",
+  "tables_classified": [
+    {
+      "table_number": "1",
+      "classification": "RESULTS",
+      "confidence": 0.95,
+      "reasoning": "Title explicitly states 'Project impact on...' indicating treatment effects are measured"
+    },
+    {
+      "table_number": "10",
+      "classification": "RESULTS",
+      "confidence": 0.9,
+      "reasoning": "Title indicates change analysis between baseline and endline for SOF participants' poverty status, suggesting treatment effects"
+    },
+    {
+      "table_number": "11",
+      "classification": "RESULTS",
+      "confidence": 0.95,
+      "reasoning": "Title 'Efectos' (Effects) on daily work hours indicates treatment impact analysis"
+    },
+    {
+      "table_number": "12",
+      "classification": "RESULTS",
+      "confidence": 0.95,
+      "reasoning": "Title 'Efecto sobre' (Effect on) household assets indicates treatment impact analysis"
+    },
+    {
+      "table_number": "13",
+      "classification": "RESULTS",
+      "confidence": 0.95,
+      "reasoning": "Title 'Efecto sobre' (Effect on) household income indicates treatment impact analysis"
+    }
+  ],
+  "results_tables": [
+    {
+      "table_number": "1",
+      "classification": "RESULTS",
+      "confidence": 0.95,
+      "reasoning": "Title explicitly states 'Project impact on...' indicating treatment effects are measured"
+    },
+    {
+      "table_number": "10",
+      "classification": "RESULTS",
+      "confidence": 0.9,
+      "reasoning": "Title indicates change analysis between baseline and endline for SOF participants' poverty status, suggesting treatment effects"
+    },
+    {
+      "table_number": "11",
+      "classification": "RESULTS",
+      "confidence": 0.95,
+      "reasoning": "Title 'Efectos' (Effects) on daily work hours indicates treatment impact analysis"
+    },
+    {
+      "table_number": "12",
+      "classification": "RESULTS",
+      "confidence": 0.95,
+      "reasoning": "Title 'Efecto sobre' (Effect on) household assets indicates treatment impact analysis"
+    },
+    {
+      "table_number": "13",
+      "classification": "RESULTS",
+      "confidence": 0.95,
+      "reasoning": "Title 'Efecto sobre' (Effect on) household income indicates treatment impact analysis"
+    }
+  ],
+  "descriptive_tables": [],
+  "summary": {
+    "total_tables": 5,
+    "results_tables": 5,
+    "descriptive_tables": 0
+  }
+}

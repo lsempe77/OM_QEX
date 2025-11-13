@@ -1,0 +1,519 @@
+{
+  "_key": "V5P2S7S3",
+  "_phase": "phase4_outcome_mapping",
+  "outcome_groups": [
+    {
+      "outcome_name": "Household Income",
+      "outcome_description": "Household income in PPP$",
+      "num_variations": 6,
+      "tables": [
+        "2.1",
+        "2.2"
+      ],
+      "treatment_arms": [
+        "Treatment Waves 1-2",
+        "Treatment Waves 3-4"
+      ],
+      "subgroups": [
+        "Depressed",
+        "Not Depressed"
+      ],
+      "statistics": [
+        {
+          "table_number": "2.1",
+          "outcome_name": "Household Income",
+          "outcome_description": "Household income in PPP$",
+          "treatment_arm": "Treatment Waves 1-2",
+          "subgroup": null,
+          "effect_size": 98.0,
+          "p_value": 0.01,
+          "standard_error": 34.2,
+          "confidence_interval": null,
+          "sample_size": 1385,
+          "literal_text": "98*** (34.2)",
+          "text_position": "Table 2.1, Row 'Household Income', Column 'Treatment Waves 1-2'"
+        },
+        {
+          "table_number": "2.1",
+          "outcome_name": "Household Income",
+          "outcome_description": "Household income in PPP$",
+          "treatment_arm": "Treatment Waves 3-4",
+          "subgroup": null,
+          "effect_size": 4.4,
+          "p_value": null,
+          "standard_error": 36.3,
+          "confidence_interval": null,
+          "sample_size": 1385,
+          "literal_text": "4.4 (36.3)",
+          "text_position": "Table 2.1, Row 'Household Income', Column 'Treatment Waves 3-4'"
+        },
+        {
+          "table_number": "2.2",
+          "outcome_name": "Household Income",
+          "outcome_description": "Household income in PPP$",
+          "treatment_arm": "Treatment Waves 1-2",
+          "subgroup": "Not Depressed",
+          "effect_size": 121.0,
+          "p_value": null,
+          "standard_error": 39.0,
+          "confidence_interval": null,
+          "sample_size": 1385,
+          "literal_text": "121 (39)",
+          "text_position": "Table 2.2, Row 'Household Income', Column 'Not Depressed'"
+        },
+        {
+          "table_number": "2.2",
+          "outcome_name": "Household Income",
+          "outcome_description": "Household income in PPP$",
+          "treatment_arm": "Treatment Waves 1-2",
+          "subgroup": "Depressed",
+          "effect_size": -21.0,
+          "p_value": null,
+          "standard_error": 76.0,
+          "confidence_interval": null,
+          "sample_size": 1385,
+          "literal_text": "-21 (76)",
+          "text_position": "Table 2.2, Row 'Household Income', Column 'Depressed'"
+        },
+        {
+          "table_number": "2.2",
+          "outcome_name": "Household Income",
+          "outcome_description": "Household income in PPP$",
+          "treatment_arm": "Treatment Waves 3-4",
+          "subgroup": "Not Depressed",
+          "effect_size": 2.9,
+          "p_value": null,
+          "standard_error": 43.0,
+          "confidence_interval": null,
+          "sample_size": 1385,
+          "literal_text": "2.9 (43)",
+          "text_position": "Table 2.2, Row 'Household Income', Column 'Not Depressed'"
+        },
+        {
+          "table_number": "2.2",
+          "outcome_name": "Household Income",
+          "outcome_description": "Household income in PPP$",
+          "treatment_arm": "Treatment Waves 3-4",
+          "subgroup": "Depressed",
+          "effect_size": 4.1,
+          "p_value": null,
+          "standard_error": 91.2,
+          "confidence_interval": null,
+          "sample_size": 1385,
+          "literal_text": "4.1 (91.2)",
+          "text_position": "Table 2.2, Row 'Household Income', Column 'Depressed'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Household Income Q25",
+      "outcome_description": "Household income in PPP$ at 25th percentile",
+      "num_variations": 1,
+      "tables": [
+        "2.1"
+      ],
+      "treatment_arms": [
+        "Treatment Waves 1-2"
+      ],
+      "subgroups": [
+        "Q25"
+      ],
+      "statistics": [
+        {
+          "table_number": "2.1",
+          "outcome_name": "Household Income Q25",
+          "outcome_description": "Household income in PPP$ at 25th percentile",
+          "treatment_arm": "Treatment Waves 1-2",
+          "subgroup": "Q25",
+          "effect_size": 60.06,
+          "p_value": 0.1,
+          "standard_error": 20.75,
+          "confidence_interval": null,
+          "sample_size": 1385,
+          "literal_text": "60.06* (20.75)",
+          "text_position": "Table 2.1, Row 'Household Income', Column 'Q25'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Household Income Q50",
+      "outcome_description": "Household income in PPP$ at 50th percentile",
+      "num_variations": 1,
+      "tables": [
+        "2.1"
+      ],
+      "treatment_arms": [
+        "Treatment Waves 1-2"
+      ],
+      "subgroups": [
+        "Q50"
+      ],
+      "statistics": [
+        {
+          "table_number": "2.1",
+          "outcome_name": "Household Income Q50",
+          "outcome_description": "Household income in PPP$ at 50th percentile",
+          "treatment_arm": "Treatment Waves 1-2",
+          "subgroup": "Q50",
+          "effect_size": 74.0,
+          "p_value": 0.1,
+          "standard_error": 37.24,
+          "confidence_interval": null,
+          "sample_size": 1385,
+          "literal_text": "74* (37.24)",
+          "text_position": "Table 2.1, Row 'Household Income', Column 'Q50'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Women's Business Assets",
+      "outcome_description": "Women's business assets in PPP$",
+      "num_variations": 6,
+      "tables": [
+        "2.1",
+        "2.2"
+      ],
+      "treatment_arms": [
+        "Treatment Waves 1-2",
+        "Treatment Waves 3-4"
+      ],
+      "subgroups": [
+        "Depressed",
+        "Not Depressed"
+      ],
+      "statistics": [
+        {
+          "table_number": "2.1",
+          "outcome_name": "Women's Business Assets",
+          "outcome_description": "Women's business assets in PPP$",
+          "treatment_arm": "Treatment Waves 1-2",
+          "subgroup": null,
+          "effect_size": 190.0,
+          "p_value": 0.01,
+          "standard_error": 22.3,
+          "confidence_interval": null,
+          "sample_size": 1385,
+          "literal_text": "190*** (22.3)",
+          "text_position": "Table 2.1, Row 'Women's Business Assets', Column 'Treatment Waves 1-2 Average Impact (OLS)'"
+        },
+        {
+          "table_number": "2.1",
+          "outcome_name": "Women's Business Assets",
+          "outcome_description": "Women's business assets in PPP$",
+          "treatment_arm": "Treatment Waves 3-4",
+          "subgroup": null,
+          "effect_size": 125.0,
+          "p_value": 0.01,
+          "standard_error": 18.6,
+          "confidence_interval": null,
+          "sample_size": 1385,
+          "literal_text": "125*** (18.6)",
+          "text_position": "Table 2.1, Row 'Women's Business Assets', Column 'Treatment Waves 3-4'"
+        },
+        {
+          "table_number": "2.2",
+          "outcome_name": "Women's Business Assets",
+          "outcome_description": "Women's business assets in PPP$",
+          "treatment_arm": "Treatment Waves 1-2",
+          "subgroup": "Not Depressed",
+          "effect_size": 209.0,
+          "p_value": 0.01,
+          "standard_error": 23.1,
+          "confidence_interval": null,
+          "sample_size": 1385,
+          "literal_text": "209*** (23.1)",
+          "text_position": "Table 2.2, Row 'Women's Business Assets', Column 'Not Depressed'"
+        },
+        {
+          "table_number": "2.2",
+          "outcome_name": "Women's Business Assets",
+          "outcome_description": "Women's business assets in PPP$",
+          "treatment_arm": "Treatment Waves 1-2",
+          "subgroup": "Depressed",
+          "effect_size": 93.0,
+          "p_value": null,
+          "standard_error": 45.0,
+          "confidence_interval": null,
+          "sample_size": 1385,
+          "literal_text": "93 (45)",
+          "text_position": "Table 2.2, Row 'Women's Business Assets', Column 'Depressed'"
+        },
+        {
+          "table_number": "2.2",
+          "outcome_name": "Women's Business Assets",
+          "outcome_description": "Women's business assets in PPP$",
+          "treatment_arm": "Treatment Waves 3-4",
+          "subgroup": "Not Depressed",
+          "effect_size": 137.0,
+          "p_value": 0.01,
+          "standard_error": 26.0,
+          "confidence_interval": null,
+          "sample_size": 1385,
+          "literal_text": "137*** (26)",
+          "text_position": "Table 2.2, Row 'Women's Business Assets', Column 'Not Depressed'"
+        },
+        {
+          "table_number": "2.2",
+          "outcome_name": "Women's Business Assets",
+          "outcome_description": "Women's business assets in PPP$",
+          "treatment_arm": "Treatment Waves 3-4",
+          "subgroup": "Depressed",
+          "effect_size": 55.0,
+          "p_value": null,
+          "standard_error": 54.0,
+          "confidence_interval": null,
+          "sample_size": 1385,
+          "literal_text": "55 (54)",
+          "text_position": "Table 2.2, Row 'Women's Business Assets', Column 'Depressed'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Women's Business Assets Q50",
+      "outcome_description": "Women's business assets in PPP$ at 50th percentile",
+      "num_variations": 1,
+      "tables": [
+        "2.1"
+      ],
+      "treatment_arms": [
+        "Treatment Waves 1-2"
+      ],
+      "subgroups": [
+        "Q50"
+      ],
+      "statistics": [
+        {
+          "table_number": "2.1",
+          "outcome_name": "Women's Business Assets Q50",
+          "outcome_description": "Women's business assets in PPP$ at 50th percentile",
+          "treatment_arm": "Treatment Waves 1-2",
+          "subgroup": "Q50",
+          "effect_size": 161.0,
+          "p_value": 0.01,
+          "standard_error": 13.76,
+          "confidence_interval": null,
+          "sample_size": 1385,
+          "literal_text": "161*** (13.76)",
+          "text_position": "Table 2.1, Row 'Women's Business Assets', Column 'Q50'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Women's Business Assets Q75",
+      "outcome_description": "Women's business assets in PPP$ at 75th percentile",
+      "num_variations": 1,
+      "tables": [
+        "2.1"
+      ],
+      "treatment_arms": [
+        "Treatment Waves 1-2"
+      ],
+      "subgroups": [
+        "Q75"
+      ],
+      "statistics": [
+        {
+          "table_number": "2.1",
+          "outcome_name": "Women's Business Assets Q75",
+          "outcome_description": "Women's business assets in PPP$ at 75th percentile",
+          "treatment_arm": "Treatment Waves 1-2",
+          "subgroup": "Q75",
+          "effect_size": 346.0,
+          "p_value": 0.01,
+          "standard_error": 34.57,
+          "confidence_interval": null,
+          "sample_size": 1385,
+          "literal_text": "346*** (34.57)",
+          "text_position": "Table 2.1, Row 'Women's Business Assets', Column 'Q75'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Women's Business Assets Q90",
+      "outcome_description": "Women's business assets in PPP$ at 90th percentile",
+      "num_variations": 1,
+      "tables": [
+        "2.1"
+      ],
+      "treatment_arms": [
+        "Treatment Waves 1-2"
+      ],
+      "subgroups": [
+        "Q90"
+      ],
+      "statistics": [
+        {
+          "table_number": "2.1",
+          "outcome_name": "Women's Business Assets Q90",
+          "outcome_description": "Women's business assets in PPP$ at 90th percentile",
+          "treatment_arm": "Treatment Waves 1-2",
+          "subgroup": "Q90",
+          "effect_size": 534.9,
+          "p_value": 0.01,
+          "standard_error": 54.33,
+          "confidence_interval": null,
+          "sample_size": 1385,
+          "literal_text": "534.9*** (54.33)",
+          "text_position": "Table 2.1, Row 'Women's Business Assets', Column 'Q90'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Women's Savings",
+      "outcome_description": "Women's savings in PPP$",
+      "num_variations": 5,
+      "tables": [
+        "2.1",
+        "2.2"
+      ],
+      "treatment_arms": [
+        "Treatment Waves 1-2",
+        "Treatment Waves 3-4"
+      ],
+      "subgroups": [
+        "Depressed",
+        "Not Depressed"
+      ],
+      "statistics": [
+        {
+          "table_number": "2.1",
+          "outcome_name": "Women's Savings",
+          "outcome_description": "Women's savings in PPP$",
+          "treatment_arm": "Treatment Waves 1-2",
+          "subgroup": null,
+          "effect_size": 56.0,
+          "p_value": 0.01,
+          "standard_error": 8.27,
+          "confidence_interval": null,
+          "sample_size": 1385,
+          "literal_text": "56*** (8.27)",
+          "text_position": "Table 2.1, Row 'Women's Savings', Column 'Treatment Waves 1-2'"
+        },
+        {
+          "table_number": "2.2",
+          "outcome_name": "Women's Savings",
+          "outcome_description": "Women's savings in PPP$",
+          "treatment_arm": "Treatment Waves 1-2",
+          "subgroup": "Not Depressed",
+          "effect_size": 56.0,
+          "p_value": 0.01,
+          "standard_error": 7.6,
+          "confidence_interval": null,
+          "sample_size": 1385,
+          "literal_text": "56*** (7.6)",
+          "text_position": "Table 2.2, Row 'Women's Savings', Column 'Not Depressed'"
+        },
+        {
+          "table_number": "2.2",
+          "outcome_name": "Women's Savings",
+          "outcome_description": "Women's savings in PPP$",
+          "treatment_arm": "Treatment Waves 1-2",
+          "subgroup": "Depressed",
+          "effect_size": 51.0,
+          "p_value": null,
+          "standard_error": 15.0,
+          "confidence_interval": null,
+          "sample_size": 1385,
+          "literal_text": "51 (15)",
+          "text_position": "Table 2.2, Row 'Women's Savings', Column 'Depressed'"
+        },
+        {
+          "table_number": "2.2",
+          "outcome_name": "Women's Savings",
+          "outcome_description": "Women's savings in PPP$",
+          "treatment_arm": "Treatment Waves 3-4",
+          "subgroup": "Not Depressed",
+          "effect_size": 25.0,
+          "p_value": 0.01,
+          "standard_error": 8.5,
+          "confidence_interval": null,
+          "sample_size": 1385,
+          "literal_text": "25*** (8.5)",
+          "text_position": "Table 2.2, Row 'Women's Savings', Column 'Not Depressed'"
+        },
+        {
+          "table_number": "2.2",
+          "outcome_name": "Women's Savings",
+          "outcome_description": "Women's savings in PPP$",
+          "treatment_arm": "Treatment Waves 3-4",
+          "subgroup": "Depressed",
+          "effect_size": 17.0,
+          "p_value": null,
+          "standard_error": 17.8,
+          "confidence_interval": null,
+          "sample_size": 1385,
+          "literal_text": "17 (17.8)",
+          "text_position": "Table 2.2, Row 'Women's Savings', Column 'Depressed'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Women's Savings Q75",
+      "outcome_description": "Women's savings in PPP$ at 75th percentile",
+      "num_variations": 1,
+      "tables": [
+        "2.1"
+      ],
+      "treatment_arms": [
+        "Treatment Waves 1-2"
+      ],
+      "subgroups": [
+        "Q75"
+      ],
+      "statistics": [
+        {
+          "table_number": "2.1",
+          "outcome_name": "Women's Savings Q75",
+          "outcome_description": "Women's savings in PPP$ at 75th percentile",
+          "treatment_arm": "Treatment Waves 1-2",
+          "subgroup": "Q75",
+          "effect_size": 87.0,
+          "p_value": 0.01,
+          "standard_error": 12.69,
+          "confidence_interval": null,
+          "sample_size": 1385,
+          "literal_text": "87*** (12.69)",
+          "text_position": "Table 2.1, Row 'Women's Savings', Column 'Q75'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Women's Savings Q90",
+      "outcome_description": "Women's savings in PPP$ at 90th percentile",
+      "num_variations": 1,
+      "tables": [
+        "2.1"
+      ],
+      "treatment_arms": [
+        "Treatment Waves 1-2"
+      ],
+      "subgroups": [
+        "Q90"
+      ],
+      "statistics": [
+        {
+          "table_number": "2.1",
+          "outcome_name": "Women's Savings Q90",
+          "outcome_description": "Women's savings in PPP$ at 90th percentile",
+          "treatment_arm": "Treatment Waves 1-2",
+          "subgroup": "Q90",
+          "effect_size": 189.9,
+          "p_value": 0.01,
+          "standard_error": 24.54,
+          "confidence_interval": null,
+          "sample_size": 1385,
+          "literal_text": "189.9*** (24.54)",
+          "text_position": "Table 2.1, Row 'Women's Savings', Column 'Q90'"
+        }
+      ]
+    }
+  ],
+  "total_statistics": 24,
+  "unique_outcomes": 10,
+  "summary": {
+    "total_statistics": 24,
+    "unique_outcomes": 10,
+    "multi_arm_outcomes": 3,
+    "tables_with_outcomes": 2
+  }
+}

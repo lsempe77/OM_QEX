@@ -1,0 +1,90 @@
+Based on my analysis of the TEI XML content, I found the following tables:
+
+```json
+{
+  "tables_found": [
+    {
+      "table_number": "1",
+      "title": "Components of the training sessions",
+      "location": "figure tab_0",
+      "xml_id": "tab_0",
+      "has_structure": true,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "2", 
+      "title": "Session participations",
+      "location": "figure tab_1",
+      "xml_id": "tab_1",
+      "has_structure": true,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "3",
+      "title": "Difference in attrition",
+      "location": "figure tab_2", 
+      "xml_id": "tab_2",
+      "has_structure": true,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "4",
+      "title": "Summary statistics and balance",
+      "location": "figure tab_3",
+      "xml_id": "tab_3", 
+      "has_structure": true,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "5",
+      "title": "ITT estimation results (1) financial outcomes",
+      "location": "figure tab_4",
+      "xml_id": "tab_4",
+      "has_structure": true,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "6",
+      "title": "Evaluation on bookkeeping",
+      "location": "figure tab_5",
+      "xml_id": "tab_5",
+      "has_structure": true,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "7",
+      "title": "ITT estimation results (2) income outcomes",
+      "location": "figure tab_6",
+      "xml_id": "tab_6",
+      "has_structure": true,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "8",
+      "title": "ITT estimation results (3) gender outcomes",
+      "location": "figure tab_7",
+      "xml_id": "tab_7",
+      "has_structure": true,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "A1",
+      "title": "Summary statistics for pooled sample",
+      "location": "paragraph _HhwMk3r",
+      "xml_id": "_HhwMk3r",
+      "has_structure": false,
+      "confidence": 1.0
+    }
+  ],
+  "total_tables_found": 9,
+  "table_numbers": ["1", "2", "3", "4", "5", "6", "7", "8", "A1"],
+  "warnings": [],
+  "summary": {
+    "structured_tables": 8,
+    "paragraph_tables": 1,
+    "text_references_only": 0
+  }
+}
+```
+
+The paper contains 9 tables total - 8 structured tables in figure tags and 1 table embedded in a paragraph. The tables are numbered sequentially from 1-8 plus one appendix table A1. There are no gaps in the numbering sequence and all tables appear to be properly labeled and referenced.

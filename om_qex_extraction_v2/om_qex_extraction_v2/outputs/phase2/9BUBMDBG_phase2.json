@@ -1,0 +1,135 @@
+{
+  "_key": "9BUBMDBG",
+  "_phase": "phase2_table_filtering",
+  "tables_classified": [
+    {
+      "table_number": "1",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Title explicitly states 'Average impacts' and measures treatment effects on outcomes"
+    },
+    {
+      "table_number": "2",
+      "classification": "DESCRIPTIVE",
+      "confidence": 1.0,
+      "reasoning": "Shows baseline preferences and demand, indicating descriptive characteristics before intervention"
+    },
+    {
+      "table_number": "3",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Title indicates 'Impacts' analysis of treatment effects"
+    },
+    {
+      "table_number": "4",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Analyzes 'Impacts' by baseline activity, showing treatment effects"
+    },
+    {
+      "table_number": "5A",
+      "classification": "DESCRIPTIVE",
+      "confidence": 0.9,
+      "reasoning": "Examines relationship in control group with baseline assets, suggesting descriptive analysis"
+    },
+    {
+      "table_number": "5B",
+      "classification": "RESULTS",
+      "confidence": 0.9,
+      "reasoning": "Analyzes heterogeneity of treatment effects with baseline assets"
+    },
+    {
+      "table_number": "5C",
+      "classification": "RESULTS",
+      "confidence": 0.9,
+      "reasoning": "Examines heterogeneity of impact, indicating treatment effect analysis"
+    },
+    {
+      "table_number": "6",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Shows 'Impacts' of interventions by poverty level"
+    },
+    {
+      "table_number": "7",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Analyzes 'Impacts' by poverty level using proxy means"
+    },
+    {
+      "table_number": "8",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Title clearly states 'Impact' analysis on attitudes"
+    }
+  ],
+  "results_tables": [
+    {
+      "table_number": "1",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Title explicitly states 'Average impacts' and measures treatment effects on outcomes"
+    },
+    {
+      "table_number": "3",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Title indicates 'Impacts' analysis of treatment effects"
+    },
+    {
+      "table_number": "4",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Analyzes 'Impacts' by baseline activity, showing treatment effects"
+    },
+    {
+      "table_number": "5B",
+      "classification": "RESULTS",
+      "confidence": 0.9,
+      "reasoning": "Analyzes heterogeneity of treatment effects with baseline assets"
+    },
+    {
+      "table_number": "5C",
+      "classification": "RESULTS",
+      "confidence": 0.9,
+      "reasoning": "Examines heterogeneity of impact, indicating treatment effect analysis"
+    },
+    {
+      "table_number": "6",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Shows 'Impacts' of interventions by poverty level"
+    },
+    {
+      "table_number": "7",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Analyzes 'Impacts' by poverty level using proxy means"
+    },
+    {
+      "table_number": "8",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Title clearly states 'Impact' analysis on attitudes"
+    }
+  ],
+  "descriptive_tables": [
+    {
+      "table_number": "2",
+      "classification": "DESCRIPTIVE",
+      "confidence": 1.0,
+      "reasoning": "Shows baseline preferences and demand, indicating descriptive characteristics before intervention"
+    },
+    {
+      "table_number": "5A",
+      "classification": "DESCRIPTIVE",
+      "confidence": 0.9,
+      "reasoning": "Examines relationship in control group with baseline assets, suggesting descriptive analysis"
+    }
+  ],
+  "summary": {
+    "total_tables": 10,
+    "results_tables": 8,
+    "descriptive_tables": 2
+  }
+}

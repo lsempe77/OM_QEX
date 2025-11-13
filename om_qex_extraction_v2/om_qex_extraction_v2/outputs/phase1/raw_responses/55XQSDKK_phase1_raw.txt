@@ -1,0 +1,138 @@
+Based on my analysis of the TEI XML document, I found the following tables:
+
+```json
+{
+  "tables_found": [
+    {
+      "table_number": "1",
+      "title": "Asset Breakdown",
+      "location": "paragraph _w6Y49z3",
+      "xml_id": "_w6Y49z3",
+      "has_structure": false,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "2", 
+      "title": "Timeline of intervention and evaluation",
+      "location": "paragraph _C3NzZKp",
+      "xml_id": "_C3NzZKp",
+      "has_structure": false,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "3",
+      "title": "Surveys by round",
+      "location": "paragraph _fUZEm9Q",
+      "xml_id": "_fUZEm9Q", 
+      "has_structure": false,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "4",
+      "title": "Evolution of sample size",
+      "location": "paragraph _3pFPknB",
+      "xml_id": "_3pFPknB",
+      "has_structure": false,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "5",
+      "title": "Qualitative Sample - Households",
+      "location": "paragraph _bW9ymc7",
+      "xml_id": "_bW9ymc7",
+      "has_structure": false,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "6",
+      "title": "Orthogonality",
+      "location": "paragraph _dkH3aK9",
+      "xml_id": "_dkH3aK9",
+      "has_structure": false,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "7",
+      "title": "Joint test of significance",
+      "location": "paragraph _RnEfMmg",
+      "xml_id": "_RnEfMmg",
+      "has_structure": false,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "8",
+      "title": "Effects on per capita consumption",
+      "location": "paragraph _UQ2m3cy",
+      "xml_id": "_UQ2m3cy",
+      "has_structure": false,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "9",
+      "title": "Effects on food security",
+      "location": "paragraph _sddp926",
+      "xml_id": "_sddp926",
+      "has_structure": false,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "10",
+      "title": "Effects on asset ownership",
+      "location": "paragraph _sddp926",
+      "xml_id": "_sddp926",
+      "has_structure": false,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "11",
+      "title": "Effects on financial inclusion",
+      "location": "paragraph _hTm8Bzs",
+      "xml_id": "_hTm8Bzs",
+      "has_structure": false,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "12",
+      "title": "Effects on income and revenues",
+      "location": "paragraph _ruEvj2E",
+      "xml_id": "_ruEvj2E",
+      "has_structure": false,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "13",
+      "title": "Effects on use of time",
+      "location": "figure tab_0",
+      "xml_id": "tab_0",
+      "has_structure": true,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "14",
+      "title": "Effects on political involvement and women's empowerment",
+      "location": "figure tab_0",
+      "xml_id": "tab_0", 
+      "has_structure": true,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "15",
+      "title": "Effects on physical and mental health",
+      "location": "text_reference paragraph _ruEvj2E",
+      "xml_id": "_ruEvj2E",
+      "has_structure": false,
+      "confidence": 0.8
+    }
+  ],
+  "total_tables_found": 15,
+  "table_numbers": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15"],
+  "warnings": [],
+  "summary": {
+    "structured_tables": 2,
+    "paragraph_tables": 12,
+    "text_references_only": 1
+  }
+}
+```
+
+The tables appear to be numbered sequentially from 1-15 with no gaps. Most tables are embedded in paragraphs rather than having explicit table structure. Tables 13 and 14 share the same figure element. Table 15 is only referenced in text but its content is not clearly shown.

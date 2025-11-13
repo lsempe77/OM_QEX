@@ -1,0 +1,147 @@
+{
+  "_key": "ABM3E3ZP",
+  "_phase": "phase2_table_filtering",
+  "tables_classified": [
+    {
+      "table_number": "1",
+      "classification": "DESCRIPTIVE",
+      "confidence": 0.9,
+      "reasoning": "Lists outcome variables to be measured, appears to be a descriptive overview of variables rather than results"
+    },
+    {
+      "table_number": "2",
+      "classification": "DESCRIPTIVE",
+      "confidence": 1.0,
+      "reasoning": "Describes comparison groups for evaluation, methodological description rather than results"
+    },
+    {
+      "table_number": "3",
+      "classification": "DESCRIPTIVE",
+      "confidence": 1.0,
+      "reasoning": "Balance table comparing socioeconomic characteristics between groups at baseline"
+    },
+    {
+      "table_number": "4",
+      "classification": "DESCRIPTIVE",
+      "confidence": 1.0,
+      "reasoning": "Sample characteristics showing poverty rates, no treatment effects"
+    },
+    {
+      "table_number": "5",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Shows effects/impacts of SOF program on poverty outcomes using IV and RE analysis"
+    },
+    {
+      "table_number": "6",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Presents treatment effects of SOF on household assets using IV and RE analysis"
+    },
+    {
+      "table_number": "7",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Shows program effects on income using IV and RE analysis"
+    },
+    {
+      "table_number": "8",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Presents treatment effects of SOF on savings using IV and RE analysis"
+    },
+    {
+      "table_number": "9",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Shows program effects on expenditure using IV and RE analysis"
+    },
+    {
+      "table_number": "10",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Presents impact estimates of SOF on wellbeing outcomes"
+    },
+    {
+      "table_number": "11",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Shows treatment effects on empowerment variables using IV and RE analysis"
+    }
+  ],
+  "results_tables": [
+    {
+      "table_number": "5",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Shows effects/impacts of SOF program on poverty outcomes using IV and RE analysis"
+    },
+    {
+      "table_number": "6",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Presents treatment effects of SOF on household assets using IV and RE analysis"
+    },
+    {
+      "table_number": "7",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Shows program effects on income using IV and RE analysis"
+    },
+    {
+      "table_number": "8",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Presents treatment effects of SOF on savings using IV and RE analysis"
+    },
+    {
+      "table_number": "9",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Shows program effects on expenditure using IV and RE analysis"
+    },
+    {
+      "table_number": "10",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Presents impact estimates of SOF on wellbeing outcomes"
+    },
+    {
+      "table_number": "11",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Shows treatment effects on empowerment variables using IV and RE analysis"
+    }
+  ],
+  "descriptive_tables": [
+    {
+      "table_number": "1",
+      "classification": "DESCRIPTIVE",
+      "confidence": 0.9,
+      "reasoning": "Lists outcome variables to be measured, appears to be a descriptive overview of variables rather than results"
+    },
+    {
+      "table_number": "2",
+      "classification": "DESCRIPTIVE",
+      "confidence": 1.0,
+      "reasoning": "Describes comparison groups for evaluation, methodological description rather than results"
+    },
+    {
+      "table_number": "3",
+      "classification": "DESCRIPTIVE",
+      "confidence": 1.0,
+      "reasoning": "Balance table comparing socioeconomic characteristics between groups at baseline"
+    },
+    {
+      "table_number": "4",
+      "classification": "DESCRIPTIVE",
+      "confidence": 1.0,
+      "reasoning": "Sample characteristics showing poverty rates, no treatment effects"
+    }
+  ],
+  "summary": {
+    "total_tables": 11,
+    "results_tables": 7,
+    "descriptive_tables": 4
+  }
+}

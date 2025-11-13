@@ -1,0 +1,123 @@
+{
+  "_key": "6WTBIFX2",
+  "_phase": "phase2_table_filtering",
+  "tables_classified": [
+    {
+      "table_number": "1",
+      "classification": "DESCRIPTIVE",
+      "confidence": 0.95,
+      "reasoning": "Describes training session components/structure, no treatment effects"
+    },
+    {
+      "table_number": "2",
+      "classification": "DESCRIPTIVE",
+      "confidence": 0.9,
+      "reasoning": "Shows participation statistics, appears to be descriptive attendance data"
+    },
+    {
+      "table_number": "3",
+      "classification": "DESCRIPTIVE",
+      "confidence": 0.9,
+      "reasoning": "Attrition analysis is typically descriptive, comparing sample characteristics"
+    },
+    {
+      "table_number": "4",
+      "classification": "DESCRIPTIVE",
+      "confidence": 1.0,
+      "reasoning": "Explicitly a balance table with summary statistics"
+    },
+    {
+      "table_number": "5",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "ITT (Intent-to-Treat) estimation results showing treatment effects on financial outcomes"
+    },
+    {
+      "table_number": "6",
+      "classification": "RESULTS",
+      "confidence": 0.85,
+      "reasoning": "Evaluation results suggesting analysis of intervention effects on bookkeeping"
+    },
+    {
+      "table_number": "7",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "ITT estimation results showing treatment effects on income outcomes"
+    },
+    {
+      "table_number": "8",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "ITT estimation results showing treatment effects on gender outcomes"
+    },
+    {
+      "table_number": "A1",
+      "classification": "DESCRIPTIVE",
+      "confidence": 1.0,
+      "reasoning": "Summary statistics for pooled sample, clearly descriptive in nature"
+    }
+  ],
+  "results_tables": [
+    {
+      "table_number": "5",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "ITT (Intent-to-Treat) estimation results showing treatment effects on financial outcomes"
+    },
+    {
+      "table_number": "6",
+      "classification": "RESULTS",
+      "confidence": 0.85,
+      "reasoning": "Evaluation results suggesting analysis of intervention effects on bookkeeping"
+    },
+    {
+      "table_number": "7",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "ITT estimation results showing treatment effects on income outcomes"
+    },
+    {
+      "table_number": "8",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "ITT estimation results showing treatment effects on gender outcomes"
+    }
+  ],
+  "descriptive_tables": [
+    {
+      "table_number": "1",
+      "classification": "DESCRIPTIVE",
+      "confidence": 0.95,
+      "reasoning": "Describes training session components/structure, no treatment effects"
+    },
+    {
+      "table_number": "2",
+      "classification": "DESCRIPTIVE",
+      "confidence": 0.9,
+      "reasoning": "Shows participation statistics, appears to be descriptive attendance data"
+    },
+    {
+      "table_number": "3",
+      "classification": "DESCRIPTIVE",
+      "confidence": 0.9,
+      "reasoning": "Attrition analysis is typically descriptive, comparing sample characteristics"
+    },
+    {
+      "table_number": "4",
+      "classification": "DESCRIPTIVE",
+      "confidence": 1.0,
+      "reasoning": "Explicitly a balance table with summary statistics"
+    },
+    {
+      "table_number": "A1",
+      "classification": "DESCRIPTIVE",
+      "confidence": 1.0,
+      "reasoning": "Summary statistics for pooled sample, clearly descriptive in nature"
+    }
+  ],
+  "summary": {
+    "total_tables": 9,
+    "results_tables": 4,
+    "descriptive_tables": 5
+  }
+}

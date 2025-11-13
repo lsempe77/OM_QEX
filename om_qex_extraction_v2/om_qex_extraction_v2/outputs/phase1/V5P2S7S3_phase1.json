@@ -1,0 +1,91 @@
+{
+  "tables_found": [
+    {
+      "table_number": "2.1",
+      "title": "Average Treatment Effects and Conditional Quantile Treatment Effects",
+      "location": "text_reference section_2.4.1",
+      "xml_id": null,
+      "has_structure": false,
+      "confidence": 0.8
+    },
+    {
+      "table_number": "2.2",
+      "title": "Heterogeneous Impacts by Baseline Depression, ITT Estimates",
+      "location": "paragraph",
+      "xml_id": "_srvW85E",
+      "has_structure": false,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "2.3",
+      "title": "Distribution of communities across REAP implementation schemes",
+      "location": "text_reference section_2.5.1",
+      "xml_id": null,
+      "has_structure": false,
+      "confidence": 0.8
+    },
+    {
+      "table_number": "2.4",
+      "title": "Primary treatment and spillover results for key economic outcomes",
+      "location": "text_reference section_2.5.2",
+      "xml_id": null,
+      "has_structure": false,
+      "confidence": 0.8
+    },
+    {
+      "table_number": "2.5",
+      "title": "Regression results on Ladder of Life",
+      "location": "paragraph",
+      "xml_id": "_sGsmgMQ",
+      "has_structure": false,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "A1",
+      "title": "Functional Forms and Parameters used in Numerical Simulations",
+      "location": "paragraph",
+      "xml_id": "_GXRGwpv",
+      "has_structure": false,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "A2",
+      "title": "Baseline Balance",
+      "location": "paragraph",
+      "xml_id": "_jq3ZYmX",
+      "has_structure": false,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "A3",
+      "title": "Attrition: Dependent Variable: Completed Survey, OLS",
+      "location": "paragraph",
+      "xml_id": "_jq3ZYmX",
+      "has_structure": false,
+      "confidence": 1.0
+    }
+  ],
+  "total_tables_found": 8,
+  "table_numbers": [
+    "2.1",
+    "2.2",
+    "2.3",
+    "2.4",
+    "2.5",
+    "A1",
+    "A2",
+    "A3"
+  ],
+  "warnings": [
+    "Most tables appear to be embedded in paragraphs rather than structured table elements",
+    "Some tables are only referenced in text without full content shown"
+  ],
+  "summary": {
+    "structured_tables": 0,
+    "paragraph_tables": 5,
+    "text_references_only": 3
+  },
+  "_key": "V5P2S7S3",
+  "_phase": "phase1_table_discovery",
+  "_raw_response_length": 2809
+}

@@ -1,0 +1,410 @@
+{
+  "_key": "55XQSDKK",
+  "_phase": "phase6_postprocessing",
+  "study_id": "55XQSDKK",
+  "records": [
+    {
+      "study_id": "55XQSDKK",
+      "key": "55XQSDKK",
+      "outcome_name": "Activities of Daily Living Score",
+      "outcome_description": "Score measuring ability to perform daily living activities",
+      "treatment_arm": "Any GUP",
+      "subgroup": null,
+      "table_number": "15",
+      "effect_size": 0.041,
+      "standard_error": 0.02,
+      "p_value": 0.01,
+      "confidence_interval": null,
+      "sample_size": 2336,
+      "literal_text": "0.041*** (0.02)",
+      "text_position": "Table 15, Row 'Any GUP', Column 'Activities of Daily Living Score'"
+    },
+    {
+      "study_id": "55XQSDKK",
+      "key": "55XQSDKK",
+      "outcome_name": "Asset Index",
+      "outcome_description": "Standardized asset index",
+      "treatment_arm": "Any GUP",
+      "subgroup": "Endline",
+      "table_number": "10",
+      "effect_size": 0.25,
+      "standard_error": 0.05,
+      "p_value": 0.01,
+      "confidence_interval": null,
+      "sample_size": 2584,
+      "literal_text": "0.25*** (0.05)",
+      "text_position": "Table 10, Row 'Any GUP', Column 'Asset Index'"
+    },
+    {
+      "study_id": "55XQSDKK",
+      "key": "55XQSDKK",
+      "outcome_name": "Everyone gets enough food",
+      "outcome_description": "Everyone in household gets enough food everyday (yes/no)",
+      "treatment_arm": "Any GUP",
+      "subgroup": "Endline",
+      "table_number": "9",
+      "effect_size": 0.03,
+      "standard_error": 0.02,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": 2501,
+      "literal_text": "0.03 (0.02)",
+      "text_position": "Table 9, Row 'Any GUP', Column 'Everyone in the household gets enough food everyday'"
+    },
+    {
+      "study_id": "55XQSDKK",
+      "key": "55XQSDKK",
+      "outcome_name": "Food consumption per capita",
+      "outcome_description": "Monthly food consumption per capita in 2014 USD PPP",
+      "treatment_arm": "Any GUP",
+      "subgroup": "Endline",
+      "table_number": "8",
+      "effect_size": 2.18,
+      "standard_error": 1.04,
+      "p_value": 0.05,
+      "confidence_interval": null,
+      "sample_size": 2525,
+      "literal_text": "2.18** (1.04)",
+      "text_position": "Table 8, Row 'Any GUP', Column 'Food consumption per capita, month'"
+    },
+    {
+      "study_id": "55XQSDKK",
+      "key": "55XQSDKK",
+      "outcome_name": "Food consumption per capita",
+      "outcome_description": "Monthly food consumption per capita in 2014 USD PPP",
+      "treatment_arm": "Any GUP",
+      "subgroup": "Followup",
+      "table_number": "8",
+      "effect_size": 2.41,
+      "standard_error": 0.81,
+      "p_value": 0.01,
+      "confidence_interval": null,
+      "sample_size": 2434,
+      "literal_text": "2.41*** (0.81)",
+      "text_position": "Table 8, Row 'Any GUP', Column 'Food consumption per capita, month'"
+    },
+    {
+      "study_id": "55XQSDKK",
+      "key": "55XQSDKK",
+      "outcome_name": "Household Income from Paid Labor",
+      "outcome_description": "Monthly household income from paid labor in 2014 PPP USD",
+      "treatment_arm": "Any GUP",
+      "subgroup": null,
+      "table_number": "12",
+      "effect_size": 0.84,
+      "standard_error": 0.48,
+      "p_value": 0.1,
+      "confidence_interval": null,
+      "sample_size": 2525,
+      "literal_text": "0.84* (0.48)",
+      "text_position": "Table 12, Row 'Any GUP', Column 'Household Income from Paid Labor, month'"
+    },
+    {
+      "study_id": "55XQSDKK",
+      "key": "55XQSDKK",
+      "outcome_name": "Household Income from Paid Labor (followup)",
+      "outcome_description": "Monthly household income from paid labor at followup in 2014 PPP USD",
+      "treatment_arm": "Any GUP",
+      "subgroup": null,
+      "table_number": "12",
+      "effect_size": 0.24,
+      "standard_error": 0.67,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": 2438,
+      "literal_text": "0.24 (0.67)",
+      "text_position": "Table 12, Row 'Any GUP', Column 'Household Income from Paid Labor, month (followup)'"
+    },
+    {
+      "study_id": "55XQSDKK",
+      "key": "55XQSDKK",
+      "outcome_name": "Household Non-farm Microenterprise Income",
+      "outcome_description": "Monthly household non-farm microenterprise income in 2014 PPP USD",
+      "treatment_arm": "Any GUP",
+      "subgroup": null,
+      "table_number": "12",
+      "effect_size": 5.32,
+      "standard_error": 1.82,
+      "p_value": 0.01,
+      "confidence_interval": null,
+      "sample_size": 2522,
+      "literal_text": "5.32*** (1.82)",
+      "text_position": "Table 12, Row 'Any GUP', Column 'Household Non-farm Microenterprise Income, month'"
+    },
+    {
+      "study_id": "55XQSDKK",
+      "key": "55XQSDKK",
+      "outcome_name": "Household Non-farm Microenterprise Income (followup)",
+      "outcome_description": "Monthly household non-farm microenterprise income at followup in 2014 PPP USD",
+      "treatment_arm": "Any GUP",
+      "subgroup": null,
+      "table_number": "12",
+      "effect_size": 6.13,
+      "standard_error": 1.92,
+      "p_value": 0.01,
+      "confidence_interval": null,
+      "sample_size": 2438,
+      "literal_text": "6.13*** (1.92)",
+      "text_position": "Table 12, Row 'Any GUP', Column 'Household Non-farm Microenterprise Income, month (followup)'"
+    },
+    {
+      "study_id": "55XQSDKK",
+      "key": "55XQSDKK",
+      "outcome_name": "Household agricultural income",
+      "outcome_description": "Monthly household agricultural income in 2014 PPP USD",
+      "treatment_arm": "Any GUP",
+      "subgroup": null,
+      "table_number": "12",
+      "effect_size": 0.61,
+      "standard_error": 0.62,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": 2531,
+      "literal_text": "0.61 (0.62)",
+      "text_position": "Table 12, Row 'Any GUP', Column 'Household agricultural income, month'"
+    },
+    {
+      "study_id": "55XQSDKK",
+      "key": "55XQSDKK",
+      "outcome_name": "Household livestock revenue",
+      "outcome_description": "Monthly household livestock revenue in 2014 PPP USD",
+      "treatment_arm": "Any GUP",
+      "subgroup": null,
+      "table_number": "12",
+      "effect_size": 1.31,
+      "standard_error": 1.23,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": 2519,
+      "literal_text": "1.31 (1.23)",
+      "text_position": "Table 12, Row 'Any GUP', Column 'Household livestock revenue, month'"
+    },
+    {
+      "study_id": "55XQSDKK",
+      "key": "55XQSDKK",
+      "outcome_name": "Household livestock revenue (followup)",
+      "outcome_description": "Monthly household livestock revenue at followup in 2014 PPP USD",
+      "treatment_arm": "Any GUP",
+      "subgroup": null,
+      "table_number": "12",
+      "effect_size": 13.6,
+      "standard_error": 2.43,
+      "p_value": 0.01,
+      "confidence_interval": null,
+      "sample_size": 2436,
+      "literal_text": "13.6*** (2.43)",
+      "text_position": "Table 12, Row 'Any GUP', Column 'Household livestock revenue, month (followup)'"
+    },
+    {
+      "study_id": "55XQSDKK",
+      "key": "55XQSDKK",
+      "outcome_name": "Joint test of significance",
+      "outcome_description": "Joint F-test of treatment on all family outcome variables",
+      "treatment_arm": "Ghana",
+      "subgroup": null,
+      "table_number": "7",
+      "effect_size": 0.846,
+      "standard_error": null,
+      "p_value": 0.573,
+      "confidence_interval": null,
+      "sample_size": null,
+      "literal_text": "Joint F-test of treatment on all family outcome variables 0.846 p-value 0.573",
+      "text_position": "Table 7, Row 'Ghana'"
+    },
+    {
+      "study_id": "55XQSDKK",
+      "key": "55XQSDKK",
+      "outcome_name": "Member has not missed any days due to illness",
+      "outcome_description": "Whether member has not missed any days due to illness in last month (0-1)",
+      "treatment_arm": "Any GUP",
+      "subgroup": null,
+      "table_number": "15",
+      "effect_size": 0.01,
+      "standard_error": 0.03,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": 2277,
+      "literal_text": "0.01 (0.03)",
+      "text_position": "Table 15, Row 'Any GUP', Column 'Member has not missed any days due to illness, last month'"
+    },
+    {
+      "study_id": "55XQSDKK",
+      "key": "55XQSDKK",
+      "outcome_name": "No adults skipped meals",
+      "outcome_description": "No adults skipped meals (yes/no)",
+      "treatment_arm": "Any GUP",
+      "subgroup": "Endline",
+      "table_number": "9",
+      "effect_size": 0.02,
+      "standard_error": 0.02,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": 2501,
+      "literal_text": "0.02 (0.02)",
+      "text_position": "Table 9, Row 'Any GUP', Column 'No adults skipped meals'"
+    },
+    {
+      "study_id": "55XQSDKK",
+      "key": "55XQSDKK",
+      "outcome_name": "Productive Asset Index",
+      "outcome_description": "Standardized productive asset index",
+      "treatment_arm": "Any GUP",
+      "subgroup": "Endline",
+      "table_number": "10",
+      "effect_size": 0.25,
+      "standard_error": 0.05,
+      "p_value": 0.01,
+      "confidence_interval": null,
+      "sample_size": 2584,
+      "literal_text": "0.25*** (0.05)",
+      "text_position": "Table 10, Row 'Any GUP', Column 'Productive Asset Index'"
+    },
+    {
+      "study_id": "55XQSDKK",
+      "key": "55XQSDKK",
+      "outcome_name": "Total amount borrowed",
+      "outcome_description": "Total amount borrowed in last 12 months (2014 USD PPP)",
+      "treatment_arm": "Any GUP",
+      "subgroup": "Endline",
+      "table_number": "11",
+      "effect_size": 5.43,
+      "standard_error": 4.8,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": 2522,
+      "literal_text": "5.43 (4.80)",
+      "text_position": "Table 11, Row 'Any GUP', Column 'Total amount borrowed, last 12 months'"
+    },
+    {
+      "study_id": "55XQSDKK",
+      "key": "55XQSDKK",
+      "outcome_name": "Total consumption per capita",
+      "outcome_description": "Monthly total consumption per capita in 2014 USD PPP",
+      "treatment_arm": "Any GUP",
+      "subgroup": "Endline",
+      "table_number": "8",
+      "effect_size": 2.82,
+      "standard_error": 1.42,
+      "p_value": 0.05,
+      "confidence_interval": null,
+      "sample_size": 2525,
+      "literal_text": "2.82** (1.42)",
+      "text_position": "Table 8, Row 'Any GUP', Column 'Total Consumption per capita, month'"
+    },
+    {
+      "study_id": "55XQSDKK",
+      "key": "55XQSDKK",
+      "outcome_name": "Total consumption per capita",
+      "outcome_description": "Monthly total consumption per capita in 2014 USD PPP",
+      "treatment_arm": "Any GUP",
+      "subgroup": "Followup",
+      "table_number": "8",
+      "effect_size": 3.22,
+      "standard_error": 1.19,
+      "p_value": 0.01,
+      "confidence_interval": null,
+      "sample_size": 2434,
+      "literal_text": "3.22*** (1.19)",
+      "text_position": "Table 8, Row 'Any GUP', Column 'Total Consumption per capita, month'"
+    },
+    {
+      "study_id": "55XQSDKK",
+      "key": "55XQSDKK",
+      "outcome_name": "Total savings",
+      "outcome_description": "Total savings (2014 USD PPP)",
+      "treatment_arm": "Any GUP",
+      "subgroup": "Endline",
+      "table_number": "11",
+      "effect_size": 16.8,
+      "standard_error": 3.09,
+      "p_value": 0.01,
+      "confidence_interval": null,
+      "sample_size": 2520,
+      "literal_text": "16.8*** (3.09)",
+      "text_position": "Table 11, Row 'Any GUP', Column 'Total savings'"
+    }
+  ],
+  "validation": {
+    "total": 20,
+    "complete": 12,
+    "missing_effect_size": 0,
+    "missing_se": 1,
+    "missing_p_value": 7,
+    "missing_literal": 0,
+    "missing_position": 0,
+    "issues": [
+      {
+        "index": 2,
+        "outcome_name": "Everyone gets enough food",
+        "table_number": "9",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 6,
+        "outcome_name": "Household Income from Paid Labor (followup)",
+        "table_number": "12",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 9,
+        "outcome_name": "Household agricultural income",
+        "table_number": "12",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 10,
+        "outcome_name": "Household livestock revenue",
+        "table_number": "12",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 12,
+        "outcome_name": "Joint test of significance",
+        "table_number": "7",
+        "issues": [
+          "missing_standard_error"
+        ]
+      },
+      {
+        "index": 13,
+        "outcome_name": "Member has not missed any days due to illness",
+        "table_number": "15",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 14,
+        "outcome_name": "No adults skipped meals",
+        "table_number": "9",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 16,
+        "outcome_name": "Total amount borrowed",
+        "table_number": "11",
+        "issues": [
+          "missing_p_value"
+        ]
+      }
+    ]
+  },
+  "quality_issues": [
+    "1 records missing standard_error"
+  ],
+  "summary": {
+    "total_records": 20,
+    "unique_outcomes": 18,
+    "quality_score": 0.95
+  }
+}

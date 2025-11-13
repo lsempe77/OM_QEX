@@ -1,0 +1,432 @@
+{
+  "_key": "949EZS93",
+  "_phase": "phase4_outcome_mapping",
+  "outcome_groups": [
+    {
+      "outcome_name": "Chores",
+      "outcome_description": "Hours of household chores per week",
+      "num_variations": 3,
+      "tables": [
+        "3",
+        "4",
+        "6"
+      ],
+      "treatment_arms": [
+        "Basic/training intervention",
+        "Business grant intervention",
+        "Girls"
+      ],
+      "subgroups": [
+        "Girls"
+      ],
+      "statistics": [
+        {
+          "table_number": "3",
+          "outcome_name": "Chores",
+          "outcome_description": "Hours of household chores per week",
+          "treatment_arm": "Basic/training intervention",
+          "subgroup": null,
+          "effect_size": -0.9,
+          "p_value": 0.01,
+          "standard_error": 0.304,
+          "confidence_interval": null,
+          "sample_size": null,
+          "literal_text": "Basic/training intervention | -0.9*** (0.304)",
+          "text_position": "Table 3, Row 'Basic/training intervention', Column 'Chores'"
+        },
+        {
+          "table_number": "4",
+          "outcome_name": "Chores",
+          "outcome_description": "Hours of household chores per week",
+          "treatment_arm": "Business grant intervention",
+          "subgroup": null,
+          "effect_size": -0.8,
+          "p_value": 0.01,
+          "standard_error": 0.245,
+          "confidence_interval": null,
+          "sample_size": null,
+          "literal_text": "Business grant intervention | -0.8*** (0.245)",
+          "text_position": "Table 4, Row 'Business grant intervention', Column 'Chores'"
+        },
+        {
+          "table_number": "6",
+          "outcome_name": "Chores",
+          "outcome_description": "Hours of household chores per week",
+          "treatment_arm": "Girls",
+          "subgroup": "Girls",
+          "effect_size": -0.9,
+          "p_value": 0.01,
+          "standard_error": 0.304,
+          "confidence_interval": null,
+          "sample_size": null,
+          "literal_text": "Girls | -0.9*** (0.304)",
+          "text_position": "Table 6, Row 'Girls', Column 'Chores'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Commerce",
+      "outcome_description": "Transition to commerce activities",
+      "num_variations": 1,
+      "tables": [
+        "5"
+      ],
+      "treatment_arms": [
+        "Not working"
+      ],
+      "subgroups": [],
+      "statistics": [
+        {
+          "table_number": "5",
+          "outcome_name": "Commerce",
+          "outcome_description": "Transition to commerce activities",
+          "treatment_arm": "Not working",
+          "subgroup": null,
+          "effect_size": 0.07,
+          "p_value": 0.01,
+          "standard_error": null,
+          "confidence_interval": null,
+          "sample_size": null,
+          "literal_text": "Not working | 0.070*** (0.000)",
+          "text_position": "Table 5, Row 'Not working', Column 'Commerce'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Farm work",
+      "outcome_description": "Hours of farm work per week",
+      "num_variations": 4,
+      "tables": [
+        "3",
+        "4",
+        "6",
+        "7"
+      ],
+      "treatment_arms": [
+        "Basic/training intervention",
+        "Business grant intervention",
+        "Girls"
+      ],
+      "subgroups": [
+        "Girls"
+      ],
+      "statistics": [
+        {
+          "table_number": "3",
+          "outcome_name": "Farm work",
+          "outcome_description": "Hours of farm work per week",
+          "treatment_arm": "Basic/training intervention",
+          "subgroup": null,
+          "effect_size": -0.6,
+          "p_value": 0.01,
+          "standard_error": 0.151,
+          "confidence_interval": null,
+          "sample_size": null,
+          "literal_text": "Basic/training intervention | -0.6*** (0.151)",
+          "text_position": "Table 3, Row 'Basic/training intervention', Column 'Farm work'"
+        },
+        {
+          "table_number": "4",
+          "outcome_name": "Farm work",
+          "outcome_description": "Hours of farm work per week",
+          "treatment_arm": "Business grant intervention",
+          "subgroup": null,
+          "effect_size": -0.7,
+          "p_value": 0.05,
+          "standard_error": 0.303,
+          "confidence_interval": null,
+          "sample_size": null,
+          "literal_text": "Business grant intervention | -0.7** (0.303)",
+          "text_position": "Table 4, Row 'Business grant intervention', Column 'Farm work'"
+        },
+        {
+          "table_number": "6",
+          "outcome_name": "Farm work",
+          "outcome_description": "Hours of farm work per week",
+          "treatment_arm": "Girls",
+          "subgroup": "Girls",
+          "effect_size": -0.6,
+          "p_value": 0.01,
+          "standard_error": 0.151,
+          "confidence_interval": null,
+          "sample_size": null,
+          "literal_text": "Girls | -0.6*** (0.151)",
+          "text_position": "Table 6, Row 'Girls', Column 'Farm work'"
+        },
+        {
+          "table_number": "7",
+          "outcome_name": "Farm work",
+          "outcome_description": "Days of farm work per year",
+          "treatment_arm": "Basic/training intervention",
+          "subgroup": null,
+          "effect_size": -10.0,
+          "p_value": 0.01,
+          "standard_error": null,
+          "confidence_interval": null,
+          "sample_size": null,
+          "literal_text": "Basic/training intervention | -10.0***",
+          "text_position": "Table 7, Row 'Basic/training intervention', Column 'Farm work'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Food production",
+      "outcome_description": "Transition to food production activities",
+      "num_variations": 1,
+      "tables": [
+        "5"
+      ],
+      "treatment_arms": [
+        "Not working"
+      ],
+      "subgroups": [],
+      "statistics": [
+        {
+          "table_number": "5",
+          "outcome_name": "Food production",
+          "outcome_description": "Transition to food production activities",
+          "treatment_arm": "Not working",
+          "subgroup": null,
+          "effect_size": 0.032,
+          "p_value": 0.01,
+          "standard_error": null,
+          "confidence_interval": null,
+          "sample_size": null,
+          "literal_text": "Not working | 0.032*** (0.000)",
+          "text_position": "Table 5, Row 'Not working', Column 'Food production'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Manufacture",
+      "outcome_description": "Transition to manufacturing activities",
+      "num_variations": 1,
+      "tables": [
+        "5"
+      ],
+      "treatment_arms": [
+        "Not working"
+      ],
+      "subgroups": [],
+      "statistics": [
+        {
+          "table_number": "5",
+          "outcome_name": "Manufacture",
+          "outcome_description": "Transition to manufacturing activities",
+          "treatment_arm": "Not working",
+          "subgroup": null,
+          "effect_size": 0.003,
+          "p_value": 0.1,
+          "standard_error": null,
+          "confidence_interval": null,
+          "sample_size": null,
+          "literal_text": "Not working | 0.003* (0.084)",
+          "text_position": "Table 5, Row 'Not working', Column 'Manufacture'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Service",
+      "outcome_description": "Transition to service activities",
+      "num_variations": 1,
+      "tables": [
+        "5"
+      ],
+      "treatment_arms": [
+        "Not working"
+      ],
+      "subgroups": [],
+      "statistics": [
+        {
+          "table_number": "5",
+          "outcome_name": "Service",
+          "outcome_description": "Transition to service activities",
+          "treatment_arm": "Not working",
+          "subgroup": null,
+          "effect_size": -0.001,
+          "p_value": null,
+          "standard_error": null,
+          "confidence_interval": null,
+          "sample_size": null,
+          "literal_text": "Not working | -0.001 (0.714)",
+          "text_position": "Table 5, Row 'Not working', Column 'Service'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Skilled labor",
+      "outcome_description": "Hours of skilled labor per week",
+      "num_variations": 4,
+      "tables": [
+        "3",
+        "4",
+        "6",
+        "7"
+      ],
+      "treatment_arms": [
+        "Basic/training intervention",
+        "Business grant intervention",
+        "Girls"
+      ],
+      "subgroups": [
+        "Girls"
+      ],
+      "statistics": [
+        {
+          "table_number": "3",
+          "outcome_name": "Skilled labor",
+          "outcome_description": "Hours of skilled labor per week",
+          "treatment_arm": "Basic/training intervention",
+          "subgroup": null,
+          "effect_size": 0.0,
+          "p_value": null,
+          "standard_error": 0.286,
+          "confidence_interval": null,
+          "sample_size": null,
+          "literal_text": "Basic/training intervention | 0.0 (0.286)",
+          "text_position": "Table 3, Row 'Basic/training intervention', Column 'Skilled labor'"
+        },
+        {
+          "table_number": "4",
+          "outcome_name": "Skilled labor",
+          "outcome_description": "Hours of skilled labor per week",
+          "treatment_arm": "Business grant intervention",
+          "subgroup": null,
+          "effect_size": 1.0,
+          "p_value": 0.01,
+          "standard_error": 0.29,
+          "confidence_interval": null,
+          "sample_size": null,
+          "literal_text": "Business grant intervention | 1.0*** (0.290)",
+          "text_position": "Table 4, Row 'Business grant intervention', Column 'Skilled labor'"
+        },
+        {
+          "table_number": "6",
+          "outcome_name": "Skilled labor",
+          "outcome_description": "Hours of skilled labor per week",
+          "treatment_arm": "Girls",
+          "subgroup": "Girls",
+          "effect_size": 0.0,
+          "p_value": null,
+          "standard_error": 0.286,
+          "confidence_interval": null,
+          "sample_size": null,
+          "literal_text": "Girls | 0.0 (0.286)",
+          "text_position": "Table 6, Row 'Girls', Column 'Skilled labor'"
+        },
+        {
+          "table_number": "7",
+          "outcome_name": "Skilled labor",
+          "outcome_description": "Days of skilled labor per year",
+          "treatment_arm": "Basic/training intervention",
+          "subgroup": null,
+          "effect_size": 10.2,
+          "p_value": 0.01,
+          "standard_error": null,
+          "confidence_interval": null,
+          "sample_size": null,
+          "literal_text": "Basic/training intervention | 10.2***",
+          "text_position": "Table 7, Row 'Basic/training intervention', Column 'Skilled labor'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Total labor days",
+      "outcome_description": "Days of total child labor per year",
+      "num_variations": 1,
+      "tables": [
+        "7"
+      ],
+      "treatment_arms": [
+        "Basic/training intervention"
+      ],
+      "subgroups": [],
+      "statistics": [
+        {
+          "table_number": "7",
+          "outcome_name": "Total labor days",
+          "outcome_description": "Days of total child labor per year",
+          "treatment_arm": "Basic/training intervention",
+          "subgroup": null,
+          "effect_size": -9.3,
+          "p_value": 0.01,
+          "standard_error": null,
+          "confidence_interval": null,
+          "sample_size": null,
+          "literal_text": "Basic/training intervention | -9.3***",
+          "text_position": "Table 7, Row 'Basic/training intervention', Column 'Total labor days'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Total labor hours",
+      "outcome_description": "Hours of total child labor per week",
+      "num_variations": 3,
+      "tables": [
+        "3",
+        "4",
+        "6"
+      ],
+      "treatment_arms": [
+        "Basic/training intervention",
+        "Business grant intervention",
+        "Girls"
+      ],
+      "subgroups": [
+        "Girls"
+      ],
+      "statistics": [
+        {
+          "table_number": "3",
+          "outcome_name": "Total labor hours",
+          "outcome_description": "Hours of total child labor per week",
+          "treatment_arm": "Basic/training intervention",
+          "subgroup": null,
+          "effect_size": -1.8,
+          "p_value": 0.01,
+          "standard_error": 0.405,
+          "confidence_interval": null,
+          "sample_size": null,
+          "literal_text": "Basic/training intervention | -1.8*** (0.405)",
+          "text_position": "Table 3, Row 'Basic/training intervention', Column 'Total labor hours'"
+        },
+        {
+          "table_number": "4",
+          "outcome_name": "Total labor hours",
+          "outcome_description": "Hours of total child labor per week",
+          "treatment_arm": "Business grant intervention",
+          "subgroup": null,
+          "effect_size": -0.9,
+          "p_value": 0.05,
+          "standard_error": 0.448,
+          "confidence_interval": null,
+          "sample_size": null,
+          "literal_text": "Business grant intervention | -0.9** (0.448)",
+          "text_position": "Table 4, Row 'Business grant intervention', Column 'Total labor hours'"
+        },
+        {
+          "table_number": "6",
+          "outcome_name": "Total labor hours",
+          "outcome_description": "Hours of total child labor per week",
+          "treatment_arm": "Girls",
+          "subgroup": "Girls",
+          "effect_size": -1.8,
+          "p_value": 0.01,
+          "standard_error": 0.405,
+          "confidence_interval": null,
+          "sample_size": null,
+          "literal_text": "Girls | -1.8*** (0.405)",
+          "text_position": "Table 6, Row 'Girls', Column 'Total labor hours'"
+        }
+      ]
+    }
+  ],
+  "total_statistics": 19,
+  "unique_outcomes": 9,
+  "summary": {
+    "total_statistics": 19,
+    "unique_outcomes": 9,
+    "multi_arm_outcomes": 4,
+    "tables_with_outcomes": 5
+  }
+}

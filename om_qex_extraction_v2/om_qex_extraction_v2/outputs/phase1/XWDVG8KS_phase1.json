@@ -1,0 +1,66 @@
+{
+  "tables_found": [
+    {
+      "table_number": "1",
+      "title": "Project impact on non-farm business activities",
+      "location": "text_reference section_results",
+      "xml_id": null,
+      "has_structure": false,
+      "confidence": 0.4
+    },
+    {
+      "table_number": "10",
+      "title": "Cambio entre l\u00ednea base y l\u00ednea final en la situaci\u00f3n de pobreza de los hogares participantes de SOF",
+      "location": "paragraph _PEUwdQW",
+      "xml_id": "_PEUwdQW",
+      "has_structure": false,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "11",
+      "title": "Efectos en las horas de trabajo diarias de los participantes SOF",
+      "location": "paragraph _JXV6pUx",
+      "xml_id": "_JXV6pUx",
+      "has_structure": false,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "12",
+      "title": "Efecto sobre los activos de los hogares participantes SOF",
+      "location": "paragraph _JcGWAtn",
+      "xml_id": "_JcGWAtn",
+      "has_structure": false,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "13",
+      "title": "Efecto sobre los ingresos de los hogares participantes SOF",
+      "location": "text_reference section_results",
+      "xml_id": null,
+      "has_structure": false,
+      "confidence": 0.4
+    }
+  ],
+  "total_tables_found": 5,
+  "table_numbers": [
+    "1",
+    "10",
+    "11",
+    "12",
+    "13"
+  ],
+  "warnings": [
+    "Gap in numbering: missing tables 2-9",
+    "Most tables found embedded in paragraphs rather than structured table elements",
+    "2 tables below confidence threshold 0.5",
+    "Gap in table numbering: found Table 1 and 10, missing [2, 3, 4, 5, 6, 7, 8, 9]"
+  ],
+  "summary": {
+    "structured_tables": 0,
+    "paragraph_tables": 3,
+    "text_references_only": 2
+  },
+  "_key": "XWDVG8KS",
+  "_phase": "phase1_table_discovery",
+  "_raw_response_length": 2517
+}

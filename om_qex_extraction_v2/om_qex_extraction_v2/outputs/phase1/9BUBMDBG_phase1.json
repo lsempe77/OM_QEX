@@ -1,0 +1,109 @@
+{
+  "tables_found": [
+    {
+      "table_number": "1",
+      "title": "Average impacts of business grant and training on household expenditures and non-agricultural economic activities",
+      "location": "figure tab_0",
+      "xml_id": "tab_0",
+      "has_structure": true,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "2",
+      "title": "Demand and preferences for productive interventions at baseline",
+      "location": "figure tab_6",
+      "xml_id": "tab_6",
+      "has_structure": true,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "3",
+      "title": "Impacts of business grant and training by baseline demand",
+      "location": "figure tab_1",
+      "xml_id": "tab_1",
+      "has_structure": true,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "4",
+      "title": "Impacts of business grant and training by baseline activity",
+      "location": "figure tab_2",
+      "xml_id": "tab_2",
+      "has_structure": true,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "5A",
+      "title": "Relationship between baseline assets and outcomes in control",
+      "location": "paragraph",
+      "xml_id": null,
+      "has_structure": false,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "5B",
+      "title": "Heterogeneity of business grant and baseline asset endowments",
+      "location": "paragraph",
+      "xml_id": null,
+      "has_structure": false,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "5C",
+      "title": "Heterogeneity of impact training and baseline asset endowments",
+      "location": "paragraph",
+      "xml_id": null,
+      "has_structure": false,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "6",
+      "title": "Impacts of business grant and training by poverty level based on baseline per capita expenditures",
+      "location": "figure tab_3",
+      "xml_id": "tab_3",
+      "has_structure": true,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "7",
+      "title": "Impacts of business grant and training by poverty level as estimated by proxy means",
+      "location": "figure tab_4",
+      "xml_id": "tab_4",
+      "has_structure": true,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "8",
+      "title": "Impact of business grant and training on positive attitudes",
+      "location": "figure tab_5",
+      "xml_id": "tab_5",
+      "has_structure": true,
+      "confidence": 1.0
+    }
+  ],
+  "total_tables_found": 10,
+  "table_numbers": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5A",
+    "5B",
+    "5C",
+    "6",
+    "7",
+    "8"
+  ],
+  "warnings": [
+    "Tables 5A, 5B, and 5C appear in paragraph text rather than structured table format",
+    "Gap in table numbering: found Table 4 and 6, missing [5]"
+  ],
+  "summary": {
+    "structured_tables": 7,
+    "paragraph_tables": 3,
+    "text_references_only": 0
+  },
+  "_key": "9BUBMDBG",
+  "_phase": "phase1_table_discovery",
+  "_raw_response_length": 3283
+}

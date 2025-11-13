@@ -1,0 +1,111 @@
+{
+  "_key": "V5P2S7S3",
+  "_phase": "phase2_table_filtering",
+  "tables_classified": [
+    {
+      "table_number": "2.1",
+      "classification": "RESULTS",
+      "confidence": 0.95,
+      "reasoning": "Title indicates treatment effects analysis, both average and quantile treatment effects"
+    },
+    {
+      "table_number": "2.2",
+      "classification": "RESULTS",
+      "confidence": 0.95,
+      "reasoning": "Shows heterogeneous impacts and ITT (Intent to Treat) estimates, clearly analyzing treatment effects"
+    },
+    {
+      "table_number": "2.3",
+      "classification": "DESCRIPTIVE",
+      "confidence": 0.9,
+      "reasoning": "Shows distribution of communities across implementation schemes, describing program structure rather than effects"
+    },
+    {
+      "table_number": "2.4",
+      "classification": "RESULTS",
+      "confidence": 0.95,
+      "reasoning": "Presents primary treatment results and spillover effects for economic outcomes"
+    },
+    {
+      "table_number": "2.5",
+      "classification": "RESULTS",
+      "confidence": 0.9,
+      "reasoning": "Contains regression results, indicating statistical analysis of outcomes"
+    },
+    {
+      "table_number": "A1",
+      "classification": "DESCRIPTIVE",
+      "confidence": 0.9,
+      "reasoning": "Lists functional forms and parameters for simulations, describing methodology rather than results"
+    },
+    {
+      "table_number": "A2",
+      "classification": "DESCRIPTIVE",
+      "confidence": 1.0,
+      "reasoning": "Baseline balance table, explicitly comparing groups at baseline"
+    },
+    {
+      "table_number": "A3",
+      "classification": "DESCRIPTIVE",
+      "confidence": 0.85,
+      "reasoning": "Attrition analysis table examining survey completion, typically used to describe sample characteristics"
+    }
+  ],
+  "results_tables": [
+    {
+      "table_number": "2.1",
+      "classification": "RESULTS",
+      "confidence": 0.95,
+      "reasoning": "Title indicates treatment effects analysis, both average and quantile treatment effects"
+    },
+    {
+      "table_number": "2.2",
+      "classification": "RESULTS",
+      "confidence": 0.95,
+      "reasoning": "Shows heterogeneous impacts and ITT (Intent to Treat) estimates, clearly analyzing treatment effects"
+    },
+    {
+      "table_number": "2.4",
+      "classification": "RESULTS",
+      "confidence": 0.95,
+      "reasoning": "Presents primary treatment results and spillover effects for economic outcomes"
+    },
+    {
+      "table_number": "2.5",
+      "classification": "RESULTS",
+      "confidence": 0.9,
+      "reasoning": "Contains regression results, indicating statistical analysis of outcomes"
+    }
+  ],
+  "descriptive_tables": [
+    {
+      "table_number": "2.3",
+      "classification": "DESCRIPTIVE",
+      "confidence": 0.9,
+      "reasoning": "Shows distribution of communities across implementation schemes, describing program structure rather than effects"
+    },
+    {
+      "table_number": "A1",
+      "classification": "DESCRIPTIVE",
+      "confidence": 0.9,
+      "reasoning": "Lists functional forms and parameters for simulations, describing methodology rather than results"
+    },
+    {
+      "table_number": "A2",
+      "classification": "DESCRIPTIVE",
+      "confidence": 1.0,
+      "reasoning": "Baseline balance table, explicitly comparing groups at baseline"
+    },
+    {
+      "table_number": "A3",
+      "classification": "DESCRIPTIVE",
+      "confidence": 0.85,
+      "reasoning": "Attrition analysis table examining survey completion, typically used to describe sample characteristics"
+    }
+  ],
+  "summary": {
+    "total_tables": 8,
+    "results_tables": 4,
+    "descriptive_tables": 4
+  }
+}

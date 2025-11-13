@@ -1,0 +1,267 @@
+{
+  "_key": "PHRKN65M",
+  "_phase": "phase2_table_filtering",
+  "tables_classified": [
+    {
+      "table_number": "A1",
+      "classification": "DESCRIPTIVE",
+      "confidence": 1.0,
+      "reasoning": "Balance table comparing treatment and control groups at baseline"
+    },
+    {
+      "table_number": "A2",
+      "classification": "DESCRIPTIVE",
+      "confidence": 1.0,
+      "reasoning": "Balance table comparing treatment and control groups at baseline"
+    },
+    {
+      "table_number": "A3",
+      "classification": "DESCRIPTIVE",
+      "confidence": 1.0,
+      "reasoning": "Balance table comparing treatment and control groups at baseline"
+    },
+    {
+      "table_number": "A4",
+      "classification": "RESULTS",
+      "confidence": 0.9,
+      "reasoning": "Shows differences in outcome variables after treatment"
+    },
+    {
+      "table_number": "A5",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Shows project impacts/treatment effects"
+    },
+    {
+      "table_number": "A6",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Shows project impacts/treatment effects"
+    },
+    {
+      "table_number": "A7",
+      "classification": "RESULTS",
+      "confidence": 0.9,
+      "reasoning": "Analysis of determinants suggests regression results"
+    },
+    {
+      "table_number": "A8",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Shows impacts/treatment effects"
+    },
+    {
+      "table_number": "1",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Summary of impacts indicates treatment effects"
+    },
+    {
+      "table_number": "2",
+      "classification": "DESCRIPTIVE",
+      "confidence": 1.0,
+      "reasoning": "Balance table showing baseline characteristics"
+    },
+    {
+      "table_number": "3",
+      "classification": "DESCRIPTIVE",
+      "confidence": 1.0,
+      "reasoning": "Balance table showing baseline characteristics"
+    },
+    {
+      "table_number": "4",
+      "classification": "DESCRIPTIVE",
+      "confidence": 1.0,
+      "reasoning": "Balance table comparing sample to population characteristics"
+    },
+    {
+      "table_number": "5",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Shows project impact/treatment effects"
+    },
+    {
+      "table_number": "6",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Shows project impact/treatment effects"
+    },
+    {
+      "table_number": "7",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Shows project impact/treatment effects"
+    },
+    {
+      "table_number": "8",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Shows project impact/treatment effects"
+    },
+    {
+      "table_number": "9",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Shows project impact/treatment effects"
+    },
+    {
+      "table_number": "10",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Shows project impact/treatment effects"
+    },
+    {
+      "table_number": "11",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Shows project impact/treatment effects"
+    },
+    {
+      "table_number": "12",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Shows project impact/treatment effects"
+    },
+    {
+      "table_number": "13",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Shows project impact/treatment effects"
+    }
+  ],
+  "results_tables": [
+    {
+      "table_number": "A4",
+      "classification": "RESULTS",
+      "confidence": 0.9,
+      "reasoning": "Shows differences in outcome variables after treatment"
+    },
+    {
+      "table_number": "A5",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Shows project impacts/treatment effects"
+    },
+    {
+      "table_number": "A6",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Shows project impacts/treatment effects"
+    },
+    {
+      "table_number": "A7",
+      "classification": "RESULTS",
+      "confidence": 0.9,
+      "reasoning": "Analysis of determinants suggests regression results"
+    },
+    {
+      "table_number": "A8",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Shows impacts/treatment effects"
+    },
+    {
+      "table_number": "1",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Summary of impacts indicates treatment effects"
+    },
+    {
+      "table_number": "5",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Shows project impact/treatment effects"
+    },
+    {
+      "table_number": "6",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Shows project impact/treatment effects"
+    },
+    {
+      "table_number": "7",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Shows project impact/treatment effects"
+    },
+    {
+      "table_number": "8",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Shows project impact/treatment effects"
+    },
+    {
+      "table_number": "9",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Shows project impact/treatment effects"
+    },
+    {
+      "table_number": "10",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Shows project impact/treatment effects"
+    },
+    {
+      "table_number": "11",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Shows project impact/treatment effects"
+    },
+    {
+      "table_number": "12",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Shows project impact/treatment effects"
+    },
+    {
+      "table_number": "13",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Shows project impact/treatment effects"
+    }
+  ],
+  "descriptive_tables": [
+    {
+      "table_number": "A1",
+      "classification": "DESCRIPTIVE",
+      "confidence": 1.0,
+      "reasoning": "Balance table comparing treatment and control groups at baseline"
+    },
+    {
+      "table_number": "A2",
+      "classification": "DESCRIPTIVE",
+      "confidence": 1.0,
+      "reasoning": "Balance table comparing treatment and control groups at baseline"
+    },
+    {
+      "table_number": "A3",
+      "classification": "DESCRIPTIVE",
+      "confidence": 1.0,
+      "reasoning": "Balance table comparing treatment and control groups at baseline"
+    },
+    {
+      "table_number": "2",
+      "classification": "DESCRIPTIVE",
+      "confidence": 1.0,
+      "reasoning": "Balance table showing baseline characteristics"
+    },
+    {
+      "table_number": "3",
+      "classification": "DESCRIPTIVE",
+      "confidence": 1.0,
+      "reasoning": "Balance table showing baseline characteristics"
+    },
+    {
+      "table_number": "4",
+      "classification": "DESCRIPTIVE",
+      "confidence": 1.0,
+      "reasoning": "Balance table comparing sample to population characteristics"
+    }
+  ],
+  "summary": {
+    "total_tables": 21,
+    "results_tables": 15,
+    "descriptive_tables": 6
+  }
+}

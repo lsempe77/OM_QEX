@@ -1,0 +1,111 @@
+{
+  "_key": "DXHZBI2X",
+  "_phase": "phase2_table_filtering",
+  "tables_classified": [
+    {
+      "table_number": "1",
+      "classification": "DESCRIPTIVE",
+      "confidence": 1.0,
+      "reasoning": "Title indicates this is a baseline characteristics table comparing randomization groups"
+    },
+    {
+      "table_number": "2",
+      "classification": "DESCRIPTIVE",
+      "confidence": 0.9,
+      "reasoning": "Title suggests this is a descriptive table defining/explaining child labor measurement methods"
+    },
+    {
+      "table_number": "3",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Contains Tobit regression results analyzing child labor hours"
+    },
+    {
+      "table_number": "4",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Shows regression results for overall program effect on child labor hours"
+    },
+    {
+      "table_number": "5",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Presents regression results comparing effects between girls and boys"
+    },
+    {
+      "table_number": "6",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Shows regression results comparing basic vs business grant interventions"
+    },
+    {
+      "table_number": "7",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Contains difference-in-difference regression results for program effects"
+    },
+    {
+      "table_number": "8",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Shows difference-in-difference results comparing basic vs business interventions"
+    }
+  ],
+  "results_tables": [
+    {
+      "table_number": "3",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Contains Tobit regression results analyzing child labor hours"
+    },
+    {
+      "table_number": "4",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Shows regression results for overall program effect on child labor hours"
+    },
+    {
+      "table_number": "5",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Presents regression results comparing effects between girls and boys"
+    },
+    {
+      "table_number": "6",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Shows regression results comparing basic vs business grant interventions"
+    },
+    {
+      "table_number": "7",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Contains difference-in-difference regression results for program effects"
+    },
+    {
+      "table_number": "8",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Shows difference-in-difference results comparing basic vs business interventions"
+    }
+  ],
+  "descriptive_tables": [
+    {
+      "table_number": "1",
+      "classification": "DESCRIPTIVE",
+      "confidence": 1.0,
+      "reasoning": "Title indicates this is a baseline characteristics table comparing randomization groups"
+    },
+    {
+      "table_number": "2",
+      "classification": "DESCRIPTIVE",
+      "confidence": 0.9,
+      "reasoning": "Title suggests this is a descriptive table defining/explaining child labor measurement methods"
+    }
+  ],
+  "summary": {
+    "total_tables": 8,
+    "results_tables": 6,
+    "descriptive_tables": 2
+  }
+}

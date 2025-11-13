@@ -1,0 +1,11 @@
+study_id,key,outcome_name,outcome_description,treatment_arm,subgroup,table_number,effect_size,standard_error,p_value,confidence_interval,sample_size,literal_text,text_position
+6WTBIFX2,6WTBIFX2,Educational decision involvement,Dummy for being involved in educational decisions for children,Project,Urban,8,0.029,,,,539,0.029 [0.273],"Table 8, Row 'Panel A: Urban sample', Column '(2) Educational decision involvement'"
+6WTBIFX2,6WTBIFX2,Husband exclusive decision maker,Dummy for husband being exclusive decision maker,Project,Urban,8,-0.061,,,,539,-0.061 [0.108],"Table 8, Row 'Panel A: Urban sample', Column '(1) Husband exclusive decision maker'"
+6WTBIFX2,6WTBIFX2,Income from employment,Annual income from employment in Lempira,Project,Urban,7,2307.6,,,,855,2307.6 [0.492],"Table 7, Row 'Panel A: Urban sample', Column '(2) Income from employment'"
+6WTBIFX2,6WTBIFX2,Knowledge of financial accounts,Dummy for knowledge of financial accounts,Project,Urban,5,0.051,,0.05,,855,0.051 [0.039]**,"Table 5, Row 'Panel A: Urban sample', Column '(3) Knowledge of financial accounts'"
+6WTBIFX2,6WTBIFX2,Knowledge of financial institutions,Dummy for knowledge of financial institutions,Project,Urban,5,0.097,,0.01,,855,0.097 [0.002]***,"Table 5, Row 'Panel A: Urban sample', Column '(2) Knowledge of financial institutions'"
+6WTBIFX2,6WTBIFX2,Knowledge of financial institutions,Dummy for knowledge of financial institutions,Project,Rural,5,0.257,,0.01,,27,0.257 [0.001]***,"Table 5, Row 'Panel B: Rural sample', Column '(2) Knowledge of financial institutions'"
+6WTBIFX2,6WTBIFX2,Math scores,Mathematical skills test score,Project,Urban,5,0.04,,0.05,,850,0.040 [p-value] [0.012]**,"Table 5, Row 'Panel A: Urban sample', Column '(1) Math scores'"
+6WTBIFX2,6WTBIFX2,Math scores,Mathematical skills test score,Project,Rural,5,0.112,,0.01,,27,0.112 [0.000]***,"Table 5, Row 'Panel B: Rural sample', Column '(1) Math scores'"
+6WTBIFX2,6WTBIFX2,Total Income,Total annual income in Lempira,Project,Urban,7,2964.4,,,,855,2964.4 [0.534],"Table 7, Row 'Panel A: Urban sample', Column '(1) Total Income'"
+6WTBIFX2,6WTBIFX2,Total Income,Total annual income in Lempira,Project,Rural,7,3755.5,,0.05,,27,3755.5 [0.017]**,"Table 7, Row 'Panel B: Rural sample', Column '(1) Total Income'"

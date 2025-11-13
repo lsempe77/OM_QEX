@@ -1,0 +1,105 @@
+Based on my analysis of the TEI XML document, here are all the tables I found:
+
+{
+  "tables_found": [
+    {
+      "table_number": "1",
+      "title": "Outcome variables for the SOF evaluation",
+      "location": "figure tab_0",
+      "xml_id": "tab_0", 
+      "has_structure": true,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "2",
+      "title": "Comparison groups for the evaluation exercises",
+      "location": "paragraph _WH63mmh",
+      "xml_id": "_WH63mmh",
+      "has_structure": false,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "3", 
+      "title": "Socioeconomic differences between control and treatment groups IV",
+      "location": "paragraph _qrfjuvM",
+      "xml_id": "_qrfjuvM",
+      "has_structure": false,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "4",
+      "title": "Proportion of poor and extremely poor households in the sample",
+      "location": "paragraph _WqXAGrD",
+      "xml_id": "_WqXAGrD",
+      "has_structure": false,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "5",
+      "title": "Effects of SOF on poverty, according to IV and RE",
+      "location": "paragraph _bWMv45d",
+      "xml_id": "_bWMv45d",
+      "has_structure": false,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "6",
+      "title": "SOF effects on households' assets, according to IV and RE",
+      "location": "paragraph _RkVn8Rw",
+      "xml_id": "_RkVn8Rw",
+      "has_structure": false,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "7",
+      "title": "SOF effects on income (all values in USD ppp), according to IV and RE",
+      "location": "paragraph _yQjdatK",
+      "xml_id": "_yQjdatK",
+      "has_structure": false,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "8",
+      "title": "SOF effects on savings, according to IV and RE",
+      "location": "paragraph _ENSd763",
+      "xml_id": "_ENSd763",
+      "has_structure": false,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "9",
+      "title": "SOF effects on expenditure, according to IV and RE",
+      "location": "paragraph _2ryWCPH",
+      "xml_id": "_2ryWCPH",
+      "has_structure": false,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "10",
+      "title": "Impacts of SOF on wellbeing, according to IV and RE",
+      "location": "paragraph _hzpTX5E",
+      "xml_id": "_hzpTX5E",
+      "has_structure": false,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "11",
+      "title": "Impact of SOF on empowerment variables, according to IV and RE",
+      "location": "paragraph _HfPQDHH",
+      "xml_id": "_HfPQDHH",
+      "has_structure": false,
+      "confidence": 1.0
+    }
+  ],
+  "total_tables_found": 11,
+  "table_numbers": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"],
+  "warnings": [
+    "Most tables found in paragraph tags (may be hard to parse)",
+    "Only 1 table has explicit structure, rest are embedded in paragraphs"
+  ],
+  "summary": {
+    "structured_tables": 1,
+    "paragraph_tables": 10,
+    "text_references_only": 0
+  }
+}

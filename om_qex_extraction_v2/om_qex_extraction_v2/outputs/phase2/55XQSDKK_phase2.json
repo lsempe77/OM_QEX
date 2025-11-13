@@ -1,0 +1,195 @@
+{
+  "_key": "55XQSDKK",
+  "_phase": "phase2_table_filtering",
+  "tables_classified": [
+    {
+      "table_number": "1",
+      "classification": "DESCRIPTIVE",
+      "confidence": 0.9,
+      "reasoning": "Title 'Asset Breakdown' suggests descriptive statistics of assets"
+    },
+    {
+      "table_number": "2",
+      "classification": "DESCRIPTIVE",
+      "confidence": 1.0,
+      "reasoning": "Timeline table is clearly descriptive of study design"
+    },
+    {
+      "table_number": "3",
+      "classification": "DESCRIPTIVE",
+      "confidence": 1.0,
+      "reasoning": "'Surveys by round' describes data collection process"
+    },
+    {
+      "table_number": "4",
+      "classification": "DESCRIPTIVE",
+      "confidence": 1.0,
+      "reasoning": "'Evolution of sample size' describes sample characteristics"
+    },
+    {
+      "table_number": "5",
+      "classification": "DESCRIPTIVE",
+      "confidence": 1.0,
+      "reasoning": "Qualitative sample description is clearly descriptive"
+    },
+    {
+      "table_number": "6",
+      "classification": "DESCRIPTIVE",
+      "confidence": 0.9,
+      "reasoning": "'Orthogonality' likely shows balance tests at baseline"
+    },
+    {
+      "table_number": "7",
+      "classification": "RESULTS",
+      "confidence": 0.9,
+      "reasoning": "'Joint test of significance' suggests statistical testing of effects"
+    },
+    {
+      "table_number": "8",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Title explicitly states 'Effects on' consumption outcomes"
+    },
+    {
+      "table_number": "9",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Title explicitly states 'Effects on' food security"
+    },
+    {
+      "table_number": "10",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Title explicitly states 'Effects on' asset ownership"
+    },
+    {
+      "table_number": "11",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Title explicitly states 'Effects on' financial inclusion"
+    },
+    {
+      "table_number": "12",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Title explicitly states 'Effects on' income outcomes"
+    },
+    {
+      "table_number": "13",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Title explicitly states 'Effects on' time use"
+    },
+    {
+      "table_number": "14",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Title explicitly states 'Effects on' political and empowerment outcomes"
+    },
+    {
+      "table_number": "15",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Title explicitly states 'Effects on' health outcomes"
+    }
+  ],
+  "results_tables": [
+    {
+      "table_number": "7",
+      "classification": "RESULTS",
+      "confidence": 0.9,
+      "reasoning": "'Joint test of significance' suggests statistical testing of effects"
+    },
+    {
+      "table_number": "8",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Title explicitly states 'Effects on' consumption outcomes"
+    },
+    {
+      "table_number": "9",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Title explicitly states 'Effects on' food security"
+    },
+    {
+      "table_number": "10",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Title explicitly states 'Effects on' asset ownership"
+    },
+    {
+      "table_number": "11",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Title explicitly states 'Effects on' financial inclusion"
+    },
+    {
+      "table_number": "12",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Title explicitly states 'Effects on' income outcomes"
+    },
+    {
+      "table_number": "13",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Title explicitly states 'Effects on' time use"
+    },
+    {
+      "table_number": "14",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Title explicitly states 'Effects on' political and empowerment outcomes"
+    },
+    {
+      "table_number": "15",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Title explicitly states 'Effects on' health outcomes"
+    }
+  ],
+  "descriptive_tables": [
+    {
+      "table_number": "1",
+      "classification": "DESCRIPTIVE",
+      "confidence": 0.9,
+      "reasoning": "Title 'Asset Breakdown' suggests descriptive statistics of assets"
+    },
+    {
+      "table_number": "2",
+      "classification": "DESCRIPTIVE",
+      "confidence": 1.0,
+      "reasoning": "Timeline table is clearly descriptive of study design"
+    },
+    {
+      "table_number": "3",
+      "classification": "DESCRIPTIVE",
+      "confidence": 1.0,
+      "reasoning": "'Surveys by round' describes data collection process"
+    },
+    {
+      "table_number": "4",
+      "classification": "DESCRIPTIVE",
+      "confidence": 1.0,
+      "reasoning": "'Evolution of sample size' describes sample characteristics"
+    },
+    {
+      "table_number": "5",
+      "classification": "DESCRIPTIVE",
+      "confidence": 1.0,
+      "reasoning": "Qualitative sample description is clearly descriptive"
+    },
+    {
+      "table_number": "6",
+      "classification": "DESCRIPTIVE",
+      "confidence": 0.9,
+      "reasoning": "'Orthogonality' likely shows balance tests at baseline"
+    }
+  ],
+  "summary": {
+    "total_tables": 15,
+    "results_tables": 9,
+    "descriptive_tables": 6
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "_key": "K2ZJ4QNZ",
+  "_phase": "phase2_table_filtering",
+  "tables_classified": [
+    {
+      "table_number": "1",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Title explicitly states 'Effects of GUP, SOUP, and Asset Only' indicating treatment effects measurement"
+    },
+    {
+      "table_number": "2",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Title shows 'Three-Year Effects' measuring treatment impacts on economic indices"
+    },
+    {
+      "table_number": "3",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Title indicates measurement of treatment 'Effects' on income sources"
+    },
+    {
+      "table_number": "4",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Title shows 'Effects of GUP and Asset Only' measuring impact on livestock values"
+    },
+    {
+      "table_number": "7",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Title clearly indicates measurement of treatment 'Effects' on savings outcomes"
+    }
+  ],
+  "results_tables": [
+    {
+      "table_number": "1",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Title explicitly states 'Effects of GUP, SOUP, and Asset Only' indicating treatment effects measurement"
+    },
+    {
+      "table_number": "2",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Title shows 'Three-Year Effects' measuring treatment impacts on economic indices"
+    },
+    {
+      "table_number": "3",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Title indicates measurement of treatment 'Effects' on income sources"
+    },
+    {
+      "table_number": "4",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Title shows 'Effects of GUP and Asset Only' measuring impact on livestock values"
+    },
+    {
+      "table_number": "7",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Title clearly indicates measurement of treatment 'Effects' on savings outcomes"
+    }
+  ],
+  "descriptive_tables": [],
+  "summary": {
+    "total_tables": 5,
+    "results_tables": 5,
+    "descriptive_tables": 0
+  }
+}

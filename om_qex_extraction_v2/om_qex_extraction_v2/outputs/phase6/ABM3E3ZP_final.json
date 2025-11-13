@@ -1,0 +1,770 @@
+{
+  "_key": "ABM3E3ZP",
+  "_phase": "phase6_postprocessing",
+  "study_id": "ABM3E3ZP",
+  "records": [
+    {
+      "study_id": "ABM3E3ZP",
+      "key": "ABM3E3ZP",
+      "outcome_name": "2-year expectations",
+      "outcome_description": "Expected wellbeing in 2 years",
+      "treatment_arm": "SOF Program",
+      "subgroup": null,
+      "table_number": "10",
+      "effect_size": 0.2,
+      "standard_error": 0.15,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": null,
+      "literal_text": "2-year expectations | 0.20 (0.15)",
+      "text_position": "Table 10, Row '2-year expectations', Column 'Effect'"
+    },
+    {
+      "study_id": "ABM3E3ZP",
+      "key": "ABM3E3ZP",
+      "outcome_name": "2-year expectations gap reduction",
+      "outcome_description": "Reduction in gap between current and 2-year expected wellbeing (%)",
+      "treatment_arm": "SOF Program",
+      "subgroup": null,
+      "table_number": "10",
+      "effect_size": 9.91,
+      "standard_error": 6.98,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": null,
+      "literal_text": "Reduction in the gap for the 2-year expectations (%) | 9.91 (6.98)",
+      "text_position": "Table 10, Row 'Reduction in the gap for the 2-year expectations (%)', Column 'Effect'"
+    },
+    {
+      "study_id": "ABM3E3ZP",
+      "key": "ABM3E3ZP",
+      "outcome_name": "5-year expectations",
+      "outcome_description": "Expected wellbeing in 5 years",
+      "treatment_arm": "SOF Program",
+      "subgroup": null,
+      "table_number": "10",
+      "effect_size": 0.06,
+      "standard_error": 0.16,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": null,
+      "literal_text": "5-year expectations | 0.06 (0.16)",
+      "text_position": "Table 10, Row '5-year expectations', Column 'Effect'"
+    },
+    {
+      "study_id": "ABM3E3ZP",
+      "key": "ABM3E3ZP",
+      "outcome_name": "5-year expectations gap reduction",
+      "outcome_description": "Reduction in gap between current and 5-year expected wellbeing (%)",
+      "treatment_arm": "SOF Program",
+      "subgroup": null,
+      "table_number": "10",
+      "effect_size": 19.28,
+      "standard_error": 12.52,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": null,
+      "literal_text": "Reduction in the gap for the 5-year expectations (%) | 19.28 (12.52)",
+      "text_position": "Table 10, Row 'Reduction in the gap for the 5-year expectations (%)', Column 'Effect'"
+    },
+    {
+      "study_id": "ABM3E3ZP",
+      "key": "ABM3E3ZP",
+      "outcome_name": "Amount savings",
+      "outcome_description": "Amount of savings (USD ppp)",
+      "treatment_arm": "Project",
+      "subgroup": null,
+      "table_number": "6",
+      "effect_size": 4408,
+      "standard_error": 1369,
+      "p_value": 0.01,
+      "confidence_interval": null,
+      "sample_size": null,
+      "literal_text": "Project | 4,408*** (1,369)",
+      "text_position": "Table 6, Row 'Project', Column '(2) Amount savings'"
+    },
+    {
+      "study_id": "ABM3E3ZP",
+      "key": "ABM3E3ZP",
+      "outcome_name": "Decision-making index",
+      "outcome_description": "Household decision-making index score",
+      "treatment_arm": "SOF Program",
+      "subgroup": null,
+      "table_number": "11",
+      "effect_size": 4.53,
+      "standard_error": 3.61,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": null,
+      "literal_text": "Decision-making index | 4.53 (3.61)",
+      "text_position": "Table 11, Row 'Decision-making index', Column 'Effect'"
+    },
+    {
+      "study_id": "ABM3E3ZP",
+      "key": "ABM3E3ZP",
+      "outcome_name": "Empowerment scale",
+      "outcome_description": "ESAGE empowerment scale score",
+      "treatment_arm": "SOF Program",
+      "subgroup": null,
+      "table_number": "11",
+      "effect_size": 4.3,
+      "standard_error": 2.55,
+      "p_value": 0.1,
+      "confidence_interval": null,
+      "sample_size": null,
+      "literal_text": "Empowerment scale-ESAGE | 4.30* (2.55)",
+      "text_position": "Table 11, Row 'Empowerment scale-ESAGE', Column 'Effect'"
+    },
+    {
+      "study_id": "ABM3E3ZP",
+      "key": "ABM3E3ZP",
+      "outcome_name": "Farming related per capita monthly income",
+      "outcome_description": "Farming related per capita monthly income (USD ppp)",
+      "treatment_arm": "IV Effect",
+      "subgroup": null,
+      "table_number": "7",
+      "effect_size": 4.52,
+      "standard_error": 2.52,
+      "p_value": 0.1,
+      "confidence_interval": null,
+      "sample_size": 1005,
+      "literal_text": "4.52* (2.52)",
+      "text_position": "Table 7, Row 'Farming related per capita monthly income', Column 'IV Effect'"
+    },
+    {
+      "study_id": "ABM3E3ZP",
+      "key": "ABM3E3ZP",
+      "outcome_name": "Financial literacy index",
+      "outcome_description": "Financial literacy score (index)",
+      "treatment_arm": "Project",
+      "subgroup": null,
+      "table_number": "5",
+      "effect_size": 0.581,
+      "standard_error": 0.135,
+      "p_value": 0.01,
+      "confidence_interval": null,
+      "sample_size": null,
+      "literal_text": "Project | 0.581*** (0.135)",
+      "text_position": "Table 5, Row 'Project', Column '(1) Financial literacy index'"
+    },
+    {
+      "study_id": "ABM3E3ZP",
+      "key": "ABM3E3ZP",
+      "outcome_name": "Financial literacy index",
+      "outcome_description": "Financial literacy score (index)",
+      "treatment_arm": "Lump-sum plus training",
+      "subgroup": null,
+      "table_number": "5",
+      "effect_size": 0.799,
+      "standard_error": 0.167,
+      "p_value": 0.01,
+      "confidence_interval": null,
+      "sample_size": null,
+      "literal_text": "Lump-sum plus training | 0.799*** (0.167)",
+      "text_position": "Table 5, Row 'Lump-sum plus training', Column '(2) Financial literacy index'"
+    },
+    {
+      "study_id": "ABM3E3ZP",
+      "key": "ABM3E3ZP",
+      "outcome_name": "Financial literacy index",
+      "outcome_description": "Financial literacy score (index)",
+      "treatment_arm": "Lump-sum only",
+      "subgroup": null,
+      "table_number": "5",
+      "effect_size": 0.189,
+      "standard_error": 0.159,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": null,
+      "literal_text": "Lump-sum only | 0.189 (0.159)",
+      "text_position": "Table 5, Row 'Lump-sum only', Column '(2) Financial literacy index'"
+    },
+    {
+      "study_id": "ABM3E3ZP",
+      "key": "ABM3E3ZP",
+      "outcome_name": "Financial literacy index",
+      "outcome_description": "Financial literacy score (index)",
+      "treatment_arm": "Training-only",
+      "subgroup": null,
+      "table_number": "5",
+      "effect_size": 0.71,
+      "standard_error": 0.0858,
+      "p_value": 0.01,
+      "confidence_interval": null,
+      "sample_size": null,
+      "literal_text": "Training-only | 0.710*** (0.0858)",
+      "text_position": "Table 5, Row 'Training-only', Column '(2) Financial literacy index'"
+    },
+    {
+      "study_id": "ABM3E3ZP",
+      "key": "ABM3E3ZP",
+      "outcome_name": "Gender roles scale",
+      "outcome_description": "Gender role attitudes scale score",
+      "treatment_arm": "SOF Program",
+      "subgroup": null,
+      "table_number": "11",
+      "effect_size": 3.73,
+      "standard_error": 1.96,
+      "p_value": 0.1,
+      "confidence_interval": null,
+      "sample_size": null,
+      "literal_text": "Gender roles scale | 3.73* (1.96)",
+      "text_position": "Table 11, Row 'Gender roles scale', Column 'Effect'"
+    },
+    {
+      "study_id": "ABM3E3ZP",
+      "key": "ABM3E3ZP",
+      "outcome_name": "Happiness Level",
+      "outcome_description": "Self-reported happiness level",
+      "treatment_arm": "SOF Program",
+      "subgroup": null,
+      "table_number": "10",
+      "effect_size": 0.04,
+      "standard_error": 0.08,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": null,
+      "literal_text": "Happiness Level | 0.04 (0.08)",
+      "text_position": "Table 10, Row 'Happiness Level', Column 'Effect'"
+    },
+    {
+      "study_id": "ABM3E3ZP",
+      "key": "ABM3E3ZP",
+      "outcome_name": "Non-farming per capita monthly income",
+      "outcome_description": "Non-farming per capita monthly income (USD ppp)",
+      "treatment_arm": "IV Effect",
+      "subgroup": null,
+      "table_number": "7",
+      "effect_size": -10.65,
+      "standard_error": 4.35,
+      "p_value": 0.05,
+      "confidence_interval": null,
+      "sample_size": 1005,
+      "literal_text": "-10.65** (4.35)",
+      "text_position": "Table 7, Row 'Non-farming per capita monthly income', Column 'IV Effect'"
+    },
+    {
+      "study_id": "ABM3E3ZP",
+      "key": "ABM3E3ZP",
+      "outcome_name": "Participants' monthly labor income from paid work",
+      "outcome_description": "Participants' monthly labor income from paid work (USD ppp)",
+      "treatment_arm": "IV Effect",
+      "subgroup": null,
+      "table_number": "7",
+      "effect_size": 13.85,
+      "standard_error": 7.57,
+      "p_value": 0.1,
+      "confidence_interval": null,
+      "sample_size": 1005,
+      "literal_text": "13.85* (7.57)",
+      "text_position": "Table 7, Row 'Participants' monthly labor income from paid work', Column 'IV Effect'"
+    },
+    {
+      "study_id": "ABM3E3ZP",
+      "key": "ABM3E3ZP",
+      "outcome_name": "Participants' total monthly labor income",
+      "outcome_description": "Participants' total monthly labor income (USD ppp)",
+      "treatment_arm": "IV Effect",
+      "subgroup": null,
+      "table_number": "7",
+      "effect_size": 21.35,
+      "standard_error": 9.52,
+      "p_value": 0.05,
+      "confidence_interval": null,
+      "sample_size": 1005,
+      "literal_text": "21.35** (9.52)",
+      "text_position": "Table 7, Row 'Participants' total monthly labor income', Column 'IV Effect'"
+    },
+    {
+      "study_id": "ABM3E3ZP",
+      "key": "ABM3E3ZP",
+      "outcome_name": "Per capita total monthly income",
+      "outcome_description": "Household per capita total monthly income (USD ppp)",
+      "treatment_arm": "IV Effect",
+      "subgroup": null,
+      "table_number": "7",
+      "effect_size": -4.89,
+      "standard_error": 4.96,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": 1005,
+      "literal_text": "-4.89 (4.96)",
+      "text_position": "Table 7, Row 'Per capita total monthly income', Column 'IV Effect'"
+    },
+    {
+      "study_id": "ABM3E3ZP",
+      "key": "ABM3E3ZP",
+      "outcome_name": "Saving uptake",
+      "outcome_description": "Saving uptake (proportion)",
+      "treatment_arm": "Project",
+      "subgroup": null,
+      "table_number": "6",
+      "effect_size": 0.263,
+      "standard_error": 0.0761,
+      "p_value": 0.01,
+      "confidence_interval": null,
+      "sample_size": null,
+      "literal_text": "Project | 0.263*** (0.0761)",
+      "text_position": "Table 6, Row 'Project', Column '(1) Saving uptake'"
+    },
+    {
+      "study_id": "ABM3E3ZP",
+      "key": "ABM3E3ZP",
+      "outcome_name": "Social aid related monthly per capita income",
+      "outcome_description": "Social aid related monthly per capita income (USD ppp)",
+      "treatment_arm": "IV Effect",
+      "subgroup": null,
+      "table_number": "7",
+      "effect_size": 4.28,
+      "standard_error": 1.82,
+      "p_value": 0.05,
+      "confidence_interval": null,
+      "sample_size": 1005,
+      "literal_text": "4.28** (1.82)",
+      "text_position": "Table 7, Row 'Social aid related monthly per capita income', Column 'IV Effect'"
+    },
+    {
+      "study_id": "ABM3E3ZP",
+      "key": "ABM3E3ZP",
+      "outcome_name": "Total household per capita expenditure",
+      "outcome_description": "Total household per capita expenditure (USD ppp)",
+      "treatment_arm": "IV Effect",
+      "subgroup": null,
+      "table_number": "9",
+      "effect_size": 4.79,
+      "standard_error": 6.03,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": 1005,
+      "literal_text": "4.79 (6.03)",
+      "text_position": "Table 9, Row 'Total household per capita expenditure', Column 'IV Effect'"
+    },
+    {
+      "study_id": "ABM3E3ZP",
+      "key": "ABM3E3ZP",
+      "outcome_name": "Total per capita expenditure on cleaning items",
+      "outcome_description": "Total per capita expenditure on cleaning items (USD ppp)",
+      "treatment_arm": "IV Effect",
+      "subgroup": null,
+      "table_number": "9",
+      "effect_size": -0.81,
+      "standard_error": 0.57,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": 1005,
+      "literal_text": "-0.81 (0.57)",
+      "text_position": "Table 9, Row 'Total per capita expenditure on cleaning items', Column 'IV Effect'"
+    },
+    {
+      "study_id": "ABM3E3ZP",
+      "key": "ABM3E3ZP",
+      "outcome_name": "Total per capita expenditure on clothing",
+      "outcome_description": "Total per capita expenditure on clothing (USD ppp)",
+      "treatment_arm": "IV Effect",
+      "subgroup": null,
+      "table_number": "9",
+      "effect_size": -0.85,
+      "standard_error": 0.41,
+      "p_value": 0.05,
+      "confidence_interval": null,
+      "sample_size": 1005,
+      "literal_text": "-0.85** (0.41)",
+      "text_position": "Table 9, Row 'Total per capita expenditure on clothing', Column 'IV Effect'"
+    },
+    {
+      "study_id": "ABM3E3ZP",
+      "key": "ABM3E3ZP",
+      "outcome_name": "Total per capita expenditure on education",
+      "outcome_description": "Total per capita expenditure on education (USD ppp)",
+      "treatment_arm": "IV Effect",
+      "subgroup": null,
+      "table_number": "9",
+      "effect_size": 0.13,
+      "standard_error": 0.84,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": 1005,
+      "literal_text": "0.13 (0.84)",
+      "text_position": "Table 9, Row 'Total per capita expenditure on education', Column 'IV Effect'"
+    },
+    {
+      "study_id": "ABM3E3ZP",
+      "key": "ABM3E3ZP",
+      "outcome_name": "Total per capita expenditure on financial services",
+      "outcome_description": "Total per capita expenditure on financial services (USD ppp)",
+      "treatment_arm": "IV Effect",
+      "subgroup": null,
+      "table_number": "9",
+      "effect_size": -0.8,
+      "standard_error": 1.02,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": 1005,
+      "literal_text": "-0.80 (1.02)",
+      "text_position": "Table 9, Row 'Total per capita expenditure on financial services', Column 'IV Effect'"
+    },
+    {
+      "study_id": "ABM3E3ZP",
+      "key": "ABM3E3ZP",
+      "outcome_name": "Total per capita expenditure on food",
+      "outcome_description": "Total per capita expenditure on food (USD ppp)",
+      "treatment_arm": "IV Effect",
+      "subgroup": null,
+      "table_number": "9",
+      "effect_size": -1.1,
+      "standard_error": 2.8,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": 1005,
+      "literal_text": "-1.10 (2.80)",
+      "text_position": "Table 9, Row 'Total per capita expenditure on food', Column 'IV Effect'"
+    },
+    {
+      "study_id": "ABM3E3ZP",
+      "key": "ABM3E3ZP",
+      "outcome_name": "Total per capita expenditure on health",
+      "outcome_description": "Total per capita expenditure on health (USD ppp)",
+      "treatment_arm": "IV Effect",
+      "subgroup": null,
+      "table_number": "9",
+      "effect_size": 0.33,
+      "standard_error": 1.25,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": 1005,
+      "literal_text": "0.33 (1.25)",
+      "text_position": "Table 9, Row 'Total per capita expenditure on health', Column 'IV Effect'"
+    },
+    {
+      "study_id": "ABM3E3ZP",
+      "key": "ABM3E3ZP",
+      "outcome_name": "Total per capita expenditure on housing",
+      "outcome_description": "Total per capita expenditure on housing (USD ppp)",
+      "treatment_arm": "IV Effect",
+      "subgroup": null,
+      "table_number": "9",
+      "effect_size": -0.04,
+      "standard_error": 0.09,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": 1005,
+      "literal_text": "-0.04 (0.09)",
+      "text_position": "Table 9, Row 'Total per capita expenditure on housing', Column 'IV Effect'"
+    },
+    {
+      "study_id": "ABM3E3ZP",
+      "key": "ABM3E3ZP",
+      "outcome_name": "Total per capita expenditure on public services",
+      "outcome_description": "Total per capita expenditure on public services (USD ppp)",
+      "treatment_arm": "IV Effect",
+      "subgroup": null,
+      "table_number": "9",
+      "effect_size": -0.55,
+      "standard_error": 0.67,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": 1005,
+      "literal_text": "-0.55 (0.67)",
+      "text_position": "Table 9, Row 'Total per capita expenditure on public services', Column 'IV Effect'"
+    },
+    {
+      "study_id": "ABM3E3ZP",
+      "key": "ABM3E3ZP",
+      "outcome_name": "Total per capita expenditure on transportation",
+      "outcome_description": "Total per capita expenditure on transportation (USD ppp)",
+      "treatment_arm": "IV Effect",
+      "subgroup": null,
+      "table_number": "9",
+      "effect_size": -2.07,
+      "standard_error": 1.21,
+      "p_value": 0.1,
+      "confidence_interval": null,
+      "sample_size": 1005,
+      "literal_text": "-2.07* (1.21)",
+      "text_position": "Table 9, Row 'Total per capita expenditure on transportation', Column 'IV Effect'"
+    },
+    {
+      "study_id": "ABM3E3ZP",
+      "key": "ABM3E3ZP",
+      "outcome_name": "Total per capita monthly expenditure on entertainment and leisure",
+      "outcome_description": "Total per capita monthly expenditure on entertainment and leisure (USD ppp)",
+      "treatment_arm": "IV Effect",
+      "subgroup": null,
+      "table_number": "9",
+      "effect_size": 1.0,
+      "standard_error": 0.68,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": 1005,
+      "literal_text": "1.00 (0.68)",
+      "text_position": "Table 9, Row 'Total per capita monthly expenditure on entertainment and leisure', Column 'IV Effect'"
+    },
+    {
+      "study_id": "ABM3E3ZP",
+      "key": "ABM3E3ZP",
+      "outcome_name": "Total value of animals in the households",
+      "outcome_description": "Total value of household animals (USD ppp)",
+      "treatment_arm": "IV Effect",
+      "subgroup": null,
+      "table_number": "8",
+      "effect_size": 412.63,
+      "standard_error": 232.43,
+      "p_value": 0.1,
+      "confidence_interval": null,
+      "sample_size": 1005,
+      "literal_text": "412.63* (232.43)",
+      "text_position": "Table 8, Row 'Total value of animals in the households', Column 'IV Effect'"
+    },
+    {
+      "study_id": "ABM3E3ZP",
+      "key": "ABM3E3ZP",
+      "outcome_name": "Total value of households' non-perishable goods",
+      "outcome_description": "Total value of household non-perishable goods (USD ppp)",
+      "treatment_arm": "IV Effect",
+      "subgroup": null,
+      "table_number": "8",
+      "effect_size": 22.78,
+      "standard_error": 114.18,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": 1005,
+      "literal_text": "22.78 (114.18)",
+      "text_position": "Table 8, Row 'Total value of households' non-perishable goods', Column 'IV Effect'"
+    },
+    {
+      "study_id": "ABM3E3ZP",
+      "key": "ABM3E3ZP",
+      "outcome_name": "Total value of productive infrastructure",
+      "outcome_description": "Total value of productive infrastructure (USD ppp)",
+      "treatment_arm": "IV Effect",
+      "subgroup": null,
+      "table_number": "8",
+      "effect_size": 183.68,
+      "standard_error": 37.89,
+      "p_value": 0.05,
+      "confidence_interval": null,
+      "sample_size": 1005,
+      "literal_text": "183.68** (37.89)",
+      "text_position": "Table 8, Row 'Total value of productive infrastructure', Column 'IV Effect'"
+    },
+    {
+      "study_id": "ABM3E3ZP",
+      "key": "ABM3E3ZP",
+      "outcome_name": "Total value of the households' assets",
+      "outcome_description": "Total value of household assets (USD ppp)",
+      "treatment_arm": "IV Effect",
+      "subgroup": null,
+      "table_number": "8",
+      "effect_size": 633.63,
+      "standard_error": 342.1,
+      "p_value": 0.1,
+      "confidence_interval": null,
+      "sample_size": 1005,
+      "literal_text": "633.63* (342.10)",
+      "text_position": "Table 8, Row 'Total value of the households' assets', Column 'IV Effect'"
+    },
+    {
+      "study_id": "ABM3E3ZP",
+      "key": "ABM3E3ZP",
+      "outcome_name": "Total value of the households' productive assets",
+      "outcome_description": "Total value of household productive assets (USD ppp)",
+      "treatment_arm": "IV Effect",
+      "subgroup": null,
+      "table_number": "8",
+      "effect_size": 14.55,
+      "standard_error": 47.06,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": 1005,
+      "literal_text": "14.55 (47.06)",
+      "text_position": "Table 8, Row 'Total value of the households' productive assets', Column 'IV Effect'"
+    },
+    {
+      "study_id": "ABM3E3ZP",
+      "key": "ABM3E3ZP",
+      "outcome_name": "Wellbeing perception",
+      "outcome_description": "Self-reported wellbeing perception",
+      "treatment_arm": "SOF Program",
+      "subgroup": null,
+      "table_number": "10",
+      "effect_size": 0.28,
+      "standard_error": 0.14,
+      "p_value": 0.1,
+      "confidence_interval": null,
+      "sample_size": null,
+      "literal_text": "Wellbeing perception | 0.28* (0.14)",
+      "text_position": "Table 10, Row 'Wellbeing perception', Column 'Effect'"
+    }
+  ],
+  "validation": {
+    "total": 37,
+    "complete": 18,
+    "missing_effect_size": 0,
+    "missing_se": 0,
+    "missing_p_value": 19,
+    "missing_literal": 0,
+    "missing_position": 0,
+    "issues": [
+      {
+        "index": 0,
+        "outcome_name": "2-year expectations",
+        "table_number": "10",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 1,
+        "outcome_name": "2-year expectations gap reduction",
+        "table_number": "10",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 2,
+        "outcome_name": "5-year expectations",
+        "table_number": "10",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 3,
+        "outcome_name": "5-year expectations gap reduction",
+        "table_number": "10",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 5,
+        "outcome_name": "Decision-making index",
+        "table_number": "11",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 10,
+        "outcome_name": "Financial literacy index",
+        "table_number": "5",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 13,
+        "outcome_name": "Happiness Level",
+        "table_number": "10",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 17,
+        "outcome_name": "Per capita total monthly income",
+        "table_number": "7",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 20,
+        "outcome_name": "Total household per capita expenditure",
+        "table_number": "9",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 21,
+        "outcome_name": "Total per capita expenditure on cleaning items",
+        "table_number": "9",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 23,
+        "outcome_name": "Total per capita expenditure on education",
+        "table_number": "9",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 24,
+        "outcome_name": "Total per capita expenditure on financial services",
+        "table_number": "9",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 25,
+        "outcome_name": "Total per capita expenditure on food",
+        "table_number": "9",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 26,
+        "outcome_name": "Total per capita expenditure on health",
+        "table_number": "9",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 27,
+        "outcome_name": "Total per capita expenditure on housing",
+        "table_number": "9",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 28,
+        "outcome_name": "Total per capita expenditure on public services",
+        "table_number": "9",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 30,
+        "outcome_name": "Total per capita monthly expenditure on entertainment and leisure",
+        "table_number": "9",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 32,
+        "outcome_name": "Total value of households' non-perishable goods",
+        "table_number": "8",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 35,
+        "outcome_name": "Total value of the households' productive assets",
+        "table_number": "8",
+        "issues": [
+          "missing_p_value"
+        ]
+      }
+    ]
+  },
+  "quality_issues": [
+    "Record 4: Suspiciously large effect_size (4408.0)"
+  ],
+  "summary": {
+    "total_records": 37,
+    "unique_outcomes": 34,
+    "quality_score": 0.972972972972973
+  }
+}

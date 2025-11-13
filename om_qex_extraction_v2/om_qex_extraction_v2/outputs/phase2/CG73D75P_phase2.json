@@ -1,0 +1,135 @@
+{
+  "_key": "CG73D75P",
+  "_phase": "phase2_table_filtering",
+  "tables_classified": [
+    {
+      "table_number": "1",
+      "classification": "DESCRIPTIVE",
+      "confidence": 1.0,
+      "reasoning": "Shows initial group assignment distribution - baseline descriptive information"
+    },
+    {
+      "table_number": "2",
+      "classification": "DESCRIPTIVE",
+      "confidence": 1.0,
+      "reasoning": "Sample composition table showing survey participation numbers"
+    },
+    {
+      "table_number": "3",
+      "classification": "DESCRIPTIVE",
+      "confidence": 1.0,
+      "reasoning": "Describes attrition/survey completion information"
+    },
+    {
+      "table_number": "4",
+      "classification": "DESCRIPTIVE",
+      "confidence": 1.0,
+      "reasoning": "Shows sample completion rates - descriptive statistics about study participation"
+    },
+    {
+      "table_number": "5",
+      "classification": "DESCRIPTIVE",
+      "confidence": 1.0,
+      "reasoning": "Explicitly shows baseline characteristics with standard deviations"
+    },
+    {
+      "table_number": "6",
+      "classification": "DESCRIPTIVE",
+      "confidence": 0.9,
+      "reasoning": "Describes program participation choices by treatment arm, appears to be descriptive of choices rather than impacts"
+    },
+    {
+      "table_number": "7",
+      "classification": "DESCRIPTIVE",
+      "confidence": 1.0,
+      "reasoning": "Lists descriptive reasons for program opt-out"
+    },
+    {
+      "table_number": "8",
+      "classification": "DESCRIPTIVE",
+      "confidence": 0.9,
+      "reasoning": "Shows attendance rates by treatment arm - appears to be descriptive of participation rather than treatment effects"
+    },
+    {
+      "table_number": "9",
+      "classification": "DESCRIPTIVE",
+      "confidence": 0.9,
+      "reasoning": "Similar to Table 6, describes program participation by treatment group"
+    },
+    {
+      "table_number": "10",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Explicitly shows treatment effects on outcomes"
+    }
+  ],
+  "results_tables": [
+    {
+      "table_number": "10",
+      "classification": "RESULTS",
+      "confidence": 1.0,
+      "reasoning": "Explicitly shows treatment effects on outcomes"
+    }
+  ],
+  "descriptive_tables": [
+    {
+      "table_number": "1",
+      "classification": "DESCRIPTIVE",
+      "confidence": 1.0,
+      "reasoning": "Shows initial group assignment distribution - baseline descriptive information"
+    },
+    {
+      "table_number": "2",
+      "classification": "DESCRIPTIVE",
+      "confidence": 1.0,
+      "reasoning": "Sample composition table showing survey participation numbers"
+    },
+    {
+      "table_number": "3",
+      "classification": "DESCRIPTIVE",
+      "confidence": 1.0,
+      "reasoning": "Describes attrition/survey completion information"
+    },
+    {
+      "table_number": "4",
+      "classification": "DESCRIPTIVE",
+      "confidence": 1.0,
+      "reasoning": "Shows sample completion rates - descriptive statistics about study participation"
+    },
+    {
+      "table_number": "5",
+      "classification": "DESCRIPTIVE",
+      "confidence": 1.0,
+      "reasoning": "Explicitly shows baseline characteristics with standard deviations"
+    },
+    {
+      "table_number": "6",
+      "classification": "DESCRIPTIVE",
+      "confidence": 0.9,
+      "reasoning": "Describes program participation choices by treatment arm, appears to be descriptive of choices rather than impacts"
+    },
+    {
+      "table_number": "7",
+      "classification": "DESCRIPTIVE",
+      "confidence": 1.0,
+      "reasoning": "Lists descriptive reasons for program opt-out"
+    },
+    {
+      "table_number": "8",
+      "classification": "DESCRIPTIVE",
+      "confidence": 0.9,
+      "reasoning": "Shows attendance rates by treatment arm - appears to be descriptive of participation rather than treatment effects"
+    },
+    {
+      "table_number": "9",
+      "classification": "DESCRIPTIVE",
+      "confidence": 0.9,
+      "reasoning": "Similar to Table 6, describes program participation by treatment group"
+    }
+  ],
+  "summary": {
+    "total_tables": 10,
+    "results_tables": 1,
+    "descriptive_tables": 9
+  }
+}

@@ -1,0 +1,81 @@
+Based on my analysis of the provided TEI XML content, I found several tables mentioned in the document. Here is my structured JSON response:
+
+```json
+{
+  "tables_found": [
+    {
+      "table_number": "1",
+      "title": "Project impact on non-farm business activities",
+      "location": "text_reference section_results",
+      "xml_id": null,
+      "has_structure": false,
+      "confidence": 0.4
+    },
+    {
+      "table_number": "10", 
+      "title": "Cambio entre línea base y línea final en la situación de pobreza de los hogares participantes de SOF",
+      "location": "paragraph _PEUwdQW",
+      "xml_id": "_PEUwdQW",
+      "has_structure": false,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "11",
+      "title": "Efectos en las horas de trabajo diarias de los participantes SOF",
+      "location": "paragraph _JXV6pUx",
+      "xml_id": "_JXV6pUx", 
+      "has_structure": false,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "12",
+      "title": "Efecto sobre los activos de los hogares participantes SOF",
+      "location": "paragraph _JcGWAtn",
+      "xml_id": "_JcGWAtn",
+      "has_structure": false,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "13",
+      "title": "Efecto sobre los ingresos de los hogares participantes SOF",
+      "location": "text_reference section_results",
+      "xml_id": null,
+      "has_structure": false,
+      "confidence": 0.4
+    }
+  ],
+  "total_tables_found": 5,
+  "table_numbers": ["1", "10", "11", "12", "13"],
+  "warnings": [
+    "Gap in numbering: missing tables 2-9",
+    "Most tables found embedded in paragraphs rather than structured table elements"
+  ],
+  "summary": {
+    "structured_tables": 0,
+    "paragraph_tables": 3,
+    "text_references_only": 2
+  }
+}
+```
+
+Key findings:
+
+1. Found 5 distinct tables mentioned in the document
+
+2. Most tables appear embedded in paragraphs rather than in structured table elements
+
+3. There appears to be a gap in numbering between Tables 1-9
+
+4. Tables 10-13 appear to be part of a results section discussing program impacts
+
+5. The tables cover topics like:
+- Poverty status changes
+- Work hours effects 
+- Asset effects
+- Income effects
+
+6. No tables were found in structured <figure type="table"> elements - they were either embedded in paragraphs or referenced in text
+
+7. Confidence is high (1.0) for tables clearly embedded in paragraphs with full content, lower (0.4) for text references only
+
+Let me know if you would like me to analyze any specific aspect in more detail.

@@ -1,0 +1,9 @@
+study_id,key,outcome_name,outcome_description,treatment_arm,subgroup,table_number,effect_size,standard_error,p_value,confidence_interval,sample_size,literal_text,text_position
+XWDVG8KS,XWDVG8KS,Escala de empoderamiento,Empowerment scale score (points),SOF Program,,13,4.3,,0.1,,,4.30*,"Table 13, Row 'Escala de empoderamiento'"
+XWDVG8KS,XWDVG8KS,Escala roles de género dentro del hogar,Gender roles scale score (points),SOF Program,,13,3.73,,0.1,,,3.73*,"Table 13, Row 'Escala roles de género dentro del hogar'"
+XWDVG8KS,XWDVG8KS,Horas de trabajo diarias promedio del JH,Average daily work hours of household head,SOF Program,,11,0.32,0.44,,,1005,0.32 (0.44),"Table 11, Row 'Horas de trabajo diarias promedio del JH'"
+XWDVG8KS,XWDVG8KS,Horas de trabajo diarias promedio del Participante,Average daily work hours of participant,SOF Program,,11,0.84,0.43,0.05,,1005,0.84** (0.43),"Table 11, Row 'Horas de trabajo diarias promedio del Participante'"
+XWDVG8KS,XWDVG8KS,Pobreza por línea de pobreza,Change in poverty status (percentage points),SOF Program,,10,-8.6,,0.1,,,-8.6%*,"Table 10, Row 'SOF Program', Column 'Pobreza por línea de pobreza'"
+XWDVG8KS,XWDVG8KS,Pobreza por línea de pobreza extrema,Change in extreme poverty status (percentage points),SOF Program,,10,8.9,,,,,8.9%,"Table 10, Row 'SOF Program', Column 'Pobreza por línea de pobreza extrema'"
+XWDVG8KS,XWDVG8KS,Valor total de los activos del hogar,Total household assets value (USD PPP),SOF Program,,12,633.63,342.1,0.1,,1005,633.63* (342.10),"Table 12, Row 'Valor total de los activos del hogar'"
+XWDVG8KS,XWDVG8KS,Valor total de los semovientes del hogar,Total livestock value (USD PPP),SOF Program,,12,412.63,232.43,0.1,,1005,412.63* (232.43),"Table 12, Row 'Valor total de los semovientes del hogar'"

@@ -1,0 +1,60 @@
+Based on my analysis of the TEI XML content, I found several tables mentioned in the paper. Here is my structured JSON output:
+
+```json
+{
+  "tables_found": [
+    {
+      "table_number": "1",
+      "title": "Two-Year Effects of GUP, SOUP, and Asset Only on Household-Level Economic Indices",
+      "location": "figure tab_0",
+      "xml_id": "tab_0",
+      "has_structure": true,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "2", 
+      "title": "Three-Year Effects of GUP, SOUP, and Asset Only on Household-Level Economic Indices",
+      "location": "figure tab_1",
+      "xml_id": "tab_1",
+      "has_structure": true,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "3",
+      "title": "Three-Year Effects of GUP, SOUP, and Asset Only on Income Sources",
+      "location": "figure tab_2",
+      "xml_id": "tab_2", 
+      "has_structure": true,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "4",
+      "title": "Pooled Two-Year and Three-Year Effects of GUP and Asset Only on Household-Level Livestock Values",
+      "location": "figure tab_3",
+      "xml_id": "tab_3",
+      "has_structure": true,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "7",
+      "title": "Effects of Savings Treatments on Savings Stocks",
+      "location": "figure tab_5",
+      "xml_id": "tab_5",
+      "has_structure": true,
+      "confidence": 1.0
+    }
+  ],
+  "total_tables_found": 5,
+  "table_numbers": ["1", "2", "3", "4", "7"],
+  "warnings": [
+    "Gap in numbering: found Table 7 but no Tables 5-6"
+  ],
+  "summary": {
+    "structured_tables": 5,
+    "paragraph_tables": 0,
+    "text_references_only": 0
+  }
+}
+```
+
+The paper contains 5 structured tables, all appearing within `<figure type="table">` tags. There appears to be a gap in the numbering sequence between Tables 4 and 7, suggesting Tables 5-6 may be missing or referenced elsewhere in the paper. All tables have proper structure with rows and cells. The tables primarily present statistical results related to the effects of different poverty alleviation program treatments.

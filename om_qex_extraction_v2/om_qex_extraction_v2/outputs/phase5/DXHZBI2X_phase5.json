@@ -1,0 +1,549 @@
+{
+  "_key": "DXHZBI2X",
+  "_phase": "phase5_qex_validation",
+  "outcome_groups": [
+    {
+      "outcome_name": "Chores",
+      "outcome_description": "Hours spent on household chores per week",
+      "num_variations": 4,
+      "tables": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "treatment_arms": [
+        "Basic/training intervention",
+        "Program"
+      ],
+      "subgroups": [
+        "Girls"
+      ],
+      "statistics": [
+        {
+          "table_number": "3",
+          "outcome_name": "Chores",
+          "outcome_description": "Hours spent on household chores per week",
+          "treatment_arm": "Program",
+          "subgroup": null,
+          "effect_size": -1.114,
+          "p_value": 0.01,
+          "standard_error": 0.281,
+          "confidence_interval": null,
+          "sample_size": 4087,
+          "literal_text": "Program (T=1 if treated, 0 otherwise) -1.114*** [0.281]",
+          "text_position": "Table 3, Row 'Program', Column 'Chores'"
+        },
+        {
+          "table_number": "4",
+          "outcome_name": "Chores",
+          "outcome_description": "Hours spent on household chores per week",
+          "treatment_arm": "Program",
+          "subgroup": null,
+          "effect_size": -1.114,
+          "p_value": 0.01,
+          "standard_error": 0.281,
+          "confidence_interval": null,
+          "sample_size": 4087,
+          "literal_text": "Program (T=1 if treated, 0 otherwise) -1.114*** [0.281]",
+          "text_position": "Table 4, Row 'Program', Column 'Chores'"
+        },
+        {
+          "table_number": "5",
+          "outcome_name": "Chores",
+          "outcome_description": "Hours spent on household chores per week",
+          "treatment_arm": "Program",
+          "subgroup": "Girls",
+          "effect_size": -1.288,
+          "p_value": 0.01,
+          "standard_error": 0.425,
+          "confidence_interval": null,
+          "sample_size": null,
+          "literal_text": "Program (T=1 if treated, 0 otherwise) -1.288*** [0.425]",
+          "text_position": "Table 5, Row 'Program', Column 'Chores', Girls subsample"
+        },
+        {
+          "table_number": "6",
+          "outcome_name": "Chores",
+          "outcome_description": "Hours spent on household chores per week",
+          "treatment_arm": "Basic/training intervention",
+          "subgroup": null,
+          "effect_size": -1.066,
+          "p_value": 0.01,
+          "standard_error": 0.297,
+          "confidence_interval": null,
+          "sample_size": null,
+          "literal_text": "Basic/training intervention (T1=1 if treated, 0 otherwise) -1.066*** [0.297]",
+          "text_position": "Table 6, Row 'Basic/training intervention', Column 'Chores'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Farm work",
+      "outcome_description": "Hours spent on farm work per week",
+      "num_variations": 8,
+      "tables": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "treatment_arms": [
+        "Basic/training intervention",
+        "Business grant intervention",
+        "Program"
+      ],
+      "subgroups": [
+        "Girls"
+      ],
+      "statistics": [
+        {
+          "table_number": "3",
+          "outcome_name": "Farm work",
+          "outcome_description": "Hours spent on farm work per week",
+          "treatment_arm": "Program",
+          "subgroup": null,
+          "effect_size": -1.539,
+          "p_value": 0.01,
+          "standard_error": 0.432,
+          "confidence_interval": null,
+          "sample_size": 4087,
+          "literal_text": "Program (T=1 if treated, 0 otherwise) -1.539*** [0.432]",
+          "text_position": "Table 3, Row 'Program', Column 'Farm work'"
+        },
+        {
+          "table_number": "4",
+          "outcome_name": "Farm work",
+          "outcome_description": "Hours spent on farm work per week",
+          "treatment_arm": "Program",
+          "subgroup": null,
+          "effect_size": -1.539,
+          "p_value": 0.01,
+          "standard_error": 0.432,
+          "confidence_interval": null,
+          "sample_size": 4087,
+          "literal_text": "Program (T=1 if treated, 0 otherwise) -1.539*** [0.432]",
+          "text_position": "Table 4, Row 'Program', Column 'Farm work'"
+        },
+        {
+          "table_number": "5",
+          "outcome_name": "Farm work",
+          "outcome_description": "Hours spent on farm work per week",
+          "treatment_arm": "Program",
+          "subgroup": "Girls",
+          "effect_size": -1.107,
+          "p_value": 0.01,
+          "standard_error": 0.397,
+          "confidence_interval": null,
+          "sample_size": null,
+          "literal_text": "Program (T=1 if treated, 0 otherwise) -1.107*** [0.397]",
+          "text_position": "Table 5, Row 'Program', Column 'Farm work', Girls subsample"
+        },
+        {
+          "table_number": "6",
+          "outcome_name": "Farm work",
+          "outcome_description": "Hours spent on farm work per week",
+          "treatment_arm": "Basic/training intervention",
+          "subgroup": null,
+          "effect_size": -1.673,
+          "p_value": 0.01,
+          "standard_error": 0.457,
+          "confidence_interval": null,
+          "sample_size": null,
+          "literal_text": "Basic/training intervention (T1=1 if treated, 0 otherwise) -1.673*** [0.457]",
+          "text_position": "Table 6, Row 'Basic/training intervention', Column 'Farm work'"
+        },
+        {
+          "table_number": "7",
+          "outcome_name": "Farm work",
+          "outcome_description": "Days spent on farm work in preceding year",
+          "treatment_arm": "Program",
+          "subgroup": null,
+          "effect_size": -10.535,
+          "p_value": 0.01,
+          "standard_error": 3.17,
+          "confidence_interval": null,
+          "sample_size": 4087,
+          "literal_text": "Program (T=1 if treated, 0 otherwise) -10.535*** [3.170]",
+          "text_position": "Table 7, Row 'Program', Column 'Farm work'"
+        },
+        {
+          "table_number": "8",
+          "outcome_name": "Farm work",
+          "outcome_description": "Days spent on farm work in preceding year",
+          "treatment_arm": "Basic/training intervention",
+          "subgroup": null,
+          "effect_size": -10.632,
+          "p_value": 0.01,
+          "standard_error": 3.341,
+          "confidence_interval": null,
+          "sample_size": 4087,
+          "literal_text": "Basic/training intervention (T1=1 if treated, 0 otherwise) -10.632*** [3.341]",
+          "text_position": "Table 8, Row 'Basic/training intervention', Column 'Farm work'"
+        },
+        {
+          "table_number": "8",
+          "outcome_name": "Farm work",
+          "outcome_description": "Change in days of farm work between baseline and follow-up",
+          "treatment_arm": "Basic/training intervention",
+          "subgroup": null,
+          "effect_size": -10.632,
+          "p_value": 0.01,
+          "standard_error": 3.341,
+          "confidence_interval": null,
+          "sample_size": 4087,
+          "literal_text": "-10.632*** [3.341]",
+          "text_position": "Table 8, Row 'Basic/training intervention', Column 'Farm work'"
+        },
+        {
+          "table_number": "8",
+          "outcome_name": "Farm work",
+          "outcome_description": "Change in days of farm work between baseline and follow-up",
+          "treatment_arm": "Business grant intervention",
+          "subgroup": null,
+          "effect_size": -10.345,
+          "p_value": 0.01,
+          "standard_error": 3.932,
+          "confidence_interval": null,
+          "sample_size": 4087,
+          "literal_text": "-10.345*** [3.932]",
+          "text_position": "Table 8, Row 'Business grant intervention', Column 'Farm work'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Skilled labor",
+      "outcome_description": "Hours spent on skilled labor per week",
+      "num_variations": 8,
+      "tables": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "treatment_arms": [
+        "Basic/training intervention",
+        "Business grant intervention",
+        "Program"
+      ],
+      "subgroups": [
+        "Girls"
+      ],
+      "statistics": [
+        {
+          "table_number": "3",
+          "outcome_name": "Skilled labor",
+          "outcome_description": "Hours spent on skilled labor per week",
+          "treatment_arm": "Program",
+          "subgroup": null,
+          "effect_size": 4.194,
+          "p_value": 0.01,
+          "standard_error": 1.021,
+          "confidence_interval": null,
+          "sample_size": 4087,
+          "literal_text": "Program (T=1 if treated, 0 otherwise) 4.194*** [1.021]",
+          "text_position": "Table 3, Row 'Program', Column 'Skilled labor'"
+        },
+        {
+          "table_number": "4",
+          "outcome_name": "Skilled labor",
+          "outcome_description": "Hours spent on skilled labor per week",
+          "treatment_arm": "Program",
+          "subgroup": null,
+          "effect_size": 4.194,
+          "p_value": 0.01,
+          "standard_error": 1.021,
+          "confidence_interval": null,
+          "sample_size": 4087,
+          "literal_text": "Program (T=1 if treated, 0 otherwise) 4.194*** [1.021]",
+          "text_position": "Table 4, Row 'Program', Column 'Skilled labor'"
+        },
+        {
+          "table_number": "5",
+          "outcome_name": "Skilled labor",
+          "outcome_description": "Hours spent on skilled labor per week",
+          "treatment_arm": "Program",
+          "subgroup": "Girls",
+          "effect_size": 5.447,
+          "p_value": 0.01,
+          "standard_error": 1.258,
+          "confidence_interval": null,
+          "sample_size": null,
+          "literal_text": "Program (T=1 if treated, 0 otherwise) 5.447*** [1.258]",
+          "text_position": "Table 5, Row 'Program', Column 'Skilled labor', Girls subsample"
+        },
+        {
+          "table_number": "6",
+          "outcome_name": "Skilled labor",
+          "outcome_description": "Hours spent on skilled labor per week",
+          "treatment_arm": "Basic/training intervention",
+          "subgroup": null,
+          "effect_size": 0.267,
+          "p_value": null,
+          "standard_error": 1.123,
+          "confidence_interval": null,
+          "sample_size": null,
+          "literal_text": "Basic/training intervention (T1=1 if treated, 0 otherwise) 0.267 [1.123]",
+          "text_position": "Table 6, Row 'Basic/training intervention', Column 'Skilled labor'"
+        },
+        {
+          "table_number": "7",
+          "outcome_name": "Skilled labor",
+          "outcome_description": "Days spent on skilled labor in preceding year",
+          "treatment_arm": "Program",
+          "subgroup": null,
+          "effect_size": 4.342,
+          "p_value": 0.05,
+          "standard_error": 2.054,
+          "confidence_interval": null,
+          "sample_size": 4087,
+          "literal_text": "Program (T=1 if treated, 0 otherwise) 4.342** [2.054]",
+          "text_position": "Table 7, Row 'Program', Column 'Skilled labor'"
+        },
+        {
+          "table_number": "8",
+          "outcome_name": "Skilled labor",
+          "outcome_description": "Days spent on skilled labor in preceding year",
+          "treatment_arm": "Basic/training intervention",
+          "subgroup": null,
+          "effect_size": 1.376,
+          "p_value": null,
+          "standard_error": 2.191,
+          "confidence_interval": null,
+          "sample_size": 4087,
+          "literal_text": "Basic/training intervention (T1=1 if treated, 0 otherwise) 1.376 [2.191]",
+          "text_position": "Table 8, Row 'Basic/training intervention', Column 'Skilled labor'"
+        },
+        {
+          "table_number": "8",
+          "outcome_name": "Skilled labor",
+          "outcome_description": "Change in days of skilled labor between baseline and follow-up",
+          "treatment_arm": "Basic/training intervention",
+          "subgroup": null,
+          "effect_size": 1.376,
+          "p_value": null,
+          "standard_error": 2.191,
+          "confidence_interval": null,
+          "sample_size": 4087,
+          "literal_text": "1.376 [2.191]",
+          "text_position": "Table 8, Row 'Basic/training intervention', Column 'Skilled labor'"
+        },
+        {
+          "table_number": "8",
+          "outcome_name": "Skilled labor",
+          "outcome_description": "Change in days of skilled labor between baseline and follow-up",
+          "treatment_arm": "Business grant intervention",
+          "subgroup": null,
+          "effect_size": 10.15,
+          "p_value": 0.01,
+          "standard_error": 2.704,
+          "confidence_interval": null,
+          "sample_size": 4087,
+          "literal_text": "10.150*** [2.704]",
+          "text_position": "Table 8, Row 'Business grant intervention', Column 'Skilled labor'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Total labor days",
+      "outcome_description": "Days of child labor in preceding year",
+      "num_variations": 4,
+      "tables": [
+        "7",
+        "8"
+      ],
+      "treatment_arms": [
+        "Basic/training intervention",
+        "Business grant intervention",
+        "Program"
+      ],
+      "subgroups": [],
+      "statistics": [
+        {
+          "table_number": "7",
+          "outcome_name": "Total labor days",
+          "outcome_description": "Days of child labor in preceding year",
+          "treatment_arm": "Program",
+          "subgroup": null,
+          "effect_size": -6.193,
+          "p_value": 0.1,
+          "standard_error": 3.713,
+          "confidence_interval": null,
+          "sample_size": 4087,
+          "literal_text": "Program (T=1 if treated, 0 otherwise) -6.193* [3.713]",
+          "text_position": "Table 7, Row 'Program', Column 'Total labor days'"
+        },
+        {
+          "table_number": "8",
+          "outcome_name": "Total labor days",
+          "outcome_description": "Days of child labor in preceding year",
+          "treatment_arm": "Basic/training intervention",
+          "subgroup": null,
+          "effect_size": -9.256,
+          "p_value": 0.05,
+          "standard_error": 3.941,
+          "confidence_interval": null,
+          "sample_size": 4087,
+          "literal_text": "Basic/training intervention (T1=1 if treated, 0 otherwise) -9.256** [3.941]",
+          "text_position": "Table 8, Row 'Basic/training intervention', Column 'Total labor days'"
+        },
+        {
+          "table_number": "8",
+          "outcome_name": "Total labor days",
+          "outcome_description": "Change in total days of child labor between baseline and follow-up",
+          "treatment_arm": "Basic/training intervention",
+          "subgroup": null,
+          "effect_size": -9.256,
+          "p_value": 0.05,
+          "standard_error": 3.941,
+          "confidence_interval": null,
+          "sample_size": 4087,
+          "literal_text": "-9.256** [3.941]",
+          "text_position": "Table 8, Row 'Basic/training intervention', Column 'Total labor days'"
+        },
+        {
+          "table_number": "8",
+          "outcome_name": "Total labor days",
+          "outcome_description": "Change in total days of child labor between baseline and follow-up",
+          "treatment_arm": "Business grant intervention",
+          "subgroup": null,
+          "effect_size": -0.195,
+          "p_value": null,
+          "standard_error": 4.757,
+          "confidence_interval": null,
+          "sample_size": 4087,
+          "literal_text": "-0.195 [4.757]",
+          "text_position": "Table 8, Row 'Business grant intervention', Column 'Total labor days'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Total labor hours",
+      "outcome_description": "Hours of child labor per week",
+      "num_variations": 4,
+      "tables": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "treatment_arms": [
+        "Basic/training intervention",
+        "Program"
+      ],
+      "subgroups": [
+        "Girls"
+      ],
+      "statistics": [
+        {
+          "table_number": "3",
+          "outcome_name": "Total labor hours",
+          "outcome_description": "Hours of child labor per week",
+          "treatment_arm": "Program",
+          "subgroup": null,
+          "effect_size": -1.789,
+          "p_value": 0.01,
+          "standard_error": 0.401,
+          "confidence_interval": null,
+          "sample_size": 4087,
+          "literal_text": "Program (T=1 if treated, 0 otherwise) -1.789*** [0.401]",
+          "text_position": "Table 3, Row 'Program', Column 'Total labor hours'"
+        },
+        {
+          "table_number": "4",
+          "outcome_name": "Total labor hours",
+          "outcome_description": "Hours of child labor per week",
+          "treatment_arm": "Program",
+          "subgroup": null,
+          "effect_size": -1.789,
+          "p_value": 0.01,
+          "standard_error": 0.401,
+          "confidence_interval": null,
+          "sample_size": 4087,
+          "literal_text": "Program (T=1 if treated, 0 otherwise) -1.789*** [0.401]",
+          "text_position": "Table 4, Row 'Program', Column 'Total labor hours'"
+        },
+        {
+          "table_number": "5",
+          "outcome_name": "Total labor hours",
+          "outcome_description": "Hours of child labor per week",
+          "treatment_arm": "Program",
+          "subgroup": "Girls",
+          "effect_size": -1.417,
+          "p_value": 0.01,
+          "standard_error": 0.519,
+          "confidence_interval": null,
+          "sample_size": null,
+          "literal_text": "Program (T=1 if treated, 0 otherwise) -1.417*** [0.519]",
+          "text_position": "Table 5, Row 'Program', Column 'Total labor hours', Girls subsample"
+        },
+        {
+          "table_number": "6",
+          "outcome_name": "Total labor hours",
+          "outcome_description": "Hours of child labor per week",
+          "treatment_arm": "Basic/training intervention",
+          "subgroup": null,
+          "effect_size": -2.119,
+          "p_value": 0.01,
+          "standard_error": 0.42,
+          "confidence_interval": null,
+          "sample_size": null,
+          "literal_text": "Basic/training intervention (T1=1 if treated, 0 otherwise) -2.119*** [0.420]",
+          "text_position": "Table 6, Row 'Basic/training intervention', Column 'Total labor hours'"
+        }
+      ]
+    }
+  ],
+  "validation": {
+    "total": 28,
+    "complete": 24,
+    "missing_effect_size": 0,
+    "missing_se": 0,
+    "missing_p_value": 4,
+    "missing_literal": 0,
+    "missing_position": 0,
+    "issues": [
+      {
+        "index": 15,
+        "outcome_name": "Skilled labor",
+        "table_number": "6",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 17,
+        "outcome_name": "Skilled labor",
+        "table_number": "8",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 18,
+        "outcome_name": "Skilled labor",
+        "table_number": "8",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 23,
+        "outcome_name": "Total labor days",
+        "table_number": "8",
+        "issues": [
+          "missing_p_value"
+        ]
+      }
+    ]
+  },
+  "summary": {
+    "total_statistics": 28,
+    "unique_outcomes": 5,
+    "completeness_rate": 0.8571428571428571
+  }
+}

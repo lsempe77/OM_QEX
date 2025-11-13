@@ -1,0 +1,195 @@
+{
+  "_key": "XWDVG8KS",
+  "_phase": "phase6_postprocessing",
+  "study_id": "XWDVG8KS",
+  "records": [
+    {
+      "study_id": "XWDVG8KS",
+      "key": "XWDVG8KS",
+      "outcome_name": "Escala de empoderamiento",
+      "outcome_description": "Empowerment scale score (points)",
+      "treatment_arm": "SOF Program",
+      "subgroup": null,
+      "table_number": "13",
+      "effect_size": 4.3,
+      "standard_error": null,
+      "p_value": 0.1,
+      "confidence_interval": null,
+      "sample_size": null,
+      "literal_text": "4.30*",
+      "text_position": "Table 13, Row 'Escala de empoderamiento'"
+    },
+    {
+      "study_id": "XWDVG8KS",
+      "key": "XWDVG8KS",
+      "outcome_name": "Escala roles de género dentro del hogar",
+      "outcome_description": "Gender roles scale score (points)",
+      "treatment_arm": "SOF Program",
+      "subgroup": null,
+      "table_number": "13",
+      "effect_size": 3.73,
+      "standard_error": null,
+      "p_value": 0.1,
+      "confidence_interval": null,
+      "sample_size": null,
+      "literal_text": "3.73*",
+      "text_position": "Table 13, Row 'Escala roles de género dentro del hogar'"
+    },
+    {
+      "study_id": "XWDVG8KS",
+      "key": "XWDVG8KS",
+      "outcome_name": "Horas de trabajo diarias promedio del JH",
+      "outcome_description": "Average daily work hours of household head",
+      "treatment_arm": "SOF Program",
+      "subgroup": null,
+      "table_number": "11",
+      "effect_size": 0.32,
+      "standard_error": 0.44,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": 1005,
+      "literal_text": "0.32 (0.44)",
+      "text_position": "Table 11, Row 'Horas de trabajo diarias promedio del JH'"
+    },
+    {
+      "study_id": "XWDVG8KS",
+      "key": "XWDVG8KS",
+      "outcome_name": "Horas de trabajo diarias promedio del Participante",
+      "outcome_description": "Average daily work hours of participant",
+      "treatment_arm": "SOF Program",
+      "subgroup": null,
+      "table_number": "11",
+      "effect_size": 0.84,
+      "standard_error": 0.43,
+      "p_value": 0.05,
+      "confidence_interval": null,
+      "sample_size": 1005,
+      "literal_text": "0.84** (0.43)",
+      "text_position": "Table 11, Row 'Horas de trabajo diarias promedio del Participante'"
+    },
+    {
+      "study_id": "XWDVG8KS",
+      "key": "XWDVG8KS",
+      "outcome_name": "Pobreza por línea de pobreza",
+      "outcome_description": "Change in poverty status (percentage points)",
+      "treatment_arm": "SOF Program",
+      "subgroup": null,
+      "table_number": "10",
+      "effect_size": -8.6,
+      "standard_error": null,
+      "p_value": 0.1,
+      "confidence_interval": null,
+      "sample_size": null,
+      "literal_text": "-8.6%*",
+      "text_position": "Table 10, Row 'SOF Program', Column 'Pobreza por línea de pobreza'"
+    },
+    {
+      "study_id": "XWDVG8KS",
+      "key": "XWDVG8KS",
+      "outcome_name": "Pobreza por línea de pobreza extrema",
+      "outcome_description": "Change in extreme poverty status (percentage points)",
+      "treatment_arm": "SOF Program",
+      "subgroup": null,
+      "table_number": "10",
+      "effect_size": 8.9,
+      "standard_error": null,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": null,
+      "literal_text": "8.9%",
+      "text_position": "Table 10, Row 'SOF Program', Column 'Pobreza por línea de pobreza extrema'"
+    },
+    {
+      "study_id": "XWDVG8KS",
+      "key": "XWDVG8KS",
+      "outcome_name": "Valor total de los activos del hogar",
+      "outcome_description": "Total household assets value (USD PPP)",
+      "treatment_arm": "SOF Program",
+      "subgroup": null,
+      "table_number": "12",
+      "effect_size": 633.63,
+      "standard_error": 342.1,
+      "p_value": 0.1,
+      "confidence_interval": null,
+      "sample_size": 1005,
+      "literal_text": "633.63* (342.10)",
+      "text_position": "Table 12, Row 'Valor total de los activos del hogar'"
+    },
+    {
+      "study_id": "XWDVG8KS",
+      "key": "XWDVG8KS",
+      "outcome_name": "Valor total de los semovientes del hogar",
+      "outcome_description": "Total livestock value (USD PPP)",
+      "treatment_arm": "SOF Program",
+      "subgroup": null,
+      "table_number": "12",
+      "effect_size": 412.63,
+      "standard_error": 232.43,
+      "p_value": 0.1,
+      "confidence_interval": null,
+      "sample_size": 1005,
+      "literal_text": "412.63* (232.43)",
+      "text_position": "Table 12, Row 'Valor total de los semovientes del hogar'"
+    }
+  ],
+  "validation": {
+    "total": 8,
+    "complete": 3,
+    "missing_effect_size": 0,
+    "missing_se": 4,
+    "missing_p_value": 2,
+    "missing_literal": 0,
+    "missing_position": 0,
+    "issues": [
+      {
+        "index": 0,
+        "outcome_name": "Escala de empoderamiento",
+        "table_number": "13",
+        "issues": [
+          "missing_standard_error"
+        ]
+      },
+      {
+        "index": 1,
+        "outcome_name": "Escala roles de género dentro del hogar",
+        "table_number": "13",
+        "issues": [
+          "missing_standard_error"
+        ]
+      },
+      {
+        "index": 2,
+        "outcome_name": "Horas de trabajo diarias promedio del JH",
+        "table_number": "11",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 4,
+        "outcome_name": "Pobreza por línea de pobreza",
+        "table_number": "10",
+        "issues": [
+          "missing_standard_error"
+        ]
+      },
+      {
+        "index": 5,
+        "outcome_name": "Pobreza por línea de pobreza extrema",
+        "table_number": "10",
+        "issues": [
+          "missing_standard_error",
+          "missing_p_value"
+        ]
+      }
+    ]
+  },
+  "quality_issues": [
+    "4 records missing standard_error"
+  ],
+  "summary": {
+    "total_records": 8,
+    "unique_outcomes": 8,
+    "quality_score": 0.875
+  }
+}

@@ -1,0 +1,76 @@
+# SOLUTION 3: REGEX PATTERN INSTRUCTION
+
+## Approach
+Provide explicit regex-like patterns for the LLM to match against paragraph tables.
+
+## Key Addition to Prompt
+
+Add this section after "### 1. Finding Tables in TEI XML":
+
+---
+
+### CRITICAL: Parsing Paragraph-Embedded Tables
+
+When a table appears in a `<p>` tag as continuous text, use this systematic approach:
+
+**Pattern Recognition for Treatment Rows:**
+
+Look for text patterns matching:
+```
+[Treatment_Name] [Number with optional ***/**/*] ([Number])
+```
+
+**Example from Table 5:**
+```
+Raw text: "Project 0.581*** (0.135) Lump-sum plus training 0.799*** (0.167) Lump-sum only 0.189 (0.159) Training-only 0.710*** (0.0858)"
+
+Patterns found:
+1. "Project 0.581*** (0.135)" → treatment="Project", effect=0.581, SE=0.135
+2. "Lump-sum plus training 0.799*** (0.167)" → treatment="Lump-sum plus training", effect=0.799, SE=0.167
+3. "Lump-sum only 0.189 (0.159)" → treatment="Lump-sum only", effect=0.189, SE=0.159
+4. "Training-only 0.710*** (0.0858)" → treatment="Training-only", effect=0.710, SE=0.0858
+```
+
+**Algorithm:**
+1. Read the entire paragraph containing the table
+2. Identify the table boundary (starts with "Table N:", ends with "Observations" or "Notes")
+3. Extract the data section (between column headers and footer)
+4. Find ALL occurrences of the pattern: `[Text] [Number possibly with stars] ([Number])`
+5. Each match = one outcome row
+6. Continue until no more patterns found
+
+**Common Mistakes to Avoid:**
+- ❌ Stopping after first 1-2 pattern matches
+- ❌ Assuming rows are separated by newlines (they're not in paragraph format)
+- ❌ Missing rows without significance stars (e.g., "Lump-sum only 0.189")
+
+**Verification:**
+After extraction, search the table text again for any unextracted treatment names. If you find any, you missed a row.
+
+---
+
+## Why This Works
+
+**Explicit pattern matching**: Gives the LLM a concrete algorithmic approach rather than relying on implicit understanding.
+
+**Exhaustive search**: "Continue until no more patterns found" prevents premature stopping.
+
+**Error prevention**: Lists common mistakes explicitly.
+
+## Testing Instructions
+
+Same as Solution 2:
+1. Replace/modify prompt
+2. Run extraction on PHRKN65M
+3. Verify 4 Table 5 outcomes
+
+## Trade-offs
+
+**Pros:**
+- Very explicit and algorithmic
+- Works well for models that follow instructions literally
+
+**Cons:**
+- More verbose
+- May not generalize well to unusual table formats
+- Some LLMs might struggle with "regex-like" pattern descriptions

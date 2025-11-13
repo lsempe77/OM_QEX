@@ -1,0 +1,78 @@
+# SOLUTION 2: CHAIN-OF-THOUGHT EXTRACTION
+
+## Approach
+Force the LLM to explicitly list all rows before extracting, using chain-of-thought reasoning.
+
+## Key Addition to Prompt
+
+Add this section right before "## OUTPUT SCHEMA":
+
+---
+
+## EXTRACTION PROCESS (MANDATORY)
+
+For each table, follow this systematic process:
+
+**STEP 1: IDENTIFY ALL ROWS**
+First, list out every row in the table that contains statistical data:
+- Count the total rows
+- List each row name/treatment arm
+
+**STEP 2: EXTRACT EACH ROW**
+Then, for each row identified in Step 1:
+- Extract the outcome data into JSON format
+- Do not skip any row from your Step 1 list
+
+**STEP 3: VERIFY COMPLETENESS**
+Before moving to the next table:
+- Check: Did I extract the same number of outcomes as rows I identified?
+- If not, go back and find the missing rows
+
+**Example Process for Table 5:**
+
+Step 1 - Identify rows:
+```
+Table 5 has 4 treatment rows:
+1. Project
+2. Lump-sum plus training
+3. Lump-sum only
+4. Training-only
+```
+
+Step 2 - Extract each:
+```json
+[
+  {"treatment_arm": "Project", "effect_size": 0.581, ...},
+  {"treatment_arm": "Lump-sum plus training", "effect_size": 0.799, ...},
+  {"treatment_arm": "Lump-sum only", "effect_size": 0.189, ...},
+  {"treatment_arm": "Training-only", "effect_size": 0.710, ...}
+]
+```
+
+Step 3 - Verify:
+✓ 4 rows identified → 4 outcomes extracted → Complete!
+
+---
+
+## Why This Works
+
+**Cognitive forcing function**: By requiring the LLM to explicitly enumerate rows before extracting, we prevent premature stopping.
+
+**Self-verification**: The three-step process includes a built-in check that catches incomplete extractions.
+
+**Explicit counting**: Forces awareness of total row count vs extracted count.
+
+## Testing Instructions
+
+1. Replace current prompt with this version
+2. Run: `python run_pipeline_v2.py --keys PHRKN65M --phases 3`
+3. Check Table 5 extractions: Should have 4 outcomes
+4. Verify with: 
+```powershell
+python -c "import json; data = json.load(open('om_qex_extraction_v2/outputs/phase3/PHRKN65M_phase3.json')); t5 = [o for o in data['outcomes'] if o['table_number']=='5']; print(f'Table 5: {len(t5)} outcomes'); [print(f\"  {o['treatment_arm']}: {o['effect_size']}\") for o in t5]"
+```
+
+## Expected Improvement
+
+Before: 2/4 outcomes (50%)
+After: 4/4 outcomes (100%)

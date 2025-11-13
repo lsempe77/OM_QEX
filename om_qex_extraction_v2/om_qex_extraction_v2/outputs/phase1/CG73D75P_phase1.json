@@ -1,0 +1,129 @@
+{
+  "tables_found": [
+    {
+      "table_number": "1",
+      "title": "Treatment and control group assignment, by barangay",
+      "location": "text_reference section_list_of_tables",
+      "xml_id": "_AHUc39t",
+      "has_structure": false,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "2",
+      "title": "Number of households from baseline survey in endline sample",
+      "location": "text_reference section_list_of_tables",
+      "xml_id": "_VRpCMG9",
+      "has_structure": false,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "3",
+      "title": "Status of unreached households",
+      "location": "text_reference section_list_of_tables",
+      "xml_id": "_GCwcEKh",
+      "has_structure": false,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "4",
+      "title": "Endline sample completion rates disaggregated by barangay by treatment arm",
+      "location": "text_reference section_list_of_tables",
+      "xml_id": "_Ar6Q3T8",
+      "has_structure": false,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "5",
+      "title": "Means of baseline characteristics for endline sample (standard deviations in parentheses)",
+      "location": "text_reference section_list_of_tables",
+      "xml_id": "_wFQ9bEt",
+      "has_structure": false,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "6",
+      "title": "Program livelihood asset chosen by arm",
+      "location": "text_reference section_list_of_tables",
+      "xml_id": "_HgQAdNu",
+      "has_structure": false,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "7",
+      "title": "Reported reasons for opting out of program",
+      "location": "text_reference section_list_of_tables",
+      "xml_id": "_GKFPsUX",
+      "has_structure": false,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "8",
+      "title": "Overall coaching session attendance rates by treatment arm",
+      "location": "text_reference section_list_of_tables",
+      "xml_id": "_8QPcSHU",
+      "has_structure": false,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "9",
+      "title": "Program livelihood by treatment group",
+      "location": "text_reference section_list_of_tables",
+      "xml_id": "_8QPcSHU",
+      "has_structure": false,
+      "confidence": 1.0
+    },
+    {
+      "table_number": "10",
+      "title": "Treatment effects on key welfare outcomes",
+      "location": "text_reference section_list_of_tables",
+      "xml_id": "_rQvShcE",
+      "has_structure": false,
+      "confidence": 1.0
+    }
+  ],
+  "total_tables_found": 30,
+  "table_numbers": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30"
+  ],
+  "warnings": [
+    "Most tables appear as text references rather than structured XML",
+    "Some tables are referenced multiple times in different sections"
+  ],
+  "summary": {
+    "structured_tables": 0,
+    "paragraph_tables": 0,
+    "text_references_only": 30
+  },
+  "_key": "CG73D75P",
+  "_phase": "phase1_table_discovery",
+  "_raw_response_length": 3583
+}

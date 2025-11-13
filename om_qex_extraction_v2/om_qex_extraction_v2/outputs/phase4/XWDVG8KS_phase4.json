@@ -1,0 +1,238 @@
+{
+  "_key": "XWDVG8KS",
+  "_phase": "phase4_outcome_mapping",
+  "outcome_groups": [
+    {
+      "outcome_name": "Escala de empoderamiento",
+      "outcome_description": "Empowerment scale score (points)",
+      "num_variations": 1,
+      "tables": [
+        "13"
+      ],
+      "treatment_arms": [
+        "SOF Program"
+      ],
+      "subgroups": [],
+      "statistics": [
+        {
+          "table_number": "13",
+          "outcome_name": "Escala de empoderamiento",
+          "outcome_description": "Empowerment scale score (points)",
+          "treatment_arm": "SOF Program",
+          "subgroup": null,
+          "effect_size": 4.3,
+          "p_value": 0.1,
+          "standard_error": null,
+          "confidence_interval": null,
+          "sample_size": null,
+          "literal_text": "4.30*",
+          "text_position": "Table 13, Row 'Escala de empoderamiento'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Escala roles de g\u00e9nero dentro del hogar",
+      "outcome_description": "Gender roles scale score (points)",
+      "num_variations": 1,
+      "tables": [
+        "13"
+      ],
+      "treatment_arms": [
+        "SOF Program"
+      ],
+      "subgroups": [],
+      "statistics": [
+        {
+          "table_number": "13",
+          "outcome_name": "Escala roles de g\u00e9nero dentro del hogar",
+          "outcome_description": "Gender roles scale score (points)",
+          "treatment_arm": "SOF Program",
+          "subgroup": null,
+          "effect_size": 3.73,
+          "p_value": 0.1,
+          "standard_error": null,
+          "confidence_interval": null,
+          "sample_size": null,
+          "literal_text": "3.73*",
+          "text_position": "Table 13, Row 'Escala roles de g\u00e9nero dentro del hogar'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Horas de trabajo diarias promedio del JH",
+      "outcome_description": "Average daily work hours of household head",
+      "num_variations": 1,
+      "tables": [
+        "11"
+      ],
+      "treatment_arms": [
+        "SOF Program"
+      ],
+      "subgroups": [],
+      "statistics": [
+        {
+          "table_number": "11",
+          "outcome_name": "Horas de trabajo diarias promedio del JH",
+          "outcome_description": "Average daily work hours of household head",
+          "treatment_arm": "SOF Program",
+          "subgroup": null,
+          "effect_size": 0.32,
+          "p_value": null,
+          "standard_error": 0.44,
+          "confidence_interval": null,
+          "sample_size": 1005,
+          "literal_text": "0.32 (0.44)",
+          "text_position": "Table 11, Row 'Horas de trabajo diarias promedio del JH'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Horas de trabajo diarias promedio del Participante",
+      "outcome_description": "Average daily work hours of participant",
+      "num_variations": 1,
+      "tables": [
+        "11"
+      ],
+      "treatment_arms": [
+        "SOF Program"
+      ],
+      "subgroups": [],
+      "statistics": [
+        {
+          "table_number": "11",
+          "outcome_name": "Horas de trabajo diarias promedio del Participante",
+          "outcome_description": "Average daily work hours of participant",
+          "treatment_arm": "SOF Program",
+          "subgroup": null,
+          "effect_size": 0.84,
+          "p_value": 0.05,
+          "standard_error": 0.43,
+          "confidence_interval": null,
+          "sample_size": 1005,
+          "literal_text": "0.84** (0.43)",
+          "text_position": "Table 11, Row 'Horas de trabajo diarias promedio del Participante'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Pobreza por l\u00ednea de pobreza",
+      "outcome_description": "Change in poverty status (percentage points)",
+      "num_variations": 1,
+      "tables": [
+        "10"
+      ],
+      "treatment_arms": [
+        "SOF Program"
+      ],
+      "subgroups": [],
+      "statistics": [
+        {
+          "table_number": "10",
+          "outcome_name": "Pobreza por l\u00ednea de pobreza",
+          "outcome_description": "Change in poverty status (percentage points)",
+          "treatment_arm": "SOF Program",
+          "subgroup": null,
+          "effect_size": -8.6,
+          "p_value": 0.1,
+          "standard_error": null,
+          "confidence_interval": null,
+          "sample_size": null,
+          "literal_text": "-8.6%*",
+          "text_position": "Table 10, Row 'SOF Program', Column 'Pobreza por l\u00ednea de pobreza'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Pobreza por l\u00ednea de pobreza extrema",
+      "outcome_description": "Change in extreme poverty status (percentage points)",
+      "num_variations": 1,
+      "tables": [
+        "10"
+      ],
+      "treatment_arms": [
+        "SOF Program"
+      ],
+      "subgroups": [],
+      "statistics": [
+        {
+          "table_number": "10",
+          "outcome_name": "Pobreza por l\u00ednea de pobreza extrema",
+          "outcome_description": "Change in extreme poverty status (percentage points)",
+          "treatment_arm": "SOF Program",
+          "subgroup": null,
+          "effect_size": 8.9,
+          "p_value": null,
+          "standard_error": null,
+          "confidence_interval": null,
+          "sample_size": null,
+          "literal_text": "8.9%",
+          "text_position": "Table 10, Row 'SOF Program', Column 'Pobreza por l\u00ednea de pobreza extrema'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Valor total de los activos del hogar",
+      "outcome_description": "Total household assets value (USD PPP)",
+      "num_variations": 1,
+      "tables": [
+        "12"
+      ],
+      "treatment_arms": [
+        "SOF Program"
+      ],
+      "subgroups": [],
+      "statistics": [
+        {
+          "table_number": "12",
+          "outcome_name": "Valor total de los activos del hogar",
+          "outcome_description": "Total household assets value (USD PPP)",
+          "treatment_arm": "SOF Program",
+          "subgroup": null,
+          "effect_size": 633.63,
+          "p_value": 0.1,
+          "standard_error": 342.1,
+          "confidence_interval": null,
+          "sample_size": 1005,
+          "literal_text": "633.63* (342.10)",
+          "text_position": "Table 12, Row 'Valor total de los activos del hogar'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Valor total de los semovientes del hogar",
+      "outcome_description": "Total livestock value (USD PPP)",
+      "num_variations": 1,
+      "tables": [
+        "12"
+      ],
+      "treatment_arms": [
+        "SOF Program"
+      ],
+      "subgroups": [],
+      "statistics": [
+        {
+          "table_number": "12",
+          "outcome_name": "Valor total de los semovientes del hogar",
+          "outcome_description": "Total livestock value (USD PPP)",
+          "treatment_arm": "SOF Program",
+          "subgroup": null,
+          "effect_size": 412.63,
+          "p_value": 0.1,
+          "standard_error": 232.43,
+          "confidence_interval": null,
+          "sample_size": 1005,
+          "literal_text": "412.63* (232.43)",
+          "text_position": "Table 12, Row 'Valor total de los semovientes del hogar'"
+        }
+      ]
+    }
+  ],
+  "total_statistics": 8,
+  "unique_outcomes": 8,
+  "summary": {
+    "total_statistics": 8,
+    "unique_outcomes": 8,
+    "multi_arm_outcomes": 0,
+    "tables_with_outcomes": 4
+  }
+}

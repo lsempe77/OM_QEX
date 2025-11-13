@@ -1,0 +1,834 @@
+{
+  "_key": "K2ZJ4QNZ",
+  "_phase": "phase5_qex_validation",
+  "outcome_groups": [
+    {
+      "outcome_name": "Account balances",
+      "outcome_description": "Total savings account balances in USD",
+      "num_variations": 1,
+      "tables": [
+        "7"
+      ],
+      "treatment_arms": [
+        "SOUP match"
+      ],
+      "subgroups": [],
+      "statistics": [
+        {
+          "table_number": "7",
+          "outcome_name": "Account balances",
+          "outcome_description": "Total savings account balances in USD",
+          "treatment_arm": "SOUP match",
+          "subgroup": null,
+          "effect_size": -4.84,
+          "p_value": null,
+          "standard_error": 4.93,
+          "confidence_interval": null,
+          "sample_size": 1063,
+          "literal_text": "SOUP match | -4.84 (4.93)",
+          "text_position": "Table 7, Row 'SOUP match', Column '(3) balances (USD)'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Animal revenue",
+      "outcome_description": "Monthly animal revenue in USD",
+      "num_variations": 1,
+      "tables": [
+        "3"
+      ],
+      "treatment_arms": [
+        "SOUP"
+      ],
+      "subgroups": [],
+      "statistics": [
+        {
+          "table_number": "3",
+          "outcome_name": "Animal revenue",
+          "outcome_description": "Monthly animal revenue in USD",
+          "treatment_arm": "SOUP",
+          "subgroup": null,
+          "effect_size": 0.274,
+          "p_value": 0.753,
+          "standard_error": 0.873,
+          "confidence_interval": null,
+          "sample_size": 3781,
+          "literal_text": "SOUP | 0.274 (0.873)",
+          "text_position": "Table 3, Row 'SOUP', Column '(4) animal revenue, monthly (USD)'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Asset value index",
+      "outcome_description": "Standardized index of asset values centered around baseline mean",
+      "num_variations": 6,
+      "tables": [
+        "1",
+        "2"
+      ],
+      "treatment_arms": [
+        "GUP no savings",
+        "GUP savings",
+        "SOUP"
+      ],
+      "subgroups": [],
+      "statistics": [
+        {
+          "table_number": "1",
+          "outcome_name": "Asset value index",
+          "outcome_description": "Standardized index of asset values centered around baseline mean",
+          "treatment_arm": "SOUP",
+          "subgroup": null,
+          "effect_size": 0.112,
+          "p_value": 0.097,
+          "standard_error": 0.068,
+          "confidence_interval": null,
+          "sample_size": 3801,
+          "literal_text": "SOUP | 0.112 (0.068)",
+          "text_position": "Table 1, Row 'SOUP', Column '(1) asset value index'"
+        },
+        {
+          "table_number": "1",
+          "outcome_name": "Asset value index",
+          "outcome_description": "Standardized index of asset values centered around baseline mean",
+          "treatment_arm": "GUP no savings",
+          "subgroup": null,
+          "effect_size": 0.228,
+          "p_value": 0.002,
+          "standard_error": 0.072,
+          "confidence_interval": null,
+          "sample_size": 3801,
+          "literal_text": "GUP no sav. | 0.228*** (0.072)",
+          "text_position": "Table 1, Row 'GUP no sav.', Column '(1) asset value index'"
+        },
+        {
+          "table_number": "1",
+          "outcome_name": "Asset value index",
+          "outcome_description": "Standardized index of asset values centered around baseline mean",
+          "treatment_arm": "GUP savings",
+          "subgroup": null,
+          "effect_size": 0.11,
+          "p_value": 0.095,
+          "standard_error": 0.066,
+          "confidence_interval": null,
+          "sample_size": 3801,
+          "literal_text": "GUP sav. | 0.110* (0.066)",
+          "text_position": "Table 1, Row 'GUP sav.', Column '(1) asset value index'"
+        },
+        {
+          "table_number": "2",
+          "outcome_name": "Asset value index",
+          "outcome_description": "Standardized index of asset values centered around baseline mean",
+          "treatment_arm": "SOUP",
+          "subgroup": null,
+          "effect_size": 0.029,
+          "p_value": 0.701,
+          "standard_error": 0.076,
+          "confidence_interval": null,
+          "sample_size": 3781,
+          "literal_text": "SOUP | 0.029 (0.076)",
+          "text_position": "Table 2, Row 'SOUP', Column '(1) asset value index'"
+        },
+        {
+          "table_number": "2",
+          "outcome_name": "Asset value index",
+          "outcome_description": "Standardized index of asset values centered around baseline mean",
+          "treatment_arm": "GUP no savings",
+          "subgroup": null,
+          "effect_size": 0.28,
+          "p_value": 0.0,
+          "standard_error": 0.078,
+          "confidence_interval": null,
+          "sample_size": 3781,
+          "literal_text": "GUP no sav. | 0.280*** (0.078)",
+          "text_position": "Table 2, Row 'GUP no sav.', Column '(1) asset value index'"
+        },
+        {
+          "table_number": "2",
+          "outcome_name": "Asset value index",
+          "outcome_description": "Standardized index of asset values centered around baseline mean",
+          "treatment_arm": "GUP savings",
+          "subgroup": null,
+          "effect_size": 0.318,
+          "p_value": 0.0,
+          "standard_error": 0.082,
+          "confidence_interval": null,
+          "sample_size": 3781,
+          "literal_text": "GUP sav. | 0.318*** (0.082)",
+          "text_position": "Table 2, Row 'GUP sav.', Column '(1) asset value index'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Business income",
+      "outcome_description": "Monthly business income in USD",
+      "num_variations": 1,
+      "tables": [
+        "3"
+      ],
+      "treatment_arms": [
+        "SOUP"
+      ],
+      "subgroups": [],
+      "statistics": [
+        {
+          "table_number": "3",
+          "outcome_name": "Business income",
+          "outcome_description": "Monthly business income in USD",
+          "treatment_arm": "SOUP",
+          "subgroup": null,
+          "effect_size": -1.716,
+          "p_value": 0.236,
+          "standard_error": 1.447,
+          "confidence_interval": null,
+          "sample_size": 3604,
+          "literal_text": "SOUP | -1.716 (1.447)",
+          "text_position": "Table 3, Row 'SOUP', Column '(2) business income, monthly (USD)'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Consumption index",
+      "outcome_description": "Standardized index of monthly per capita consumption centered around baseline mean",
+      "num_variations": 6,
+      "tables": [
+        "1",
+        "2"
+      ],
+      "treatment_arms": [
+        "GUP no savings",
+        "GUP savings",
+        "SOUP"
+      ],
+      "subgroups": [],
+      "statistics": [
+        {
+          "table_number": "1",
+          "outcome_name": "Consumption index",
+          "outcome_description": "Standardized index of monthly per capita consumption centered around baseline mean",
+          "treatment_arm": "SOUP",
+          "subgroup": null,
+          "effect_size": 0.138,
+          "p_value": 0.001,
+          "standard_error": 0.043,
+          "confidence_interval": null,
+          "sample_size": 3707,
+          "literal_text": "SOUP | 0.138*** (0.043)",
+          "text_position": "Table 1, Row 'SOUP', Column '(2) consumption index'"
+        },
+        {
+          "table_number": "1",
+          "outcome_name": "Consumption index",
+          "outcome_description": "Standardized index of monthly per capita consumption centered around baseline mean",
+          "treatment_arm": "GUP no savings",
+          "subgroup": null,
+          "effect_size": 0.141,
+          "p_value": 0.006,
+          "standard_error": 0.051,
+          "confidence_interval": null,
+          "sample_size": 3707,
+          "literal_text": "GUP no sav. | 0.141*** (0.051)",
+          "text_position": "Table 1, Row 'GUP no sav.', Column '(2) consumption index'"
+        },
+        {
+          "table_number": "1",
+          "outcome_name": "Consumption index",
+          "outcome_description": "Standardized index of monthly per capita consumption centered around baseline mean",
+          "treatment_arm": "GUP savings",
+          "subgroup": null,
+          "effect_size": 0.084,
+          "p_value": 0.091,
+          "standard_error": 0.05,
+          "confidence_interval": null,
+          "sample_size": 3707,
+          "literal_text": "GUP sav. | 0.084* (0.050)",
+          "text_position": "Table 1, Row 'GUP sav.', Column '(2) consumption index'"
+        },
+        {
+          "table_number": "2",
+          "outcome_name": "Consumption index",
+          "outcome_description": "Standardized index of monthly per capita consumption centered around baseline mean",
+          "treatment_arm": "SOUP",
+          "subgroup": null,
+          "effect_size": -0.013,
+          "p_value": 0.7,
+          "standard_error": 0.034,
+          "confidence_interval": null,
+          "sample_size": 3597,
+          "literal_text": "SOUP | -0.013 (0.034)",
+          "text_position": "Table 2, Row 'SOUP', Column '(2) consumption index'"
+        },
+        {
+          "table_number": "2",
+          "outcome_name": "Consumption index",
+          "outcome_description": "Standardized index of monthly per capita consumption centered around baseline mean",
+          "treatment_arm": "GUP no savings",
+          "subgroup": null,
+          "effect_size": 0.124,
+          "p_value": 0.007,
+          "standard_error": 0.046,
+          "confidence_interval": null,
+          "sample_size": 3597,
+          "literal_text": "GUP no sav. | 0.124*** (0.046)",
+          "text_position": "Table 2, Row 'GUP no sav.', Column '(2) consumption index'"
+        },
+        {
+          "table_number": "2",
+          "outcome_name": "Consumption index",
+          "outcome_description": "Standardized index of monthly per capita consumption centered around baseline mean",
+          "treatment_arm": "GUP savings",
+          "subgroup": null,
+          "effect_size": 0.05,
+          "p_value": 0.169,
+          "standard_error": 0.036,
+          "confidence_interval": null,
+          "sample_size": 3597,
+          "literal_text": "GUP sav. | 0.050 (0.036)",
+          "text_position": "Table 2, Row 'GUP sav.', Column '(2) consumption index'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Cow value",
+      "outcome_description": "Value of cows owned in USD",
+      "num_variations": 1,
+      "tables": [
+        "4"
+      ],
+      "treatment_arms": [
+        "GUP no savings"
+      ],
+      "subgroups": [],
+      "statistics": [
+        {
+          "table_number": "4",
+          "outcome_name": "Cow value",
+          "outcome_description": "Value of cows owned in USD",
+          "treatment_arm": "GUP no savings",
+          "subgroup": null,
+          "effect_size": 12.975,
+          "p_value": 0.317,
+          "standard_error": 12.953,
+          "confidence_interval": null,
+          "sample_size": 8217,
+          "literal_text": "GUP no sav. | 12.975 (12.953)",
+          "text_position": "Table 4, Row 'GUP no sav.', Column '(5) cow value (USD)'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Crop income",
+      "outcome_description": "Monthly crop income in USD",
+      "num_variations": 1,
+      "tables": [
+        "3"
+      ],
+      "treatment_arms": [
+        "SOUP"
+      ],
+      "subgroups": [],
+      "statistics": [
+        {
+          "table_number": "3",
+          "outcome_name": "Crop income",
+          "outcome_description": "Monthly crop income in USD",
+          "treatment_arm": "SOUP",
+          "subgroup": null,
+          "effect_size": -2.281,
+          "p_value": 0.409,
+          "standard_error": 2.762,
+          "confidence_interval": null,
+          "sample_size": 3698,
+          "literal_text": "SOUP | -2.281 (2.762)",
+          "text_position": "Table 3, Row 'SOUP', Column '(3) crop income, monthly (USD)'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Cumulative deposits",
+      "outcome_description": "Total cumulative deposits in USD",
+      "num_variations": 1,
+      "tables": [
+        "7"
+      ],
+      "treatment_arms": [
+        "SOUP match"
+      ],
+      "subgroups": [],
+      "statistics": [
+        {
+          "table_number": "7",
+          "outcome_name": "Cumulative deposits",
+          "outcome_description": "Total cumulative deposits in USD",
+          "treatment_arm": "SOUP match",
+          "subgroup": null,
+          "effect_size": 7.7,
+          "p_value": null,
+          "standard_error": 5.89,
+          "confidence_interval": null,
+          "sample_size": 1064,
+          "literal_text": "SOUP match | 7.70 (5.89)",
+          "text_position": "Table 7, Row 'SOUP match', Column '(1) cum. deposits (USD)'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Financial inclusion index",
+      "outcome_description": "Standardized index of loans and savings balances centered around baseline mean",
+      "num_variations": 3,
+      "tables": [
+        "1"
+      ],
+      "treatment_arms": [
+        "GUP no savings",
+        "GUP savings",
+        "SOUP"
+      ],
+      "subgroups": [],
+      "statistics": [
+        {
+          "table_number": "1",
+          "outcome_name": "Financial inclusion index",
+          "outcome_description": "Standardized index of loans and savings balances centered around baseline mean",
+          "treatment_arm": "SOUP",
+          "subgroup": null,
+          "effect_size": 0.497,
+          "p_value": 0.0,
+          "standard_error": 0.093,
+          "confidence_interval": null,
+          "sample_size": 3708,
+          "literal_text": "SOUP | 0.497*** (0.093)",
+          "text_position": "Table 1, Row 'SOUP', Column '(3) financial inclusion index'"
+        },
+        {
+          "table_number": "1",
+          "outcome_name": "Financial inclusion index",
+          "outcome_description": "Standardized index of loans and savings balances centered around baseline mean",
+          "treatment_arm": "GUP no savings",
+          "subgroup": null,
+          "effect_size": 0.172,
+          "p_value": 0.08,
+          "standard_error": 0.098,
+          "confidence_interval": null,
+          "sample_size": 3708,
+          "literal_text": "GUP no sav. | 0.172* (0.098)",
+          "text_position": "Table 1, Row 'GUP no sav.', Column '(3) financial inclusion index'"
+        },
+        {
+          "table_number": "1",
+          "outcome_name": "Financial inclusion index",
+          "outcome_description": "Standardized index of loans and savings balances centered around baseline mean",
+          "treatment_arm": "GUP savings",
+          "subgroup": null,
+          "effect_size": 1.247,
+          "p_value": 0.0,
+          "standard_error": 0.142,
+          "confidence_interval": null,
+          "sample_size": 3708,
+          "literal_text": "GUP sav. | 1.247*** (0.142)",
+          "text_position": "Table 1, Row 'GUP sav.', Column '(3) financial inclusion index'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Food security index",
+      "outcome_description": "Standardized index of food security measures centered around baseline mean",
+      "num_variations": 3,
+      "tables": [
+        "1"
+      ],
+      "treatment_arms": [
+        "GUP no savings",
+        "GUP savings",
+        "SOUP"
+      ],
+      "subgroups": [],
+      "statistics": [
+        {
+          "table_number": "1",
+          "outcome_name": "Food security index",
+          "outcome_description": "Standardized index of food security measures centered around baseline mean",
+          "treatment_arm": "SOUP",
+          "subgroup": null,
+          "effect_size": 0.056,
+          "p_value": 0.185,
+          "standard_error": 0.043,
+          "confidence_interval": null,
+          "sample_size": 3708,
+          "literal_text": "SOUP | 0.056 (0.043)",
+          "text_position": "Table 1, Row 'SOUP', Column '(4) food security index'"
+        },
+        {
+          "table_number": "1",
+          "outcome_name": "Food security index",
+          "outcome_description": "Standardized index of food security measures centered around baseline mean",
+          "treatment_arm": "GUP no savings",
+          "subgroup": null,
+          "effect_size": 0.104,
+          "p_value": 0.035,
+          "standard_error": 0.049,
+          "confidence_interval": null,
+          "sample_size": 3708,
+          "literal_text": "GUP no sav. | 0.104** (0.049)",
+          "text_position": "Table 1, Row 'GUP no sav.', Column '(4) food security index'"
+        },
+        {
+          "table_number": "1",
+          "outcome_name": "Food security index",
+          "outcome_description": "Standardized index of food security measures centered around baseline mean",
+          "treatment_arm": "GUP savings",
+          "subgroup": null,
+          "effect_size": -0.017,
+          "p_value": 0.722,
+          "standard_error": 0.047,
+          "confidence_interval": null,
+          "sample_size": 3708,
+          "literal_text": "GUP sav. | -0.017 (0.047)",
+          "text_position": "Table 1, Row 'GUP sav.', Column '(4) food security index'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Fowl value",
+      "outcome_description": "Value of fowl owned in USD",
+      "num_variations": 1,
+      "tables": [
+        "4"
+      ],
+      "treatment_arms": [
+        "GUP no savings"
+      ],
+      "subgroups": [],
+      "statistics": [
+        {
+          "table_number": "4",
+          "outcome_name": "Fowl value",
+          "outcome_description": "Value of fowl owned in USD",
+          "treatment_arm": "GUP no savings",
+          "subgroup": null,
+          "effect_size": 12.527,
+          "p_value": 0.001,
+          "standard_error": 3.722,
+          "confidence_interval": null,
+          "sample_size": 8222,
+          "literal_text": "GUP no sav. | 12.527*** (3.722)",
+          "text_position": "Table 4, Row 'GUP no sav.', Column '(2) fowl value (USD)'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Goat value",
+      "outcome_description": "Value of goats owned in USD",
+      "num_variations": 1,
+      "tables": [
+        "4"
+      ],
+      "treatment_arms": [
+        "GUP no savings"
+      ],
+      "subgroups": [],
+      "statistics": [
+        {
+          "table_number": "4",
+          "outcome_name": "Goat value",
+          "outcome_description": "Value of goats owned in USD",
+          "treatment_arm": "GUP no savings",
+          "subgroup": null,
+          "effect_size": 71.511,
+          "p_value": 0.001,
+          "standard_error": 7.984,
+          "confidence_interval": null,
+          "sample_size": 8217,
+          "literal_text": "GUP no sav. | 71.511*** (7.984)",
+          "text_position": "Table 4, Row 'GUP no sav.', Column '(1) goat value (USD)'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Household has business",
+      "outcome_description": "Whether household operates a business (0/1)",
+      "num_variations": 1,
+      "tables": [
+        "3"
+      ],
+      "treatment_arms": [
+        "SOUP"
+      ],
+      "subgroups": [],
+      "statistics": [
+        {
+          "table_number": "3",
+          "outcome_name": "Household has business",
+          "outcome_description": "Whether household operates a business (0/1)",
+          "treatment_arm": "SOUP",
+          "subgroup": null,
+          "effect_size": -0.023,
+          "p_value": 0.419,
+          "standard_error": 0.028,
+          "confidence_interval": null,
+          "sample_size": 3605,
+          "literal_text": "SOUP | -0.023 (0.028)",
+          "text_position": "Table 3, Row 'SOUP', Column '(1) household has business'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Income index",
+      "outcome_description": "Standardized index of income measures centered around baseline mean",
+      "num_variations": 3,
+      "tables": [
+        "1"
+      ],
+      "treatment_arms": [
+        "GUP no savings",
+        "GUP savings",
+        "SOUP"
+      ],
+      "subgroups": [],
+      "statistics": [
+        {
+          "table_number": "1",
+          "outcome_name": "Income index",
+          "outcome_description": "Standardized index of income measures centered around baseline mean",
+          "treatment_arm": "SOUP",
+          "subgroup": null,
+          "effect_size": 0.064,
+          "p_value": 0.2,
+          "standard_error": 0.05,
+          "confidence_interval": null,
+          "sample_size": 3800,
+          "literal_text": "SOUP | 0.064 (0.050)",
+          "text_position": "Table 1, Row 'SOUP', Column '(5) income index'"
+        },
+        {
+          "table_number": "1",
+          "outcome_name": "Income index",
+          "outcome_description": "Standardized index of income measures centered around baseline mean",
+          "treatment_arm": "GUP no savings",
+          "subgroup": null,
+          "effect_size": 0.138,
+          "p_value": 0.011,
+          "standard_error": 0.054,
+          "confidence_interval": null,
+          "sample_size": 3800,
+          "literal_text": "GUP no sav. | 0.138** (0.054)",
+          "text_position": "Table 1, Row 'GUP no sav.', Column '(5) income index'"
+        },
+        {
+          "table_number": "1",
+          "outcome_name": "Income index",
+          "outcome_description": "Standardized index of income measures centered around baseline mean",
+          "treatment_arm": "GUP savings",
+          "subgroup": null,
+          "effect_size": 0.206,
+          "p_value": 0.0,
+          "standard_error": 0.056,
+          "confidence_interval": null,
+          "sample_size": 3800,
+          "literal_text": "GUP sav. | 0.206*** (0.056)",
+          "text_position": "Table 1, Row 'GUP sav.', Column '(5) income index'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Pig value",
+      "outcome_description": "Value of pigs owned in USD",
+      "num_variations": 1,
+      "tables": [
+        "4"
+      ],
+      "treatment_arms": [
+        "GUP no savings"
+      ],
+      "subgroups": [],
+      "statistics": [
+        {
+          "table_number": "4",
+          "outcome_name": "Pig value",
+          "outcome_description": "Value of pigs owned in USD",
+          "treatment_arm": "GUP no savings",
+          "subgroup": null,
+          "effect_size": 4.55,
+          "p_value": 0.023,
+          "standard_error": 2.002,
+          "confidence_interval": null,
+          "sample_size": 8217,
+          "literal_text": "GUP no sav. | 4.550** (2.002)",
+          "text_position": "Table 4, Row 'GUP no sav.', Column '(3) pig value (USD)'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Self-reported balances at three years",
+      "outcome_description": "Self-reported savings balances at three years in USD",
+      "num_variations": 1,
+      "tables": [
+        "7"
+      ],
+      "treatment_arms": [
+        "SOUP match"
+      ],
+      "subgroups": [],
+      "statistics": [
+        {
+          "table_number": "7",
+          "outcome_name": "Self-reported balances at three years",
+          "outcome_description": "Self-reported savings balances at three years in USD",
+          "treatment_arm": "SOUP match",
+          "subgroup": null,
+          "effect_size": 3.01,
+          "p_value": 0.05,
+          "standard_error": 1.38,
+          "confidence_interval": null,
+          "sample_size": 3597,
+          "literal_text": "SOUP match | 3.01** (1.38)",
+          "text_position": "Table 7, Row 'SOUP match', Column '(5) self-reported balances three-year (USD)'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Self-reported balances at two years",
+      "outcome_description": "Self-reported savings balances at two years in USD",
+      "num_variations": 1,
+      "tables": [
+        "7"
+      ],
+      "treatment_arms": [
+        "SOUP match"
+      ],
+      "subgroups": [],
+      "statistics": [
+        {
+          "table_number": "7",
+          "outcome_name": "Self-reported balances at two years",
+          "outcome_description": "Self-reported savings balances at two years in USD",
+          "treatment_arm": "SOUP match",
+          "subgroup": null,
+          "effect_size": 13.96,
+          "p_value": 0.01,
+          "standard_error": 2.7,
+          "confidence_interval": null,
+          "sample_size": 3703,
+          "literal_text": "SOUP match | 13.96*** (2.70)",
+          "text_position": "Table 7, Row 'SOUP match', Column '(4) self-reported balances two-year (USD)'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Sheep value",
+      "outcome_description": "Value of sheep owned in USD",
+      "num_variations": 1,
+      "tables": [
+        "4"
+      ],
+      "treatment_arms": [
+        "GUP no savings"
+      ],
+      "subgroups": [],
+      "statistics": [
+        {
+          "table_number": "4",
+          "outcome_name": "Sheep value",
+          "outcome_description": "Value of sheep owned in USD",
+          "treatment_arm": "GUP no savings",
+          "subgroup": null,
+          "effect_size": 1.377,
+          "p_value": 0.878,
+          "standard_error": 9.006,
+          "confidence_interval": null,
+          "sample_size": 8217,
+          "literal_text": "GUP no sav. | 1.377 (9.006)",
+          "text_position": "Table 4, Row 'GUP no sav.', Column '(4) sheep value (USD)'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Wage income",
+      "outcome_description": "Monthly wage income in USD",
+      "num_variations": 1,
+      "tables": [
+        "3"
+      ],
+      "treatment_arms": [
+        "SOUP"
+      ],
+      "subgroups": [],
+      "statistics": [
+        {
+          "table_number": "3",
+          "outcome_name": "Wage income",
+          "outcome_description": "Monthly wage income in USD",
+          "treatment_arm": "SOUP",
+          "subgroup": null,
+          "effect_size": -0.384,
+          "p_value": 0.361,
+          "standard_error": 0.42,
+          "confidence_interval": null,
+          "sample_size": 3604,
+          "literal_text": "SOUP | -0.384 (0.420)",
+          "text_position": "Table 3, Row 'SOUP', Column '(5) wage income, monthly (USD)'"
+        }
+      ]
+    },
+    {
+      "outcome_name": "Withdrawals",
+      "outcome_description": "Total withdrawals in USD",
+      "num_variations": 1,
+      "tables": [
+        "7"
+      ],
+      "treatment_arms": [
+        "SOUP match"
+      ],
+      "subgroups": [],
+      "statistics": [
+        {
+          "table_number": "7",
+          "outcome_name": "Withdrawals",
+          "outcome_description": "Total withdrawals in USD",
+          "treatment_arm": "SOUP match",
+          "subgroup": null,
+          "effect_size": 12.53,
+          "p_value": 0.01,
+          "standard_error": 3.78,
+          "confidence_interval": null,
+          "sample_size": 1063,
+          "literal_text": "SOUP match | 12.53*** (3.78)",
+          "text_position": "Table 7, Row 'SOUP match', Column '(2) withdrawals (USD)'"
+        }
+      ]
+    }
+  ],
+  "validation": {
+    "total": 36,
+    "complete": 34,
+    "missing_effect_size": 0,
+    "missing_se": 0,
+    "missing_p_value": 2,
+    "missing_literal": 0,
+    "missing_position": 0,
+    "issues": [
+      {
+        "index": 0,
+        "outcome_name": "Account balances",
+        "table_number": "7",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 17,
+        "outcome_name": "Cumulative deposits",
+        "table_number": "7",
+        "issues": [
+          "missing_p_value"
+        ]
+      }
+    ]
+  },
+  "summary": {
+    "total_statistics": 36,
+    "unique_outcomes": 20,
+    "completeness_rate": 0.9444444444444444
+  }
+}

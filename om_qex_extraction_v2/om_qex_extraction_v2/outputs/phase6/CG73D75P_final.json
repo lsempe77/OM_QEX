@@ -1,0 +1,302 @@
+{
+  "_key": "CG73D75P",
+  "_phase": "phase6_postprocessing",
+  "study_id": "CG73D75P",
+  "records": [
+    {
+      "study_id": "CG73D75P",
+      "key": "CG73D75P",
+      "outcome_name": "Food security index",
+      "outcome_description": "Standardized food security index score",
+      "treatment_arm": "T1: Group livelihood/Group coaching",
+      "subgroup": null,
+      "table_number": "10",
+      "effect_size": 0.2,
+      "standard_error": 0.05,
+      "p_value": 0.01,
+      "confidence_interval": null,
+      "sample_size": 2288,
+      "literal_text": "T1: Grp LH / Grp C | 0.20*** (0.05)",
+      "text_position": "Table 10, Row 'T1: Grp LH / Grp C', Column 'Food security index'"
+    },
+    {
+      "study_id": "CG73D75P",
+      "key": "CG73D75P",
+      "outcome_name": "Food security index",
+      "outcome_description": "Standardized food security index score",
+      "treatment_arm": "T2: Individual livelihood/Group coaching",
+      "subgroup": null,
+      "table_number": "10",
+      "effect_size": 0.26,
+      "standard_error": 0.05,
+      "p_value": 0.01,
+      "confidence_interval": null,
+      "sample_size": 2288,
+      "literal_text": "T2: Ind LH / Grp C | 0.26*** (0.05)",
+      "text_position": "Table 10, Row 'T2: Ind LH / Grp C', Column 'Food security index'"
+    },
+    {
+      "study_id": "CG73D75P",
+      "key": "CG73D75P",
+      "outcome_name": "Food security index",
+      "outcome_description": "Standardized food security index score",
+      "treatment_arm": "T3: Individual livelihood/Individual coaching",
+      "subgroup": null,
+      "table_number": "10",
+      "effect_size": 0.28,
+      "standard_error": 0.05,
+      "p_value": 0.01,
+      "confidence_interval": null,
+      "sample_size": 2288,
+      "literal_text": "T3: Ind LH / Ind C | 0.28*** (0.05)",
+      "text_position": "Table 10, Row 'T3: Ind LH / Ind C', Column 'Food security index'"
+    },
+    {
+      "study_id": "CG73D75P",
+      "key": "CG73D75P",
+      "outcome_name": "Monthly consumption per capita",
+      "outcome_description": "Monthly household consumption per capita in pesos",
+      "treatment_arm": "T1: Group livelihood/Group coaching",
+      "subgroup": null,
+      "table_number": "10",
+      "effect_size": 311.0,
+      "standard_error": 119.0,
+      "p_value": 0.05,
+      "confidence_interval": null,
+      "sample_size": 2287,
+      "literal_text": "T1: Grp LH / Grp C | 311** (119)",
+      "text_position": "Table 10, Row 'T1: Grp LH / Grp C', Column 'Monthly consumption per capita (pesos)'"
+    },
+    {
+      "study_id": "CG73D75P",
+      "key": "CG73D75P",
+      "outcome_name": "Monthly consumption per capita",
+      "outcome_description": "Monthly household consumption per capita in pesos",
+      "treatment_arm": "T2: Individual livelihood/Group coaching",
+      "subgroup": null,
+      "table_number": "10",
+      "effect_size": 342.0,
+      "standard_error": 96.0,
+      "p_value": 0.01,
+      "confidence_interval": null,
+      "sample_size": 2287,
+      "literal_text": "T2: Ind LH / Grp C | 342*** (96)",
+      "text_position": "Table 10, Row 'T2: Ind LH / Grp C', Column 'Monthly consumption per capita (pesos)'"
+    },
+    {
+      "study_id": "CG73D75P",
+      "key": "CG73D75P",
+      "outcome_name": "Monthly consumption per capita",
+      "outcome_description": "Monthly household consumption per capita in pesos",
+      "treatment_arm": "T3: Individual livelihood/Individual coaching",
+      "subgroup": null,
+      "table_number": "10",
+      "effect_size": 334.0,
+      "standard_error": 114.0,
+      "p_value": 0.01,
+      "confidence_interval": null,
+      "sample_size": 2287,
+      "literal_text": "T3: Ind LH / Ind C | 334*** (114)",
+      "text_position": "Table 10, Row 'T3: Ind LH / Ind C', Column 'Monthly consumption per capita (pesos)'"
+    },
+    {
+      "study_id": "CG73D75P",
+      "key": "CG73D75P",
+      "outcome_name": "Monthly income",
+      "outcome_description": "Monthly household income in pesos",
+      "treatment_arm": "T1: Group livelihood/Group coaching",
+      "subgroup": null,
+      "table_number": "10",
+      "effect_size": 4.0,
+      "standard_error": 2072.0,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": 2288,
+      "literal_text": "T1: Grp LH / Grp C | 4 (2072)",
+      "text_position": "Table 10, Row 'T1: Grp LH / Grp C', Column 'Monthly income (pesos)'"
+    },
+    {
+      "study_id": "CG73D75P",
+      "key": "CG73D75P",
+      "outcome_name": "Monthly income",
+      "outcome_description": "Monthly household income in pesos",
+      "treatment_arm": "T2: Individual livelihood/Group coaching",
+      "subgroup": null,
+      "table_number": "10",
+      "effect_size": 1143.0,
+      "standard_error": 2005.0,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": 2288,
+      "literal_text": "T2: Ind LH / Grp C | 1143 (2005)",
+      "text_position": "Table 10, Row 'T2: Ind LH / Grp C', Column 'Monthly income (pesos)'"
+    },
+    {
+      "study_id": "CG73D75P",
+      "key": "CG73D75P",
+      "outcome_name": "Monthly income",
+      "outcome_description": "Monthly household income in pesos",
+      "treatment_arm": "T3: Individual livelihood/Individual coaching",
+      "subgroup": null,
+      "table_number": "10",
+      "effect_size": 2893.0,
+      "standard_error": 2785.0,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": 2288,
+      "literal_text": "T3: Ind LH / Ind C | 2893 (2785)",
+      "text_position": "Table 10, Row 'T3: Ind LH / Ind C', Column 'Monthly income (pesos)'"
+    },
+    {
+      "study_id": "CG73D75P",
+      "key": "CG73D75P",
+      "outcome_name": "Subjective well-being index",
+      "outcome_description": "Standardized subjective well-being index score",
+      "treatment_arm": "T1: Group livelihood/Group coaching",
+      "subgroup": null,
+      "table_number": "10",
+      "effect_size": 0.05,
+      "standard_error": 0.05,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": 2288,
+      "literal_text": "T1: Grp LH / Grp C | 0.05 (0.05)",
+      "text_position": "Table 10, Row 'T1: Grp LH / Grp C', Column 'Subjective well-being index'"
+    },
+    {
+      "study_id": "CG73D75P",
+      "key": "CG73D75P",
+      "outcome_name": "Subjective well-being index",
+      "outcome_description": "Standardized subjective well-being index score",
+      "treatment_arm": "T2: Individual livelihood/Group coaching",
+      "subgroup": null,
+      "table_number": "10",
+      "effect_size": 0.13,
+      "standard_error": 0.04,
+      "p_value": 0.01,
+      "confidence_interval": null,
+      "sample_size": 2288,
+      "literal_text": "T2: Ind LH / Grp C | 0.13*** (0.04)",
+      "text_position": "Table 10, Row 'T2: Ind LH / Grp C', Column 'Subjective well-being index'"
+    },
+    {
+      "study_id": "CG73D75P",
+      "key": "CG73D75P",
+      "outcome_name": "Subjective well-being index",
+      "outcome_description": "Standardized subjective well-being index score",
+      "treatment_arm": "T3: Individual livelihood/Individual coaching",
+      "subgroup": null,
+      "table_number": "10",
+      "effect_size": 0.08,
+      "standard_error": 0.04,
+      "p_value": 0.1,
+      "confidence_interval": null,
+      "sample_size": 2288,
+      "literal_text": "T3: Ind LH / Ind C | 0.08* (0.04)",
+      "text_position": "Table 10, Row 'T3: Ind LH / Ind C', Column 'Subjective well-being index'"
+    },
+    {
+      "study_id": "CG73D75P",
+      "key": "CG73D75P",
+      "outcome_name": "Value of productive assets",
+      "outcome_description": "Value of productive assets in pesos",
+      "treatment_arm": "T1: Group livelihood/Group coaching",
+      "subgroup": null,
+      "table_number": "10",
+      "effect_size": 1954.0,
+      "standard_error": 1054.0,
+      "p_value": 0.1,
+      "confidence_interval": null,
+      "sample_size": 2288,
+      "literal_text": "T1: Grp LH / Grp C | 1954* (1054)",
+      "text_position": "Table 10, Row 'T1: Grp LH / Grp C', Column 'Value of productive assets (pesos)'"
+    },
+    {
+      "study_id": "CG73D75P",
+      "key": "CG73D75P",
+      "outcome_name": "Value of productive assets",
+      "outcome_description": "Value of productive assets in pesos",
+      "treatment_arm": "T2: Individual livelihood/Group coaching",
+      "subgroup": null,
+      "table_number": "10",
+      "effect_size": 4200.0,
+      "standard_error": 1296.0,
+      "p_value": 0.01,
+      "confidence_interval": null,
+      "sample_size": 2288,
+      "literal_text": "T2: Ind LH / Grp C | 4200*** (1296)",
+      "text_position": "Table 10, Row 'T2: Ind LH / Grp C', Column 'Value of productive assets (pesos)'"
+    },
+    {
+      "study_id": "CG73D75P",
+      "key": "CG73D75P",
+      "outcome_name": "Value of productive assets",
+      "outcome_description": "Value of productive assets in pesos",
+      "treatment_arm": "T3: Individual livelihood/Individual coaching",
+      "subgroup": null,
+      "table_number": "10",
+      "effect_size": 4484.0,
+      "standard_error": 1044.0,
+      "p_value": 0.01,
+      "confidence_interval": null,
+      "sample_size": 2288,
+      "literal_text": "T3: Ind LH / Ind C | 4484*** (1044)",
+      "text_position": "Table 10, Row 'T3: Ind LH / Ind C', Column 'Value of productive assets (pesos)'"
+    }
+  ],
+  "validation": {
+    "total": 15,
+    "complete": 11,
+    "missing_effect_size": 0,
+    "missing_se": 0,
+    "missing_p_value": 4,
+    "missing_literal": 0,
+    "missing_position": 0,
+    "issues": [
+      {
+        "index": 6,
+        "outcome_name": "Monthly income",
+        "table_number": "10",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 7,
+        "outcome_name": "Monthly income",
+        "table_number": "10",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 8,
+        "outcome_name": "Monthly income",
+        "table_number": "10",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 9,
+        "outcome_name": "Subjective well-being index",
+        "table_number": "10",
+        "issues": [
+          "missing_p_value"
+        ]
+      }
+    ]
+  },
+  "quality_issues": [
+    "Record 7: Suspiciously large effect_size (1143.0)",
+    "Record 8: Suspiciously large effect_size (2893.0)",
+    "Record 12: Suspiciously large effect_size (1954.0)",
+    "Record 13: Suspiciously large effect_size (4200.0)",
+    "Record 14: Suspiciously large effect_size (4484.0)"
+  ],
+  "summary": {
+    "total_records": 15,
+    "unique_outcomes": 5,
+    "quality_score": 0.6666666666666667
+  }
+}

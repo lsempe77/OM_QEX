@@ -1,0 +1,587 @@
+{
+  "_key": "9BUBMDBG",
+  "_phase": "phase6_postprocessing",
+  "study_id": "9BUBMDBG",
+  "records": [
+    {
+      "study_id": "9BUBMDBG",
+      "key": "9BUBMDBG",
+      "outcome_name": "Brut income in non-agricultural self employment",
+      "outcome_description": "Gross income from non-agricultural self-employment",
+      "treatment_arm": "Grant",
+      "subgroup": null,
+      "table_number": "1",
+      "effect_size": 1187,
+      "standard_error": 241.4,
+      "p_value": 0.01,
+      "confidence_interval": null,
+      "sample_size": null,
+      "literal_text": "grant | 1,187*** (241.4)",
+      "text_position": "Table 1, Row 'grant', Column 'Brut income in non-agricultural self employment'"
+    },
+    {
+      "study_id": "9BUBMDBG",
+      "key": "9BUBMDBG",
+      "outcome_name": "Brut income in non-agricultural self employment",
+      "outcome_description": "Gross income from non-agricultural self-employment",
+      "treatment_arm": "Training",
+      "subgroup": null,
+      "table_number": "1",
+      "effect_size": -68.8,
+      "standard_error": 240.3,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": null,
+      "literal_text": "training | -68.80 (240.3)",
+      "text_position": "Table 1, Row 'training', Column 'Brut income in non-agricultural self employment'"
+    },
+    {
+      "study_id": "9BUBMDBG",
+      "key": "9BUBMDBG",
+      "outcome_name": "Brut income in non-agricultural self employment",
+      "outcome_description": "Gross income from non-agricultural self-employment",
+      "treatment_arm": "Grant",
+      "subgroup": null,
+      "table_number": "1",
+      "effect_size": 1187,
+      "standard_error": 241.4,
+      "p_value": 0.01,
+      "confidence_interval": null,
+      "sample_size": 2954,
+      "literal_text": "grant | 1,187*** (241.4)",
+      "text_position": "Table 1, Row 'grant', Column 'Brut income in non-agricultural self employment'"
+    },
+    {
+      "study_id": "9BUBMDBG",
+      "key": "9BUBMDBG",
+      "outcome_name": "Brut income in non-agricultural self employment",
+      "outcome_description": "Gross income from non-agricultural self-employment",
+      "treatment_arm": "Training",
+      "subgroup": null,
+      "table_number": "1",
+      "effect_size": -68.8,
+      "standard_error": 240.3,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": 2954,
+      "literal_text": "training | -68.80 (240.3)",
+      "text_position": "Table 1, Row 'training', Column 'Brut income in non-agricultural self employment'"
+    },
+    {
+      "study_id": "9BUBMDBG",
+      "key": "9BUBMDBG",
+      "outcome_name": "Has non-agricultural self-employment",
+      "outcome_description": "Binary indicator for having non-agricultural self-employment",
+      "treatment_arm": "Grant",
+      "subgroup": null,
+      "table_number": "1",
+      "effect_size": 0.123,
+      "standard_error": 0.0189,
+      "p_value": 0.01,
+      "confidence_interval": null,
+      "sample_size": null,
+      "literal_text": "grant | 0.123*** (0.0189)",
+      "text_position": "Table 1, Row 'grant', Column 'Has non-agricultural self-employment'"
+    },
+    {
+      "study_id": "9BUBMDBG",
+      "key": "9BUBMDBG",
+      "outcome_name": "Has non-agricultural self-employment",
+      "outcome_description": "Binary indicator for having non-agricultural self-employment",
+      "treatment_arm": "Training",
+      "subgroup": null,
+      "table_number": "1",
+      "effect_size": 0.0376,
+      "standard_error": 0.0195,
+      "p_value": 0.1,
+      "confidence_interval": null,
+      "sample_size": null,
+      "literal_text": "training | 0.0376* (0.0195)",
+      "text_position": "Table 1, Row 'training', Column 'Has non-agricultural self-employment'"
+    },
+    {
+      "study_id": "9BUBMDBG",
+      "key": "9BUBMDBG",
+      "outcome_name": "Has non-agricultural wage job",
+      "outcome_description": "Binary indicator for having non-agricultural wage job",
+      "treatment_arm": "Grant",
+      "subgroup": null,
+      "table_number": "1",
+      "effect_size": -0.0187,
+      "standard_error": 0.02,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": null,
+      "literal_text": "grant | -0.0187 (0.0200)",
+      "text_position": "Table 1, Row 'grant', Column 'Has non-agricultural wage job'"
+    },
+    {
+      "study_id": "9BUBMDBG",
+      "key": "9BUBMDBG",
+      "outcome_name": "Has non-agricultural wage job",
+      "outcome_description": "Binary indicator for having non-agricultural wage job",
+      "treatment_arm": "Training",
+      "subgroup": null,
+      "table_number": "1",
+      "effect_size": 0.0207,
+      "standard_error": 0.0222,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": null,
+      "literal_text": "training | 0.0207 (0.0222)",
+      "text_position": "Table 1, Row 'training', Column 'Has non-agricultural wage job'"
+    },
+    {
+      "study_id": "9BUBMDBG",
+      "key": "9BUBMDBG",
+      "outcome_name": "Non-agricultural self-employment",
+      "outcome_description": "Has non-agricultural self-employment (yes/no)",
+      "treatment_arm": "Grant",
+      "subgroup": null,
+      "table_number": "1",
+      "effect_size": 0.123,
+      "standard_error": 0.0189,
+      "p_value": 0.01,
+      "confidence_interval": null,
+      "sample_size": 2954,
+      "literal_text": "grant | 0.123*** (0.0189)",
+      "text_position": "Table 1, Row 'grant', Column 'Has non-agricultural self-employment'"
+    },
+    {
+      "study_id": "9BUBMDBG",
+      "key": "9BUBMDBG",
+      "outcome_name": "Non-agricultural self-employment",
+      "outcome_description": "Has non-agricultural self-employment (yes/no)",
+      "treatment_arm": "Training",
+      "subgroup": null,
+      "table_number": "1",
+      "effect_size": 0.0376,
+      "standard_error": 0.0195,
+      "p_value": 0.1,
+      "confidence_interval": null,
+      "sample_size": 2954,
+      "literal_text": "training | 0.0376* (0.0195)",
+      "text_position": "Table 1, Row 'training', Column 'Has non-agricultural self-employment'"
+    },
+    {
+      "study_id": "9BUBMDBG",
+      "key": "9BUBMDBG",
+      "outcome_name": "Non-agricultural wage income",
+      "outcome_description": "Income from non-agricultural wage employment",
+      "treatment_arm": "Grant",
+      "subgroup": null,
+      "table_number": "1",
+      "effect_size": -48.06,
+      "standard_error": 547.0,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": null,
+      "literal_text": "grant | -48.06 (547.0)",
+      "text_position": "Table 1, Row 'grant', Column 'Non-agricultural wage income'"
+    },
+    {
+      "study_id": "9BUBMDBG",
+      "key": "9BUBMDBG",
+      "outcome_name": "Non-agricultural wage income",
+      "outcome_description": "Income from non-agricultural wage employment",
+      "treatment_arm": "Training",
+      "subgroup": null,
+      "table_number": "1",
+      "effect_size": 509.4,
+      "standard_error": 527.8,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": null,
+      "literal_text": "training | 509.4 (527.8)",
+      "text_position": "Table 1, Row 'training', Column 'Non-agricultural wage income'"
+    },
+    {
+      "study_id": "9BUBMDBG",
+      "key": "9BUBMDBG",
+      "outcome_name": "Non-agricultural wage income",
+      "outcome_description": "Income from non-agricultural wage employment",
+      "treatment_arm": "Grant",
+      "subgroup": null,
+      "table_number": "1",
+      "effect_size": -48.06,
+      "standard_error": 547.0,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": 2954,
+      "literal_text": "grant | -48.06 (547.0)",
+      "text_position": "Table 1, Row 'grant', Column 'Non-agricultural wage income'"
+    },
+    {
+      "study_id": "9BUBMDBG",
+      "key": "9BUBMDBG",
+      "outcome_name": "Non-agricultural wage income",
+      "outcome_description": "Income from non-agricultural wage employment",
+      "treatment_arm": "Training",
+      "subgroup": null,
+      "table_number": "1",
+      "effect_size": 509.4,
+      "standard_error": 527.8,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": 2954,
+      "literal_text": "training | 509.4 (527.8)",
+      "text_position": "Table 1, Row 'training', Column 'Non-agricultural wage income'"
+    },
+    {
+      "study_id": "9BUBMDBG",
+      "key": "9BUBMDBG",
+      "outcome_name": "Non-agricultural wage job",
+      "outcome_description": "Has non-agricultural wage job (yes/no)",
+      "treatment_arm": "Grant",
+      "subgroup": null,
+      "table_number": "1",
+      "effect_size": -0.0187,
+      "standard_error": 0.02,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": 2954,
+      "literal_text": "grant | -0.0187 (0.0200)",
+      "text_position": "Table 1, Row 'grant', Column 'Has non-agricultural wage job'"
+    },
+    {
+      "study_id": "9BUBMDBG",
+      "key": "9BUBMDBG",
+      "outcome_name": "Non-agricultural wage job",
+      "outcome_description": "Has non-agricultural wage job (yes/no)",
+      "treatment_arm": "Training",
+      "subgroup": null,
+      "table_number": "1",
+      "effect_size": 0.0207,
+      "standard_error": 0.0222,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": 2954,
+      "literal_text": "training | 0.0207 (0.0222)",
+      "text_position": "Table 1, Row 'training', Column 'Has non-agricultural wage job'"
+    },
+    {
+      "study_id": "9BUBMDBG",
+      "key": "9BUBMDBG",
+      "outcome_name": "Non-agriculture wage income in private sector",
+      "outcome_description": "Wage income from private sector non-agricultural employment",
+      "treatment_arm": "Grant",
+      "subgroup": null,
+      "table_number": "1",
+      "effect_size": -293.5,
+      "standard_error": 428.5,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": null,
+      "literal_text": "grant | -293.5 (428.5)",
+      "text_position": "Table 1, Row 'grant', Column 'Non-agriculture wage income in private sector'"
+    },
+    {
+      "study_id": "9BUBMDBG",
+      "key": "9BUBMDBG",
+      "outcome_name": "Non-agriculture wage income in private sector",
+      "outcome_description": "Wage income from private sector non-agricultural employment",
+      "treatment_arm": "Training",
+      "subgroup": null,
+      "table_number": "1",
+      "effect_size": 924.3,
+      "standard_error": 440.1,
+      "p_value": 0.05,
+      "confidence_interval": null,
+      "sample_size": null,
+      "literal_text": "training | 924.3** (440.1)",
+      "text_position": "Table 1, Row 'training', Column 'Non-agriculture wage income in private sector'"
+    },
+    {
+      "study_id": "9BUBMDBG",
+      "key": "9BUBMDBG",
+      "outcome_name": "Non-agriculture wage income in private sector",
+      "outcome_description": "Wage income from private sector non-agricultural employment",
+      "treatment_arm": "Grant",
+      "subgroup": null,
+      "table_number": "1",
+      "effect_size": -293.5,
+      "standard_error": 428.5,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": 2954,
+      "literal_text": "grant | -293.5 (428.5)",
+      "text_position": "Table 1, Row 'grant', Column 'Non-agriculture wage income in private sector'"
+    },
+    {
+      "study_id": "9BUBMDBG",
+      "key": "9BUBMDBG",
+      "outcome_name": "Non-agriculture wage income in private sector",
+      "outcome_description": "Wage income from private sector non-agricultural employment",
+      "treatment_arm": "Training",
+      "subgroup": null,
+      "table_number": "1",
+      "effect_size": 924.3,
+      "standard_error": 440.1,
+      "p_value": 0.05,
+      "confidence_interval": null,
+      "sample_size": 2954,
+      "literal_text": "training | 924.3** (440.1)",
+      "text_position": "Table 1, Row 'training', Column 'Non-agriculture wage income in private sector'"
+    },
+    {
+      "study_id": "9BUBMDBG",
+      "key": "9BUBMDBG",
+      "outcome_name": "Per capita expenditures",
+      "outcome_description": "Log of per capita expenditures",
+      "treatment_arm": "Grant",
+      "subgroup": null,
+      "table_number": "1",
+      "effect_size": 0.0836,
+      "standard_error": 0.0208,
+      "p_value": 0.01,
+      "confidence_interval": null,
+      "sample_size": 2954,
+      "literal_text": "grant | 0.0836*** (0.0208)",
+      "text_position": "Table 1, Row 'grant', Column 'ln (per capita expenditures)'"
+    },
+    {
+      "study_id": "9BUBMDBG",
+      "key": "9BUBMDBG",
+      "outcome_name": "Per capita expenditures",
+      "outcome_description": "Log of per capita expenditures",
+      "treatment_arm": "Training",
+      "subgroup": null,
+      "table_number": "1",
+      "effect_size": 0.0281,
+      "standard_error": 0.0205,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": 2954,
+      "literal_text": "training | 0.0281 (0.0205)",
+      "text_position": "Table 1, Row 'training', Column 'ln (per capita expenditures)'"
+    },
+    {
+      "study_id": "9BUBMDBG",
+      "key": "9BUBMDBG",
+      "outcome_name": "Profits in non-agricultural self-employment",
+      "outcome_description": "Profits from non-agricultural self-employment activities",
+      "treatment_arm": "Grant",
+      "subgroup": null,
+      "table_number": "1",
+      "effect_size": 600.1,
+      "standard_error": 144.7,
+      "p_value": 0.01,
+      "confidence_interval": null,
+      "sample_size": null,
+      "literal_text": "grant | 600.1*** (144.7)",
+      "text_position": "Table 1, Row 'grant', Column 'Profits in non-agricultural self-employment'"
+    },
+    {
+      "study_id": "9BUBMDBG",
+      "key": "9BUBMDBG",
+      "outcome_name": "Profits in non-agricultural self-employment",
+      "outcome_description": "Profits from non-agricultural self-employment activities",
+      "treatment_arm": "Training",
+      "subgroup": null,
+      "table_number": "1",
+      "effect_size": -299.2,
+      "standard_error": 149.7,
+      "p_value": 0.05,
+      "confidence_interval": null,
+      "sample_size": null,
+      "literal_text": "training | -299.2** (149.7)",
+      "text_position": "Table 1, Row 'training', Column 'Profits in non-agricultural self-employment'"
+    },
+    {
+      "study_id": "9BUBMDBG",
+      "key": "9BUBMDBG",
+      "outcome_name": "Profits in non-agricultural self-employment",
+      "outcome_description": "Profits from non-agricultural self-employment activities",
+      "treatment_arm": "Grant",
+      "subgroup": null,
+      "table_number": "1",
+      "effect_size": 600.1,
+      "standard_error": 144.7,
+      "p_value": 0.01,
+      "confidence_interval": null,
+      "sample_size": 2954,
+      "literal_text": "grant | 600.1*** (144.7)",
+      "text_position": "Table 1, Row 'grant', Column 'Profits in non-agricultural self-employment'"
+    },
+    {
+      "study_id": "9BUBMDBG",
+      "key": "9BUBMDBG",
+      "outcome_name": "Profits in non-agricultural self-employment",
+      "outcome_description": "Profits from non-agricultural self-employment activities",
+      "treatment_arm": "Training",
+      "subgroup": null,
+      "table_number": "1",
+      "effect_size": -299.2,
+      "standard_error": 149.7,
+      "p_value": 0.05,
+      "confidence_interval": null,
+      "sample_size": 2954,
+      "literal_text": "training | -299.2** (149.7)",
+      "text_position": "Table 1, Row 'training', Column 'Profits in non-agricultural self-employment'"
+    },
+    {
+      "study_id": "9BUBMDBG",
+      "key": "9BUBMDBG",
+      "outcome_name": "ln (per capita expenditures)",
+      "outcome_description": "Log of per capita household expenditures",
+      "treatment_arm": "Grant",
+      "subgroup": null,
+      "table_number": "1",
+      "effect_size": 0.0836,
+      "standard_error": 0.0208,
+      "p_value": 0.01,
+      "confidence_interval": null,
+      "sample_size": null,
+      "literal_text": "grant | 0.0836*** (0.0208)",
+      "text_position": "Table 1, Row 'grant', Column 'ln (per capita expenditures)'"
+    },
+    {
+      "study_id": "9BUBMDBG",
+      "key": "9BUBMDBG",
+      "outcome_name": "ln (per capita expenditures)",
+      "outcome_description": "Log of per capita household expenditures",
+      "treatment_arm": "Training",
+      "subgroup": null,
+      "table_number": "1",
+      "effect_size": 0.0281,
+      "standard_error": 0.0205,
+      "p_value": null,
+      "confidence_interval": null,
+      "sample_size": null,
+      "literal_text": "training | 0.0281 (0.0205)",
+      "text_position": "Table 1, Row 'training', Column 'ln (per capita expenditures)'"
+    }
+  ],
+  "validation": {
+    "total": 28,
+    "complete": 14,
+    "missing_effect_size": 0,
+    "missing_se": 0,
+    "missing_p_value": 14,
+    "missing_literal": 0,
+    "missing_position": 0,
+    "issues": [
+      {
+        "index": 1,
+        "outcome_name": "Brut income in non-agricultural self employment",
+        "table_number": "1",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 3,
+        "outcome_name": "Brut income in non-agricultural self employment",
+        "table_number": "1",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 6,
+        "outcome_name": "Has non-agricultural wage job",
+        "table_number": "1",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 7,
+        "outcome_name": "Has non-agricultural wage job",
+        "table_number": "1",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 10,
+        "outcome_name": "Non-agricultural wage income",
+        "table_number": "1",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 11,
+        "outcome_name": "Non-agricultural wage income",
+        "table_number": "1",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 12,
+        "outcome_name": "Non-agricultural wage income",
+        "table_number": "1",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 13,
+        "outcome_name": "Non-agricultural wage income",
+        "table_number": "1",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 14,
+        "outcome_name": "Non-agricultural wage job",
+        "table_number": "1",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 15,
+        "outcome_name": "Non-agricultural wage job",
+        "table_number": "1",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 16,
+        "outcome_name": "Non-agriculture wage income in private sector",
+        "table_number": "1",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 18,
+        "outcome_name": "Non-agriculture wage income in private sector",
+        "table_number": "1",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 21,
+        "outcome_name": "Per capita expenditures",
+        "table_number": "1",
+        "issues": [
+          "missing_p_value"
+        ]
+      },
+      {
+        "index": 27,
+        "outcome_name": "ln (per capita expenditures)",
+        "table_number": "1",
+        "issues": [
+          "missing_p_value"
+        ]
+      }
+    ]
+  },
+  "quality_issues": [
+    "Record 0: Suspiciously large effect_size (1187.0)",
+    "Record 2: Suspiciously large effect_size (1187.0)"
+  ],
+  "summary": {
+    "total_records": 28,
+    "unique_outcomes": 10,
+    "quality_score": 0.9285714285714286
+  }
+}
