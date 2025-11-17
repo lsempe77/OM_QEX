@@ -1,0 +1,271 @@
+{
+  "study_id": "ABM3E3ZP.tei",
+  "evidence_spans": [
+    {
+      "span_id": "income_daily_pc_p_73",
+      "om_outcome_id": "income_daily_pc",
+      "span_type": "paragraph",
+      "section_path": [
+        "Income"
+      ],
+      "raw_text": "Given the increase in the households' productive assets, it stands to reason that the program should correlate with an increase in the income that comes from the productive activity that uses those assets. Figure  6  shows the effects of the program on the household income for the IV and RE methodologies. Both evaluations show an increase in the farming income of the household of 3.4 and 4.5 USD ppp per month, respectively. On the other hand, there is a reduction in the non-farming income in both cases, although this decrease does not translate into a statistically significant decrease in the households' total income. It is worth noting that the total income of the household is comprised of more than just farming and non-farming income.",
+      "span_confidence": 1.0,
+      "tei_pointer": {
+        "element_type": "p",
+        "xml_id": "_KzjBbG6",
+        "index_in_body": 73
+      },
+      "om_hints": {
+        "literal_text_overlap": false,
+        "location_hint": "Results Income; Figure 6"
+      }
+    },
+    {
+      "span_id": "income_daily_pc_p_74",
+      "om_outcome_id": "income_daily_pc",
+      "span_type": "paragraph",
+      "section_path": [
+        "Figure 6: SOF effects on income (USD ppp), according to IV and RE"
+      ],
+      "raw_text": "Given this increase in the households' income, it is pertinent to analyze the self-reported impact of the program on the participant, who is the direct recipient of the intervention. Figure  7  shows that the program had a significant effect of 21.35 USD ppp per month on the income of the participants both for the IV exercise, which translates to a statistically significant 0.71 USD ppp increase in their daily income.",
+      "span_confidence": 1.0,
+      "tei_pointer": {
+        "element_type": "p",
+        "xml_id": "_rpA5a8d",
+        "index_in_body": 74
+      },
+      "om_hints": {
+        "literal_text_overlap": false,
+        "location_hint": "Results Income; Figure 6"
+      }
+    },
+    {
+      "span_id": "income_daily_pc_p_75",
+      "om_outcome_id": "income_daily_pc",
+      "span_type": "paragraph",
+      "section_path": [
+        "Figure 6: SOF effects on income (USD ppp), according to IV and RE"
+      ],
+      "raw_text": "Electronic copy available at:  https://ssrn.com/abstract=3411131   The fact that there was no statistically significant effect on the total income of the household, according to the impact evaluation, does not mean that the households in questions did not increase their income. The ER in Table  7  shows that the households' per capita income increased by a statistically significant 7.09 USD ppp per month. This increase, combined with the lack of impact captured by the IV evaluations, suggests a general improvement in the income of both the treated and control households.",
+      "span_confidence": 1.0,
+      "tei_pointer": {
+        "element_type": "p",
+        "xml_id": "_bcBx96y",
+        "index_in_body": 75
+      },
+      "om_hints": {
+        "literal_text_overlap": false,
+        "location_hint": "Results Income; Figure 6"
+      }
+    },
+    {
+      "span_id": "income_daily_pc_p_77",
+      "om_outcome_id": "income_daily_pc",
+      "span_type": "paragraph",
+      "section_path": [
+        "Figure 6: SOF effects on income (USD ppp), according to IV and RE"
+      ],
+      "raw_text": "Table 7: SOF effects on income (all values in USD ppp), according to IV and RE IV ER Variables Effect SD of CG Effects SD of BL Households' per capita total monthly income -4,89 -0,12 7.09*** 0.17*** (4,96) (2.41) Non-farming per capita monthly income -10,65** -0,31** 2.34 0.06 (4,35) (2.08) Farming related per capita monthly income 4,52* 0,24* 3.45*** 0.15*** (2,52) (1.33) Social aid related monthly per capita income 4,28** 0,30** 1.99*** 0.15*** (1,82) (0.69) Participants' total monthly labor income 21,35** 0,23** 19.75*** 0.27*** (9,52) (4.90) Participants' monthly labor income from paid work 13,85* 0,21* 9.98** 0.19** (7,57) (4.17) Participants' monthly income from independent work 7,50 0,11 9.77*** 0.18*** (6,20) (3.42) Observations 1005 854 Standard errors in brackets, ***p<0.01, ** p<0.05 * p<0.1",
+      "span_confidence": 1.0,
+      "tei_pointer": {
+        "element_type": "p",
+        "xml_id": "_4c9Dy96",
+        "index_in_body": 77
+      },
+      "om_hints": {
+        "literal_text_overlap": false,
+        "location_hint": "Results Income; Figure 6"
+      }
+    },
+    {
+      "span_id": "income_daily_pc_p_76",
+      "om_outcome_id": "income_daily_pc",
+      "span_type": "paragraph",
+      "section_path": [
+        "Figure 6: SOF effects on income (USD ppp), according to IV and RE"
+      ],
+      "raw_text": "Another important aspect to recognize is a significant shift in the composition of income in the household, where the relative importance of non-agricultural jobs decreases as the income from agricultural activities is positively affected by the program, which could indicate that the households are becoming more self-reliant and economically independent as a result of the program increasing their production possibilities.",
+      "span_confidence": 0.95,
+      "tei_pointer": {
+        "element_type": "p",
+        "xml_id": "_yQjdatK",
+        "index_in_body": 76
+      },
+      "om_hints": {
+        "literal_text_overlap": false,
+        "location_hint": "Results Income; Figure 6"
+      }
+    },
+    {
+      "span_id": "income_daily_pc_p_8",
+      "om_outcome_id": "income_daily_pc",
+      "span_type": "paragraph",
+      "section_path": [
+        "Introduction"
+      ],
+      "raw_text": "In general, the majority of the outcomes indicated improvements in the living conditions of treated households. For example, the Progress out of Poverty Probability Index (PPI)  6 decreased, indicating that many households overcame extreme poverty. The per capita household and labor income from independent work were greater for treated households, and these results were followed by positive impacts on informal savings (especially cash savings), productive assets, and the daily hours dedicated to work. At the same time, the wellbeing perception rose.",
+      "span_confidence": 0.9,
+      "tei_pointer": {
+        "element_type": "p",
+        "xml_id": "_x9BEHgY",
+        "index_in_body": 8
+      },
+      "om_hints": {
+        "literal_text_overlap": false,
+        "location_hint": "Results Income; Figure 6"
+      }
+    },
+    {
+      "span_id": "income_daily_pc_p_12",
+      "om_outcome_id": "income_daily_pc",
+      "span_type": "paragraph",
+      "section_path": [
+        "The SOF program"
+      ],
+      "raw_text": "The SOF was developed in accordance with Ordinance No. 291 of 2013 in order to \"[increase] the income of and access to social services of vulnerable households\" (STP, s.f.). To fulfill this purpose, the SOF pilot program delivered a seed capital equivalent to approximately USD500 (\u20ac430) per household to be used for the development of productive activities. The pilot was implemented in the Chor\u00e9, Capiibary, and Caraya\u00f3 municipalities (Figure  2 ), where it intervened 809 households living in conditions of extreme poverty. Figure 2. Geographical localization of SOF pilot According to the Operative Manual, and based on the graduation approach, the SOF pilot was integrated by seven components:",
+      "span_confidence": 0.85,
+      "tei_pointer": {
+        "element_type": "p",
+        "xml_id": "_rHQZUAg",
+        "index_in_body": 12
+      },
+      "om_hints": {
+        "literal_text_overlap": false,
+        "location_hint": "Results Income; Figure 6"
+      }
+    },
+    {
+      "span_id": "assets_value_p_72",
+      "om_outcome_id": "assets_value",
+      "span_type": "paragraph",
+      "section_path": [
+        "Figure 5: Effects of SOF on the households' assets (USD ppp), according to IV and RE"
+      ],
+      "raw_text": "These results advocate for the effectiveness of the program since the goal of the monetary transfer was mainly to purchase animals and build the infrastructure necessary to raise them, so that the animals could become a stable source of income for the households. The results are also consistent with the body of literature on the topic, which finds statistically significant increases in the total value of the assets in the short and medium terms.",
+      "span_confidence": 1.0,
+      "tei_pointer": {
+        "element_type": "p",
+        "xml_id": "_DSKgYbK",
+        "index_in_body": 72
+      },
+      "om_hints": {
+        "literal_text_overlap": false,
+        "location_hint": "Results Poverty and assets; Figure 5"
+      }
+    },
+    {
+      "span_id": "assets_value_p_60",
+      "om_outcome_id": "assets_value",
+      "span_type": "paragraph",
+      "section_path": [
+        "Poverty"
+      ],
+      "raw_text": "One of the main goals of the graduation programs, in general, is to set the different households in a path to overcome poverty by their own means. This goal was explored in-depth by  Banerjee et al. (2016)  in their evaluation of a graduation program. The evaluation found that seven years after program implementation, the assets, consumption, work hours, and other variables improved, suggesting that the program can guide the households on a path towards overcoming their poverty conditions.",
+      "span_confidence": 0.95,
+      "tei_pointer": {
+        "element_type": "p",
+        "xml_id": "_TRspyex",
+        "index_in_body": 60
+      },
+      "om_hints": {
+        "literal_text_overlap": false,
+        "location_hint": "Results Poverty and assets; Figure 5"
+      }
+    },
+    {
+      "span_id": "assets_value_p_68",
+      "om_outcome_id": "assets_value",
+      "span_type": "paragraph",
+      "section_path": [
+        "Poverty"
+      ],
+      "raw_text": "However, the results evaluation shows a 17.5 percentage points (p.p.) decrease in the extreme poverty conditions, as measured by the PPI, which suggest an overall improvement in the living conditions for the population in the sample. 4.2 Assets",
+      "span_confidence": 0.95,
+      "tei_pointer": {
+        "element_type": "p",
+        "xml_id": "_gbzdxYJ",
+        "index_in_body": 68
+      },
+      "om_hints": {
+        "literal_text_overlap": false,
+        "location_hint": "Results Poverty and assets; Figure 5"
+      }
+    },
+    {
+      "span_id": "assets_value_p_69",
+      "om_outcome_id": "assets_value",
+      "span_type": "paragraph",
+      "section_path": [
+        "Poverty"
+      ],
+      "raw_text": "One of the other areas affected by the program is the households' value of assets. Table  6  shows the results of the different evaluations regarding this dimension: the most important result is a marginally significant increase in the households' total value of assets, which amounts to 633.6 USD-PPP according to the IV evaluation. When we decompose the different types of assets that drive this increase, we find that most of it come from the acquisition of animals, followed by the construction of productive infrastructure, and the effect is significant in both evaluations. These results are to be expected given the nature of the program, as treatment in any scenario requires the households to spend the cash transfer on the purchase of productive assets. Also, since the cash transfer has to be spent on productive assets, it is not surprising to see that the effects found for both evaluations are very similar both in magnitude and significance (see Figure  5 ).",
+      "span_confidence": 0.95,
+      "tei_pointer": {
+        "element_type": "p",
+        "xml_id": "_BeKKzsJ",
+        "index_in_body": 69
+      },
+      "om_hints": {
+        "literal_text_overlap": false,
+        "location_hint": "Results Poverty and assets; Figure 5"
+      }
+    },
+    {
+      "span_id": "assets_value_p_71",
+      "om_outcome_id": "assets_value",
+      "span_type": "paragraph",
+      "section_path": [
+        "Poverty"
+      ],
+      "raw_text": "Table 6: SOF effects on households' assets, according to IV and RE Variables IV RE Effect Effect SD of CG Change Change SD of BL Total value of the households' assets (USD ppp) 633,63* 0,31* 760.33*** 0.42*** (342,10) (78.76) Total value of households' non-perishable goods (USD ppp) 22,78 0,03 92.91** 0.14** (114,18) (36.65) Total value of animals in the households (USD ppp) 412,63* 0,28* 493.20*** 0.40*** (232,43) (51.35) Total value of the households' productive assets (USD ppp) 14,55 0,05 5.79 0.02 (47,06) (16.47) Total value of productive infrastructure (USD ppp) 183,68** 1,38*** 169.00*** 1.10*** (37,89) (15.04) Observations 1005 854 Standard errors in brackets, ***p<0.01, ** p<0.05 * p<0.1",
+      "span_confidence": 0.95,
+      "tei_pointer": {
+        "element_type": "p",
+        "xml_id": "_RkVn8Rw",
+        "index_in_body": 71
+      },
+      "om_hints": {
+        "literal_text_overlap": false,
+        "location_hint": "Results Poverty and assets; Figure 5"
+      }
+    },
+    {
+      "span_id": "assets_value_p_80",
+      "om_outcome_id": "assets_value",
+      "span_type": "paragraph",
+      "section_path": [
+        "Figure 9: Effects of SOF on the probability of saving, according to IV and RE"
+      ],
+      "raw_text": "The impact evaluation shows an increase of 13.9% in the probability of saving informally, which in turn, is probably driven by an increase in the probability of saving through cash. This result can be associated with the promotion of saving groups among the activities planned in the graduation approach. The probability of saving formally, however, does not appear to be impacted by the program in the IV evaluation. When it comes to saving in kind, there is a slightly negative effect on the impact evaluation. It is worth noting that this effect would be positive and significant if animals were included in this category, but to avoid confusion with the measurement of the assets, animals were not included. When it comes to the total value of the savings, the impact evaluation does not find statistically significant results for any of the modalities. This could be due to the small number of households that do report to have saved money, or to the heterogeneity between the amounts of money saved.",
+      "span_confidence": 0.95,
+      "tei_pointer": {
+        "element_type": "p",
+        "xml_id": "_22JUeP2",
+        "index_in_body": 80
+      },
+      "om_hints": {
+        "literal_text_overlap": false,
+        "location_hint": "Results Poverty and assets; Figure 5"
+      }
+    },
+    {
+      "span_id": "assets_value_p_8",
+      "om_outcome_id": "assets_value",
+      "span_type": "paragraph",
+      "section_path": [
+        "Introduction"
+      ],
+      "raw_text": "In general, the majority of the outcomes indicated improvements in the living conditions of treated households. For example, the Progress out of Poverty Probability Index (PPI)  6 decreased, indicating that many households overcame extreme poverty. The per capita household and labor income from independent work were greater for treated households, and these results were followed by positive impacts on informal savings (especially cash savings), productive assets, and the daily hours dedicated to work. At the same time, the wellbeing perception rose.",
+      "span_confidence": 0.9,
+      "tei_pointer": {
+        "element_type": "p",
+        "xml_id": "_x9BEHgY",
+        "index_in_body": 8
+      },
+      "om_hints": {
+        "literal_text_overlap": false,
+        "location_hint": "Results Poverty and assets; Figure 5"
+      }
+    }
+  ]
+}
