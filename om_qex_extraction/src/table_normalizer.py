@@ -4,59 +4,115 @@ from dataclasses import dataclass
 from typing import Any, Dict, List, Optional
 
 import math
+import re
+from typing import Any, Dict, List, Optional
 import pandas as pd
 
 
-def _is_nan(x: Any) -> bool:
-    """Return True if x is a float NaN."""
-    return isinstance(x, float) and math.isnan(x)
+import math
+import re
+from typing import Any, Optional
 
+def _is_nan(val: Any) -> bool:
+    if val is None:
+        return True
+    if isinstance(val, float) and math.isnan(val):
+        return True
+    if isinstance(val, str) and val.strip() == "":
+        return True
+    return False
 
-def parse_numeric_string(s: Any) -> Optional[float]:
+def parse_numeric_string(value: Any) -> Optional[float]:
     """
-    Parse a numeric string from the regression table into a float.
+    Parse coefficients / SEs from a variety of formats:
 
-    Handles:
-    - European decimals: '4,52*' -> 4.52
-    - Dotted decimals:   '3.45***' -> 3.45
-    - Values in parens:  '(4,96)' -> 4.96
-    - Strips stars, percent signs, whitespace.
+    - ABM-style decimal commas:   '-4,89', '(21,35**)'  -> -4.89, 21.35
+    - Thousands separators:       '8,857', '15,745'      -> 8857.0, 15745.0
+    - Plain decimals:             '43.29', '(411.0)'     -> 43.29, 411.0
 
-    Returns None if no reasonable numeric value can be parsed.
+    Stars are removed, parentheses stripped.
     """
-    if s is None:
+    if _is_nan(value):
         return None
-    if isinstance(s, float) and not math.isnan(s):
+
+    if isinstance(value, (int, float)):
+        return float(value)
+
+    s = str(value).strip()
+
+    # Strip surrounding parentheses
+    if s.startswith("(") and s.endswith(")"):
+        s = s[1:-1].strip()
+    if s.startswith("[") and s.endswith("]"):
+        s = s[1:-1].strip()
+
+    # Remove significance stars
+    s = re.sub(r"[*]+", "", s)
+
+    # Drop thousands separators where appropriate
+    # Pattern like: 1,234 or 15,745 or 1,234,567.89
+    if re.match(r"^\d{1,3}(,\d{3})+(\.\d+)?$", s):
+        s_clean = s.replace(",", "")
+        try:
+            return float(s_clean)
+        except ValueError:
+            return None
+
+    # ABM-style decimal comma: digits, comma, digits
+    if re.match(r"^-?\d+,\d+$", s):
+        s_clean = s.replace(",", ".")
+        try:
+            return float(s_clean)
+        except ValueError:
+            return None
+
+    # Fallback: just try plain float
+    try:
         return float(s)
-    if not isinstance(s, str):
+    except ValueError:
         return None
 
-    s = s.strip()
-    if not s:
+
+def parse_integer_with_thousands(value: Any) -> Optional[int]:
+    """
+    Parse sample sizes like '1,005' or '2.134' as integers.
+
+    Logic:
+      - If already int/float, cast to int.
+      - Strip whitespace, parentheses, and stars.
+      - If it looks like a thousands pattern (e.g., 1,005 or 2.134),
+        remove the separators and parse as int.
+      - Otherwise, just strip commas and parse.
+    """
+    if _is_nan(value):
         return None
 
-    # Remove stars and spaces
-    s_clean = s.replace("*", "").replace(" ", "")
+    if isinstance(value, int):
+        return value
+    if isinstance(value, float):
+        # Treat anything numeric here as an N-like value
+        return int(value)
 
-    # Strip parentheses for SEs like "(4,96)"
-    if s_clean.startswith("(") and s_clean.endswith(")"):
-        s_clean = s_clean[1:-1]
+    s = str(value).strip()
 
-    # Strip percent sign
-    s_clean = s_clean.replace("%", "")
+    # Strip surrounding parentheses or brackets
+    if s.startswith("(") and s.endswith(")"):
+        s = s[1:-1].strip()
+    if s.startswith("[") and s.endswith("]"):
+        s = s[1:-1].strip()
 
-    # Handle decimal separators:
-    # - If both ',' and '.', assume '.' are thousands separators and ',' is decimal.
-    # - If only ',', treat ',' as decimal.
-    # - Else, '.' is decimal or no decimal separator.
-    if "," in s_clean and "." in s_clean:
-        s_clean = s_clean.replace(".", "")
-        s_clean = s_clean.replace(",", ".")
-    elif "," in s_clean:
-        s_clean = s_clean.replace(",", ".")
+    # Remove significance stars if any accidentally appear
+    s = re.sub(r"[*]+", "", s)
+
+    # If it matches a thousands pattern like 1,005 or 2.134.567
+    if re.match(r"^\d{1,3}([.,]\d{3})+$", s):
+        s_clean = re.sub(r"[.,]", "", s)
+    else:
+        # More conservative: just drop commas
+        s_clean = s.replace(",", "")
 
     try:
-        return float(s_clean)
+        return int(s_clean)
     except ValueError:
         return None
 
@@ -135,8 +191,8 @@ def normalize_abm_income_table_t7(
     if obs_idx is not None:
         row_obs = df.iloc[obs_idx]
         # Column indices are specific to this table layout
-        n_dict["IV"] = parse_numeric_string(row_obs[1])
-        n_dict["RE"] = parse_numeric_string(row_obs[4])
+        n_dict["IV"] = parse_integer_with_thousands(row_obs[1])
+        n_dict["RE"] = parse_integer_with_thousands(row_obs[4])
 
     # Notes row: the row immediately after Observations, if any
     notes: Optional[str] = None
@@ -284,3 +340,154 @@ def normalize_abm_income_table_t7(
         "header_rows": [header1, header2],
     }
     return result
+
+import re
+from typing import Any, Dict, List, Optional
+
+import pandas as pd
+
+# ... _is_nan, parse_numeric_string, parse_integer_with_thousands already defined above ...
+
+
+def _clean_hyphenated_label(text: str) -> str:
+    """
+    Merge hyphenated line breaks like 'expendi-' 'tures' -> 'expenditures'.
+    """
+    text = re.sub(r"\s+", " ", text.strip())
+    # Merge word- hyphen + space + word => single word
+    text = re.sub(r"(\w+)-\s+(\w+)", r"\1\2", text)
+    return text
+
+
+def normalize_teep_nonfood_table16(
+    header_df: pd.DataFrame,
+    body_df: pd.DataFrame,
+    study_id: str = "TEEP_Malawi",
+    table_id: str = "T16_nonfood",
+) -> Dict[str, Any]:
+    """
+    Normalize Table 16: Project impact on non-food expenditures (Malawi paper).
+
+    Pattern:
+      - Header chunk (header_df) contains caption + multi-row column headers.
+      - Body chunk (body_df) contains:
+          - coefficients for each arm in specific rows
+          - SE rows beneath
+          - 'Observations' row with N
+          - Notes row.
+
+    Output format is compatible with a generalized QEX builder.
+    """
+
+    # Caption & raw header rows
+    caption = str(header_df.iloc[0, 0]).strip()
+    header_rows: List[List[Any]] = header_df.values.tolist()
+
+    # Build column metadata (for columns 1..12)
+    columns: List[Dict[str, Any]] = []
+    n_cols = header_df.shape[1]
+
+    for j in range(1, n_cols):
+        col_tag_raw = header_df.iloc[1, j]
+        col_tag = str(col_tag_raw).strip() if isinstance(col_tag_raw, str) else None
+
+        label_lines: List[str] = []
+        for r in range(2, header_df.shape[0]):
+            cell = header_df.iloc[r, j]
+            if isinstance(cell, str) and cell.strip():
+                label_lines.append(cell.strip())
+
+        label_raw = " ".join(label_lines)
+        outcome_label = _clean_hyphenated_label(label_raw) if label_raw else None
+
+        columns.append(
+            {
+                "column_index": j,
+                "column_tag": col_tag,
+                "outcome_label": outcome_label,
+                "raw_header_lines": label_lines,
+            }
+        )
+
+    # Find Observations row and Notes row in body
+    obs_row_idx: Optional[int] = None
+    notes_row_idx: Optional[int] = None
+
+    for i in range(body_df.shape[0]):
+        v0 = body_df.iloc[i, 0]
+        if isinstance(v0, str):
+            s = v0.strip()
+            if s.lower().startswith("observations"):
+                obs_row_idx = i
+            elif s.lower().startswith("notes"):
+                notes_row_idx = i
+
+    n_total: Optional[int] = None
+    if obs_row_idx is not None:
+        # N is repeated across columns, we just take column 1 and parse as integer
+        n_val = body_df.iloc[obs_row_idx, 1]
+        from typing import cast
+        n_total = parse_integer_with_thousands(cast(Any, n_val))
+
+    notes = ""
+    if notes_row_idx is not None:
+        notes = str(body_df.iloc[notes_row_idx, 0]).strip()
+
+    # Arm configuration: map each arm to its coefficient & SE rows
+    arms_config = [
+        {"group_label": "Project", "effect_row": 0, "se_row": 2},
+        {"group_label": "Lump-sum plus training", "effect_row": 3, "se_row": 6},
+        {"group_label": "Lump-sum only", "effect_row": 7, "se_row": 10},
+        {"group_label": "Training-only", "effect_row": 11, "se_row": 13},
+    ]
+
+    rows: List[Dict[str, Any]] = []
+
+    for arm in arms_config:
+        group_label = arm["group_label"]
+        eff_idx = arm["effect_row"]
+        se_idx = arm["se_row"]
+
+        effect_row = body_df.iloc[eff_idx]
+        se_row = body_df.iloc[se_idx]
+
+        for col in columns:
+            j = col["column_index"]
+
+            effect_raw = effect_row[j]
+            if _is_nan(effect_raw):
+                continue  # no effect in this column for this arm
+
+            se_raw = se_row[j] if se_idx < body_df.shape[0] else None
+
+            estimate = parse_numeric_string(effect_raw)
+            se_val = parse_numeric_string(se_raw) if not _is_nan(se_raw) else None
+
+            row_id = f"{table_id}_{group_label.replace(' ', '').replace('-', '')}_col{j}"
+
+            rows.append(
+                {
+                    "row_id": row_id,
+                    "group_label": group_label,
+                    "column_index": j,
+                    "column_tag": col["column_tag"],
+                    "outcome_label": col["outcome_label"],
+                    "estimate_raw": effect_raw,
+                    "estimate": estimate,
+                    "se_raw": se_raw,
+                    "se": se_val,
+                }
+            )
+
+    normalized: Dict[str, Any] = {
+        "study_id": study_id,
+        "table_id": table_id,
+        "caption": caption,
+        "header_rows": header_rows,
+        "n": n_total,
+        "columns": columns,
+        "rows": rows,
+        "notes": notes,
+    }
+
+    return normalized

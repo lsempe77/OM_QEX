@@ -1,118 +1,96 @@
-from __future__ import annotations
-
 from typing import Any, Dict, List, Optional
 
 
-def build_qex_inventory_from_normalized_table(
-    normalized_table: Dict[str, Any],
-    om_outcome_id: Optional[str] = None,
-    outcome_family: Optional[str] = None,
-) -> Dict[str, Any]:
-    """
-    Turn a normalized regression table (like ABM Table 7) into a QEX 'analysis inventory'.
+def _build_extra_metrics_from_effect(effect: Dict[str, Any]) -> Dict[str, Any]:
+    extra: Dict[str, Any] = {}
+    if "aux_label" in effect and effect.get("aux_value") is not None:
+        extra[str(effect["aux_label"])] = effect["aux_value"]
+    if "sd" in effect and effect.get("sd") is not None:
+        extra["sd"] = effect["sd"]
+    return extra
 
-    normalized_table: output of normalize_abm_income_table_t7(...), i.e.:
-        {
-          "study_id": "...",
-          "table_id": "...",
-          "caption": "...",
-          "estimators": ["IV", "RE"],
-          "n": {"IV": 1005.0, "RE": 854.0},
-          "rows": [
-            {
-              "row_id": "T7_row1",
-              "variable_label": "...",
-              "raw_label_lines": [...],
-              "effects": {
-                "IV": {
-                  "estimator_label": "IV",
-                  "estimate": ...,
-                  "se": ...,
-                  "aux_label": "SD of CG",
-                  "aux_value": ...
-                },
-                "RE": {
-                  "estimator_label": "RE",
-                  "estimate": ...,
-                  "se": ...,
-                  "aux_label": "SD of BL",
-                  "aux_value": ...
-                }
-              }
-            },
-            ...
-          ],
-          "notes": "...",
-          "header_rows": [...]
-        }
 
-    Returns:
-        {
-          "study_id": "...",
-          "table_id": "...",
-          "outcome_family": "...",
-          "om_outcome_id": "... or null",
-          "caption": "...",
-          "notes": "...",
-          "header_rows": [...],
-          "analyses": [
-            {
-              "analysis_id": "...",
-              "study_id": "...",
-              "table_id": "...",
-              "row_id": "...",
-              "estimator": "IV" | "RE",
-              "outcome_label": "...",
-              "om_outcome_id": "... or null",
-              "effect_metric": "raw_scale",
-              "estimate": <float>,
-              "se": <float>,
-              "n_total": <float or null>,
-              "extra_metrics": { "SD of CG": 0.24, ... },
-              "notes": ""
-            },
-            ...
-          ]
-        }
+def build_qex_inventory_from_normalized_table(table: Dict[str, Any]) -> Dict[str, Any]:
     """
-    study_id = normalized_table.get("study_id", "")
-    table_id = normalized_table.get("table_id", "")
-    caption = normalized_table.get("caption")
-    estimators: List[str] = list(normalized_table.get("estimators", []))
-    n_dict: Dict[str, Any] = normalized_table.get("n", {})
-    notes = normalized_table.get("notes")
-    header_rows = normalized_table.get("header_rows", [])
+    Convert a normalized table (ABM pattern or TEEP pattern) into a flat QEX inventory.
+
+    Unified row schema:
+
+      analysis_id
+      study_id
+      table_id
+      row_id
+      column_index
+      column_tag
+      outcome_label
+      om_outcome_id
+      arm_label
+      contrast_label
+      estimator
+      effect_metric
+      estimate
+      se
+      n_total
+      extra_metrics
+      notes
+    """
+    study_id = table["study_id"]
+    table_id = table["table_id"]
+    notes = table.get("notes", "")
 
     analyses: List[Dict[str, Any]] = []
 
-    for row in normalized_table.get("rows", []):
-        row_id = row.get("row_id")
-        variable_label = row.get("variable_label")
+    # -------- Case 1: ABM-style (estimators IV/RE, outcomes in rows) --------
+    if "estimators" in table:
+        estimators: List[str] = table["estimators"]
+        n_dict: Dict[str, Any] = table.get("n", {})
 
-        effects = row.get("effects", {})
-        for est_key in estimators:
-            eff = effects.get(est_key, {}) or {}
-            est_label = eff.get("estimator_label", est_key)
+        for row in table["rows"]:
+            row_id = row["row_id"]
+            outcome_label = row["variable_label"]
+            effects: Dict[str, Dict[str, Any]] = row["effects"]
 
-            estimate = eff.get("estimate")
-            se = eff.get("se")
+            for est_name in estimators:
+                effect = effects.get(est_name)
+                if effect is None:
+                    continue
 
-            # If we don't have both estimate and se, skip this analysis
-            if estimate is None or se is None:
-                continue
+                analysis_id = f"{study_id}_{table_id}_{row_id}_{est_name}"
 
-            n_total = n_dict.get(est_key)
+                analyses.append(
+                    {
+                        "analysis_id": analysis_id,
+                        "study_id": study_id,
+                        "table_id": table_id,
+                        "row_id": row_id,
+                        "column_index": None,
+                        "column_tag": None,
+                        "outcome_label": outcome_label,
+                        "om_outcome_id": None,
+                        "arm_label": None,
+                        "contrast_label": None,
+                        "estimator": est_name,
+                        "effect_metric": "raw_scale",
+                        "estimate": effect.get("estimate"),
+                        "se": effect.get("se"),
+                        "n_total": n_dict.get(est_name),
+                        "extra_metrics": _build_extra_metrics_from_effect(effect),
+                        "notes": notes,
+                    }
+                )
 
-            # Pull auxiliary metric (e.g., "SD of CG", "SD of BL") into extra_metrics
-            aux_label = eff.get("aux_label")
-            aux_value = eff.get("aux_value")
+    # -------- Case 2: TEEP-style (arms in rows, outcomes in columns) --------
+    elif "columns" in table:
+        n_total: Optional[int] = table.get("n")
 
-            extra_metrics: Dict[str, Any] = {}
-            if aux_label is not None and aux_value is not None:
-                # Use the header label as the key, so we don't hard-code semantics
-                extra_metrics[str(aux_label)] = aux_value
+        for row in table["rows"]:
+            row_id = row["row_id"]
+            outcome_label = row["outcome_label"]
+            col_index = row["column_index"]
+            col_tag = row.get("column_tag")
+            arm_label = row["group_label"]
 
-            analysis_id = f"{study_id}_{table_id}_{row_id}_{est_key}"
+            analysis_id = f"{study_id}_{table_id}_{row_id}"
 
             analyses.append(
                 {
@@ -120,26 +98,27 @@ def build_qex_inventory_from_normalized_table(
                     "study_id": study_id,
                     "table_id": table_id,
                     "row_id": row_id,
-                    "estimator": est_label,
-                    "outcome_label": variable_label,
-                    "om_outcome_id": om_outcome_id,
-                    # Natural outcome scale; semantics can be refined later.
+                    "column_index": col_index,
+                    "column_tag": col_tag,
+                    "outcome_label": outcome_label,
+                    "om_outcome_id": None,
+                    "arm_label": arm_label,
+                    "contrast_label": None,
+                    "estimator": None,  # fill with "OLS" or similar later if you want
                     "effect_metric": "raw_scale",
-                    "estimate": estimate,
-                    "se": se,
+                    "estimate": row.get("estimate"),
+                    "se": row.get("se"),
                     "n_total": n_total,
-                    "extra_metrics": extra_metrics,
-                    "notes": "",
+                    "extra_metrics": {},
+                    "notes": notes,
                 }
             )
+
+    else:
+        raise ValueError(f"Unsupported normalized table format for table_id={table_id}")
 
     return {
         "study_id": study_id,
         "table_id": table_id,
-        "outcome_family": outcome_family,
-        "om_outcome_id": om_outcome_id,
-        "caption": caption,
-        "notes": notes,
-        "header_rows": header_rows,
         "analyses": analyses,
     }
