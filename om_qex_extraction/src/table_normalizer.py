@@ -9,10 +9,6 @@ from typing import Any, Dict, List, Optional
 import pandas as pd
 
 
-import math
-import re
-from typing import Any, Optional
-
 def _is_nan(val: Any) -> bool:
     if val is None:
         return True
@@ -224,6 +220,14 @@ def normalize_abm_income_table_t7(
         label_lines: List[str] = []
         if isinstance(val0, str) and val0.strip():
             label_lines.append(val0.strip())
+        
+        unique_lines: List[str] = []
+        for ln in label_lines:
+            if ln not in unique_lines:
+                unique_lines.append(ln)
+
+        label_raw = " ".join(unique_lines)
+        outcome_label = _clean_hyphenated_label(label_raw) if label_raw else None
 
         # Possible continuation of the label on the next row
         next_idx = i + 1
@@ -349,41 +353,43 @@ import pandas as pd
 # ... _is_nan, parse_numeric_string, parse_integer_with_thousands already defined above ...
 
 
+import re
+from typing import Any, Dict, List, Optional
+
+import pandas as pd
+
+# assumes _is_nan, parse_numeric_string, parse_integer_with_thousands already exist
+
 def _clean_hyphenated_label(text: str) -> str:
-    """
-    Merge hyphenated line breaks like 'expendi-' 'tures' -> 'expenditures'.
-    """
+    """Merge hyphenated line breaks like 'expendi-' 'tures' -> 'expenditures'."""
     text = re.sub(r"\s+", " ", text.strip())
-    # Merge word- hyphen + space + word => single word
     text = re.sub(r"(\w+)-\s+(\w+)", r"\1\2", text)
     return text
 
 
-def normalize_teep_nonfood_table16(
+def normalize_teep_multiarm_table(
     header_df: pd.DataFrame,
     body_df: pd.DataFrame,
-    study_id: str = "TEEP_Malawi",
-    table_id: str = "T16_nonfood",
+    *,
+    study_id: str,
+    table_id: str,
+    arms_config: List[Dict[str, Any]],
 ) -> Dict[str, Any]:
     """
-    Normalize Table 16: Project impact on non-food expenditures (Malawi paper).
+    Generic normalizer for TEEP-style multi-arm regression tables.
 
-    Pattern:
-      - Header chunk (header_df) contains caption + multi-row column headers.
-      - Body chunk (body_df) contains:
-          - coefficients for each arm in specific rows
-          - SE rows beneath
-          - 'Observations' row with N
-          - Notes row.
-
-    Output format is compatible with a generalized QEX builder.
+    Assumes:
+      - header_df: top chunk (caption + multi-row headers)
+      - body_df:   bottom chunk (coeff rows, SE rows, Observations, Notes)
+      - arms_config: list of dicts like:
+          {"group_label": "Project", "effect_row": 0, "se_row": 2}
     """
 
-    # Caption & raw header rows
+    # ---- Caption + raw header rows ----
     caption = str(header_df.iloc[0, 0]).strip()
     header_rows: List[List[Any]] = header_df.values.tolist()
 
-    # Build column metadata (for columns 1..12)
+    # ---- Column metadata from header ----
     columns: List[Dict[str, Any]] = []
     n_cols = header_df.shape[1]
 
@@ -409,7 +415,7 @@ def normalize_teep_nonfood_table16(
             }
         )
 
-    # Find Observations row and Notes row in body
+    # ---- Observations row + Notes row in body ----
     obs_row_idx: Optional[int] = None
     notes_row_idx: Optional[int] = None
 
@@ -424,23 +430,14 @@ def normalize_teep_nonfood_table16(
 
     n_total: Optional[int] = None
     if obs_row_idx is not None:
-        # N is repeated across columns, we just take column 1 and parse as integer
         n_val = body_df.iloc[obs_row_idx, 1]
-        from typing import cast
-        n_total = parse_integer_with_thousands(cast(Any, n_val))
+        n_total = parse_integer_with_thousands(n_val)
 
     notes = ""
     if notes_row_idx is not None:
         notes = str(body_df.iloc[notes_row_idx, 0]).strip()
 
-    # Arm configuration: map each arm to its coefficient & SE rows
-    arms_config = [
-        {"group_label": "Project", "effect_row": 0, "se_row": 2},
-        {"group_label": "Lump-sum plus training", "effect_row": 3, "se_row": 6},
-        {"group_label": "Lump-sum only", "effect_row": 7, "se_row": 10},
-        {"group_label": "Training-only", "effect_row": 11, "se_row": 13},
-    ]
-
+    # ---- Arms: coeff + SE rows per arm ----
     rows: List[Dict[str, Any]] = []
 
     for arm in arms_config:
@@ -456,7 +453,7 @@ def normalize_teep_nonfood_table16(
 
             effect_raw = effect_row[j]
             if _is_nan(effect_raw):
-                continue  # no effect in this column for this arm
+                continue
 
             se_raw = se_row[j] if se_idx < body_df.shape[0] else None
 
@@ -479,7 +476,7 @@ def normalize_teep_nonfood_table16(
                 }
             )
 
-    normalized: Dict[str, Any] = {
+    return {
         "study_id": study_id,
         "table_id": table_id,
         "caption": caption,
@@ -490,4 +487,177 @@ def normalize_teep_nonfood_table16(
         "notes": notes,
     }
 
-    return normalized
+def normalize_teep_nonfood_table16(
+    header_df: pd.DataFrame,
+    body_df: pd.DataFrame,
+    study_id: str = "TEEP_Malawi",
+    table_id: str = "T16_nonfood",
+) -> Dict[str, Any]:
+    """
+    Wrapper for Table 16: Project impact on non-food expenditures.
+    """
+    arms_config = [
+        {"group_label": "Project", "effect_row": 0, "se_row": 2},
+        {"group_label": "Lump-sum plus training", "effect_row": 3, "se_row": 6},
+        {"group_label": "Lump-sum only", "effect_row": 7, "se_row": 10},
+        {"group_label": "Training-only", "effect_row": 11, "se_row": 13},
+    ]
+
+    return normalize_teep_multiarm_table(
+        header_df=header_df,
+        body_df=body_df,
+        study_id=study_id,
+        table_id=table_id,
+        arms_config=arms_config,
+    )
+
+import pandas as pd
+from typing import Any, Dict, List, Optional
+
+# assumes _is_nan, _clean_hyphenated_label, parse_numeric_string,
+# and parse_integer_with_thousands already exist above
+
+
+def normalize_teep_consumption_poverty_table17(
+    header_df: pd.DataFrame,  # unused, but kept for consistent signature
+    body_df: pd.DataFrame,
+    study_id: str = "TEEP_Malawi",
+    table_id: str = "T17_consumption_poverty",
+) -> Dict[str, Any]:
+    """
+    Normalize Table 17: Project impact on total consumption and poverty.
+
+    Note: Camelot's 'header' chunk is useless here, so we ignore header_df
+    and derive caption + column metadata from body_df.
+    """
+
+    # ---- Caption from row 3 ----
+    cap_parts: List[str] = []
+    v0 = body_df.iloc[3, 0]
+    v1 = body_df.iloc[3, 1]
+    if isinstance(v0, str) and v0.strip():
+        cap_parts.append(v0.strip())
+    if isinstance(v1, str) and v1.strip():
+        cap_parts.append(v1.strip())
+    caption = " ".join(cap_parts)
+
+    # ---- Header rows: keep rows 3–7 for reference ----
+    header_rows = body_df.iloc[3:8].values.tolist()
+
+    # ---- Column metadata from rows 4–7 ----
+    columns: List[Dict[str, Any]] = []
+    n_cols = body_df.shape[1]
+
+    for j in range(1, n_cols):
+        # tags: row 4 has "(1) (2)", "(3)", "(4)"
+        tag_cell = body_df.iloc[4, j]
+        col_tag: Optional[str] = None
+        if isinstance(tag_cell, str) and tag_cell.strip():
+            col_tag = " ".join(tag_cell.split())  # collapse spaces/newlines
+
+        # label lines from rows 5–7
+        label_lines: List[str] = []
+        for r in range(5, 8):
+            cell = body_df.iloc[r, j]
+            if isinstance(cell, str) and cell.strip():
+                label_lines.append(cell.strip())
+
+        label_raw = " ".join(label_lines)
+        outcome_label: Optional[str] = (
+            _clean_hyphenated_label(label_raw) if label_raw else None
+        )
+
+        columns.append(
+            {
+                "column_index": j,
+                "column_tag": col_tag,
+                "outcome_label": outcome_label,
+                "raw_header_lines": label_lines,
+            }
+        )
+
+    # ---- Observations row (row 16) ----
+    obs_row_idx = 16
+    n_total: Optional[int] = None
+    if obs_row_idx < body_df.shape[0]:
+        raw_obs = body_df.iloc[obs_row_idx, 1]  # e.g., "776 776"
+        n_token = None
+
+    if isinstance(raw_obs, str):
+        # grab first integer-like token: "776" out of "776 776"
+        m = re.search(r"\d[\d,\.]*", raw_obs)
+        if m:
+            n_token = m.group(0)
+    else:
+        n_token = raw_obs
+
+    if n_token is not None:
+        n_total = parse_integer_with_thousands(n_token)
+
+
+    # ---- Notes from rows 17–19 ----
+    notes_parts: List[str] = []
+    for i in range(17, body_df.shape[0]):
+        for c in range(0, min(2, body_df.shape[1])):  # first two cols have the text
+            cell = body_df.iloc[i, c]
+            if isinstance(cell, str) and cell.strip():
+                notes_parts.append(cell.strip())
+    notes = " ".join(notes_parts)
+
+    # ---- Arms: effect + SE rows ----
+    arms_config = [
+        {"group_label": "Project", "effect_row": 8, "se_row": 9},
+        {"group_label": "Lump-sum plus training", "effect_row": 10, "se_row": 11},
+        {"group_label": "Lump-sum only", "effect_row": 12, "se_row": 13},
+        {"group_label": "Training-only", "effect_row": 14, "se_row": 15},
+    ]
+
+    rows: List[Dict[str, Any]] = []
+
+    for arm in arms_config:
+        group_label = arm["group_label"]
+        eff_idx = arm["effect_row"]
+        se_idx = arm["se_row"]
+
+        effect_row = body_df.iloc[eff_idx]
+        se_row = body_df.iloc[se_idx]
+
+        for col in columns:
+            j = col["column_index"]
+
+            effect_raw = effect_row[j]
+            if _is_nan(effect_raw):
+                continue
+
+            se_raw = se_row[j] if se_idx < body_df.shape[0] else None
+
+            estimate = parse_numeric_string(effect_raw)
+            se_val = parse_numeric_string(se_raw) if not _is_nan(se_raw) else None
+
+            row_id = f"{table_id}_{group_label.replace(' ', '').replace('-', '')}_col{j}"
+
+            rows.append(
+                {
+                    "row_id": row_id,
+                    "group_label": group_label,
+                    "column_index": j,
+                    "column_tag": col["column_tag"],
+                    "outcome_label": col["outcome_label"],
+                    "estimate_raw": effect_raw,
+                    "estimate": estimate,
+                    "se_raw": se_raw,
+                    "se": se_val,
+                }
+            )
+
+    return {
+        "study_id": study_id,
+        "table_id": table_id,
+        "caption": caption,
+        "header_rows": header_rows,
+        "n": n_total,
+        "columns": columns,
+        "rows": rows,
+        "notes": notes,
+    }
+
