@@ -548,6 +548,26 @@ def normalize_teep_consumption_poverty_table17(
     columns: List[Dict[str, Any]] = []
     n_cols = body_df.shape[1]
 
+    def _dedupe_header_line(text: str) -> str:
+        """
+        Fix lines like:
+          'Per capita total Per capita total'
+          'consumption  consumption'
+          '(MWK) (MWK)'
+        by removing repeated halves and consecutive duplicates.
+        """
+        tokens = re.split(r"\s+", text.strip())
+        n = len(tokens)
+        # If the line looks like two identical halves, keep only one
+        if n >= 2 and n % 2 == 0 and tokens[: n // 2] == tokens[n // 2 :]:
+            tokens = tokens[: n // 2]
+        # Also collapse consecutive duplicate tokens
+        out: List[str] = []
+        for t in tokens:
+            if not out or t != out[-1]:
+                out.append(t)
+        return " ".join(out)
+
     for j in range(1, n_cols):
         # tags: row 4 has "(1) (2)", "(3)", "(4)"
         tag_cell = body_df.iloc[4, j]
@@ -562,7 +582,10 @@ def normalize_teep_consumption_poverty_table17(
             if isinstance(cell, str) and cell.strip():
                 label_lines.append(cell.strip())
 
-        label_raw = " ".join(label_lines)
+        # clean each line, but keep *all* semantic content
+        cleaned_lines = [_dedupe_header_line(ln) for ln in label_lines]
+
+        label_raw = " ".join(cleaned_lines).strip()
         outcome_label: Optional[str] = (
             _clean_hyphenated_label(label_raw) if label_raw else None
         )
