@@ -40,7 +40,7 @@ class InterventionInfo(BaseModel):
     intervention_abbreviation: Optional[str] = None
     intervention_name: Optional[str] = None
     intervention_description: Optional[str] = Field(None, description="Brief description of intervention")
-    country: str = Field(..., description="Country where intervention took place")
+    country: Optional[str] = Field(None, description="Country where intervention took place")
     first_year_of_intervention: Optional[int] = Field(None, description="Year intervention started")
     length_of_follow_up: Optional[str] = Field(None, description="Follow-up period (e.g., '12 months', '3 years')")
     exposure_to_intervention: Optional[str] = Field(None, description="Duration of intervention exposure")
@@ -61,8 +61,30 @@ class InterventionInfo(BaseModel):
 
 class MethodInfo(BaseModel):
     """Evaluation methodology."""
-    evaluation_design: Optional[str] = Field(None, description="RCT, quasi-experimental, etc.")
-    evaluation_method: Optional[str] = Field(None, description="Specific method: DiD, RDD, IV, etc.")
+    evaluation_design: Optional[str] = Field(
+        None, description="Text description: RCT, quasi-experimental, etc."
+    )
+    evaluation_method: Optional[str] = Field(
+        None, description="Text: DiD, RDD, IV, etc."
+    )
+
+    evaluation_design_code: Optional[int] = Field(
+        None,
+        description=(
+            "0 = Quasi-experimental (incl. natural experiments, non-randomised); "
+            "1 = Experimental (randomised assignment)."
+        ),
+    )
+    evaluation_method_code: Optional[str] = Field(
+        None,
+        description=(
+            "Evaluation method code(s): "
+            "1=RCT; 2=Cluster RCT; 3=Natural experiment; 4=RDD; 5=DiD/fixed effects; "
+            "6=IV; 7=Endogenous treatment-effects; 8=Matching/weighting; "
+            "9=ITS; 10=Synthetic control. "
+            "If more than one, use semicolon-separated string like '1;5'."
+        ),
+    )
 
 
 # ============================================================================
