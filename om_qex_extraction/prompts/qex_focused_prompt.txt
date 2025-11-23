@@ -16,13 +16,23 @@ For EACH outcome identified by OM (listed below), extract complete statistical d
 
 ```json
 {
-  "study_id": "string (EPPI-Reviewer ID if available)",
-  "program_name": "string (full intervention name)",
-  "country": "string",
-  "year_intervention_started": integer,
-  "evaluation_design": "string (RCT, quasi-experimental, etc.)",
-  "sample_size_treatment": integer,
-  "sample_size_control": integer,
+  "study_id": "string or null (EPPI-Reviewer ID if available; if not clearly reported, use null and do NOT guess)",
+  "program_name": "string or null (full intervention name; if not clearly reported, use null)",
+  "country": "string or null",
+  "year_intervention_started": integer or null,
+
+  "evaluation_design": "string or null (RCT, quasi-experimental, etc.)",
+  "evaluation_design_code": 0 or 1 or null,
+  "evaluation_method": "string or null (e.g., 'Cluster RCT', 'Difference-in-differences')",
+  "evaluation_method_code": "string or null (e.g., '2', '5;8')",
+
+  "intervention_description": "string or null (concise description of intervention components relevant to the extracted estimates)",
+  "length_of_follow_up": "string or null (prefer months, e.g., '48' for 4 years; see rules)",
+  "exposure_to_intervention": "string or null (prefer months, e.g., '24' for 2 years; see rules)",
+
+  "sample_size_treatment": integer or null,
+  "sample_size_control": integer or null,
+
   "graduation_components": {
     "consumption_support": "Yes" | "No" | "Not mentioned",
     "healthcare": "Yes" | "No" | "Not mentioned",
@@ -32,21 +42,22 @@ For EACH outcome identified by OM (listed below), extract complete statistical d
     "coaching": "Yes" | "No" | "Not mentioned",
     "social_empowerment": "Yes" | "No" | "Not mentioned"
   },
+
   "outcomes": [
     {
       "outcome_name": "string (short name - use OM category as guidance)",
       "outcome_description": "string (detailed description with units)",
       "effect_size": float (regression coefficient, mean difference, etc.),
-      "p_value": float (exact p-value, e.g., 0.023 not 'p<0.05'),
-      "standard_error": float (if available),
-      "confidence_interval_lower": float (if available),
-      "confidence_interval_upper": float (if available),
+      "p_value": float (exact p-value, e.g., 0.023 not 'p<0.05') or null,
+      "standard_error": float or null,
+      "confidence_interval_lower": float or null,
+      "confidence_interval_upper": float or null,
       "literal_text": "string (exact text showing the estimate)",
       "text_position": "string (table/page location)"
     }
   ]
 }
-```
+
 
 # FIELD DEFINITIONS
 
@@ -69,12 +80,54 @@ You MUST extract ALL outcomes listed in the OM GUIDANCE section. For each one:
 ## Study Design Fields
 
 - **evaluation_design**: Type of study
-  - "Randomized Controlled Trial", "Difference-in-Differences", "Regression Discontinuity", etc.
+  - e.g., "Randomized Controlled Trial", "Cluster Randomised Controlled Trial", "Difference-in-Differences", "Regression Discontinuity", "Instrumental Variables".
+- **evaluation_design_code**:
+  - 1 = Experimental (randomised assignment, including individual and cluster RCTs)
+  - 0 = Quasi-experimental (including natural experiments and all non-randomised designs)
+
+- **evaluation_method**: Free-text description of the specific method used for identification.
+  - e.g., "Cluster RCT", "Difference-in-differences with fixed effects", "sharp RDD", "two-stage least squares IV", "propensity score matching".
+- **evaluation_method_code**:
+  - If Experimental (randomised):
+    - "1" = Randomised controlled trial (individual randomisation)
+    - "2" = Cluster RCT
+  - If Quasi-experiment / Natural experiment:
+    - "3" = Natural experiment in which exposure to treatment is random
+    - "4" = Regression Discontinuity Design (RDD)
+    - "5" = Difference-in-Differences (DID) / Fixed effects estimation
+    - "6" = Instrumental variable (IV) estimation
+    - "7" = Endogenous treatment-effects models (including endogenous switching regression, Heckman-type models)
+    - "8" = Statistical matching / weighting (e.g., propensity score matching, IPW)
+    - "9" = Interrupted time series (ITS)
+    - "10" = Synthetic control
+  - If more than one method is used, return a semicolon-separated string (e.g., "5;8").
+  - If the method is unclear or not reported, set `evaluation_method_code` to null (do NOT guess).
 
 ## Statistical Fields
 
 - **sample_size_treatment**: Number of participants in treatment group
 - **sample_size_control**: Number of participants in control group
+
+## Intervention Description and Timing Fields
+
+- **intervention_description**:
+  - Provide a concise description of the intervention components relevant to the extracted outcomes.
+  - Summarise what the intervention is, how it works, and the key components, using short phrases.
+  - You MAY quote brief phrases from the paper, but keep it concise.
+
+- **length_of_follow_up**:
+  - Number of months between the END of the intervention and the date of the final outcome measurement.
+  - If only years are given, convert to months (e.g., 4 years → "48").
+  - If only weeks are given, convert to months approximately (e.g., 1 week → "0.25").
+  - Return this as a simple number string (e.g., "48", "12", "0.25"), NOT as text like "4 years" or "12 months".
+  - If you cannot determine the timing from the paper, use null (do NOT guess).
+
+- **exposure_to_intervention**:
+  - Total number of months participants were exposed to the intervention.
+  - Same conversion rules as above: years/weeks → months; return a numeric string.
+  - Example: a two-year program → "24"; a 6-month program → "6"; one week → "0.25".
+  - If you cannot determine the exposure duration, use null (do NOT guess).
+
 
 ## Graduation Program Components
 
@@ -87,6 +140,10 @@ For EACH component, classify as "Yes", "No", or "Not mentioned":
 - **coaching**: Mentoring or motivational support
 - **social_empowerment**: Community mobilization, women's empowerment activities
 
+If the paper clearly states that a component is present, use "Yes".
+If the paper clearly states that a component is not part of the intervention, use "No".
+If the paper does not clearly mention a component, use "Not mentioned" (do NOT guess).
+
 # EXTRACTION RULES
 
 1. **Use OM Guidance**: The outcomes listed below were already identified - find them in the paper using the location hints
@@ -97,6 +154,15 @@ For EACH component, classify as "Yes", "No", or "Not mentioned":
    - If exact p-value not given but stars shown, estimate: *** → 0.01, ** → 0.05, * → 0.10
 6. **Missing data**: Use null for any field that cannot be found
 7. **Units matter**: Include units in outcome_description (e.g., "Malawian Kwacha", "USD", "index 0-1")
+8. **Intervention timing**:
+   - For length_of_follow_up and exposure_to_intervention, always prefer months if possible.
+   - Convert years/weeks to months (e.g., 2 years → "24"; 6 weeks → "1.5").
+   - Return these as numeric strings (e.g., "24"), not phrases like "2 years".
+
+9. **Coded evaluation fields**:
+   - Only assign evaluation_design_code and evaluation_method_code when the design/method is clearly described.
+   - If uncertain, leave the code fields as null rather than guessing.
+
 
 # EXAMPLE OUTPUT
 
@@ -106,9 +172,19 @@ For EACH component, classify as "Yes", "No", or "Not mentioned":
   "program_name": "Tingathe Economic Empowerment Programme (TEEP)",
   "country": "Malawi",
   "year_intervention_started": 2016,
-  "evaluation_design": "Randomized Controlled Trial",
+
+  "evaluation_design": "Cluster randomised controlled trial",
+  "evaluation_design_code": 1,
+  "evaluation_method": "Cluster RCT",
+  "evaluation_method_code": "2",
+
+  "intervention_description": "Graduation-style intervention combining cash transfers, assets, skills training, savings groups and coaching for ultra-poor households.",
+  "length_of_follow_up": "48",
+  "exposure_to_intervention": "24",
+
   "sample_size_treatment": 445,
   "sample_size_control": 423,
+
   "graduation_components": {
     "consumption_support": "Yes",
     "healthcare": "No",
@@ -118,6 +194,7 @@ For EACH component, classify as "Yes", "No", or "Not mentioned":
     "coaching": "Yes",
     "social_empowerment": "Not mentioned"
   },
+
   "outcomes": [
     {
       "outcome_name": "Amount savings (MWK)",

@@ -187,11 +187,15 @@ def build_quant_form(qex_csv: Path, master_csv: Path, out_csv: Path):
     else:
         df["Intervention description"] = ""
 
-    # First year of intervention (int)
-    if first_year_col:
-        df["Frist year of intervention"] = pd.to_numeric(
-            df[first_year_col], errors="coerce"
-        ).astype("Int64")
+    # --- Frist year of intervention (from QEX) ---
+
+    # Prefer the QEX field `year_intervention_started` and do NOT overwrite
+    # it later from the master metadata (which doesn't know about PHRKN65M).
+    if "year_intervention_started" in df.columns:
+        df["Frist year of intervention"] = (
+            pd.to_numeric(df["year_intervention_started"], errors="coerce")
+            .astype("Int64")
+        )
     else:
         df["Frist year of intervention"] = pd.Series([pd.NA] * len(df), dtype="Int64")
 
@@ -207,6 +211,32 @@ def build_quant_form(qex_csv: Path, master_csv: Path, out_csv: Path):
     else:
         df["Exposure to intervention"] = None
 
+    # --- Intervention name fields ---
+
+    # Use program_name from QEX for the Quant form's
+    # "Intervention abbreviation and name" column.
+    if "program_name" in df.columns:
+        df["Intervention abbreviation and name"] = df["program_name"].fillna("")
+    else:
+        df["Intervention abbreviation and name"] = ""
+
+    # Detailed intervention description (from LLM)
+    if "intervention_description" in df.columns:
+        df["Intervention description"] = df["intervention_description"].fillna("")
+    else:
+        df["Intervention description"] = ""
+
+    # Timing fields – keep as-is for now (LLM returns numeric-ish strings)
+    if "length_of_follow_up" in df.columns:
+        df["Length of follow up"] = df["length_of_follow_up"]
+    else:
+        df["Length of follow up"] = ""
+
+    if "exposure_to_intervention" in df.columns:
+        df["Exposure to intervention"] = df["exposure_to_intervention"]
+    else:
+        df["Exposure to intervention"] = ""
+
     # --- Components (Yes/No/Not mentioned -> 0/1/None) ---
     comp_map = {
         "Consumption support (cash or in-kind) to stabilize food security and prevent households from selling assets to survive ": "consumption_support",
@@ -217,6 +247,13 @@ def build_quant_form(qex_csv: Path, master_csv: Path, out_csv: Path):
         "Coaching and mentoring to offer continuous motivation and goal-setting support.": "coaching",
         "Social empowerment and linkages to social protection, markets, and public services to encourage opportunities and inclusion in existing systems.": "social_empowerment",
     }
+    
+    # --- Outcome name mapping into Quant form ---
+
+    if "outcome_name" in df.columns:
+        df["Outcome name"] = df["outcome_name"]
+    else:
+        df["Outcome name"] = ""
 
     for out_col, base_name in comp_map.items():
         # In QEX output, components are named like 'component_<base_name>'
@@ -306,6 +343,7 @@ def build_quant_form(qex_csv: Path, master_csv: Path, out_csv: Path):
         "Social empowerment and linkages to social protection, markets, and public services to encourage opportunities and inclusion in existing systems.",
         "Evaluation Design",
         "Evaluation Method",
+        "Outcome name",
     ]
 
     # Ensure columns exist; if not, create blanks

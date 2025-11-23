@@ -61,30 +61,35 @@ class InterventionInfo(BaseModel):
 
 class MethodInfo(BaseModel):
     """Evaluation methodology."""
+    # Free-text descriptions (what you already have)
     evaluation_design: Optional[str] = Field(
-        None, description="Text description: RCT, quasi-experimental, etc."
+        None,
+        description="Free-text design description, e.g., 'Randomized controlled trial', 'Difference-in-differences quasi-experiment'.",
     )
     evaluation_method: Optional[str] = Field(
-        None, description="Text: DiD, RDD, IV, etc."
+        None,
+        description="Free-text method description, e.g., 'Cluster RCT', 'DID with fixed effects', 'RDD', 'IV', etc.",
     )
 
+    # Coded fields aligned with the Quant Extraction Form
     evaluation_design_code: Optional[int] = Field(
         None,
         description=(
-            "0 = Quasi-experimental (incl. natural experiments, non-randomised); "
+            "0 = Quasi-experimental (including natural experiments and non-randomised); "
             "1 = Experimental (randomised assignment)."
         ),
     )
     evaluation_method_code: Optional[str] = Field(
         None,
         description=(
-            "Evaluation method code(s): "
-            "1=RCT; 2=Cluster RCT; 3=Natural experiment; 4=RDD; 5=DiD/fixed effects; "
-            "6=IV; 7=Endogenous treatment-effects; 8=Matching/weighting; "
-            "9=ITS; 10=Synthetic control. "
-            "If more than one, use semicolon-separated string like '1;5'."
+            "If Experimental: '1' = RCT, '2' = Cluster RCT. "
+            "If Quasi/Natural: '3' = Natural experiment; '4' = RDD; "
+            "'5' = DiD/FE; '6' = IV; '7' = endogenous treatment models; "
+            "'8' = matching/weighting; '9' = ITS; '10' = synthetic control. "
+            "If more than one, use a semicolon-separated string like '5;8'."
         ),
     )
+
 
 
 # ============================================================================

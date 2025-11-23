@@ -436,6 +436,16 @@ class ExtractionEngine:
                     'country': result.get('country'),
                     'year_intervention_started': result.get('year_intervention_started'),
                     'evaluation_design': result.get('evaluation_design'),
+                    # NEW: intervention description + timing
+                     "intervention_description": result.get("intervention_description"),
+                    "length_of_follow_up": result.get("length_of_follow_up"),
+                     "exposure_to_intervention": result.get("exposure_to_intervention"),
+
+                     # NEW: coded evaluation fields
+                     "evaluation_design_code": result.get("evaluation_design_code"),
+                      "evaluation_method": result.get("evaluation_method"),
+                     "evaluation_method_code": result.get("evaluation_method_code"),
+
                     'sample_size_treatment': result.get('sample_size_treatment'),
                     'sample_size_control': result.get('sample_size_control')
                 }
