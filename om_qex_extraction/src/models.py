@@ -41,6 +41,13 @@ class InterventionInfo(BaseModel):
     intervention_name: Optional[str] = None
     intervention_description: Optional[str] = Field(None, description="Brief description of intervention")
     country: Optional[str] = Field(None, description="Country where intervention took place")
+    # timing structure
+    intervention_start_year: Optional[int] = None
+    intervention_start_month: Optional[int] = None
+    intervention_end_year: Optional[int] = None
+    intervention_end_month: Optional[int] = None
+    final_followup_year: Optional[int] = None
+    final_followup_month: Optional[int] = None
     first_year_of_intervention: Optional[int] = Field(None, description="Year intervention started")
     length_of_follow_up: Optional[str] = Field(None, description="Follow-up period (e.g., '12 months', '3 years')")
     exposure_to_intervention: Optional[str] = Field(None, description="Duration of intervention exposure")

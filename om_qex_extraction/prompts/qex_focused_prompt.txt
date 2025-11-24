@@ -30,6 +30,13 @@ For EACH outcome identified by OM (listed below), extract complete statistical d
   "length_of_follow_up": "string or null (prefer months, e.g., '48' for 4 years; see rules)",
   "exposure_to_intervention": "string or null (prefer months, e.g., '24' for 2 years; see rules)",
 
+  "intervention_start_year": integer or null,
+  "intervention_start_month": integer or null,   
+  "intervention_end_year": integer or null,
+  "intervention_end_month": integer or null,     
+  "final_followup_year": integer or null,
+  "final_followup_month": integer or null,       
+
   "sample_size_treatment": integer or null,
   "sample_size_control": integer or null,
 
@@ -41,6 +48,13 @@ For EACH outcome identified by OM (listed below), extract complete statistical d
     "savings": "Yes" | "No" | "Not mentioned",
     "coaching": "Yes" | "No" | "Not mentioned",
     "social_empowerment": "Yes" | "No" | "Not mentioned"
+  },
+
+  "graduation_components_rationale": {
+  "consumption_support": "one sentence explaining why you chose Yes/No/Not mentioned",
+  "healthcare": "...",
+  ...
+  "social_empowerment": "..."
   },
 
   "outcomes": [
@@ -108,41 +122,127 @@ You MUST extract ALL outcomes listed in the OM GUIDANCE section. For each one:
 - **sample_size_treatment**: Number of participants in treatment group
 - **sample_size_control**: Number of participants in control group
 
-## Intervention Description and Timing Fields
+### Intervention timing structure (for computation)
+
+Before you fill the duration fields, extract these:
+
+- `intervention_start_year` / `intervention_start_month`:
+  - Approximate month and year when the intervention activities begin
+    (first training, group formation, first transfer, etc.).
+- `intervention_end_year` / `intervention_end_month`:
+  - Approximate month and year when intervention activities end
+    (last training/coaching, final transfer, or when the programme is described as ending).
+- `final_followup_year` / `final_followup_month`:
+  - Approximate month and year of the **latest** follow-up survey used for the outcomes.
+
+If the month is unknown, use `null` for the month and still give the year.
+
+You will ALSO fill:
+
+- `exposure_to_intervention` and `length_of_follow_up` as durations in months,
+  **but these will be recomputed downstream**, so focus on getting the dates right.
 
 - **intervention_description**:
   - Provide a concise description of the intervention components relevant to the extracted outcomes.
   - Summarise what the intervention is, how it works, and the key components, using short phrases.
   - You MAY quote brief phrases from the paper, but keep it concise.
 
-- **length_of_follow_up**:
-  - Number of months between the END of the intervention and the date of the final outcome measurement.
-  - If only years are given, convert to months (e.g., 4 years → "48").
-  - If only weeks are given, convert to months approximately (e.g., 1 week → "0.25").
-  - Return this as a simple number string (e.g., "48", "12", "0.25"), NOT as text like "4 years" or "12 months".
-  - If you cannot determine the timing from the paper, use null (do NOT guess).
+- **EXPOSURE / FOLLOW-UP REASONING (do this INTERNALLY before filling JSON)**:
+  Before you fill in `exposure_to_intervention` and `length_of_follow_up`, think through these four steps:
+
+  1. Identify the **approximate month and year when the intervention starts**  
+     (first training, group formation, first cash or asset transfer, etc.).
+  2. Identify the **approximate month and year when the intervention ends**  
+     (last training/coaching session, final transfer, or the date the programme is described as “ending” or “completed”).
+  3. Identify the **approximate month and year of the FINAL outcome measurement**  
+     (the latest follow-up survey used for the outcomes you are extracting).
+  4. Compute:
+     - `exposure_to_intervention` = months between (start of intervention) and (end of intervention).
+     - `length_of_follow_up` = months between (end of intervention) and (final outcome measurement).
+
+  You MUST follow these steps internally. If needed, approximate months (e.g., early 2016 ≈ January 2016, mid-2017 ≈ June 2017).
 
 - **exposure_to_intervention**:
-  - Total number of months participants were exposed to the intervention.
-  - Same conversion rules as above: years/weeks → months; return a numeric string.
-  - Example: a two-year program → "24"; a 6-month program → "6"; one week → "0.25".
-  - If you cannot determine the exposure duration, use null (do NOT guess).
+  - Definition: **Total duration (in months) that participants were exposed to the intervention**, computed as in step 4 above.
+  - Start: when the FIRST intervention activity that is part of the programme begins.
+  - End: when the LAST intervention activity ends.
+  - Express the duration in **months**:
+    - Years → months (e.g., 2 years → `"24"`).
+    - Weeks → months (e.g., 1 week → `"0.25"`; 6 weeks → `"1.5"`).
+  - Return this as a **numeric string** (e.g., `"12"`, `"7"`, `"0.25"`), NOT `"12 months"` or `"1 year"`.
+  - If you cannot determine this with reasonable confidence, use **null** (do NOT guess).
+
+- **length_of_follow_up**:
+  - Definition: **Number of months between the END of the intervention (same end date you used above) and the date of the FINAL outcome measurement.**
+  - If multiple follow-up rounds exist, use the **latest** follow-up round.
+  - Convert to **months** using the same rules.
+  - Return this as a **numeric string** (e.g., `"7"`, `"12"`).
+  - If you cannot determine this with reasonable confidence, use **null** (do NOT guess).
+
+> Example (this is only an illustration of the logic):  
+> - Intervention activities run roughly throughout 2016.  
+> - Final follow-up survey occurs in June–July 2017.  
+> Then: `exposure_to_intervention ≈ "12"` and `length_of_follow_up ≈ "7"`.
 
 
 ## Graduation Program Components
 
-For EACH component, classify as "Yes", "No", or "Not mentioned":
-- **consumption_support**: Cash or in-kind transfers
-- **healthcare**: Health services or insurance
-- **assets**: Livestock, tools, productive assets
-- **skills_training**: Training for asset management
-- **savings**: Savings accounts or microfinance
-- **coaching**: Mentoring or motivational support
-- **social_empowerment**: Community mobilization, women's empowerment activities
+For EACH component, classify as `"Yes"`, `"No"`, or `"Not mentioned"`.
 
-If the paper clearly states that a component is present, use "Yes".
-If the paper clearly states that a component is not part of the intervention, use "No".
-If the paper does not clearly mention a component, use "Not mentioned" (do NOT guess).
+General rules:
+
+- Code **"Yes"** when there is **clear evidence** that the component is part of the intervention delivered to most participants (even if it is only one of several components).
+- Code **"No"** only if the paper explicitly states that such a component is **not** offered or is clearly outside the programme.
+- Code **"Not mentioned"** when there is **no usable information** either way. Do NOT guess.
+- A single programme can legitimately have **multiple components = "Yes"**.
+
+Component-specific guidance:
+
+- **consumption_support**  
+  *Cash or in-kind transfers intended to stabilise consumption or food security.*
+  - Examples: regular cash transfers, food rations, vouchers for basic needs, top-ups to cover essential expenditures.
+  - Code **"Yes"** when transfers are described mainly as income/consumption support, safety nets, or to prevent selling assets to survive.
+  - If a lump-sum is clearly framed as **capital for productive investment** (business start-up, asset purchase), treat that primarily under **assets** (see below); it can still count as consumption_support if the text also emphasises food/consumption stabilisation.
+
+- **healthcare**  
+  *Health services or financing that address basic health needs.*
+  - Examples: free or subsidised clinic visits, health insurance, community health workers, vouchers for health services.
+  - Health **education only** (e.g., information sessions without service access) is borderline; code **"Yes"** only if there is some concrete service, subsidy, or systematic linkage to care.
+
+- **assets**  
+  *Livestock, tools, equipment, land, or capital intended as a foundation for income generation.*
+  - Examples: livestock, agricultural tools, productive equipment, starter kits, or **lump-sum grants explicitly intended as capital for productive assets or business investment**.
+  - Code **"Yes"** when households receive resources that are meant to build their stock of productive assets, even if the transfer is in cash rather than in-kind.
+  - Pure consumption transfers with no productive framing belong under **consumption_support**, not assets.
+
+- **skills_training**  
+  *Training that builds skills to manage assets, run businesses, or increase productivity/income.*
+  - Examples: technical or vocational training, business/financial management training, farming or livestock husbandry training, life-skills training linked to livelihoods.
+  - Code **"Yes"** for structured group or individual training sessions.  
+    Do **not** code "Yes" for brief programme-orientation meetings or simple information about programme rules.
+
+- **savings**  
+  *Mechanisms that facilitate saving money.*
+  - Examples: savings accounts, savings groups (VSLAs, ROSCAs), matched savings, compulsory savings, microfinance products explicitly framed around savings, interventions whose explicit goal is to increase savings behaviour.
+  - Code **"Yes"** if the programme:
+    - helps participants open or use savings accounts,
+    - organises savings groups or VSLs,
+    - or strongly encourages/organises regular saving as a formal component.
+
+- **coaching**  
+  *Ongoing individual or small-group support beyond one-off training.*
+  - Examples: regular coaching or mentoring visits, case management, home visits, follow-up meetings where staff track progress and provide tailored advice.
+  - One-off training sessions **without** ongoing follow-up are **not** coaching.
+
+- **social_empowerment**  
+  *Activities that build social capital, voice, inclusion, or linkages to institutions/markets/services.*
+  - Code **"Yes"** if the programme includes any of the following (even if the words "social empowerment" are not used):
+    - community-building fairs or collective events,
+    - activities to build social capital or community participation,
+    - formation or strengthening of groups that increase voice or agency (e.g., self-help groups, producer groups, women’s groups),
+    - interinstitutional networks, alliances, or linkages with public institutions, markets, NGOs, or social services,
+    - explicit empowerment activities for women, youth, or other marginalised groups (e.g., rights training, leadership, advocacy, collective action).
+  - Code **"No"** only if the paper clearly indicates that the intervention is purely economic with no community/empowerment or institutional-linkage elements.
 
 # EXTRACTION RULES
 
@@ -154,14 +254,25 @@ If the paper does not clearly mention a component, use "Not mentioned" (do NOT g
    - If exact p-value not given but stars shown, estimate: *** → 0.01, ** → 0.05, * → 0.10
 6. **Missing data**: Use null for any field that cannot be found
 7. **Units matter**: Include units in outcome_description (e.g., "Malawian Kwacha", "USD", "index 0-1")
-8. **Intervention timing**:
-   - For length_of_follow_up and exposure_to_intervention, always prefer months if possible.
-   - Convert years/weeks to months (e.g., 2 years → "24"; 6 weeks → "1.5").
-   - Return these as numeric strings (e.g., "24"), not phrases like "2 years".
-
+8. **Intervention timing (length_of_follow_up and exposure_to_intervention)**:
+   - Follow the definitions and 4-step procedure in the *Intervention Description and Timing Fields* section.
+   - Always express both fields in **months**, as **numeric strings** (e.g., `"24"`, `"7"`, `"0.25"`).
+   - As a sanity check, in most evaluations:
+     - `exposure_to_intervention` should reflect the full programme duration; and
+     - `length_of_follow_up` should usually be **shorter than** `exposure_to_intervention` (unless follow-up occurs long after the programme ends).
+   - If the paper does not provide enough information to compute a value with reasonable confidence, return **null** rather than guessing.
 9. **Coded evaluation fields**:
    - Only assign evaluation_design_code and evaluation_method_code when the design/method is clearly described.
    - If uncertain, leave the code fields as null rather than guessing.
+10. **Graduation components (reasoning step)**:
+   - Before assigning "Yes"/"No"/"Not mentioned" for the 7 components, do this internally:
+     1. Read the full intervention description and list all concrete activities (e.g., lump-sum grant, training sessions, savings groups, community fairs, alliances with institutions).
+     2. For each listed activity, map it to one or more of the 7 components using the definitions above.
+   - Use **"Yes"** when there is any clear evidence that a component is present, even if the exact label is not used.
+   - Use **"No"** only when the paper clearly states that a component is absent or not offered.
+   - Use **"Not mentioned"** when there is no usable information about that component.
+11. For each component, also include a one-sentence rationale explaining which phrases in the paper you used. This rationale is for internal QA; it will NOT be used in the final dataset, but you must write it before choosing "Yes", "No", or "Not mentioned".
+
 
 
 # EXAMPLE OUTPUT

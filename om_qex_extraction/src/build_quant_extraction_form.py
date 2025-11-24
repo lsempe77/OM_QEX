@@ -21,6 +21,7 @@ from typing import Optional
 
 import pandas as pd
 
+import math
 
 # -------------------------
 # Helpers
@@ -93,6 +94,19 @@ def find_column(df: pd.DataFrame, candidates):
         if lc in cols_lower:
             return cols_lower[lc]
     raise KeyError(f"None of the candidate columns {candidates} found in DataFrame.")
+
+def months_between(start_year, start_month, end_year, end_month):
+    """Compute approximate months between two dates given year/month.
+    If any inputs are missing, return pd.NA."""
+    if pd.isna(start_year) or pd.isna(end_year):
+        return pd.NA
+
+    # If month is missing, approximate as June (mid-year)
+    s_m = 6 if pd.isna(start_month) else int(start_month)
+    e_m = 6 if pd.isna(end_month) else int(end_month)
+
+    return (int(end_year) - int(start_year)) * 12 + (e_m - s_m)
+
 
 
 # -------------------------
@@ -187,7 +201,7 @@ def build_quant_form(qex_csv: Path, master_csv: Path, out_csv: Path):
     else:
         df["Intervention description"] = ""
 
-    # --- Frist year of intervention (from QEX) ---
+       # --- Frist year of intervention (from QEX) ---
 
     # Prefer the QEX field `year_intervention_started` and do NOT overwrite
     # it later from the master metadata (which doesn't know about PHRKN65M).
@@ -199,17 +213,55 @@ def build_quant_form(qex_csv: Path, master_csv: Path, out_csv: Path):
     else:
         df["Frist year of intervention"] = pd.Series([pd.NA] * len(df), dtype="Int64")
 
-    # Length of follow up (months)
-    if followup_col:
-        df["Length of follow up"] = df[followup_col].apply(duration_to_months)
-    else:
-        df["Length of follow up"] = None
+    # --- Exposure & follow-up: compute from structured dates when possible ---
 
-    # Exposure to intervention (months)
-    if exposure_col:
-        df["Exposure to intervention"] = df[exposure_col].apply(duration_to_months)
-    else:
-        df["Exposure to intervention"] = None
+    # Initialize numeric duration columns
+    df["exposure_to_intervention_num"] = pd.NA
+    df["length_of_follow_up_num"] = pd.NA
+
+    has_structured_timing = {
+        "intervention_start_year", "intervention_start_month",
+        "intervention_end_year", "intervention_end_month",
+        "final_followup_year", "final_followup_month",
+    }.issubset(df.columns)
+
+    if has_structured_timing:
+        df["exposure_to_intervention_num"] = df.apply(
+            lambda r: months_between(
+                r["intervention_start_year"],
+                r["intervention_start_month"],
+                r["intervention_end_year"],
+                r["intervention_end_month"],
+            ),
+            axis=1,
+        )
+
+        df["length_of_follow_up_num"] = df.apply(
+            lambda r: months_between(
+                r["intervention_end_year"],
+                r["intervention_end_month"],
+                r["final_followup_year"],
+                r["final_followup_month"],
+            ),
+            axis=1,
+        )
+
+    # --- Fallback: use text-based durations only if structured dates are unusable ---
+
+    # These come from the QEX JSON if you kept the original string fields
+    followup_col = "length_of_follow_up" if "length_of_follow_up" in df.columns else None
+    exposure_col = "exposure_to_intervention" if "exposure_to_intervention" in df.columns else None
+
+    # If structured timing gave us nothing (all missing), try text durations
+    if df["exposure_to_intervention_num"].isna().all() and exposure_col:
+        df["exposure_to_intervention_num"] = df[exposure_col].apply(duration_to_months)
+
+    if df["length_of_follow_up_num"].isna().all() and followup_col:
+        df["length_of_follow_up_num"] = df[followup_col].apply(duration_to_months)
+
+    # Final values for the Quant form
+    df["Exposure to intervention"] = df["exposure_to_intervention_num"]
+    df["Length of follow up"] = df["length_of_follow_up_num"]
 
     # --- Intervention name fields ---
 
@@ -226,17 +278,6 @@ def build_quant_form(qex_csv: Path, master_csv: Path, out_csv: Path):
     else:
         df["Intervention description"] = ""
 
-    # Timing fields – keep as-is for now (LLM returns numeric-ish strings)
-    if "length_of_follow_up" in df.columns:
-        df["Length of follow up"] = df["length_of_follow_up"]
-    else:
-        df["Length of follow up"] = ""
-
-    if "exposure_to_intervention" in df.columns:
-        df["Exposure to intervention"] = df["exposure_to_intervention"]
-    else:
-        df["Exposure to intervention"] = ""
-
     # --- Components (Yes/No/Not mentioned -> 0/1/None) ---
     comp_map = {
         "Consumption support (cash or in-kind) to stabilize food security and prevent households from selling assets to survive ": "consumption_support",
@@ -247,7 +288,7 @@ def build_quant_form(qex_csv: Path, master_csv: Path, out_csv: Path):
         "Coaching and mentoring to offer continuous motivation and goal-setting support.": "coaching",
         "Social empowerment and linkages to social protection, markets, and public services to encourage opportunities and inclusion in existing systems.": "social_empowerment",
     }
-    
+
     # --- Outcome name mapping into Quant form ---
 
     if "outcome_name" in df.columns:
@@ -270,7 +311,6 @@ def build_quant_form(qex_csv: Path, master_csv: Path, out_csv: Path):
         else:
             df[out_col] = None
 
-
     # --- Evaluation design & method codes ---
     # MethodInfo-coded fields we just added: evaluation_design_code, evaluation_method_code
     cand_ed_code = [c for c in df.columns if "evaluation_design_code" in c]
@@ -289,13 +329,13 @@ def build_quant_form(qex_csv: Path, master_csv: Path, out_csv: Path):
     else:
         df["Evaluation Method"] = pd.Series([pd.NA] * len(df), dtype="string")
 
-    # --- Metadata fields for the form (from master) ---
-        # Use QEX-derived metadata for now
+    # --- Metadata fields for the form (from master / QEX) ---
+
+    # Use QEX-derived metadata for now
     author_col = "author_name" if "author_name" in df.columns else None
     year_col = "year_of_publication" if "year_of_publication" in df.columns else None
     pubtype_col = None  # no publication type in QEX yet
     country_col = "country" if "country" in df.columns else None
-
 
     # Author name
     df["Author name"] = df[author_col] if author_col else ""

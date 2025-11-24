@@ -438,8 +438,14 @@ class ExtractionEngine:
                     'evaluation_design': result.get('evaluation_design'),
                     # NEW: intervention description + timing
                      "intervention_description": result.get("intervention_description"),
-                    "length_of_follow_up": result.get("length_of_follow_up"),
-                     "exposure_to_intervention": result.get("exposure_to_intervention"),
+                      "exposure_to_intervention": result.get("exposure_to_intervention"),
+                      "length_of_follow_up": result.get("length_of_follow_up"),
+                      "intervention_start_year": result.get("intervention_start_year"),
+                      "intervention_start_month": result.get("intervention_start_month"),
+                      "intervention_end_year": result.get("intervention_end_year"),
+                      "intervention_end_month": result.get("intervention_end_month"),
+                      "final_followup_year": result.get("final_followup_year"),
+                      "final_followup_month": result.get("final_followup_month"),
 
                      # NEW: coded evaluation fields
                      "evaluation_design_code": result.get("evaluation_design_code"),
