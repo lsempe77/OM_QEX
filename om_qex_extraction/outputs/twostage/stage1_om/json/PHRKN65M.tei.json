@@ -1,0 +1,105 @@
+{
+  "study_id": "AuthorYear2023",
+  "outcomes": [
+    {
+      "outcome_group": "Financial Inclusion",
+      "outcome_category": "Financial literacy index",
+      "location": "Page 25; Table 5; Project impact on financial literacy",
+      "literal_text": "Project | 0.581*** (0.135)",
+      "text_position": "Table 5, Row 'Project', Column 'Financial literacy index'"
+    },
+    {
+      "outcome_group": "Financial Inclusion",
+      "outcome_category": "Saving uptake (yes/no)",
+      "location": "Page 26; Table 6; Project impact on saving and loans",
+      "literal_text": "Project | 0.263*** (0.0761)",
+      "text_position": "Table 6, Row 'Project', Column 'Saving uptake (yes/no)'"
+    },
+    {
+      "outcome_group": "Financial Inclusion",
+      "outcome_category": "Amount savings (MWK)",
+      "location": "Page 26; Table 6; Project impact on saving and loans",
+      "literal_text": "Project | 4,408*** (1,369)",
+      "text_position": "Table 6, Row 'Project', Column 'Amount savings (MWK)'"
+    },
+    {
+      "outcome_group": "Financial Inclusion",
+      "outcome_category": "Loan uptake (yes/no)",
+      "location": "Page 26; Table 6; Project impact on saving and loans",
+      "literal_text": "Project | 0.186** (0.0724)",
+      "text_position": "Table 6, Row 'Project', Column 'Loan uptake (yes/no)'"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Start non-farm business (yes/no)",
+      "location": "Page 27; Table 7; Project impact on non-farm business activities",
+      "literal_text": "Project | 0.051 percentage point increase",
+      "text_position": "Table 7, Row 'Project', Column 'Non-farm business start'"
+    },
+    {
+      "outcome_group": "Livestock",
+      "outcome_category": "Per capita number of livestock",
+      "location": "Page 28; Table 9; Project impact on livestock",
+      "literal_text": "Project | 0.288** (0.142)",
+      "text_position": "Table 9, Row 'Project', Column 'Per capita number of livestock'"
+    },
+    {
+      "outcome_group": "Livestock",
+      "outcome_category": "Per capita wealth of livestock (MWK)",
+      "location": "Page 28; Table 9; Project impact on livestock",
+      "literal_text": "Project | 7,462*** (2,129)",
+      "text_position": "Table 9, Row 'Project', Column 'Per capita wealth of livestock (MWK)'"
+    },
+    {
+      "outcome_group": "Assets",
+      "outcome_category": "Per capita number of assets",
+      "location": "Page 29; Table 10; Project impact on number of household assets",
+      "literal_text": "Project | 0.201 (0.136)",
+      "text_position": "Table 10, Row 'Project', Column 'Per capita number of assets'"
+    },
+    {
+      "outcome_group": "Agriculture",
+      "outcome_category": "Per capita quantity of harvest (kg)",
+      "location": "Page 30; Table 12; Project impact on agricultural production",
+      "literal_text": "Project | 42.00* (23.81)",
+      "text_position": "Table 12, Row 'Project', Column 'Per capita quantity of harvest (kg)'"
+    },
+    {
+      "outcome_group": "Agriculture",
+      "outcome_category": "Per capita value of harvest (MWK)",
+      "location": "Page 30; Table 13; Project impact on value of agricultural production",
+      "literal_text": "Project | 3,496* (1,933)",
+      "text_position": "Table 13, Row 'Project', Column 'Per capita value of harvest (MWK)'"
+    },
+    {
+      "outcome_group": "Food Security",
+      "outcome_category": "Diet diversity score",
+      "location": "Page 32; Table 15; Project impact on food consumption and food security",
+      "literal_text": "Project | 0.0329 (0.174)",
+      "text_position": "Table 15, Row 'Project', Column 'Diet diversity score'"
+    },
+    {
+      "outcome_group": "Expenditure/Consumption",
+      "outcome_category": "Per capita total consumption (MWK)",
+      "location": "Page 33; Table 17; Project impact on total consumption and poverty",
+      "literal_text": "Project | 17,595 (12,611)",
+      "text_position": "Table 17, Row 'Project', Column 'Per capita total consumption (MWK)'"
+    },
+    {
+      "outcome_group": "Poverty",
+      "outcome_category": "Poor household (yes/no)",
+      "location": "Page 33; Table 17; Project impact on total consumption and poverty",
+      "literal_text": "Project | -0.0577 (0.0439)",
+      "text_position": "Table 17, Row 'Project', Column 'Poverty (yes/no)'"
+    },
+    {
+      "outcome_group": "Drought Resilience",
+      "outcome_category": "Drought recovery (yes/no)",
+      "location": "Page 34; Table 18; Project impact on drought resilience",
+      "literal_text": "Project | 0.0877* (0.0492)",
+      "text_position": "Table 18, Row 'Project', Column 'Drought recovery (yes/no)'"
+    }
+  ],
+  "_key": "PHRKN65M.tei",
+  "_tei_file": "/Users/joshuapolanin/Documents/OM_QEX/data/grobid_outputs/tei/PHRKN65M.tei.xml"
+}

@@ -1,0 +1,49 @@
+{
+  "study_id": "NicaraguaCCT2006",
+  "outcomes": [
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Total child labor hours per week",
+      "location": "Table 3, Column 1",
+      "literal_text": "Total child labor hours: -0.9 (0.5)*",
+      "text_position": "Table 3, Row 'Total child labor', Column '(1)'"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Household chores labor hours per week",
+      "location": "Table 3, Column 2",
+      "literal_text": "Household chores labor hours: -0.6 (0.3)**",
+      "text_position": "Table 3, Row 'Household chores', Column '(2)'"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Farm work labor hours per week",
+      "location": "Table 3, Column 3",
+      "literal_text": "Farm work labor hours: -0.9 (0.4)**",
+      "text_position": "Table 3, Row 'Farm work', Column '(3)'"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Skill-forming labor hours per week",
+      "location": "Table 3, Column 4",
+      "literal_text": "Skill-forming labor hours: +1.0 (0.5)**",
+      "text_position": "Table 3, Row 'Skill-forming labor', Column '(4)'"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Child labor days in farm work",
+      "location": "Table 5, Column 2",
+      "literal_text": "Farm work labor days: -10.0 (4.2)**",
+      "text_position": "Table 5, Row 'Farm work', Column '(2)'"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Child labor days in skill-forming labor",
+      "location": "Table 5, Column 3",
+      "literal_text": "Skill-forming labor days: +10.2 (5.1)**",
+      "text_position": "Table 5, Row 'Skill-forming labor', Column '(3)'"
+    }
+  ],
+  "_key": "949EZS93.tei",
+  "_tei_file": "/Users/joshuapolanin/Documents/OM_QEX/data/grobid_outputs/tei/949EZS93.tei.xml"
+}

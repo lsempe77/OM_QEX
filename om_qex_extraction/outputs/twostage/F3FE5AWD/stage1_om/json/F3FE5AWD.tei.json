@@ -1,0 +1,42 @@
+{
+  "study_id": "AuthorYear_BRAC_UltraPoor",
+  "outcomes": [
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Real per capita income (constant 2000 Takas)",
+      "location": "Table 5; Page 20; Economic indicators section",
+      "literal_text": "SUP income increased 72% (2002-2005), 74% (2005-2008)",
+      "text_position": "Table 5, Row 'Per capita income', Columns for 2002, 2005, 2008"
+    },
+    {
+      "outcome_group": "Assets",
+      "outcome_category": "Asset value index (Takas)",
+      "location": "Table 5; Page 20; Economic indicators section",
+      "literal_text": "SUP asset value index increased 1,663% (2002-2005), then decreased 12% (2005-2008)",
+      "text_position": "Table 5, Row 'Asset value index', Columns for 2002, 2005, 2008"
+    },
+    {
+      "outcome_group": "Assets",
+      "outcome_category": "Land ownership (decimals)",
+      "location": "Table 5; Page 20; Economic indicators section",
+      "literal_text": "SUP land ownership increased 32% (2002-2005), 50% (2005-2008)",
+      "text_position": "Table 5, Row 'Owned land/cultivable land', Columns for 2002, 2005, 2008"
+    },
+    {
+      "outcome_group": "Financial Inclusion",
+      "outcome_category": "Cash savings proportion",
+      "location": "Table 5; Page 20; Economic indicators section",
+      "literal_text": "SUP cash savings increased from 8% (2002) to 94% (2005) to 98% (2008)",
+      "text_position": "Table 5, Row 'Proportion reporting cash savings', Columns for 2002, 2005, 2008"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Real per capita income change factors",
+      "location": "Table 6; Page 21-22; Income change analysis",
+      "literal_text": "Household characteristics like female head (-490 Takas), literacy (+168 Takas), household size (-461 Takas per member) impact income",
+      "text_position": "Table 6, Various rows showing household characteristic coefficients"
+    }
+  ],
+  "_key": "F3FE5AWD.tei",
+  "_tei_file": "/Users/joshuapolanin/Documents/OM_QEX/data/grobid_outputs/tei/F3FE5AWD.tei.xml"
+}

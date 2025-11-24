@@ -1,0 +1,118 @@
+{
+  "study_id": null,
+  "program_name": "SPIR Development Food Security Activity (DFSA)",
+  "country": "Ethiopia",
+  "year_intervention_started": 2016,
+  "evaluation_design": "Cluster randomized controlled trial",
+  "evaluation_design_code": 1,
+  "evaluation_method": "Cluster RCT",
+  "evaluation_method_code": "2",
+  "intervention_description": "Poultry package with 16 improved breed chickens, feed, coop materials, and veterinary services; unconditional cash transfer of $200 to women in poor households",
+  "length_of_follow_up": "24",
+  "exposure_to_intervention": "12",
+  "intervention_start_year": 2016,
+  "intervention_end_year": 2017,
+  "final_followup_year": 2019,
+  "sample_size_treatment": null,
+  "sample_size_control": null,
+  "graduation_components": {
+    "consumption_support": "Yes",
+    "healthcare": "No",
+    "assets": "Yes",
+    "skills_training": "Yes",
+    "savings": "No",
+    "coaching": "No",
+    "social_empowerment": "No"
+  },
+  "graduation_components_rationale": {
+    "consumption_support": "Cash transfer of $200 provides direct consumption support",
+    "healthcare": "No healthcare services mentioned",
+    "assets": "Poultry package provides productive assets (16 chickens)",
+    "skills_training": "One-time training on poultry husbandry practices",
+    "savings": "No explicit savings mechanism provided",
+    "coaching": "No ongoing coaching mentioned",
+    "social_empowerment": "No social empowerment activities described"
+  },
+  "outcomes": [
+    {
+      "outcome_name": "Probability of wage work",
+      "outcome_description": "Probability of engaging in regular wage work",
+      "effect_size": null,
+      "p_value": null,
+      "standard_error": null,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "Figure 4 shows coefficients for wage work probability",
+      "text_position": "Figure 4"
+    },
+    {
+      "outcome_name": "Probability of casual wage work",
+      "outcome_description": "Probability of engaging in day labor",
+      "effect_size": null,
+      "p_value": null,
+      "standard_error": null,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "Figure 4 shows coefficients for casual wage work probability",
+      "text_position": "Figure 4"
+    },
+    {
+      "outcome_name": "Female savings (reported)",
+      "outcome_description": "Savings reported by women",
+      "effect_size": null,
+      "p_value": null,
+      "standard_error": null,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "Substantial positive effects on savings as reported by women",
+      "text_position": "Figure 3"
+    },
+    {
+      "outcome_name": "Credit access",
+      "outcome_description": "Access to credit or bank accounts",
+      "effect_size": null,
+      "p_value": null,
+      "standard_error": null,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "Little evidence of enhanced access to credit or bank accounts",
+      "text_position": "Figure 3"
+    },
+    {
+      "outcome_name": "Poultry ownership (probability)",
+      "outcome_description": "Probability of owning poultry",
+      "effect_size": 0.4,
+      "p_value": null,
+      "standard_error": null,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "Probability of poultry ownership increases by about 40 percentage points to 94%",
+      "text_position": "Figure 2"
+    },
+    {
+      "outcome_name": "Number of poultry owned",
+      "outcome_description": "Total number of poultry chickens owned",
+      "effect_size": 8,
+      "p_value": null,
+      "standard_error": null,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "Number of poultry owned increases by about eight chickens",
+      "text_position": "Results text"
+    },
+    {
+      "outcome_name": "Poultry sales income",
+      "outcome_description": "Percentage of households reporting income from poultry sales",
+      "effect_size": 0.28,
+      "p_value": null,
+      "standard_error": null,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "64% of poultry package households reported income from poultry sales vs 36% in control arm",
+      "text_position": "Figure 2"
+    }
+  ],
+  "_key": "3MB3HWJK.tei",
+  "_tei_file": "/Users/joshuapolanin/Documents/OM_QEX/data/grobid_outputs/tei/3MB3HWJK.tei.xml",
+  "_om_outcome_count": 7
+}

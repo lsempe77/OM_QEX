@@ -1,0 +1,42 @@
+{
+  "study_id": "Haiti_CLM_2021",
+  "outcomes": [
+    {
+      "outcome_group": "Health",
+      "outcome_category": "Maternal mental health (Kessler Psychological Distress Scale)",
+      "location": "Page 12; Table 5; Maternal mental health results",
+      "literal_text": "Significant positive effect on maternal mental health",
+      "text_position": "Table 5, Row 'Treatment Effect', Column 'Mental Health Score'"
+    },
+    {
+      "outcome_group": "Social Capital/Empowerment",
+      "outcome_category": "Exposure to harsh corporal punishment (percentage)",
+      "location": "Page 13; Table 6; Exposure to violence results",
+      "literal_text": "Reduction from 64.9% to 51.5%, treatment effect of -11.9 percentage points",
+      "text_position": "Table 6, Row 'Harsh Corporal Punishment', Column 'Treatment Effect'"
+    },
+    {
+      "outcome_group": "Social Capital/Empowerment",
+      "outcome_category": "Exposure to violence at home (percentage)",
+      "location": "Page 13; Table 6; Exposure to violence results",
+      "literal_text": "Decrease from 42.0% to 37.3%, no significant effect",
+      "text_position": "Table 6, Row 'Violence at Home', Column 'Treatment Effect'"
+    },
+    {
+      "outcome_group": "Social Capital/Empowerment",
+      "outcome_category": "Exposure to violence outside home (percentage)",
+      "location": "Page 13; Table 6; Exposure to violence results",
+      "literal_text": "Increase from 55.7% to 59.6%, no significant impact",
+      "text_position": "Table 6, Row 'Violence Outside Home', Column 'Treatment Effect'"
+    },
+    {
+      "outcome_group": "Education",
+      "outcome_category": "Child stimulation activities (0-10 scale)",
+      "location": "Page 14; Table 7; Child stimulation results",
+      "literal_text": "No impact on number of stimulation activities with children aged 3-5",
+      "text_position": "Table 7, Row 'Stimulation Activities', Column 'Treatment Effect'"
+    }
+  ],
+  "_key": "3J6UUQJ4.tei",
+  "_tei_file": "/Users/joshuapolanin/Documents/OM_QEX/data/grobid_outputs/tei/3J6UUQJ4.tei.xml"
+}

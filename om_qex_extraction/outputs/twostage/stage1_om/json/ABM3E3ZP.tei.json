@@ -1,0 +1,77 @@
+{
+  "study_id": "121294984",
+  "outcomes": [
+    {
+      "outcome_group": "Poverty",
+      "outcome_category": "Proportion of households living under poverty line (percentage points)",
+      "location": "Page 25; Table 5; Poverty measurement results",
+      "literal_text": "-0.09* (0.05)",
+      "text_position": "Table 5, Row 'Poverty measured by the poverty line', Column 'IV Effect'"
+    },
+    {
+      "outcome_group": "Poverty",
+      "outcome_category": "Probability of falling under poverty conditions (PPI index)",
+      "location": "Page 25; Table 5; Poverty measurement results",
+      "literal_text": "No statistically significant effect",
+      "text_position": "Table 5, Row 'When poverty is measured by using the PPI index'"
+    },
+    {
+      "outcome_group": "Assets",
+      "outcome_category": "Total value of households' assets (USD ppp)",
+      "location": "Page 26; Table 6; Household assets effects",
+      "literal_text": "633.63* (342.10)",
+      "text_position": "Table 6, Row 'Total value of the households' assets (USD ppp)', Column 'IV Effect'"
+    },
+    {
+      "outcome_group": "Assets",
+      "outcome_category": "Total value of animals in households (USD ppp)",
+      "location": "Page 26; Table 6; Household assets effects",
+      "literal_text": "412.63* (232.43)",
+      "text_position": "Table 6, Row 'Total value of animals in the households (USD ppp)', Column 'IV Effect'"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Households' per capita total monthly income (USD ppp)",
+      "location": "Page 27; Table 7; Income effects",
+      "literal_text": "-4.89 (4.96)",
+      "text_position": "Table 7, Row 'Households' per capita total monthly income', Column 'IV Effect'"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Farming related per capita monthly income (USD ppp)",
+      "location": "Page 27; Table 7; Income effects",
+      "literal_text": "4.52* (2.52)",
+      "text_position": "Table 7, Row 'Farming related per capita monthly income', Column 'IV Effect'"
+    },
+    {
+      "outcome_group": "Savings",
+      "outcome_category": "Probability of saving-informal (%)",
+      "location": "Page 28; Table 8; Savings effects",
+      "literal_text": "0.14*** (0.05)",
+      "text_position": "Table 8, Row 'Probability of saving-informal, Total (%)', Column 'IV Effect'"
+    },
+    {
+      "outcome_group": "Expenditure",
+      "outcome_category": "Total household per capita expenditure (USD ppp)",
+      "location": "Page 28; Table 9; Expenditure effects",
+      "literal_text": "4.79 (6.03)",
+      "text_position": "Table 9, Row 'Total household per capita expenditure (USD ppp)', Column 'IV Effect'"
+    },
+    {
+      "outcome_group": "Food Security",
+      "outcome_category": "Food insecurity reduction (%)",
+      "location": "Page 29; Figure 10; Food security results",
+      "literal_text": "6.7% reduction in severe food insecurity",
+      "text_position": "Results section discussing food security"
+    },
+    {
+      "outcome_group": "Social Capital/Empowerment",
+      "outcome_category": "Gender roles scale",
+      "location": "Page 30; Table 11; Empowerment effects",
+      "literal_text": "3.73* (1.96)",
+      "text_position": "Table 11, Row 'Gender roles scale', Column 'IV Effect'"
+    }
+  ],
+  "_key": "ABM3E3ZP.tei",
+  "_tei_file": "/Users/joshuapolanin/Documents/OM_QEX/data/grobid_outputs/tei/ABM3E3ZP.tei.xml"
+}

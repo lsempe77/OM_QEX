@@ -1,0 +1,104 @@
+{
+  "study_id": null,
+  "program_name": "Nicaragua Conditional Cash Transfer (CCT) Program",
+  "country": "Nicaragua",
+  "year_intervention_started": 2005,
+  "evaluation_design": "Randomized Controlled Trial",
+  "evaluation_design_code": 1,
+  "evaluation_method": "Randomized Controlled Trial",
+  "evaluation_method_code": "1",
+  "intervention_description": "Cash transfer program with two packages: basic package conditional on school attendance and health checkups, and a business-grant package providing additional funds for micro-enterprise creation",
+  "length_of_follow_up": "12",
+  "exposure_to_intervention": "12",
+  "sample_size_treatment": 3000,
+  "sample_size_control": 1000,
+  "graduation_components": {
+    "consumption_support": "Yes",
+    "healthcare": "Yes",
+    "assets": "Yes",
+    "skills_training": "Yes",
+    "savings": "No",
+    "coaching": "No",
+    "social_empowerment": "No"
+  },
+  "graduation_components_rationale": {
+    "consumption_support": "Cash transfers provided as safety net mechanism",
+    "healthcare": "Conditional on health checkups and service attendance",
+    "assets": "Business-grant package provided funds for micro-enterprise creation",
+    "skills_training": "Occupational training course offered in one package variant",
+    "savings": "No explicit savings component mentioned",
+    "coaching": "No systematic coaching mentioned",
+    "social_empowerment": "No explicit social empowerment activities described"
+  },
+  "outcomes": [
+    {
+      "outcome_name": "Total child labor hours per week",
+      "outcome_description": "Total hours of child labor in the previous week",
+      "effect_size": -0.9,
+      "p_value": 0.05,
+      "standard_error": 0.5,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "Total child labor hours: -0.9 (0.5)*",
+      "text_position": "Table 3, Column 1"
+    },
+    {
+      "outcome_name": "Household chores labor hours per week",
+      "outcome_description": "Hours spent on household chores in the previous week",
+      "effect_size": -0.6,
+      "p_value": 0.05,
+      "standard_error": 0.3,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "Household chores labor hours: -0.6 (0.3)**",
+      "text_position": "Table 3, Column 2"
+    },
+    {
+      "outcome_name": "Farm work labor hours per week",
+      "outcome_description": "Hours spent on agricultural activities in the previous week",
+      "effect_size": -0.9,
+      "p_value": 0.05,
+      "standard_error": 0.4,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "Farm work labor hours: -0.9 (0.4)**",
+      "text_position": "Table 3, Column 3"
+    },
+    {
+      "outcome_name": "Skill-forming labor hours per week",
+      "outcome_description": "Hours spent on skill-forming activities like commerce and services",
+      "effect_size": 1.0,
+      "p_value": 0.05,
+      "standard_error": 0.5,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "Skill-forming labor hours: +1.0 (0.5)**",
+      "text_position": "Table 3, Column 4"
+    },
+    {
+      "outcome_name": "Child labor days in farm work",
+      "outcome_description": "Days spent on agricultural work in the previous year",
+      "effect_size": -10.0,
+      "p_value": 0.05,
+      "standard_error": 4.2,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "Farm work labor days: -10.0 (4.2)**",
+      "text_position": "Table 5, Column 2"
+    },
+    {
+      "outcome_name": "Child labor days in skill-forming labor",
+      "outcome_description": "Days spent on skill-forming activities in the previous year",
+      "effect_size": 10.2,
+      "p_value": 0.05,
+      "standard_error": 5.1,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "Skill-forming labor days: +10.2 (5.1)**",
+      "text_position": "Table 5, Column 3"
+    }
+  ],
+  "_key": "949EZS93.tei",
+  "_tei_file": "/Users/joshuapolanin/Documents/OM_QEX/data/grobid_outputs/tei/949EZS93.tei.xml",
+  "_om_outcome_count": 6
+}

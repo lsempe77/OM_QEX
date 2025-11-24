@@ -1,0 +1,139 @@
+{
+  "study_id": null,
+  "program_name": "Sembrando Oportunidades Familia por Familia (SOF)",
+  "country": "Paraguay",
+  "year_intervention_started": 2016,
+  "evaluation_design": "Instrumental Variable Impact Evaluation",
+  "evaluation_design_code": 0,
+  "evaluation_method": "Instrumental Variable with Results Evaluation",
+  "evaluation_method_code": "6;5",
+  "intervention_description": "Graduation-style program providing seed capital, technical training, life skills development, and coaching for rural households in extreme poverty",
+  "length_of_follow_up": "18",
+  "exposure_to_intervention": "24",
+  "sample_size_treatment": 502,
+  "sample_size_control": 286,
+  "graduation_components": {
+    "consumption_support": "Yes",
+    "healthcare": "No",
+    "assets": "Yes",
+    "skills_training": "Yes",
+    "savings": "Yes",
+    "coaching": "Yes",
+    "social_empowerment": "Not mentioned"
+  },
+  "outcomes": [
+    {
+      "outcome_name": "Poverty Line",
+      "outcome_description": "Proportion of households living under poverty line (percentage points)",
+      "effect_size": -0.09,
+      "p_value": 0.05,
+      "standard_error": 0.05,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "-0.09* (0.05)",
+      "text_position": "Page 25, Table 5"
+    },
+    {
+      "outcome_name": "Poverty Probability",
+      "outcome_description": "Probability of falling under poverty conditions (PPI index)",
+      "effect_size": null,
+      "p_value": null,
+      "standard_error": null,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "No statistically significant effect",
+      "text_position": "Page 25, Table 5"
+    },
+    {
+      "outcome_name": "Total Asset Value",
+      "outcome_description": "Total value of households' assets (USD ppp)",
+      "effect_size": 633.63,
+      "p_value": 0.05,
+      "standard_error": 342.1,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "633.63* (342.10)",
+      "text_position": "Page 26, Table 6"
+    },
+    {
+      "outcome_name": "Animal Asset Value",
+      "outcome_description": "Total value of animals in households (USD ppp)",
+      "effect_size": 412.63,
+      "p_value": 0.05,
+      "standard_error": 232.43,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "412.63* (232.43)",
+      "text_position": "Page 26, Table 6"
+    },
+    {
+      "outcome_name": "Per Capita Monthly Income",
+      "outcome_description": "Households' per capita total monthly income (USD ppp)",
+      "effect_size": -4.89,
+      "p_value": null,
+      "standard_error": 4.96,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "-4.89 (4.96)",
+      "text_position": "Page 27, Table 7"
+    },
+    {
+      "outcome_name": "Farming Income",
+      "outcome_description": "Farming related per capita monthly income (USD ppp)",
+      "effect_size": 4.52,
+      "p_value": 0.05,
+      "standard_error": 2.52,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "4.52* (2.52)",
+      "text_position": "Page 27, Table 7"
+    },
+    {
+      "outcome_name": "Informal Savings Probability",
+      "outcome_description": "Probability of saving-informal (%)",
+      "effect_size": 0.14,
+      "p_value": 0.01,
+      "standard_error": 0.05,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "0.14*** (0.05)",
+      "text_position": "Page 28, Table 8"
+    },
+    {
+      "outcome_name": "Per Capita Expenditure",
+      "outcome_description": "Total household per capita expenditure (USD ppp)",
+      "effect_size": 4.79,
+      "p_value": null,
+      "standard_error": 6.03,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "4.79 (6.03)",
+      "text_position": "Page 28, Table 9"
+    },
+    {
+      "outcome_name": "Food Insecurity",
+      "outcome_description": "Food insecurity reduction (%)",
+      "effect_size": 6.7,
+      "p_value": null,
+      "standard_error": null,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "6.7% reduction in severe food insecurity",
+      "text_position": "Page 29, Figure 10"
+    },
+    {
+      "outcome_name": "Gender Roles",
+      "outcome_description": "Gender roles scale",
+      "effect_size": 3.73,
+      "p_value": 0.05,
+      "standard_error": 1.96,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "3.73* (1.96)",
+      "text_position": "Page 30, Table 11"
+    }
+  ],
+  "_key": "ABM3E3ZP.tei",
+  "_tei_file": "/Users/joshuapolanin/Documents/OM_QEX/data/grobid_outputs/tei/ABM3E3ZP.tei.xml",
+  "_om_outcome_count": 10
+}

@@ -1,0 +1,47 @@
+Extraction Summary
+============================================================
+
+Total papers processed: 1
+Total outcome rows: 5
+Average outcomes per paper: 5.0
+
+Output directory: outputs/twostage/A3SDHNSC/stage2_qex
+JSON files: outputs/twostage/A3SDHNSC/stage2_qex/json
+CSV file: outputs/twostage/A3SDHNSC/stage2_qex/extracted_data.csv
+
+Field Completeness:
+------------------------------------------------------------
+study_id: 0/5 (0.0%)
+author_name: 0/5 (0.0%)
+year_of_publication: 0/5 (0.0%)
+program_name: 5/5 (100.0%)
+country: 5/5 (100.0%)
+year_intervention_started: 5/5 (100.0%)
+evaluation_design: 5/5 (100.0%)
+intervention_description: 5/5 (100.0%)
+exposure_to_intervention: 5/5 (100.0%)
+length_of_follow_up: 5/5 (100.0%)
+intervention_start_year: 0/5 (0.0%)
+intervention_start_month: 0/5 (0.0%)
+intervention_end_year: 0/5 (0.0%)
+intervention_end_month: 0/5 (0.0%)
+final_followup_year: 0/5 (0.0%)
+final_followup_month: 0/5 (0.0%)
+evaluation_design_code: 5/5 (100.0%)
+evaluation_method: 5/5 (100.0%)
+evaluation_method_code: 5/5 (100.0%)
+sample_size_treatment: 5/5 (100.0%)
+sample_size_control: 5/5 (100.0%)
+component_consumption_support: 5/5 (100.0%)
+component_healthcare: 5/5 (100.0%)
+component_assets: 5/5 (100.0%)
+component_skills_training: 5/5 (100.0%)
+component_savings: 5/5 (100.0%)
+component_coaching: 5/5 (100.0%)
+component_social_empowerment: 5/5 (100.0%)
+outcome_name: 5/5 (100.0%)
+outcome_description: 5/5 (100.0%)
+effect_size: 4/5 (80.0%)
+p_value: 2/5 (40.0%)
+literal_text: 5/5 (100.0%)
+text_position: 5/5 (100.0%)
