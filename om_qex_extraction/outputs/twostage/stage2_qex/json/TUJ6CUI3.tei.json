@@ -1,0 +1,143 @@
+{
+  "study_id": null,
+  "program_name": "Graduation Program",
+  "country": "Multi-country (Ethiopia, Ghana, Honduras, India, Pakistan, Peru)",
+  "year_intervention_started": 2007,
+  "evaluation_design": "Multi-site Randomized Controlled Trial",
+  "evaluation_design_code": 1,
+  "evaluation_method": "Individual and Cluster RCT",
+  "evaluation_method_code": "1;2",
+  "intervention_description": "Comprehensive poverty alleviation program providing productive asset transfer, consumption support, skills training, coaching, savings access, and basic health services",
+  "intervention_start_year": 2007,
+  "intervention_start_month": null,
+  "intervention_end_year": 2014,
+  "intervention_end_month": null,
+  "final_followup_year": 2014,
+  "final_followup_month": null,
+  "length_of_follow_up": "12",
+  "exposure_to_intervention": "24",
+  "sample_size_treatment": null,
+  "sample_size_control": null,
+  "graduation_components": {
+    "consumption_support": "Yes",
+    "healthcare": "Yes",
+    "assets": "Yes",
+    "skills_training": "Yes",
+    "savings": "Yes",
+    "coaching": "Yes",
+    "social_empowerment": "Not mentioned"
+  },
+  "graduation_components_rationale": {
+    "consumption_support": "Regular cash or food stipend provided to stabilize household consumption",
+    "healthcare": "Health education and basic health services included in program components",
+    "assets": "Productive asset transfer was core component of intervention",
+    "skills_training": "Technical training on managing productive assets provided",
+    "savings": "Access to savings accounts and deposit services included",
+    "coaching": "High-frequency home visits and personal coaching provided",
+    "social_empowerment": "No explicit mention of social empowerment activities"
+  },
+  "outcomes": [
+    {
+      "outcome_name": "Per capita consumption",
+      "outcome_description": "Per capita consumption in PPP USD per month",
+      "effect_size": 0.12,
+      "p_value": 0.001,
+      "standard_error": null,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "Per capita consumption increases by 0.12 SDs (q-value 0.001), equivalent to PPP US$4.55 per capita per month",
+      "text_position": "Page 7, Table 3, Pooled sample results"
+    },
+    {
+      "outcome_name": "Food security index",
+      "outcome_description": "Standardized food security index",
+      "effect_size": 0.11,
+      "p_value": 0.001,
+      "standard_error": null,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "Food security index increases by 0.11 SDs (q-value 0.001)",
+      "text_position": "Page 7, Table 3, Pooled sample results"
+    },
+    {
+      "outcome_name": "Assets index",
+      "outcome_description": "Standardized productive and household assets index",
+      "effect_size": 0.26,
+      "p_value": 0.001,
+      "standard_error": null,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "Assets index increases by 0.26 SDs (q-value 0.001)",
+      "text_position": "Page 7, Table 3, Pooled sample results"
+    },
+    {
+      "outcome_name": "Income and revenues",
+      "outcome_description": "Standardized household income and revenues index",
+      "effect_size": 0.38,
+      "p_value": 0.001,
+      "standard_error": null,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "Income and revenues increase by 0.38 SDs (q-value 0.001)",
+      "text_position": "Page 7, Table 3, Pooled sample results"
+    },
+    {
+      "outcome_name": "Physical health index",
+      "outcome_description": "Standardized physical health index",
+      "effect_size": 0.034,
+      "p_value": 0.078,
+      "standard_error": null,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "Physical health improves by 0.034 SDs (q-value 0.078)",
+      "text_position": "Page 7, Table 3, Pooled sample results"
+    },
+    {
+      "outcome_name": "Mental health index",
+      "outcome_description": "Standardized mental health index",
+      "effect_size": 0.1,
+      "p_value": 0.001,
+      "standard_error": null,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "Mental health improves by 0.10 SDs (q-value 0.001)",
+      "text_position": "Page 7, Table 3, Pooled sample results"
+    },
+    {
+      "outcome_name": "Political involvement index",
+      "outcome_description": "Standardized political involvement index",
+      "effect_size": 0.064,
+      "p_value": 0.001,
+      "standard_error": null,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "Political involvement increases by 0.064 SDs (q-value 0.001)",
+      "text_position": "Page 7, Table 3, Pooled sample results"
+    },
+    {
+      "outcome_name": "Women's empowerment index",
+      "outcome_description": "Standardized women's empowerment index",
+      "effect_size": 0.046,
+      "p_value": 0.049,
+      "standard_error": null,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "Women's empowerment increases by 0.046 SDs (q-value 0.049)",
+      "text_position": "Page 7, Table 3, Pooled sample results"
+    },
+    {
+      "outcome_name": "Adult labor supply",
+      "outcome_description": "Minutes of labor per adult per day",
+      "effect_size": 17.5,
+      "p_value": null,
+      "standard_error": null,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "Adult labor supply increases by 17.5 min per adult per day (10.4% increase over control households) at endline 1",
+      "text_position": "Page 7, Results section"
+    }
+  ],
+  "_key": "TUJ6CUI3.tei",
+  "_tei_file": "/Users/joshuapolanin/Documents/OM_QEX/data/grobid_outputs/tei/TUJ6CUI3.tei.xml",
+  "_om_outcome_count": 9
+}

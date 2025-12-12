@@ -209,135 +209,165 @@ class ExtractionEngine:
         except Exception as e:
             logger.error(f"Extraction failed for {tei_file.name}: {e}")
             return None
-    
+
     def _call_llm(self, prompt: str, retry_count: int = 0) -> Dict:
         """
         Call LLM via OpenRouter API with robust error handling.
-        
+
         Args:
             prompt: Complete prompt including template and paper text
             retry_count: Current retry attempt
-        
+
         Returns:
             Extracted data as dictionary
         """
-        max_retries = self.config['extraction']['max_retries']
-        retry_delay = self.config['extraction']['retry_delay']
-        
+        max_retries = self.config["extraction"]["max_retries"]
+        retry_delay = self.config["extraction"]["retry_delay"]
+
         try:
             logger.debug(f"Calling LLM API (attempt {retry_count + 1})...")
-            
-            response = self.client.chat.completions.create(
-                model=self.config['model']['name'],
-                messages=[
+
+            # --------- Build kwargs and enable JSON mode in QEX ----------
+            llm_kwargs = {
+                "model": self.config["model"]["name"],
+                "messages": [
                     {
                         "role": "user",
-                        "content": prompt
+                        "content": prompt,
                     }
                 ],
-                temperature=self.config['model']['temperature'],
-                max_tokens=self.config['model']['max_tokens'],
-                top_p=self.config['model']['top_p']
-            )
-            
+                "temperature": self.config["model"]["temperature"],
+                "max_tokens": self.config["model"]["max_tokens"],
+                "top_p": self.config["model"]["top_p"],
+            }
+
+            # In QEX mode, force the model to return a single JSON object
+            if getattr(self, "mode", None) == "qex":
+                llm_kwargs["response_format"] = {"type": "json_object"}
+
+            response = self.client.chat.completions.create(**llm_kwargs)
+            # ------------------------------------------------------------
+
             logger.info("✓ API call successful, parsing response...")
-            
+
             # Extract JSON from response
             content = response.choices[0].message.content
             if content is None:
                 logger.error("Response content is None - API returned empty response")
                 raise ValueError("Empty response from API")
-            
-            response_text = content.strip()
-            logger.debug(f"Response length: {len(response_text)} characters")
-            
-            if not response_text:
-                logger.error("Response text is empty after stripping")
-                raise ValueError("Empty response text")
-            
-            # Handle markdown code blocks - look for ```json and extract content
-            if "```json" in response_text:
-                # Extract JSON from markdown code block
-                json_start = response_text.find("```json") + 7
-                json_end = response_text.find("```", json_start)
-                if json_end > json_start:
-                    response_text = response_text[json_start:json_end].strip()
-                    logger.debug("Extracted JSON from markdown code block")
-            elif "```" in response_text:
-                # Generic code block
-                json_start = response_text.find("```") + 3
-                json_end = response_text.find("```", json_start)
-                if json_end > json_start:
-                    response_text = response_text[json_start:json_end].strip()
-                    logger.debug("Extracted content from generic code block")
-            
-            # If response doesn't start with { or [, try to find the JSON
-            if not response_text.startswith(("{", "[")):
-                # Look for first { or [
-                json_start = min(
-                    response_text.find("{") if "{" in response_text else len(response_text),
-                    response_text.find("[") if "[" in response_text else len(response_text)
+
+            # If JSON mode returns a dict directly, just use it
+            if isinstance(content, dict):
+                extracted_data = content
+                logger.info(
+                    "✓ Successfully parsed JSON with "
+                    f"{len(extracted_data.get('outcomes', []))} outcomes (dict content)"
                 )
-                if json_start < len(response_text):
-                    logger.debug(f"Found JSON starting at character {json_start}")
-                    response_text = response_text[json_start:]
-            
-            logger.info("✓ Parsing JSON...")
-            # Parse JSON
-            extracted_data = json.loads(response_text)
-            logger.info(f"✓ Successfully parsed JSON with {len(extracted_data.get('outcomes', []))} outcomes")
-            
+            else:
+                response_text = str(content).strip()
+                logger.debug(f"Response length: {len(response_text)} characters")
+
+                if not response_text:
+                    logger.error("Response text is empty after stripping")
+                    raise ValueError("Empty response text")
+
+                # Handle markdown code blocks - look for ```json and extract content
+                if "```json" in response_text:
+                    json_start = response_text.find("```json") + 7
+                    json_end = response_text.find("```", json_start)
+                    if json_end > json_start:
+                        response_text = response_text[json_start:json_end].strip()
+                        logger.debug("Extracted JSON from markdown code block")
+                elif "```" in response_text:
+                    # Generic code block
+                    json_start = response_text.find("```") + 3
+                    json_end = response_text.find("```", json_start)
+                    if json_end > json_start:
+                        response_text = response_text[json_start:json_end].strip()
+                        logger.debug("Extracted content from generic code block")
+
+                # If response doesn't start with { or [, try to find the JSON
+                if not response_text.startswith(("{", "[")):
+                    json_start = min(
+                        response_text.find("{") if "{" in response_text else len(response_text),
+                        response_text.find("[") if "[" in response_text else len(response_text),
+                    )
+                    if json_start < len(response_text):
+                        logger.debug(f"Found JSON starting at character {json_start}")
+                        response_text = response_text[json_start:]
+
+                logger.info("✓ Parsing JSON...")
+                extracted_data = json.loads(response_text)
+                logger.info(
+                    "✓ Successfully parsed JSON with "
+                    f"{len(extracted_data.get('outcomes', []))} outcomes"
+                )
+
             # Log token usage
-            if hasattr(response, 'usage'):
-                logger.info(f"Tokens used: {response.usage.total_tokens}")
-            
+            if hasattr(response, "usage"):
+                try:
+                    logger.info(f"Tokens used: {response.usage.total_tokens}")
+                except Exception:
+                    logger.info("Tokens used: <usage info not available>")
+
             return extracted_data
-        
+
         except KeyboardInterrupt:
             # KeyboardInterrupt during socket read is actually a network timeout
-            logger.error(f"Network timeout/interruption during response reading")
-            
+            logger.error("Network timeout/interruption during response reading")
+
             if retry_count < max_retries:
                 wait_time = retry_delay * (retry_count + 1) * 2  # Longer backoff for network issues
-                logger.info(f"Network issue detected. Retrying after {wait_time}s... (attempt {retry_count + 1}/{max_retries})")
+                logger.info(
+                    f"Network issue detected. Retrying after {wait_time}s... "
+                    f"(attempt {retry_count + 1}/{max_retries})"
+                )
                 time.sleep(wait_time)
                 return self._call_llm(prompt, retry_count + 1)
             else:
-                logger.error(f"Max retries reached after network timeouts")
+                logger.error("Max retries reached after network timeouts")
                 raise Exception("Network connection unstable - max retries exceeded") from None
-            
+
         except json.JSONDecodeError as e:
             logger.error(f"JSON parsing error: {e}")
-            if 'response_text' in locals():
+            if "response_text" in locals():
                 logger.error(f"Response text (first 1000 chars): {response_text[:1000]}")
                 logger.error(f"Response text (last 200 chars): {response_text[-200:]}")
             else:
                 logger.error("Response text was not set - empty response from API")
-            
+
             if retry_count < max_retries:
-                logger.info(f"Retrying... (attempt {retry_count + 1}/{max_retries})")
+                logger.info(
+                    f"Retrying... (attempt {retry_count + 1}/{max_retries})"
+                )
                 time.sleep(retry_delay)
                 return self._call_llm(prompt, retry_count + 1)
             else:
                 raise
-        
+
         except Exception as e:
             logger.error(f"LLM API call failed: {type(e).__name__}: {e}")
-            
-            # Check if it's a timeout or connection error  
+
+            # Check if it's a timeout or connection error
             error_type = type(e).__name__
             error_msg = str(e).lower()
-            is_retryable = any(x in error_type.lower() for x in ['timeout', 'connection', 'http', 'network']) or \
-                          any(x in error_msg for x in ['timeout', 'connection', 'timed out', 'network'])
-            
+            is_retryable = any(
+                x in error_type.lower() for x in ["timeout", "connection", "http", "network"]
+            ) or any(
+                x in error_msg for x in ["timeout", "connection", "timed out", "network"]
+            )
+
             if retry_count < max_retries and is_retryable:
                 wait_time = retry_delay * (retry_count + 1)  # Exponential backoff
-                logger.info(f"Retrying after {wait_time}s... (attempt {retry_count + 1}/{max_retries})")
+                logger.info(
+                    f"Retrying after {wait_time}s... "
+                    f"(attempt {retry_count + 1}/{max_retries})"
+                )
                 time.sleep(wait_time)
                 return self._call_llm(prompt, retry_count + 1)
             else:
                 raise
-    
+
     def extract_batch(self, tei_files: List[Path], metadata_map: Optional[Dict] = None) -> List[Dict]:
         """
         Extract data from multiple TEI files.

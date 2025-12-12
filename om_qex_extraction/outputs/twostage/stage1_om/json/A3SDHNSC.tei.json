@@ -1,0 +1,42 @@
+{
+  "study_id": "AuthorYear2015",
+  "outcomes": [
+    {
+      "outcome_group": "Assets",
+      "outcome_category": "Natural and physical asset index",
+      "location": "Table A3; Longitudinal asset measurement",
+      "literal_text": "Asset index differences between treatment and control groups across survey years",
+      "text_position": "Table A3, Column 'Diff' across years"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Female primary occupation (farm self-employment)",
+      "location": "Table A3; Primary occupation of working-aged females",
+      "literal_text": "Farm self-employment: 39.2% (treatment) vs 36.7% (control), Diff = 2.6*",
+      "text_position": "Table A3, Row 'Farm-self employment', 2011 column"
+    },
+    {
+      "outcome_group": "Financial Inclusion",
+      "outcome_category": "Cash savings (% of respondents)",
+      "location": "Table A3; Financial market participation",
+      "literal_text": "Cash savings: 98.28% (treatment) vs 47.73% (control), Diff = 50.55***",
+      "text_position": "Table A3, Row 'Have cash savings', 2011 column"
+    },
+    {
+      "outcome_group": "Financial Inclusion",
+      "outcome_category": "Outstanding loans (household level)",
+      "location": "Table A3; Financial market participation",
+      "literal_text": "Outstanding loans: 35.03% (treatment) vs 34.33% (control), Diff = 0.70",
+      "text_position": "Table A3, Row 'Have outstanding loans', 2011 column"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Female day labor participation",
+      "location": "Table A3; Primary occupation of working-aged females",
+      "literal_text": "Day labor: 7.5% (treatment) vs 5.9% (control), Diff = 1.6**",
+      "text_position": "Table A3, Row 'Day labour', 2011 column"
+    }
+  ],
+  "_key": "A3SDHNSC.tei",
+  "_tei_file": "/Users/joshuapolanin/Documents/OM_QEX/data/grobid_outputs/tei/A3SDHNSC.tei.xml"
+}

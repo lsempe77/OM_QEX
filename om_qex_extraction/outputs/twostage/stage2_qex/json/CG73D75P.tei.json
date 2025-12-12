@@ -1,0 +1,121 @@
+{
+  "study_id": null,
+  "program_name": "Graduation of the Ultra Poor Pilot",
+  "country": "Philippines",
+  "year_intervention_started": 2018,
+  "evaluation_design": "Randomized Controlled Trial",
+  "evaluation_design_code": 1,
+  "evaluation_method": "Cluster RCT",
+  "evaluation_method_code": "2",
+  "intervention_description": "Graduation-style intervention with asset transfers, coaching, and skills training for 4Ps conditional cash transfer recipients",
+  "length_of_follow_up": "36",
+  "exposure_to_intervention": "24",
+  "intervention_start_year": 2018,
+  "intervention_start_month": 10,
+  "intervention_end_year": 2020,
+  "intervention_end_month": 9,
+  "final_followup_year": 2021,
+  "final_followup_month": 12,
+  "sample_size_treatment": 1753,
+  "sample_size_control": 586,
+  "graduation_components": {
+    "consumption_support": "Yes",
+    "healthcare": "Not mentioned",
+    "assets": "Yes",
+    "skills_training": "Yes",
+    "savings": "Yes",
+    "coaching": "Yes",
+    "social_empowerment": "Not mentioned"
+  },
+  "graduation_components_rationale": {
+    "consumption_support": "4Ps conditional cash transfer program provides consumption support",
+    "healthcare": "No explicit healthcare component mentioned",
+    "assets": "Productive asset transfers were a key program component",
+    "skills_training": "Training in business planning and asset management was provided",
+    "savings": "Program facilitated savings and microfinance institution connections",
+    "coaching": "Individual and group coaching sessions were core program elements",
+    "social_empowerment": "No explicit social empowerment activities described"
+  },
+  "outcomes": [
+    {
+      "outcome_name": "Monthly consumption per capita",
+      "outcome_description": "Monthly household consumption per capita in Philippine pesos",
+      "effect_size": 326.5,
+      "p_value": null,
+      "standard_error": null,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "311-342 pesos greater than control group average of 3,992 pesos",
+      "text_position": "Page 8, Executive Summary"
+    },
+    {
+      "outcome_name": "Food security index",
+      "outcome_description": "Composite food security index in standard deviations",
+      "effect_size": 0.24,
+      "p_value": null,
+      "standard_error": null,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "0.20-0.28 standard deviations higher than control households",
+      "text_position": "Page 8, Executive Summary"
+    },
+    {
+      "outcome_name": "Productive asset value",
+      "outcome_description": "Value of productive assets in Philippine pesos",
+      "effect_size": 3219,
+      "p_value": null,
+      "standard_error": null,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "1,954-4,484 pesos more than control households' average of 10,546 pesos",
+      "text_position": "Page 8, Executive Summary"
+    },
+    {
+      "outcome_name": "Monthly household income",
+      "outcome_description": "Monthly household income in Philippine pesos",
+      "effect_size": null,
+      "p_value": null,
+      "standard_error": null,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "No statistically significant change in monthly income",
+      "text_position": "Page 8, Executive Summary"
+    },
+    {
+      "outcome_name": "Savings likelihood",
+      "outcome_description": "Percentage point increase in likelihood of having savings",
+      "effect_size": 10.5,
+      "p_value": null,
+      "standard_error": null,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "6-15 percentage points more likely to have savings",
+      "text_position": "Page 8, Secondary Outcomes Section"
+    },
+    {
+      "outcome_name": "Group membership likelihood",
+      "outcome_description": "Percentage point increase in group membership",
+      "effect_size": 5,
+      "p_value": null,
+      "standard_error": null,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "4-6 percentage points increase in group membership for T1 and T3 arms",
+      "text_position": "Page 8, Social Networks Section"
+    },
+    {
+      "outcome_name": "Subjective well-being index",
+      "outcome_description": "Composite index of mental health and life satisfaction in standard deviations",
+      "effect_size": 0.105,
+      "p_value": null,
+      "standard_error": null,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "0.08-0.13 standard deviations improvement for individual livelihood groups",
+      "text_position": "Page 8, Executive Summary"
+    }
+  ],
+  "_key": "CG73D75P.tei",
+  "_tei_file": "/Users/joshuapolanin/Documents/OM_QEX/data/grobid_outputs/tei/CG73D75P.tei.xml",
+  "_om_outcome_count": 7
+}

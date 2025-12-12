@@ -1,0 +1,121 @@
+{
+  "study_id": null,
+  "program_name": null,
+  "country": null,
+  "year_intervention_started": null,
+  "evaluation_design": "Randomized Controlled Trial",
+  "evaluation_design_code": 1,
+  "evaluation_method": "Individual RCT",
+  "evaluation_method_code": "1",
+  "intervention_description": null,
+  "length_of_follow_up": null,
+  "exposure_to_intervention": null,
+  "intervention_start_year": null,
+  "intervention_start_month": null,
+  "intervention_end_year": null,
+  "intervention_end_month": null,
+  "final_followup_year": null,
+  "final_followup_month": null,
+  "sample_size_treatment": 874,
+  "sample_size_control": 874,
+  "graduation_components": {
+    "consumption_support": "Not mentioned",
+    "healthcare": "Not mentioned",
+    "assets": "Yes",
+    "skills_training": "Not mentioned",
+    "savings": "Not mentioned",
+    "coaching": "Not mentioned",
+    "social_empowerment": "Not mentioned"
+  },
+  "graduation_components_rationale": {
+    "consumption_support": "No explicit mention of consumption transfers",
+    "healthcare": "No explicit mention of healthcare services",
+    "assets": "Appendix Table 4 notes that 75% of assets given were livestock",
+    "skills_training": "No explicit mention of skills training",
+    "savings": "No explicit mention of savings mechanisms",
+    "coaching": "No explicit mention of coaching",
+    "social_empowerment": "No explicit mention of social empowerment activities"
+  },
+  "outcomes": [
+    {
+      "outcome_name": "Total asset value",
+      "outcome_description": "Total asset value in PPP$",
+      "effect_size": 290.15,
+      "p_value": 0.01,
+      "standard_error": 66.97,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "Total asset value (PPP$): 290.15*** (66.97)",
+      "text_position": "Appendix Table 4; Row [1]"
+    },
+    {
+      "outcome_name": "Household durables",
+      "outcome_description": "Household durables value in PPP$",
+      "effect_size": 64.16,
+      "p_value": 0.1,
+      "standard_error": 33.13,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "Household durables (PPP$): 64.16* (33.13)",
+      "text_position": "Appendix Table 4; Row [2]"
+    },
+    {
+      "outcome_name": "Productive capital",
+      "outcome_description": "Productive capital value in PPP$",
+      "effect_size": 227.52,
+      "p_value": 0.01,
+      "standard_error": 42.25,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "Productive capital (PPP$): 227.52*** (42.25)",
+      "text_position": "Appendix Table 4; Row [3]"
+    },
+    {
+      "outcome_name": "Monthly food consumption per capita",
+      "outcome_description": "Monthly food consumption per capita in PPP$",
+      "effect_size": -3.06,
+      "p_value": 0.05,
+      "standard_error": 1.38,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "Food: -3.06** (1.38)",
+      "text_position": "Appendix Table 5; Panel A, Row [2]"
+    },
+    {
+      "outcome_name": "Non-livestock income",
+      "outcome_description": "Non-livestock income in past 12 months in PPP$",
+      "effect_size": 42.79,
+      "p_value": null,
+      "standard_error": 338.43,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "Non-livestock income: 42.79 (338.43)",
+      "text_position": "Appendix Table 7; Row [1]"
+    },
+    {
+      "outcome_name": "Food security index",
+      "outcome_description": "Normalized food security index (z-score)",
+      "effect_size": 0.04,
+      "p_value": null,
+      "standard_error": 0.07,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "Food security index: 0.04 (0.07)",
+      "text_position": "Appendix Table 8; Row [1]"
+    },
+    {
+      "outcome_name": "Number of sheep",
+      "outcome_description": "Number of sheep owned",
+      "effect_size": 1.0,
+      "p_value": 0.01,
+      "standard_error": 0.19,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "# of sheep: 1.00*** (0.19)",
+      "text_position": "Appendix Table 9; Row 'Number of sheep'"
+    }
+  ],
+  "_key": "ZBAE7IPZ.tei",
+  "_tei_file": "/Users/joshuapolanin/Documents/OM_QEX/data/grobid_outputs/tei/ZBAE7IPZ.tei.xml",
+  "_om_outcome_count": 7
+}

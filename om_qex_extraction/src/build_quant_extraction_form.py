@@ -384,6 +384,7 @@ def build_quant_form(qex_csv: Path, master_csv: Path, out_csv: Path):
         "Evaluation Design",
         "Evaluation Method",
         "Outcome name",
+        "_key",
     ]
 
     # Ensure columns exist; if not, create blanks

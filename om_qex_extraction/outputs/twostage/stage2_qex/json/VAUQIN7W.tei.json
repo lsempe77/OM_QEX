@@ -1,0 +1,110 @@
+{
+  "study_id": null,
+  "program_name": "Ultra-Poor Graduation Program in Burkina Faso",
+  "country": "Burkina Faso",
+  "year_intervention_started": 2018,
+  "evaluation_design": "Cluster Randomized Controlled Trial",
+  "evaluation_design_code": 1,
+  "evaluation_method": "Cluster RCT",
+  "evaluation_method_code": "2",
+  "intervention_description": "Multifaceted program targeting ultra-poor households with cash transfers, asset transfers, and nutrition interventions for households with pregnant women and children under 5",
+  "length_of_follow_up": "36",
+  "exposure_to_intervention": "24",
+  "intervention_start_year": 2018,
+  "intervention_start_month": 6,
+  "intervention_end_year": 2019,
+  "intervention_end_month": 9,
+  "final_followup_year": 2021,
+  "final_followup_month": 6,
+  "sample_size_treatment": null,
+  "sample_size_control": null,
+  "graduation_components": {
+    "consumption_support": "Yes",
+    "healthcare": "No",
+    "assets": "Yes",
+    "skills_training": "No",
+    "savings": "No",
+    "coaching": "No",
+    "social_empowerment": "No"
+  },
+  "graduation_components_rationale": {
+    "consumption_support": "Cash transfers of $36/month during lean season used primarily for food purchases",
+    "healthcare": "No specific healthcare services mentioned",
+    "assets": "Animal transfers and agricultural tool purchases included",
+    "skills_training": "No explicit skills training reported",
+    "savings": "No formal savings mechanism described",
+    "coaching": "No individual coaching mentioned",
+    "social_empowerment": "No specific social empowerment activities described"
+  },
+  "outcomes": [
+    {
+      "outcome_name": "Ultra-Poverty Probability",
+      "outcome_description": "Predicted probability of being classified as ultra-poor",
+      "effect_size": -0.29,
+      "p_value": 0.112,
+      "standard_error": null,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "Ultra-poverty remained 29% lower in the T3 group relative to the control",
+      "text_position": "Results section, Poverty subsection"
+    },
+    {
+      "outcome_name": "Agricultural Equipment Index",
+      "outcome_description": "Index of agricultural tools and equipment owned",
+      "effect_size": null,
+      "p_value": null,
+      "standard_error": null,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "Significant impact on agriculture index mainly from tool purchases",
+      "text_position": "Results section, Wealth Indexes subsection"
+    },
+    {
+      "outcome_name": "Severe Food Insecurity",
+      "outcome_description": "Percentage points of severe food insecurity",
+      "effect_size": -5,
+      "p_value": null,
+      "standard_error": null,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "Severe food insecurity decreased by 5 to 8 percentage points across treatment groups",
+      "text_position": "Food security, nutrition and anthropometrics section"
+    },
+    {
+      "outcome_name": "Child Height-for-Age",
+      "outcome_description": "Severe stunting reduction in percentage points",
+      "effect_size": -3.3,
+      "p_value": null,
+      "standard_error": null,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "Severe stunting is down by 3.3 pp from an average of 12.8 i.e. 26% decline",
+      "text_position": "Results section, Anthropometrics subsection"
+    },
+    {
+      "outcome_name": "Education Aspirations",
+      "outcome_description": "Additional years of education aspired for children",
+      "effect_size": 1.4,
+      "p_value": null,
+      "standard_error": null,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "T3 households hope to acquire 1.4 more years of education for their children",
+      "text_position": "Aspirations section"
+    },
+    {
+      "outcome_name": "Maternal Dietary Diversity",
+      "outcome_description": "Standardized dietary diversity score for pregnant/lactating women",
+      "effect_size": 0.31,
+      "p_value": null,
+      "standard_error": null,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "Women in T3 exhibit significantly better dietary diversity (+0.31 SD)",
+      "text_position": "Nutrition section"
+    }
+  ],
+  "_key": "VAUQIN7W.tei",
+  "_tei_file": "/Users/joshuapolanin/Documents/OM_QEX/data/grobid_outputs/tei/VAUQIN7W.tei.xml",
+  "_om_outcome_count": 6
+}

@@ -1,0 +1,70 @@
+{
+  "study_id": "ZambiaLivelihoodStudy2024",
+  "outcomes": [
+    {
+      "outcome_group": "Expenditure/Consumption",
+      "outcome_category": "Total household consumption per adult equivalent (standard deviations)",
+      "location": "Table B1; Panel A and B; 12-month and 38-month impacts",
+      "literal_text": "12 months: 0.24, 38 months: 0.44 standard deviations",
+      "text_position": "Table B1, Rows 'Total consumption', Columns '(2) Full Package'"
+    },
+    {
+      "outcome_group": "Food Security",
+      "outcome_category": "Food security index (standard deviations)",
+      "location": "Table B1; Panel A and B; 12-month and 38-month impacts",
+      "literal_text": "12 months: 0.27, 38 months: 0.23 standard deviations",
+      "text_position": "Table B1, Rows 'Food security', Columns '(2) Full Package'"
+    },
+    {
+      "outcome_group": "Assets",
+      "outcome_category": "Asset wealth index (standard deviations)",
+      "location": "Table B1; Panel A and B; 12-month and 38-month impacts",
+      "literal_text": "12 months: 0.27, 38 months: 0.28 standard deviations",
+      "text_position": "Table B1, Rows 'Assets', Columns '(2) Full Package'"
+    },
+    {
+      "outcome_group": "Financial Inclusion",
+      "outcome_category": "Savings index (standard deviations)",
+      "location": "Table B1; Panel A and B; 12-month and 38-month impacts",
+      "literal_text": "12 months: 0.54, 38 months: 0.35 standard deviations",
+      "text_position": "Table B1, Rows 'Savings', Columns '(2) Full Package'"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Aggregate household income (standard deviations)",
+      "location": "Table B1; Panel A and B; 12-month and 38-month impacts",
+      "literal_text": "12 months: 0.16, 38 months: 0.27 standard deviations",
+      "text_position": "Table B1, Rows 'Aggregate income', Columns '(2) Full Package'"
+    },
+    {
+      "outcome_group": "Social Capital/Empowerment",
+      "outcome_category": "Psychological well-being index (standard deviations)",
+      "location": "Table B1; Panel A and B; 12-month and 38-month impacts",
+      "literal_text": "12 months: 0.25, 38 months: 0.36 standard deviations",
+      "text_position": "Table B1, Rows 'Psyc. well-being', Columns '(2) Full Package'"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Time use: Paid work for others (minutes)",
+      "location": "Table B13; 12-month impacts",
+      "literal_text": "-13.65 minutes (statistically significant)",
+      "text_position": "Table B13, Row 'Time use: Paid work for others'"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Time use: Own business (minutes)",
+      "location": "Table B13; 12-month impacts",
+      "literal_text": "4.05 minutes (not statistically significant)",
+      "text_position": "Table B13, Row 'Time use: Own business'"
+    },
+    {
+      "outcome_group": "Poverty",
+      "outcome_category": "Extreme poverty rate (below 336.73 ZMW/month)",
+      "location": "Table 3; 12-month and 38-month impacts",
+      "literal_text": "Significant reduction in extreme poverty rate",
+      "text_position": "Table 3, Poverty rate columns"
+    }
+  ],
+  "_key": "XIPIMS2M.tei",
+  "_tei_file": "/Users/joshuapolanin/Documents/OM_QEX/data/grobid_outputs/tei/XIPIMS2M.tei.xml"
+}

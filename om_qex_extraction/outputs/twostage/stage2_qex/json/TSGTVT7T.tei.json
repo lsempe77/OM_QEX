@@ -1,0 +1,110 @@
+{
+  "study_id": null,
+  "program_name": "Challenging the Frontiers of Poverty Reduction (CFPR)",
+  "country": "Bangladesh",
+  "year_intervention_started": 2007,
+  "evaluation_design": "Randomized Controlled Trial",
+  "evaluation_design_code": 1,
+  "evaluation_method": "Difference-in-Differences",
+  "evaluation_method_code": "5",
+  "intervention_description": "Grant-based approach combining asset transfer, subsistence allowance, livelihood support services, health support, and social awareness training for extreme poor women",
+  "length_of_follow_up": "12",
+  "exposure_to_intervention": "24",
+  "intervention_start_year": 2007,
+  "intervention_start_month": 5,
+  "intervention_end_year": 2009,
+  "intervention_end_month": 12,
+  "final_followup_year": 2008,
+  "final_followup_month": 11,
+  "sample_size_treatment": 385,
+  "sample_size_control": 305,
+  "graduation_components": {
+    "consumption_support": "Yes",
+    "healthcare": "Yes",
+    "assets": "Yes",
+    "skills_training": "Yes",
+    "savings": "Yes",
+    "coaching": "Yes",
+    "social_empowerment": "Yes"
+  },
+  "graduation_components_rationale": {
+    "consumption_support": "Subsistence allowance mentioned in intervention description",
+    "healthcare": "Regular health services provided, especially for pregnant women",
+    "assets": "Productive asset base given to participant households",
+    "skills_training": "Livelihood support services and training mentioned",
+    "savings": "Programme encourages saving behavior",
+    "coaching": "Programme organizers make regular household visits",
+    "social_empowerment": "Social Development programme designed to empower poor by increasing social awareness"
+  },
+  "outcomes": [
+    {
+      "outcome_name": "House value",
+      "outcome_description": "Value of houses in Bangladeshi Taka (BDT)",
+      "effect_size": 1197.0,
+      "p_value": 0.05,
+      "standard_error": null,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "On average, the value of the houses went up by BDT 1197 (US $ 17.16) due to programme participation and this increase was found to be statistically significant at the 5% level",
+      "text_position": "Results section, paragraph on housing status"
+    },
+    {
+      "outcome_name": "Cash savings",
+      "outcome_description": "Cash savings in Bangladeshi Taka (BDT) per participant woman",
+      "effect_size": 1564.0,
+      "p_value": null,
+      "standard_error": null,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "Effect on savings was BDT 1564 (US $22.42) per participant woman on average",
+      "text_position": "Results section, paragraph on savings"
+    },
+    {
+      "outcome_name": "Sanitary latrine holdings",
+      "outcome_description": "Percentage increase in sanitary latrine holdings",
+      "effect_size": 36.0,
+      "p_value": null,
+      "standard_error": null,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "Sanitary latrine holdings increased by 36% among the participant households",
+      "text_position": "Results section, paragraph on sanitation"
+    },
+    {
+      "outcome_name": "Social awareness index",
+      "outcome_description": "Social awareness index (0-1 scale)",
+      "effect_size": null,
+      "p_value": 0.01,
+      "standard_error": null,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "Difference-in-difference of awareness index positive and statistically significant at 1% level",
+      "text_position": "Results section, paragraph on awareness"
+    },
+    {
+      "outcome_name": "Outstanding loans",
+      "outcome_description": "Amount of outstanding loans",
+      "effect_size": null,
+      "p_value": null,
+      "standard_error": null,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "Difference-in-difference statistically insignificant for outstanding loans",
+      "text_position": "Results section, paragraph on credit market"
+    },
+    {
+      "outcome_name": "Food expenditure",
+      "outcome_description": "Total food expenditure in Bangladeshi Taka (BDT)",
+      "effect_size": 16.7,
+      "p_value": 0.05,
+      "standard_error": null,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "Total food expenditure on average BDT 16.70 more for treatment households, significant at 5% level",
+      "text_position": "Results section, paragraph on food security"
+    }
+  ],
+  "_key": "TSGTVT7T.tei",
+  "_tei_file": "/Users/joshuapolanin/Documents/OM_QEX/data/grobid_outputs/tei/TSGTVT7T.tei.xml",
+  "_om_outcome_count": 6
+}
