@@ -5,17 +5,31 @@
   "year_intervention_started": 2018,
   "evaluation_design": "Randomized Controlled Trial",
   "evaluation_design_code": 1,
-  "evaluation_method": "Cluster RCT",
-  "evaluation_method_code": "2",
-  "intervention_description": "Graduation-style intervention with asset transfers, coaching, and skills training for 4Ps conditional cash transfer recipients",
-  "length_of_follow_up": "36",
-  "exposure_to_intervention": "24",
+  "evaluation_method": "Individual RCT",
+  "evaluation_method_code": "1",
+  "intervention_description": "A graduation approach targeting ultra-poor households with asset transfers, coaching, skills training, and consumption support",
   "intervention_start_year": 2018,
   "intervention_start_month": 10,
   "intervention_end_year": 2020,
   "intervention_end_month": 9,
   "final_followup_year": 2021,
   "final_followup_month": 12,
+  "timing_anchors": {
+    "intervention_start": {
+      "literal_text": "Program activities began in October 2018 when individual and group life-skills coaching was launched",
+      "text_position": "Background section"
+    },
+    "intervention_end": {
+      "literal_text": "Implementation of the graduation pilot was completed in Negros Occidental in September 2020",
+      "text_position": "Background section"
+    },
+    "final_followup": {
+      "literal_text": "Between September and December 2021, IPA conducted an endline survey",
+      "text_position": "Executive summary"
+    }
+  },
+  "exposure_to_intervention": "24",
+  "length_of_follow_up": "15",
   "sample_size_treatment": 1753,
   "sample_size_control": 586,
   "graduation_components": {
@@ -25,97 +39,116 @@
     "skills_training": "Yes",
     "savings": "Yes",
     "coaching": "Yes",
-    "social_empowerment": "Not mentioned"
+    "social_empowerment": "Yes"
   },
   "graduation_components_rationale": {
-    "consumption_support": "4Ps conditional cash transfer program provides consumption support",
-    "healthcare": "No explicit healthcare component mentioned",
-    "assets": "Productive asset transfers were a key program component",
-    "skills_training": "Training in business planning and asset management was provided",
-    "savings": "Program facilitated savings and microfinance institution connections",
-    "coaching": "Individual and group coaching sessions were core program elements",
-    "social_empowerment": "No explicit social empowerment activities described"
+    "consumption_support": "Conditional cash transfers through 4Ps program",
+    "healthcare": null,
+    "assets": "One-time asset transfer worth 15,000-20,000 pesos per recipient",
+    "skills_training": "Business planning, organization, and accounting training",
+    "savings": "Facilitated savings and microfinance institution access",
+    "coaching": "Individual and group life skills coaching sessions",
+    "social_empowerment": "Group membership and community mobilization activities"
   },
   "outcomes": [
     {
       "outcome_name": "Monthly consumption per capita",
-      "outcome_description": "Monthly household consumption per capita in Philippine pesos",
-      "effect_size": 326.5,
+      "outcome_description": "Monthly consumption per capita in Philippine pesos",
+      "effect_size": 342,
       "p_value": null,
       "standard_error": null,
       "confidence_interval_lower": null,
       "confidence_interval_upper": null,
-      "literal_text": "311-342 pesos greater than control group average of 3,992 pesos",
-      "text_position": "Page 8, Executive Summary"
+      "literal_text": "Monthly consumption per capita is between 311 to 342 pesos greater than the average among control-group households",
+      "text_position": "Executive summary",
+      "outcome_timepoint_label": "endline",
+      "outcome_measurement_year": 2021,
+      "outcome_measurement_month": 12,
+      "months_since_intervention_end": "15",
+      "outcome_timing_anchor": {
+        "literal_text": "Endline survey conducted between September and December 2021",
+        "text_position": "Executive summary"
+      }
     },
     {
       "outcome_name": "Food security index",
       "outcome_description": "Composite food security index in standard deviations",
-      "effect_size": 0.24,
+      "effect_size": 0.28,
       "p_value": null,
       "standard_error": null,
       "confidence_interval_lower": null,
       "confidence_interval_upper": null,
-      "literal_text": "0.20-0.28 standard deviations higher than control households",
-      "text_position": "Page 8, Executive Summary"
+      "literal_text": "Food security increased by 0.20 (T1) to 0.28 (T3) standard deviations across treatment arms",
+      "text_position": "Executive summary",
+      "outcome_timepoint_label": "endline",
+      "outcome_measurement_year": 2021,
+      "outcome_measurement_month": 12,
+      "months_since_intervention_end": "15",
+      "outcome_timing_anchor": {
+        "literal_text": "Endline survey conducted between September and December 2021",
+        "text_position": "Executive summary"
+      }
     },
     {
       "outcome_name": "Productive asset value",
       "outcome_description": "Value of productive assets in Philippine pesos",
-      "effect_size": 3219,
+      "effect_size": 4484,
       "p_value": null,
       "standard_error": null,
       "confidence_interval_lower": null,
       "confidence_interval_upper": null,
-      "literal_text": "1,954-4,484 pesos more than control households' average of 10,546 pesos",
-      "text_position": "Page 8, Executive Summary"
+      "literal_text": "Treatment households owning 1,954 to 4,484 pesos worth more productive assets than control households",
+      "text_position": "Executive summary",
+      "outcome_timepoint_label": "endline",
+      "outcome_measurement_year": 2021,
+      "outcome_measurement_month": 12,
+      "months_since_intervention_end": "15",
+      "outcome_timing_anchor": {
+        "literal_text": "Endline survey conducted between September and December 2021",
+        "text_position": "Executive summary"
+      }
     },
     {
-      "outcome_name": "Monthly household income",
-      "outcome_description": "Monthly household income in Philippine pesos",
-      "effect_size": null,
-      "p_value": null,
+      "outcome_name": "Business ownership",
+      "outcome_description": "Percentage point increase in business ownership",
+      "effect_size": 9,
+      "p_value": 0.02,
       "standard_error": null,
       "confidence_interval_lower": null,
       "confidence_interval_upper": null,
-      "literal_text": "No statistically significant change in monthly income",
-      "text_position": "Page 8, Executive Summary"
+      "literal_text": "T3 had a 9 percentage point increase in business ownership compared to 4 percentage points in T2 (p=0.02)",
+      "text_position": "Page 38; Secondary outcomes section",
+      "outcome_timepoint_label": "endline",
+      "outcome_measurement_year": 2021,
+      "outcome_measurement_month": 12,
+      "months_since_intervention_end": "15",
+      "outcome_timing_anchor": {
+        "literal_text": "Endline survey conducted between September and December 2021",
+        "text_position": "Executive summary"
+      }
     },
     {
-      "outcome_name": "Savings likelihood",
-      "outcome_description": "Percentage point increase in likelihood of having savings",
-      "effect_size": 10.5,
+      "outcome_name": "Savings likelihood and amount",
+      "outcome_description": "Percentage point increase in savings and amount in Philippine pesos",
+      "effect_size": 15,
       "p_value": null,
       "standard_error": null,
       "confidence_interval_lower": null,
       "confidence_interval_upper": null,
-      "literal_text": "6-15 percentage points more likely to have savings",
-      "text_position": "Page 8, Secondary Outcomes Section"
-    },
-    {
-      "outcome_name": "Group membership likelihood",
-      "outcome_description": "Percentage point increase in group membership",
-      "effect_size": 5,
-      "p_value": null,
-      "standard_error": null,
-      "confidence_interval_lower": null,
-      "confidence_interval_upper": null,
-      "literal_text": "4-6 percentage points increase in group membership for T1 and T3 arms",
-      "text_position": "Page 8, Social Networks Section"
-    },
-    {
-      "outcome_name": "Subjective well-being index",
-      "outcome_description": "Composite index of mental health and life satisfaction in standard deviations",
-      "effect_size": 0.105,
-      "p_value": null,
-      "standard_error": null,
-      "confidence_interval_lower": null,
-      "confidence_interval_upper": null,
-      "literal_text": "0.08-0.13 standard deviations improvement for individual livelihood groups",
-      "text_position": "Page 8, Executive Summary"
+      "literal_text": "Treatment households were 6-15 percentage points more likely to have savings, with 224-443 pesos more in savings",
+      "text_position": "Page 38; Secondary outcomes section",
+      "outcome_timepoint_label": "endline",
+      "outcome_measurement_year": 2021,
+      "outcome_measurement_month": 12,
+      "months_since_intervention_end": "15",
+      "outcome_timing_anchor": {
+        "literal_text": "Endline survey conducted between September and December 2021",
+        "text_position": "Executive summary"
+      }
     }
   ],
+  "notes": "Graduation pilot in Philippines testing individual vs group livelihoods and coaching models",
   "_key": "CG73D75P.tei",
   "_tei_file": "/Users/joshuapolanin/Documents/OM_QEX/data/grobid_outputs/tei/CG73D75P.tei.xml",
-  "_om_outcome_count": 7
+  "_om_outcome_count": 5
 }

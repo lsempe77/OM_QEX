@@ -1,40 +1,60 @@
 {
-  "study_id": "AuthorYear2015",
+  "study_id": "BRAC_TUP_2015",
   "outcomes": [
     {
       "outcome_group": "Assets",
       "outcome_category": "Natural and physical asset index",
-      "location": "Table A3; Longitudinal asset measurement",
-      "literal_text": "Asset index differences between treatment and control groups across survey years",
-      "text_position": "Table A3, Column 'Diff' across years"
+      "location": "Table A3; Longitudinal asset tracking",
+      "literal_text": "Natural and physical asset index changes across survey rounds",
+      "text_position": "Table A3, Column 'Natural and physical asset'",
+      "timepoint_label": null,
+      "timepoint_months": null,
+      "timepoint_literal_text": null,
+      "timepoint_text_position": null
     },
     {
       "outcome_group": "Work/Employment",
       "outcome_category": "Female primary occupation (farm self-employment)",
-      "location": "Table A3; Primary occupation of working-aged females",
+      "location": "Table A3; Primary occupation tracking",
       "literal_text": "Farm self-employment: 39.2% (treatment) vs 36.7% (control), Diff = 2.6*",
-      "text_position": "Table A3, Row 'Farm-self employment', 2011 column"
+      "text_position": "Table A3, Row 'Farm-self employment', 2011 column",
+      "timepoint_label": "Long-term follow-up",
+      "timepoint_months": "108",
+      "timepoint_literal_text": "2011 survey round (9 years after baseline)",
+      "timepoint_text_position": "Page 15, Results section"
     },
     {
       "outcome_group": "Financial Inclusion",
-      "outcome_category": "Cash savings (% of respondents)",
+      "outcome_category": "Cash savings percentage",
       "location": "Table A3; Financial market participation",
       "literal_text": "Cash savings: 98.28% (treatment) vs 47.73% (control), Diff = 50.55***",
-      "text_position": "Table A3, Row 'Have cash savings', 2011 column"
+      "text_position": "Table A3, Row 'Have cash savings', 2011 column",
+      "timepoint_label": "Long-term follow-up",
+      "timepoint_months": "108",
+      "timepoint_literal_text": "2011 survey round (9 years after baseline)",
+      "timepoint_text_position": "Page 15, Results section"
     },
     {
       "outcome_group": "Financial Inclusion",
-      "outcome_category": "Outstanding loans (household level)",
+      "outcome_category": "Outstanding loans percentage",
       "location": "Table A3; Financial market participation",
       "literal_text": "Outstanding loans: 35.03% (treatment) vs 34.33% (control), Diff = 0.70",
-      "text_position": "Table A3, Row 'Have outstanding loans', 2011 column"
+      "text_position": "Table A3, Row 'Have outstanding loans', 2011 column",
+      "timepoint_label": "Long-term follow-up",
+      "timepoint_months": "108",
+      "timepoint_literal_text": "2011 survey round (9 years after baseline)",
+      "timepoint_text_position": "Page 15, Results section"
     },
     {
       "outcome_group": "Work/Employment",
-      "outcome_category": "Female day labor participation",
-      "location": "Table A3; Primary occupation of working-aged females",
-      "literal_text": "Day labor: 7.5% (treatment) vs 5.9% (control), Diff = 1.6**",
-      "text_position": "Table A3, Row 'Day labour', 2011 column"
+      "outcome_category": "Female household chores participation",
+      "location": "Table A3; Primary occupation tracking",
+      "literal_text": "Household chores: 35.1% (treatment) vs 40.5% (control), Diff = -5.4***",
+      "text_position": "Table A3, Row 'HH chores', 2011 column",
+      "timepoint_label": "Long-term follow-up",
+      "timepoint_months": "108",
+      "timepoint_literal_text": "2011 survey round (9 years after baseline)",
+      "timepoint_text_position": "Page 15, Results section"
     }
   ],
   "_key": "A3SDHNSC.tei",

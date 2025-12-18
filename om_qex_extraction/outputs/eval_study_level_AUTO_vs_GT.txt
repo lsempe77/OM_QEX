@@ -1,0 +1,36 @@
+UTF-8 decoding failed for GT CSV, retrying with latin1 encoding...
+
+AUTO StudyID_eval (unique): [np.int64(121058356), np.int64(121058369), np.int64(121058373), np.int64(121294841), np.int64(121295229), np.int64(121295641), np.int64(121295691), np.int64(121327437), np.int64(121354848), np.int64(122182713), np.int64(122182716)]
+GT StudyID_eval (unique, first 30): [np.int64(121058356), np.int64(121058359), np.int64(121058364), np.int64(121058367), np.int64(121058368), np.int64(121058369), np.int64(121058372), np.int64(121058373), np.int64(121294795), np.int64(121294841), np.int64(121294873), np.int64(121294984), np.int64(121295229), np.int64(121295428), np.int64(121295641), np.int64(121295691), np.int64(121297660), np.int64(121305126), np.int64(121307773), np.int64(121326790), np.int64(121327221), np.int64(121327437), np.int64(121327988), np.int64(121328167), np.int64(121328483), np.int64(121330141), np.int64(121336027), np.int64(121347787), np.int64(121354848), np.int64(121378172)]
+Overlapping StudyID_eval values: [np.int64(121058356), np.int64(121058369), np.int64(121058373), np.int64(121294841), np.int64(121295229), np.int64(121295641), np.int64(121295691), np.int64(121327437), np.int64(121354848), np.int64(122182713), np.int64(122182716)]
+Evaluating study-level fields: ['Consumption support (cash or in-kind) to stabilize food security and prevent households from selling assets to survive ', 'Healthcare provision to address the basic health needs of individuals and households', 'Assets transfer (often livestock, tools, or seed capital) to provide a foundation for an income-generation activity.', 'Skills training to enable participants to productively manage and grow their assets.', 'Savings facilitation (e.g., savings accounts or linkages to microfinance institutions) to foster financial discipline and resilience.', 'Coaching and mentoring to offer continuous motivation and goal-setting support.', 'Social empowerment and linkages to social protection, markets, and public services to encourage opportunities and inclusion in existing systems.', 'Length of follow up', 'Exposure to intervention', 'Evaluation Design']
+Number of overlapping studies: 11
+Merged study-level rows: 11
+
+=== Study-level accuracy (AUTO vs GT) ===
+                                                                                                                                           field  n_studies  accuracy_exact  accuracy_within_1_month
+                         Consumption support (cash or in-kind) to stabilize food security and prevent households from selling assets to survive          10           1.000                      NaN
+                                                            Healthcare provision to address the basic health needs of individuals and households         10           0.900                      NaN
+                            Assets transfer (often livestock, tools, or seed capital) to provide a foundation for an income-generation activity.         11           1.000                      NaN
+                                                            Skills training to enable participants to productively manage and grow their assets.         10           0.900                      NaN
+           Savings facilitation (e.g., savings accounts or linkages to microfinance institutions) to foster financial discipline and resilience.         10           0.600                      NaN
+                                                                 Coaching and mentoring to offer continuous motivation and goal-setting support.         10           0.700                      NaN
+Social empowerment and linkages to social protection, markets, and public services to encourage opportunities and inclusion in existing systems.         10           0.600                      NaN
+                                                                                                                             Length of follow up         10           0.100                     0.10
+                                                                                                                        Exposure to intervention          8           0.125                     0.25
+                                                                                                                               Evaluation Design         10           0.600                      NaN
+
+=== Study-level accuracy (AUTO vs GT) ===
+                                                                                                                                           field  n_studies  accuracy_exact  accuracy_within_1_month
+                         Consumption support (cash or in-kind) to stabilize food security and prevent households from selling assets to survive          10           1.000                      NaN
+                                                            Healthcare provision to address the basic health needs of individuals and households         10           0.900                      NaN
+                            Assets transfer (often livestock, tools, or seed capital) to provide a foundation for an income-generation activity.         11           1.000                      NaN
+                                                            Skills training to enable participants to productively manage and grow their assets.         10           0.900                      NaN
+           Savings facilitation (e.g., savings accounts or linkages to microfinance institutions) to foster financial discipline and resilience.         10           0.600                      NaN
+                                                                 Coaching and mentoring to offer continuous motivation and goal-setting support.         10           0.700                      NaN
+Social empowerment and linkages to social protection, markets, and public services to encourage opportunities and inclusion in existing systems.         10           0.600                      NaN
+                                                                                                                               Evaluation Design         10           0.600                      NaN
+                                                                                                                             Length of follow up         10           0.100                     0.10
+                                                                                                                        Exposure to intervention          8           0.125                     0.25
+
+Saved study-level evaluation summary to: outputs/eval_study_level_AUTO_vs_GT.csv

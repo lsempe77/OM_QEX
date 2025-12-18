@@ -252,14 +252,36 @@ def build_quant_form(qex_csv: Path, master_csv: Path, out_csv: Path):
     followup_col = "length_of_follow_up" if "length_of_follow_up" in df.columns else None
     exposure_col = "exposure_to_intervention" if "exposure_to_intervention" in df.columns else None
 
-    # If structured timing gave us nothing (all missing), try text durations
-    if df["exposure_to_intervention_num"].isna().all() and exposure_col:
-        df["exposure_to_intervention_num"] = df[exposure_col].apply(duration_to_months)
+    # Fill missing durations from explicit duration fields (row-wise)
+    if exposure_col:
+        df["exposure_to_intervention_num"] = df["exposure_to_intervention_num"].fillna(
+            df[exposure_col].apply(duration_to_months)
+        )
 
-    if df["length_of_follow_up_num"].isna().all() and followup_col:
-        df["length_of_follow_up_num"] = df[followup_col].apply(duration_to_months)
+    if followup_col:
+        df["length_of_follow_up_num"] = df["length_of_follow_up_num"].fillna(
+            df[followup_col].apply(duration_to_months)
+        )
 
-    # Final values for the Quant form
+    # If follow-up is still missing, use per-outcome timing overrides when available.
+    # This supports papers where outcomes are measured at different waves and the
+    # final follow-up is best represented by the latest outcome wave.
+    if "outcome_months_since_intervention_end" in df.columns:
+        df["outcome_months_since_intervention_end"] = pd.to_numeric(
+            df["outcome_months_since_intervention_end"], errors="coerce"
+        )
+        max_fu = (
+            df.groupby("StudyID")["outcome_months_since_intervention_end"]
+            .max()
+            .rename("max_months_since_intervention_end")
+        )
+        df = df.merge(max_fu, on="StudyID", how="left")
+        df["length_of_follow_up_num"] = df["length_of_follow_up_num"].fillna(
+            df["max_months_since_intervention_end"]
+        )
+        # keep the helper column for debugging if desired; comment out to drop
+        # df = df.drop(columns=["max_months_since_intervention_end"])
+# Final values for the Quant form
     df["Exposure to intervention"] = df["exposure_to_intervention_num"]
     df["Length of follow up"] = df["length_of_follow_up_num"]
 

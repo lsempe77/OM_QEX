@@ -1,21 +1,35 @@
 {
-  "study_id": null,
+  "study_id": "OEV/2022/031",
   "program_name": "WFP Integrated Resilience Programme",
   "country": "Niger",
   "year_intervention_started": 2021,
-  "evaluation_design": "Cluster randomized controlled trial",
-  "evaluation_design_code": 1,
-  "evaluation_method": "Cluster RCT",
+  "evaluation_design": "Cluster Randomized Controlled Trial",
+  "evaluation_design_code": "2",
+  "evaluation_method": "Randomized Controlled Trial",
   "evaluation_method_code": "2",
-  "intervention_description": "Multi-component resilience program including food assistance for assets (FFA), lean season support (LSS), nutrition/health support, school feeding, and smallholder agricultural market support",
+  "intervention_description": "Integrated resilience programming including food assistance for assets (FFA), lean season support (LSS), school feeding, nutrition/health support, and Smallholder Agricultural Market Support (SAMS)",
   "intervention_start_year": 2021,
   "intervention_start_month": 3,
-  "intervention_end_year": 2022,
-  "intervention_end_month": 12,
+  "intervention_end_year": 2023,
+  "intervention_end_month": null,
+  "timing_anchors": {
+    "intervention_start": {
+      "literal_text": "FFA implementation started in March 2021 in 35 percent of villages",
+      "text_position": "Page 60, Paragraph 60"
+    },
+    "intervention_end": {
+      "literal_text": null,
+      "text_position": null
+    },
+    "final_followup": {
+      "literal_text": "Impacts measured up to two years after programme implementation, between 2021 and 2023",
+      "text_position": "Page 3, Paragraph 3"
+    }
+  },
+  "exposure_to_intervention": "24",
+  "length_of_follow_up": "24",
   "final_followup_year": 2023,
   "final_followup_month": 3,
-  "length_of_follow_up": "24",
-  "exposure_to_intervention": "22",
   "sample_size_treatment": null,
   "sample_size_control": null,
   "graduation_components": {
@@ -28,13 +42,13 @@
     "social_empowerment": "Yes"
   },
   "graduation_components_rationale": {
-    "consumption_support": "Cash transfers provided through FFA and lean season support",
-    "healthcare": "Nutrition supplements and health screenings provided",
+    "consumption_support": "Cash transfers through FFA and LSS to meet immediate food needs",
+    "healthcare": "Nutrition and health support including supplements and awareness campaigns",
     "assets": "Community asset creation through FFA activities",
-    "skills_training": "Agricultural techniques and market support training included",
-    "savings": "No explicit savings component mentioned",
-    "coaching": "No systematic coaching mentioned",
-    "social_empowerment": "Community participation in asset selection and group activities"
+    "skills_training": "Training on agricultural techniques and community asset management",
+    "savings": null,
+    "coaching": null,
+    "social_empowerment": "Community participation in asset selection and creation"
   },
   "outcomes": [
     {
@@ -45,8 +59,16 @@
       "standard_error": null,
       "confidence_interval_lower": null,
       "confidence_interval_upper": null,
-      "literal_text": "Increases by 1.5 points at endline",
-      "text_position": "Page 25, Table A2.1a"
+      "literal_text": "Programme increased FCS by 1.5 points",
+      "text_position": "Page 75, Table A2.1a",
+      "outcome_timepoint_label": "endline",
+      "outcome_measurement_year": 2023,
+      "outcome_measurement_month": 3,
+      "months_since_intervention_end": "24",
+      "outcome_timing_anchor": {
+        "literal_text": "Impacts measured up to two years after programme implementation",
+        "text_position": "Page 3, Paragraph 3"
+      }
     },
     {
       "outcome_name": "Food Insecurity Experience Scale",
@@ -56,99 +78,96 @@
       "standard_error": null,
       "confidence_interval_lower": null,
       "confidence_interval_upper": null,
-      "literal_text": "0.24 coefficient (13.1% relative increase)",
-      "text_position": "Page 25, Table A2.1a"
+      "literal_text": "FIES indicator improves by 0.24 points (13.1% relative increase)",
+      "text_position": "Page 75, Table A2.1a",
+      "outcome_timepoint_label": "endline",
+      "outcome_measurement_year": 2023,
+      "outcome_measurement_month": 3,
+      "months_since_intervention_end": "24",
+      "outcome_timing_anchor": {
+        "literal_text": "Impacts measured up to two years after programme implementation",
+        "text_position": "Page 3, Paragraph 3"
+      }
     },
     {
-      "outcome_name": "Total Household Consumption",
-      "outcome_description": "Total household consumption in 12 months prior",
-      "effect_size": null,
-      "p_value": null,
-      "standard_error": null,
-      "confidence_interval_lower": null,
-      "confidence_interval_upper": null,
-      "literal_text": "Increased consumption, partly from own production and purchased food",
-      "text_position": "Page 25, Table A2.1b"
-    },
-    {
-      "outcome_name": "Crop Quantity Harvested",
+      "outcome_name": "Total Crop Quantity Harvested",
       "outcome_description": "Total crop quantity harvested in kg",
-      "effect_size": 59.84,
+      "effect_size": 60,
       "p_value": null,
       "standard_error": null,
       "confidence_interval_lower": null,
       "confidence_interval_upper": null,
-      "literal_text": "Treatment | 59.84 kg increase (total average 309 kg)",
-      "text_position": "Page 25, Table A2.5"
+      "literal_text": "Overall quantity of crops harvested increased by 60 kg (total average of 309 kg) in WFP programme villages, from an average of 249 kg in the comparison group (a 22 percent increase)",
+      "text_position": "Page 86, Table A2.5",
+      "outcome_timepoint_label": "endline",
+      "outcome_measurement_year": 2023,
+      "outcome_measurement_month": 3,
+      "months_since_intervention_end": "24",
+      "outcome_timing_anchor": {
+        "literal_text": "Impacts measured up to two years after programme implementation",
+        "text_position": "Page 3, Paragraph 3"
+      }
     },
     {
-      "outcome_name": "Land Area Cultivated",
-      "outcome_description": "Total hectares of land cultivated",
-      "effect_size": 0.27,
-      "p_value": null,
-      "standard_error": null,
-      "confidence_interval_lower": null,
-      "confidence_interval_upper": null,
-      "literal_text": "Treatment | 0.27 hectares increase (total average 1.91 hectares)",
-      "text_position": "Page 25, Table A2.5"
-    },
-    {
-      "outcome_name": "Livestock Ownership",
-      "outcome_description": "Percentage of households owning livestock",
+      "outcome_name": "Share of Households Owning Livestock",
+      "outcome_description": "Percentage of households that own livestock",
       "effect_size": 9,
       "p_value": null,
       "standard_error": null,
       "confidence_interval_lower": null,
       "confidence_interval_upper": null,
-      "literal_text": "Treatment | 9 percentage point increase in livestock ownership",
-      "text_position": "Page 25, Table A2.8"
+      "literal_text": "Share of households that own livestock increased by 9 percentage points",
+      "text_position": "Page 91, Table A2.8",
+      "outcome_timepoint_label": "endline",
+      "outcome_measurement_year": 2023,
+      "outcome_measurement_month": 3,
+      "months_since_intervention_end": "24",
+      "outcome_timing_anchor": {
+        "literal_text": "Impacts measured up to two years after programme implementation",
+        "text_position": "Page 3, Paragraph 3"
+      }
     },
     {
-      "outcome_name": "Wage Employment",
+      "outcome_name": "Life Satisfaction Score",
+      "outcome_description": "Subjective life satisfaction score",
+      "effect_size": 0.25,
+      "p_value": null,
+      "standard_error": null,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "Subjective life satisfaction improved from 3.8 in comparison group to 4.05 in programme villages",
+      "text_position": "Page 81, Table A2.2",
+      "outcome_timepoint_label": "endline",
+      "outcome_measurement_year": 2023,
+      "outcome_measurement_month": 3,
+      "months_since_intervention_end": "24",
+      "outcome_timing_anchor": {
+        "literal_text": "Impacts measured up to two years after programme implementation",
+        "text_position": "Page 3, Paragraph 3"
+      }
+    },
+    {
+      "outcome_name": "Household Wage Employment",
       "outcome_description": "Percentage of households with wage employment",
       "effect_size": 10,
       "p_value": null,
       "standard_error": null,
       "confidence_interval_lower": null,
       "confidence_interval_upper": null,
-      "literal_text": "Treatment | 10 percentage point increase in wage employment",
-      "text_position": "Page 25, Table A2.10"
-    },
-    {
-      "outcome_name": "Farm Asset Value",
-      "outcome_description": "Value of farm assets owned by households",
-      "effect_size": 3833,
-      "p_value": null,
-      "standard_error": null,
-      "confidence_interval_lower": null,
-      "confidence_interval_upper": null,
-      "literal_text": "Treatment | 3,833 FCFA increase in farm asset value",
-      "text_position": "Page 25, Table A2.11"
-    },
-    {
-      "outcome_name": "Savings Probability",
-      "outcome_description": "Probability of having savings",
-      "effect_size": 0.0189,
-      "p_value": null,
-      "standard_error": null,
-      "confidence_interval_lower": null,
-      "confidence_interval_upper": null,
-      "literal_text": "Treatment | 0.0189 increase in savings probability",
-      "text_position": "Page 25, Table A2.12"
-    },
-    {
-      "outcome_name": "Social Support Index",
-      "outcome_description": "Ability to mobilize financial support",
-      "effect_size": null,
-      "p_value": null,
-      "standard_error": null,
-      "confidence_interval_lower": null,
-      "confidence_interval_upper": null,
-      "literal_text": "Treatment | Increased ability to mobilize financial support",
-      "text_position": "Page 25, Table A2.13"
+      "literal_text": "Percentage of households with wage employment increased by 10 percentage points",
+      "text_position": "Page 93, Table A2.10",
+      "outcome_timepoint_label": "endline",
+      "outcome_measurement_year": 2023,
+      "outcome_measurement_month": 3,
+      "months_since_intervention_end": "24",
+      "outcome_timing_anchor": {
+        "literal_text": "Impacts measured up to two years after programme implementation",
+        "text_position": "Page 3, Paragraph 3"
+      }
     }
   ],
+  "notes": "Impact evaluation of WFP's Integrated Resilience Programme in Niger, focusing on food security, livelihoods, and resilience capacities",
   "_key": "XP5HHJBR.tei",
   "_tei_file": "/Users/joshuapolanin/Documents/OM_QEX/data/grobid_outputs/tei/XP5HHJBR.tei.xml",
-  "_om_outcome_count": 10
+  "_om_outcome_count": 6
 }

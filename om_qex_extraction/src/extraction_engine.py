@@ -177,6 +177,10 @@ class ExtractionEngine:
             for i, outcome in enumerate(om_outcomes, 1):
                 om_guidance += f"{i}. {outcome.get('outcome_category', 'Unknown')}\n"
                 om_guidance += f"   Location: {outcome.get('location', 'Not specified')}\n"
+                tp = outcome.get('timepoint_label') or outcome.get('timepoint') or outcome.get('wave') or outcome.get('timepoint_months')
+                if tp is not None:
+                    om_guidance += f"   Timepoint: {tp}\n"
+
                 if 'literal_text' in outcome:
                     om_guidance += f"   Text: {outcome.get('literal_text')}\n"
                 om_guidance += "\n"
@@ -210,6 +214,261 @@ class ExtractionEngine:
             logger.error(f"Extraction failed for {tei_file.name}: {e}")
             return None
 
+    # ---------------------------------------------------------------------
+    # Structured outputs (OpenRouter response_format) + robust JSON parsing
+    # ---------------------------------------------------------------------
+
+    def _qex_json_schema(self) -> Dict:
+        """JSON Schema for Stage 2 (QEX) structured outputs.
+
+        Keys are required to exist, but values may be null when truly unknown.
+        """
+        return {
+            "type": "object",
+            "additionalProperties": True,
+            "required": [
+                "study_id",
+                "program_name",
+                "country",
+                "year_intervention_started",
+                "evaluation_design",
+                "evaluation_design_code",
+                "evaluation_method",
+                "evaluation_method_code",
+                "intervention_description",
+                "exposure_to_intervention",
+                "length_of_follow_up",
+                "intervention_start_year",
+                "intervention_start_month",
+                "intervention_end_year",
+                "intervention_end_month",
+                "final_followup_year",
+                "final_followup_month",
+                "timing_anchors",
+                "sample_size_treatment",
+                "sample_size_control",
+                "graduation_components",
+                "graduation_components_rationale",
+                "outcomes",
+                "notes",
+            ],
+            "properties": {
+                "study_id": {"type": ["string", "null"]},
+                "program_name": {"type": ["string", "null"]},
+                "country": {"type": ["string", "null"]},
+                "year_intervention_started": {"type": ["integer", "null"]},
+
+                "evaluation_design": {"type": ["string", "null"]},
+                "evaluation_design_code": {"type": ["integer", "null"]},
+                "evaluation_method": {"type": ["string", "null"]},
+                "evaluation_method_code": {"type": ["string", "null"]},
+
+                "intervention_description": {"type": ["string", "null"]},
+
+                # Numeric string in months (e.g., "24") for compatibility with your existing CSV builder
+                "exposure_to_intervention": {"type": ["string", "null"]},
+                "length_of_follow_up": {"type": ["string", "null"]},
+
+                "intervention_start_year": {"type": ["integer", "null"]},
+                "intervention_start_month": {"type": ["integer", "null"]},
+                "intervention_end_year": {"type": ["integer", "null"]},
+                "intervention_end_month": {"type": ["integer", "null"]},
+                "final_followup_year": {"type": ["integer", "null"]},
+                "final_followup_month": {"type": ["integer", "null"]},
+
+                "timing_anchors": {
+                    "type": "object",
+                    "additionalProperties": False,
+                    "required": ["intervention_start", "intervention_end", "final_followup"],
+                    "properties": {
+                        "intervention_start": {
+                            "type": "object",
+                            "additionalProperties": False,
+                            "required": ["literal_text", "text_position"],
+                            "properties": {
+                                "literal_text": {"type": ["string", "null"]},
+                                "text_position": {"type": ["string", "null"]},
+                            },
+                        },
+                        "intervention_end": {
+                            "type": "object",
+                            "additionalProperties": False,
+                            "required": ["literal_text", "text_position"],
+                            "properties": {
+                                "literal_text": {"type": ["string", "null"]},
+                                "text_position": {"type": ["string", "null"]},
+                            },
+                        },
+                        "final_followup": {
+                            "type": "object",
+                            "additionalProperties": False,
+                            "required": ["literal_text", "text_position"],
+                            "properties": {
+                                "literal_text": {"type": ["string", "null"]},
+                                "text_position": {"type": ["string", "null"]},
+                            },
+                        },
+                    },
+                },
+
+                "sample_size_treatment": {"type": ["integer", "null"]},
+                "sample_size_control": {"type": ["integer", "null"]},
+
+                "graduation_components": {"type": "object"},
+                "graduation_components_rationale": {"type": "object"},
+
+                "outcomes": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "additionalProperties": True,
+                        "required": [
+                            "outcome_name",
+                            "outcome_description",
+                            "effect_size",
+                            "p_value",
+                            "standard_error",
+                            "confidence_interval_lower",
+                            "confidence_interval_upper",
+                            "literal_text",
+                            "text_position",
+                            # Per-outcome timing (from qex_focused_prompt.txt)
+                            "outcome_timepoint_label",
+                            "outcome_measurement_year",
+                            "outcome_measurement_month",
+                            "months_since_intervention_end",
+                            "outcome_timing_anchor",
+                        ],
+                        "properties": {
+                            "outcome_name": {"type": ["string", "null"]},
+                            "outcome_description": {"type": ["string", "null"]},
+                            "effect_size": {"type": ["number", "null"]},
+                            "p_value": {"type": ["number", "null"]},
+                            "standard_error": {"type": ["number", "null"]},
+                            "confidence_interval_lower": {"type": ["number", "null"]},
+                            "confidence_interval_upper": {"type": ["number", "null"]},
+                            "literal_text": {"type": ["string", "null"]},
+                            "text_position": {"type": ["string", "null"]},
+                            "outcome_timepoint_label": {"type": ["string", "null"]},
+                            "outcome_measurement_year": {"type": ["integer", "null"]},
+                            "outcome_measurement_month": {"type": ["integer", "null"]},
+                            "months_since_intervention_end": {"type": ["string", "number", "null"]},
+                            "outcome_timing_anchor": {
+                                "type": "object",
+                                "additionalProperties": False,
+                                "required": ["literal_text", "text_position"],
+                                "properties": {
+                                    "literal_text": {"type": ["string", "null"]},
+                                    "text_position": {"type": ["string", "null"]},
+                                },
+                            },
+                        },
+                    },
+                },
+
+                "notes": {"type": ["string", "null"]},
+            },
+        }
+
+    def _build_response_format(self) -> Optional[Dict]:
+        """Return an OpenRouter/OpenAI-compatible response_format dict."""
+        if getattr(self, "mode", None) != "qex":
+            return None
+
+        use_json_schema = bool(self.config.get("extraction", {}).get("use_json_schema", True))
+        if not use_json_schema:
+            return {"type": "json_object"}
+
+        return {
+            "type": "json_schema",
+            "json_schema": {
+                "name": "om_qex_stage2_qex",
+                "strict": True,
+                "schema": self._qex_json_schema(),
+            },
+        }
+
+    @staticmethod
+    def _extract_first_balanced_json(text: str) -> Optional[str]:
+        """Extract the first balanced JSON object/array substring from arbitrary text."""
+        if not text:
+            return None
+        starts = [i for i in (text.find("{"), text.find("[")) if i != -1]
+        if not starts:
+            return None
+        start = min(starts)
+        opener = text[start]
+        closer = "}" if opener == "{" else "]"
+
+        stack = []
+        in_str = False
+        esc = False
+
+        for i, ch in enumerate(text[start:], start=start):
+            if in_str:
+                if esc:
+                    esc = False
+                elif ch == "\\":  # escape
+                    esc = True
+                elif ch == '"':
+                    in_str = False
+                continue
+
+            if ch == '"':
+                in_str = True
+                continue
+
+            if ch == opener:
+                stack.append(opener)
+            elif ch == closer and stack:
+                stack.pop()
+                if not stack:
+                    return text[start:i + 1]
+        return None
+
+    def _parse_llm_json(self, content) -> Dict:
+        """Parse LLM response content into a dict, with robust fallbacks."""
+        if content is None:
+            raise ValueError("Empty response from API (content=None)")
+
+        if isinstance(content, dict):
+            return content
+
+        response_text = str(content).strip()
+        if not response_text:
+            raise ValueError("Empty response from API (empty string)")
+
+        # Strip markdown code fences if present
+        if "```" in response_text:
+            if "```json" in response_text:
+                json_start = response_text.find("```json") + 7
+                json_end = response_text.find("```", json_start)
+                if json_end > json_start:
+                    response_text = response_text[json_start:json_end].strip()
+            else:
+                json_start = response_text.find("```") + 3
+                json_end = response_text.find("```", json_start)
+                if json_end > json_start:
+                    response_text = response_text[json_start:json_end].strip()
+
+        # Fast path
+        try:
+            return json.loads(response_text)
+        except Exception:
+            pass
+
+        # Balanced extraction path
+        candidate = self._extract_first_balanced_json(response_text)
+        if candidate:
+            return json.loads(candidate)
+
+        # Last resort: slice from first JSON opener
+        starts = [i for i in (response_text.find("{"), response_text.find("[")) if i != -1]
+        if starts:
+            return json.loads(response_text[min(starts):])
+
+        raise json.JSONDecodeError("Could not locate JSON in response", response_text, 0)
+
     def _call_llm(self, prompt: str, retry_count: int = 0) -> Dict:
         """
         Call LLM via OpenRouter API with robust error handling.
@@ -231,77 +490,43 @@ class ExtractionEngine:
             llm_kwargs = {
                 "model": self.config["model"]["name"],
                 "messages": [
-                    {
-                        "role": "user",
-                        "content": prompt,
-                    }
+                    {"role": "user", "content": prompt}
                 ],
                 "temperature": self.config["model"]["temperature"],
                 "max_tokens": self.config["model"]["max_tokens"],
                 "top_p": self.config["model"]["top_p"],
             }
 
-            # In QEX mode, force the model to return a single JSON object
-            if getattr(self, "mode", None) == "qex":
-                llm_kwargs["response_format"] = {"type": "json_object"}
+            response_format = self._build_response_format()
+            if response_format is not None:
+                llm_kwargs["response_format"] = response_format
 
-            response = self.client.chat.completions.create(**llm_kwargs)
+            # First attempt (schema/JSON mode if configured)
+            try:
+                response = self.client.chat.completions.create(**llm_kwargs)
+            except Exception as api_err:
+                # If response_format is not supported by the selected model/provider,
+                # fall back to plain json_object and retry once.
+                err_msg = str(api_err).lower()
+                if "response_format" in err_msg or "json_schema" in err_msg or "invalid" in err_msg:
+                    logger.warning(
+                        "response_format rejected by API/model; falling back to {type: json_object} for this call."
+                    )
+                    llm_kwargs["response_format"] = {"type": "json_object"}
+                    response = self.client.chat.completions.create(**llm_kwargs)
+                else:
+                    raise
+
             # ------------------------------------------------------------
 
             logger.info("✓ API call successful, parsing response...")
 
-            # Extract JSON from response
-            content = response.choices[0].message.content
-            if content is None:
-                logger.error("Response content is None - API returned empty response")
-                raise ValueError("Empty response from API")
-
-            # If JSON mode returns a dict directly, just use it
-            if isinstance(content, dict):
-                extracted_data = content
-                logger.info(
-                    "✓ Successfully parsed JSON with "
-                    f"{len(extracted_data.get('outcomes', []))} outcomes (dict content)"
-                )
-            else:
-                response_text = str(content).strip()
-                logger.debug(f"Response length: {len(response_text)} characters")
-
-                if not response_text:
-                    logger.error("Response text is empty after stripping")
-                    raise ValueError("Empty response text")
-
-                # Handle markdown code blocks - look for ```json and extract content
-                if "```json" in response_text:
-                    json_start = response_text.find("```json") + 7
-                    json_end = response_text.find("```", json_start)
-                    if json_end > json_start:
-                        response_text = response_text[json_start:json_end].strip()
-                        logger.debug("Extracted JSON from markdown code block")
-                elif "```" in response_text:
-                    # Generic code block
-                    json_start = response_text.find("```") + 3
-                    json_end = response_text.find("```", json_start)
-                    if json_end > json_start:
-                        response_text = response_text[json_start:json_end].strip()
-                        logger.debug("Extracted content from generic code block")
-
-                # If response doesn't start with { or [, try to find the JSON
-                if not response_text.startswith(("{", "[")):
-                    json_start = min(
-                        response_text.find("{") if "{" in response_text else len(response_text),
-                        response_text.find("[") if "[" in response_text else len(response_text),
-                    )
-                    if json_start < len(response_text):
-                        logger.debug(f"Found JSON starting at character {json_start}")
-                        response_text = response_text[json_start:]
-
-                logger.info("✓ Parsing JSON...")
-                extracted_data = json.loads(response_text)
-                logger.info(
-                    "✓ Successfully parsed JSON with "
-                    f"{len(extracted_data.get('outcomes', []))} outcomes"
-                )
+            # Extract + parse JSON from response (robust)
+            extracted_data = self._parse_llm_json(response.choices[0].message.content)
+            logger.info(
+                "✓ Successfully parsed JSON with "
+                f"{len(extracted_data.get('outcomes', []))} outcomes"
+            )
 
             # Log token usage
             if hasattr(response, "usage"):
@@ -330,18 +555,23 @@ class ExtractionEngine:
 
         except json.JSONDecodeError as e:
             logger.error(f"JSON parsing error: {e}")
-            if "response_text" in locals():
-                logger.error(f"Response text (first 1000 chars): {response_text[:1000]}")
-                logger.error(f"Response text (last 200 chars): {response_text[-200:]}")
-            else:
-                logger.error("Response text was not set - empty response from API")
+            bad_text = getattr(e, "doc", None) or ""
+            if bad_text:
+                logger.error(f"Bad response (first 800 chars): {bad_text[:800]}")
+                logger.error(f"Bad response (last 200 chars): {bad_text[-200:]}")
 
             if retry_count < max_retries:
-                logger.info(
-                    f"Retrying... (attempt {retry_count + 1}/{max_retries})"
+                logger.info(f"Retrying with JSON repair... (attempt {retry_count + 1}/{max_retries})")
+                repair_prompt = (
+                    "You previously returned invalid or non-conforming JSON. "
+                    "Return EXACTLY ONE valid JSON object that matches the required schema. "
+                    "Do not include any explanation or extra text.\n\n"
+                    "INVALID_RESPONSE_START\n"
+                    f"{bad_text[:6000]}\n"
+                    "INVALID_RESPONSE_END"
                 )
                 time.sleep(retry_delay)
-                return self._call_llm(prompt, retry_count + 1)
+                return self._call_llm(repair_prompt, retry_count + 1)
             else:
                 raise
 
@@ -500,8 +730,19 @@ class ExtractionEngine:
                             'outcome_description': outcome.get('outcome_description'),
                             'effect_size': outcome.get('effect_size'),
                             'p_value': outcome.get('p_value'),
+                            'standard_error': outcome.get('standard_error'),
+                            'confidence_interval_lower': outcome.get('confidence_interval_lower'),
+                            'confidence_interval_upper': outcome.get('confidence_interval_upper'),
                             'literal_text': outcome.get('literal_text'),
-                            'text_position': outcome.get('text_position')
+                            'text_position': outcome.get('text_position'),
+
+                            # Per-outcome timing overrides (optional but schema-recommended)
+                            'outcome_timepoint_label': outcome.get('outcome_timepoint_label'),
+                            'outcome_measurement_year': outcome.get('outcome_measurement_year'),
+                            'outcome_measurement_month': outcome.get('outcome_measurement_month'),
+                            'outcome_months_since_intervention_end': outcome.get('months_since_intervention_end'),
+                            'outcome_timing_anchor_literal_text': (outcome.get('outcome_timing_anchor') or {}).get('literal_text'),
+                            'outcome_timing_anchor_text_position': (outcome.get('outcome_timing_anchor') or {}).get('text_position'),
                         })
                         flattened_rows.append(row)
                 else:

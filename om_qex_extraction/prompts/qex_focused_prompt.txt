@@ -8,226 +8,172 @@ This is **Stage 2 (Quantitative Extraction)** of a two-stage pipeline:
 
 The outcomes you need to extract are listed in the "OM GUIDANCE" section below. Your job is to find each one and extract its full statistical information.
 
-# TASK
+#TASK
+For EACH outcome identified by OM (listed in the OM GUIDANCE section below), extract complete statistical details and return EXACTLY ONE valid JSON object.
 
-For EACH outcome identified by OM (listed below), extract complete statistical details. Return a valid JSON object.
+CRITICAL OUTPUT RULES (READ CAREFULLY)
 
-# OUTPUT SCHEMA
+Output MUST be exactly ONE valid JSON object.
 
-```json
+Do NOT include any text before or after the JSON.
+
+Do NOT wrap the JSON in markdown fences (no ```).
+
+Do NOT ask questions or request clarification. If something is missing, use null and provide evidence anchors where possible.
+
+Use only the keys specified below (no extra keys). Any extra text or keys can break the pipeline.
+
+If you truly cannot extract anything, return: {}
+
+OUTPUT JSON STRUCTURE (KEYS MUST MATCH EXACTLY)
+
+Top-level JSON object:
+
 {
-  "study_id": "string or null (EPPI-Reviewer ID if available; if not clearly reported, use null and do NOT guess)",
-  "program_name": "string or null (full intervention name; if not clearly reported, use null)",
-  "country": "string or null",
-  "year_intervention_started": integer or null,
+"study_id": null,
+"program_name": null,
+"country": null,
+"year_intervention_started": null,
 
-  "evaluation_design": "string or null (RCT, quasi-experimental, etc.)",
-  "evaluation_design_code": 0 or 1 or null,
-  "evaluation_method": "string or null (e.g., 'Cluster RCT', 'Difference-in-differences')",
-  "evaluation_method_code": "string or null (e.g., '2', '5;8')",
+"evaluation_design": null,
+"evaluation_design_code": null,
+"evaluation_method": null,
+"evaluation_method_code": null,
 
-  "intervention_description": "string or null (concise description of intervention components relevant to the extracted estimates)",
-  "length_of_follow_up": "string or null (prefer months, e.g., '48' for 4 years; see rules)",
-  "exposure_to_intervention": "string or null (prefer months, e.g., '24' for 2 years; see rules)",
+"intervention_description": null,
 
-  "intervention_start_year": integer or null,
-  "intervention_start_month": integer or null,   
-  "intervention_end_year": integer or null,
-  "intervention_end_month": integer or null,     
-  "final_followup_year": integer or null,
-  "final_followup_month": integer or null,       
+"exposure_to_intervention": null,
+"length_of_follow_up": null,
 
-  "sample_size_treatment": integer or null,
-  "sample_size_control": integer or null,
+"intervention_start_year": null,
+"intervention_start_month": null,
+"intervention_end_year": null,
+"intervention_end_month": null,
+"final_followup_year": null,
+"final_followup_month": null,
 
-  "graduation_components": {
-    "consumption_support": "Yes" | "No" | "Not mentioned",
-    "healthcare": "Yes" | "No" | "Not mentioned",
-    "assets": "Yes" | "No" | "Not mentioned",
-    "skills_training": "Yes" | "No" | "Not mentioned",
-    "savings": "Yes" | "No" | "Not mentioned",
-    "coaching": "Yes" | "No" | "Not mentioned",
-    "social_empowerment": "Yes" | "No" | "Not mentioned"
-  },
+"timing_anchors": {
+"intervention_start": { "literal_text": null, "text_position": null },
+"intervention_end": { "literal_text": null, "text_position": null },
+"final_followup": { "literal_text": null, "text_position": null }
+},
 
-  "graduation_components_rationale": {
-  "consumption_support": "one sentence explaining why you chose Yes/No/Not mentioned",
-  "healthcare": "...",
-  ...
-  "social_empowerment": "..."
-  },
+"sample_size_treatment": null,
+"sample_size_control": null,
 
-  "outcomes": [
-    {
-      "outcome_name": "string (short name - use OM category as guidance)",
-      "outcome_description": "string (detailed description with units)",
-      "effect_size": float (regression coefficient, mean difference, etc.),
-      "p_value": float (exact p-value, e.g., 0.023 not 'p<0.05') or null,
-      "standard_error": float or null,
-      "confidence_interval_lower": float or null,
-      "confidence_interval_upper": float or null,
-      "literal_text": "string (exact text showing the estimate)",
-      "text_position": "string (table/page location)"
-    }
-  ]
+"graduation_components": {
+"consumption_support": null,
+"healthcare": null,
+"assets": null,
+"skills_training": null,
+"savings": null,
+"coaching": null,
+"social_empowerment": null
+},
+
+"graduation_components_rationale": {
+"consumption_support": null,
+"healthcare": null,
+"assets": null,
+"skills_training": null,
+"savings": null,
+"coaching": null,
+"social_empowerment": null
+},
+
+"outcomes": [],
+
+"notes": null
 }
 
+Allowed values / typing rules
 
-# FIELD DEFINITIONS
+graduation_components values MUST be one of: "Yes", "No", "Not mentioned" (use exact capitalization).
 
-## Outcome Fields - EXTRACT EACH OM-IDENTIFIED OUTCOME
+exposure_to_intervention and length_of_follow_up MUST be numeric strings in months, e.g., "24", "7", "1.5" (or null).
 
-You MUST extract ALL outcomes listed in the OM GUIDANCE section. For each one:
+Months: integer 1–12 when known; if only the year is known, month can be null.
 
-- **outcome_name**: Short name (use OM's outcome_category as guidance)
-- **outcome_description**: Detailed description including units, measurement method
-- **effect_size**: The regression coefficient, standardized mean difference, or treatment effect
-- **p_value**: Exact p-value (extract the number, e.g., 0.023, not "p < 0.05")
-- **standard_error**: Standard error of the estimate (often in parentheses after coefficient)
-- **confidence_interval_lower**: Lower bound of 95% CI (if reported)
-- **confidence_interval_upper**: Upper bound of 95% CI (if reported)
-- **literal_text**: Exact verbatim text showing this outcome's estimate
-  - Example: "Project | 4,408*** (1,369)" or "Asset wealth: 0.31 (0.09), p=0.001"
-- **text_position**: Location in paper
-  - Example: "Table 6, Row 'Project', Column '(3) Amount savings'"
+Use null when not reported / cannot be inferred with reasonable confidence.
 
-## Study Design Fields
+OUTCOME OBJECT STRUCTURE (for each entry in outcomes[])
+Each element of "outcomes" MUST be an object with the following keys:
 
-- **evaluation_design**: Type of study
-  - e.g., "Randomized Controlled Trial", "Cluster Randomised Controlled Trial", "Difference-in-Differences", "Regression Discontinuity", "Instrumental Variables".
-- **evaluation_design_code**:
-  - 1 = Experimental (randomised assignment, including individual and cluster RCTs)
-  - 0 = Quasi-experimental (including natural experiments and all non-randomised designs)
+{
+"outcome_name": null,
+"outcome_description": null,
 
-- **evaluation_method**: Free-text description of the specific method used for identification.
-  - e.g., "Cluster RCT", "Difference-in-differences with fixed effects", "sharp RDD", "two-stage least squares IV", "propensity score matching".
-- **evaluation_method_code**:
-  - If Experimental (randomised):
-    - "1" = Randomised controlled trial (individual randomisation)
-    - "2" = Cluster RCT
-  - If Quasi-experiment / Natural experiment:
-    - "3" = Natural experiment in which exposure to treatment is random
-    - "4" = Regression Discontinuity Design (RDD)
-    - "5" = Difference-in-Differences (DID) / Fixed effects estimation
-    - "6" = Instrumental variable (IV) estimation
-    - "7" = Endogenous treatment-effects models (including endogenous switching regression, Heckman-type models)
-    - "8" = Statistical matching / weighting (e.g., propensity score matching, IPW)
-    - "9" = Interrupted time series (ITS)
-    - "10" = Synthetic control
-  - If more than one method is used, return a semicolon-separated string (e.g., "5;8").
-  - If the method is unclear or not reported, set `evaluation_method_code` to null (do NOT guess).
+"effect_size": null,
+"p_value": null,
+"standard_error": null,
+"confidence_interval_lower": null,
+"confidence_interval_upper": null,
 
-## Statistical Fields
+"literal_text": null,
+"text_position": null,
 
-- **sample_size_treatment**: Number of participants in treatment group
-- **sample_size_control**: Number of participants in control group
+"outcome_timepoint_label": null,
+"outcome_measurement_year": null,
+"outcome_measurement_month": null,
+"months_since_intervention_end": null,
 
-### Intervention timing structure (for computation)
+"outcome_timing_anchor": { "literal_text": null, "text_position": null }
+}
 
-Before filling the duration fields, you MUST extract these date components:
+Outcome typing rules
 
-- `intervention_start_year` / `intervention_start_month`
-- `intervention_end_year` / `intervention_end_month`
-- `final_followup_year` / `final_followup_month`
+effect_size, p_value, standard_error, confidence_interval_lower, confidence_interval_upper are numbers or null.
 
-Interpretation:
+months_since_intervention_end is a numeric string in months, e.g., "0", "6", "12", "1.5" (or null).
 
-- `intervention_start_*`:
-  - Approximate month/year when intervention activities begin
-    (first training, group formation, first transfer, etc.).
-- `intervention_end_*`:
-  - Approximate month/year when intervention activities end
-    (last training/coaching, final transfer, or when the programme is described as ending).
-- `final_followup_*`:
-  - Approximate month/year of the LATEST follow-up survey used for the outcomes you extract.
+literal_text should be an exact snippet showing the estimate (and ideally its uncertainty like SE/CI) for that outcome.
 
-**You are REQUIRED to fill these year fields whenever the paper provides at least YEAR information.**
-Only use `null` if the year is completely unavailable.
+text_position should be as specific as possible (table number, panel, row/column, page/section).
 
-- If the paper says “in 2016” but not the month, set:
-  - `intervention_*_year = 2016`
-  - `intervention_*_month = null`
-- If the paper gives a period (e.g., “mid-2017”, “late 2018”), approximate the month:
-  - early year → month 1 or 2; mid-year → 6; late year → 10 or 11.
+DESIGN/METHOD CODING RULES
+evaluation_design_code:
 
-The downstream system will recompute durations, so **getting these six date fields correct is more important than the duration fields**.
+1 = Experimental (randomised assignment, including individual and cluster RCTs)
 
----
+0 = Quasi-experimental (including all non-randomised designs)
 
-### EXTERNAL JSON FIELDS: intervention_description and timing
+evaluation_method_code:
+If Experimental:
 
-- **intervention_description**:
-  - Concise description of intervention components relevant to the extracted outcomes.
-  - Summarise what the programme is, how it works, and the key components, using short phrases.
-  - You MAY quote short phrases from the paper, but keep it concise.
+"1" = Individual RCT
 
-- **INTERNAL REASONING STEP (do NOT output): exposure / follow-up**
+"2" = Cluster RCT
+If Quasi-experiment / Natural experiment:
 
-  Before you fill `exposure_to_intervention` and `length_of_follow_up` in the JSON, think through these four steps:
+"3" = Natural experiment with random exposure
 
-  1. Identify the approximate month/year when the intervention starts.
-  2. Identify the approximate month/year when the intervention ends.
-  3. Identify the approximate month/year of the FINAL outcome measurement.
-  4. Compute:
-     - `exposure_to_intervention` = months between (start of intervention) and (end of intervention).
-     - `length_of_follow_up` = months between (end of intervention) and (final outcome measurement).
+"4" = Regression Discontinuity (RDD)
 
-  You MUST base this on the date fields you set above, not by copying phrases like “24-month program”.
+"5" = Difference-in-Differences (DID) / Fixed effects
 
-- **exposure_to_intervention** (JSON field):
-  - Definition: total duration (in months) that participants were exposed to the intervention.
-  - Start: when the FIRST intervention activity begins.
-  - End: when the LAST intervention activity ends.
-  - Express the duration in **months as a numeric string**:
-    - Years → months (e.g., 2 years → `"24"`).
-    - Weeks → months (e.g., 6 weeks → `"1.5"`).
-  - Only use `null` if you truly cannot infer even approximate start and end years.
-  - If you know start and end years but not months, still compute an approximate duration:
-    - Example: start 2016, end 2017 → `"12"`.
+"6" = Instrumental variables (IV)
 
-- **length_of_follow_up** (JSON field):
-  - Definition: number of months between the END of the intervention and the FINAL outcome measurement.
-  - If multiple follow-up rounds exist, use the **latest** follow-up.
-  - Express in **months as a numeric string** (e.g., `"7"`, `"12"`).
-  - Only use `null` if the timing of the FINAL outcome cannot be inferred even approximately.
-  - If you know end year and final follow-up year but not months, approximate:
-    - Example: programme ends in 2016, final follow-up in 2017 → `"7"` if the text suggests “mid-2017”, otherwise a reasonable month-based approximation.
+"7" = Endogenous treatment-effects models (e.g., Heckman-type)
 
-> Example (illustrative):
-> - Intervention runs roughly January–December 2016.
-> - Final follow-up survey occurs around July 2017.
-> Then:
-> - `intervention_start_year = 2016`, `intervention_start_month = 1`
-> - `intervention_end_year = 2016`, `intervention_end_month = 12`
-> - `final_followup_year = 2017`, `final_followup_month = 7`
-> - `exposure_to_intervention = "12"`
-> - `length_of_follow_up = "7"`
+"8" = Matching / weighting (PSM, IPW)
 
+"9" = Interrupted time series
 
-## Graduation Program Components
-
-For EACH component, classify as `"Yes"`, `"No"`, or `"Not mentioned"`.
-
-General rules:
-
-- Code **"Yes"** when there is **clear evidence** that the component is part of the intervention delivered to most participants (even if it is only one of several components).
-- Code **"No"** only if the paper explicitly states that such a component is **not** offered or is clearly outside the programme.
-- Code **"Not mentioned"** when there is **no usable information** either way. Do NOT guess.
-- A single programme can legitimately have **multiple components = "Yes"**.
+"10" = Synthetic control
+If more than one method is used, return a semicolon-separated string (e.g., "5;8").
+If unclear, set code fields to null (do NOT guess).
 
 Component-specific guidance:
 
 - **consumption_support**  
   *Cash or in-kind transfers intended to stabilise consumption or food security.*
   - Examples: regular cash transfers, food rations, vouchers for basic needs, top-ups to cover essential expenditures.
-  - Code **"Yes"** when transfers are described mainly as income/consumption support, safety nets, or to prevent selling assets to survive.
   - If a lump-sum is clearly framed as **capital for productive investment** (business start-up, asset purchase), treat that primarily under **assets** (see below); it can still count as consumption_support if the text also emphasises food/consumption stabilisation.
 
 - **healthcare**  
   *Health services or financing that address basic health needs.*
   - Examples: free or subsidised clinic visits, health insurance, community health workers, vouchers for health services.
-  - Health **education only** (e.g., information sessions without service access) is borderline; code **"Yes"** only if there is some concrete service, subsidy, or systematic linkage to care.
-
+  
 - **assets**  
   *Livestock, tools, equipment, land, or capital intended as a foundation for income generation.*
   - Examples: livestock, agricultural tools, productive equipment, starter kits, or **lump-sum grants explicitly intended as capital for productive assets or business investment**.
@@ -263,118 +209,108 @@ Component-specific guidance:
     - explicit empowerment activities for women, youth, or other marginalised groups (e.g., rights training, leadership, advocacy, collective action).
   - Code **"No"** only if the paper clearly indicates that the intervention is purely economic with no community/empowerment or institutional-linkage elements.
 
-# EXTRACTION RULES
+EXTRACTION RULES
 
-1. **Use OM Guidance**: The outcomes listed below were already identified - find them in the paper using the location hints
-2. **Extract ALL OM outcomes**: Every outcome in the OM GUIDANCE section should appear in your outcomes array
-3. **Extract exact values**: For effect_size and p_value, extract the numerical values exactly as reported
-4. **Standard errors**: Often shown in parentheses after coefficients, e.g., "4,408 (1,369)" means effect=4408, SE=1369
-5. **Significance stars**: *** usually means p<0.01, ** means p<0.05, * means p<0.10
-   - If exact p-value not given but stars shown, estimate: *** → 0.01, ** → 0.05, * → 0.10
-6. **Missing data**: Use null for any field that cannot be found
-7. **Units matter**: Include units in outcome_description (e.g., "Malawian Kwacha", "USD", "index 0-1")
-8. **Intervention timing (length_of_follow_up and exposure_to_intervention)**:
-   - ALWAYS try to fill the six timing date fields
-     (`intervention_start_year/month`, `intervention_end_year/month`,
-      `final_followup_year/month`) whenever at least the YEAR is reported.
-   - Then derive `exposure_to_intervention` and `length_of_follow_up` in MONTHS
-     using those dates (approximate months when needed).
-   - Use numeric strings only (e.g., `"24"`, `"7"`, `"1.5"`), not phrases.
-   - As a sanity check, in most evaluations:
-     - `exposure_to_intervention` ≈ programme duration, and
-     - `length_of_follow_up` is typically shorter than the exposure duration,
-       unless follow-up occurs long after the programme ends.
-   - If timing is extremely unclear (no usable years for start, end, or final follow-up),
-     return `null` rather than guessing.
-9. **Coded evaluation fields**:
-   - Only assign evaluation_design_code and evaluation_method_code when the design/method is clearly described.
-   - If uncertain, leave the code fields as null rather than guessing.
-10. **Graduation components (reasoning step)**:
-   - Before assigning "Yes"/"No"/"Not mentioned" for the 7 components, do this internally:
-     1. Read the full intervention description and list all concrete activities (e.g., lump-sum grant, training sessions, savings groups, community fairs, alliances with institutions).
-     2. For each listed activity, map it to one or more of the 7 components using the definitions above.
-   - Use **"Yes"** when there is any clear evidence that a component is present, even if the exact label is not used.
-   - Use **"No"** only when the paper clearly states that a component is absent or not offered.
-   - Use **"Not mentioned"** when there is no usable information about that component.
-11. For each component, also include a one-sentence rationale explaining which phrases in the paper you used. This rationale is for internal QA; it will NOT be used in the final dataset, but you must write it before choosing "Yes", "No", or "Not mentioned".
+Use OM Guidance: the outcomes listed below were already identified; find them using location hints.
 
+Extract ALL OM outcomes: every outcome in OM GUIDANCE MUST appear once in your outcomes array (do not add extra outcomes unless OM lists them).
 
+Extract exact values:
 
-# EXAMPLE OUTPUT
+effect_size and standard_error from tables/text (SE often in parentheses).
 
-```json
-{
-  "study_id": "121294984",
-  "program_name": "Tingathe Economic Empowerment Programme (TEEP)",
-  "country": "Malawi",
-  "year_intervention_started": 2016,
+confidence intervals if reported.
 
-  "evaluation_design": "Cluster randomised controlled trial",
-  "evaluation_design_code": 1,
-  "evaluation_method": "Cluster RCT",
-  "evaluation_method_code": "2",
+Significance stars:
 
-  "intervention_description": "Graduation-style intervention combining cash transfers, assets, skills training, savings groups and coaching for ultra-poor households.",
-  "length_of_follow_up": "48",
-  "exposure_to_intervention": "24",
+If stars but no exact p-value: use *** → 0.01, ** → 0.05, * → 0.10 (otherwise null if no basis).
 
-  "sample_size_treatment": 445,
-  "sample_size_control": 423,
+Units matter: include units in outcome_description (currency, index scale, etc.).
 
-  "graduation_components": {
-    "consumption_support": "Yes",
-    "healthcare": "No",
-    "assets": "Yes",
-    "skills_training": "Yes",
-    "savings": "Yes",
-    "coaching": "Yes",
-    "social_empowerment": "Not mentioned"
-  },
+Missing data: use null when not found.
 
-  "outcomes": [
-    {
-      "outcome_name": "Amount savings (MWK)",
-      "outcome_description": "Total savings in Malawian Kwacha",
-      "effect_size": 4408.0,
-      "p_value": 0.01,
-      "standard_error": 1369.0,
-      "confidence_interval_lower": null,
-      "confidence_interval_upper": null,
-      "literal_text": "Project | 4,408*** (1,369)",
-      "text_position": "Table 6, Row 'Project', Column '(3) Amount savings (MWK)'"
-    },
-    {
-      "outcome_name": "Per capita total consumption (MWK)",
-      "outcome_description": "Total household consumption per capita in Malawian Kwacha",
-      "effect_size": 21519.0,
-      "p_value": 0.05,
-      "standard_error": 10874.0,
-      "confidence_interval_lower": null,
-      "confidence_interval_upper": null,
-      "literal_text": "Total consumption (per capita) | 21,519* (10,874)",
-      "text_position": "Table 8, Panel A, Row 'Total consumption (per capita)'"
-    }
-  ]
-}
-```
+INTERVENTION TIMING (STUDY-LEVEL AND OUTCOME-LEVEL) — MUST FOLLOW
+You MUST extract:
+A) Study-level intervention start/end date parts:
 
-# PAPER TEXT TO EXTRACT
+intervention_start_year/month
 
+intervention_end_year/month
+Provide anchors for start and end in timing_anchors.intervention_start and timing_anchors.intervention_end.
+
+B) Outcome-level measurement timing for EACH outcome:
+
+outcome_timepoint_label (e.g., "endline", "6-month follow-up", "Wave 3", "12 months after endline")
+
+outcome_measurement_year/month when stated (calendar time)
+
+months_since_intervention_end when stated directly OR inferable (relative time)
+Provide outcome_timing_anchor for EACH outcome (exact snippet + where it appears).
+
+Then derive:
+
+exposure_to_intervention = months between intervention_start and intervention_end (numeric string months).
+
+final_followup_year/month = latest outcome_measurement_year/month across extracted outcomes (if calendar timing exists).
+
+length_of_follow_up = maximum months_since_intervention_end across extracted outcomes (numeric string months).
+
+Conversion guidance (approximate when needed)
+
+Years to months: 2 years → "24".
+
+Weeks to months: 2 weeks → "0.5"; 4 weeks → "1"; 6 weeks → "1.5".
+
+If only years are known for start/end: approximate duration in whole-year months (2016 to 2017 → "12").
+
+If timing is extremely unclear (no usable year for start/end and no usable relative timing), use null rather than guessing.
+
+Anchor requirements (STRICT)
+
+Each anchor literal_text should be a short, exact snippet (ideally <= 25 words).
+
+text_position should be specific (section name, page, table, appendix, figure, etc.).
+
+If final_followup is derived from outcome timing, anchor it to the snippet that indicates the latest measurement wave/timepoint.
+
+OM GUIDANCE
+{om_guidance}
+
+PAPER TEXT TO EXTRACT
 {paper_text}
 
-# YOUR EXTRACTION
+YOUR EXTRACTION
+Return exactly ONE JSON object matching the schema above.
 
-# OUTPUT FORMAT (CRITICAL)
 
-You are being called by an automated script that will parse your reply as JSON.
+TIMING POLICY (critical)
 
-You MUST obey all of the following:
+Goal: Populate study-level timing anchors AND per-outcome timing when outcomes are measured in different waves.
 
-- Respond with ONE and only one valid JSON object.
-- Do NOT include any natural language, introductions, explanations, or markdown.
-- Do NOT ask me questions or suggest alternative workflows.
-- If you are uncertain, make your best effort and record uncertainty in a "notes" field INSIDE THE JSON.
-- If you truly cannot extract anything, return: {}
+1) Study-level anchors (populate BOTH the numeric fields and timing_anchors evidence)
+   - intervention_start_year/month and timing_anchors.intervention_start should reflect when implementation began (baseline/start of rollout), not when the study was published.
+   - intervention_end_year/month and timing_anchors.intervention_end should reflect when implementation ended (end of exposure). If only a duration is given, leave calendar fields null but still fill exposure_to_intervention (months).
+   - final_followup_year/month and timing_anchors.final_followup should reflect the latest measurement wave in the paper (endline/follow-up), even if not all outcomes are measured there.
 
-Any text outside a single JSON object will break the pipeline.
+2) Derived durations (ALWAYS try to fill these, even if calendar anchors are partially missing)
+   - exposure_to_intervention: numeric string months (e.g., "6", "24"). Prefer:
+       (a) explicit duration stated ("program lasted 18 months") OR
+       (b) months_between(intervention_start, intervention_end) when both anchors are present.
+   - length_of_follow_up: numeric string months. Prefer:
+       (a) explicit follow-up statement ("measured 12 months after program ended") OR
+       (b) months_between(intervention_end, final_followup) when both anchors are present OR
+       (c) MAX(months_since_intervention_end across all outcomes[]), when per-outcome waves differ.
+
+3) Per-outcome timing overrides (outcomes[])
+   - outcome_timepoint_label: e.g., "endline", "6 months post", "Round 3", "Wave 2".
+   - outcome_measurement_year/month: populate if explicitly stated in tables/figures/text; otherwise null.
+   - months_since_intervention_end: numeric string months since the intervention ended for THAT outcome/timepoint. If the paper provides only months since baseline, convert if you can infer intervention_end relative to baseline; otherwise leave null.
+   - outcome_timing_anchor: exact quote + text_position showing the wave/timepoint information for that outcome.
+
+4) Evidence requirement
+   - For any non-null anchor/duration/timepoint, include a supporting literal_text and text_position in timing_anchors or outcome_timing_anchor. If you cannot find evidence, leave the value null.
+
+5) Consistency checks (do these before finalizing JSON)
+   - length_of_follow_up should not be less than the maximum months_since_intervention_end across outcomes (if provided).
+   - If intervention_end is missing but final_followup is present, still try to extract length_of_follow_up from explicit text; otherwise leave null.
 

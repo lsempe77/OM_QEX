@@ -154,3 +154,16 @@ BEFORE providing your JSON output, mentally verify:
 4. Are there any tables with "Table [number]:" that I might have missed?
 
 Then provide ONLY valid JSON matching the schema above. Do not include any explanatory text before or after the JSON.
+
+
+ADDITIONAL FIELD (Phase 1 preparation)
+
+If the table/figure/text location clearly indicates a measurement wave or timepoint for the outcome, add:
+
+- timepoint_label: e.g., "endline", "12m follow-up", "Round 2", "Wave 3"
+- timepoint_months: numeric string months since intervention end or since baseline (state which in the literal_text)
+- timepoint_literal_text: exact quote showing the timepoint/wave
+- timepoint_text_position: where that quote appears
+
+If no timepoint information is present, set these fields to null.
+

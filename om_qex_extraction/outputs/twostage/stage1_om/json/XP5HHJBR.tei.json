@@ -4,72 +4,68 @@
     {
       "outcome_group": "Food Security",
       "outcome_category": "Food Consumption Score (FCS)",
-      "location": "Page 25; Table A2.1a; Primary Food Security Indicators",
-      "literal_text": "Treatment | 1.5 points increase",
-      "text_position": "Table A2.1a, Row: Treatment, Column: FCS Impact"
+      "location": "Page 75; Table A2.1a; Primary Food Security Indicators",
+      "literal_text": "Programme increased FCS by 1.5 points",
+      "text_position": "Page 75, Results section",
+      "timepoint_label": "endline",
+      "timepoint_months": "24",
+      "timepoint_literal_text": "Improvements in food security are observed for the Food Consumption Score (FCS) at endline, which increases by 1.5 points",
+      "timepoint_text_position": "Page 110, Paragraph 2"
     },
     {
       "outcome_group": "Food Security",
       "outcome_category": "Food Insecurity Experience Scale (FIES)",
-      "location": "Page 25; Table A2.1a; Primary Food Security Indicators",
-      "literal_text": "Treatment | 0.24 coefficient (13.1% relative increase)",
-      "text_position": "Table A2.1a, Row: Treatment, Column: FIES Impact"
-    },
-    {
-      "outcome_group": "Expenditure/Consumption",
-      "outcome_category": "Total household consumption (12 months prior)",
-      "location": "Page 25; Table A2.1b; Secondary Food Security Indicators",
-      "literal_text": "Increased consumption, partly from own production and purchased food",
-      "text_position": "Table A2.1b, Consumption section"
+      "location": "Page 75; Table A2.1a; Primary Food Security Indicators",
+      "literal_text": "FIES indicator improves by 0.24 points (13.1% relative increase)",
+      "text_position": "Page 75, Results section",
+      "timepoint_label": "endline",
+      "timepoint_months": "24",
+      "timepoint_literal_text": "The coefficient for FIES is 0.24, from a comparison mean of 1.83 -a relative increase of 13.1 percent (significant at the 10 percent level)",
+      "timepoint_text_position": "Page 75, Paragraph 2"
     },
     {
       "outcome_group": "Agriculture",
-      "outcome_category": "Total crop quantity harvested",
-      "location": "Page 25; Table A2.5; Agriculture - All Crops",
-      "literal_text": "Treatment | 59.84 kg increase (total average 309 kg)",
-      "text_position": "Table A2.5, Row: Treatment, Column: Quantity Harvested"
-    },
-    {
-      "outcome_group": "Agriculture",
-      "outcome_category": "Land area cultivated",
-      "location": "Page 25; Table A2.5; Agriculture - All Crops",
-      "literal_text": "Treatment | 0.27 hectares increase (total average 1.91 hectares)",
-      "text_position": "Table A2.5, Row: Treatment, Column: Area Cultivated"
+      "outcome_category": "Total crop quantity harvested (kg)",
+      "location": "Page 86; Table A2.5; Agriculture - All crops",
+      "literal_text": "Overall quantity of crops harvested increased by 60 kg (total average of 309 kg) in WFP programme villages, from an average of 249 kg in the comparison group (a 22 percent increase)",
+      "text_position": "Page 86, Results section",
+      "timepoint_label": "endline",
+      "timepoint_months": "24",
+      "timepoint_literal_text": "The overall quantity of crops harvested increased by 60 kg (total average of 309 kg) in WFP programme villages, from an average of 249 kg in the comparison group (a 22 percent increase)",
+      "timepoint_text_position": "Page 86, Paragraph 1"
     },
     {
       "outcome_group": "Livestock",
-      "outcome_category": "Livestock ownership",
-      "location": "Page 25; Table A2.8; Livestock Outcomes",
-      "literal_text": "Treatment | 9 percentage point increase in livestock ownership",
-      "text_position": "Table A2.8, Row: Treatment, Column: Owned Livestock"
+      "outcome_category": "Share of households owning livestock",
+      "location": "Page 91; Table A2.8; Livestock",
+      "literal_text": "Share of households that own livestock increased by 9 percentage points",
+      "text_position": "Page 91, Results section",
+      "timepoint_label": "endline",
+      "timepoint_months": "24",
+      "timepoint_literal_text": "The share of households that own livestock increased by 9 percentage points, which is substantial since 37.4 percent of households hold livestock in the comparison group",
+      "timepoint_text_position": "Page 91, Paragraph 1"
+    },
+    {
+      "outcome_group": "Psychological Well-being",
+      "outcome_category": "Life satisfaction score",
+      "location": "Page 81; Table A2.2; Psychological Well-being Indicators",
+      "literal_text": "Subjective life satisfaction improved from 3.8 in comparison group to 4.05 in programme villages",
+      "text_position": "Page 81, Results section",
+      "timepoint_label": "endline",
+      "timepoint_months": "24",
+      "timepoint_literal_text": "Beneficiary households' psychological well-being improved, including their subjective life satisfaction (from 3.8 in the comparison group to 4.05 in villages assigned to the programme)",
+      "timepoint_text_position": "Page 81, Paragraph 1"
     },
     {
       "outcome_group": "Work/Employment",
       "outcome_category": "Household wage employment",
-      "location": "Page 25; Table A2.10; Wage Employment",
-      "literal_text": "Treatment | 10 percentage point increase in wage employment",
-      "text_position": "Table A2.10, Row: Treatment, Column: Household Wage Employment"
-    },
-    {
-      "outcome_group": "Assets",
-      "outcome_category": "Farm asset value",
-      "location": "Page 25; Table A2.11; Assets Outcomes",
-      "literal_text": "Treatment | 3,833 FCFA increase in farm asset value",
-      "text_position": "Table A2.11, Row: Treatment, Column: Farm Assets Value"
-    },
-    {
-      "outcome_group": "Financial Inclusion",
-      "outcome_category": "Savings",
-      "location": "Page 25; Table A2.12; Savings and Loans",
-      "literal_text": "Treatment | 0.0189 increase in savings probability",
-      "text_position": "Table A2.12, Row: Treatment, Column: Saved (0/1)"
-    },
-    {
-      "outcome_group": "Social Capital/Empowerment",
-      "outcome_category": "Social support index",
-      "location": "Page 25; Table A2.13; Social Well-being",
-      "literal_text": "Treatment | Increased ability to mobilize financial support",
-      "text_position": "Table A2.13, Social Support Columns"
+      "location": "Page 93; Table A2.10; Wage Employment",
+      "literal_text": "Percentage of households with wage employment increased by 10 percentage points",
+      "text_position": "Page 93, Results section",
+      "timepoint_label": "endline",
+      "timepoint_months": "24",
+      "timepoint_literal_text": "There were increases in the percentage of households with wage employment (by 10 percentage points), both in agriculture and outside",
+      "timepoint_text_position": "Page 93, Paragraph 1"
     }
   ],
   "_key": "XP5HHJBR.tei",
