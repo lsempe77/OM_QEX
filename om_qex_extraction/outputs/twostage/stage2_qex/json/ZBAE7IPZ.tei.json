@@ -4,9 +4,9 @@
   "country": null,
   "year_intervention_started": null,
   "evaluation_design": null,
-  "evaluation_design_code": null,
+  "evaluation_design_code": 1,
   "evaluation_method": null,
-  "evaluation_method_code": null,
+  "evaluation_method_code": "1",
   "intervention_description": null,
   "exposure_to_intervention": null,
   "length_of_follow_up": null,
@@ -30,8 +30,8 @@
       "text_position": null
     }
   },
-  "sample_size_treatment": null,
-  "sample_size_control": null,
+  "sample_size_treatment": 874,
+  "sample_size_control": 874,
   "graduation_components": {
     "consumption_support": null,
     "healthcare": null,
@@ -44,7 +44,7 @@
   "graduation_components_rationale": {
     "consumption_support": null,
     "healthcare": null,
-    "assets": "Livestock (75%) and start-up capital for small businesses were primary assets given out",
+    "assets": "Livestock was the main asset given out (75% of assets)",
     "skills_training": null,
     "savings": null,
     "coaching": null,
@@ -55,96 +55,101 @@
       "outcome_name": "Total asset value",
       "outcome_description": "Total asset value in PPP$",
       "effect_size": 290.15,
-      "p_value": null,
+      "p_value": 0.01,
       "standard_error": 66.97,
       "confidence_interval_lower": null,
       "confidence_interval_upper": null,
       "literal_text": "Total asset value (PPP$): 290.15*** (66.97)",
       "text_position": "Appendix Table 4, Row [1]",
-      "outcome_timepoint_label": "endline",
+      "outcome_timepoint_label": "Endline",
       "outcome_measurement_year": null,
       "outcome_measurement_month": null,
-      "months_since_intervention_end": "0",
+      "months_since_intervention_end": null,
       "outcome_timing_anchor": {
-        "literal_text": "endline",
-        "text_position": "Appendix Table 4"
-      }
+        "literal_text": null,
+        "text_position": null
+      },
+      "timepoint_origin": "intervention_end",
+      "timing_confidence": "high",
+      "timing_evidence": "Endline measurement after intervention end",
+      "timepoint_value": 12,
+      "timepoint_unit": "months",
+      "months_since_intervention_end_computed": 12
     },
     {
       "outcome_name": "Household durables",
       "outcome_description": "Household durables value in PPP$",
       "effect_size": 64.16,
-      "p_value": null,
+      "p_value": 0.1,
       "standard_error": 33.13,
       "confidence_interval_lower": null,
       "confidence_interval_upper": null,
       "literal_text": "Household durables (PPP$): 64.16* (33.13)",
       "text_position": "Appendix Table 4, Row [2]",
-      "outcome_timepoint_label": "endline",
+      "outcome_timepoint_label": "Endline",
       "outcome_measurement_year": null,
       "outcome_measurement_month": null,
-      "months_since_intervention_end": "0",
+      "months_since_intervention_end": null,
       "outcome_timing_anchor": {
-        "literal_text": "endline",
-        "text_position": "Appendix Table 4"
-      }
+        "literal_text": null,
+        "text_position": null
+      },
+      "timepoint_origin": "intervention_end",
+      "timing_confidence": "high",
+      "timing_evidence": "Endline measurement after intervention end",
+      "timepoint_value": 12,
+      "timepoint_unit": "months",
+      "months_since_intervention_end_computed": 12
     },
     {
       "outcome_name": "Productive capital",
       "outcome_description": "Productive capital value in PPP$",
       "effect_size": 227.52,
-      "p_value": null,
+      "p_value": 0.01,
       "standard_error": 42.25,
       "confidence_interval_lower": null,
       "confidence_interval_upper": null,
       "literal_text": "Productive capital (PPP$): 227.52*** (42.25)",
       "text_position": "Appendix Table 4, Row [3]",
-      "outcome_timepoint_label": "endline",
+      "outcome_timepoint_label": "Endline",
       "outcome_measurement_year": null,
       "outcome_measurement_month": null,
-      "months_since_intervention_end": "0",
+      "months_since_intervention_end": null,
       "outcome_timing_anchor": {
-        "literal_text": "endline",
-        "text_position": "Appendix Table 4"
-      }
+        "literal_text": null,
+        "text_position": null
+      },
+      "timepoint_origin": "intervention_end",
+      "timing_confidence": "high",
+      "timing_evidence": "Endline measurement after intervention end",
+      "timepoint_value": 12,
+      "timepoint_unit": "months",
+      "months_since_intervention_end_computed": 12
     },
     {
-      "outcome_name": "Total monthly consumption per capita",
-      "outcome_description": "Total monthly consumption per capita in PPP$",
-      "effect_size": -2.22,
-      "p_value": null,
-      "standard_error": 4.8,
-      "confidence_interval_lower": null,
-      "confidence_interval_upper": null,
-      "literal_text": "Total monthly consumption per capita: -2.22 (4.80)",
-      "text_position": "Appendix Table 5, Panel A, Row [1]",
-      "outcome_timepoint_label": "endline",
-      "outcome_measurement_year": null,
-      "outcome_measurement_month": null,
-      "months_since_intervention_end": "0",
-      "outcome_timing_anchor": {
-        "literal_text": "endline",
-        "text_position": "Appendix Table 5"
-      }
-    },
-    {
-      "outcome_name": "Food monthly consumption per capita",
-      "outcome_description": "Food monthly consumption per capita in PPP$",
+      "outcome_name": "Monthly food consumption per capita",
+      "outcome_description": "Monthly food consumption per capita in PPP$",
       "effect_size": -3.06,
       "p_value": 0.05,
       "standard_error": 1.38,
       "confidence_interval_lower": null,
       "confidence_interval_upper": null,
-      "literal_text": "Food monthly consumption per capita: -3.06** (1.38)",
+      "literal_text": "Food -3.06** (1.38)",
       "text_position": "Appendix Table 5, Panel A, Row [2]",
-      "outcome_timepoint_label": "endline",
+      "outcome_timepoint_label": "Endline",
       "outcome_measurement_year": null,
       "outcome_measurement_month": null,
-      "months_since_intervention_end": "0",
+      "months_since_intervention_end": null,
       "outcome_timing_anchor": {
-        "literal_text": "endline",
-        "text_position": "Appendix Table 5"
-      }
+        "literal_text": null,
+        "text_position": null
+      },
+      "timepoint_origin": "intervention_end",
+      "timing_confidence": "high",
+      "timing_evidence": "Endline measurement after intervention end",
+      "timepoint_value": 12,
+      "timepoint_unit": "months",
+      "months_since_intervention_end_computed": 12
     },
     {
       "outcome_name": "Non-livestock income",
@@ -156,14 +161,20 @@
       "confidence_interval_upper": null,
       "literal_text": "Non-livestock income: 42.79 (338.43)",
       "text_position": "Appendix Table 7, Row [1]",
-      "outcome_timepoint_label": "endline",
+      "outcome_timepoint_label": "Endline",
       "outcome_measurement_year": null,
       "outcome_measurement_month": null,
-      "months_since_intervention_end": "0",
+      "months_since_intervention_end": null,
       "outcome_timing_anchor": {
-        "literal_text": "endline",
-        "text_position": "Appendix Table 7"
-      }
+        "literal_text": null,
+        "text_position": null
+      },
+      "timepoint_origin": "intervention_end",
+      "timing_confidence": "high",
+      "timing_evidence": "Endline measurement after intervention end",
+      "timepoint_value": 12,
+      "timepoint_unit": "months",
+      "months_since_intervention_end_computed": 12
     },
     {
       "outcome_name": "Food security index",
@@ -175,37 +186,49 @@
       "confidence_interval_upper": null,
       "literal_text": "Food security index: 0.04 (0.07)",
       "text_position": "Appendix Table 8, Row [1]",
-      "outcome_timepoint_label": "endline",
+      "outcome_timepoint_label": "Endline",
       "outcome_measurement_year": null,
       "outcome_measurement_month": null,
-      "months_since_intervention_end": "0",
+      "months_since_intervention_end": null,
       "outcome_timing_anchor": {
-        "literal_text": "endline",
-        "text_position": "Appendix Table 8"
-      }
+        "literal_text": null,
+        "text_position": null
+      },
+      "timepoint_origin": "intervention_end",
+      "timing_confidence": "high",
+      "timing_evidence": "Endline measurement after intervention end",
+      "timepoint_value": 12,
+      "timepoint_unit": "months",
+      "months_since_intervention_end_computed": 12
     },
     {
-      "outcome_name": "All household members usually get enough food",
-      "outcome_description": "Binary indicator of household food sufficiency",
-      "effect_size": 0.01,
-      "p_value": null,
+      "outcome_name": "Any sheep or goat ownership",
+      "outcome_description": "Proportion of households owning sheep or goats",
+      "effect_size": 0.22,
+      "p_value": 0.01,
       "standard_error": 0.03,
       "confidence_interval_lower": null,
       "confidence_interval_upper": null,
-      "literal_text": "All household members usually get enough food: 0.01 (0.03)",
-      "text_position": "Appendix Table 8, Row [2]",
-      "outcome_timepoint_label": "endline",
+      "literal_text": "Any sheep or goat: 0.22*** (0.03)",
+      "text_position": "Appendix Table 9, Row 'Any sheep or goat'",
+      "outcome_timepoint_label": "Endline",
       "outcome_measurement_year": null,
       "outcome_measurement_month": null,
-      "months_since_intervention_end": "0",
+      "months_since_intervention_end": null,
       "outcome_timing_anchor": {
-        "literal_text": "endline",
-        "text_position": "Appendix Table 8"
-      }
+        "literal_text": null,
+        "text_position": null
+      },
+      "timepoint_origin": "intervention_end",
+      "timing_confidence": "high",
+      "timing_evidence": "Endline measurement after intervention end",
+      "timepoint_value": 12,
+      "timepoint_unit": "months",
+      "months_since_intervention_end_computed": 12
     }
   ],
-  "notes": "All outcomes measured at endline, with primary focus on asset transfer and livestock components",
+  "notes": null,
   "_key": "ZBAE7IPZ.tei",
   "_tei_file": "/Users/joshuapolanin/Documents/OM_QEX/data/grobid_outputs/tei/ZBAE7IPZ.tei.xml",
-  "_om_outcome_count": 8
+  "_om_outcome_count": 7
 }

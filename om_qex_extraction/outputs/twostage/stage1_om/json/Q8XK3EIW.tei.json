@@ -4,112 +4,86 @@
     {
       "outcome_group": "Consumption",
       "outcome_category": "Per capita total consumption (USD PPP)",
-      "location": "Page 25; Table Results; Project impact on consumption",
-      "literal_text": "Per capita consumption increases by 30% (USD 24 PPP per month)",
-      "text_position": "Page 25, Results paragraph",
-      "timepoint_label": "12m follow-up",
-      "timepoint_months": "24",
-      "timepoint_literal_text": "One year after the program ended-two years after assets were transferred",
-      "timepoint_text_position": "Abstract, first paragraph"
+      "location": "Page 19; Results section; Table not specified",
+      "literal_text": "Per capita consumption increases by 30% relative to control group",
+      "text_position": "Results paragraph"
     },
     {
-      "outcome_group": "Poverty",
-      "outcome_category": "Poverty headcount (yes/no)",
-      "location": "Page 25; Table Results; Project impact on poverty",
-      "literal_text": "Share of households below national poverty line decreases from 82% to 62%",
-      "text_position": "Abstract, first paragraph",
-      "timepoint_label": "12m follow-up",
-      "timepoint_months": "24",
-      "timepoint_literal_text": "One year after the program ended-two years after assets were transferred",
-      "timepoint_text_position": "Abstract, first paragraph"
+      "outcome_group": "Food Security",
+      "outcome_category": "Food security index",
+      "location": "Page 19; Results section",
+      "literal_text": "Food security index increases by 0.49 standard deviations (p-value < 0.0005)",
+      "text_position": "Results paragraph"
     },
     {
       "outcome_group": "Financial Inclusion",
-      "outcome_category": "Formal bank account ownership (yes/no)",
-      "location": "Page 25; Table 5; Financial inclusion impacts",
-      "literal_text": "Formal bank account ownership increases by 28 percentage points from 1% in control group",
-      "text_position": "Page 25, Financial Inclusion section",
-      "timepoint_label": "12m follow-up",
-      "timepoint_months": "24",
-      "timepoint_literal_text": "One year after the program ended",
-      "timepoint_text_position": "Results section"
+      "outcome_category": "Financial inclusion index",
+      "location": "Page 19; Results section",
+      "literal_text": "Financial inclusion index increases by 2.38 standard deviations (FWER-corrected p-value < 0.0005)",
+      "text_position": "Results paragraph"
+    },
+    {
+      "outcome_group": "Financial Inclusion",
+      "outcome_category": "Formal bank account ownership",
+      "location": "Page 19; Table 5",
+      "literal_text": "Formal bank account ownership increases by 28 percentage points (p-value < 0.0005)",
+      "text_position": "Results paragraph"
+    },
+    {
+      "outcome_group": "Financial Inclusion",
+      "outcome_category": "Household savings",
+      "location": "Page 19; Table 5",
+      "literal_text": "Likelihood of saving increases by 26 percentage points, savings increased by USD 70 PPP",
+      "text_position": "Results paragraph"
     },
     {
       "outcome_group": "Assets",
-      "outcome_category": "Livestock asset index",
-      "location": "Page 25; Results section",
+      "outcome_category": "Livestock assets index",
+      "location": "Page 19; Results section",
       "literal_text": "Livestock assets index increases by 1.06 standard deviations",
-      "text_position": "Page 25, Results paragraph",
-      "timepoint_label": "12m follow-up",
-      "timepoint_months": "24",
-      "timepoint_literal_text": "Two years after the asset transfer",
-      "timepoint_text_position": "Results section"
+      "text_position": "Results paragraph"
     },
     {
       "outcome_group": "Work/Employment",
-      "outcome_category": "Women's labor participation (percentage)",
-      "location": "Page 25; Table Labor Results",
-      "literal_text": "Women's labor participation increases by 22 percentage points from 35% in control group",
-      "text_position": "Page 25, Labor section",
-      "timepoint_label": "12m follow-up",
-      "timepoint_months": "24",
-      "timepoint_literal_text": "One year after the program ended",
-      "timepoint_text_position": "Results section"
+      "outcome_category": "Primary woman's total time working",
+      "location": "Page 19; Results section",
+      "literal_text": "55% increase in total time spent working of primary woman",
+      "text_position": "Results paragraph"
     },
     {
       "outcome_group": "Income",
-      "outcome_category": "Total monthly household income (USD PPP)",
-      "location": "Page 25; Table Income Results",
-      "literal_text": "Total monthly household income increases by USD 69 PPP from USD 307 PPP in control group",
-      "text_position": "Page 25, Income section",
-      "timepoint_label": "12m follow-up",
-      "timepoint_months": "24",
-      "timepoint_literal_text": "Two years after asset transfer",
-      "timepoint_text_position": "Results section"
+      "outcome_category": "Total monthly household income from productive activities",
+      "location": "Page 19; Results section",
+      "literal_text": "Total monthly household income increases by USD 69 PPP",
+      "text_position": "Results paragraph"
     },
     {
       "outcome_group": "Psychological Well-Being",
-      "outcome_category": "Psychological well-being index (standard deviations)",
-      "location": "Page 25; Table Psychological Well-Being Results",
-      "literal_text": "Psychological well-being index increases by 0.58 SD for primary woman and 0.26 SD for primary man",
-      "text_position": "Page 25, Psychological Well-Being section",
-      "timepoint_label": "12m follow-up",
-      "timepoint_months": "24",
-      "timepoint_literal_text": "One year after program conclusion",
-      "timepoint_text_position": "Results section"
+      "outcome_category": "Psychological well-being index for primary woman",
+      "location": "Page 19; Results section",
+      "literal_text": "Psychological well-being index increases by 0.58 standard deviations",
+      "text_position": "Results paragraph"
     },
     {
       "outcome_group": "Women's Empowerment",
-      "outcome_category": "Women's empowerment index (standard deviations)",
-      "location": "Page 25; Table Women's Empowerment Results",
+      "outcome_category": "Women's empowerment index",
+      "location": "Page 19; Results section",
       "literal_text": "Women's empowerment index increases by 0.38 standard deviations",
-      "text_position": "Page 25, Women's Empowerment section",
-      "timepoint_label": "12m follow-up",
-      "timepoint_months": "24",
-      "timepoint_literal_text": "One year after program conclusion",
-      "timepoint_text_position": "Results section"
+      "text_position": "Results paragraph"
     },
     {
-      "outcome_group": "Child Health",
-      "outcome_category": "Child diarrhea rate (percentage)",
-      "location": "Page 25; Table Child Health Results",
+      "outcome_group": "Health",
+      "outcome_category": "Child diarrhea rate",
+      "location": "Page 19; Results section",
       "literal_text": "Diarrhea rate in children under five falls by 16 percentage points",
-      "text_position": "Page 25, Child Health section",
-      "timepoint_label": "12m follow-up",
-      "timepoint_months": "24",
-      "timepoint_literal_text": "One year after program conclusion",
-      "timepoint_text_position": "Results section"
+      "text_position": "Results paragraph"
     },
     {
       "outcome_group": "Education",
-      "outcome_category": "School enrollment (percentage points)",
-      "location": "Page 25; Table Education Results",
+      "outcome_category": "School enrollment",
+      "location": "Page 19; Results section",
       "literal_text": "School enrollment increases by 4.6 percentage points for boys and 7.2 percentage points for girls",
-      "text_position": "Page 25, Education section",
-      "timepoint_label": "12m follow-up",
-      "timepoint_months": "24",
-      "timepoint_literal_text": "One year after program conclusion",
-      "timepoint_text_position": "Results section"
+      "text_position": "Results paragraph"
     }
   ],
   "_key": "Q8XK3EIW.tei",

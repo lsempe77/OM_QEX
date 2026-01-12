@@ -21,7 +21,7 @@ from pathlib import Path
 # Add parent to path
 sys.path.insert(0, str(Path(__file__).parent))
 
-from src.extraction_engine import ExtractionEngine, load_metadata_from_master
+from om_qex_extraction.src.extraction_engine_prev import ExtractionEngine, load_metadata_from_master
 
 
 def main():

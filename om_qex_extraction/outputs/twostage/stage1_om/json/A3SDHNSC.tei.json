@@ -1,60 +1,40 @@
 {
-  "study_id": "BRAC_TUP_2015",
+  "study_id": "AuthorYear2015",
   "outcomes": [
     {
       "outcome_group": "Assets",
       "outcome_category": "Natural and physical asset index",
-      "location": "Table A3; Longitudinal asset tracking",
-      "literal_text": "Natural and physical asset index changes across survey rounds",
-      "text_position": "Table A3, Column 'Natural and physical asset'",
-      "timepoint_label": null,
-      "timepoint_months": null,
-      "timepoint_literal_text": null,
-      "timepoint_text_position": null
+      "location": "Table A3; Primary outcome table; Column: Asset changes across survey waves",
+      "literal_text": "Asset index changes from 2002-2011",
+      "text_position": "Table A3, Row: Natural and physical asset"
     },
     {
       "outcome_group": "Work/Employment",
       "outcome_category": "Female primary occupation (farm self-employment)",
-      "location": "Table A3; Primary occupation tracking",
-      "literal_text": "Farm self-employment: 39.2% (treatment) vs 36.7% (control), Diff = 2.6*",
-      "text_position": "Table A3, Row 'Farm-self employment', 2011 column",
-      "timepoint_label": "Long-term follow-up",
-      "timepoint_months": "108",
-      "timepoint_literal_text": "2011 survey round (9 years after baseline)",
-      "timepoint_text_position": "Page 15, Results section"
+      "location": "Table A3; Occupation changes; Column: Female occupation percentages",
+      "literal_text": "Farm self-employment: 0.2% (2002) to 39.2% (2011)",
+      "text_position": "Table A3, Row: Farm-self employment"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Female primary occupation (day labor)",
+      "location": "Table A3; Occupation changes; Column: Female occupation percentages",
+      "literal_text": "Day labor: 24.2% (2002) to 7.5% (2011)",
+      "text_position": "Table A3, Row: Day labour"
     },
     {
       "outcome_group": "Financial Inclusion",
       "outcome_category": "Cash savings percentage",
-      "location": "Table A3; Financial market participation",
-      "literal_text": "Cash savings: 98.28% (treatment) vs 47.73% (control), Diff = 50.55***",
-      "text_position": "Table A3, Row 'Have cash savings', 2011 column",
-      "timepoint_label": "Long-term follow-up",
-      "timepoint_months": "108",
-      "timepoint_literal_text": "2011 survey round (9 years after baseline)",
-      "timepoint_text_position": "Page 15, Results section"
+      "location": "Table A3; Financial market participation; Column: Cash savings",
+      "literal_text": "Cash savings: 9.10% (2002) to 98.28% (2011)",
+      "text_position": "Table A3, Row: Have cash savings (of respondents)"
     },
     {
       "outcome_group": "Financial Inclusion",
-      "outcome_category": "Outstanding loans percentage",
-      "location": "Table A3; Financial market participation",
-      "literal_text": "Outstanding loans: 35.03% (treatment) vs 34.33% (control), Diff = 0.70",
-      "text_position": "Table A3, Row 'Have outstanding loans', 2011 column",
-      "timepoint_label": "Long-term follow-up",
-      "timepoint_months": "108",
-      "timepoint_literal_text": "2011 survey round (9 years after baseline)",
-      "timepoint_text_position": "Page 15, Results section"
-    },
-    {
-      "outcome_group": "Work/Employment",
-      "outcome_category": "Female household chores participation",
-      "location": "Table A3; Primary occupation tracking",
-      "literal_text": "Household chores: 35.1% (treatment) vs 40.5% (control), Diff = -5.4***",
-      "text_position": "Table A3, Row 'HH chores', 2011 column",
-      "timepoint_label": "Long-term follow-up",
-      "timepoint_months": "108",
-      "timepoint_literal_text": "2011 survey round (9 years after baseline)",
-      "timepoint_text_position": "Page 15, Results section"
+      "outcome_category": "Outstanding loan percentage",
+      "location": "Table A3; Financial market participation; Column: Loan status",
+      "literal_text": "Outstanding loans: 26.22% (2002) to 35.03% (2011)",
+      "text_position": "Table A3, Row: Have outstanding loans (of HHs)"
     }
   ],
   "_key": "A3SDHNSC.tei",

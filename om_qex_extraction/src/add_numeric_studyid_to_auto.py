@@ -12,6 +12,7 @@ Usage:
 import argparse
 from pathlib import Path
 import pandas as pd
+import numpy as np
 
 
 def detect_auto_key_column(auto: pd.DataFrame) -> str:
@@ -157,6 +158,15 @@ def main():
 
     # 5) Create StudyID_GT from metadata StudyID column
     merged["StudyID_GT"] = merged[studyid_col_meta]
+
+    # 5b) Create EstimateID_GT if EstimateID is present and has a numeric suffix.
+    # GT EstimateID is formatted as '<StudyID>_<n>'. AUTO typically uses '<Key>_<n>'.
+    # After mapping StudyID_GT, we can construct EstimateID_GT as '<StudyID_GT>_<n>'.
+    if "EstimateID" in merged.columns:
+        suffix = merged["EstimateID"].astype(str).str.split("_").str[-1]
+        suffix = suffix.where(suffix.str.fullmatch(r"\d+"), np.nan)
+        merged["EstimateID_GT"] = merged["StudyID_GT"].astype("Int64").astype(str) + "_" + suffix
+        merged.loc[suffix.isna(), "EstimateID_GT"] = np.nan
 
     # Sanity: show unmatched keys (if any)
     unmatched = merged[merged["StudyID_GT"].isna()]

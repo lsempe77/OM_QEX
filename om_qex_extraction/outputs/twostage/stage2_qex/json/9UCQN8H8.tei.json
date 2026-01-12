@@ -1,229 +1,87 @@
 {
-  "study_id": null,
-  "program_name": "Targeting the Ultra Poor (TUP)",
-  "country": "India",
-  "year_intervention_started": 2007,
-  "evaluation_design": "Randomized Controlled Trial",
-  "evaluation_design_code": "1",
-  "evaluation_method": "Individual RCT",
-  "evaluation_method_code": "1",
-  "intervention_description": "A 'big-push' program providing a large asset transfer to the poorest Indian households, with weekly consumption support for 30-40 weeks",
-  "intervention_start_year": 2007,
-  "intervention_start_month": null,
-  "intervention_end_year": null,
-  "intervention_end_month": null,
-  "final_followup_year": 2017,
-  "final_followup_month": null,
-  "timing_anchors": {
-    "intervention_start": {
-      "literal_text": "Bandhan ran the TUP program in West Bengal starting in 2007",
-      "text_position": "Experimental Design and Data section"
-    },
-    "intervention_end": {
-      "literal_text": "All program activities had ceased by the first endline survey",
-      "text_position": "Experimental Design and Data section"
-    },
-    "final_followup": {
-      "literal_text": "We track economic and health outcomes... through four subsequent survey waves administered at 18 months, 3 years, 7 years, and 10 years",
-      "text_position": "Experimental Design and Data section"
-    }
-  },
-  "exposure_to_intervention": "30",
-  "length_of_follow_up": "120",
-  "sample_size_treatment": 266,
-  "sample_size_control": null,
-  "graduation_components": {
-    "consumption_support": "Yes",
-    "healthcare": "Not mentioned",
-    "assets": "Yes",
-    "skills_training": "Not mentioned",
-    "savings": "Not mentioned",
-    "coaching": "Not mentioned",
-    "social_empowerment": "Not mentioned"
-  },
-  "graduation_components_rationale": {
-    "consumption_support": "Weekly consumption support for 30-40 weeks",
-    "healthcare": null,
-    "assets": "Households chose a productive asset from a menu of options (82% chose livestock)",
-    "skills_training": null,
-    "savings": null,
-    "coaching": null,
-    "social_empowerment": null
-  },
   "outcomes": [
     {
       "outcome_name": "Asset ownership index",
-      "outcome_description": "Principal component analysis of livestock, productive assets, and durable household items",
-      "effect_size": 0.8,
-      "p_value": 0.01,
-      "standard_error": null,
-      "confidence_interval_lower": null,
-      "confidence_interval_upper": null,
-      "literal_text": "0.2 SD higher asset ownership at 18 months (p < 0.05), 0.4 SD at three years (p < 0.01), growing to 0.8 SD by seven years (p < 0.01)",
-      "text_position": "Table 1, Column 1; Household Outcomes section",
-      "outcome_timepoint_label": "7 years",
-      "outcome_measurement_year": 2014,
-      "outcome_measurement_month": null,
-      "months_since_intervention_end": "84",
-      "outcome_timing_anchor": {
-        "literal_text": "growing to 0.8 SD by seven years",
-        "text_position": "Household Outcomes section"
-      }
+      "timepoint_origin": "intervention_start",
+      "timing_confidence": "high",
+      "timing_evidence": "Consistent measurement at multiple timepoints with clear pattern of growth",
+      "timepoint_value": 7,
+      "timepoint_unit": "years",
+      "months_since_intervention_end_computed": 84
     },
     {
       "outcome_name": "Per capita consumption",
-      "outcome_description": "Monthly per capita consumption in 2018 US dollar PPP",
-      "effect_size": 0.6,
-      "p_value": 0.01,
-      "standard_error": null,
-      "confidence_interval_lower": null,
-      "confidence_interval_upper": null,
-      "literal_text": "0.3 SD higher at 18 months and 3 years, growing to 0.7 SD at 7 years, remains 0.6 SD higher at 10 years (p < 0.01)",
-      "text_position": "Table 1, Column 2; Household Outcomes section",
-      "outcome_timepoint_label": "10 years",
-      "outcome_measurement_year": 2017,
-      "outcome_measurement_month": null,
-      "months_since_intervention_end": "120",
-      "outcome_timing_anchor": {
-        "literal_text": "remains 0.6 SD higher at 10 years",
-        "text_position": "Household Outcomes section"
-      }
+      "timepoint_origin": "intervention_start",
+      "timing_confidence": "high",
+      "timing_evidence": "Persistent effect measured at multiple survey waves with consistent methodology",
+      "timepoint_value": 10,
+      "timepoint_unit": "years",
+      "months_since_intervention_end_computed": 120
     },
     {
       "outcome_name": "Food security index",
-      "outcome_description": "Aggregates household food sufficiency measures",
-      "effect_size": 0.13,
-      "p_value": 0.05,
-      "standard_error": null,
-      "confidence_interval_lower": null,
-      "confidence_interval_upper": null,
-      "literal_text": "0.2 SD more food secure at 18 months, 0.25 SD at 3 years (p < 0.01), growing to 0.4 SD at 7 years, remains 0.13 SD at 10 years (p < 0.05)",
-      "text_position": "Table 1, Column 3; Household Outcomes section",
-      "outcome_timepoint_label": "10 years",
-      "outcome_measurement_year": 2017,
-      "outcome_measurement_month": null,
-      "months_since_intervention_end": "120",
-      "outcome_timing_anchor": {
-        "literal_text": "remains 0.13 SD at 10 years",
-        "text_position": "Household Outcomes section"
-      }
+      "timepoint_origin": "intervention_start",
+      "timing_confidence": "medium",
+      "timing_evidence": "Effect diminishes over time, suggesting changing household conditions",
+      "timepoint_value": 10,
+      "timepoint_unit": "years",
+      "months_since_intervention_end_computed": 120
     },
     {
       "outcome_name": "Financial inclusion index",
-      "outcome_description": "Aggregates monthly loans and savings",
-      "effect_size": 0.12,
-      "p_value": null,
-      "standard_error": null,
-      "confidence_interval_lower": null,
-      "confidence_interval_upper": null,
-      "literal_text": "0.12 SD at year ten, statistically indistinguishable from zero",
-      "text_position": "Table 1, Column 5; Household Outcomes section",
-      "outcome_timepoint_label": "10 years",
-      "outcome_measurement_year": 2017,
-      "outcome_measurement_month": null,
-      "months_since_intervention_end": "120",
-      "outcome_timing_anchor": {
-        "literal_text": "0.12 SD at year ten",
-        "text_position": "Household Outcomes section"
-      }
+      "timepoint_origin": "intervention_start",
+      "timing_confidence": "low",
+      "timing_evidence": "Statistically non-significant effect at final timepoint",
+      "timepoint_value": 10,
+      "timepoint_unit": "years",
+      "months_since_intervention_end_computed": 120
     },
     {
       "outcome_name": "Mental health index",
-      "outcome_description": "Aggregates life satisfaction, sadness, and worry measures",
-      "effect_size": 0.25,
-      "p_value": 0.01,
-      "standard_error": null,
-      "confidence_interval_lower": null,
-      "confidence_interval_upper": null,
-      "literal_text": "Improves by 0.1 SD at 18 months, growing to 0.25 SD by year seven and remaining at this level until year ten (p < 0.01)",
-      "text_position": "Table 1, Column 7; Individual Outcomes section",
-      "outcome_timepoint_label": "10 years",
-      "outcome_measurement_year": 2017,
-      "outcome_measurement_month": null,
-      "months_since_intervention_end": "120",
-      "outcome_timing_anchor": {
-        "literal_text": "remaining at this level until year ten",
-        "text_position": "Individual Outcomes section"
-      }
+      "timepoint_origin": "intervention_start",
+      "timing_confidence": "high",
+      "timing_evidence": "Consistent effect size maintained from year 7 to year 10",
+      "timepoint_value": 10,
+      "timepoint_unit": "years",
+      "months_since_intervention_end_computed": 120
     },
     {
       "outcome_name": "Productive time use",
-      "outcome_description": "Time spent on productive activities (minutes)",
-      "effect_size": 0.15,
-      "p_value": 0.01,
-      "standard_error": null,
-      "confidence_interval_lower": null,
-      "confidence_interval_upper": null,
-      "literal_text": "0.285 SD (60 more minutes) by 18 months, 0.1 SD (21 more minutes) by year three, 0.15 SD (30 more minutes) by year seven and year ten (p < 0.01)",
-      "text_position": "Table 1, Column 8; Individual Outcomes section",
-      "outcome_timepoint_label": "10 years",
-      "outcome_measurement_year": 2017,
-      "outcome_measurement_month": null,
-      "months_since_intervention_end": "120",
-      "outcome_timing_anchor": {
-        "literal_text": "0.15 SD (30 more minutes) by year seven and year ten",
-        "text_position": "Individual Outcomes section"
-      }
+      "timepoint_origin": "intervention_start",
+      "timing_confidence": "high",
+      "timing_evidence": "Stable effect size maintained from year 7 to year 10",
+      "timepoint_value": 10,
+      "timepoint_unit": "years",
+      "months_since_intervention_end_computed": 120
     },
     {
       "outcome_name": "Livestock revenue",
-      "outcome_description": "Monthly revenue from livestock sales",
-      "effect_size": 27,
-      "p_value": 0.01,
-      "standard_error": null,
-      "confidence_interval_lower": null,
-      "confidence_interval_upper": null,
-      "literal_text": "$10 and $8 higher than control at 18 months and 3 years, $27 more at year seven (p < 0.01)",
-      "text_position": "Table 2, Column 1; Channels of Persistence section",
-      "outcome_timepoint_label": "7 years",
-      "outcome_measurement_year": 2014,
-      "outcome_measurement_month": null,
-      "months_since_intervention_end": "84",
-      "outcome_timing_anchor": {
-        "literal_text": "$27 more at year seven",
-        "text_position": "Channels of Persistence section"
-      }
+      "timepoint_origin": "intervention_start",
+      "timing_confidence": "high",
+      "timing_evidence": "Measured consistently at multiple timepoints with clear economic significance",
+      "timepoint_value": 7,
+      "timepoint_unit": "years",
+      "months_since_intervention_end_computed": 84
     },
     {
       "outcome_name": "Nonfarm microenterprise earnings",
-      "outcome_description": "Monthly earnings from microenterprises",
-      "effect_size": 68,
-      "p_value": 0.01,
-      "standard_error": null,
-      "confidence_interval_lower": null,
-      "confidence_interval_upper": null,
-      "literal_text": "$25 more from nonfarm microenterprises by year three (p < 0.01), $68 greater by year seven (p < 0.01)",
-      "text_position": "Table 2, Column 2; Channels of Persistence section",
-      "outcome_timepoint_label": "7 years",
-      "outcome_measurement_year": 2014,
-      "outcome_measurement_month": null,
-      "months_since_intervention_end": "84",
-      "outcome_timing_anchor": {
-        "literal_text": "$68 greater by year seven",
-        "text_position": "Channels of Persistence section"
-      }
+      "timepoint_origin": "intervention_start",
+      "timing_confidence": "high",
+      "timing_evidence": "Peak effect at year 7, declining but still positive by year 10",
+      "timepoint_value": 7,
+      "timepoint_unit": "years",
+      "months_since_intervention_end_computed": 84
     },
     {
       "outcome_name": "Wage income including remittances",
-      "outcome_description": "Monthly wage income including remittances",
-      "effect_size": 89,
-      "p_value": 0.01,
-      "standard_error": null,
-      "confidence_interval_lower": null,
-      "confidence_interval_upper": null,
-      "literal_text": "No difference at 18 months or 3 years, grows to $76-89 by year seven (p < 0.01), remains high at year ten",
-      "text_position": "Table 2, Columns 5-6; Channels of Persistence section",
-      "outcome_timepoint_label": "7 years",
-      "outcome_measurement_year": 2014,
-      "outcome_measurement_month": null,
-      "months_since_intervention_end": "84",
-      "outcome_timing_anchor": {
-        "literal_text": "grows to $76-89 by year seven",
-        "text_position": "Channels of Persistence section"
-      }
+      "timepoint_origin": "intervention_start",
+      "timing_confidence": "high",
+      "timing_evidence": "Consistent growth and sustained effect from year 7 to year 10",
+      "timepoint_value": 7,
+      "timepoint_unit": "years",
+      "months_since_intervention_end_computed": 84
     }
   ],
-  "notes": "A 'big-push' intervention targeting ultra-poor households in West Bengal, India, with long-term follow-up showing persistent economic and individual-level improvements.",
   "_key": "9UCQN8H8.tei",
   "_tei_file": "/Users/joshuapolanin/Documents/OM_QEX/data/grobid_outputs/tei/9UCQN8H8.tei.xml",
   "_om_outcome_count": 9

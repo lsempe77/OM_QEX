@@ -75,15 +75,31 @@ def compute_timing_accuracy(
 def collapse_study_level(df: pd.DataFrame, key_col: str, cols: list) -> pd.DataFrame:
     """
     For each StudyID, collapse potentially multiple rows down to a single
-    representative value per column (first non-missing).
+    representative value per column.
+
+    Default: first non-missing.
+    Timing exception: 'Length of follow up' collapses to MAX (latest wave).
     """
     def first_nonmissing(s: pd.Series):
         s2 = s.dropna()
         return s2.iloc[0] if len(s2) > 0 else np.nan
 
+    def max_numeric(s: pd.Series):
+        x = pd.to_numeric(s, errors="coerce")
+        if x.notna().sum() == 0:
+            return np.nan
+        return float(x.max())
+
+    agg_map = {}
+    for c in cols:
+        if c == "Length of follow up":
+            agg_map[c] = max_numeric
+        else:
+            agg_map[c] = first_nonmissing
+
     out = (
         df.groupby(key_col)[cols]
-        .agg(first_nonmissing)
+        .agg(agg_map)
         .reset_index()
     )
     return out

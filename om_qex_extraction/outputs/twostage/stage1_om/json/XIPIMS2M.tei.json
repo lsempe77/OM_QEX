@@ -2,106 +2,67 @@
   "study_id": "ZambiaLivelihoodStudy2024",
   "outcomes": [
     {
-      "outcome_group": "Consumption",
-      "outcome_category": "Total household consumption per adult equivalent (ZMW)",
-      "location": "Table B1; Panel A and B; 12-month and 38-month impacts",
-      "literal_text": "Total consumption: Full Package | 0.24 (0.05) at 12 months, 0.33 (0.08) at 38 months",
-      "text_position": "Table B1, Row 'Total consumption', Columns for Full Package",
-      "timepoint_label": [
-        "12-month follow-up",
-        "38-month follow-up"
-      ],
-      "timepoint_months": [
-        "16",
-        "38"
-      ],
-      "timepoint_literal_text": "First follow-up survey took place between February and August 2021, an average of one year after the end of all interventions; second follow-up survey was conducted from May-August 2023, slightly over three years after the end of all interventions",
-      "timepoint_text_position": "Page 6, Data Collection section"
+      "outcome_group": "Expenditure/Consumption",
+      "outcome_category": "Total household consumption per adult equivalent (standard deviations)",
+      "location": "Page 25; Table B1; Panel A and B; Columns 1-4",
+      "literal_text": "0.24 (12 months), 0.44 (38 months)",
+      "text_position": "Table B1, Row 'Total consumption', Columns '12-month' and '38-month' impacts"
     },
     {
       "outcome_group": "Food Security",
-      "outcome_category": "Food security index",
-      "location": "Table B1; Panel A and B; 12-month and 38-month impacts",
-      "literal_text": "Food security: Full Package | 0.27 (0.07) at 12 months, 0.23 (0.07) at 38 months",
-      "text_position": "Table B1, Row 'Food security', Columns for Full Package",
-      "timepoint_label": [
-        "12-month follow-up",
-        "38-month follow-up"
-      ],
-      "timepoint_months": [
-        "16",
-        "38"
-      ],
-      "timepoint_literal_text": "First follow-up survey took place between February and August 2021, an average of one year after the end of all interventions; second follow-up survey was conducted from May-August 2023, slightly over three years after the end of all interventions",
-      "timepoint_text_position": "Page 6, Data Collection section"
+      "outcome_category": "Food security index (standard deviations)",
+      "location": "Page 25; Table B1; Panel A and B; Columns 1-4",
+      "literal_text": "0.27 (12 months), 0.23 (38 months)",
+      "text_position": "Table B1, Row 'Food security', Columns '12-month' and '38-month' impacts"
     },
     {
       "outcome_group": "Assets",
-      "outcome_category": "Asset wealth index",
-      "location": "Table B1; Panel A and B; 12-month and 38-month impacts",
-      "literal_text": "Assets: Full Package | 0.27 (0.06) at 12 months, 0.28 (0.07) at 38 months",
-      "text_position": "Table B1, Row 'Assets', Columns for Full Package",
-      "timepoint_label": [
-        "12-month follow-up",
-        "38-month follow-up"
-      ],
-      "timepoint_months": [
-        "16",
-        "38"
-      ],
-      "timepoint_literal_text": "First follow-up survey took place between February and August 2021, an average of one year after the end of all interventions; second follow-up survey was conducted from May-August 2023, slightly over three years after the end of all interventions",
-      "timepoint_text_position": "Page 6, Data Collection section"
+      "outcome_category": "Asset wealth index (standard deviations)",
+      "location": "Page 25; Table B1; Panel A and B; Columns 1-4",
+      "literal_text": "0.27 (12 months), 0.28 (38 months)",
+      "text_position": "Table B1, Row 'Assets', Columns '12-month' and '38-month' impacts"
     },
     {
       "outcome_group": "Financial Inclusion",
-      "outcome_category": "Savings index",
-      "location": "Table B1; Panel A and B; 12-month and 38-month impacts",
-      "literal_text": "Savings: Full Package | 0.54 (0.07) at 12 months, 0.35 (0.08) at 38 months",
-      "text_position": "Table B1, Row 'Savings', Columns for Full Package",
-      "timepoint_label": [
-        "12-month follow-up",
-        "38-month follow-up"
-      ],
-      "timepoint_months": [
-        "16",
-        "38"
-      ],
-      "timepoint_literal_text": "First follow-up survey took place between February and August 2021, an average of one year after the end of all interventions; second follow-up survey was conducted from May-August 2023, slightly over three years after the end of all interventions",
-      "timepoint_text_position": "Page 6, Data Collection section"
+      "outcome_category": "Savings index (standard deviations)",
+      "location": "Page 25; Table B1; Panel A and B; Columns 1-4",
+      "literal_text": "0.54 (12 months), 0.35 (38 months)",
+      "text_position": "Table B1, Row 'Savings', Columns '12-month' and '38-month' impacts"
     },
     {
       "outcome_group": "Income",
-      "outcome_category": "Aggregate household income index",
-      "location": "Table B1; Panel A and B; 12-month and 38-month impacts",
-      "literal_text": "Aggregate income: Full Package | 0.16 (0.07) at 12 months, 0.27 (0.07) at 38 months",
-      "text_position": "Table B1, Row 'Aggregate income', Columns for Full Package",
-      "timepoint_label": [
-        "12-month follow-up",
-        "38-month follow-up"
-      ],
-      "timepoint_months": [
-        "16",
-        "38"
-      ],
-      "timepoint_literal_text": "First follow-up survey took place between February and August 2021, an average of one year after the end of all interventions; second follow-up survey was conducted from May-August 2023, slightly over three years after the end of all interventions",
-      "timepoint_text_position": "Page 6, Data Collection section"
+      "outcome_category": "Aggregate household income (standard deviations)",
+      "location": "Page 25; Table B1; Panel A and B; Columns 1-4",
+      "literal_text": "0.16 (12 months), 0.27 (38 months)",
+      "text_position": "Table B1, Row 'Aggregate income', Columns '12-month' and '38-month' impacts"
     },
     {
       "outcome_group": "Social Capital/Empowerment",
-      "outcome_category": "Psychological well-being index",
-      "location": "Table B1; Panel A and B; 12-month and 38-month impacts",
-      "literal_text": "Psychological well-being: Full Package | 0.25 (0.06) at 12 months, 0.36 (0.07) at 38 months",
-      "text_position": "Table B1, Row 'Psyc. well-being', Columns for Full Package",
-      "timepoint_label": [
-        "12-month follow-up",
-        "38-month follow-up"
-      ],
-      "timepoint_months": [
-        "16",
-        "38"
-      ],
-      "timepoint_literal_text": "First follow-up survey took place between February and August 2021, an average of one year after the end of all interventions; second follow-up survey was conducted from May-August 2023, slightly over three years after the end of all interventions",
-      "timepoint_text_position": "Page 6, Data Collection section"
+      "outcome_category": "Psychological well-being index (standard deviations)",
+      "location": "Page 25; Table B1; Panel A and B; Columns 1-4",
+      "literal_text": "0.25 (12 months), 0.36 (38 months)",
+      "text_position": "Table B1, Row 'Psyc. well-being', Columns '12-month' and '38-month' impacts"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Time use: Paid work for others (minutes)",
+      "location": "Page 25; Table B13; 12-month impacts",
+      "literal_text": "-13.65 (Full Package), -13.69 (Financial Capital)",
+      "text_position": "Table B13, Row 'Time use: Paid work for others'"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Time use: Own business (minutes)",
+      "location": "Page 25; Table B13; 12-month impacts",
+      "literal_text": "4.05 (Full Package), 10.67 (Financial Capital)",
+      "text_position": "Table B13, Row 'Time use: Own business'"
+    },
+    {
+      "outcome_group": "Poverty",
+      "outcome_category": "Extreme poverty rate (below 336.73 ZMW/month)",
+      "location": "Page 25; Table 3; 12-month and 38-month impacts",
+      "literal_text": "Poverty rate reduction impacts reported",
+      "text_position": "Table 3, Poverty rate columns"
     }
   ],
   "_key": "XIPIMS2M.tei",

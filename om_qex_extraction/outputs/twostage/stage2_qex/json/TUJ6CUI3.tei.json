@@ -1,35 +1,35 @@
 {
   "study_id": null,
   "program_name": "Graduation Program",
-  "country": "Multi-country (Ethiopia, Ghana, Honduras, India, Pakistan, Peru)",
-  "year_intervention_started": 2007,
+  "country": null,
+  "year_intervention_started": null,
   "evaluation_design": "Multi-site Randomized Controlled Trial",
   "evaluation_design_code": "1",
-  "evaluation_method": "Individual and Cluster Randomized Controlled Trials",
+  "evaluation_method": "Individual and Cluster RCT",
   "evaluation_method_code": "1;2",
-  "intervention_description": "A comprehensive program targeting ultra-poor households with productive asset transfer, consumption support, skills training, coaching, savings encouragement, and basic health services",
-  "intervention_start_year": 2007,
+  "intervention_description": "A multifaceted program targeting ultra-poor households with productive asset transfer, consumption support, technical skills training, high-frequency home visits, savings access, and health services/education",
+  "exposure_to_intervention": "24",
+  "length_of_follow_up": "36",
+  "intervention_start_year": null,
   "intervention_start_month": null,
-  "intervention_end_year": 2014,
+  "intervention_end_year": null,
   "intervention_end_month": null,
-  "final_followup_year": 2014,
+  "final_followup_year": null,
   "final_followup_month": null,
   "timing_anchors": {
     "intervention_start": {
-      "literal_text": "Between 2007 and 2014, we conducted a multisite RCT of the Graduation program",
-      "text_position": "Page 4, Paragraph 2"
+      "literal_text": null,
+      "text_position": null
     },
     "intervention_end": {
-      "literal_text": "Between 2007 and 2014, we conducted a multisite RCT of the Graduation program",
-      "text_position": "Page 4, Paragraph 2"
+      "literal_text": null,
+      "text_position": null
     },
     "final_followup": {
-      "literal_text": "Data were collected at baseline and immediately after the programs ended, 2 years later ('endline 1'), and again 1 year after the programs ended, i.e., about 3 years after the beginning of the programs ('endline 2')",
-      "text_position": "Page 4, Paragraph 2"
+      "literal_text": null,
+      "text_position": null
     }
   },
-  "exposure_to_intervention": "24",
-  "length_of_follow_up": "12",
   "sample_size_treatment": null,
   "sample_size_control": null,
   "graduation_components": {
@@ -42,12 +42,12 @@
     "social_empowerment": "Yes"
   },
   "graduation_components_rationale": {
-    "consumption_support": "Regular transfer of food or cash for a few months to about a year",
+    "consumption_support": "Weekly or monthly cash stipend to stabilize consumption and reduce incentives to sell productive assets",
     "healthcare": "Health education, basic health services, and/or life-skills training",
-    "assets": "One-time transfer of a productive asset chosen by the household",
-    "skills_training": "Technical skills training on managing productive assets",
+    "assets": "One-time transfer of productive asset chosen by household",
+    "skills_training": "Technical training on managing productive assets and general life skills",
     "savings": "Access to savings accounts and deposit collection services",
-    "coaching": "High-frequency home visits providing training and encouragement",
+    "coaching": "High-frequency home visits providing accountability and encouragement",
     "social_empowerment": "Village assistance committees and group activities"
   },
   "outcomes": [
@@ -55,157 +55,230 @@
       "outcome_name": "Per capita consumption",
       "outcome_description": "Per capita consumption in PPP USD",
       "effect_size": 0.12,
-      "p_value": null,
+      "p_value": 0.001,
       "standard_error": null,
       "confidence_interval_lower": null,
       "confidence_interval_upper": null,
       "literal_text": "Per capita consumption increases by 0.12 SDs (q-value 0.001), which is equivalent to PPP US$4.55 per capita per month",
-      "text_position": "Page 7, Results section",
+      "text_position": "Page 7, Table 3",
       "outcome_timepoint_label": "Endline 1",
-      "outcome_measurement_year": 2009,
+      "outcome_measurement_year": null,
       "outcome_measurement_month": null,
-      "months_since_intervention_end": "24",
+      "months_since_intervention_end": null,
       "outcome_timing_anchor": {
-        "literal_text": "Endline 1 was conducted immediately following the end of the household visits, which was typically 2 years after the transfer of productive assets",
-        "text_position": "Table 3 footnotes"
-      }
+        "literal_text": "endline 1 (year 2 of the study, just after the end of the program in most sites)",
+        "text_position": "Page 7"
+      },
+      "timepoint_value": 2,
+      "timepoint_unit": "years",
+      "timepoint_origin": "intervention_start",
+      "timing_confidence": "high",
+      "months_since_intervention_end_computed": 24,
+      "timing_evidence": "Endline 1 conducted 2 years after intervention start, immediately following household visits"
     },
     {
       "outcome_name": "Food security index",
       "outcome_description": "Food security index",
       "effect_size": 0.11,
-      "p_value": null,
+      "p_value": 0.001,
       "standard_error": null,
       "confidence_interval_lower": null,
       "confidence_interval_upper": null,
-      "literal_text": "An index of food security increases by 0.11 SDs (q-value 0.001)",
-      "text_position": "Page 7, Results section",
+      "literal_text": "Food security index increases by 0.11 SDs (q-value 0.001)",
+      "text_position": "Page 7, Table 3",
       "outcome_timepoint_label": "Endline 1",
-      "outcome_measurement_year": 2009,
+      "outcome_measurement_year": null,
       "outcome_measurement_month": null,
-      "months_since_intervention_end": "24",
+      "months_since_intervention_end": null,
       "outcome_timing_anchor": {
-        "literal_text": "Endline 1 was conducted immediately following the end of the household visits, which was typically 2 years after the transfer of productive assets",
-        "text_position": "Table 3 footnotes"
-      }
+        "literal_text": "endline 1 (year 2 of the study, just after the end of the program in most sites)",
+        "text_position": "Page 7"
+      },
+      "timepoint_value": 2,
+      "timepoint_unit": "years",
+      "timepoint_origin": "intervention_start",
+      "timing_confidence": "high",
+      "months_since_intervention_end_computed": 24,
+      "timing_evidence": "Endline 1 conducted 2 years after intervention start, immediately following household visits"
     },
     {
       "outcome_name": "Productive and household assets index",
-      "outcome_description": "Index of productive and household assets",
+      "outcome_description": "Productive and household assets index",
       "effect_size": 0.26,
-      "p_value": null,
+      "p_value": 0.001,
       "standard_error": null,
       "confidence_interval_lower": null,
       "confidence_interval_upper": null,
-      "literal_text": "An index of productive and household assets increases by 0.26 SDs (q-value 0.001)",
-      "text_position": "Page 7, Results section",
+      "literal_text": "Assets index increases by 0.26 SDs (q-value 0.001)",
+      "text_position": "Page 7, Table 3",
       "outcome_timepoint_label": "Endline 1",
-      "outcome_measurement_year": 2009,
+      "outcome_measurement_year": null,
       "outcome_measurement_month": null,
-      "months_since_intervention_end": "24",
+      "months_since_intervention_end": null,
       "outcome_timing_anchor": {
-        "literal_text": "Endline 1 was conducted immediately following the end of the household visits, which was typically 2 years after the transfer of productive assets",
-        "text_position": "Table 3 footnotes"
-      }
+        "literal_text": "endline 1 (year 2 of the study, just after the end of the program in most sites)",
+        "text_position": "Page 7"
+      },
+      "timepoint_value": 2,
+      "timepoint_unit": "years",
+      "timepoint_origin": "intervention_start",
+      "timing_confidence": "high",
+      "months_since_intervention_end_computed": 24,
+      "timing_evidence": "Endline 1 conducted 2 years after intervention start, immediately following household visits"
     },
     {
       "outcome_name": "Household income and revenues",
       "outcome_description": "Household income and revenues",
       "effect_size": 0.38,
-      "p_value": null,
+      "p_value": 0.001,
       "standard_error": null,
       "confidence_interval_lower": null,
       "confidence_interval_upper": null,
-      "literal_text": "Household income and revenues increase by 0.38 SDs (q-value 0.001)",
-      "text_position": "Page 7, Results section",
+      "literal_text": "Income and revenues increase by 0.38 SDs (q-value 0.001)",
+      "text_position": "Page 7, Table 3",
       "outcome_timepoint_label": "Endline 1",
-      "outcome_measurement_year": 2009,
+      "outcome_measurement_year": null,
       "outcome_measurement_month": null,
-      "months_since_intervention_end": "24",
+      "months_since_intervention_end": null,
       "outcome_timing_anchor": {
-        "literal_text": "Endline 1 was conducted immediately following the end of the household visits, which was typically 2 years after the transfer of productive assets",
-        "text_position": "Table 3 footnotes"
-      }
+        "literal_text": "endline 1 (year 2 of the study, just after the end of the program in most sites)",
+        "text_position": "Page 7"
+      },
+      "timepoint_value": 2,
+      "timepoint_unit": "years",
+      "timepoint_origin": "intervention_start",
+      "timing_confidence": "high",
+      "months_since_intervention_end_computed": 24,
+      "timing_evidence": "Endline 1 conducted 2 years after intervention start, immediately following household visits"
     },
     {
       "outcome_name": "Physical health index",
       "outcome_description": "Physical health index",
       "effect_size": 0.034,
-      "p_value": null,
+      "p_value": 0.078,
       "standard_error": null,
       "confidence_interval_lower": null,
       "confidence_interval_upper": null,
       "literal_text": "Physical health improves by 0.034 SDs (q-value 0.078)",
-      "text_position": "Page 7, Results section",
+      "text_position": "Page 7, Table 3",
       "outcome_timepoint_label": "Endline 1",
-      "outcome_measurement_year": 2009,
+      "outcome_measurement_year": null,
       "outcome_measurement_month": null,
-      "months_since_intervention_end": "24",
+      "months_since_intervention_end": null,
       "outcome_timing_anchor": {
-        "literal_text": "Endline 1 was conducted immediately following the end of the household visits, which was typically 2 years after the transfer of productive assets",
-        "text_position": "Table 3 footnotes"
-      }
+        "literal_text": "endline 1 (year 2 of the study, just after the end of the program in most sites)",
+        "text_position": "Page 7"
+      },
+      "timepoint_value": 2,
+      "timepoint_unit": "years",
+      "timepoint_origin": "intervention_start",
+      "timing_confidence": "high",
+      "months_since_intervention_end_computed": 24,
+      "timing_evidence": "Endline 1 conducted 2 years after intervention start, immediately following household visits"
     },
     {
       "outcome_name": "Mental health index",
       "outcome_description": "Mental health index",
       "effect_size": 0.1,
-      "p_value": null,
+      "p_value": 0.001,
       "standard_error": null,
       "confidence_interval_lower": null,
       "confidence_interval_upper": null,
       "literal_text": "Mental health improves by 0.10 SDs (q-value 0.001)",
-      "text_position": "Page 7, Results section",
+      "text_position": "Page 7, Table 3",
       "outcome_timepoint_label": "Endline 1",
-      "outcome_measurement_year": 2009,
+      "outcome_measurement_year": null,
       "outcome_measurement_month": null,
-      "months_since_intervention_end": "24",
+      "months_since_intervention_end": null,
       "outcome_timing_anchor": {
-        "literal_text": "Endline 1 was conducted immediately following the end of the household visits, which was typically 2 years after the transfer of productive assets",
-        "text_position": "Table 3 footnotes"
-      }
+        "literal_text": "endline 1 (year 2 of the study, just after the end of the program in most sites)",
+        "text_position": "Page 7"
+      },
+      "timepoint_value": 2,
+      "timepoint_unit": "years",
+      "timepoint_origin": "intervention_start",
+      "timing_confidence": "high",
+      "months_since_intervention_end_computed": 24,
+      "timing_evidence": "Endline 1 conducted 2 years after intervention start, immediately following household visits"
     },
     {
       "outcome_name": "Political involvement index",
       "outcome_description": "Political involvement index",
       "effect_size": 0.064,
-      "p_value": null,
+      "p_value": 0.001,
       "standard_error": null,
       "confidence_interval_lower": null,
       "confidence_interval_upper": null,
       "literal_text": "Political involvement increases by 0.064 SDs (q-value 0.001)",
-      "text_position": "Page 7, Results section",
+      "text_position": "Page 7, Table 3",
       "outcome_timepoint_label": "Endline 1",
-      "outcome_measurement_year": 2009,
+      "outcome_measurement_year": null,
       "outcome_measurement_month": null,
-      "months_since_intervention_end": "24",
+      "months_since_intervention_end": null,
       "outcome_timing_anchor": {
-        "literal_text": "Endline 1 was conducted immediately following the end of the household visits, which was typically 2 years after the transfer of productive assets",
-        "text_position": "Table 3 footnotes"
-      }
+        "literal_text": "endline 1 (year 2 of the study, just after the end of the program in most sites)",
+        "text_position": "Page 7"
+      },
+      "timepoint_value": 2,
+      "timepoint_unit": "years",
+      "timepoint_origin": "intervention_start",
+      "timing_confidence": "high",
+      "months_since_intervention_end_computed": 24,
+      "timing_evidence": "Endline 1 conducted 2 years after intervention start, immediately following household visits"
     },
     {
       "outcome_name": "Women's empowerment index",
       "outcome_description": "Women's empowerment index",
       "effect_size": 0.046,
-      "p_value": null,
+      "p_value": 0.049,
       "standard_error": null,
       "confidence_interval_lower": null,
       "confidence_interval_upper": null,
       "literal_text": "Women's empowerment increases by 0.046 SDs (q-value 0.049)",
+      "text_position": "Page 7, Table 3",
+      "outcome_timepoint_label": "Endline 1",
+      "outcome_measurement_year": null,
+      "outcome_measurement_month": null,
+      "months_since_intervention_end": null,
+      "outcome_timing_anchor": {
+        "literal_text": "endline 1 (year 2 of the study, just after the end of the program in most sites)",
+        "text_position": "Page 7"
+      },
+      "timepoint_value": 2,
+      "timepoint_unit": "years",
+      "timepoint_origin": "intervention_start",
+      "timing_confidence": "high",
+      "months_since_intervention_end_computed": 24,
+      "timing_evidence": "Endline 1 conducted 2 years after intervention start, immediately following household visits"
+    },
+    {
+      "outcome_name": "Adult labor supply",
+      "outcome_description": "Adult labor supply (minutes per adult per day)",
+      "effect_size": 17.5,
+      "p_value": null,
+      "standard_error": null,
+      "confidence_interval_lower": null,
+      "confidence_interval_upper": null,
+      "literal_text": "Adult labor supply increases by 17.5 min per adult per day (10.4% increase over control households) at endline 1",
       "text_position": "Page 7, Results section",
       "outcome_timepoint_label": "Endline 1",
-      "outcome_measurement_year": 2009,
+      "outcome_measurement_year": null,
       "outcome_measurement_month": null,
-      "months_since_intervention_end": "24",
+      "months_since_intervention_end": null,
       "outcome_timing_anchor": {
-        "literal_text": "Endline 1 was conducted immediately following the end of the household visits, which was typically 2 years after the transfer of productive assets",
-        "text_position": "Table 3 footnotes"
-      }
+        "literal_text": "endline 1 (year 2 of the study, just after the end of the program in most sites)",
+        "text_position": "Page 7"
+      },
+      "timepoint_value": 2,
+      "timepoint_unit": "years",
+      "timepoint_origin": "intervention_start",
+      "timing_confidence": "high",
+      "months_since_intervention_end_computed": 24,
+      "timing_evidence": "Endline 1 conducted 2 years after intervention start, immediately following household visits"
     }
   ],
-  "notes": "Multi-site randomized controlled trial across six countries evaluating a comprehensive poverty graduation program",
+  "notes": "Multi-site RCT across six countries: Ethiopia, Ghana, Honduras, India, Pakistan, and Peru",
   "_key": "TUJ6CUI3.tei",
   "_tei_file": "/Users/joshuapolanin/Documents/OM_QEX/data/grobid_outputs/tei/TUJ6CUI3.tei.xml",
-  "_om_outcome_count": 8
+  "_om_outcome_count": 9
 }

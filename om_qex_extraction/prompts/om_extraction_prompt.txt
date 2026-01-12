@@ -63,6 +63,12 @@ Extract all outcomes that have statistical analysis (effect estimates, regressio
   - Example: "Page 25; Table 6; Project impact on saving and loans; Row: Project; Column: (3) Amount savings (MWK)"
   - If in text only: "Page X; Results section; [paragraph description]"
 
+
+- **timepoint_label** (optional): If the outcome is clearly tied to a wave/timepoint (e.g., baseline/endline, 6-month follow-up, wave 3), record the timepoint label exactly as written (do not infer).
+- **timepoint_months_since_intervention_end** (optional): If the paper states the timepoint in months since the end of intervention (or provides a clear mapping), record it as a numeric string (e.g., "0", "6", "12"). Otherwise null.
+- **timepoint_literal_text** (optional): Exact verbatim text near the outcome that indicates the timepoint/wave (column header, caption, note).
+- **timepoint_text_position** (optional): Where that timepoint evidence is found (e.g., "Table 3, Column '12-month follow-up'").
+
 - **literal_text**: Exact verbatim text from the paper showing this outcome
   - Include the row label, outcome name, coefficient/effect size, and statistical significance
   - Example: "Project | 4,408** (1,369)" or "Amount savings (MWK): β=4408, SE=1369, p<0.01"
@@ -154,16 +160,3 @@ BEFORE providing your JSON output, mentally verify:
 4. Are there any tables with "Table [number]:" that I might have missed?
 
 Then provide ONLY valid JSON matching the schema above. Do not include any explanatory text before or after the JSON.
-
-
-ADDITIONAL FIELD (Phase 1 preparation)
-
-If the table/figure/text location clearly indicates a measurement wave or timepoint for the outcome, add:
-
-- timepoint_label: e.g., "endline", "12m follow-up", "Round 2", "Wave 3"
-- timepoint_months: numeric string months since intervention end or since baseline (state which in the literal_text)
-- timepoint_literal_text: exact quote showing the timepoint/wave
-- timepoint_text_position: where that quote appears
-
-If no timepoint information is present, set these fields to null.
-

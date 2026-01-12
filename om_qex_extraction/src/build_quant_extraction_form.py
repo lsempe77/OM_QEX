@@ -1,306 +1,441 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
-Build Quantitative Extraction Form CSV from QEX outputs + master metadata.
+Build Quantitative Extraction Form CSV from Stage 2 (QEX) outputs.
 
-Usage (example):
-
-    cd om_qex_extraction
-
-    python build_quant_extraction_form.py \
-        --qex-csv outputs/qex_extraction_results.csv \
-        --master-csv ../data/raw/Master_file_included_studies.csv \
-        --out-csv outputs/quant_extraction_form.csv
-
-Adjust the default paths or CLI args to your repo layout.
+Design goals:
+- Preserve per-estimate rows (StudyID + EstimateID).
+- Timing fields:
+  - Exposure to intervention: study-level months (broadcast to each estimate row).
+  - Length of follow up: estimate-level months since intervention end when available,
+    with fallbacks to study-level anchors and then free-text parsing.
+- Keep output column names stable for downstream steps.
 """
 
 import argparse
 import re
+import ast
 from pathlib import Path
-from typing import Optional
+from typing import Optional, Iterable, Tuple
 
+import numpy as np
 import pandas as pd
 
-import math
+# Consistent conversion constants
+WEEKS_PER_MONTH = 4.345
+DAYS_PER_MONTH = 30.437
 
 # -------------------------
-# Helpers
+# I/O helpers
 # -------------------------
 
+def read_csv_robust(path: Path) -> pd.DataFrame:
+    """
+    Read CSV with a small encoding fallback ladder to avoid hard failures on cp1252/latin1 sources.
+    """
+    encodings = [None, "utf-8", "utf-8-sig", "cp1252", "latin1"]
+    for enc in encodings:
+        try:
+            if enc is None:
+                return pd.read_csv(path)
+            return pd.read_csv(path, encoding=enc)
+        except UnicodeDecodeError:
+            continue
+    return pd.read_csv(path, encoding="latin1", encoding_errors="replace")
+
+
+# -------------------------
+# Generic helpers
+# -------------------------
+
+def find_col(df: pd.DataFrame, candidates: Iterable[str]) -> Optional[str]:
+    cols_lower = {c.lower(): c for c in df.columns}
+    for cand in candidates:
+        lc = cand.lower()
+        if lc in cols_lower:
+            return cols_lower[lc]
+    return None
+
+def first_nonmissing(s: pd.Series):
+    s2 = s.dropna()
+    return s2.iloc[0] if len(s2) > 0 else np.nan
+
+def round_to_half_months(x):
+    if pd.isna(x):
+        return np.nan
+    try:
+        v = float(x)
+    except Exception:
+        return np.nan
+    return round(v * 2) / 2.0
 
 def yes_no_to_binary(x: Optional[str]) -> Optional[int]:
-    """Map 'Yes'/'No'/'Not mentioned'/None to 1/0/None (for quant form)."""
+    """Map 'Yes'/'No'/'Not mentioned'/None to 1/0/None."""
     if x is None or (isinstance(x, float) and pd.isna(x)):
         return None
-
     s = str(x).strip().lower()
     if s == "yes":
         return 1
     if s in {"no", "not mentioned"}:
         return 0
-
-    # Fallback – unknown code
     return None
 
 
-def duration_to_months(text: Optional[str]) -> Optional[float]:
+# -------------------------
+# Parsing helpers
+# -------------------------
+
+_NUM_RE = re.compile(r"(-?\d+(?:\.\d+)?)")
+
+def extract_numbers(text: str) -> list[float]:
+    return [float(x) for x in _NUM_RE.findall(text)]
+
+def duration_to_months(text: Optional[str], prefer: str = "max") -> Optional[float]:
     """
     Convert a free-text duration into months.
-
-    Expected patterns:
-      - '12 months', '18 month', '3 years', '4 yrs', '6 weeks', etc.
-    If cannot parse, returns None.
+    Handles examples:
+      - '12 months', '18 month', '3 years', '4 yrs', '6 weeks', '90 days'
+      - ranges like '6-12 months' (prefer='max' -> 12)
+    Returns None if cannot parse.
     """
     if text is None or (isinstance(text, float) and pd.isna(text)):
         return None
-
-    t = str(text).lower().strip()
+    t = str(text).strip().lower()
     if not t:
         return None
 
-    # Months
-    m = re.search(r"([\d\.]+)\s*(month|months|mo)\b", t)
-    if m:
-        return float(m.group(1))
+    nums = extract_numbers(t)
+    if not nums:
+        return None
 
-    # Years
-    y = re.search(r"([\d\.]+)\s*(year|years|yr|yrs)\b", t)
-    if y:
-        return float(y.group(1)) * 12.0
+    if prefer == "max":
+        v = max(nums)
+    elif prefer == "min":
+        v = min(nums)
+    else:
+        v = nums[0]
 
-    # Weeks (approximate: 4 weeks ~ 1 month)
-    w = re.search(r"([\d\.]+)\s*(week|weeks|wk|wks)\b", t)
-    if w:
-        return float(w.group(1)) / 4.0
+    if re.search(r"\byear|years|yrs?\b", t):
+        return v * 12.0
+    if re.search(r"\bweek|weeks|wks?\b", t):
+        return v / WEEKS_PER_MONTH
+    if re.search(r"\bday|days|dys?\b", t):
+        return v / DAYS_PER_MONTH
+    if re.search(r"\bmonth|months|mos?\b", t):
+        return v
 
-    # If already looks like a bare number, treat as months
-    bare = re.fullmatch(r"[\d\.]+", t)
-    if bare:
-        return float(t)
+    # No explicit unit: treat as months (conservative default)
+    return v
 
-    return None
+def unit_value_to_months(value: float, unit: str) -> float:
+    u = str(unit).strip().lower()
+    if u == "years":
+        return value * 12.0
+    if u == "months":
+        return value
+    if u == "weeks":
+        return value / WEEKS_PER_MONTH
+    if u == "days":
+        return value / DAYS_PER_MONTH
+    return np.nan
 
-
-def find_column(df: pd.DataFrame, candidates):
+def normalize_numeric_to_months_from_label(value, label: Optional[str]) -> float:
     """
-    Find the first column in df that matches any candidate name (case-insensitive).
-    Raises KeyError if none found.
+    If label contains explicit units, convert value accordingly.
+    Otherwise, return value unchanged.
     """
-    cols_lower = {c.lower(): c for c in df.columns}
-    for cand in candidates:
-        if cand is None:
-            continue
-        lc = cand.lower()
-        if lc in cols_lower:
-            return cols_lower[lc]
-    raise KeyError(f"None of the candidate columns {candidates} found in DataFrame.")
+    if pd.isna(value):
+        return np.nan
+    try:
+        v = float(value)
+    except Exception:
+        return np.nan
+
+    if label is None or (isinstance(label, float) and pd.isna(label)):
+        return v
+
+    t = str(label).strip().lower()
+    if re.search(r"\byear|years|yrs?\b", t):
+        return v * 12.0
+    if re.search(r"\bweek|weeks|wks?\b", t):
+        return v / WEEKS_PER_MONTH
+    if re.search(r"\bday|days|dys?\b", t):
+        return v / DAYS_PER_MONTH
+    if re.search(r"\bmonth|months|mos?\b", t):
+        return v
+
+    return v
 
 def months_between(start_year, start_month, end_year, end_month):
-    """Compute approximate months between two dates given year/month.
-    If any inputs are missing, return pd.NA."""
+    """
+    Compute approximate months between two dates given year/month.
+    If years are missing, returns NaN.
+    If months are missing, approximate as June (6) (mid-year).
+    """
     if pd.isna(start_year) or pd.isna(end_year):
-        return pd.NA
+        return np.nan
+    try:
+        sy = int(start_year)
+        ey = int(end_year)
+    except Exception:
+        return np.nan
 
-    # If month is missing, approximate as June (mid-year)
-    s_m = 6 if pd.isna(start_month) else int(start_month)
-    e_m = 6 if pd.isna(end_month) else int(end_month)
+    sm = 6 if pd.isna(start_month) else int(start_month)
+    em = 6 if pd.isna(end_month) else int(end_month)
 
-    return (int(end_year) - int(start_year)) * 12 + (e_m - s_m)
+    return (ey - sy) * 12 + (em - sm)
 
+def coerce_scalar_number(x) -> float:
+    """
+    Return float if scalar-like; NaN if list-like (e.g., "[6, 18]") or non-numeric.
+    """
+    if x is None or (isinstance(x, float) and pd.isna(x)):
+        return np.nan
+    if isinstance(x, (int, float, np.integer, np.floating)):
+        return float(x)
+    if isinstance(x, str):
+        s = x.strip()
+        # list-like -> ambiguous for single-value quant form
+        if s.startswith("[") and s.endswith("]"):
+            try:
+                _ = ast.literal_eval(s)
+                return np.nan
+            except Exception:
+                return np.nan
+        try:
+            return float(s)
+        except Exception:
+            return np.nan
+    return np.nan
+
+
+# -------------------------
+# ID normalization
+# -------------------------
+
+def ensure_ids(df: pd.DataFrame) -> pd.DataFrame:
+    """
+    Ensure StudyID and EstimateID exist and are stable.
+    """
+    if "StudyID" not in df.columns:
+        if "_key" in df.columns:
+            print("WARNING: StudyID missing in QEX CSV; using _key (without .tei/.tei.xml) as StudyID.")
+            df["StudyID"] = (
+                df["_key"]
+                .astype(str)
+                .str.replace(".tei.xml", "", regex=False)
+                .str.replace(".tei", "", regex=False)
+            )
+        else:
+            raise KeyError("QEX CSV must contain either StudyID or _key.")
+
+    if "EstimateID" not in df.columns:
+        alt = find_col(df, ["estimate_id", "estimateid", "estimateId"])
+        if alt:
+            df["EstimateID"] = df[alt].astype(str)
+        else:
+            # deterministic per-study sequence
+            df["EstimateID"] = df.groupby("StudyID").cumcount().add(1).astype(str)
+
+    return df
+
+
+# -------------------------
+# Timing computation
+# -------------------------
+
+def compute_exposure_months_study(df: pd.DataFrame) -> pd.Series:
+    """
+    Exposure months (study-level): prefer anchor start->end, else free-text.
+    Broadcast to all estimate rows.
+    """
+    int_start_y = find_col(df, ["intervention_start_year"])
+    int_start_m = find_col(df, ["intervention_start_month"])
+    int_end_y   = find_col(df, ["intervention_end_year"])
+    int_end_m   = find_col(df, ["intervention_end_month"])
+
+    if int_start_y and int_end_y:
+        anchor = df.apply(
+            lambda r: months_between(
+                r[int_start_y],
+                r[int_start_m] if int_start_m else np.nan,
+                r[int_end_y],
+                r[int_end_m] if int_end_m else np.nan,
+            ),
+            axis=1,
+        )
+    else:
+        anchor = pd.Series([np.nan] * len(df), index=df.index)
+
+    anchor_by_study = anchor.groupby(df["StudyID"]).agg(first_nonmissing)
+
+    exposure_text_col = find_col(df, ["exposure_to_intervention", "exposure_duration", "treatment_duration"])
+    exposure_text_months = (
+        df[exposure_text_col].apply(lambda x: duration_to_months(x, prefer="max"))
+        if exposure_text_col else pd.Series([np.nan] * len(df), index=df.index)
+    )
+    text_by_study = exposure_text_months.groupby(df["StudyID"]).agg(first_nonmissing)
+
+    out = df["StudyID"].map(anchor_by_study)
+    m = out.isna()
+    out.loc[m] = df.loc[m, "StudyID"].map(text_by_study)
+    out = out.apply(round_to_half_months)
+    return out
+
+
+def compute_followup_months_estimate(df: pd.DataFrame) -> Tuple[pd.Series, pd.Series]:
+    """
+    Follow-up months (estimate-level, months since intervention end):
+
+    Priority:
+      1) months_since_intervention_end_computed (canonical per-estimate; scalar only)
+      2) timepoint_value + timepoint_unit (ONLY if timepoint_origin == intervention_end; scalar only)
+      3) timepoint_value + units inferred from outcome_timepoint_label (ONLY if origin == intervention_end; scalar only)
+      4) study-level anchor: intervention_end -> final_followup
+      5) free-text follow-up duration parse
+
+    Returns:
+      (followup_months_estimate, source_label)
+    """
+    n = len(df)
+
+    # 4) anchor (study-level end -> final follow-up)
+    int_end_y   = find_col(df, ["intervention_end_year"])
+    int_end_m   = find_col(df, ["intervention_end_month"])
+    final_fu_y  = find_col(df, ["final_followup_year", "final_follow_up_year"])
+    final_fu_m  = find_col(df, ["final_followup_month", "final_follow_up_month"])
+
+    if int_end_y and final_fu_y:
+        anchor = df.apply(
+            lambda r: months_between(
+                r[int_end_y],
+                r[int_end_m] if int_end_m else np.nan,
+                r[final_fu_y],
+                r[final_fu_m] if final_fu_m else np.nan,
+            ),
+            axis=1,
+        )
+    else:
+        anchor = pd.Series([np.nan] * n, index=df.index)
+
+    anchor_by_study = anchor.groupby(df["StudyID"]).agg(first_nonmissing)
+
+    # 5) text fallback
+    followup_text_col = find_col(df, ["length_of_follow_up", "length_of_followup", "follow_up_length"])
+    followup_text_months = (
+        df[followup_text_col].apply(lambda x: duration_to_months(x, prefer="max"))
+        if followup_text_col else pd.Series([np.nan] * n, index=df.index)
+    )
+
+    # 1) canonical computed months (scalar only)
+    computed_raw = df.get("months_since_intervention_end_computed", pd.Series([np.nan] * n))
+    computed = pd.Series([coerce_scalar_number(x) for x in computed_raw], index=df.index)
+    out = pd.to_numeric(computed, errors="coerce")
+    source = pd.Series(["computed_months_since_end"] * n, index=df.index)
+
+    # only allow computed override from timepoint_* if origin == intervention_end
+    origin = df.get("timepoint_origin", pd.Series([None] * n))
+    origin_end_mask = origin.astype(str).str.strip().str.lower().eq("intervention_end")
+
+    # 2) timepoint_value + timepoint_unit (scalar only)
+    tp_val_raw = df.get("timepoint_value", pd.Series([np.nan] * n))
+    tp_val = pd.Series([coerce_scalar_number(x) for x in tp_val_raw], index=df.index)
+    tp_unit = df.get("timepoint_unit", pd.Series([np.nan] * n))
+
+    m = out.isna() & origin_end_mask & tp_val.notna() & tp_unit.notna()
+    if m.any():
+        out.loc[m] = [
+            unit_value_to_months(v, u) for v, u in zip(tp_val.loc[m].tolist(), tp_unit.loc[m].tolist())
+        ]
+        source.loc[m] = "timepoint_value+unit"
+
+    # 3) label-embedded units (scalar only)
+    label = df.get("outcome_timepoint_label", pd.Series([None] * n))
+    m = out.isna() & origin_end_mask & tp_val.notna() & label.notna()
+    if m.any():
+        out.loc[m] = [
+            normalize_numeric_to_months_from_label(v, lbl) for v, lbl in zip(tp_val.loc[m].tolist(), label.loc[m].tolist())
+        ]
+        source.loc[m] = "timepoint_value+label_units"
+
+    # 4) anchor fallback
+    m = out.isna()
+    if m.any():
+        out.loc[m] = df.loc[m, "StudyID"].map(anchor_by_study)
+        source.loc[m & out.notna()] = "study_anchor_end_to_final"
+
+    # 5) text fallback
+    m = out.isna()
+    if m.any():
+        out.loc[m] = followup_text_months.loc[m]
+        source.loc[m & out.notna()] = "text_duration_parse"
+
+    out = pd.to_numeric(out, errors="coerce").round(0)
+    return out, source
 
 
 # -------------------------
 # Main builder
 # -------------------------
 
-
 def build_quant_form(qex_csv: Path, master_csv: Path, out_csv: Path):
-    # --- Load data ---
-    qex = pd.read_csv(qex_csv)
-    meta = pd.read_csv(master_csv)
+    qex = read_csv_robust(qex_csv)
+    _ = read_csv_robust(master_csv)  # keep CLI compatibility; can enrich later
 
-    # --- Identify StudyID, no master merge (for now) ---
+    df = ensure_ids(qex.copy())
 
-    # Try to use a study_id-like column if it exists AND has values
-    study_col = None
-    try:
-        study_col = find_column(qex, ["study_id", "StudyID", "study"])
-    except KeyError:
-        study_col = None
+    # ---- Timing ----
+    df["_exposure_months_study"] = compute_exposure_months_study(df)
+    df["_followup_months_est"], df["_followup_source"] = compute_followup_months_estimate(df)
 
-    if study_col is not None and not qex[study_col].isna().all():
-        qex = qex.rename(columns={study_col: "StudyID"})
+    df["Exposure to intervention"] = df["_exposure_months_study"]
+    df["Length of follow up"] = df["_followup_months_est"]
+
+    # ---- Bibliographic + program fields (pass-through where available) ----
+    if "author_name" in df.columns:
+        df["Author name"] = df["author_name"]
+    elif "Author" in df.columns:
+        df["Author name"] = df["Author"]
     else:
-        # Fall back to TEI key (e.g., 'PHRKN65M.tei') and strip the extension
-        if "_key" in qex.columns:
-            print(
-                "WARNING: StudyID missing in QEX CSV; using _key (without .tei) as StudyID."
-            )
-            qex["StudyID"] = (
-                qex["_key"].astype(str).str.replace(r"\.tei$", "", regex=True)
-            )
-        else:
-            print(
-                "WARNING: No study_id or _key found; using row index as StudyID."
-            )
-            qex["StudyID"] = qex.index.astype(str)
+        df["Author name"] = ""
 
-    # For now, we do NOT merge with the master file; we rely on QEX columns.
-    df = qex.copy()
-
-
-
-    # --- EstimateID ---
-    # If QEX already has an 'EstimateID' column, use it; otherwise construct one.
-    if "EstimateID" not in df.columns:
-        # group per StudyID and enumerate
-        df["_est_idx"] = df.groupby("StudyID").cumcount() + 1
-        df["EstimateID"] = df["StudyID"].astype(str) + "_" + df["_est_idx"].astype(str)
-        df.drop(columns=["_est_idx"], inplace=True)
-
-    # --- Intervention abbreviation + name ---
-    # We assume QEX CSV has columns from InterventionInfo, e.g.:
-    #   'intervention_abbreviation', 'intervention_name', 'intervention_description',
-    #   'first_year_of_intervention', 'length_of_follow_up', 'exposure_to_intervention',
-    #   'consumption_support', 'healthcare', 'assets', 'skills_training', 'savings',
-    #   'coaching', 'social_empowerment'
-    #
-    # Adjust names below if your flattened CSV uses dotted paths, e.g.
-    # 'intervention_info.intervention_abbreviation', etc.
-
-    cand_abbrev = [c for c in df.columns if "intervention_abbreviation" in c]
-    cand_name = [c for c in df.columns if "intervention_name" in c and "abbreviation" not in c]
-    cand_desc = [c for c in df.columns if "intervention_description" in c]
-    cand_first_year = [c for c in df.columns if "first_year_of_intervention" in c]
-    cand_followup = [c for c in df.columns if "length_of_follow_up" in c]
-    cand_exposure = [c for c in df.columns if "exposure_to_intervention" in c]
-
-    abbrev_col = cand_abbrev[0] if cand_abbrev else None
-    name_col = cand_name[0] if cand_name else None
-    desc_col = cand_desc[0] if cand_desc else None
-    first_year_col = cand_first_year[0] if cand_first_year else None
-    followup_col = cand_followup[0] if cand_followup else None
-    exposure_col = cand_exposure[0] if cand_exposure else None
-
-    # Combined intervention abbrev + name
-    def combine_abbrev_name(row):
-        abbr = row[abbrev_col] if abbrev_col and pd.notna(row.get(abbrev_col)) else ""
-        nm = row[name_col] if name_col and pd.notna(row.get(name_col)) else ""
-        if abbr and nm:
-            return f"{abbr} {nm}"
-        return nm or abbr or ""
-
-    if abbrev_col or name_col:
-        df["Intervention abbreviation and name"] = df.apply(combine_abbrev_name, axis=1)
+    if "year_of_publication" in df.columns:
+        df["Year of publication"] = df["year_of_publication"]
+    elif "publication_year" in df.columns:
+        df["Year of publication"] = df["publication_year"]
+    elif "year" in df.columns:
+        df["Year of publication"] = df["year"]
     else:
-        df["Intervention abbreviation and name"] = ""
+        df["Year of publication"] = pd.NA
 
-    # Intervention description
-    if desc_col:
-        df["Intervention description"] = df[desc_col]
+    if "publication_type" in df.columns:
+        df["Publication type"] = df["publication_type"]
     else:
-        df["Intervention description"] = ""
+        df["Publication type"] = ""
 
-       # --- Frist year of intervention (from QEX) ---
-
-    # Prefer the QEX field `year_intervention_started` and do NOT overwrite
-    # it later from the master metadata (which doesn't know about PHRKN65M).
-    if "year_intervention_started" in df.columns:
-        df["Frist year of intervention"] = (
-            pd.to_numeric(df["year_intervention_started"], errors="coerce")
-            .astype("Int64")
-        )
+    if "country" in df.columns:
+        df["Country"] = df["country"]
     else:
-        df["Frist year of intervention"] = pd.Series([pd.NA] * len(df), dtype="Int64")
+        df["Country"] = ""
 
-    # --- Exposure & follow-up: compute from structured dates when possible ---
+    # Keep misspelling for backward compatibility
+    if "first_year_of_intervention" in df.columns:
+        df["Frist year of intervention"] = df["first_year_of_intervention"]
+    elif "year_intervention_started" in df.columns:
+        df["Frist year of intervention"] = df["year_intervention_started"]
+    else:
+        df["Frist year of intervention"] = pd.NA
 
-    # Initialize numeric duration columns
-    df["exposure_to_intervention_num"] = pd.NA
-    df["length_of_follow_up_num"] = pd.NA
-
-    has_structured_timing = {
-        "intervention_start_year", "intervention_start_month",
-        "intervention_end_year", "intervention_end_month",
-        "final_followup_year", "final_followup_month",
-    }.issubset(df.columns)
-
-    if has_structured_timing:
-        df["exposure_to_intervention_num"] = df.apply(
-            lambda r: months_between(
-                r["intervention_start_year"],
-                r["intervention_start_month"],
-                r["intervention_end_year"],
-                r["intervention_end_month"],
-            ),
-            axis=1,
-        )
-
-        df["length_of_follow_up_num"] = df.apply(
-            lambda r: months_between(
-                r["intervention_end_year"],
-                r["intervention_end_month"],
-                r["final_followup_year"],
-                r["final_followup_month"],
-            ),
-            axis=1,
-        )
-
-    # --- Fallback: use text-based durations only if structured dates are unusable ---
-
-    # These come from the QEX JSON if you kept the original string fields
-    followup_col = "length_of_follow_up" if "length_of_follow_up" in df.columns else None
-    exposure_col = "exposure_to_intervention" if "exposure_to_intervention" in df.columns else None
-
-    # Fill missing durations from explicit duration fields (row-wise)
-    if exposure_col:
-        df["exposure_to_intervention_num"] = df["exposure_to_intervention_num"].fillna(
-            df[exposure_col].apply(duration_to_months)
-        )
-
-    if followup_col:
-        df["length_of_follow_up_num"] = df["length_of_follow_up_num"].fillna(
-            df[followup_col].apply(duration_to_months)
-        )
-
-    # If follow-up is still missing, use per-outcome timing overrides when available.
-    # This supports papers where outcomes are measured at different waves and the
-    # final follow-up is best represented by the latest outcome wave.
-    if "outcome_months_since_intervention_end" in df.columns:
-        df["outcome_months_since_intervention_end"] = pd.to_numeric(
-            df["outcome_months_since_intervention_end"], errors="coerce"
-        )
-        max_fu = (
-            df.groupby("StudyID")["outcome_months_since_intervention_end"]
-            .max()
-            .rename("max_months_since_intervention_end")
-        )
-        df = df.merge(max_fu, on="StudyID", how="left")
-        df["length_of_follow_up_num"] = df["length_of_follow_up_num"].fillna(
-            df["max_months_since_intervention_end"]
-        )
-        # keep the helper column for debugging if desired; comment out to drop
-        # df = df.drop(columns=["max_months_since_intervention_end"])
-# Final values for the Quant form
-    df["Exposure to intervention"] = df["exposure_to_intervention_num"]
-    df["Length of follow up"] = df["length_of_follow_up_num"]
-
-    # --- Intervention name fields ---
-
-    # Use program_name from QEX for the Quant form's
-    # "Intervention abbreviation and name" column.
     if "program_name" in df.columns:
         df["Intervention abbreviation and name"] = df["program_name"].fillna("")
     else:
         df["Intervention abbreviation and name"] = ""
 
-    # Detailed intervention description (from LLM)
     if "intervention_description" in df.columns:
         df["Intervention description"] = df["intervention_description"].fillna("")
     else:
         df["Intervention description"] = ""
 
-    # --- Components (Yes/No/Not mentioned -> 0/1/None) ---
+    # ---- Components ----
     comp_map = {
         "Consumption support (cash or in-kind) to stabilize food security and prevent households from selling assets to survive ": "consumption_support",
         "Healthcare provision to address the basic health needs of individuals and households": "healthcare",
@@ -311,35 +446,15 @@ def build_quant_form(qex_csv: Path, master_csv: Path, out_csv: Path):
         "Social empowerment and linkages to social protection, markets, and public services to encourage opportunities and inclusion in existing systems.": "social_empowerment",
     }
 
-    # --- Outcome name mapping into Quant form ---
-
-    if "outcome_name" in df.columns:
-        df["Outcome name"] = df["outcome_name"]
-    else:
-        df["Outcome name"] = ""
-
-    for out_col, base_name in comp_map.items():
-        # In QEX output, components are named like 'component_<base_name>'
-        candidates = [
-            c
-            for c in df.columns
-            if c.lower() == base_name.lower()
-            or c.lower() == f"component_{base_name}".lower()
-            or c.lower().endswith("_" + base_name.lower())
-        ]
-        if candidates:
-            src_col = candidates[0]
-            df[out_col] = df[src_col].apply(yes_no_to_binary)
+    for quant_col, qex_col in comp_map.items():
+        if qex_col in df.columns:
+            df[quant_col] = df[qex_col].apply(yes_no_to_binary)
         else:
-            df[out_col] = None
+            df[quant_col] = pd.NA
 
-    # --- Evaluation design & method codes ---
-    # MethodInfo-coded fields we just added: evaluation_design_code, evaluation_method_code
-    cand_ed_code = [c for c in df.columns if "evaluation_design_code" in c]
-    cand_em_code = [c for c in df.columns if "evaluation_method_code" in c]
-
-    eval_design_col = cand_ed_code[0] if cand_ed_code else None
-    eval_method_col = cand_em_code[0] if cand_em_code else None
+    # ---- Evaluation design & method codes ----
+    eval_design_col = find_col(df, ["evaluation_design_code"])
+    eval_method_col = find_col(df, ["evaluation_method_code"])
 
     if eval_design_col:
         df["Evaluation Design"] = pd.to_numeric(df[eval_design_col], errors="coerce").astype("Int64")
@@ -347,41 +462,17 @@ def build_quant_form(qex_csv: Path, master_csv: Path, out_csv: Path):
         df["Evaluation Design"] = pd.Series([pd.NA] * len(df), dtype="Int64")
 
     if eval_method_col:
-        df["Evaluation Method"] = df[eval_method_col].astype("string")
+        df["Evaluation Method"] = pd.to_numeric(df[eval_method_col], errors="coerce").astype("Int64")
     else:
-        df["Evaluation Method"] = pd.Series([pd.NA] * len(df), dtype="string")
+        df["Evaluation Method"] = pd.Series([pd.NA] * len(df), dtype="Int64")
 
-    # --- Metadata fields for the form (from master / QEX) ---
-
-    # Use QEX-derived metadata for now
-    author_col = "author_name" if "author_name" in df.columns else None
-    year_col = "year_of_publication" if "year_of_publication" in df.columns else None
-    pubtype_col = None  # no publication type in QEX yet
-    country_col = "country" if "country" in df.columns else None
-
-    # Author name
-    df["Author name"] = df[author_col] if author_col else ""
-
-    # Year of publication
-    if year_col:
-        df["Year of publication"] = pd.to_numeric(df[year_col], errors="coerce").astype("Int64")
+    # ---- Outcome name ----
+    if "outcome_name" in df.columns:
+        df["Outcome name"] = df["outcome_name"]
     else:
-        df["Year of publication"] = pd.Series([pd.NA] * len(df), dtype="Int64")
+        df["Outcome name"] = ""
 
-    # Publication type
-    if pubtype_col:
-        df["Publication type"] = pd.to_numeric(df[pubtype_col], errors="coerce").astype("Int64")
-    else:
-        df["Publication type"] = pd.Series([pd.NA] * len(df), dtype="Int64")
-
-    # Country from metadata (override anything from LLM if present)
-    if country_col:
-        df["Country"] = df[country_col]
-    else:
-        df["Country"] = ""
-
-    # --- Final column ordering for Quant Extraction Form ---
-    # Coder name + Notes intentionally left blank for humans.
+    # ---- Final column ordering (unchanged) ----
     quant_cols = [
         "Coder name",
         "Notes",
@@ -409,18 +500,15 @@ def build_quant_form(qex_csv: Path, master_csv: Path, out_csv: Path):
         "_key",
     ]
 
-    # Ensure columns exist; if not, create blanks
     for col in quant_cols:
         if col not in df.columns:
             df[col] = pd.NA
 
     out_df = df[quant_cols].copy()
-
-    # Blank coder + notes
     out_df["Coder name"] = ""
     out_df["Notes"] = ""
 
-    # --- Write CSV ---
+    out_csv = Path(out_csv)
     out_csv.parent.mkdir(parents=True, exist_ok=True)
     out_df.to_csv(out_csv, index=False)
     print(f"Quant Extraction Form written to: {out_csv}")
@@ -428,28 +516,16 @@ def build_quant_form(qex_csv: Path, master_csv: Path, out_csv: Path):
 
 def main():
     parser = argparse.ArgumentParser(description="Build Quant Extraction Form from QEX outputs.")
-    parser.add_argument(
-        "--qex-csv",
-        type=Path,
-        required=True,
-        help="Path to QEX extraction CSV (per-estimate output).",
-    )
-    parser.add_argument(
-        "--master-csv",
-        type=Path,
-        required=True,
-        help="Path to master metadata CSV (Study-level info).",
-    )
+    parser.add_argument("--qex-csv", type=Path, required=True, help="Path to QEX extraction CSV (per-estimate output).")
+    parser.add_argument("--master-csv", type=Path, required=True, help="Path to master metadata CSV (Study-level info).")
     parser.add_argument(
         "--out-csv",
         type=Path,
         default=Path("outputs/quant_extraction_form.csv"),
         help="Output path for Quant Extraction Form CSV.",
     )
-
     args = parser.parse_args()
     build_quant_form(args.qex_csv, args.master_csv, args.out_csv)
-
 
 if __name__ == "__main__":
     main()

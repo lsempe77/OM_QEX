@@ -1,211 +1,70 @@
 {
-  "study_id": null,
-  "program_name": "Ultra-Poverty Reduction Program in Burkina Faso",
-  "country": "Burkina Faso",
-  "year_intervention_started": 2018,
-  "evaluation_design": "Cluster Randomized Controlled Trial",
-  "evaluation_design_code": "2",
-  "evaluation_method": "Intention-to-Treat Analysis",
-  "evaluation_method_code": "1",
-  "intervention_description": "Multifaceted program targeting ultra-poor households with pregnant women or children under five, including cash transfers, animal transfers, and nutrition interventions across three treatment arms",
-  "intervention_start_year": 2018,
-  "intervention_start_month": 6,
-  "intervention_end_year": 2019,
-  "intervention_end_month": 9,
-  "final_followup_year": 2021,
-  "final_followup_month": 6,
-  "timing_anchors": {
-    "intervention_start": {
-      "literal_text": "The program was implemented over a two-year period in 2018 and 2019",
-      "text_position": "Context and program description section"
-    },
-    "intervention_end": {
-      "literal_text": "Transfers occurred during the lean season (June-September) in first and second years",
-      "text_position": "Intervention description section"
-    },
-    "final_followup": {
-      "literal_text": "Four household surveys conducted between 2018 and 2021",
-      "text_position": "Data and survey section"
-    }
-  },
-  "exposure_to_intervention": "16",
-  "length_of_follow_up": "36",
-  "sample_size_treatment": null,
-  "sample_size_control": null,
-  "graduation_components": {
-    "consumption_support": "Yes",
-    "healthcare": "No",
-    "assets": "Yes",
-    "skills_training": "No",
-    "savings": "No",
-    "coaching": "No",
-    "social_empowerment": "No"
-  },
-  "graduation_components_rationale": {
-    "consumption_support": "Unconditional cash transfers of $36/month during lean season",
-    "healthcare": null,
-    "assets": "Animal transfers via vouchers for poultry or small ruminants",
-    "skills_training": null,
-    "savings": null,
-    "coaching": null,
-    "social_empowerment": null
-  },
   "outcomes": [
     {
       "outcome_name": "Ultra-poverty probability",
-      "outcome_description": "Probability of being classified as ultra-poor",
-      "effect_size": -0.5,
-      "p_value": null,
-      "standard_error": null,
-      "confidence_interval_lower": null,
-      "confidence_interval_upper": null,
-      "literal_text": "Ultra-poverty was reduced by 50 to 70% in first year",
-      "text_position": "Page 25, Results section",
-      "outcome_timepoint_label": "1-year follow-up",
-      "outcome_measurement_year": 2019,
-      "outcome_measurement_month": 6,
-      "months_since_intervention_end": "9",
-      "outcome_timing_anchor": {
-        "literal_text": "One year after the start of the intervention",
-        "text_position": "Results section"
-      }
-    },
-    {
-      "outcome_name": "Severe food insecurity",
-      "outcome_description": "Percentage points of severe food insecurity",
-      "effect_size": -6.5,
-      "p_value": null,
-      "standard_error": null,
-      "confidence_interval_lower": null,
-      "confidence_interval_upper": null,
-      "literal_text": "Severe food insecurity decreased by 5 to 8 percentage points across all treatment groups",
-      "text_position": "Page 25, Results section",
-      "outcome_timepoint_label": "2-year follow-up",
-      "outcome_measurement_year": 2020,
-      "outcome_measurement_month": 6,
-      "months_since_intervention_end": "21",
-      "outcome_timing_anchor": {
-        "literal_text": "In the 2-year follow-up survey",
-        "text_position": "Results section"
-      }
-    },
-    {
-      "outcome_name": "Dietary diversity score",
-      "outcome_description": "Standard deviation of dietary diversity",
-      "effect_size": 0.31,
-      "p_value": null,
-      "standard_error": null,
-      "confidence_interval_lower": null,
-      "confidence_interval_upper": null,
-      "literal_text": "Women in T3 exhibit significantly better dietary diversity (+0.31 SD)",
-      "text_position": "Page 25, Results section",
-      "outcome_timepoint_label": "1-year follow-up",
-      "outcome_measurement_year": 2019,
-      "outcome_measurement_month": 6,
-      "months_since_intervention_end": "9",
-      "outcome_timing_anchor": {
-        "literal_text": "In the 1-year follow-up survey",
-        "text_position": "Results section"
-      }
-    },
-    {
-      "outcome_name": "Severe wasting",
-      "outcome_description": "Percentage points of severe child wasting",
-      "effect_size": -1.2,
-      "p_value": null,
-      "standard_error": null,
-      "confidence_interval_lower": null,
-      "confidence_interval_upper": null,
-      "literal_text": "Severe wasting is down by -1.2 percentage points from a control average of 2.6% (46% decline)",
-      "text_position": "Page 25, Table 5",
-      "outcome_timepoint_label": "1-year follow-up",
-      "outcome_measurement_year": 2019,
-      "outcome_measurement_month": 6,
-      "months_since_intervention_end": "9",
-      "outcome_timing_anchor": {
-        "literal_text": "In the 1-year follow-up survey",
-        "text_position": "Results section"
-      }
-    },
-    {
-      "outcome_name": "Severe stunting",
-      "outcome_description": "Percentage points of severe child stunting",
-      "effect_size": -3.3,
-      "p_value": null,
-      "standard_error": null,
-      "confidence_interval_lower": null,
-      "confidence_interval_upper": null,
-      "literal_text": "Severe stunting is down by 3.3 percentage points from an average of 12.8% (26% decline)",
-      "text_position": "Page 25, Table 5",
-      "outcome_timepoint_label": "1-year follow-up",
-      "outcome_measurement_year": 2019,
-      "outcome_measurement_month": 6,
-      "months_since_intervention_end": "9",
-      "outcome_timing_anchor": {
-        "literal_text": "In the 1-year follow-up survey",
-        "text_position": "Results section"
-      }
+      "timepoint_origin": "intervention_start",
+      "timing_confidence": "high",
+      "timing_evidence": "Measured one year after intervention start, with clear temporal anchor",
+      "timepoint_value": 12,
+      "timepoint_unit": "months",
+      "months_since_intervention_end_computed": 9
     },
     {
       "outcome_name": "Agricultural equipment index",
-      "outcome_description": "Index of agricultural equipment ownership",
-      "effect_size": null,
-      "p_value": null,
-      "standard_error": null,
-      "confidence_interval_lower": null,
-      "confidence_interval_upper": null,
-      "literal_text": "Significant impact on the agriculture index mainly stems from tool purchases",
-      "text_position": "Page 26, Results section",
-      "outcome_timepoint_label": "2-year follow-up",
-      "outcome_measurement_year": 2020,
-      "outcome_measurement_month": 6,
-      "months_since_intervention_end": "21",
-      "outcome_timing_anchor": {
-        "literal_text": "In the 2-year follow-up survey",
-        "text_position": "Results section"
-      }
+      "timepoint_origin": "intervention_end",
+      "timing_confidence": "high",
+      "timing_evidence": "Measured during follow-up survey after intervention completion",
+      "timepoint_value": 24,
+      "timepoint_unit": "months",
+      "months_since_intervention_end_computed": 9
+    },
+    {
+      "outcome_name": "Severe food insecurity",
+      "timepoint_origin": "intervention_end",
+      "timing_confidence": "high",
+      "timing_evidence": "Measured in 2-year follow-up survey after intervention period",
+      "timepoint_value": 24,
+      "timepoint_unit": "months",
+      "months_since_intervention_end_computed": 9
+    },
+    {
+      "outcome_name": "Dietary diversity score",
+      "timepoint_origin": "intervention_start",
+      "timing_confidence": "high",
+      "timing_evidence": "Significant differences in 1-year and 3-year follow-up surveys",
+      "timepoint_value": 12,
+      "timepoint_unit": "months",
+      "months_since_intervention_end_computed": 9
+    },
+    {
+      "outcome_name": "Severe stunting",
+      "timepoint_origin": "intervention_start",
+      "timing_confidence": "high",
+      "timing_evidence": "Measured in 1-year follow-up survey, nine months after intervention start",
+      "timepoint_value": 12,
+      "timepoint_unit": "months",
+      "months_since_intervention_end_computed": 9
+    },
+    {
+      "outcome_name": "Aspired years of education",
+      "timepoint_origin": "intervention_end",
+      "timing_confidence": "high",
+      "timing_evidence": "Measured after two years, reflecting household aspirations post-intervention",
+      "timepoint_value": 24,
+      "timepoint_unit": "months",
+      "months_since_intervention_end_computed": 9
     },
     {
       "outcome_name": "Agricultural revenue",
-      "outcome_description": "Household agricultural revenue",
-      "effect_size": null,
-      "p_value": null,
-      "standard_error": null,
-      "confidence_interval_lower": null,
-      "confidence_interval_upper": null,
-      "literal_text": "Increases in the number of cultivated crops, fertilizer plots, and agricultural revenue in the one-year follow-up",
-      "text_position": "Page 26, Table OB.4",
-      "outcome_timepoint_label": "1-year follow-up",
-      "outcome_measurement_year": 2019,
-      "outcome_measurement_month": 6,
-      "months_since_intervention_end": "9",
-      "outcome_timing_anchor": {
-        "literal_text": "In the one-year follow-up survey",
-        "text_position": "Results section"
-      }
-    },
-    {
-      "outcome_name": "Education years aspired",
-      "outcome_description": "Additional years of education aspired for children",
-      "effect_size": 1.4,
-      "p_value": null,
-      "standard_error": null,
-      "confidence_interval_lower": null,
-      "confidence_interval_upper": null,
-      "literal_text": "T3 households hope to acquire 1.4 more years of education for their children",
-      "text_position": "Page 26, Table 3",
-      "outcome_timepoint_label": "2-year follow-up",
-      "outcome_measurement_year": 2020,
-      "outcome_measurement_month": 6,
-      "months_since_intervention_end": "21",
-      "outcome_timing_anchor": {
-        "literal_text": "After two years",
-        "text_position": "Aspirations section"
-      }
+      "timepoint_origin": "intervention_start",
+      "timing_confidence": "high",
+      "timing_evidence": "Measured in one-year follow-up survey after intervention start",
+      "timepoint_value": 12,
+      "timepoint_unit": "months",
+      "months_since_intervention_end_computed": 9
     }
   ],
-  "notes": "Multifaceted ultra-poverty reduction program in Burkina Faso with three treatment arms, focusing on nutrition and economic interventions for households with pregnant women or young children",
   "_key": "VAUQIN7W.tei",
   "_tei_file": "/Users/joshuapolanin/Documents/OM_QEX/data/grobid_outputs/tei/VAUQIN7W.tei.xml",
-  "_om_outcome_count": 8
+  "_om_outcome_count": 7
 }

@@ -1,178 +1,68 @@
 {
-  "study_id": "AuthorYear_TUP_India",
+  "study_id": "AuthorYear_TUP",
   "outcomes": [
     {
       "outcome_group": "Assets",
       "outcome_category": "Asset ownership index",
-      "location": "Table 1, Column 1; Household Outcomes section",
-      "literal_text": "0.2 SD higher asset ownership at 18 months (p < 0.05), 0.4 SD at three years (p < 0.01), growing to 0.8 SD by seven years (p < 0.01)",
-      "text_position": "Page 10, Paragraph 3",
-      "timepoint_label": [
-        "18 months",
-        "3 years",
-        "7 years"
-      ],
-      "timepoint_months": [
-        "18",
-        "36",
-        "84"
-      ],
-      "timepoint_literal_text": "Treatment effects on assets at different survey waves",
-      "timepoint_text_position": "Page 10, Results section"
+      "location": "Page 53; Table 1; Household Outcomes; Column 1",
+      "literal_text": "0.2 SD higher at 18 months (p < 0.05), 0.4 SD higher at 3 years (p < 0.01), 0.8 SD higher at 7 years (p < 0.01)",
+      "text_position": "Table 1, Column 1: Asset Index"
     },
     {
       "outcome_group": "Expenditure/Consumption",
       "outcome_category": "Per capita consumption (2018 US dollar PPP)",
-      "location": "Table 1, Column 2; Household Outcomes section",
+      "location": "Page 53; Table 1; Household Outcomes; Column 2",
       "literal_text": "0.3 SD higher at 18 months and 3 years, growing to 0.7 SD at 7 years, remains 0.6 SD higher at 10 years (p < 0.01)",
-      "text_position": "Page 10, Paragraph 4",
-      "timepoint_label": [
-        "18 months",
-        "3 years",
-        "7 years",
-        "10 years"
-      ],
-      "timepoint_months": [
-        "18",
-        "36",
-        "84",
-        "120"
-      ],
-      "timepoint_literal_text": "Per capita consumption rises among treated households over survey waves",
-      "timepoint_text_position": "Page 10, Results section"
+      "text_position": "Table 1, Column 2: Per Capita Consumption"
     },
     {
       "outcome_group": "Food Security",
       "outcome_category": "Food security index",
-      "location": "Table 1, Column 3; Household Outcomes section",
-      "literal_text": "0.2 SD more food secure at 18 months, 0.25 SD at 3 years (p < 0.01), growing to 0.4 SD at 7 years, remains 0.13 SD at 10 years (p < 0.05)",
-      "text_position": "Page 10, Paragraph 5",
-      "timepoint_label": [
-        "18 months",
-        "3 years",
-        "7 years",
-        "10 years"
-      ],
-      "timepoint_months": [
-        "18",
-        "36",
-        "84",
-        "120"
-      ],
-      "timepoint_literal_text": "Food security index improvements over survey waves",
-      "timepoint_text_position": "Page 10, Results section"
+      "location": "Page 53; Table 1; Household Outcomes; Column 3",
+      "literal_text": "0.2 SD more food secure at 18 months, 0.25 SD at 3 years, grows to 0.4 SD at 7 years, remains 0.13 SD at 10 years (p < 0.05)",
+      "text_position": "Table 1, Column 3: Food Security Index"
     },
     {
       "outcome_group": "Financial Inclusion",
-      "outcome_category": "Financial inclusion index (loans and savings)",
-      "location": "Table 1, Column 5; Household Outcomes section",
-      "literal_text": "0.12 SD at year ten, statistically indistinguishable from zero",
-      "text_position": "Page 10, Paragraph 6",
-      "timepoint_label": [
-        "10 years"
-      ],
-      "timepoint_months": [
-        "120"
-      ],
-      "timepoint_literal_text": "Financial inclusion index at final survey wave",
-      "timepoint_text_position": "Page 10, Results section"
+      "outcome_category": "Financial inclusion index",
+      "location": "Page 53; Table 1; Household Outcomes; Column 5",
+      "literal_text": "0.12 SD at year ten (statistically indistinguishable from zero)",
+      "text_position": "Table 1, Column 5: Financial Inclusion"
     },
     {
       "outcome_group": "Health",
       "outcome_category": "Mental health index",
-      "location": "Table 1, Column 7; Individual Outcomes section",
-      "literal_text": "Improves by 0.1 SD at 18 months, growing to 0.25 SD by year seven and remaining at this level until year ten (p < 0.01)",
-      "text_position": "Page 10-11, Paragraph 2",
-      "timepoint_label": [
-        "18 months",
-        "7 years",
-        "10 years"
-      ],
-      "timepoint_months": [
-        "18",
-        "84",
-        "120"
-      ],
-      "timepoint_literal_text": "Mental health index improvements over survey waves",
-      "timepoint_text_position": "Page 10-11, Results section"
+      "location": "Page 53; Table 1; Individual Outcomes; Column 7",
+      "literal_text": "0.1 SD improvement at 18 months, growing to 0.25 SD by year seven, remains at this level until year ten (p < 0.01)",
+      "text_position": "Table 1, Column 7: Mental Health Index"
     },
     {
       "outcome_group": "Work/Employment",
       "outcome_category": "Productive time use (minutes)",
-      "location": "Table 1, Column 8; Individual Outcomes section",
-      "literal_text": "0.285 SD (60 more minutes) by 18 months, 0.1 SD (21 more minutes) by year three, 0.15 SD (30 more minutes) by year seven and year ten (p < 0.01)",
-      "text_position": "Page 11, Paragraph 3",
-      "timepoint_label": [
-        "18 months",
-        "3 years",
-        "7 years",
-        "10 years"
-      ],
-      "timepoint_months": [
-        "18",
-        "36",
-        "84",
-        "120"
-      ],
-      "timepoint_literal_text": "Productive time use across survey waves",
-      "timepoint_text_position": "Page 11, Results section"
+      "location": "Page 53; Table 1; Individual Outcomes; Column 8",
+      "literal_text": "0.285 SD (60 more minutes) at 18 months, 0.1 SD (21 more minutes) at 3 years, 0.15 SD (30 more minutes) at 7 and 10 years (p < 0.01)",
+      "text_position": "Table 1, Column 8: Productive Time Use"
     },
     {
       "outcome_group": "Income",
       "outcome_category": "Livestock revenue (monthly)",
-      "location": "Table 2, Column 1; Channels of Persistence section",
-      "literal_text": "$10 and $8 higher than control at 18 months and 3 years, $27 more at year seven (p < 0.01)",
-      "text_position": "Page 11, Paragraph 4",
-      "timepoint_label": [
-        "18 months",
-        "3 years",
-        "7 years"
-      ],
-      "timepoint_months": [
-        "18",
-        "36",
-        "84"
-      ],
-      "timepoint_literal_text": "Monthly livestock revenue across survey waves",
-      "timepoint_text_position": "Page 11, Results section"
+      "location": "Page 54; Table 2; Column 1",
+      "literal_text": "$10 higher at 18 months, $8 higher at 3 years, $27 higher at 7 years (p < 0.01)",
+      "text_position": "Table 2, Column 1: Livestock Revenue"
     },
     {
-      "outcome_group": "Income",
+      "outcome_group": "Work/Employment",
       "outcome_category": "Nonfarm microenterprise earnings (monthly)",
-      "location": "Table 2, Column 2; Channels of Persistence section",
-      "literal_text": "$25 more from nonfarm microenterprises by year three (p < 0.01), $68 greater by year seven (p < 0.01)",
-      "text_position": "Page 11, Paragraph 5",
-      "timepoint_label": [
-        "3 years",
-        "7 years"
-      ],
-      "timepoint_months": [
-        "36",
-        "84"
-      ],
-      "timepoint_literal_text": "Nonfarm microenterprise earnings across survey waves",
-      "timepoint_text_position": "Page 11, Results section"
+      "location": "Page 54; Table 2; Column 2",
+      "literal_text": "$25 higher at 3 years, $68 higher at 7 years (p < 0.01), declining by year ten",
+      "text_position": "Table 2, Column 2: Nonfarm Microenterprise Earnings"
     },
     {
       "outcome_group": "Work/Employment",
       "outcome_category": "Wage income including remittances (monthly)",
-      "location": "Table 2, Columns 5-6; Channels of Persistence section",
-      "literal_text": "No difference at 18 months or 3 years, grows to $76-89 by year seven (p < 0.01), remains high at year ten",
-      "text_position": "Page 11-12, Paragraph 6",
-      "timepoint_label": [
-        "18 months",
-        "3 years",
-        "7 years",
-        "10 years"
-      ],
-      "timepoint_months": [
-        "18",
-        "36",
-        "84",
-        "120"
-      ],
-      "timepoint_literal_text": "Wage income patterns across survey waves",
-      "timepoint_text_position": "Page 11-12, Results section"
+      "location": "Page 54; Table 2; Columns 5-6",
+      "literal_text": "No difference at 18 months or 3 years, grows to $76-89 by year 7 (p < 0.01), remains high at year 10",
+      "text_position": "Table 2, Columns 5-6: Wage Income"
     }
   ],
   "_key": "9UCQN8H8.tei",

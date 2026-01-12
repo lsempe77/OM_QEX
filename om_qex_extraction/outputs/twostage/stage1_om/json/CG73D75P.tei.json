@@ -1,60 +1,47 @@
 {
-  "study_id": "ADB_PhilippinesGraduation2021",
+  "study_id": "121294984",
   "outcomes": [
     {
       "outcome_group": "Expenditure/Consumption",
       "outcome_category": "Monthly consumption per capita (pesos)",
-      "location": "Page 38; Table 10; Treatment effects on key welfare outcomes",
-      "literal_text": "Monthly consumption per capita increased by 311-342 pesos across treatment arms",
-      "text_position": "Table 10, Row 'Consumption', Column 'Treatment Effect'",
-      "timepoint_label": "endline",
-      "timepoint_months": "24",
-      "timepoint_literal_text": "One year after the end of all program activities, or approximately two years after the bulk of livelihood asset transfers",
-      "timepoint_text_position": "Executive Summary, Paragraph 1"
+      "location": "Page 25; Table 10; Treatment effects on key welfare outcomes",
+      "literal_text": "311-342 pesos greater than control group average of 3,992 pesos",
+      "text_position": "Table 10, Column 'Consumption per capita'"
     },
     {
       "outcome_group": "Food Security",
-      "outcome_category": "Composite food security index (standard deviations)",
-      "location": "Page 38; Table 10; Treatment effects on key welfare outcomes",
-      "literal_text": "Food security increased by 0.20-0.28 standard deviations across treatment arms",
-      "text_position": "Table 10, Row 'Food Security', Column 'Treatment Effect'",
-      "timepoint_label": "endline",
-      "timepoint_months": "24",
-      "timepoint_literal_text": "One year after the end of all program activities, or approximately two years after the bulk of livelihood asset transfers",
-      "timepoint_text_position": "Executive Summary, Paragraph 1"
+      "outcome_category": "Food security index (standard deviations)",
+      "location": "Page 25; Table 10; Treatment effects on key welfare outcomes",
+      "literal_text": "0.20-0.28 standard deviations higher than control households",
+      "text_position": "Table 10, Column 'Food Security Index'"
     },
     {
       "outcome_group": "Assets",
       "outcome_category": "Productive asset value (pesos)",
-      "location": "Page 38; Table 10; Treatment effects on key welfare outcomes",
-      "literal_text": "Productive asset value increased by 1,954-4,484 pesos across treatment arms",
-      "text_position": "Table 10, Row 'Productive Assets', Column 'Treatment Effect'",
-      "timepoint_label": "endline",
-      "timepoint_months": "24",
-      "timepoint_literal_text": "One year after the end of all program activities, or approximately two years after the bulk of livelihood asset transfers",
-      "timepoint_text_position": "Executive Summary, Paragraph 1"
+      "location": "Page 25; Table 10; Treatment effects on key welfare outcomes",
+      "literal_text": "1,954-4,484 pesos more than control households' average of 10,546 pesos",
+      "text_position": "Table 10, Column 'Productive Asset Value'"
     },
     {
       "outcome_group": "Work/Employment",
-      "outcome_category": "Business ownership (yes/no)",
-      "location": "Page 38; Secondary outcomes section",
-      "literal_text": "T3 had a 9 percentage point increase in business ownership compared to 4 percentage points in T2 (p=0.02)",
-      "text_position": "Page 38, Paragraph discussing secondary outcomes",
-      "timepoint_label": "endline",
-      "timepoint_months": "24",
-      "timepoint_literal_text": "One year after the end of all program activities",
-      "timepoint_text_position": "Executive Summary, Paragraph 1"
+      "outcome_category": "Monthly household income (pesos)",
+      "location": "Page 25; Table 10; Treatment effects on key welfare outcomes",
+      "literal_text": "No statistically significant change in monthly income",
+      "text_position": "Table 10, Column 'Monthly Income'"
+    },
+    {
+      "outcome_group": "Social Capital/Empowerment",
+      "outcome_category": "Subjective well-being index (standard deviations)",
+      "location": "Page 25; Table 10; Treatment effects on key welfare outcomes",
+      "literal_text": "0.08-0.13 standard deviations improvement for individual livelihood groups",
+      "text_position": "Table 10, Column 'Subjective Well-being'"
     },
     {
       "outcome_group": "Financial Inclusion",
-      "outcome_category": "Savings likelihood and amount (pesos)",
-      "location": "Page 38; Secondary outcomes section",
-      "literal_text": "Treatment households were 6-15 percentage points more likely to have savings, with 224-443 pesos more in savings",
-      "text_position": "Page 38, Paragraph discussing savings outcomes",
-      "timepoint_label": "endline",
-      "timepoint_months": "24",
-      "timepoint_literal_text": "One year after the end of all program activities",
-      "timepoint_text_position": "Executive Summary, Paragraph 1"
+      "outcome_category": "Savings likelihood and amount",
+      "location": "Page 25; Table 10; Treatment effects on key welfare outcomes",
+      "literal_text": "6-15 percentage points more likely to have savings, 224-443 pesos more savings",
+      "text_position": "Table 10, Column 'Savings'"
     }
   ],
   "_key": "CG73D75P.tei",

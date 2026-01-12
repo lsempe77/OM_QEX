@@ -1,192 +1,52 @@
 {
-  "study_id": null,
-  "program_name": "Niger Economic Inclusion Intervention",
-  "country": "Niger",
-  "year_intervention_started": "2017",
-  "evaluation_design": "Cluster Randomized Controlled Trial",
-  "evaluation_design_code": "2",
-  "evaluation_method": "Randomized Controlled Trial with Four Arms",
-  "evaluation_method_code": "2",
-  "intervention_description": "Multi-faceted economic inclusion program with three treatment packages (psychosocial, capital, and full) layered on existing national cash transfer program, aimed at improving income-generating activities and welfare for women beneficiaries",
-  "exposure_to_intervention": "12",
-  "length_of_follow_up": "18",
-  "intervention_start_year": "2017",
-  "intervention_start_month": "9",
-  "intervention_end_year": "2018",
-  "intervention_end_month": "9",
-  "final_followup_year": "2019",
-  "final_followup_month": "1",
-  "timing_anchors": {
-    "intervention_start": {
-      "literal_text": "between September 2017 and January 2019",
-      "text_position": "Sampling, Timeline and Data section"
-    },
-    "intervention_end": {
-      "literal_text": "intervention lasted until after the planting season",
-      "text_position": "Results section"
-    },
-    "final_followup": {
-      "literal_text": "6 and 18 months post-intervention",
-      "text_position": "Results section"
-    }
-  },
-  "sample_size_treatment": null,
-  "sample_size_control": null,
-  "graduation_components": {
-    "consumption_support": "Yes",
-    "healthcare": "Not mentioned",
-    "assets": "Yes",
-    "skills_training": "Yes",
-    "savings": "Yes",
-    "coaching": "Yes",
-    "social_empowerment": "Yes"
-  },
-  "graduation_components_rationale": {
-    "consumption_support": "Monthly cash transfers from national program",
-    "healthcare": null,
-    "assets": "Lump-sum cash grant to promote investments",
-    "skills_training": "Micro-entrepreneurship training over one week",
-    "savings": "Village Savings and Loans Association (VSLA) component",
-    "coaching": "Coaches mentor groups throughout program",
-    "social_empowerment": "Community sensitization and life skills training"
-  },
   "outcomes": [
     {
-      "outcome_name": "Daily household consumption per adult equivalent",
+      "outcome_name": "Gross daily consumption per adult equivalent",
       "outcome_description": "Total daily household consumption per adult equivalent in USD",
+      "timepoint_origin": "intervention_end",
+      "timing_confidence": "high",
+      "timing_evidence": "2nd follow-up survey explicitly measured at 18 months post-intervention",
+      "timepoint_value": 18,
+      "timepoint_unit": "months",
+      "months_since_intervention_end_computed": 18,
       "effect_size": null,
       "p_value": null,
       "standard_error": null,
       "confidence_interval_lower": null,
-      "confidence_interval_upper": null,
-      "literal_text": "Statistically significant treatment effects on household consumption for all three packages at both follow-ups",
-      "text_position": "Page 25, Table 1",
-      "outcome_timepoint_label": "Follow-up 1 and 2",
-      "outcome_measurement_year": null,
-      "outcome_measurement_month": null,
-      "months_since_intervention_end": "6",
-      "outcome_timing_anchor": {
-        "literal_text": "6 and 18 months post-intervention",
-        "text_position": "Results section"
-      }
+      "confidence_interval_upper": null
     },
     {
       "outcome_name": "Household food security index",
-      "outcome_description": "Inverse Food Insecurity Experience Scale (FIES) with 12-month recall",
-      "effect_size": null,
+      "outcome_description": "Inverse Food Insecurity Experience Scale (FIES), 12-month recall",
+      "timepoint_origin": "intervention_end",
+      "timing_confidence": "high",
+      "timing_evidence": "2nd follow-up survey explicitly measured at 18 months post-intervention",
+      "timepoint_value": 18,
+      "timepoint_unit": "months",
+      "months_since_intervention_end_computed": 18,
+      "effect_size": 0.47,
       "p_value": null,
       "standard_error": null,
       "confidence_interval_lower": null,
-      "confidence_interval_upper": null,
-      "literal_text": "Household food security improves by 0.21-0.66, a 6%-20% change relative to control",
-      "text_position": "Page 25, Table 1",
-      "outcome_timepoint_label": "Follow-up 1 and 2",
-      "outcome_measurement_year": null,
-      "outcome_measurement_month": null,
-      "months_since_intervention_end": "6",
-      "outcome_timing_anchor": {
-        "literal_text": "6 and 18 months post-intervention",
-        "text_position": "Results section"
-      }
+      "confidence_interval_upper": null
     },
     {
-      "outcome_name": "Women's dietary diversity score",
+      "outcome_name": "Dietary diversity score",
       "outcome_description": "Food Consumption Score over 7 days",
-      "effect_size": null,
+      "timepoint_origin": "intervention_end",
+      "timing_confidence": "high",
+      "timing_evidence": "2nd follow-up survey explicitly measured at 18 months post-intervention",
+      "timepoint_value": 18,
+      "timepoint_unit": "months",
+      "months_since_intervention_end_computed": 18,
+      "effect_size": 2.78,
       "p_value": null,
       "standard_error": null,
       "confidence_interval_lower": null,
-      "confidence_interval_upper": null,
-      "literal_text": "Dietary diversity improves by 2.71-6.01 points over 7 days, a 10%-22% improvement relative to control",
-      "text_position": "Page 25, Table 1",
-      "outcome_timepoint_label": "Follow-up 1 and 2",
-      "outcome_measurement_year": null,
-      "outcome_measurement_month": null,
-      "months_since_intervention_end": "6",
-      "outcome_timing_anchor": {
-        "literal_text": "6 and 18 months post-intervention",
-        "text_position": "Results section"
-      }
-    },
-    {
-      "outcome_name": "Business revenue from women's off-farm self-employment",
-      "outcome_description": "Monthly business revenue in USD for eligible women",
-      "effect_size": null,
-      "p_value": null,
-      "standard_error": null,
-      "confidence_interval_lower": null,
-      "confidence_interval_upper": null,
-      "literal_text": "Business revenues increase by $17-$36 per eligible woman per month, a 76%-160% increase relative to control",
-      "text_position": "Page 26, Table 2",
-      "outcome_timepoint_label": "Follow-up 1 and 2",
-      "outcome_measurement_year": null,
-      "outcome_measurement_month": null,
-      "months_since_intervention_end": "6",
-      "outcome_timing_anchor": {
-        "literal_text": "6 and 18 months post-intervention",
-        "text_position": "Results section"
-      }
-    },
-    {
-      "outcome_name": "Agricultural harvest value for women",
-      "outcome_description": "Yearly agricultural harvest value in USD for eligible women",
-      "effect_size": null,
-      "p_value": null,
-      "standard_error": null,
-      "confidence_interval_lower": null,
-      "confidence_interval_upper": null,
-      "literal_text": "Substantial impacts on eligible women's revenues from agriculture in the 2nd follow-up for psychosocial and full packages",
-      "text_position": "Page 26, Table 2",
-      "outcome_timepoint_label": "Follow-up 2",
-      "outcome_measurement_year": null,
-      "outcome_measurement_month": null,
-      "months_since_intervention_end": "18",
-      "outcome_timing_anchor": {
-        "literal_text": "6 and 18 months post-intervention",
-        "text_position": "Results section"
-      }
-    },
-    {
-      "outcome_name": "Wage earnings for women",
-      "outcome_description": "Yearly wage earnings in USD for eligible women",
-      "effect_size": null,
-      "p_value": null,
-      "standard_error": null,
-      "confidence_interval_lower": null,
-      "confidence_interval_upper": null,
-      "literal_text": "Statistically significant treatment effects found for full package in 2nd follow-up",
-      "text_position": "Page 26, Table 2",
-      "outcome_timepoint_label": "Follow-up 2",
-      "outcome_measurement_year": null,
-      "outcome_measurement_month": null,
-      "months_since_intervention_end": "18",
-      "outcome_timing_anchor": {
-        "literal_text": "6 and 18 months post-intervention",
-        "text_position": "Results section"
-      }
-    },
-    {
-      "outcome_name": "Livestock revenue for women",
-      "outcome_description": "Yearly livestock revenue in USD for eligible women",
-      "effect_size": null,
-      "p_value": null,
-      "standard_error": null,
-      "confidence_interval_lower": null,
-      "confidence_interval_upper": null,
-      "literal_text": "Impacts on eligible women's livestock revenues statistically significant in 1st follow-up for psychosocial package, in 2nd follow-up for capital and full packages",
-      "text_position": "Page 26, Table 2",
-      "outcome_timepoint_label": "Follow-up 1 and 2",
-      "outcome_measurement_year": null,
-      "outcome_measurement_month": null,
-      "months_since_intervention_end": "6",
-      "outcome_timing_anchor": {
-        "literal_text": "6 and 18 months post-intervention",
-        "text_position": "Results section"
-      }
+      "confidence_interval_upper": null
     }
   ],
-  "notes": "Multi-country RCT in Sahel Adaptive Social Protection program, with Niger being the first implementation site",
   "_key": "RSAW8CHM.tei",
   "_tei_file": "/Users/joshuapolanin/Documents/OM_QEX/data/grobid_outputs/tei/RSAW8CHM.tei.xml",
-  "_om_outcome_count": 7
+  "_om_outcome_count": 14
 }

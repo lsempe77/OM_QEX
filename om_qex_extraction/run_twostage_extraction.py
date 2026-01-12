@@ -18,6 +18,7 @@ Usage:
   python run_twostage_extraction.py --all
 """
 
+from html import parser
 import sys
 import io
 import argparse
@@ -34,7 +35,8 @@ sys.path.insert(0, str(Path(__file__).parent))
 from src.extraction_engine import ExtractionEngine, load_metadata_from_master
 
 
-def run_twostage_extraction(tei_files, metadata_map, config_path, output_dir):
+def run_twostage_extraction(tei_files, metadata_map, config_path, output_dir,
+                           stage2_only=False, om_input_dir=None):
     """
     Run two-stage extraction pipeline.
     
@@ -50,6 +52,52 @@ def run_twostage_extraction(tei_files, metadata_map, config_path, output_dir):
     output_dir = Path(output_dir)
     om_dir = output_dir / "stage1_om"
     qex_dir = output_dir / "stage2_qex"
+        # If Stage 2 only: load OM results from disk (outputs/<...>/stage1_om/json/<key>.json)
+    if stage2_only:
+        om_dir = Path(om_input_dir) if om_input_dir else om_dir
+        om_json_dir = om_dir / "json"
+
+        om_results = []
+        missing = []
+
+        for tei_file in tei_files:
+            key = tei_file.stem  # e.g., "ZBAE7IPZ.tei"
+            om_json = om_json_dir / f"{key}.json"
+            if not om_json.exists():
+                missing.append(key)
+                continue
+
+            with open(om_json, "r", encoding="utf-8") as f:
+                om_result = json.load(f)
+
+            # Ensure key is present for downstream logging/saving
+            om_result["_key"] = om_result.get("_key", key)
+            om_results.append(om_result)
+
+        if missing:
+            print(f"⚠️  Stage2-only: missing OM JSON for {len(missing)}/{len(tei_files)} keys")
+            print("    Missing examples:", ", ".join(missing[:5]))
+
+        if not om_results:
+            print("❌ Stage2-only failed: no OM JSONs found. Run Stage 1 once or point --om-input to the correct folder.")
+            return None
+
+        total_outcomes = sum(len(r.get("outcomes", [])) for r in om_results)
+        print(f"✅ Loaded OM guidance from disk: {total_outcomes} outcomes across {len(om_results)} papers")
+
+    else:
+        # Existing Stage 1 OM flow (unchanged)
+        om_engine = ExtractionEngine(config_path, mode="om")
+        om_results = om_engine.extract_batch(tei_files, metadata_map)
+
+        if not om_results:
+            print("❌ Stage 1 (OM) failed - no outcomes identified")
+            return None
+
+        om_engine.save_results(om_results, om_dir)
+
+        total_outcomes = sum(len(r.get('outcomes', [])) for r in om_results)
+        print(f"\n✅ Stage 1 Complete: Found {total_outcomes} outcomes across {len(om_results)} papers")
     
     print(f"\n{'='*70}")
     print(f"TWO-STAGE EXTRACTION PIPELINE")
@@ -57,29 +105,7 @@ def run_twostage_extraction(tei_files, metadata_map, config_path, output_dir):
     print(f"Papers to process: {len(tei_files)}")
     print(f"Output directory: {output_dir}")
     
-    # ========================================================================
-    # STAGE 1: OM - Find ALL outcomes and their locations
-    # ========================================================================
-    print(f"\n{'='*70}")
-    print(f"STAGE 1: OUTCOME MAPPING (OM)")
-    print(f"Finding ALL outcomes with statistical analysis...")
-    print(f"{'='*70}\n")
-    
-    om_engine = ExtractionEngine(config_path, mode="om")
-    om_results = om_engine.extract_batch(tei_files, metadata_map)
-    
-    if not om_results:
-        print("❌ Stage 1 (OM) failed - no outcomes identified")
-        return None
-    
-    # Save OM results
-    om_engine.save_results(om_results, om_dir)
-    
-    # Count total outcomes found
-    total_outcomes = sum(len(r.get('outcomes', [])) for r in om_results)
-    print(f"\n✅ Stage 1 Complete: Found {total_outcomes} outcomes across {len(om_results)} papers")
-    print(f"   Average: {total_outcomes / len(om_results):.1f} outcomes per paper")
-    
+
     # ========================================================================
     # STAGE 2: QEX - Extract detailed data using OM guidance
     # ========================================================================
@@ -157,6 +183,10 @@ def main():
     parser.add_argument('--keys', nargs='+', help='Run on specific keys')
     parser.add_argument('--output', type=str, default='outputs/twostage',
                         help='Output directory (default: outputs/twostage)')
+    parser.add_argument('--stage2-only', action='store_true',
+                    help='Skip Stage 1; run Stage 2 using saved OM JSONs from disk')
+    parser.add_argument('--om-input', type=str, default=None,
+                    help='Path to stage1_om directory (default: <output>/stage1_om)')
     
     args = parser.parse_args()
     
@@ -176,10 +206,11 @@ def main():
         tei_files = all_tei_files[:args.sample]
         print(f"📊 SAMPLE MODE: Running on {len(tei_files)} papers")
     elif args.keys:
-        tei_files = [f for f in all_tei_files if f.name.replace('.tei.xml', '') in args.keys]
+        keys_norm = {k.replace(".tei.xml","").replace(".tei","") for k in args.keys}
+        tei_files = [f for f in all_tei_files if f.name.replace('.tei.xml', '') in keys_norm]
         print(f"🎯 SPECIFIC KEYS: Running on {len(tei_files)} papers")
-        if len(tei_files) != len(args.keys):
-            print(f"⚠️  Warning: Found {len(tei_files)} of {len(args.keys)} requested keys")
+        if len(tei_files) != len(keys_norm):
+            print(f"⚠️  Warning: Found {len(tei_files)} of {len(keys_norm)} requested keys")
     elif args.all:
         tei_files = all_tei_files
         print(f"🌐 ALL PAPERS: Running on {len(tei_files)} papers")
@@ -197,7 +228,14 @@ def main():
         metadata_map = None
     
     # Run two-stage extraction
-    results = run_twostage_extraction(tei_files, metadata_map, config_path, args.output)
+    results = run_twostage_extraction(
+    tei_files,
+    metadata_map,
+    config_path,
+    args.output,
+    stage2_only=args.stage2_only,
+    om_input_dir=args.om_input,
+)
     
     if results:
         return 0

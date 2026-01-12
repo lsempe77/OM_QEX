@@ -1,840 +1,836 @@
 """
 Extraction Engine - LLM-based data extraction from research papers.
-Uses OpenRouter API to extract structured data from TEI XML papers.
+
+Key goals for this rebuild
+- Enforce structured JSON outputs via OpenRouter `response_format` (json_schema / strict) for QEX.
+- Robustly parse/repair "almost JSON" responses (code fences, stray text, invalid control characters).
+- Never crash on common model quirks (e.g., "…existing fields remain unchanged", list-like timepoint values).
+- Preserve the existing public API used by run_twostage_extraction.py:
+  - ExtractionEngine.extract_from_tei(...)
+  - ExtractionEngine.extract_with_om_guidance(...)
+  - ExtractionEngine.extract_batch(...)
+  - load_metadata_from_master(...)
+  - save_results(...)
 """
+
+from __future__ import annotations
 
 import json
 import logging
+import os
+import re
 import time
+from dataclasses import dataclass
 from pathlib import Path
-from typing import Dict, Optional, List
+from typing import Any, Dict, List, Optional, Tuple
+
 import yaml
 from openai import OpenAI
 
 from .tei_parser import TEIParser
-from .models import ExtractionRecord, PublicationInfo, InterventionInfo, GeneralInfo
-from .models import MethodInfo, OutcomeInfo, TreatmentVariableInfo, EstimateInfo, EstimateData
 
-
-# Set up logging
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
-)
 logger = logging.getLogger(__name__)
+logger.setLevel(logging.INFO)
+
+
+# ----------------------------
+# Utilities
+# ----------------------------
+
+_JSON_FENCE_RE = re.compile(r"```(?:json)?\s*(.*?)\s*```", re.DOTALL | re.IGNORECASE)
+
+
+def _now_ms() -> int:
+    return int(time.time() * 1000)
+
+
+def _to_number_or_none(x: Any) -> Optional[float]:
+    try:
+        if x is None:
+            return None
+        if isinstance(x, bool):
+            return None
+        if isinstance(x, (int, float)):
+            return float(x)
+        if isinstance(x, str):
+            s = x.strip()
+            if s == "" or s.lower() in {"na", "n/a", "null", "none"}:
+                return None
+            # remove commas in numbers like "1,234"
+            s = s.replace(",", "")
+            return float(s)
+        return None
+    except Exception:
+        return None
+
+
+def _months_from_value_unit(value: Any, unit: Any) -> Optional[float]:
+    v = _to_number_or_none(value)
+    if v is None:
+        return None
+    if not isinstance(unit, str):
+        return None
+    u = unit.strip().lower()
+    if u in {"month", "months"}:
+        return v
+    if u in {"year", "years"}:
+        return v * 12.0
+    if u in {"week", "weeks"}:
+        return v * (12.0 / 52.0)
+    if u in {"day", "days"}:
+        return v * (12.0 / 365.0)
+    return None
+
+
+# ----------------------------
+# Extraction Engine
+# ----------------------------
+
+@dataclass
+class _LLMCallResult:
+    data: Dict[str, Any]
+    raw_text: str
+    used_response_format: bool
+    provider_error: Optional[str] = None
 
 
 class ExtractionEngine:
-    """LLM-based extraction engine using OpenRouter."""
-    
-    def __init__(self, config_path: Path, mode: str = "qex"):
-        """
-        Initialize the extraction engine with configuration.
-        
-        Args:
-            config_path: Path to config.yaml
-            mode: Extraction mode - "om" for outcome mapping or "qex" for quantitative extraction
-        """
+    """
+    Modes:
+      - "om": Outcome mapping (Stage 1)
+      - "qex": Quant extraction (Stage 2)
+    """
+
+    def __init__(self, config_path: Path, mode: str = "qex", model_override: Optional[str] = None):
         self.config_path = Path(config_path)
-        self.mode = mode.lower()
+        self.mode = mode.lower().strip()
+        if self.mode not in {"om", "qex"}:
+            raise ValueError(f"mode must be 'om' or 'qex', got: {mode}")
+
         self.config = self._load_config()
+
+        # Model selection: allow override, else config.model[mode]
+        cfg_model = (self.config.get("model") or {}).get(self.mode)
+        self.model = model_override or cfg_model
+        if not self.model:
+            raise ValueError(f"No model configured for mode={self.mode}. Set config.model.{self.mode}")
+
         self.client = self._initialize_client()
-        self.prompt_template = self._load_prompt_template(mode=self.mode)
-        
-        logger.info(f"Initialized ExtractionEngine in {self.mode.upper()} mode with model: {self.config['model']['name']}")
-    
-    def _load_config(self) -> Dict:
-        """Load configuration from YAML file."""
-        with open(self.config_path, 'r', encoding='utf-8') as f:
-            config = yaml.safe_load(f)
-        return config
-    
-    def _initialize_client(self) -> OpenAI:
-        """Initialize OpenAI client for OpenRouter."""
-        from openai import Timeout
-        
-        api_key = self.config['api']['openrouter']['api_key']
-        
-        # Remove ${} wrapper if present (environment variable format)
-        if api_key.startswith("${") and api_key.endswith("}"):
-            api_key = api_key[2:-1]
-        
-        base_url = self.config['api']['openrouter']['base_url']
-        
-        # Create client with explicit timeout settings
-        client = OpenAI(
-            api_key=api_key,
-            base_url=base_url,
-            timeout=Timeout(
-                connect=15.0,   # 15 seconds to establish connection
-                read=300.0,     # 5 minutes to read response (increased for unstable connections)
-                write=15.0,     # 15 seconds to send request
-                pool=15.0       # 15 seconds for connection pool
-            ),
-            max_retries=5  # More retries for unstable connections
+
+        # Prompt loading
+        self.prompts_dir = (Path(__file__).resolve().parent.parent / "prompts")
+        self.prompt_template = self._load_prompt_template()
+
+        logger.info(
+            f"Initialized ExtractionEngine in {self.mode.upper()} mode with model: {self.model}"
         )
-        
+
+    # ----------------------------
+    # Config / client
+    # ----------------------------
+
+    def _load_config(self) -> Dict[str, Any]:
+        with open(self.config_path, "r", encoding="utf-8") as f:
+            return yaml.safe_load(f)
+
+    def _initialize_client(self) -> OpenAI:
+        # OpenRouter uses the OpenAI-compatible client with a custom base_url.
+        # We support api_key in config or env var.
+        api_cfg = (self.config.get("api") or {}).get("openrouter") or {}
+        api_key = api_cfg.get("api_key") or os.getenv("OPENROUTER_API_KEY") or ""
+        api_key = str(api_key).strip()
+
+        # Allow "environment variable format" placeholders: ${OPENROUTER_API_KEY}
+        if api_key.startswith("${") and api_key.endswith("}"):
+            env_name = api_key[2:-1].strip()
+            api_key = os.getenv(env_name, "").strip()
+
+        if not api_key:
+            raise ValueError(
+                "OpenRouter API key not found. Set config.api.openrouter.api_key "
+                "or environment variable OPENROUTER_API_KEY."
+            )
+
+        base_url = api_cfg.get("base_url", "https://openrouter.ai/api/v1")
         logger.info(f"OpenRouter client initialized with base URL: {base_url}")
-        return client
-    
-    def _load_prompt_template(self, mode: str = "qex") -> str:
+        return OpenAI(api_key=api_key, base_url=base_url)
+
+    # ----------------------------
+    # Prompts
+    # ----------------------------
+
+    def _load_prompt_template(self) -> str:
         """
-        Load the extraction prompt template.
-        
-        Args:
-            mode: "om" for outcome mapping or "qex" for quantitative extraction
+        Loads the appropriate prompt file for the engine mode.
+        - OM default: prompts/om_extraction_prompt.txt
+        - QEX default: prompts/extraction_prompt.txt (single-stage) or prompts/qex_focused_prompt.txt (two-stage)
         """
-        if mode == "om":
-            prompt_file = "om_extraction_prompt.txt"
+        prompt_cfg = (self.config.get("extraction") or {}).get("prompt_file")
+        if prompt_cfg:
+            candidate = Path(prompt_cfg)
+            if not candidate.is_absolute():
+                candidate = self.prompts_dir / candidate
+            if candidate.exists():
+                return candidate.read_text(encoding="utf-8")
+
+        if self.mode == "om":
+            candidates = [
+                self.prompts_dir / "om_extraction_prompt.txt",
+                self.prompts_dir / "om_extraction_prompt_arch2.txt",
+            ]
         else:
-            prompt_file = "extraction_prompt.txt"
-            
-        prompt_path = Path(__file__).parent.parent / "prompts" / prompt_file
-        with open(prompt_path, 'r', encoding='utf-8') as f:
-            template = f.read()
-        return template
-    
-    def extract_from_tei(self, tei_file: Path, paper_metadata: Optional[Dict] = None) -> Optional[Dict]:
-        """
-        Extract data from a TEI XML file.
-        
-        Args:
-            tei_file: Path to TEI XML file
-            paper_metadata: Optional metadata from master file (study_id, author, year, country)
-        
-        Returns:
-            Extracted data as dictionary, or None if extraction fails
-        """
-        logger.info(f"Processing: {tei_file.name}")
-        
-        # Parse TEI file
-        try:
-            parser = TEIParser(tei_file)
-            paper_text = parser.get_full_text(include_abstract=True)
-        except Exception as e:
-            logger.error(f"Failed to parse TEI file {tei_file.name}: {e}")
-            return None
-        
-        # Create prompt
-        prompt = self.prompt_template.replace("{paper_text}", paper_text)
-        
-        # Call LLM
-        try:
-            extraction = self._call_llm(prompt)
-            
-            # Merge with metadata if provided
-            if paper_metadata:
-                extraction.update(paper_metadata)
-            
-            logger.info(f"✅ Successfully extracted data from {tei_file.name}")
-            return extraction
-            
-        except Exception as e:
-            logger.error(f"Extraction failed for {tei_file.name}: {e}")
-            return None
-    
-    def extract_with_om_guidance(self, tei_file: Path, paper_metadata: Optional[Dict] = None, 
-                                  om_outcomes: Optional[List[Dict]] = None) -> Optional[Dict]:
-        """
-        Extract QEX data using OM outcomes as guidance.
-        
-        This is the key method for two-stage extraction. It uses OM outcomes
-        to create a focused prompt that tells the LLM exactly where to look.
-        
-        Args:
-            tei_file: Path to TEI XML file
-            paper_metadata: Optional metadata from master file
-            om_outcomes: List of OM outcomes with location/literal_text hints
-        
-        Returns:
-            Extracted QEX data as dictionary, or None if extraction fails
-        """
-        logger.info(f"Processing with OM guidance: {tei_file.name}")
-        
-        # Parse TEI file
-        try:
-            parser = TEIParser(tei_file)
-            paper_text = parser.get_full_text(include_abstract=True)
-        except Exception as e:
-            logger.error(f"Failed to parse TEI file {tei_file.name}: {e}")
-            return None
-        
-        # Load focused prompt template if available, otherwise use standard
-        focused_prompt_path = Path(__file__).parent.parent / "prompts" / "qex_focused_prompt.txt"
-        if focused_prompt_path.exists():
-            with open(focused_prompt_path, 'r', encoding='utf-8') as f:
-                template = f.read()
-        else:
-            logger.info("Focused prompt not found, using standard QEX prompt")
-            template = self.prompt_template
-        
-        # Create OM guidance section
-        if om_outcomes and len(om_outcomes) > 0:
-            om_guidance = "\n\n# OM GUIDANCE - IDENTIFIED OUTCOMES\n\n"
-            om_guidance += f"Stage 1 (Outcome Mapping) identified {len(om_outcomes)} outcomes in this paper.\n"
-            om_guidance += "For each outcome below, extract the full statistical details:\n\n"
-            
-            for i, outcome in enumerate(om_outcomes, 1):
-                om_guidance += f"{i}. {outcome.get('outcome_category', 'Unknown')}\n"
-                om_guidance += f"   Location: {outcome.get('location', 'Not specified')}\n"
-                tp = outcome.get('timepoint_label') or outcome.get('timepoint') or outcome.get('wave') or outcome.get('timepoint_months')
-                if tp is not None:
-                    om_guidance += f"   Timepoint: {tp}\n"
+            candidates = [
+                self.prompts_dir / "extraction_prompt.txt",
+                self.prompts_dir / "extraction_prompt_arch2.txt",
+            ]
 
-                if 'literal_text' in outcome:
-                    om_guidance += f"   Text: {outcome.get('literal_text')}\n"
-                om_guidance += "\n"
-            
-            om_guidance += "Extract ALL of these outcomes with complete statistical details.\n"
-            
-            # Insert guidance before the paper text
-            prompt = template.replace("{paper_text}", om_guidance + "\n\n# PAPER TEXT\n\n{paper_text}")
-            prompt = prompt.replace("{paper_text}", paper_text)
-            
-            logger.info(f"Created focused prompt with OM guidance ({len(om_outcomes)} outcomes)")
-            logger.debug(f"Prompt length: {len(prompt)} characters")
-        else:
-            # No OM guidance - use standard extraction
-            logger.info("No OM outcomes provided, using standard extraction")
-            prompt = template.replace("{paper_text}", paper_text)
-        
-        # Call LLM
-        try:
-            logger.info(f"Calling LLM with focused prompt...")
-            extraction = self._call_llm(prompt)
-            
-            # Merge with metadata if provided
-            if paper_metadata:
-                extraction.update(paper_metadata)
-            
-            logger.info(f"✅ Successfully extracted data with OM guidance from {tei_file.name}")
-            return extraction
-            
-        except Exception as e:
-            logger.error(f"Extraction failed for {tei_file.name}: {e}")
-            return None
+        for p in candidates:
+            if p.exists():
+                return p.read_text(encoding="utf-8")
 
-    # ---------------------------------------------------------------------
-    # Structured outputs (OpenRouter response_format) + robust JSON parsing
-    # ---------------------------------------------------------------------
+        raise FileNotFoundError(
+            f"Could not find a prompt template for mode={self.mode}. "
+            f"Looked in: {self.prompts_dir}"
+        )
 
-    def _qex_json_schema(self) -> Dict:
-        """JSON Schema for Stage 2 (QEX) structured outputs.
+    def _load_qex_focused_prompt(self) -> str:
+        candidates = [
+            self.prompts_dir / "qex_focused_prompt.txt",
+            self.prompts_dir / "qex_focused_prompt_arch2.txt",
+        ]
+        for p in candidates:
+            if p.exists():
+                return p.read_text(encoding="utf-8")
+        raise FileNotFoundError(
+            f"Could not find qex focused prompt. Looked in: {self.prompts_dir}"
+        )
 
-        Keys are required to exist, but values may be null when truly unknown.
+    # ----------------------------
+    # Structured outputs
+    # ----------------------------
+
+    def _qex_json_schema(self) -> Dict[str, Any]:
         """
+        Minimal-yet-useful schema:
+        - Requires top-level `outcomes` array.
+        - Requires timing fields per outcome, but allows nulls.
+        - Allows either a scalar or an array for timepoint_value/months_since_intervention_end_computed to avoid hard-failing
+          on multi-wave papers; downstream code will canonicalize.
+        """
+        num_or_numarr = {
+            "anyOf": [
+                {"type": "number"},
+                {"type": "array", "items": {"type": "number"}},
+                {"type": "null"},
+            ]
+        }
+        str_or_null = {"type": ["string", "null"]}
+        int_or_null = {"type": ["integer", "null"]}
         return {
             "type": "object",
             "additionalProperties": True,
-            "required": [
-                "study_id",
-                "program_name",
-                "country",
-                "year_intervention_started",
-                "evaluation_design",
-                "evaluation_design_code",
-                "evaluation_method",
-                "evaluation_method_code",
-                "intervention_description",
-                "exposure_to_intervention",
-                "length_of_follow_up",
-                "intervention_start_year",
-                "intervention_start_month",
-                "intervention_end_year",
-                "intervention_end_month",
-                "final_followup_year",
-                "final_followup_month",
-                "timing_anchors",
-                "sample_size_treatment",
-                "sample_size_control",
-                "graduation_components",
-                "graduation_components_rationale",
-                "outcomes",
-                "notes",
-            ],
             "properties": {
-                "study_id": {"type": ["string", "null"]},
-                "program_name": {"type": ["string", "null"]},
-                "country": {"type": ["string", "null"]},
-                "year_intervention_started": {"type": ["integer", "null"]},
-
-                "evaluation_design": {"type": ["string", "null"]},
-                "evaluation_design_code": {"type": ["integer", "null"]},
-                "evaluation_method": {"type": ["string", "null"]},
-                "evaluation_method_code": {"type": ["string", "null"]},
-
-                "intervention_description": {"type": ["string", "null"]},
-
-                # Numeric string in months (e.g., "24") for compatibility with your existing CSV builder
-                "exposure_to_intervention": {"type": ["string", "null"]},
-                "length_of_follow_up": {"type": ["string", "null"]},
-
-                "intervention_start_year": {"type": ["integer", "null"]},
-                "intervention_start_month": {"type": ["integer", "null"]},
-                "intervention_end_year": {"type": ["integer", "null"]},
-                "intervention_end_month": {"type": ["integer", "null"]},
-                "final_followup_year": {"type": ["integer", "null"]},
-                "final_followup_month": {"type": ["integer", "null"]},
-
-                "timing_anchors": {
-                    "type": "object",
-                    "additionalProperties": False,
-                    "required": ["intervention_start", "intervention_end", "final_followup"],
-                    "properties": {
-                        "intervention_start": {
-                            "type": "object",
-                            "additionalProperties": False,
-                            "required": ["literal_text", "text_position"],
-                            "properties": {
-                                "literal_text": {"type": ["string", "null"]},
-                                "text_position": {"type": ["string", "null"]},
-                            },
-                        },
-                        "intervention_end": {
-                            "type": "object",
-                            "additionalProperties": False,
-                            "required": ["literal_text", "text_position"],
-                            "properties": {
-                                "literal_text": {"type": ["string", "null"]},
-                                "text_position": {"type": ["string", "null"]},
-                            },
-                        },
-                        "final_followup": {
-                            "type": "object",
-                            "additionalProperties": False,
-                            "required": ["literal_text", "text_position"],
-                            "properties": {
-                                "literal_text": {"type": ["string", "null"]},
-                                "text_position": {"type": ["string", "null"]},
-                            },
-                        },
-                    },
-                },
-
-                "sample_size_treatment": {"type": ["integer", "null"]},
-                "sample_size_control": {"type": ["integer", "null"]},
-
-                "graduation_components": {"type": "object"},
-                "graduation_components_rationale": {"type": "object"},
-
+                # Study-level fields (mostly optional)
+                "study_id": str_or_null,
+                "program_name": str_or_null,
+                "country": str_or_null,
+                "year_intervention_started": int_or_null,
+                "evaluation_design": str_or_null,
+                "evaluation_design_code": str_or_null,
+                "evaluation_method": str_or_null,
+                "evaluation_method_code": str_or_null,
+                "intervention_description": str_or_null,
+                "exposure_to_intervention": str_or_null,
+                "length_of_follow_up": str_or_null,
+                "intervention_start_year": int_or_null,
+                "intervention_start_month": int_or_null,
+                "intervention_end_year": int_or_null,
+                "intervention_end_month": int_or_null,
+                "final_followup_year": int_or_null,
+                "final_followup_month": int_or_null,
+                "timing_anchors": {"type": ["object", "null"], "additionalProperties": True},
+                "notes": str_or_null,
+                # Outcomes
                 "outcomes": {
                     "type": "array",
                     "items": {
                         "type": "object",
                         "additionalProperties": True,
+                        "properties": {
+                            "outcome_name": str_or_null,
+                            "outcome_description": str_or_null,
+                            "sample_size_treatment": str_or_null,
+                            "sample_size_control": str_or_null,
+                            "effect_size": str_or_null,
+                            "p_value": str_or_null,
+                            "standard_error": str_or_null,
+                            "confidence_interval_lower": str_or_null,
+                            "confidence_interval_upper": str_or_null,
+                            "literal_text": str_or_null,
+                            "text_position": str_or_null,
+                            "outcome_timepoint_label": str_or_null,
+                            "outcome_measurement_year": int_or_null,
+                            "outcome_measurement_month": int_or_null,
+                            "months_since_intervention_end": str_or_null,
+                            "timepoint_value": num_or_numarr,
+                            "timepoint_unit": {"type": ["string", "null"]},
+                            "timepoint_origin": {"type": ["string", "null"]},
+                            "months_since_intervention_end_computed": num_or_numarr,
+                            "timing_confidence": {"type": ["string", "null"]},
+                            "timing_evidence": {"type": ["string", "null"]},
+                            "outcome_timing_literal_text": {"type": ["string", "null"]},
+                            "outcome_timing_text_position": {"type": ["string", "null"]},
+                        },
                         "required": [
                             "outcome_name",
-                            "outcome_description",
-                            "effect_size",
-                            "p_value",
-                            "standard_error",
-                            "confidence_interval_lower",
-                            "confidence_interval_upper",
-                            "literal_text",
-                            "text_position",
-                            # Per-outcome timing (from qex_focused_prompt.txt)
-                            "outcome_timepoint_label",
-                            "outcome_measurement_year",
-                            "outcome_measurement_month",
-                            "months_since_intervention_end",
-                            "outcome_timing_anchor",
+                            "timepoint_origin",
+                            "timing_confidence",
+                            "timing_evidence",
+                            "timepoint_value",
+                            "timepoint_unit",
+                            "months_since_intervention_end_computed",
                         ],
-                        "properties": {
-                            "outcome_name": {"type": ["string", "null"]},
-                            "outcome_description": {"type": ["string", "null"]},
-                            "effect_size": {"type": ["number", "null"]},
-                            "p_value": {"type": ["number", "null"]},
-                            "standard_error": {"type": ["number", "null"]},
-                            "confidence_interval_lower": {"type": ["number", "null"]},
-                            "confidence_interval_upper": {"type": ["number", "null"]},
-                            "literal_text": {"type": ["string", "null"]},
-                            "text_position": {"type": ["string", "null"]},
-                            "outcome_timepoint_label": {"type": ["string", "null"]},
-                            "outcome_measurement_year": {"type": ["integer", "null"]},
-                            "outcome_measurement_month": {"type": ["integer", "null"]},
-                            "months_since_intervention_end": {"type": ["string", "number", "null"]},
-                            "outcome_timing_anchor": {
-                                "type": "object",
-                                "additionalProperties": False,
-                                "required": ["literal_text", "text_position"],
-                                "properties": {
-                                    "literal_text": {"type": ["string", "null"]},
-                                    "text_position": {"type": ["string", "null"]},
-                                },
-                            },
-                        },
                     },
                 },
-
-                "notes": {"type": ["string", "null"]},
             },
+            "required": ["outcomes"],
         }
 
-    def _build_response_format(self) -> Optional[Dict]:
-        """Return an OpenRouter/OpenAI-compatible response_format dict."""
-        if getattr(self, "mode", None) != "qex":
-            return None
-
-        use_json_schema = bool(self.config.get("extraction", {}).get("use_json_schema", True))
-        if not use_json_schema:
-            return {"type": "json_object"}
-
+    def _build_response_format(self) -> Dict[str, Any]:
+        """
+        OpenRouter response_format payload. We only apply this for QEX.
+        Some providers reject json_schema; caller will fall back.
+        """
+        schema = self._qex_json_schema()
         return {
             "type": "json_schema",
             "json_schema": {
-                "name": "om_qex_stage2_qex",
+                "name": "qex_extraction",
                 "strict": True,
-                "schema": self._qex_json_schema(),
+                "schema": schema,
             },
         }
 
-    @staticmethod
-    def _extract_first_balanced_json(text: str) -> Optional[str]:
-        """Extract the first balanced JSON object/array substring from arbitrary text."""
-        if not text:
-            return None
-        starts = [i for i in (text.find("{"), text.find("[")) if i != -1]
-        if not starts:
-            return None
-        start = min(starts)
-        opener = text[start]
-        closer = "}" if opener == "{" else "]"
+    # ----------------------------
+    # JSON sanitization / parsing
+    # ----------------------------
 
-        stack = []
+    def _strip_code_fences(self, text: str) -> str:
+        m = _JSON_FENCE_RE.search(text)
+        if m:
+            return m.group(1).strip()
+        return text.strip()
+
+    def _extract_first_json_object(self, text: str) -> str:
+        """
+        Extract the first top-level JSON object/array from mixed text.
+        This is robust to preambles like "Sure! Here's the JSON:".
+        """
+        s = text.strip()
+        # Fast path: already looks like JSON
+        if s.startswith("{") and s.endswith("}"):
+            return s
+        if s.startswith("[") and s.endswith("]"):
+            return s
+
+        # Find first '{' or '[' and parse bracket matching
+        start_idx = None
+        opener = None
+        for i, ch in enumerate(s):
+            if ch in "{[":
+                start_idx = i
+                opener = ch
+                break
+        if start_idx is None:
+            return s
+
+        closer = "}" if opener == "{" else "]"
+        depth = 0
         in_str = False
         esc = False
-
-        for i, ch in enumerate(text[start:], start=start):
+        for j in range(start_idx, len(s)):
+            ch = s[j]
             if in_str:
                 if esc:
                     esc = False
-                elif ch == "\\":  # escape
+                elif ch == "\\":
                     esc = True
                 elif ch == '"':
                     in_str = False
                 continue
+            else:
+                if ch == '"':
+                    in_str = True
+                    continue
+                if ch == opener:
+                    depth += 1
+                elif ch == closer:
+                    depth -= 1
+                    if depth == 0:
+                        return s[start_idx : j + 1].strip()
 
-            if ch == '"':
-                in_str = True
+        return s[start_idx:].strip()
+
+    def _sanitize_json_text(self, text: str) -> str:
+        """
+        Clean common non-JSON artifacts before json.loads:
+        - code fences
+        - placeholder tokens: "...existing fields remain unchanged"
+        - JS-style ellipses / trailing commas
+        - smart quotes
+        """
+        s = text or ""
+        s = self._strip_code_fences(s)
+        s = self._extract_first_json_object(s)
+
+        # Remove well-known "placeholder" fragments the model sometimes emits
+        s = re.sub(r"\.\.\.\s*existing fields remain unchanged", "", s, flags=re.IGNORECASE)
+        s = re.sub(r"\u2026\s*existing fields remain unchanged", "", s, flags=re.IGNORECASE)
+
+        # Replace smart quotes with straight quotes
+        s = s.replace("“", '"').replace("”", '"').replace("’", "'").replace("‘", "'")
+
+        # Remove trailing commas before } or ]
+        s = re.sub(r",\s*([}\]])", r"\1", s)
+
+        return s.strip()
+
+    def _escape_control_chars_in_strings(self, text: str) -> str:
+        """
+        Escape unescaped control characters inside JSON string literals
+        (e.g., raw newlines embedded in a quoted string) which cause:
+        json.JSONDecodeError: Invalid control character.
+        """
+        s = text
+        out: List[str] = []
+        in_str = False
+        esc = False
+        for ch in s:
+            if not in_str:
+                if ch == '"':
+                    in_str = True
+                    out.append(ch)
+                else:
+                    out.append(ch)
                 continue
 
-            if ch == opener:
-                stack.append(opener)
-            elif ch == closer and stack:
-                stack.pop()
-                if not stack:
-                    return text[start:i + 1]
-        return None
+            # in_str:
+            if esc:
+                out.append(ch)
+                esc = False
+                continue
 
-    def _parse_llm_json(self, content) -> Dict:
-        """Parse LLM response content into a dict, with robust fallbacks."""
-        if content is None:
-            raise ValueError("Empty response from API (content=None)")
+            if ch == "\\":
+                out.append(ch)
+                esc = True
+                continue
 
-        if isinstance(content, dict):
-            return content
+            if ch == '"':
+                out.append(ch)
+                in_str = False
+                continue
 
-        response_text = str(content).strip()
-        if not response_text:
-            raise ValueError("Empty response from API (empty string)")
-
-        # Strip markdown code fences if present
-        if "```" in response_text:
-            if "```json" in response_text:
-                json_start = response_text.find("```json") + 7
-                json_end = response_text.find("```", json_start)
-                if json_end > json_start:
-                    response_text = response_text[json_start:json_end].strip()
-            else:
-                json_start = response_text.find("```") + 3
-                json_end = response_text.find("```", json_start)
-                if json_end > json_start:
-                    response_text = response_text[json_start:json_end].strip()
-
-        # Fast path
-        try:
-            return json.loads(response_text)
-        except Exception:
-            pass
-
-        # Balanced extraction path
-        candidate = self._extract_first_balanced_json(response_text)
-        if candidate:
-            return json.loads(candidate)
-
-        # Last resort: slice from first JSON opener
-        starts = [i for i in (response_text.find("{"), response_text.find("[")) if i != -1]
-        if starts:
-            return json.loads(response_text[min(starts):])
-
-        raise json.JSONDecodeError("Could not locate JSON in response", response_text, 0)
-
-    def _call_llm(self, prompt: str, retry_count: int = 0) -> Dict:
-        """
-        Call LLM via OpenRouter API with robust error handling.
-
-        Args:
-            prompt: Complete prompt including template and paper text
-            retry_count: Current retry attempt
-
-        Returns:
-            Extracted data as dictionary
-        """
-        max_retries = self.config["extraction"]["max_retries"]
-        retry_delay = self.config["extraction"]["retry_delay"]
-
-        try:
-            logger.debug(f"Calling LLM API (attempt {retry_count + 1})...")
-
-            # --------- Build kwargs and enable JSON mode in QEX ----------
-            llm_kwargs = {
-                "model": self.config["model"]["name"],
-                "messages": [
-                    {"role": "user", "content": prompt}
-                ],
-                "temperature": self.config["model"]["temperature"],
-                "max_tokens": self.config["model"]["max_tokens"],
-                "top_p": self.config["model"]["top_p"],
-            }
-
-            response_format = self._build_response_format()
-            if response_format is not None:
-                llm_kwargs["response_format"] = response_format
-
-            # First attempt (schema/JSON mode if configured)
-            try:
-                response = self.client.chat.completions.create(**llm_kwargs)
-            except Exception as api_err:
-                # If response_format is not supported by the selected model/provider,
-                # fall back to plain json_object and retry once.
-                err_msg = str(api_err).lower()
-                if "response_format" in err_msg or "json_schema" in err_msg or "invalid" in err_msg:
-                    logger.warning(
-                        "response_format rejected by API/model; falling back to {type: json_object} for this call."
-                    )
-                    llm_kwargs["response_format"] = {"type": "json_object"}
-                    response = self.client.chat.completions.create(**llm_kwargs)
+            code = ord(ch)
+            if code < 0x20:
+                # Control char inside string: escape it
+                if ch == "\n":
+                    out.append("\\n")
+                elif ch == "\r":
+                    out.append("\\r")
+                elif ch == "\t":
+                    out.append("\\t")
                 else:
-                    raise
-
-            # ------------------------------------------------------------
-
-            logger.info("✓ API call successful, parsing response...")
-
-            # Extract + parse JSON from response (robust)
-            extracted_data = self._parse_llm_json(response.choices[0].message.content)
-            logger.info(
-                "✓ Successfully parsed JSON with "
-                f"{len(extracted_data.get('outcomes', []))} outcomes"
-            )
-
-            # Log token usage
-            if hasattr(response, "usage"):
-                try:
-                    logger.info(f"Tokens used: {response.usage.total_tokens}")
-                except Exception:
-                    logger.info("Tokens used: <usage info not available>")
-
-            return extracted_data
-
-        except KeyboardInterrupt:
-            # KeyboardInterrupt during socket read is actually a network timeout
-            logger.error("Network timeout/interruption during response reading")
-
-            if retry_count < max_retries:
-                wait_time = retry_delay * (retry_count + 1) * 2  # Longer backoff for network issues
-                logger.info(
-                    f"Network issue detected. Retrying after {wait_time}s... "
-                    f"(attempt {retry_count + 1}/{max_retries})"
-                )
-                time.sleep(wait_time)
-                return self._call_llm(prompt, retry_count + 1)
+                    out.append("\\u%04x" % code)
             else:
-                logger.error("Max retries reached after network timeouts")
-                raise Exception("Network connection unstable - max retries exceeded") from None
+                out.append(ch)
 
-        except json.JSONDecodeError as e:
-            logger.error(f"JSON parsing error: {e}")
-            bad_text = getattr(e, "doc", None) or ""
-            if bad_text:
-                logger.error(f"Bad response (first 800 chars): {bad_text[:800]}")
-                logger.error(f"Bad response (last 200 chars): {bad_text[-200:]}")
+        return "".join(out)
 
-            if retry_count < max_retries:
-                logger.info(f"Retrying with JSON repair... (attempt {retry_count + 1}/{max_retries})")
-                repair_prompt = (
-                    "You previously returned invalid or non-conforming JSON. "
-                    "Return EXACTLY ONE valid JSON object that matches the required schema. "
-                    "Do not include any explanation or extra text.\n\n"
-                    "INVALID_RESPONSE_START\n"
-                    f"{bad_text[:6000]}\n"
-                    "INVALID_RESPONSE_END"
-                )
-                time.sleep(retry_delay)
-                return self._call_llm(repair_prompt, retry_count + 1)
-            else:
+    def _json_loads_with_repairs(self, raw_text: str) -> Dict[str, Any]:
+        """
+        Attempt json.loads with increasingly aggressive repairs.
+        Raises JSONDecodeError on final failure.
+        """
+        s0 = self._sanitize_json_text(raw_text)
+
+        try:
+            return json.loads(s0)
+        except json.JSONDecodeError as e1:
+            # Invalid control characters are common; escape then retry.
+            s1 = self._escape_control_chars_in_strings(s0)
+            try:
+                return json.loads(s1)
+            except json.JSONDecodeError:
+                # As a last resort, remove any ASCII control chars outside strings too.
+                s2 = re.sub(r"[\x00-\x1f]", "", s1)
+                return json.loads(s2)
+
+    def _canonicalize_timing_fields(self, qex: Dict[str, Any]) -> Dict[str, Any]:
+        """
+        Make timing fields safe and downstream-friendly:
+        - Convert list-like timepoint_value / months_since_intervention_end_computed to a scalar
+          (heuristic: take max value, and annotate label if needed).
+        - If months_since_intervention_end_computed missing but timepoint_value+unit+origin exist,
+          compute it for origin == intervention_end.
+        """
+        outcomes = qex.get("outcomes") or []
+        if not isinstance(outcomes, list):
+            return qex
+
+        for o in outcomes:
+            if not isinstance(o, dict):
+                continue
+
+            # Convert arrays to scalar (max) to avoid object dtype downstream
+            for fld in ["timepoint_value", "months_since_intervention_end_computed"]:
+                v = o.get(fld)
+                if isinstance(v, list) and v:
+                    # pick max (conservative: longest follow-up)
+                    try:
+                        o[fld] = float(max(v))
+                        # mark label if it was multi
+                        lbl = o.get("outcome_timepoint_label")
+                        if not lbl:
+                            o["outcome_timepoint_label"] = "Multiple timepoints (max used)"
+                    except Exception:
+                        pass
+
+            # If computed months absent, compute when origin is intervention_end
+            if _to_number_or_none(o.get("months_since_intervention_end_computed")) is None:
+                origin = (o.get("timepoint_origin") or "").strip().lower()
+                if origin == "intervention_end":
+                    m = _months_from_value_unit(o.get("timepoint_value"), o.get("timepoint_unit"))
+                    if m is not None:
+                        o["months_since_intervention_end_computed"] = float(round(m, 0))
+
+        return qex
+
+    # ----------------------------
+    # LLM calling
+    # ----------------------------
+
+    def _call_llm(self, prompt: str, *, use_response_format: bool = True) -> _LLMCallResult:
+        """
+        Calls OpenRouter chat.completions. For QEX we attempt structured output first;
+        if the provider rejects response_format, we automatically fall back.
+        """
+        # Config defaults
+        ex_cfg = self.config.get("extraction") or {}
+        temperature = ex_cfg.get("temperature", 0.0)
+        max_tokens = ex_cfg.get("max_tokens", 4000)
+
+        system_msg = (
+            "You are a precise information extraction engine. "
+            "Return ONLY valid JSON. Do not include commentary, markdown, or placeholders."
+        )
+
+        messages = [
+            {"role": "system", "content": system_msg},
+            {"role": "user", "content": prompt},
+        ]
+
+        kwargs: Dict[str, Any] = {
+            "model": self.model,
+            "messages": messages,
+            "temperature": temperature,
+            "max_tokens": max_tokens,
+        }
+
+        used_rf = False
+        if self.mode == "qex" and use_response_format:
+            kwargs["response_format"] = self._build_response_format()
+            used_rf = True
+
+        last_err: Optional[str] = None
+        last_raw: str = ""
+
+        retries = int(ex_cfg.get("retries", 3))
+        backoff = float(ex_cfg.get("retry_backoff_seconds", 2.0))
+
+        for attempt in range(1, retries + 1):
+            try:
+                resp = self.client.chat.completions.create(**kwargs)
+                # OpenAI compatible: resp.choices[0].message.content
+                content = resp.choices[0].message.content
+                last_raw = content if isinstance(content, str) else json.dumps(content)
+                data = self._json_loads_with_repairs(last_raw)
+                if self.mode == "qex":
+                    data = self._canonicalize_timing_fields(data)
+                return _LLMCallResult(data=data, raw_text=last_raw, used_response_format=used_rf)
+            except KeyboardInterrupt:
                 raise
+            except Exception as e:
+                last_err = str(e)
+                # Common OpenRouter/provider error when response_format is unsupported
+                if used_rf and ("response_format" in last_err or "json_schema" in last_err or "Invalid" in last_err):
+                    logger.warning(
+                        f"Provider rejected response_format; retrying without structured outputs. Error: {last_err}"
+                    )
+                    kwargs.pop("response_format", None)
+                    used_rf = False
+                    # Immediately retry without counting against retries budget too harshly
+                    continue
 
+                logger.error(f"LLM call failed (attempt {attempt}/{retries}): {last_err}")
+                if attempt < retries:
+                    time.sleep(backoff * attempt)
+
+        # If we get here, we failed all attempts
+        raise RuntimeError(f"LLM call failed after {retries} attempts. Last error: {last_err}. Raw head: {last_raw[:500]}")
+
+    # ----------------------------
+    # Public API
+    # ----------------------------
+
+    def extract_from_tei(self, tei_file: Path, paper_metadata: Optional[Dict[str, Any]] = None) -> Optional[Dict[str, Any]]:
+        """
+        Single-stage extraction (OM or QEX) using the mode's prompt_template.
+        """
+        tei_file = Path(tei_file)
+        logger.info(f"Processing: {tei_file.name}")
+
+        try:
+            parser = TEIParser(tei_file)
+            paper_text = parser.get_full_text(include_abstract=True)
         except Exception as e:
-            logger.error(f"LLM API call failed: {type(e).__name__}: {e}")
+            logger.error(f"Failed to parse TEI file {tei_file.name}: {e}")
+            return None
 
-            # Check if it's a timeout or connection error
-            error_type = type(e).__name__
-            error_msg = str(e).lower()
-            is_retryable = any(
-                x in error_type.lower() for x in ["timeout", "connection", "http", "network"]
-            ) or any(
-                x in error_msg for x in ["timeout", "connection", "timed out", "network"]
-            )
+        prompt = self.prompt_template.replace("{paper_text}", paper_text)
 
-            if retry_count < max_retries and is_retryable:
-                wait_time = retry_delay * (retry_count + 1)  # Exponential backoff
-                logger.info(
-                    f"Retrying after {wait_time}s... "
-                    f"(attempt {retry_count + 1}/{max_retries})"
-                )
-                time.sleep(wait_time)
-                return self._call_llm(prompt, retry_count + 1)
-            else:
-                raise
+        try:
+            result = self._call_llm(prompt, use_response_format=(self.mode == "qex"))
+            extraction = result.data
+            if paper_metadata:
+                extraction.update(paper_metadata)
+            logger.info(f"✅ Successfully extracted data from {tei_file.name}")
+            return extraction
+        except Exception as e:
+            logger.error(f"Extraction failed for {tei_file.name}: {e}")
+            return None
 
-    def extract_batch(self, tei_files: List[Path], metadata_map: Optional[Dict] = None) -> List[Dict]:
+    def extract_with_om_guidance(
+        self,
+        tei_file: Path,
+        paper_metadata: Optional[Dict[str, Any]] = None,
+        om_outcomes: Optional[List[Dict[str, Any]]] = None,
+    ) -> Optional[Dict[str, Any]]:
         """
-        Extract data from multiple TEI files.
-        
-        Args:
-            tei_files: List of TEI file paths
-            metadata_map: Dict mapping Key -> metadata dict
-        
-        Returns:
-            List of extraction results
+        Two-stage QEX extraction with OM guidance. This method:
+        - loads prompts/qex_focused_prompt*.txt
+        - injects {om_guidance} and {paper_text}
+        - calls the LLM with structured outputs if supported
         """
-        results = []
-        
-        for i, tei_file in enumerate(tei_files, 1):
-            logger.info(f"\n{'='*60}")
-            logger.info(f"Paper {i}/{len(tei_files)}: {tei_file.name}")
-            logger.info(f"{'='*60}")
-            
-            # Get metadata for this paper
-            key = tei_file.stem  # Filename without extension
-            metadata = metadata_map.get(key) if metadata_map else None
-            
-            # Extract
-            result = self.extract_from_tei(tei_file, metadata)
-            
-            if result:
-                result['_key'] = key  # Add key for tracking
-                result['_tei_file'] = str(tei_file)
-                results.append(result)
-            else:
-                logger.warning(f"⚠️  Skipping {tei_file.name} due to extraction failure")
-            
-            # Small delay to avoid rate limits
-            time.sleep(0.5)
-        
-        logger.info(f"\n{'='*60}")
-        logger.info(f"Extraction complete: {len(results)}/{len(tei_files)} successful")
-        logger.info(f"{'='*60}")
-        
+        tei_file = Path(tei_file)
+        logger.info(f"Processing with OM guidance: {tei_file.name}")
+
+        # Parse TEI file
+        try:
+            parser = TEIParser(tei_file)
+            paper_text = parser.get_full_text(include_abstract=True)
+        except Exception as e:
+            logger.error(f"Failed to parse TEI file {tei_file.name}: {e}")
+            return None
+
+        # Build OM guidance string
+        guidance_lines: List[str] = []
+        om_outcomes = om_outcomes or []
+        guidance_lines.append("OM GUIDANCE (Outcome Mapping Results):")
+        guidance_lines.append("Use the guidance below to focus extraction on the listed outcomes.")
+        guidance_lines.append("For each outcome below, extract full statistical details and outcome-specific timing.")
+        guidance_lines.append("")
+        for i, outcome in enumerate(om_outcomes, 1):
+            if not isinstance(outcome, dict):
+                continue
+            guidance_lines.append(f"{i}. {outcome.get('outcome_category', outcome.get('outcome_name', 'Unknown'))}")
+            guidance_lines.append(f"   Location: {outcome.get('location', 'Not specified')}")
+            lit = outcome.get("literal_text")
+            if lit:
+                guidance_lines.append(f"   Text: {lit}")
+            # optional timing hints from OM
+            for k in ["timepoint_label", "outcome_timepoint_label"]:
+                if outcome.get(k):
+                    guidance_lines.append(f"   Timepoint: {outcome.get(k)}")
+                    break
+            for k in ["timepoint_months_since_intervention_end", "months_since_intervention_end"]:
+                if outcome.get(k):
+                    guidance_lines.append(f"   Months since intervention end: {outcome.get(k)}")
+                    break
+            guidance_lines.append("")
+
+        om_guidance = "\n".join(guidance_lines).strip()
+
+        # Create focused prompt
+        try:
+            focused_template = self._load_qex_focused_prompt()
+        except Exception as e:
+            logger.error(f"Could not load qex focused prompt: {e}")
+            return None
+
+        prompt = focused_template.replace("{paper_text}", paper_text).replace("{om_guidance}", om_guidance)
+
+        # Call LLM
+        try:
+            logger.info(f"Created focused prompt with OM guidance ({len(om_outcomes)} outcomes)")
+            logger.info("Calling LLM with focused prompt...")
+            result = self._call_llm(prompt, use_response_format=True)
+            extraction = result.data
+            if paper_metadata:
+                extraction.update(paper_metadata)
+            logger.info(f"✅ Successfully extracted QEX data from {tei_file.name}")
+            return extraction
+        except Exception as e:
+            logger.error(f"QEX extraction failed for {tei_file.name}: {e}")
+            return None
+
+    def extract_batch(
+        self,
+        tei_files: List[Path],
+        metadata_map: Optional[Dict[str, Dict[str, Any]]] = None,
+        output_dir: Optional[Path] = None,
+    ) -> List[Dict[str, Any]]:
+        """
+        Batch extraction helper used by run scripts.
+        """
+        results: List[Dict[str, Any]] = []
+        success = 0
+
+        for tei_file in tei_files:
+            tei_file = Path(tei_file)
+            key = tei_file.name.replace(".tei.xml", "")
+
+            md = metadata_map.get(key) if metadata_map else None
+            data = self.extract_from_tei(tei_file, md)
+            if data:
+                results.append(data)
+                success += 1
+
+        logger.info("\n============================================================")
+        logger.info(f"Extraction complete: {success}/{len(tei_files)} successful")
+        logger.info("============================================================")
         return results
-    
-    def save_results(self, results: List[Dict], output_dir: Path):
+    def save_results(self, results, output_dir: Path):
         """
-        Save extraction results as JSON and CSV.
-        
-        Args:
-            results: List of extraction dictionaries
-            output_dir: Directory to save outputs
+        Backward-compatible instance method expected by run_twostage_extraction.py.
+
+        Writes:
+        - output_dir/json/<key>.json  (one file per paper)
+        - output_dir/extracted_data.csv (flattened rows, one per outcome/estimate)
         """
-        import pandas as pd
-        
+        import json
+        from pathlib import Path
+
         output_dir = Path(output_dir)
         output_dir.mkdir(parents=True, exist_ok=True)
-        
-        # Save individual JSON files (with nested outcomes)
+
+        # 1) Write per-paper JSONs
         json_dir = output_dir / "json"
-        json_dir.mkdir(exist_ok=True)
-        
-        for result in results:
-            key = result.get('_key', 'unknown')
-            json_file = json_dir / f"{key}.json"
-            
-            with open(json_file, 'w', encoding='utf-8') as f:
-                json.dump(result, f, indent=2, ensure_ascii=False)
-        
-        logger.info(f"✅ Saved {len(results)} JSON files to {json_dir}")
-        
-        # Flatten outcomes for CSV - create one row per outcome
-        flattened_rows = []
-        
-        for result in results:
-            outcomes = result.get('outcomes', [])
-            
-            if self.mode == "om":
-                # OM mode: simpler structure
-                for outcome in outcomes:
-                    row = {
-                        '_key': result.get('_key'),
-                        'study_id': result.get('study_id'),
-                        'outcome_group': outcome.get('outcome_group'),
-                        'outcome_category': outcome.get('outcome_category'),
-                        'location': outcome.get('location'),
-                        'literal_text': outcome.get('literal_text'),
-                        'text_position': outcome.get('text_position')
-                    }
-                    flattened_rows.append(row)
-            else:
-                # QEX mode: full extraction with graduation components
-                base_fields = {
-                    '_key': result.get('_key'),
-                    '_tei_file': result.get('_tei_file'),
-                    'study_id': result.get('study_id'),
-                    'author_name': result.get('author_name'),
-                    'year_of_publication': result.get('year_of_publication'),
-                    'program_name': result.get('program_name'),
-                    'country': result.get('country'),
-                    'year_intervention_started': result.get('year_intervention_started'),
-                    'evaluation_design': result.get('evaluation_design'),
-                    # NEW: intervention description + timing
-                     "intervention_description": result.get("intervention_description"),
-                      "exposure_to_intervention": result.get("exposure_to_intervention"),
-                      "length_of_follow_up": result.get("length_of_follow_up"),
-                      "intervention_start_year": result.get("intervention_start_year"),
-                      "intervention_start_month": result.get("intervention_start_month"),
-                      "intervention_end_year": result.get("intervention_end_year"),
-                      "intervention_end_month": result.get("intervention_end_month"),
-                      "final_followup_year": result.get("final_followup_year"),
-                      "final_followup_month": result.get("final_followup_month"),
+        json_dir.mkdir(parents=True, exist_ok=True)
 
-                     # NEW: coded evaluation fields
-                     "evaluation_design_code": result.get("evaluation_design_code"),
-                      "evaluation_method": result.get("evaluation_method"),
-                     "evaluation_method_code": result.get("evaluation_method_code"),
+        for i, r in enumerate(results or []):
+            key = r.get("_key") or r.get("key") or f"result_{i:04d}"
+            out_path = json_dir / f"{key}.json"
+            with open(out_path, "w", encoding="utf-8") as f:
+                json.dump(r, f, ensure_ascii=False, indent=2, default=str)
 
-                    'sample_size_treatment': result.get('sample_size_treatment'),
-                    'sample_size_control': result.get('sample_size_control')
-                }
-                
-                # Flatten graduation components
-                if 'graduation_components' in result:
-                    for comp, value in result['graduation_components'].items():
-                        base_fields[f'component_{comp}'] = value
-                
-                if outcomes and isinstance(outcomes, list):
-                    # Create one row per outcome
-                    for outcome in outcomes:
-                        row = base_fields.copy()
-                        row.update({
-                            'outcome_name': outcome.get('outcome_name'),
-                            'outcome_description': outcome.get('outcome_description'),
-                            'effect_size': outcome.get('effect_size'),
-                            'p_value': outcome.get('p_value'),
-                            'standard_error': outcome.get('standard_error'),
-                            'confidence_interval_lower': outcome.get('confidence_interval_lower'),
-                            'confidence_interval_upper': outcome.get('confidence_interval_upper'),
-                            'literal_text': outcome.get('literal_text'),
-                            'text_position': outcome.get('text_position'),
+        # 2) Write flattened CSV using the module-level save_results() helper
+        # IMPORTANT: this calls the *module-level* function named save_results,
+        # not this method (Python resolves this name in module globals).
+        csv_path = output_dir / "extracted_data.csv"
+        save_results(results, csv_path)
 
-                            # Per-outcome timing overrides (optional but schema-recommended)
-                            'outcome_timepoint_label': outcome.get('outcome_timepoint_label'),
-                            'outcome_measurement_year': outcome.get('outcome_measurement_year'),
-                            'outcome_measurement_month': outcome.get('outcome_measurement_month'),
-                            'outcome_months_since_intervention_end': outcome.get('months_since_intervention_end'),
-                            'outcome_timing_anchor_literal_text': (outcome.get('outcome_timing_anchor') or {}).get('literal_text'),
-                            'outcome_timing_anchor_text_position': (outcome.get('outcome_timing_anchor') or {}).get('text_position'),
-                        })
-                        flattened_rows.append(row)
-                else:
-                    # No outcomes - create one row with base fields only
-                    row = base_fields.copy()
-                    row.update({
-                        'outcome_name': None,
-                        'outcome_description': None,
-                        'effect_size': None,
-                        'p_value': None,
-                        'literal_text': None,
-                        'text_position': None
-                    })
-                    flattened_rows.append(row)
-        
-        # Save consolidated CSV
-        csv_file = output_dir / "extracted_data.csv"
-        df = pd.DataFrame(flattened_rows)
-        df.to_csv(csv_file, index=False, encoding='utf-8')
-        
-        logger.info(f"✅ Saved consolidated CSV to {csv_file} ({len(flattened_rows)} outcome rows)")
-        
-        # Save summary
-        summary_file = output_dir / "extraction_summary.txt"
-        with open(summary_file, 'w', encoding='utf-8') as f:
-            f.write(f"Extraction Summary\n")
-            f.write(f"{'='*60}\n\n")
-            f.write(f"Total papers processed: {len(results)}\n")
-            f.write(f"Total outcome rows: {len(flattened_rows)}\n")
-            f.write(f"Average outcomes per paper: {len(flattened_rows) / len(results):.1f}\n\n")
-            f.write(f"Output directory: {output_dir}\n")
-            f.write(f"JSON files: {json_dir}\n")
-            f.write(f"CSV file: {csv_file}\n\n")
-            
-            f.write(f"Field Completeness:\n")
-            f.write(f"{'-'*60}\n")
-            
-            # Calculate completeness for each field
-            for col in df.columns:
-                if col.startswith('_'):
-                    continue  # Skip internal fields
-                non_null = df[col].notna().sum()
-                total = len(df)
-                pct = (non_null / total * 100) if total > 0 else 0
-                f.write(f"{col}: {non_null}/{total} ({pct:.1f}%)\n")
-        
-        logger.info(f"✅ Saved summary to {summary_file}")
+# ----------------------------
+# Metadata loading / output
+# ----------------------------
 
-
-def load_metadata_from_master(master_file: Path) -> Dict:
+def load_metadata_from_master(master_csv: Path) -> Dict[str, Dict[str, Any]]:
     """
-    Load metadata from master CSV file.
-    
-    Returns:
-        Dictionary mapping key -> metadata dict
+    Load metadata from the master CSV into a dict keyed by TEI key (no extension).
+    The master file schema can vary; we look for common columns.
     """
     import pandas as pd
-    
-    df = pd.read_csv(master_file)
-    
-    metadata_map = {}
-    
+
+    master_csv = Path(master_csv)
+    df = pd.read_csv(master_csv, dtype=str, encoding_errors="replace")
+
+    # Candidate columns (robust to different naming conventions)
+    col_key = None
+    for c in df.columns:
+        if c.strip().lower() in {"key", "_key", "tei_key", "paper_key"}:
+            col_key = c
+            break
+    if col_key is None:
+        # fallback: if there's an xml filename column
+        for c in df.columns:
+            if "tei" in c.lower() and "xml" in c.lower():
+                col_key = c
+                break
+    if col_key is None:
+        raise ValueError("Could not find a key column in master CSV (expected 'Key' or similar).")
+
+    def pick(*names: str) -> Optional[str]:
+        for n in names:
+            if n in df.columns:
+                return n
+        return None
+
+    col_study_id = pick("paper_id", "StudyID", "study_id", "studyid")
+    col_author = pick("Author", "author", "author_name")
+    col_year = pick("Publication Year", "year", "Year", "pub_year")
+    col_country = pick("Country", "country")
+
+    metadata_map: Dict[str, Dict[str, Any]] = {}
     for _, row in df.iterrows():
-        key = row.get('key')
-        if pd.notna(key):
-            metadata_map[key] = {
-                'study_id': str(row.get('ID', '')),
-                'author_name': row.get('ShortTitle', ''),
-                'year_of_publication': int(row.get('Year', 0)) if pd.notna(row.get('Year')) else None,
-                'country': row.get('Country', '')
-            }
-    
+        k = str(row[col_key]).strip()
+        if not k or k.lower() in {"nan", "none"}:
+            continue
+        k = k.replace(".tei", "").replace(".tei.xml", "")
+
+        md: Dict[str, Any] = {}
+        if col_study_id and str(row.get(col_study_id, "")).strip():
+            md["study_id"] = str(row.get(col_study_id)).strip()
+        if col_author and str(row.get(col_author, "")).strip():
+            md["author_name"] = str(row.get(col_author)).strip()
+        if col_year and str(row.get(col_year, "")).strip():
+            md["year_of_publication"] = str(row.get(col_year)).strip()
+        if col_country and str(row.get(col_country, "")).strip():
+            md["country"] = str(row.get(col_country)).strip()
+
+        metadata_map[k] = md
+
     return metadata_map
 
 
-if __name__ == "__main__":
-    # Quick test
-    config_path = Path(__file__).parent.parent / "config" / "config.yaml"
-    engine = ExtractionEngine(config_path)
-    
-    # Test on one file
-    tei_dir = Path(__file__).parent.parent.parent / "data" / "grobid_outputs" / "tei"
-    tei_files = list(tei_dir.glob("*.tei.xml"))[:1]  # Just first file
-    
-    if tei_files:
-        print(f"\n🧪 Testing extraction on: {tei_files[0].name}\n")
-        result = engine.extract_from_tei(tei_files[0])
-        
-        if result:
-            print("\n✅ Extraction successful!")
-            print(json.dumps(result, indent=2))
+def save_results(results: List[Dict[str, Any]], output_file: Path) -> None:
+    """
+    Flatten results (including outcome rows) to CSV.
+    This mirrors the existing repo behavior: one row per outcome/estimate when possible.
+    """
+    import pandas as pd
+
+    rows: List[Dict[str, Any]] = []
+    for r in results:
+        if not isinstance(r, dict):
+            continue
+
+        base = {k: v for k, v in r.items() if k != "outcomes"}
+        outcomes = r.get("outcomes") or []
+        if isinstance(outcomes, list) and outcomes:
+            for o in outcomes:
+                if isinstance(o, dict):
+                    row = dict(base)
+                    row.update(o)
+                    rows.append(row)
         else:
-            print("\n❌ Extraction failed")
-    else:
-        print("No TEI files found for testing")
+            rows.append(base)
+
+    df = pd.DataFrame(rows)
+
+    # Optional: coerce key columns
+    if "_key" not in df.columns and "Key" in df.columns:
+        df["_key"] = df["Key"]
+
+    output_file = Path(output_file)
+    output_file.parent.mkdir(parents=True, exist_ok=True)
+    df.to_csv(output_file, index=False)
+    logger.info(f"Saved {len(df)} rows to: {output_file}")

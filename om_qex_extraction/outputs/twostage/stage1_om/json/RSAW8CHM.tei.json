@@ -3,80 +3,101 @@
   "outcomes": [
     {
       "outcome_group": "Expenditure/Consumption",
-      "outcome_category": "Daily household consumption per adult equivalent (USD)",
-      "location": "Page 25; Table 1; Primary Outcomes; Column: Gross consumption (daily, USD/adult eq.)",
+      "outcome_category": "Gross daily consumption per adult equivalent (USD)",
+      "location": "Page 25; Table 1; Primary Outcomes; Column 1",
       "literal_text": "Statistically significant treatment effects on household consumption for all three packages at both follow-ups",
-      "text_position": "Table 1, Column 1",
-      "timepoint_label": "Follow-up 1 and 2",
-      "timepoint_months": "6 and 18",
-      "timepoint_literal_text": "six and 18 months post-intervention",
-      "timepoint_text_position": "Page 25, Results section, first paragraph"
+      "text_position": "Table 1, Column 1"
     },
     {
       "outcome_group": "Food Security",
       "outcome_category": "Household food security index (inverse FIES, 12-month recall)",
-      "location": "Page 25; Table 1; Primary Outcomes; Column: Food security (raw sum)",
-      "literal_text": "Household food security improves by 0.21-0.66, a 6%-20% change relative to control",
-      "text_position": "Table 1, Column 2",
-      "timepoint_label": "Follow-up 1 and 2",
-      "timepoint_months": "6 and 18",
-      "timepoint_literal_text": "six and 18 months post-intervention",
-      "timepoint_text_position": "Page 25, Results section, first paragraph"
+      "location": "Page 25; Table 1; Primary Outcomes; Column 2",
+      "literal_text": "Improves by 0.21-0.66, a 6%-20% change relative to control",
+      "text_position": "Table 1, Column 2"
     },
     {
       "outcome_group": "Food Security",
-      "outcome_category": "Women's dietary diversity score (Food Consumption Score)",
-      "location": "Page 25; Table 1; Primary Outcomes; Column: Food consumption score",
-      "literal_text": "Dietary diversity improves by 2.71-6.01 points over 7 days, a 10%-22% improvement relative to control",
-      "text_position": "Table 1, Column 3",
-      "timepoint_label": "Follow-up 1 and 2",
-      "timepoint_months": "6 and 18",
-      "timepoint_literal_text": "six and 18 months post-intervention",
-      "timepoint_text_position": "Page 25, Results section, first paragraph"
+      "outcome_category": "Dietary diversity score (Food Consumption Score)",
+      "location": "Page 25; Table 1; Primary Outcomes; Column 3",
+      "literal_text": "Improves by 2.71-6.01 points over 7 days (10%-22% improvement relative to control)",
+      "text_position": "Table 1, Column 3"
     },
     {
       "outcome_group": "Work/Employment",
-      "outcome_category": "Business revenue from women's off-farm self-employment (monthly USD)",
-      "location": "Page 26; Table 2; Beneficiary Revenues; Column: Business revenue (monthly, USD)",
-      "literal_text": "Business revenues increase by $17-$36 per eligible woman per month, a 76%-160% increase relative to control",
-      "text_position": "Table 2, Column 1",
-      "timepoint_label": "Follow-up 1 and 2",
-      "timepoint_months": "6 and 18",
-      "timepoint_literal_text": "In the 1st follow-up... Results from the 2nd follow-up reveal similar patterns",
-      "timepoint_text_position": "Page 26, Results section"
+      "outcome_category": "Business revenues from off-farm self-employment (monthly USD)",
+      "location": "Page 26; Table 2; Beneficiary Revenues; Column 1",
+      "literal_text": "Business revenues increase by $17-$36 per eligible woman per month, 76%-160% increase relative to control",
+      "text_position": "Table 2, Column 1"
     },
     {
       "outcome_group": "Work/Employment",
-      "outcome_category": "Agricultural harvest value for women (yearly USD)",
-      "location": "Page 26; Table 2; Beneficiary Revenues; Column: Harvest value (yearly, USD)",
-      "literal_text": "Substantial impacts on eligible women's revenues from agriculture in the 2nd follow-up for psychosocial and full packages",
-      "text_position": "Table 2, Column 2",
-      "timepoint_label": "Follow-up 2",
-      "timepoint_months": "18",
-      "timepoint_literal_text": "in the 2nd follow-up",
-      "timepoint_text_position": "Page 26, Results section"
+      "outcome_category": "Agricultural harvest value (yearly USD)",
+      "location": "Page 26; Table 2; Beneficiary Revenues; Column 2",
+      "literal_text": "Substantial impacts on agricultural revenues in 2nd follow-up for psychosocial and full packages",
+      "text_position": "Table 2, Column 2"
     },
     {
       "outcome_group": "Work/Employment",
-      "outcome_category": "Wage earnings for women (yearly USD)",
-      "location": "Page 26; Table 2; Beneficiary Revenues; Column: Wage earnings (yearly, USD)",
-      "literal_text": "Statistically significant treatment effects found for full package in 2nd follow-up",
-      "text_position": "Table 2, Column 3",
-      "timepoint_label": "Follow-up 2",
-      "timepoint_months": "18",
-      "timepoint_literal_text": "In the 2nd follow-up",
-      "timepoint_text_position": "Page 26, Results section"
+      "outcome_category": "Wage earnings (yearly USD)",
+      "location": "Page 26; Table 2; Beneficiary Revenues; Column 3",
+      "literal_text": "Limited treatment effects, statistically significant only for full package in 2nd follow-up",
+      "text_position": "Table 2, Column 3"
     },
     {
       "outcome_group": "Work/Employment",
-      "outcome_category": "Livestock revenue for women (yearly USD)",
-      "location": "Page 26; Table 2; Beneficiary Revenues; Column: Livestock revenue (yearly, USD)",
-      "literal_text": "Impacts on eligible women's livestock revenues statistically significant in 1st follow-up for psychosocial package, in 2nd follow-up for capital and full packages",
-      "text_position": "Table 2, Column 4",
-      "timepoint_label": "Follow-up 1 and 2",
-      "timepoint_months": "6 and 18",
-      "timepoint_literal_text": "1st follow-up... 2nd follow-up",
-      "timepoint_text_position": "Page 26, Results section"
+      "outcome_category": "Livestock revenues (yearly USD)",
+      "location": "Page 26; Table 2; Beneficiary Revenues; Column 4",
+      "literal_text": "Statistically significant in 1st follow-up for psychosocial package, in 2nd follow-up for capital and full packages",
+      "text_position": "Table 2, Column 4"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Days spent in off-farm business (monthly)",
+      "location": "Page 26; Table 3; Beneficiary Labor Participation; Column 1",
+      "literal_text": "Time worked by eligible women in household businesses increases by 2.2-3.7 days per month in 2nd follow-up",
+      "text_position": "Table 3, Column 1"
+    },
+    {
+      "outcome_group": "Income",
+      "outcome_category": "Number of household income sources",
+      "location": "Page 27; Table 4; Income Diversification; Column 1",
+      "literal_text": "Number of income sources increases by 0.34-0.49 in 1st follow-up and 0.19-0.38 in 2nd follow-up",
+      "text_position": "Table 4, Column 1"
+    },
+    {
+      "outcome_group": "Assets",
+      "outcome_category": "Livestock count (Tropical Livestock Units)",
+      "location": "Page 29; Table 7; Livestock; Column 1",
+      "literal_text": "Livestock count increases by 0.31 units (psychosocial), 0.52 units (capital), 0.80 units (full package) in 2nd follow-up",
+      "text_position": "Table 7, Column 1"
+    },
+    {
+      "outcome_group": "Financial Inclusion",
+      "outcome_category": "Participation in savings groups (tontine/AVEC)",
+      "location": "Page 30; Table 9; Financial Engagement; Column 1",
+      "literal_text": "Increases in participation in savings groups, with 31% increase in capital arm, 27% in psychosocial, 33% in full package at 18 months",
+      "text_position": "Table 9, Column 1"
+    },
+    {
+      "outcome_group": "Psychological Well-being",
+      "outcome_category": "Mental health index",
+      "location": "Page 32; Table 10; Psychological Well-Being Indices; Column 1",
+      "literal_text": "Mental health impacts grow from 0.1 to 0.21 standard deviation between 1st and 2nd follow-up for psychosocial package",
+      "text_position": "Table 10, Column 1"
+    },
+    {
+      "outcome_group": "Social Capital/Empowerment",
+      "outcome_category": "Collective action index",
+      "location": "Page 33; Table 11; Social Well-Being Indices; Column 5",
+      "literal_text": "Collective action index significantly increases for all packages with impacts sustained over time",
+      "text_position": "Table 11, Column 5"
+    },
+    {
+      "outcome_group": "Work/Employment",
+      "outcome_category": "Control over earnings and productive agency index",
+      "location": "Page 34; Table 12; Decision-Making and Productive Agency Indices; Column 1",
+      "literal_text": "Positive and significant impact on beneficiary's control over earnings and productive agency for all three packages",
+      "text_position": "Table 12, Column 1"
     }
   ],
   "_key": "RSAW8CHM.tei",

@@ -13,6 +13,99 @@ For EACH outcome identified by OM (listed in the OM GUIDANCE section below), ext
 
 CRITICAL OUTPUT RULES (READ CAREFULLY)
 
+========================
+TIMING RULES (REQUIRED)
+========================
+For EACH outcome/estimate row, you MUST populate the timing fields below. Do not guess.
+
+1) Identify the timepoint reported for that outcome and decompose it:
+   - timepoint_value: numeric value (e.g., 12)
+   - timepoint_unit: one of {days, weeks, months, years}
+   - timepoint_origin: one of {baseline, randomization, enrollment, intervention_start, intervention_end, unknown}
+   - outcome_timepoint_label: short human label from the paper (e.g., "endline", "12-month follow-up", "Wave 3")
+   - timing_evidence: a short evidence snippet (<= 250 characters) supporting the timepoint.
+
+2) You MUST compute months_since_intervention_end_computed for that outcome:
+   - Convert timepoint_value/timepoint_unit into months.
+   - If timepoint_origin == intervention_end: months_since_intervention_end_computed = converted months.
+   - If timepoint_origin is baseline/randomization/enrollment/intervention_start:
+       Convert to months since intervention end by subtracting the intervention duration (in months) when you can infer it from intervention start/end anchors or explicit text.
+       If you cannot infer intervention duration, set months_since_intervention_end_computed = null and timing_confidence = low.
+   - If timepoint_origin == unknown: months_since_intervention_end_computed = null and timing_confidence = low.
+
+3) Confidence:
+   - timing_confidence = high only if the unit AND origin are explicit and the computed months are clearly supported by text/anchors.
+   - timing_confidence = medium if unit/origin required minor inference but is still well-supported.
+   - timing_confidence = low if missing/ambiguous (and months_since_intervention_end_computed should usually be null).
+
+4) Backward-compatibility:
+   - If the paper explicitly reports "months since intervention end", you may also populate months_since_intervention_end (legacy string field),
+     but months_since_intervention_end_computed is still required as the canonical numeric field.
+
+-----------------------------
+TIMING OUTPUT REQUIRED FOR EVERY OUTCOME
+-----------------------------
+For EVERY outcome/estimate, you must output timing fields. You are not allowed to omit them.
+
+If timing is not reported OR cannot be tied to the estimate, you MUST still output:
+- timepoint_origin = "unknown"
+- timing_confidence = "low"
+- timing_evidence = "Timing not reported or not attributable to this estimate."
+- timepoint_value = null
+- timepoint_unit = null
+- months_since_intervention_end_computed = null
+
+If you output outcome_timepoint_label OR any timing evidence, you MUST output non-null values for:
+- timepoint_value
+- timepoint_unit
+- timepoint_origin (not "unknown" unless truly ambiguous)
+- timing_confidence
+- months_since_intervention_end_computed
+
+-----------------------------
+TIMING COMPLETENESS CONSTRAINT
+-----------------------------
+If you output ANY of the following for an outcome:
+  - outcome_timepoint_label
+  - outcome_timing_literal_text
+  - timing_evidence
+then you MUST also output ALL of the following (no nulls):
+  - timepoint_value
+  - timepoint_unit
+  - timepoint_origin
+  - timing_confidence
+
+Additionally:
+  - months_since_intervention_end_computed MUST be a number (not null) unless timepoint_origin == "unknown".
+  - If the paper lists multiple timepoints, you MUST choose the timepoint that matches the estimate you extracted for this outcome.
+  - If the estimate is not clearly tied to a specific wave/timepoint, set:
+      timepoint_origin="unknown", months_since_intervention_end_computed=null, timing_confidence="low",
+    and explain the ambiguity in timing_evidence (<=250 chars).
+  - If timepoint_origin is not intervention_end and you cannot compute intervention duration from start/end anchors, you MUST set months_since_intervention_end_computed to null and timing_confidence to low.
+  - timing_confidence cannot be high unless timepoint_origin == intervention_end
+  - Do NOT use the label "Multiple timepoints" as a reason to leave fields blank.
+
+Never output ellipses (e.g., ...). Never output placeholder phrases like “existing fields remain unchanged”. You must output the full JSON object.
+
+-----------------------------
+TIMING NULL POLICY (STRICT)
+-----------------------------
+You may ONLY output null for timepoint_value / timepoint_unit / months_since_intervention_end_computed if:
+  - timepoint_origin = "unknown"
+  - timing_confidence = "low"
+  - timing_evidence explicitly explains why the estimate cannot be tied to a specific wave/origin.
+
+Otherwise, if outcome_timepoint_label OR outcome_timing_literal_text OR timing_evidence is present for an outcome,
+you MUST output non-null values for:
+  - timepoint_value
+  - timepoint_unit
+  - timepoint_origin
+  - timing_confidence
+  - months_since_intervention_end_computed
+Do NOT use “multiple timepoints” as a reason to leave these fields blank.
+
+
+
 Output MUST be exactly ONE valid JSON object.
 
 Do NOT include any text before or after the JSON.
@@ -273,6 +366,14 @@ text_position should be specific (section name, page, table, appendix, figure, e
 
 If final_followup is derived from outcome timing, anchor it to the snippet that indicates the latest measurement wave/timepoint.
 
+Hard prohibition:
+
+“Do not use ... or placeholder text.”
+
+“Do not write comments.”
+
+“Return a complete JSON object with all required properties for every outcome.”
+
 OM GUIDANCE
 {om_guidance}
 
@@ -281,36 +382,3 @@ PAPER TEXT TO EXTRACT
 
 YOUR EXTRACTION
 Return exactly ONE JSON object matching the schema above.
-
-
-TIMING POLICY (critical)
-
-Goal: Populate study-level timing anchors AND per-outcome timing when outcomes are measured in different waves.
-
-1) Study-level anchors (populate BOTH the numeric fields and timing_anchors evidence)
-   - intervention_start_year/month and timing_anchors.intervention_start should reflect when implementation began (baseline/start of rollout), not when the study was published.
-   - intervention_end_year/month and timing_anchors.intervention_end should reflect when implementation ended (end of exposure). If only a duration is given, leave calendar fields null but still fill exposure_to_intervention (months).
-   - final_followup_year/month and timing_anchors.final_followup should reflect the latest measurement wave in the paper (endline/follow-up), even if not all outcomes are measured there.
-
-2) Derived durations (ALWAYS try to fill these, even if calendar anchors are partially missing)
-   - exposure_to_intervention: numeric string months (e.g., "6", "24"). Prefer:
-       (a) explicit duration stated ("program lasted 18 months") OR
-       (b) months_between(intervention_start, intervention_end) when both anchors are present.
-   - length_of_follow_up: numeric string months. Prefer:
-       (a) explicit follow-up statement ("measured 12 months after program ended") OR
-       (b) months_between(intervention_end, final_followup) when both anchors are present OR
-       (c) MAX(months_since_intervention_end across all outcomes[]), when per-outcome waves differ.
-
-3) Per-outcome timing overrides (outcomes[])
-   - outcome_timepoint_label: e.g., "endline", "6 months post", "Round 3", "Wave 2".
-   - outcome_measurement_year/month: populate if explicitly stated in tables/figures/text; otherwise null.
-   - months_since_intervention_end: numeric string months since the intervention ended for THAT outcome/timepoint. If the paper provides only months since baseline, convert if you can infer intervention_end relative to baseline; otherwise leave null.
-   - outcome_timing_anchor: exact quote + text_position showing the wave/timepoint information for that outcome.
-
-4) Evidence requirement
-   - For any non-null anchor/duration/timepoint, include a supporting literal_text and text_position in timing_anchors or outcome_timing_anchor. If you cannot find evidence, leave the value null.
-
-5) Consistency checks (do these before finalizing JSON)
-   - length_of_follow_up should not be less than the maximum months_since_intervention_end across outcomes (if provided).
-   - If intervention_end is missing but final_followup is present, still try to extract length_of_follow_up from explicit text; otherwise leave null.
-

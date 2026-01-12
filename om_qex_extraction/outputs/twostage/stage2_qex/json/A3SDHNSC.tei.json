@@ -1,150 +1,51 @@
 {
-  "study_id": null,
-  "program_name": "Challenging the Frontiers of Poverty Reduction - Targeting the Ultra Poor (CFPR-TUP)",
-  "country": "Bangladesh",
-  "year_intervention_started": 2002,
-  "evaluation_design": "Quasi-experimental",
-  "evaluation_design_code": "5",
-  "evaluation_method": "Difference-in-Differences (DID) with Propensity Score Matching",
-  "evaluation_method_code": "5;8",
-  "intervention_description": "One-off transfer of livestock assets worth 10,000 taka to ultra-poor women, with additional components like health worker visits, technical advice, and weekly stipend",
-  "intervention_start_year": 2002,
-  "intervention_start_month": 6,
-  "intervention_end_year": null,
-  "intervention_end_month": null,
-  "final_followup_year": 2011,
-  "final_followup_month": null,
-  "timing_anchors": {
-    "intervention_start": {
-      "literal_text": "baseline survey was carried out during June-August, 2002",
-      "text_position": "Data and empirical methods section"
-    },
-    "intervention_end": null,
-    "final_followup": {
-      "literal_text": "fourth round survey, conducted in 2011, traced 4038 households",
-      "text_position": "Data and empirical methods section"
-    }
-  },
-  "exposure_to_intervention": null,
-  "length_of_follow_up": "108",
-  "sample_size_treatment": 2098,
-  "sample_size_control": 1940,
-  "graduation_components": {
-    "consumption_support": "Yes",
-    "healthcare": "Yes",
-    "assets": "Yes",
-    "skills_training": "Yes",
-    "savings": "Yes",
-    "coaching": "Yes",
-    "social_empowerment": "Not mentioned"
-  },
-  "graduation_components_rationale": {
-    "consumption_support": "Weekly stipend of 70 taka to stabilize consumption",
-    "healthcare": "Monthly visits by health workers",
-    "assets": "Transfer of livestock assets worth 10,000 taka",
-    "skills_training": "Orientation training on enterprise and technical advice",
-    "savings": "Encouraged to save in TUP fund immediately after joining",
-    "coaching": "Weekly follow-up sessions to provide technical advice",
-    "social_empowerment": null
-  },
   "outcomes": [
     {
       "outcome_name": "Natural and physical asset index",
-      "outcome_description": "Composite index of household assets",
-      "effect_size": null,
-      "p_value": null,
-      "standard_error": null,
-      "confidence_interval_lower": null,
-      "confidence_interval_upper": null,
-      "literal_text": "Natural and physical asset index changes across survey rounds",
-      "text_position": "Table A3",
-      "outcome_timepoint_label": "Longitudinal tracking",
-      "outcome_measurement_year": 2011,
-      "outcome_measurement_month": null,
-      "months_since_intervention_end": null,
-      "outcome_timing_anchor": {
-        "literal_text": "Natural and physical asset index changes across survey rounds",
-        "text_position": "Table A3"
-      }
+      "timepoint_origin": "randomization",
+      "timing_confidence": "high",
+      "timing_evidence": "Baseline survey in 2002, final follow-up in 2011 tracking original cohort",
+      "timepoint_value": 108,
+      "timepoint_unit": "months",
+      "months_since_intervention_end_computed": 96
     },
     {
-      "outcome_name": "Female farm self-employment",
-      "outcome_description": "Percentage of working-age females in farm self-employment",
-      "effect_size": 2.6,
-      "p_value": 0.1,
-      "standard_error": null,
-      "confidence_interval_lower": null,
-      "confidence_interval_upper": null,
-      "literal_text": "Farm-self employment: 39.2% (treatment) vs 36.7% (control), Diff = 2.6*",
-      "text_position": "Table A3",
-      "outcome_timepoint_label": "Long-term follow-up",
-      "outcome_measurement_year": 2011,
-      "outcome_measurement_month": null,
-      "months_since_intervention_end": null,
-      "outcome_timing_anchor": {
-        "literal_text": "Long-term follow-up",
-        "text_position": "Table A3"
-      }
+      "outcome_name": "Female primary occupation (farm self-employment)",
+      "timepoint_origin": "randomization",
+      "timing_confidence": "high",
+      "timing_evidence": "Baseline survey in 2002, final follow-up in 2011 tracking original cohort",
+      "timepoint_value": 108,
+      "timepoint_unit": "months",
+      "months_since_intervention_end_computed": 96
+    },
+    {
+      "outcome_name": "Female primary occupation (day labor)",
+      "timepoint_origin": "randomization",
+      "timing_confidence": "high",
+      "timing_evidence": "Baseline survey in 2002, final follow-up in 2011 tracking original cohort",
+      "timepoint_value": 108,
+      "timepoint_unit": "months",
+      "months_since_intervention_end_computed": 96
     },
     {
       "outcome_name": "Cash savings percentage",
-      "outcome_description": "Percentage of respondents with cash savings",
-      "effect_size": 50.55,
-      "p_value": 0.01,
-      "standard_error": null,
-      "confidence_interval_lower": null,
-      "confidence_interval_upper": null,
-      "literal_text": "Cash savings: 98.28% (treatment) vs 47.73% (control), Diff = 50.55***",
-      "text_position": "Table A3",
-      "outcome_timepoint_label": "Long-term follow-up",
-      "outcome_measurement_year": 2011,
-      "outcome_measurement_month": null,
-      "months_since_intervention_end": null,
-      "outcome_timing_anchor": {
-        "literal_text": "Long-term follow-up",
-        "text_position": "Table A3"
-      }
+      "timepoint_origin": "randomization",
+      "timing_confidence": "high",
+      "timing_evidence": "Baseline survey in 2002, final follow-up in 2011 tracking original cohort",
+      "timepoint_value": 108,
+      "timepoint_unit": "months",
+      "months_since_intervention_end_computed": 96
     },
     {
-      "outcome_name": "Outstanding loans percentage",
-      "outcome_description": "Percentage of households with outstanding loans",
-      "effect_size": 0.7,
-      "p_value": null,
-      "standard_error": null,
-      "confidence_interval_lower": null,
-      "confidence_interval_upper": null,
-      "literal_text": "Outstanding loans: 35.03% (treatment) vs 34.33% (control), Diff = 0.70",
-      "text_position": "Table A3",
-      "outcome_timepoint_label": "Long-term follow-up",
-      "outcome_measurement_year": 2011,
-      "outcome_measurement_month": null,
-      "months_since_intervention_end": null,
-      "outcome_timing_anchor": {
-        "literal_text": "Long-term follow-up",
-        "text_position": "Table A3"
-      }
-    },
-    {
-      "outcome_name": "Female household chores participation",
-      "outcome_description": "Percentage of working-age females in household chores",
-      "effect_size": -5.4,
-      "p_value": 0.01,
-      "standard_error": null,
-      "confidence_interval_lower": null,
-      "confidence_interval_upper": null,
-      "literal_text": "Household chores: 35.1% (treatment) vs 40.5% (control), Diff = -5.4***",
-      "text_position": "Table A3",
-      "outcome_timepoint_label": "Long-term follow-up",
-      "outcome_measurement_year": 2011,
-      "outcome_measurement_month": null,
-      "months_since_intervention_end": null,
-      "outcome_timing_anchor": {
-        "literal_text": "Long-term follow-up",
-        "text_position": "Table A3"
-      }
+      "outcome_name": "Outstanding loan percentage",
+      "timepoint_origin": "randomization",
+      "timing_confidence": "high",
+      "timing_evidence": "Baseline survey in 2002, final follow-up in 2011 tracking original cohort",
+      "timepoint_value": 108,
+      "timepoint_unit": "months",
+      "months_since_intervention_end_computed": 96
     }
   ],
-  "notes": "Long-term impact study of BRAC's ultra-poor graduation program in Bangladesh, showing sustained impacts on some outcomes but declining effects over time",
   "_key": "A3SDHNSC.tei",
   "_tei_file": "/Users/joshuapolanin/Documents/OM_QEX/data/grobid_outputs/tei/A3SDHNSC.tei.xml",
   "_om_outcome_count": 5

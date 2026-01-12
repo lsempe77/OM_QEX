@@ -1,93 +1,54 @@
 {
-  "study_id": "AuthorYear2024",
+  "study_id": "121294984",
   "outcomes": [
     {
       "outcome_group": "Poverty",
-      "outcome_category": "Ultra-poverty probability",
-      "location": "Page 25; Table 4; Poverty impacts",
-      "literal_text": "Ultra-poverty reduced by 50 to 70% in first year",
-      "text_position": "Table 4, Row 'Ultra-poverty', Column 'Treatment Effect'",
-      "timepoint_label": "12m follow-up",
-      "timepoint_months": "12",
-      "timepoint_literal_text": "one year after the start of the intervention, ultra-poverty was reduced by 50 to 70%",
-      "timepoint_text_position": "Page 25, Results section, Paragraph 1"
-    },
-    {
-      "outcome_group": "Food Security",
-      "outcome_category": "Severe food insecurity (percentage points)",
-      "location": "Page 25; Results section on food security",
-      "literal_text": "Severe food insecurity decreased by 5 to 8 percentage points across all treatment groups",
-      "text_position": "Page 25, Paragraph 2",
-      "timepoint_label": "2-year follow-up",
-      "timepoint_months": "24",
-      "timepoint_literal_text": "In the 2-year follow-up survey, severe food insecurity decreased",
-      "timepoint_text_position": "Page 25, Paragraph 2"
-    },
-    {
-      "outcome_group": "Nutrition",
-      "outcome_category": "Dietary diversity score (standard deviation)",
-      "location": "Page 25; Results section on nutrition",
-      "literal_text": "Women in T3 exhibit significantly better dietary diversity (+0.31 SD)",
-      "text_position": "Page 25, Paragraph 2",
-      "timepoint_label": "1-year follow-up",
-      "timepoint_months": "12",
-      "timepoint_literal_text": "in the 1-year follow-up survey",
-      "timepoint_text_position": "Page 25, Paragraph 2"
-    },
-    {
-      "outcome_group": "Health",
-      "outcome_category": "Severe wasting (percentage points)",
-      "location": "Page 25; Table 5; Anthropometric measures",
-      "literal_text": "Severe wasting is down by -1.2 percentage points from a control average of 2.6% (46% decline)",
-      "text_position": "Page 25, Paragraph 3",
-      "timepoint_label": "1-year follow-up",
-      "timepoint_months": "12",
-      "timepoint_literal_text": "In the 1-year follow-up survey, T3 exhibits strong effects on all anthropometric measures",
-      "timepoint_text_position": "Page 25, Paragraph 3"
-    },
-    {
-      "outcome_group": "Health",
-      "outcome_category": "Severe stunting (percentage points)",
-      "location": "Page 25; Table 5; Anthropometric measures",
-      "literal_text": "Severe stunting is down by 3.3 percentage points from an average of 12.8% (26% decline)",
-      "text_position": "Page 25, Paragraph 3",
-      "timepoint_label": "1-year follow-up",
-      "timepoint_months": "12",
-      "timepoint_literal_text": "In the 1-year follow-up survey, T3 exhibits strong effects on all anthropometric measures",
-      "timepoint_text_position": "Page 25, Paragraph 3"
+      "outcome_category": "Probability of being ultra-poor",
+      "location": "Page 25; Table 4; Poverty impacts across survey rounds",
+      "literal_text": "Ultra-poverty reduced by 50 to 70% in first year, gradually diminishing over time",
+      "text_position": "Table 4, Column 'Ultra-poverty probability'"
     },
     {
       "outcome_group": "Assets",
       "outcome_category": "Agricultural equipment index",
-      "location": "Page 26; Results section on wealth indexes",
-      "literal_text": "Significant impact on the agriculture index mainly stems from tool purchases",
-      "text_position": "Page 26, Paragraph 2",
-      "timepoint_label": "2-year follow-up",
-      "timepoint_months": "24",
-      "timepoint_literal_text": "persist significantly in T3 during the 3-year follow-up survey",
-      "timepoint_text_position": "Page 26, Paragraph 2"
+      "location": "Page 26; Table 5; Wealth indexes and asset accumulation",
+      "literal_text": "Significant impact on agriculture index mainly from tool purchases",
+      "text_position": "Table 5, Column 'Agricultural equipment index'"
+    },
+    {
+      "outcome_group": "Food Security",
+      "outcome_category": "Severe food insecurity (percentage points)",
+      "location": "Page 28; Results section on nutrition",
+      "literal_text": "Severe food insecurity decreased by 5 to 8 percentage points across treatment groups",
+      "text_position": "Page 28, Paragraph 2"
+    },
+    {
+      "outcome_group": "Nutrition",
+      "outcome_category": "Dietary diversity score",
+      "location": "Page 28; Table on nutrition outcomes",
+      "literal_text": "Increased dietary diversity, with significant differences in 1-year and 3-year follow-up surveys",
+      "text_position": "Nutrition results table"
+    },
+    {
+      "outcome_group": "Health",
+      "outcome_category": "Child anthropometric measures",
+      "location": "Page 29; Table 5; Anthropometric outcomes",
+      "literal_text": "Severe stunting down by 3.3 percentage points (26% decline) in T3 group",
+      "text_position": "Table 5, Stunting row"
+    },
+    {
+      "outcome_group": "Education",
+      "outcome_category": "Aspired years of education",
+      "location": "Page 26; Table 3; Aspiration results",
+      "literal_text": "T3 households aspire to 1.4 more years of education for children",
+      "text_position": "Table 3, Education aspiration row"
     },
     {
       "outcome_group": "Work/Employment",
       "outcome_category": "Agricultural revenue",
-      "location": "Page 26; Table OB.4",
-      "literal_text": "Increases in the number of cultivated crops, fertilizer plots, and agricultural revenue in the one-year follow-up",
-      "text_position": "Page 26, Paragraph 3",
-      "timepoint_label": "1-year follow-up",
-      "timepoint_months": "12",
-      "timepoint_literal_text": "in the one-year follow-up",
-      "timepoint_text_position": "Page 26, Paragraph 3"
-    },
-    {
-      "outcome_group": "Aspirations",
-      "outcome_category": "Education years aspired",
-      "location": "Page 26; Table 3; Aspiration results",
-      "literal_text": "T3 households hope to acquire 1.4 more years of education for their children",
-      "text_position": "Page 26, Paragraph 5",
-      "timepoint_label": "2-year follow-up",
-      "timepoint_months": "24",
-      "timepoint_literal_text": "After two years, treatment households assessed their current status as more favorable",
-      "timepoint_text_position": "Page 26, Paragraph 5"
+      "location": "Page 26; Online Appendix Table OB.4",
+      "literal_text": "Increases in number of cultivated crops, fertilizer plots, and agricultural revenue in one-year follow-up",
+      "text_position": "Online Appendix Table OB.4"
     }
   ],
   "_key": "VAUQIN7W.tei",
